@@ -61,6 +61,7 @@ Interested in early access, collaboration, or feedback?
 
 - Tianyi Chen – <tianyi.chen@servicenow.com>  
 - Miguel Muñoz – <miguel.munoz@servicenow.com>  
-- Amirhossein Abaskohi – <amirhossein.abaskohi@servicenow.com>  
+- Amirhossein Abaskohi – <amirhossein.abaskohi@servicenow.com>
+- Curtis Fox - <curtis.fox@servicenow.com>
 - Alex Drioun – <alexandre.drouin@servicenow.com>  
 - Issam Laradji – <issam.laradji@servicenow.com>
