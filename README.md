@@ -56,3 +56,11 @@ Interested in early access, collaboration, or feedback?
 - Join our Discord Channel [https://discord.gg/9rQ6HgBbkd]
 
 ---
+
+## 🤝 Core Contributers
+
+- Tianyi Chen – <tianyi.chen@servicenow.com>  
+- Miguel Muñoz – <miguel.munoz@servicenow.com>  
+- Amirhossein Abaskohi – <amirhossein.abaskohi@servicenow.com>  
+- Alex Drioun – <alexandre.drouin@servicenow.com>  
+- Issam Laradji – <issam.laradji@servicenow.com>
