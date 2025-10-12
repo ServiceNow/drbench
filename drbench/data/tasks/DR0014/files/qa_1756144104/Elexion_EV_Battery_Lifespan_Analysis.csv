@@ -1,0 +1,9 @@
+Data_Year,Battery_Lifespan_Years,AI_Enhanced_Management,Data_Collection_Quarter,Region
+"The year the data was collected, providing a timeline for analysis.","Average lifespan of EV batteries in years, reflecting the durability and effectiveness of the batteries.","Indicates whether AI-enhanced battery management was used during data collection, relevant for assessing technological impact.","The quarter in which the data was collected (e.g., Q1, Q2, Q3, Q4), providing more granular time reference.","The geographical region where the data was collected, important for regional compliance and market analysis."
+2022,7,False,Q3,Asia
+2020,6.5,False,Q1,North America
+2025,8.2,False,Q2,Australia
+2025,8.5,True,Q3,Global
+2023,7.2,True,Q4,South America
+2024,7.5,True,Q1,Africa
+2021,6.8,True,Q2,Europe

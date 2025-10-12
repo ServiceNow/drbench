@@ -1,0 +1,12 @@
+Quarter,Completion_Rate,Year,Industry_Average,Compliance_Standard
+"The fiscal quarter in which the compliance training completion rate is recorded (e.g., Q2 2025).",The percentage of employees who completed the compliance training within the specified quarter.,The year in which the compliance training completion data is applicable.,The average compliance training completion rate in the virtual/remote healthcare industry for the specified quarter.,"The specific compliance standard or certification that the training pertains to (e.g., ISO 27001)."
+Q1 2025,82.00%,2025,74.00%,ISO 27001
+Q4 2024,79.00%,2024,73.00%,ISO 27001
+Q2 2023,78.00%,2023,69.00%,ISO 27001
+Q3 2023,74.00%,2023,67.00%,ISO 27001
+Q2 2025,88.00%,2025,75.00%,ISO 27001
+Q1 2023,75.00%,2023,66.00%,ISO 27001
+Q3 2024,81.00%,2024,72.00%,ISO 27001
+Q1 2024,80.00%,2024,71.00%,ISO 27001
+Q4 2023,76.00%,2023,68.00%,ISO 27001
+Q2 2024,77.00%,2024,70.00%,ISO 27001

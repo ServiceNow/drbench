@@ -1,0 +1,11 @@
+Period,Sales Channel,Growth Rate,Sales Amount,Previous Period Sales
+"The time period for which online sales growth is being measured (e.g., Q2 2024 vs Q2 2023).","The channel through which online sales are being made (e.g., website, mobile app, delivery service).",The percentage change in online sales for the given period compared to the previous period.,The total amount of online sales for the given period.,The total amount of online sales for the previous period.
+Q4 2022 vs Q4 2021,Lee's Market Delivery Service,5,60000,57142.86
+Q1 2024 vs Q1 2023,Lee's Market Website,8,120000,111111.11
+Q4 2023 vs Q4 2022,Lee's Market Mobile App,10,100000,90909.09
+Q2 2024 vs Q2 2023,Lee's Market Website,12,150000,133928.57
+Q1 2023 vs Q1 2022,Lee's Market Mobile App,7,70000,65420.99
+Q3 2022 vs Q3 2021,Lee's Market Website,4,50000,48076.92
+Q2 2022 vs Q2 2021,Lee's Market Mobile App,3,40000,38809.52
+Q3 2023 vs Q3 2022,Lee's Market Delivery Service,6,80000,75472
+Q2 2023 vs Q2 2022,Lee's Market Website,9,90000,82644.35

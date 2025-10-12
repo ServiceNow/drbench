@@ -1,0 +1,255 @@
+{
+    "file_name": "roundcube_email_20250818_135753",
+    "content": "{\"type\": \"user\", \"username\": \"david.thompson\", \"first_name\": \"David\", \"last_name\": \"Thompson\", \"email\": \"david.thompson@leesmarket.com\", \"password\": \"dthompson_pwd\"}\n{\"type\": \"user\", \"username\": \"emily.lee\", \"first_name\": \"Emily\", \"last_name\": \"Lee\", \"email\": \"emily.lee@leesmarket.com\", \"password\": \"elee_pwd\"}\n{\"type\": \"user\", \"username\": \"james.kim\", \"first_name\": \"James\", \"last_name\": \"Kim\", \"email\": \"james.kim@leesmarket.com\", \"password\": \"jkim_pwd\"}\n{\"type\": \"user\", \"username\": \"sarah.taylor\", \"first_name\": \"Sarah\", \"last_name\": \"Taylor\", \"email\": \"sarah.taylor@leesmarket.com\", \"password\": \"staylor_pwd\"}\n{\"type\": \"user\", \"username\": \"kevin.white\", \"first_name\": \"Kevin\", \"last_name\": \"White\", \"email\": \"kevin.white@leesmarket.com\", \"password\": \"kwhite_pwd\"}\n{\"type\": \"user\", \"username\": \"lisa.nguyen\", \"first_name\": \"Lisa\", \"last_name\": \"Nguyen\", \"email\": \"lisa.nguyen@leesmarket.com\", \"password\": \"lnguyen_pwd\"}\n{\"type\": \"user\", \"username\": \"peter.chen\", \"first_name\": \"Peter\", \"last_name\": \"Chen\", \"email\": \"peter.chen@leesmarket.com\", \"password\": \"pchen_pwd\"}\n{\"type\": \"user\", \"username\": \"amy.tran\", \"first_name\": \"Amy\", \"last_name\": \"Tran\", \"email\": \"amy.tran@leesmarket.com\", \"password\": \"atran_pwd\"}\n{\"type\": \"user\", \"username\": \"brian.hall\", \"first_name\": \"Brian\", \"last_name\": \"Hall\", \"email\": \"brian.hall@leesmarket.com\", \"password\": \"bhall_pwd\"}\n{\"type\": \"email\", \"id\": \"email_001\", \"subject\": \"Q2 Budget Review Meeting\", \"from\": \"david.thompson@leesmarket.com\", \"from_name\": \"David Thompson\", \"to\": [\"emily.lee@leesmarket.com\", \"james.kim@leesmarket.com\"], \"cc\": [\"sarah.taylor@leesmarket.com\"], \"date\": \"2023-06-15 14:00:00\", \"body\": \"Hello Emily and James,\\n\\nI am writing to remind you that our Q2 budget review meeting is scheduled for next Wednesday at 2 PM. We will be discussing our current financial performance and making adjustments for the remainder of the year.\\n\\nPlease review the attached budget report and come prepared with any questions or concerns.\\n\\nBest regards,\\nDavid Thompson\", \"folder\": \"inbox\", \"read\": true, \"attachments\": [\"budget_report_q2.pdf\"]}\n{\"type\": \"email\", \"id\": \"email_002\", \"subject\": \"Update on Store Remodeling Project\", \"from\": \"emily.lee@leesmarket.com\", \"from_name\": \"Emily Lee\", \"to\": [\"david.thompson@leesmarket.com\", \"kevin.white@leesmarket.com\"], \"cc\": [\"lisa.nguyen@leesmarket.com\"], \"date\": \"2023-06-20 10:00:00\", \"body\": \"Hi David and Kevin,\\n\\nI wanted to provide a quick update on the store remodeling project. The construction team is making good progress, and we are on track to meet our deadline. However, we did encounter some unexpected issues with the electrical system, which may require additional funding.\\n\\nI will keep you updated on the project's progress and let you know if there are any changes to the budget or timeline.\\n\\nBest regards,\\nEmily Lee\", \"folder\": \"inbox\", \"read\": true, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_003\", \"subject\": \"New Employee Onboarding Process\", \"from\": \"sarah.taylor@leesmarket.com\", \"from_name\": \"Sarah Taylor\", \"to\": [\"david.thompson@leesmarket.com\", \"amy.tran@leesmarket.com\"], \"cc\": [\"peter.chen@leesmarket.com\"], \"date\": \"2023-06-22 12:00:00\", \"body\": \"Hi David and Amy,\\n\\nI am writing to inform you that we will be implementing a new employee onboarding process starting next month. The new process will include additional training modules and a more comprehensive orientation program.\\n\\nI will be sending out a detailed guide on the new process soon. In the meantime, please let me know if you have any questions or concerns.\\n\\nBest regards,\\nSarah Taylor\", \"folder\": \"inbox\", \"read\": true, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_004\", \"subject\": \"Industry Conference Invitation\", \"from\": \"brian.hall@leesmarket.com\", \"from_name\": \"Brian Hall\", \"to\": [\"david.thompson@leesmarket.com\", \"emily.lee@leesmarket.com\"], \"cc\": [\"james.kim@leesmarket.com\"], \"date\": \"2023-06-25 16:00:00\", \"body\": \"Hi David and Emily,\\n\\nI am writing to invite you to the upcoming industry conference on retail innovation. The conference will feature keynote speakers from top retailers and provide a great opportunity for networking.\\n\\nPlease let me know if you are interested in attending, and I will send over the registration details.\\n\\nBest regards,\\nBrian Hall\", \"folder\": \"inbox\", \"read\": true, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_001\", \"subject\": \"Q3 2023 Customer Shopping Habits Analysis\", \"from\": \"emily.lee@leesmarket.com\", \"from_name\": \"Emily Lee\", \"to\": [\"david.thompson@leesmarket.com\"], \"cc\": [], \"date\": \"2023-10-25 10:00:00\", \"body\": \"Hi David,\\n\\nI've completed the analysis of our customer shopping habits for Q3 2023. As we discussed earlier, understanding our customers' online shopping behavior is crucial in identifying opportunities to enhance their experience.\\n\\nOur data shows that 45% of our customers have used online shopping services in Q3 2023, which is a 10% increase from Q3 2022. This growth indicates a significant shift towards online shopping, and we should consider leveraging chatbots to provide better support and improve the overall customer experience.\\n\\nI've attached the full report for your review. Let me know if you have any questions or if you'd like to discuss further.\\n\\nBest,\\nEmily\", \"folder\": \"inbox\", \"read\": true, \"attachments\": [\"Q3_2023_Customer_Shopping_Habits_Report.pdf\"]}\n{\"type\": \"email\", \"id\": \"email_002\", \"subject\": \"Re: Q3 2023 Customer Shopping Habits Analysis\", \"from\": \"david.thompson@leesmarket.com\", \"from_name\": \"David Thompson\", \"to\": [\"emily.lee@leesmarket.com\"], \"cc\": [], \"date\": \"2023-10-25 11:00:00\", \"body\": \"Hi Emily,\\n\\nThanks for sharing the analysis. The growth in online shopping is indeed significant, and I agree that we should explore the use of chatbots to enhance the customer experience.\\n\\nCan you provide more information on the types of chatbots we could implement and how they would integrate with our existing systems?\\n\\nThanks,\\nDavid\", \"folder\": \"sent\", \"read\": true, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_003\", \"subject\": \"Re: Q3 2023 Customer Shopping Habits Analysis\", \"from\": \"emily.lee@leesmarket.com\", \"from_name\": \"Emily Lee\", \"to\": [\"david.thompson@leesmarket.com\"], \"cc\": [], \"date\": \"2023-10-25 12:00:00\", \"body\": \"Hi David,\\n\\nWe could consider implementing chatbots that provide order tracking, product recommendations, and customer support. I've researched a few options, and it seems that integrating chatbots with our existing CRM and e-commerce platforms is feasible.\\n\\nI'll schedule a meeting with the IT team to discuss further. Would you like to join the meeting?\\n\\nBest,\\nEmily\", \"folder\": \"inbox\", \"read\": true, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_004\", \"subject\": \"Meeting Invitation: Chatbot Integration Discussion\", \"from\": \"emily.lee@leesmarket.com\", \"from_name\": \"Emily Lee\", \"to\": [\"david.thompson@leesmarket.com\", \"james.kim@leesmarket.com\"], \"cc\": [], \"date\": \"2023-10-25 13:00:00\", \"body\": \"Hi David and James,\\n\\nI've scheduled a meeting to discuss the integration of chatbots with our existing systems. The meeting will be held on Friday at 2 PM.\\n\\nPlease let me know if you can attend.\\n\\nBest,\\nEmily\", \"folder\": \"inbox\", \"read\": true, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_005\", \"subject\": \"Re: Meeting Invitation: Chatbot Integration Discussion\", \"from\": \"david.thompson@leesmarket.com\", \"from_name\": \"David Thompson\", \"to\": [\"emily.lee@leesmarket.com\"], \"cc\": [], \"date\": \"2023-10-25 14:00:00\", \"body\": \"Hi Emily,\\n\\nI've confirmed my attendance for the meeting on Friday. Looking forward to discussing the chatbot integration.\\n\\nThanks,\\nDavid\", \"folder\": \"sent\", \"read\": true, \"attachments\": []}",
+    "email_setup": [
+        {
+            "type": "user",
+            "username": "david.thompson",
+            "first_name": "David",
+            "last_name": "Thompson",
+            "email": "david.thompson@leesmarket.com",
+            "password": "dthompson_pwd"
+        },
+        {
+            "type": "user",
+            "username": "emily.lee",
+            "first_name": "Emily",
+            "last_name": "Lee",
+            "email": "emily.lee@leesmarket.com",
+            "password": "elee_pwd"
+        },
+        {
+            "type": "user",
+            "username": "james.kim",
+            "first_name": "James",
+            "last_name": "Kim",
+            "email": "james.kim@leesmarket.com",
+            "password": "jkim_pwd"
+        },
+        {
+            "type": "user",
+            "username": "sarah.taylor",
+            "first_name": "Sarah",
+            "last_name": "Taylor",
+            "email": "sarah.taylor@leesmarket.com",
+            "password": "staylor_pwd"
+        },
+        {
+            "type": "user",
+            "username": "kevin.white",
+            "first_name": "Kevin",
+            "last_name": "White",
+            "email": "kevin.white@leesmarket.com",
+            "password": "kwhite_pwd"
+        },
+        {
+            "type": "user",
+            "username": "lisa.nguyen",
+            "first_name": "Lisa",
+            "last_name": "Nguyen",
+            "email": "lisa.nguyen@leesmarket.com",
+            "password": "lnguyen_pwd"
+        },
+        {
+            "type": "user",
+            "username": "peter.chen",
+            "first_name": "Peter",
+            "last_name": "Chen",
+            "email": "peter.chen@leesmarket.com",
+            "password": "pchen_pwd"
+        },
+        {
+            "type": "user",
+            "username": "amy.tran",
+            "first_name": "Amy",
+            "last_name": "Tran",
+            "email": "amy.tran@leesmarket.com",
+            "password": "atran_pwd"
+        },
+        {
+            "type": "user",
+            "username": "brian.hall",
+            "first_name": "Brian",
+            "last_name": "Hall",
+            "email": "brian.hall@leesmarket.com",
+            "password": "bhall_pwd"
+        }
+    ],
+    "email_messages": [
+        {
+            "type": "email",
+            "id": "email_001",
+            "subject": "Q2 Budget Review Meeting",
+            "from": "david.thompson@leesmarket.com",
+            "from_name": "David Thompson",
+            "to": [
+                "emily.lee@leesmarket.com",
+                "james.kim@leesmarket.com"
+            ],
+            "cc": [
+                "sarah.taylor@leesmarket.com"
+            ],
+            "date": "2023-06-15 14:00:00",
+            "body": "Hello Emily and James,\n\nI am writing to remind you that our Q2 budget review meeting is scheduled for next Wednesday at 2 PM. We will be discussing our current financial performance and making adjustments for the remainder of the year.\n\nPlease review the attached budget report and come prepared with any questions or concerns.\n\nBest regards,\nDavid Thompson",
+            "folder": "inbox",
+            "read": true,
+            "attachments": [
+                "budget_report_q2.pdf"
+            ],
+            "tag": "distractor"
+        },
+        {
+            "type": "email",
+            "id": "email_002",
+            "subject": "Update on Store Remodeling Project",
+            "from": "emily.lee@leesmarket.com",
+            "from_name": "Emily Lee",
+            "to": [
+                "david.thompson@leesmarket.com",
+                "kevin.white@leesmarket.com"
+            ],
+            "cc": [
+                "lisa.nguyen@leesmarket.com"
+            ],
+            "date": "2023-06-20 10:00:00",
+            "body": "Hi David and Kevin,\n\nI wanted to provide a quick update on the store remodeling project. The construction team is making good progress, and we are on track to meet our deadline. However, we did encounter some unexpected issues with the electrical system, which may require additional funding.\n\nI will keep you updated on the project's progress and let you know if there are any changes to the budget or timeline.\n\nBest regards,\nEmily Lee",
+            "folder": "inbox",
+            "read": true,
+            "attachments": [],
+            "tag": "distractor"
+        },
+        {
+            "type": "email",
+            "id": "email_003",
+            "subject": "New Employee Onboarding Process",
+            "from": "sarah.taylor@leesmarket.com",
+            "from_name": "Sarah Taylor",
+            "to": [
+                "david.thompson@leesmarket.com",
+                "amy.tran@leesmarket.com"
+            ],
+            "cc": [
+                "peter.chen@leesmarket.com"
+            ],
+            "date": "2023-06-22 12:00:00",
+            "body": "Hi David and Amy,\n\nI am writing to inform you that we will be implementing a new employee onboarding process starting next month. The new process will include additional training modules and a more comprehensive orientation program.\n\nI will be sending out a detailed guide on the new process soon. In the meantime, please let me know if you have any questions or concerns.\n\nBest regards,\nSarah Taylor",
+            "folder": "inbox",
+            "read": true,
+            "attachments": [],
+            "tag": "distractor"
+        },
+        {
+            "type": "email",
+            "id": "email_004",
+            "subject": "Industry Conference Invitation",
+            "from": "brian.hall@leesmarket.com",
+            "from_name": "Brian Hall",
+            "to": [
+                "david.thompson@leesmarket.com",
+                "emily.lee@leesmarket.com"
+            ],
+            "cc": [
+                "james.kim@leesmarket.com"
+            ],
+            "date": "2023-06-25 16:00:00",
+            "body": "Hi David and Emily,\n\nI am writing to invite you to the upcoming industry conference on retail innovation. The conference will feature keynote speakers from top retailers and provide a great opportunity for networking.\n\nPlease let me know if you are interested in attending, and I will send over the registration details.\n\nBest regards,\nBrian Hall",
+            "folder": "inbox",
+            "read": true,
+            "attachments": [],
+            "tag": "distractor"
+        },
+        {
+            "type": "email",
+            "id": "email_001",
+            "subject": "Q3 2023 Customer Shopping Habits Analysis",
+            "from": "emily.lee@leesmarket.com",
+            "from_name": "Emily Lee",
+            "to": [
+                "david.thompson@leesmarket.com"
+            ],
+            "cc": [],
+            "date": "2023-10-25 10:00:00",
+            "body": "Hi David,\n\nI've completed the analysis of our customer shopping habits for Q3 2023. As we discussed earlier, understanding our customers' online shopping behavior is crucial in identifying opportunities to enhance their experience.\n\nOur data shows that 45% of our customers have used online shopping services in Q3 2023, which is a 10% increase from Q3 2022. This growth indicates a significant shift towards online shopping, and we should consider leveraging chatbots to provide better support and improve the overall customer experience.\n\nI've attached the full report for your review. Let me know if you have any questions or if you'd like to discuss further.\n\nBest,\nEmily",
+            "folder": "inbox",
+            "read": true,
+            "attachments": [
+                "Q3_2023_Customer_Shopping_Habits_Report.pdf"
+            ],
+            "tag": "insight"
+        },
+        {
+            "type": "email",
+            "id": "email_002",
+            "subject": "Re: Q3 2023 Customer Shopping Habits Analysis",
+            "from": "david.thompson@leesmarket.com",
+            "from_name": "David Thompson",
+            "to": [
+                "emily.lee@leesmarket.com"
+            ],
+            "cc": [],
+            "date": "2023-10-25 11:00:00",
+            "body": "Hi Emily,\n\nThanks for sharing the analysis. The growth in online shopping is indeed significant, and I agree that we should explore the use of chatbots to enhance the customer experience.\n\nCan you provide more information on the types of chatbots we could implement and how they would integrate with our existing systems?\n\nThanks,\nDavid",
+            "folder": "sent",
+            "read": true,
+            "attachments": [],
+            "tag": "insight"
+        },
+        {
+            "type": "email",
+            "id": "email_003",
+            "subject": "Re: Q3 2023 Customer Shopping Habits Analysis",
+            "from": "emily.lee@leesmarket.com",
+            "from_name": "Emily Lee",
+            "to": [
+                "david.thompson@leesmarket.com"
+            ],
+            "cc": [],
+            "date": "2023-10-25 12:00:00",
+            "body": "Hi David,\n\nWe could consider implementing chatbots that provide order tracking, product recommendations, and customer support. I've researched a few options, and it seems that integrating chatbots with our existing CRM and e-commerce platforms is feasible.\n\nI'll schedule a meeting with the IT team to discuss further. Would you like to join the meeting?\n\nBest,\nEmily",
+            "folder": "inbox",
+            "read": true,
+            "attachments": [],
+            "tag": "insight"
+        },
+        {
+            "type": "email",
+            "id": "email_004",
+            "subject": "Meeting Invitation: Chatbot Integration Discussion",
+            "from": "emily.lee@leesmarket.com",
+            "from_name": "Emily Lee",
+            "to": [
+                "david.thompson@leesmarket.com",
+                "james.kim@leesmarket.com"
+            ],
+            "cc": [],
+            "date": "2023-10-25 13:00:00",
+            "body": "Hi David and James,\n\nI've scheduled a meeting to discuss the integration of chatbots with our existing systems. The meeting will be held on Friday at 2 PM.\n\nPlease let me know if you can attend.\n\nBest,\nEmily",
+            "folder": "inbox",
+            "read": true,
+            "attachments": [],
+            "tag": "insight"
+        },
+        {
+            "type": "email",
+            "id": "email_005",
+            "subject": "Re: Meeting Invitation: Chatbot Integration Discussion",
+            "from": "david.thompson@leesmarket.com",
+            "from_name": "David Thompson",
+            "to": [
+                "emily.lee@leesmarket.com"
+            ],
+            "cc": [],
+            "date": "2023-10-25 14:00:00",
+            "body": "Hi Emily,\n\nI've confirmed my attendance for the meeting on Friday. Looking forward to discussing the chatbot integration.\n\nThanks,\nDavid",
+            "folder": "sent",
+            "read": true,
+            "attachments": [],
+            "tag": "insight"
+        }
+    ],
+    "file_format": "jsonl",
+    "file_path": ".llm_responses/generated_email_document.jsonl",
+    "qa_type": "insight",
+    "timestamp": "2025-08-18 10:57",
+    "app": "roundcube"
+}

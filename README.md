@@ -1,12 +1,113 @@
-## `DRBench` – The Benchmark for Enterprise Deep Research Agents
-### 🚀 Coming Soon 
-> ⭐ _**Star & Watch this repo to be notified about the release**_
-![drbench_banner.png](drbench_banner.png)
+# DrBench Enterprise Research Benchmark
 
+
+![drbench_banner.png](docs/drbench_banner.png)
+
+
+
+[![Read the Paper](https://img.shields.io/badge/Paper-arXiv-8512DA)](https://arxiv.org/abs/2510.00172) [![Join our Discord](https://img.shields.io/badge/Discord-Join%20the%20Community-7289DA?logo=discord)](https://discord.gg/9rQ6HgBbkd)
 
 **`DRBench`** is the first of its kind benchmark designed to evaluate deep research agents on complex, open-ended **enterprise deep research tasks**.
 
-It tests an agent’s ability to conduct **multi-hop, insight-driven research** across public and private data sources—just like a real enterprise analyst.
+It tests an agent’s ability to conduct **multi-hop, insight-driven research** across public and private data sources,just like a real enterprise analyst.
+
+
+
+
+## Data Overview
+
+Explore the DR Questions: [DR Questions CSV](drbench/data/summary/dr_questions.csv)
+
+Discover the Facts for each DR Question: [Facts Directory](drbench/data/summary/facts/)
+
+## Quick Start 
+
+### Install Requirements
+
+```bash
+uv pip install -e .
+```
+
+### (1) Quick Run (Without Docker) 
+
+```
+python minimal_local.py 
+```
+
+This loads task SANITY0, generates a basic report and saves the results under `results/minimal_local`
+
+### (2) Quick Run (With Docker) 
+
+
+### Install Docker (https://www.docker.com/get-started/)
+```
+cd services
+make local-build
+```
+this takes around 30 minutes and only has to be done once
+
+### Run agent on Docker Environment
+
+```
+python minimal.py 
+```
+
+This loads task DR0001, generates a basic report and saves the results under `results/minimal`
+
+
+
+
+### (3) Test Your Own Agent
+
+Build and evaluate your own research agent in just 4 steps!
+
+#### (a) Load a Task
+
+First, pick a task to work with:
+
+```python
+from drbench import task_loader
+task = task_loader.get_task_from_id("DR0001")
+```
+
+See what the task is about:
+
+```python
+print(task.summary())
+print(task.get_dr_question())
+```
+
+#### (b) Create Your Agent
+
+Your agent needs a `generate_report` method that takes a question and returns insights:
+
+```python
+class MyAgent:
+    def generate_report(self, query, env):
+        # Your research logic here
+        # report_text is the raw report text
+        # insights is the list of atomic insights from the report
+        return {"report_insights": insights, "report_text": report_text}
+```
+
+Refer to `BasicAgent` for a simple example in `drbench/agents/basic_agent.py`
+
+Or use the full `DrBenchAgent` in `drbench/agents/drbench_agent/drbench_agent.py`:
+
+#### (d) Evaluate Your Report
+
+See how well your agent did:
+
+```python
+from drbench.score_report import score_report
+scores = score_report(
+    predicted_report=report,
+    task=task,
+    savedir="my_results"
+)
+
+print(f"Insights Recall: {scores['insights_recall']:.3f}")
+```
 
 ---
 
@@ -32,7 +133,7 @@ It tests an agent’s ability to conduct **multi-hop, insight-driven research** 
 
 ---
 
-## 📦 What You'll Get
+## 📦 What You have
 
 ✅ The **first benchmark** for deep research across hybrid enterprise environments  
 ✅ A suite of **real-world tasks** across Enterprise UseCases like CRM
@@ -40,12 +141,6 @@ It tests an agent’s ability to conduct **multi-hop, insight-driven research** 
 ✅ A task generation framework blending **web-based facts** and **local context**  
 ✅ A **lightweight, scalable evaluation mechanism** for insightfulness and citation
 
----
-
-## 🧪 Project Status
-
-We’re putting the final polish on the benchmark, evaluation tools, and baseline agents.  
-**Public release coming soon!**
 
 ---
 
@@ -59,9 +154,21 @@ Interested in early access, collaboration, or feedback?
 
 ## 🤝 Core Contributers
 
+- Amirhossein Abaskohi – <amirhossein.abaskohi@servicenow.com>
 - Tianyi Chen – <tianyi.chen@servicenow.com>  
 - Miguel Muñoz – <miguel.munoz@servicenow.com>  
-- Amirhossein Abaskohi – <amirhossein.abaskohi@servicenow.com>
 - Curtis Fox - <curtis.fox@servicenow.com>
 - Alex Drioun – <alexandre.drouin@servicenow.com>  
 - Issam Laradji – <issam.laradji@servicenow.com>
+
+
+#### Citation
+
+```
+@article{abaskohi2025drbench,
+  title={DRBench: A Realistic Benchmark for Enterprise Deep Research},
+  author={Abaskohi, Amirhossein and Chen, Tianyi and Mu{\~n}oz-M{\'a}rmol, Miguel and Fox, Curtis and Ramesh, Amrutha Varshini and Marcotte, {\'E}tienne and L{\`u}, Xing Han and Chapados, Nicolas and Gella, Spandana and Pal, Christopher and others},
+  journal={arXiv preprint arXiv:2510.00172},
+  year={2025}
+}
+```

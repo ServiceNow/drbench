@@ -1,0 +1,12 @@
+Period,TotalEmployees,EmployeesLeft,TurnoverRate,PrimaryReason,RetentionInitiatives
+"The time period for which the employee turnover data is reported, e.g., 'Q1 2025'.",The total number of employees at the beginning of the period.,The number of employees who left the company during the period.,"The rate of employee turnover for the period, calculated as (EmployeesLeft / TotalEmployees) * 100.",The primary reason identified for employee departures during the period.,Key initiatives or strategies implemented to improve employee retention during the period.
+Q1 2024,240,25,10.42%,Better Opportunities,Increased training budgets
+Q4 2022,255,20,7.84%,Retirement,Retirement planning workshops
+Q3 2024,270,22,8.15%,Work-Life Balance,Remote work options
+Q4 2023,245,19,7.76%,Compensation,Salary adjustments
+Q2 2024,255,18,7.06%,Career Change,Mentorship programs
+Q1 2023,250,24,9.60%,Health Issues,Wellness programs
+Q4 2024,260,20,7.69%,Personal Reasons,Flexible working hours
+Q3 2023,260,21,8.08%,Workload,Additional staffing
+Q2 2023,265,17,6.42%,Relocation,Remote work incentives
+Q1 2025,250,30,12.00%,Better Opportunities,Enhanced career development programs

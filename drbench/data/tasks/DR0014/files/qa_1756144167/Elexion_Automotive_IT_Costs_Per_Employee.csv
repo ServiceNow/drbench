@@ -1,0 +1,12 @@
+Quarter,Average_Cost_Per_Employee,Total_IT_Spend,Employee_Count,Revenue_Impact_Percentage
+"The fiscal quarter for which the IT infrastructure costs were calculated, e.g., Q2 2024.",The average cost of IT infrastructure per employee in the specified quarter.,The total amount spent on IT infrastructure for the specified quarter.,The total number of employees considered in the calculation for the specified quarter.,"The percentage of the total IT spend out of the company's annual revenue, providing context on financial impact."
+Q2 2022,$830.00,"$1,660,000.00",2000,1.08%
+Q1 2022,$820.00,"$1,640,000.00",2000,1.07%
+Q1 2023,$950.00,"$1,800,000.00",1895,1.20%
+Q1 2024,"$1,150.00","$2,070,000.00",1800,1.40%
+Q3 2023,"$1,050.00","$1,980,000.00",1886,1.30%
+Q2 2023,"$1,000.00","$1,900,000.00",1900,1.25%
+Q4 2022,$900.00,"$1,750,000.00",1944,1.15%
+Q2 2024,"$1,200.00","$2,300,000.00",1917,1.50%
+Q4 2023,"$1,100.00","$2,000,000.00",1818,1.35%
+Q3 2022,$850.00,"$1,700,000.00",2000,1.10%

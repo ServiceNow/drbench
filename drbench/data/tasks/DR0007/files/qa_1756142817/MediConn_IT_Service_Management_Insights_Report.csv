@@ -1,0 +1,9 @@
+Quarter,Routine_Tickets_Percentage,AI_Optimization_Justification
+"The fiscal quarter for which the data is reported, formatted as Q1, Q2, Q3, or Q4 followed by the year.",The percentage of total IT service tickets classified as routine for the specified quarter. This metric helps in identifying the proportion of tasks that can potentially be automated or streamlined.,A detailed explanation of how identifying routine tasks can focus AI efforts to reduce workload and improve efficiency in IT service management.
+Q2 2025,31.00%,Routine task identification aids in targeted AI implementation.
+Q1 2025,29.00%,Lowering routine tickets can improve service delivery standards.
+Q1 2024,30.00%,"Routine tasks can be automated, freeing up resources for complex tasks."
+Q4 2024,33.00%,AI optimization in routine tasks can lead to significant cost savings.
+Q3 2025,40.00%,Identifying routine tasks helps focus AI efforts to reduce workload.
+Q2 2024,32.00%,Streamlining routine tickets can enhance overall service efficiency.
+Q3 2024,35.00%,Reducing routine task load can enable quicker response times.

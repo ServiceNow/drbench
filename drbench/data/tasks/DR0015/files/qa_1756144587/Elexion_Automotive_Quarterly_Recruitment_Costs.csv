@@ -1,0 +1,10 @@
+Quarter,New Hires,Recruitment Cost,Cost Per Hire,Employee Count
+The specific fiscal quarter and year for which the recruitment data is reported. Format: 'Q[n] YYYY',The number of new employees hired during the specified quarter.,"The total cost incurred for recruitment in the specified quarter, including all related expenses.",The average recruitment cost for each new hire in the specified quarter.,The total number of employees in the company at the end of the specified quarter.
+Q3 2023,8,75000,9375,130
+Q4 2023,6,60000,10000,135
+Q2 2024,7,65000,9285.71,145
+Q4 2024,5,55000,11000,155
+Q1 2023,5,50000,10000,120
+Q1 2024,9,85000,9444.44,140
+Q3 2024,10,90000,9000,150
+Q2 2023,7,70000,10000,125

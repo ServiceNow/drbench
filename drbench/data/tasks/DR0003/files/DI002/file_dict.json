@@ -1,0 +1,267 @@
+{
+    "file_name": "mattermost_chat_20250815_170453",
+    "content": "{\"type\": \"version\", \"version\": 1}\n{\"type\": \"team\", \"team\": {\"name\": \"marketing\", \"display_name\": \"Marketing Team\", \"type\": \"O\", \"header\": \"Collaboration space for the marketing department\", \"purpose\": \"To discuss marketing campaigns, strategies, and customer engagement\"}}\n{\"type\": \"team\", \"team\": {\"name\": \"supply-chain-management\", \"display_name\": \"Supply Chain Management\", \"type\": \"O\", \"header\": \"Discussion space for supply chain management and logistics\", \"purpose\": \"To manage and optimize the supply chain, including partnerships and procurement\"}}\n{\"type\": \"channel\", \"channel\": {\"team\": \"marketing\", \"name\": \"marketing-insights\", \"display_name\": \"Marketing Insights\", \"type\": \"O\", \"header\": \"Space to share and discuss marketing insights and data\", \"purpose\": \"To analyze and discuss marketing metrics and customer data\"}}\n{\"type\": \"channel\", \"channel\": {\"team\": \"supply-chain-management\", \"name\": \"supplier-diversity\", \"display_name\": \"Supplier Diversity\", \"type\": \"O\", \"header\": \"Discussion space for supplier diversity initiatives\", \"purpose\": \"To discuss and promote diversity among our suppliers\"}}\n{\"type\": \"user\", \"user\": {\"username\": \"david.lee\", \"password\": \"david.lee_pwd\", \"email\": \"david.lee@leesmarket.com\", \"nickname\": \"David\", \"first_name\": \"David\", \"last_name\": \"Lee\", \"position\": \"Marketing Manager\", \"roles\": \"system_user\", \"locale\": \"en\", \"teams\": [{\"name\": \"marketing\", \"roles\": \"team_user\", \"channels\": [{\"name\": \"marketing-insights\", \"roles\": \"channel_user\"}]}, {\"name\": \"supply-chain-management\", \"roles\": \"team_user\", \"channels\": [{\"name\": \"supplier-diversity\", \"roles\": \"channel_user\"}]}]}}\n{\"type\": \"user\", \"user\": {\"username\": \"emilychen\", \"password\": \"emilychen_pwd\", \"email\": \"emily.chen@leesmarket.com\", \"nickname\": \"Emily\", \"first_name\": \"Emily\", \"last_name\": \"Chen\", \"position\": \"Supply Chain Manager\", \"roles\": \"system_user\", \"locale\": \"en\", \"teams\": [{\"name\": \"supply-chain-management\", \"roles\": \"team_user\", \"channels\": [{\"name\": \"supplier-diversity\", \"roles\": \"channel_user\"}]}]}}\n{\"type\": \"user\", \"user\": {\"username\": \"jameskim\", \"password\": \"jameskim_pwd\", \"email\": \"james.kim@leesmarket.com\", \"nickname\": \"James\", \"first_name\": \"James\", \"last_name\": \"Kim\", \"position\": \"Procurement Specialist\", \"roles\": \"system_user\", \"locale\": \"en\", \"teams\": [{\"name\": \"supply-chain-management\", \"roles\": \"team_user\", \"channels\": [{\"name\": \"supplier-diversity\", \"roles\": \"channel_user\"}]}]}}\n{\"type\": \"post\", \"post\": {\"team\": \"marketing\", \"channel\": \"marketing-insights\", \"user\": \"david.lee\", \"message\": \"Hey team, just a reminder that our Q3 marketing meeting is scheduled for next Thursday at 2 PM. Please review the agenda and come prepared with any questions or updates.\", \"create_at\": 1680652800000}}\n{\"type\": \"post\", \"post\": {\"team\": \"supply-chain-management\", \"channel\": \"supplier-diversity\", \"user\": \"emilychen\", \"message\": \"Hi everyone, I'm excited to share that our new procurement software is going live next Monday. Training sessions will be scheduled for the following week. More details to come!\", \"create_at\": 1680652900000}}\n{\"type\": \"post\", \"post\": {\"team\": \"marketing\", \"channel\": \"marketing-insights\", \"user\": \"david.lee\", \"message\": \"Just received the latest customer satisfaction survey results. Overall, we're seeing a 10% increase in customer satisfaction over the past quarter. Great job, team!\", \"create_at\": 1680653000000}}\n{\"type\": \"post\", \"post\": {\"team\": \"supply-chain-management\", \"channel\": \"supplier-diversity\", \"user\": \"jameskim\", \"message\": \"Hi team, I'm working on the budget plan for Q4 and need your input on resource allocation. Please review the attached document and provide your feedback by the end of the week.\", \"create_at\": 1680653100000}}\n{\"type\": \"post\", \"post\": {\"team\": \"marketing\", \"channel\": \"marketing-insights\", \"user\": \"david.lee\", \"message\": \"Industry alert: the annual Asian Food Expo is coming up in October. We should consider attending and showcasing our products. Who's interested in leading the effort?\", \"create_at\": 1680653200000}}\n{\"type\": \"post\", \"post\": {\"team\": \"supply-chain-management\", \"channel\": \"supplier-diversity\", \"user\": \"emilychen\", \"message\": \"Reminder: our quarterly performance reviews are due soon. Please make sure to set goals and objectives with your team members and submit the reviews on time.\", \"create_at\": 1680653300000}}\n{\"type\": \"post\", \"post\": {\"team\": \"marketing\", \"channel\": \"marketing-insights\", \"user\": \"david.lee\", \"message\": \"Just a heads up that our IT department will be conducting system maintenance on Saturday, which may cause some downtime on our website and online platforms.\", \"create_at\": 1680653400000}}\n{\"type\": \"post\", \"post\": {\"team\": \"supply-chain-management\", \"channel\": \"supplier-diversity\", \"user\": \"jameskim\", \"message\": \"Hi team, I've attached the latest policy updates on compliance and regulatory requirements. Please review and acknowledge receipt by the end of the week.\", \"create_at\": 1680653500000}}\n{\"type\": \"post\", \"post\": {\"team\": \"supply-chain-management\", \"channel\": \"supplier-diversity\", \"user\": \"emilychen\", \"message\": \"Hi team, I wanted to share our Q2 2024 supplier diversity metrics. We've seen a significant increase in minority-owned supply chain partners, reaching 18% with a 12% increase annually. This growth is a result of our targeted efforts to promote diversity among our suppliers. I'll be sharing a detailed report soon, but I wanted to give you all a sneak peek. Great job, everyone!\", \"create_at\": 1688246400000}}\n{\"type\": \"post\", \"post\": {\"team\": \"supply-chain-management\", \"channel\": \"supplier-diversity\", \"user\": \"jameskim\", \"message\": \"Hi Emily, thanks for sharing! I'm glad to see our efforts paying off. Can you also share some insights on how this growth has impacted our loyalty program effectiveness? I'm curious to know if there's a correlation.\", \"create_at\": 1688247300000}}\n{\"type\": \"post\", \"post\": {\"team\": \"supply-chain-management\", \"channel\": \"supplier-diversity\", \"user\": \"emilychen\", \"message\": \"Hi James, our supplier diversity metrics don't directly address loyalty program effectiveness, but we can definitely explore that in our next analysis. For now, let's focus on celebrating this win and continuing to promote diversity among our suppliers.\", \"create_at\": 1688248200000}}",
+    "chat_setup": {
+        "teams": [
+            {
+                "type": "team",
+                "team": {
+                    "name": "marketing",
+                    "display_name": "Marketing Team",
+                    "type": "O",
+                    "header": "Collaboration space for the marketing department",
+                    "purpose": "To discuss marketing campaigns, strategies, and customer engagement"
+                }
+            },
+            {
+                "type": "team",
+                "team": {
+                    "name": "supply-chain-management",
+                    "display_name": "Supply Chain Management",
+                    "type": "O",
+                    "header": "Discussion space for supply chain management and logistics",
+                    "purpose": "To manage and optimize the supply chain, including partnerships and procurement"
+                }
+            }
+        ],
+        "channels": [
+            {
+                "type": "channel",
+                "channel": {
+                    "team": "marketing",
+                    "name": "marketing-insights",
+                    "display_name": "Marketing Insights",
+                    "type": "O",
+                    "header": "Space to share and discuss marketing insights and data",
+                    "purpose": "To analyze and discuss marketing metrics and customer data"
+                }
+            },
+            {
+                "type": "channel",
+                "channel": {
+                    "team": "supply-chain-management",
+                    "name": "supplier-diversity",
+                    "display_name": "Supplier Diversity",
+                    "type": "O",
+                    "header": "Discussion space for supplier diversity initiatives",
+                    "purpose": "To discuss and promote diversity among our suppliers"
+                }
+            }
+        ],
+        "users": [
+            {
+                "type": "user",
+                "user": {
+                    "username": "david.lee",
+                    "email": "david.lee@leesmarket.com",
+                    "nickname": "David",
+                    "first_name": "David",
+                    "last_name": "Lee",
+                    "position": "Marketing Manager",
+                    "roles": "system_user",
+                    "locale": "en",
+                    "teams": [
+                        {
+                            "name": "marketing",
+                            "roles": "team_user",
+                            "channels": [
+                                {
+                                    "name": "marketing-insights",
+                                    "roles": "channel_user"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "supply-chain-management",
+                            "roles": "team_user",
+                            "channels": [
+                                {
+                                    "name": "supplier-diversity",
+                                    "roles": "channel_user"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "type": "user",
+                "user": {
+                    "username": "emilychen",
+                    "email": "emily.chen@leesmarket.com",
+                    "nickname": "Emily",
+                    "first_name": "Emily",
+                    "last_name": "Chen",
+                    "position": "Supply Chain Manager",
+                    "roles": "system_user",
+                    "locale": "en",
+                    "teams": [
+                        {
+                            "name": "supply-chain-management",
+                            "roles": "team_user",
+                            "channels": [
+                                {
+                                    "name": "supplier-diversity",
+                                    "roles": "channel_user"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "type": "user",
+                "user": {
+                    "username": "jameskim",
+                    "email": "james.kim@leesmarket.com",
+                    "nickname": "James",
+                    "first_name": "James",
+                    "last_name": "Kim",
+                    "position": "Procurement Specialist",
+                    "roles": "system_user",
+                    "locale": "en",
+                    "teams": [
+                        {
+                            "name": "supply-chain-management",
+                            "roles": "team_user",
+                            "channels": [
+                                {
+                                    "name": "supplier-diversity",
+                                    "roles": "channel_user"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    "chat_messages": [
+        {
+            "type": "post",
+            "post": {
+                "team": "supply-chain-management",
+                "channel": "supplier-diversity",
+                "user": "emilychen",
+                "message": "Hi team, I wanted to share our Q2 2024 supplier diversity metrics. We've seen a significant increase in minority-owned supply chain partners, reaching 18% with a 12% increase annually. This growth is a result of our targeted efforts to promote diversity among our suppliers. I'll be sharing a detailed report soon, but I wanted to give you all a sneak peek. Great job, everyone!",
+                "create_at": 1688246400000
+            },
+            "tag": "insight"
+        },
+        {
+            "type": "post",
+            "post": {
+                "team": "supply-chain-management",
+                "channel": "supplier-diversity",
+                "user": "jameskim",
+                "message": "Hi Emily, thanks for sharing! I'm glad to see our efforts paying off. Can you also share some insights on how this growth has impacted our loyalty program effectiveness? I'm curious to know if there's a correlation.",
+                "create_at": 1688247300000
+            },
+            "tag": "insight"
+        },
+        {
+            "type": "post",
+            "post": {
+                "team": "supply-chain-management",
+                "channel": "supplier-diversity",
+                "user": "emilychen",
+                "message": "Hi James, our supplier diversity metrics don't directly address loyalty program effectiveness, but we can definitely explore that in our next analysis. For now, let's focus on celebrating this win and continuing to promote diversity among our suppliers.",
+                "create_at": 1688248200000
+            },
+            "tag": "insight"
+        },
+        {
+            "type": "post",
+            "post": {
+                "team": "marketing",
+                "channel": "marketing-insights",
+                "user": "david.lee",
+                "message": "Hey team, just a reminder that our Q3 marketing meeting is scheduled for next Thursday at 2 PM. Please review the agenda and come prepared with any questions or updates.",
+                "create_at": 1680652800000
+            },
+            "tag": "distractor"
+        },
+        {
+            "type": "post",
+            "post": {
+                "team": "supply-chain-management",
+                "channel": "supplier-diversity",
+                "user": "emilychen",
+                "message": "Hi everyone, I'm excited to share that our new procurement software is going live next Monday. Training sessions will be scheduled for the following week. More details to come!",
+                "create_at": 1680652900000
+            },
+            "tag": "distractor"
+        },
+        {
+            "type": "post",
+            "post": {
+                "team": "marketing",
+                "channel": "marketing-insights",
+                "user": "david.lee",
+                "message": "Just received the latest customer satisfaction survey results. Overall, we're seeing a 10% increase in customer satisfaction over the past quarter. Great job, team!",
+                "create_at": 1680653000000
+            },
+            "tag": "distractor"
+        },
+        {
+            "type": "post",
+            "post": {
+                "team": "supply-chain-management",
+                "channel": "supplier-diversity",
+                "user": "jameskim",
+                "message": "Hi team, I'm working on the budget plan for Q4 and need your input on resource allocation. Please review the attached document and provide your feedback by the end of the week.",
+                "create_at": 1680653100000
+            },
+            "tag": "distractor"
+        },
+        {
+            "type": "post",
+            "post": {
+                "team": "marketing",
+                "channel": "marketing-insights",
+                "user": "david.lee",
+                "message": "Industry alert: the annual Asian Food Expo is coming up in October. We should consider attending and showcasing our products. Who's interested in leading the effort?",
+                "create_at": 1680653200000
+            },
+            "tag": "distractor"
+        },
+        {
+            "type": "post",
+            "post": {
+                "team": "supply-chain-management",
+                "channel": "supplier-diversity",
+                "user": "emilychen",
+                "message": "Reminder: our quarterly performance reviews are due soon. Please make sure to set goals and objectives with your team members and submit the reviews on time.",
+                "create_at": 1680653300000
+            },
+            "tag": "distractor"
+        },
+        {
+            "type": "post",
+            "post": {
+                "team": "marketing",
+                "channel": "marketing-insights",
+                "user": "david.lee",
+                "message": "Just a heads up that our IT department will be conducting system maintenance on Saturday, which may cause some downtime on our website and online platforms.",
+                "create_at": 1680653400000
+            },
+            "tag": "distractor"
+        },
+        {
+            "type": "post",
+            "post": {
+                "team": "supply-chain-management",
+                "channel": "supplier-diversity",
+                "user": "jameskim",
+                "message": "Hi team, I've attached the latest policy updates on compliance and regulatory requirements. Please review and acknowledge receipt by the end of the week.",
+                "create_at": 1680653500000
+            },
+            "tag": "distractor"
+        }
+    ],
+    "file_format": "jsonl",
+    "file_path": ".llm_responses/generated_chat_document.jsonl",
+    "qa_type": "distractor",
+    "timestamp": "2025-08-15 14:04",
+    "app": "mattermost"
+}

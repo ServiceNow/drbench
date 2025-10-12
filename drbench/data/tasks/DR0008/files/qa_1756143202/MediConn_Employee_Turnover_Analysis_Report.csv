@@ -1,0 +1,13 @@
+Quarter,Year,Turnover_Rate,Total_Employees,New_Hires
+The fiscal quarter of the year in which the employee turnover rate is measured. This allows for analysis of trends over different periods.,The year corresponding to the reported turnover rate. This helps in tracking the changes in employee retention over time.,The percentage of employees who left the company during the specified quarter. This is a key metric for understanding employee retention and workforce stability.,The total number of employees at the beginning of the quarter. This provides context for the turnover rate and helps in understanding the scale of turnover.,The number of new employees hired during the quarter. This helps in assessing the company's growth or replacement hiring strategies.
+Q4,2023,8.00%,420,38
+Q2,2023,6.50%,440,35
+Q4,2025,8.50%,530,60
+Q3,2025,9.00%,520,55
+Q1,2025,10.00%,500,50
+Q3,2023,7.50%,430,40
+Q3,2024,9.50%,470,45
+Q2,2025,9.50%,510,48
+Q2,2024,8.00%,480,40
+Q1,2023,5.00%,450,25
+Q4,2024,7.00%,460,30

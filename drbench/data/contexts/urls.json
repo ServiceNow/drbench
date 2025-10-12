@@ -1,0 +1,434 @@
+[
+  {
+    "industry": "retail",
+    "domain": "compliance",
+    "url": "https://www.grocerydive.com/spons/grocers-talk-fsma-204-compliance-food-safety-and-the-future-of-grocery/722810/",
+    "insights": [
+      "U.S. grocers are working to meet the FDA's FSMA 204 traceability rules by January 2026, which require tracking lot codes and key data for high-risk foods to expedite recalls. This compliance is viewed as an \"evolutionary step\" to modernize grocery operations and enhance food safety.",
+      "By capturing detailed traceability data, such as lot codes, at every step, retailers can meet regulations and gain inventory benefits. This allows grocers to know exact expiration dates by lot, enabling them to discount items before they expire, thus reducing food waste and keeping products fresher.",
+      "Regional grocers like Lunds & Byerlys and Raley’s see FSMA 204 as a chance to enhance their systems and supply chain transparency. They believe improved traceability will boost customer trust and could signal the start of more extensive future food safety regulations."
+    ],
+    "date": "2024-08-05",
+    "example_dr_questions": [
+      "How does Walmart ensure compliance with food safety and labeling regulations?",
+      "How does H-Mart comply with international food import and safety regulations?",
+      "What systems does Amazon (Whole Foods) use to manage grocery compliance across its stores?"
+    ]
+  },
+  {
+    "industry": "retail",
+    "domain": "crm",
+    "url": "https://eagleeye.com/blog/grocery-loyalty-inflation-data-growth",
+    "insights": [
+      "Data-driven loyalty programs are enabling grocers to sustain growth amid inflation, with those integrating customer data into their strategies experiencing a 3.8% average increase in same-store sales, even in price-sensitive markets.",
+      "Modern consumers, particularly Gen Z and Millennials, prefer personalized, context-aware rewards over generic points. Grocery chains such as Tesco, Kroger, and Asda are transitioning to AI-driven, predictive offers that adapt in real time to shopper behavior, addressing \"loyalty fatigue\" and maintaining engagement with younger customers.",
+      "Retailers using AI and CRM data to align loyalty offers with inventory and shopping patterns enhance engagement and protect margins by timing personalized promotions with stock levels. This CRM-driven personalization leads to superior customer retention and sales growth compared to competitors."
+    ],
+    "date": "2025-08-01",
+    "example_dr_questions": [
+      "How does Walmart leverage CRM systems to personalize customer experiences and build loyalty?",
+      "How does Amazon manage its customer relationships to drive repeat business?",
+      "How can a regional grocer like Lee’s Market use CRM data to enhance customer engagement?"
+    ]
+  },
+  {
+    "industry": "retail",
+    "domain": "market_analysis",
+    "url": "https://www.grocerydive.com/news/grocery-trends-outlook-2025/738623/",
+    "insights": [
+      "As shoppers become increasingly price-conscious heading into 2025, many are opting for cheaper brands and shopping across multiple stores for deals, boosting the market share of discounters like Aldi and Walmart. This shift poses a significant challenge for traditional supermarkets, making competition with these value-focused retailers a top priority for grocers.",
+      "Supermarkets are focusing on health and wellness, private label products, and technologies like electronic shelf labels to differentiate beyond price. These innovations can help traditional grocers attract customers despite inflation concerns.",
+      "Following a failed merger with Kroger, Albertsons plans to cut $1.5 billion in costs and invest in sales to remain competitive. This highlights a broader trend where retail chains need to streamline operations and reinvest in customer-facing improvements to sustain momentum amid economic challenges."
+    ],
+    "date": "2025-01-31",
+    "example_dr_questions": [
+      "How do major supermarket chains like Walmart analyze market trends to adapt their strategies?",
+      "How does Amazon monitor retail market shifts to stay ahead of competitors in the grocery space?",
+      "How can a regional grocery chain use market analysis to identify new opportunities and threats in the retail industry?"
+    ]
+  },
+  {
+    "industry": "retail",
+    "domain": "itsm",
+    "url": "https://www.thirdera.com/insights/retailer-drives-enterprise-wide-transformation-through-strategic-it-optimization",
+    "insights": [
+      "A large U.S. retailer with over 70,000 employees transitioned its IT service management from BMC Helix to ServiceNow, consolidating 75% of its service catalog items. This migration standardized Incident, Change, and Knowledge management on a single platform, simplifying support workflows significantly.",
+      "By integrating tools such as facility management and telephony systems into ServiceNow and implementing governance measures like CMDB and agile processes, the retailer eliminated silos and enhanced data quality. This led to a >95% reduction in support request emails to the service desk as employees transitioned to a unified self-service portal.",
+      "The ITSM transformation has led to faster issue resolution, enhanced self-service options for employees, and more efficient IT operations through intelligent ticket routing and backlog management. With these improvements, the retailer is now positioned to adopt advanced ITSM features like predictive AI for incidents and virtual agents, further enhancing the digital employee experience."
+    ],
+    "date": "2024-12-11",
+    "example_dr_questions": [
+      "How can Amazon reduce IT incident volumes and improve its internal service efficiency?",
+      "How do retailers like Walmart speed up IT issue resolution to minimize store downtime and disruptions?",
+      "How can improving IT service management enhance the digital employee experience at a large retail enterprise?"
+    ]
+  },
+  {
+    "industry": "retail",
+    "domain": "csm",
+    "url": "https://www.grocerydoppio.com/articles/chatbots-improving-seamless-interactions-between-grocers-and-centennials",
+    "insights": [
+      "Retailers are increasingly using AI chatbots to cater to Gen Z and Millennial demands for instant, 24/7 service. While 86% of consumers preferred human agents in 2019, by 2023, 62% of shoppers favored chatbots for quick inquiries due to their ability to provide instant responses and save time.",
+      "Chatbots can reduce customer service costs by about 30%, helping businesses save from the $1.3 trillion spent annually on customer queries. Additionally, 69% of shoppers appreciate chatbots for their quick responses, enhancing customer satisfaction and reducing frustration.",
+      "Grocery retailers see conversational AI as crucial for future customer service, with 82% believing its adoption is necessary and 78% highlighting customer experience improvement as a top use-case for technologies like ChatGPT. By utilizing chatbots for personalized recommendations, instant issue resolution, and omnichannel engagement, retailers aim to reduce churn and enhance customer loyalty through proactive, always-available support."
+    ],
+    "date": "2023-05-03",
+    "example_dr_questions": [
+      "How can Amazon use AI chatbots and self-service tools to improve customer service and reduce churn?",
+      "What strategies do major retailers like Walmart employ to enhance customer support and keep satisfaction high?",
+      "How can a company like Lee’s Market implement proactive customer service to personalize interactions and prevent customer churn?"
+    ]
+  },
+  {
+    "industry": "retail",
+    "domain": "knowledge_management",
+    "url": "https://knowmax.ai/blog/retail-knowledge-management/",
+    "insights": [
+      "AI-powered knowledge management is revolutionizing retail by providing instant answers and guidance, enhancing both in-store and online customer service. It transforms product information into a dynamic Q&A system, enabling store associates to deliver accurate responses quickly and allowing online customers to access relevant information for seamless self-service.",
+      "Retailers are leveraging AI to automate content creation and training, enhancing quality and efficiency by quickly generating product descriptions and marketing copy. This technology is particularly beneficial in the retail sector, which experiences a high employee turnover rate of around 60% annually in the US. By using AI to personalize onboarding with tools like quizzes and FAQs, retailers can reduce training time and expedite the integration of new hires.",
+      "An AI-driven knowledge base utilizing semantic search and large language models allows retail staff to instantly retrieve precise answers from the company's entire knowledge repository, eliminating the need to search through static manuals. This efficient system reduces checkout times and enhances customer satisfaction by enabling employees to quickly address inquiries on the spot."
+    ],
+    "date": "2025-06-14",
+    "example_dr_questions": [
+      "How can Amazon improve its knowledge base so customers can easily find information like return policies or product details?",
+      "How do large retailers like Walmart ensure both customers and employees can quickly find answers to their questions through a knowledge management system?",
+      "What AI-driven knowledge management strategies can a grocery chain use to help shoppers and staff get information more easily, reducing the need for live support?"
+    ]
+  },
+  {
+    "industry": "retail",
+    "domain": "sales",
+    "url": "https://www.bcg.com/publications/2024/personalization-in-action",
+    "insights": [
+      "Retailers excelling in personalized marketing are growing revenues about 10 percentage points faster than their peers, according to BCG. By effectively using first-party customer data, these leaders could unlock an estimated $570 billion in additional sales, highlighting the importance of data-driven sales strategies for growth.",
+      "Personalized promotions can deliver returns three times higher than mass promotions, yet many retailers allocate under 5% of their promo budgets to personalization. One major chain increased its personalized promo spend from 1% to 10% by establishing a \"customer investment council,\" resulting in $250 million in incremental sales.",
+      "Retail media networks are expanding rapidly, with retail media growing at approximately 25% annually, offering retailers a profitable revenue stream to reinvest in technology, data, and personnel. By integrating loyalty data, retailers like Sephora, which links 95% of transactions to loyalty accounts, enhance precision in product recommendations and provide a seamless omnichannel experience, boosting conversion rates and customer lifetime value."
+    ],
+    "date": "2024-11-18",
+    "example_dr_questions": [
+      "How can Amazon improve its sales process using personalization to increase customer conversion and repeat purchases?",
+      "What strategies can a retailer implement to reduce friction after a sale and ensure customers remain engaged (and potentially upsold) post-purchase?",
+      "How do companies like Walmart integrate personalized marketing and loyalty data into their sales strategy to boost revenue growth?"
+    ]
+  },
+  {
+    "industry": "retail",
+    "domain": "cybersecurity",
+    "url": "https://www.vikingcloud.com/blog/retail-cybersecurity-stats-threats-and-solutions",
+    "insights": [
+      "A 2024–2025 industry survey reveals that 80% of retailers experienced a cyberattack in the past year, with over half feeling more vulnerable than before. This underscores the urgent challenge of protecting customer data and systems for nearly every retail organization.",
+      "Retail IT teams are struggling, with 52% of retailers lacking resources to address modern cyber threats, and the sector's reliance on high-turnover, temporary staff exacerbates the issue. In Q4 2024, 78% of temp retail employees received no training in social engineering or phishing, making them prime targets for attacks. Consequently, phishing and similar scams targeting untrained staff are major causes of security breaches.",
+      "Retailers face significant impacts from cyberattacks, with 52% experiencing supply chain attacks, 48% data breaches, and 32% phishing attacks, often leading to system shutdowns and financial losses. Notably, 12% of retailers had to lay off employees due to the financial fallout of such incidents. The findings highlight the necessity for robust cybersecurity measures, including enhanced staff training and stronger network defenses, to safeguard customer data and maintain trust."
+    ],
+    "date": "2025-04-07",
+    "example_dr_questions": [
+      "How can Amazon strengthen its cybersecurity measures to better protect customers’ personal and payment data?",
+      "What steps do large retailers like Walmart take to safeguard sensitive customer information and prevent data breaches?",
+      "How can a company like Lee’s Market improve its security posture (e.g., employee training, systems monitoring) to protect both its data and its customers’ data from cyber threats?"
+    ]
+  },
+  {
+    "industry": "retail",
+    "domain": "public_relations",
+    "url": "https://www.sunrisegeek.com/post/case-study-walmart-csr-strategy",
+    "insights": [
+      "Walmart emphasizes corporate social responsibility by integrating environmental and social initiatives with its profitability, focusing on renewable energy, waste reduction, and community support. The company aligns its CSR efforts, such as affordable food access and local philanthropy, with its mission to \"save people money and help them live better,\" demonstrating its commitment to stakeholders' well-being.",
+      "Walmart enhances its brand image and counters past criticisms by engaging in large-scale philanthropy and community initiatives, including donations to hospitals, educational programs, and charities. The company also partners with nonprofits on employment programs for people with disabilities, showcasing its commitment to positive social outcomes beyond profit.",
+      "Walmart enhances its reputation by using CSR initiatives, such as setting and reporting on sustainability goals like zero waste and emissions, and showcasing employee training and advancement stories. This transparent approach positions Walmart as an ethical leader in retail, meeting consumer expectations for positive societal contributions and addressing sustainability and fair labor issues."
+    ],
+    "date": "2024-10-04",
+    "example_dr_questions": [
+      "How can Amazon build a more positive public reputation for its products and services through community engagement or sustainability initiatives?",
+      "What corporate social responsibility actions can a retailer take to improve public trust and brand perception among its customer base?",
+      "How does Walmart leverage its CSR efforts and public communications to maintain a positive image and trust with consumers?"
+    ]
+  },
+  {
+    "industry": "healthcare",
+    "domain": "compliance",
+    "url": "https://www.healthcaredive.com/news/telehealth-providers-crossroads-regulations-paul-schmeltzer-clark-hill/727296/",
+    "insights": [
+      "Telehealth providers must choose between aligning with insurance, which requires full HIPAA compliance, or operating on a cash-only basis, thereby avoiding HIPAA but navigating a complex landscape of 50-state privacy laws.",
+      "Accepting insurance expands the patient base and ensures steady reimbursements, but necessitates significant investment in secure platforms to comply with HIPAA Privacy and Security standards, including data encryption, risk analyses, and comprehensive staff training.",
+      "Cash-only telehealth provides flexibility with provider-set rates and simpler billing but poses legal risks due to complex state-specific data privacy regulations. New state health data laws allow consumers to sue over privacy breaches, unlike HIPAA, which offers protections for providers."
+    ],
+    "date": "2024-09-20",
+    "example_dr_questions": [
+      "How can virtual healthcare providers maintain compliance as pandemic-era regulatory waivers expire?",
+      "What are the trade-offs between insurance-based telehealth models and cash-only approaches in terms of compliance and patient access?",
+      "How are evolving state data privacy laws impacting telehealth providers’ compliance strategies and operational choices?"
+    ]
+  },
+  {
+    "industry": "healthcare",
+    "domain": "crm",
+    "url": "https://wtt-solutions.com/blog/the-future-of-healthcare-crm-solutions-what-to-expect-in-2025",
+    "insights": [
+      "Healthcare CRM systems are revolutionizing patient interactions by using data analysis and AI to enable personalized, proactive care management. This technology helps providers identify high-risk patients and intervene early, leading to improved health outcomes.",
+      "The global healthcare CRM market is expected to grow to approximately $30.65 billion by 2030, with a 7.7% CAGR from 2024, fueled by the increasing adoption of digital health solutions and the demand for improved patient engagement and operational efficiency.",
+      "By 2025, healthcare CRM will focus on AI-driven personalization and automation, integrating closely with chronic care management tools. Enhanced patient data security and cloud-based platforms will be prioritized to improve patient engagement and retention."
+    ],
+    "date": "2025-03-11",
+    "example_dr_questions": [
+      "How are healthcare organizations leveraging CRM platforms and AI to personalize patient care and outreach?",
+      "What factors are driving the rapid growth of the healthcare CRM market, and how can providers capitalize on this trend?",
+      "How can integrating CRM systems with chronic disease management and other health IT tools improve patient outcomes and satisfaction?"
+    ]
+  },
+  {
+    "industry": "healthcare",
+    "domain": "market_analysis",
+    "url": "https://chghealthcare.com/blog/telehealth-the-future-of-virtual-care",
+    "insights": [
+      "During COVID-19, health systems adopted various telehealth tools, resulting in fragmented systems. Now, organizations are consolidating to a single, secure platform that integrates with scheduling, EHR, and billing to efficiently scale with the increasing demand for virtual care.",
+      "Hospitals are evaluating specialties and workflows to identify suitable areas for telehealth, considering staffing options such as their own clinicians, telehealth vendor networks, or locum tenens physicians. This approach aims to expand virtual care services while avoiding overburdening current staff.",
+      "Over the next 3–5 years, virtual care options will expand significantly, with McKinsey estimating that 50 million additional in-person visits per year could shift to telehealth if adoption is optimized. The healthcare landscape will see an increase in full-time virtual care experts, the emergence of \"chief virtual care officers,\" and enhanced sharing of specialist telehealth services between health systems, alongside AI chatbots being used for front-line triage."
+    ],
+    "date": "2025-06-02",
+    "example_dr_questions": [
+      "How can healthcare systems integrate and standardize telehealth platforms to eliminate the patchwork of point solutions introduced during the pandemic?",
+      "What are effective strategies for staffing telehealth services (e.g., internal clinicians vs. outsourced networks) to meet patient demand without increasing provider burnout?",
+      "How will emerging trends like dedicated virtual care roles, inter-system specialist sharing, and AI-driven triage shape the telehealth landscape in the next few years?"
+    ]
+  },
+  {
+    "industry": "healthcare",
+    "domain": "itsm",
+    "url": "https://www.topdesk.com/en/blog/itsm-healthcare/",
+    "insights": [
+      "IT Service Management (ITSM) is essential for healthcare efficiency, as it streamlines IT incident handling and service requests in hospitals, significantly reducing response times and automating routine tasks. This allows staff to concentrate more on patient care instead of technical issues.",
+      "Integrating AI with ITSM enables healthcare IT teams to predict and prevent issues, enhancing support by using AI-driven analytics to foresee and proactively address system failures. Additionally, chatbot assistants manage common IT inquiries from staff and patients, reducing service desk workload and improving response times.",
+      "Effective ITSM in healthcare aids compliance and quality care by tracking changes and ensuring data security, meeting strict regulations. It optimizes critical systems like EHRs, enhancing patient outcomes and provider satisfaction by enabling quick access to patient records."
+    ],
+    "date": "2025-01-23",
+    "example_dr_questions": [
+      "How can hospitals leverage ITSM tools and practices to minimize IT downtime and enhance clinical workflows for staff?",
+      "In what ways can AI-powered ITSM (like predictive analytics and chatbots) improve the reliability of health IT systems and the support experience for healthcare employees?",
+      "How does a strong ITSM program contribute to meeting healthcare compliance requirements (e.g., data security) while also improving patient care and staff productivity?"
+    ]
+  },
+  {
+    "industry": "healthcare",
+    "domain": "csm",
+    "url": "https://www.techtarget.com/patientengagement/answer/2024-to-Bring-Thoughtful-Patient-Engagement-Tech-Investments",
+    "insights": [
+      "A late-2023 MGMA survey revealed that 25% of medical group leaders intend to invest in patient communication and engagement technology in 2024, ranking just behind EHR improvements. This indicates a shift among healthcare providers towards enhancing patient experience and access through improved portals, messaging, and telehealth.",
+      "In 2022, patients experienced an average specialist wait time of approximately 26 days, with 60% citing poor online booking tools and complex call systems as barriers to scheduling appointments. To address these issues, practices are adopting digital \"front door\" solutions, including online self-scheduling, automated intake forms, and virtual visit options.",
+      "Healthcare organizations aim to alleviate workforce burdens and enhance service by implementing self-service and digital workflow improvements. These changes, such as online patient check-ins and paperwork completion, reduce staff workload during staffing shortages and expedite clinic flow, leading to improved patient satisfaction and care timeliness."
+    ],
+    "date": "2024-01-02",
+    "example_dr_questions": [
+      "How can healthcare providers reduce patient wait times and simplify appointment scheduling through improved customer engagement tools?",
+      "What self-service technologies (e.g., online check-in, chatbots) are most effective in improving patient satisfaction while alleviating staff workload in healthcare settings?",
+      "How are hospitals balancing investments in electronic health records with new patient engagement platforms to enhance overall care experience?"
+    ]
+  },
+  {
+    "industry": "healthcare",
+    "domain": "knowledge_management",
+    "url": "https://c8health.com/a/blog/how-efficient-knowledge-management-in-healthcare-can-boost-patient-care",
+    "insights": [
+      "Up to 80% of serious medical errors are due to issues in knowledge sharing or access. Implementing robust knowledge management systems can help healthcare providers make better decisions, reduce errors, and offer more personalized treatments.",
+      "Effective knowledge management centralizes critical guidelines on a single platform, ensuring all multidisciplinary care team members, such as doctors, nurses, and pharmacists, have timely access to the latest information. This approach reduces the likelihood of adverse events by keeping every specialist informed with the same up-to-date facts.",
+      "Healthcare knowledge management reduces preventable errors and enhances training by providing timely, accurate information, helping clinicians avoid misdiagnoses that affect approximately 795,000 Americans annually. Additionally, it facilitates staff training and onboarding by sharing best practices and updated guidelines, thereby improving providers' skills and confidence."
+    ],
+    "date": "2024-07-08",
+    "example_dr_questions": [
+      "How can hospitals use knowledge management systems to reduce medical errors and enhance patient safety?",
+      "What are effective ways to break down information silos and ensure every care team member has access to the latest medical knowledge when treating patients?",
+      "How does continuous education and knowledge-sharing supported by a robust knowledge management platform impact patient outcomes and healthcare staff performance?"
+    ]
+  },
+  {
+    "industry": "healthcare",
+    "domain": "sales",
+    "url": "https://medium.com/tradecraft-traction/5-tips-to-increase-sales-for-digital-health-products-98543d4840eb",
+    "insights": [
+      "Selling enterprise digital health solutions is challenging due to tight budgets, heavy regulations, and multiple stakeholders within health systems and insurers. Health tech startups must engage with teams of technical, financial, and clinical decision-makers, each with distinct concerns, rather than a single buyer.",
+      "Successful digital health sales strategies require identifying buyer personas within healthcare organizations, such as CTOs, CFOs, and clinicians, and tailoring pitches accordingly. Key to success is finding internal champions and addressing stakeholder pain points like integration, security, ROI, and workflow impact to build purchase consensus.",
+      "Healthcare B2B sales cycles can extend over a year, requiring companies to equip internal champions with case studies, clinical data, and ROI analyses. This approach demonstrates the solution's value, such as improved patient engagement reducing readmissions, helping to expedite deal closure."
+    ],
+    "date": "2019-08-15",
+    "example_dr_questions": [
+      "What strategies can digital health startups use to manage the complex, multi-stakeholder sales process within large healthcare organizations?",
+      "How can demonstrating outcomes and ROI (such as reduced readmissions or cost savings) help convince hospitals and insurers to adopt new health tech solutions?",
+      "What are the best practices for keeping a long enterprise sales cycle on track in the healthcare industry, where purchasing decisions often involve compliance reviews and consensus-building among clinicians and executives?"
+    ]
+  },
+  {
+    "industry": "healthcare",
+    "domain": "marketing",
+    "url": "https://marketinginsidergroup.com/marketing-strategy/how-to-market-telehealth-services-to-connect-with-digital-first-patients/",
+    "insights": [
+      "Digital-first patients prioritize convenience and speed, making it essential for telehealth marketing to emphasize flexibility, such as easy, same-day virtual appointments accessible from anywhere, to cater to their busy lifestyles or mobility needs.",
+      "To overcome trust barriers in online healthcare, providers like Teladoc and Amwell must emphasize secure, user-friendly platforms and highlight data privacy and compliance with regulations such as HIPAA. High-profile cyberattacks have increased consumer wariness, making proactive communication about security measures crucial for building trust in telehealth services.",
+      "Telehealth providers need a robust digital presence, including a modern, mobile-optimized website with clear calls-to-action like \"Book an Appointment.\" Effective content marketing and SEO are also crucial to ensure the service appears in search results and is perceived as a trustworthy and convenient care option."
+    ],
+    "date": "2025-06-25",
+    "example_dr_questions": [
+      "How can telehealth companies build patient trust through digital marketing, given concerns around privacy and quality of online care?",
+      "What marketing tactics are most effective to reach and engage patients who prefer virtual healthcare options (for example, social media outreach, content marketing, or online reviews)?",
+      "Why are website user experience and search engine visibility so important for telehealth providers looking to attract new patients in a digital-first era?"
+    ]
+  },
+  {
+    "industry": "healthcare",
+    "domain": "cybersecurity",
+    "url": "https://www.aha.org/news/aha-cyber-intel/2024-10-07-look-2024s-health-care-cybersecurity-challenges",
+    "insights": [
+      "In 2024, healthcare cyberattacks remain at record levels, with 386 attacks reported in the year's first part, matching the pace of 2023, the worst year for breaches. These breaches have significantly impacted both data security and clinical operations.",
+      "Ransomware attacks in healthcare pose \"threat-to-life\" risks by shutting down critical systems and delaying patient care. A February 2024 attack on Change Healthcare, a major third-party health IT provider, disrupted nationwide patient care and halted billions in payments, highlighting the severe impact a single cyber incident can have on healthcare delivery.",
+      "Healthcare's third-party data breaches surged by 287% from 2022 to 2023, affecting a significant number of individuals. The evolving cybersecurity threats, marked by collaboration between nation-state hackers and ransomware groups, have led to calls for stronger coordinated defenses, including new HHS cybersecurity guidelines, to safeguard patient data and maintain service continuity."
+    ],
+    "date": "2024-10-07",
+    "example_dr_questions": [
+      "What steps can healthcare organizations take to protect themselves from ransomware attacks that could disrupt patient care or safety?",
+      "How can hospitals and health systems mitigate the risks posed by cyber breaches at third-party vendors that handle critical healthcare operations or data?",
+      "In what ways are government agencies and industry groups responding to the rise of advanced cyber threats (like nation-state-linked attacks) against healthcare providers?"
+    ]
+  },
+  {
+    "industry": "automobiles",
+    "domain": "compliance",
+    "url": "https://www.wardsauto.com/regulatory/ev-regulations-continue-evolving",
+    "insights": [
+      "Regulators like the EPA and California's CARB are now mandating durability and warranty guarantees for EV batteries, moving beyond mere production incentives. This shift aims to enhance consumer confidence in electric vehicles by ensuring high performance and reliability standards.",
+      "California's Advanced Clean Cars II (ACC II) rule requires 35% of new vehicles sold to be zero-emission by 2026, reaching 100% by 2035, with stringent EV standards. EV manufacturers must include OBD-II diagnostics, display battery \"state of health\" to drivers, and ensure that by 2030, EV batteries retain at least 80% of their range for 10 years or 150,000 miles.",
+      "The U.S. EPA's proposed 2027+ emissions standards suggest automakers will need approximately 67% EV sales by 2032 to meet CO2 limits. The proposal includes EV-specific durability rules, requiring battery health monitors and ensuring light-duty EVs maintain 80% battery capacity for up to 5 years/62,000 miles and 70% for up to 8 years/100,000 miles."
+    ],
+    "date": "2024-03-15",
+    "example_dr_questions": [
+      "What strategies are automakers adopting to comply with new EV battery durability and warranty regulations while maintaining consumer trust?",
+      "How do differing regional EV regulations (e.g., California’s ACC II vs. federal EPA standards) impact automakers’ compliance strategies in the electric vehicle market?",
+      "What challenges do car manufacturers face in meeting zero-emission vehicle sales mandates by target dates (such as 2035), and how are they addressing those challenges?"
+    ]
+  },
+  {
+    "industry": "automobiles",
+    "domain": "crm",
+    "url": "https://www.techtarget.com/searchcustomerexperience/news/252526031/Salesforce-Industries-adds-Automotive-Cloud-CRM",
+    "insights": [
+      "Automakers are increasingly adopting CRM tools like Salesforce's new Automotive Cloud to maintain direct customer relationships in the EV era. This platform integrates sales, service, and marketing data, enabling manufacturers, dealers, and finance firms to track customers and vehicles post-sale, preserving valuable insights typically lost after a car is sold through a dealer.",
+      "The Automotive Cloud provides industry-specific features such as the \"Drive Console\" for aggregating customer touchpoints and the \"Vehicle Console\" for displaying repair history and telemetry. It also includes tools like household car ownership profiles, lead management, and dealer performance dashboards, all tailored to meet automotive CRM needs.",
+      "Automotive Cloud addresses the issue of fragmented customer data in auto sales by offering pre-built data models and integrations that unify customer information. This solution enables automakers and dealer networks to provide a seamless experience across sales, service, and marketing systems, ensuring customers do not \"fall through the cracks.\""
+    ],
+    "date": "2022-10-13",
+    "example_dr_questions": [
+      "How can automakers leverage CRM platforms to maintain continuous relationships with customers beyond the initial vehicle sale?",
+      "In what ways can integrated CRM data help electric vehicle companies personalize the buying and ownership experience for their customers?",
+      "What challenges do automotive manufacturers face when consolidating dealership, online, and service data into a unified CRM system, and how can they overcome them?"
+    ]
+  },
+  {
+    "industry": "automobiles",
+    "domain": "csm",
+    "url": "https://theevreport.com/enhancing-ev-trust-through-aftersales-support",
+    "insights": [
+      "As EV sales growth slows, automakers are emphasizing after-sales service quality, with strong warranties and customer support as key differentiators. A survey revealed that 75% of global consumers prioritize warranties when purchasing vehicles, prompting EV brands like VinFast to offer 10-year comprehensive warranties, including battery coverage, to build trust with hesitant buyers.",
+      "EV companies are enhancing customer service by incorporating software updates as part of aftersales services, with VinFast using over-the-air updates to add features like entertainment apps to existing vehicles. Additionally, VinFast has partnered to secure access to over 90,000 charging stations in North America, addressing range anxiety and improving convenience for customers.",
+      "In the EV sector, companies are adopting future-oriented aftersales strategies like remote diagnostics and predictive maintenance to proactively address issues and offer personalized services. While technology plays a crucial role, executives emphasize that exceptional customer care, such as quick roadside assistance and attentive service staff, is vital for fostering customer loyalty and positive word-of-mouth during the shift to electric mobility."
+    ],
+    "date": "2024-08-19",
+    "example_dr_questions": [
+      "How can electric vehicle manufacturers enhance their after-sales service and support to increase customer trust and reduce attrition?",
+      "What is the impact of offering long-term warranties and proactive support programs on customer satisfaction and loyalty in the EV industry?",
+      "In what ways are EV companies leveraging new technologies (like over-the-air updates and remote diagnostics) to transform the customer service experience for electric car owners?"
+    ]
+  },
+  {
+    "industry": "automobiles",
+    "domain": "sales",
+    "url": "https://theweek.com/us/1024416/tesla-vs-car-dealerships",
+    "insights": [
+      "Tesla's direct-to-consumer model, which bypasses traditional dealerships by selling directly through its own stores, is disrupting the U.S. car dealership system. This approach has influenced other EV startups like Rivian, Lucid, and Polestar to adopt similar strategies, and even legacy automakers are exploring ways to bypass their dealer networks for EV sales.",
+      "Volkswagen plans to sell its Scout EVs through a standalone direct-sales brand, and Ford requires dealers to adopt no-haggle pricing for its EVs. In Europe, luxury brands like Mercedes-Benz and BMW are shifting to an agency model, allowing customers to order directly from manufacturers, a move opposed by U.S. dealership lobbyists. Florida has enacted a law prohibiting legacy automakers from direct sales while allowing pure EV companies like Tesla to continue this practice.",
+      "Car dealers, supported by the National Automobile Dealers Association (NADA) and state associations, view direct sales as a threat and use political influence to uphold franchise model laws that restrict manufacturers from selling or servicing cars directly. While dealers claim they offer consumer benefits like handling warranty claims and local price competition, critics argue they add unnecessary costs and complications. The rise of EVs is intensifying this conflict, as dealerships aim to maintain the traditional model, while new market entrants and consumer trends favor a streamlined, online sales approach."
+    ],
+    "date": "2023-06-21",
+    "example_dr_questions": [
+      "How can automakers modernize the car-buying process (for example, through direct online sales or transparent pricing) to meet consumer expectations in the electric vehicle era?",
+      "What strategies can legacy car manufacturers use to balance a direct-to-consumer sales approach with their existing dealership networks as they roll out new EV models?",
+      "How does a no-haggle, agency-style sales model (where pricing is set by the manufacturer) impact customer satisfaction and sales performance in the automotive industry?"
+    ]
+  },
+  {
+    "industry": "automobiles",
+    "domain": "research",
+    "url": "https://www.here.com/learn/blog/how-ai-optimizes-electric-vehicles",
+    "insights": [
+      "AI-enhanced battery management systems can predict and maintain State-of-Health, enabling EV batteries to retain approximately 90 % of their original capacity even after 6.5 years of use.",
+      "Reinforcement learning–based energy management in PHEVs and FCEVs has shown measurable improvements in energy efficiency and real-time performance, outperforming conventional strategies.",
+      "Adaptive charging and routing strategies using pre-computed shortest-path trees have led to up to 97 % reductions in waiting times at charging stations in simulation studies."
+    ],
+    "date": "2024-08-19",
+    "example_dr_questions": [
+      "How can AI-driven battery health monitoring systems extend the operational lifespan of electric vehicle batteries in real-world conditions?",
+    "In what ways can AI-powered route and charging station planning be optimized to reduce range anxiety and improve charging efficiency for EV drivers?",
+    "What synergies arise when integrating AI-based battery management with intelligent charging and routing functions to enhance overall EV energy efficiency and user experience?"
+    ]
+  },
+  {
+    "industry": "automobiles",
+    "domain": "cybersecurity",
+    "url": "https://www.helpnetsecurity.com/2025/04/04/cybersecurity-risks-cars/",
+    "insights": [
+      "In 2024, researchers exposed cybersecurity vulnerabilities in connected cars by remotely exploiting a flaw in Kia's online services, allowing them to control functions on any Kia vehicle made since 2013, and similarly hijacking certain Subaru models. These incidents highlight the significant risks to driver safety and data privacy posed by modern vehicles, often referred to as \"computers on wheels.\" Automakers must address these cybersecurity threats to protect their customers.",
+      "Cyberattacks on vehicles and automotive IT systems have resulted in estimated financial losses of $22.5 billion, including $20 billion from data breaches and $1.9 billion from operational downtime. Vulnerabilities such as unsecured wireless interfaces and physical access points are being targeted, prompting manufacturers to enhance cybersecurity measures with improved encryption, authentication, and intrusion detection systems.",
+      "The rise of autonomous and connected EVs introduces significant cybersecurity challenges, particularly with V2X communications and over-the-air updates. The European Union has enacted strict automotive cybersecurity rules, while the U.S. relies on voluntary guidelines. Automakers must collaborate with governments and tech partners to integrate cybersecurity as a core aspect of vehicle safety."
+    ],
+    "date": "2025-04-04",
+    "example_dr_questions": [
+      "How are automakers integrating cybersecurity measures into vehicle design to prevent hackers from remotely taking control of connected cars?",
+      "What are the main vulnerabilities in electric and autonomous vehicles’ software and networks, and what technologies can be used to mitigate these risks (e.g., encryption, intrusion detection, secure OTA updates)?",
+      "How are regulators around the world addressing automotive cybersecurity, and what impact will emerging standards have on car manufacturers’ approach to data and vehicle security?"
+    ]
+  },
+  {
+    "industry": "automobiles",
+    "domain": "quality_assurance",
+    "url": "https://www.greencars.com/expert-insights/do-evs-have-more-quality-problems",
+    "insights": [
+      "J.D. Power’s 2024 Initial Quality Study reveals that new EVs average 266 problems per 100 vehicles in the first 90 days, compared to the industry average of 195 PP100, with issues primarily related to software and user experience rather than core mechanics. The study highlights that the problems are largely due to high-tech features and infotainment systems, not drivetrain failures.",
+      "Tesla's removal of traditional turn-signal and wiper stalks in favor of touch controls on newer models led to increased owner complaints and lower quality ratings due to the unintuitive interface. Additionally, misunderstandings about advanced driver-assist features, such as alerts for rear-seat reminders or automatic braking, contribute to perceived problems among EV owners. These issues underscore the importance of user-centric design and comprehensive customer training in enhancing EV quality assurance.",
+      "Infotainment and connectivity systems are the leading sources of initial problems in modern vehicles, particularly EVs, with J.D. Power data indicating \"features, controls, and displays\" issues are 30% higher for electric cars. Common complaints include unreliable navigation, smartphone app glitches, and difficulties with touch-screen menus, with phone integration issues like Apple CarPlay/Android Auto dropouts being prevalent. Brands like Ram and Lexus, which prioritize simplicity and robust design, scored better in quality, highlighting the importance of rigorous software testing and user-friendly controls in automotive quality assurance for EVs."
+    ],
+    "date": "2024-07-18",
+    "example_dr_questions": [
+      "What unique quality assurance challenges do electric vehicles face compared to traditional cars, and how can automakers address the higher incidence of tech-related issues reported by EV owners?",
+      "How can automotive designers and engineers improve the user interface and software in EVs to reduce customer frustration and perceived quality problems (for example, with infotainment or driver-assistance controls)?",
+      "What best practices in testing and customer education can automakers implement to ensure that advanced features in electric vehicles (connectivity, safety alerts, etc.) don’t negatively impact initial quality and owner satisfaction?"
+    ]
+  },
+  {
+    "industry": "automobiles",
+    "domain": "asset_management",
+    "url": "https://www.rtinsights.com/enhancing-digital-twins-with-digital-engineering-capabilities/",
+    "insights": [
+      "EV manufacturers utilize digital twin technology to create virtual prototypes, reducing the need for physical models and accelerating development. This method allows engineers to optimize components like battery systems and drivetrains under various conditions, thereby cutting costs and development time.",
+      "Digital twins enhance production efficiency for EV makers by enabling real-time monitoring of assembly lines, optimizing resource allocation, and reducing downtime. They also support predictive maintenance by analyzing sensor data to predict part failures, improving reliability and minimizing unexpected breakdowns.",
+      "Digital twins enable EV manufacturers to manage the entire asset lifecycle, from design to disposal, enhancing resource optimization, product lifespan, and sustainability compliance. This comprehensive approach improves asset utilization and provides a competitive advantage in the industry."
+    ],
+    "date": "2024-09-13",
+    "example_dr_questions": [
+      "How can EV manufacturers further integrate digital twin and AI technologies into their asset management systems to enhance predictive maintenance and reduce production downtime?",
+      "What strategies are legacy automakers adopting to repurpose or upgrade existing manufacturing assets for EV production, and what impact do these strategies have on capital expenditures and operational efficiency?",
+      "In managing the lifecycle of EV assets (from factory equipment to the vehicles on the road), how do companies like Tesla or Rivian balance sustainability goals with performance and cost, and what metrics do they use to measure success in asset management?"
+    ]
+  },
+  {
+    "industry": "automobiles",
+    "domain": "market_analysis",
+    "url": "https://www.iea.org/reports/global-ev-outlook-2024/trends-in-electric-cars",
+    "insights": [
+      "In 2023, global electric vehicle sales surged to nearly 14 million, marking a 35% increase from 2022 and comprising approximately 18% of all cars sold, up from 2% in 2018. This rapid growth highlights strong demand and maturation in EV markets, significantly outpacing the overall auto industry's growth.",
+      "In 2023, China, Europe, and the United States dominated global EV sales, with China accounting for 60% of new electric car registrations, Europe 25%, and the U.S. 10%, together making up 95% of global sales. In China, over one in three new cars sold was electric, compared to one in five in Europe and one in ten in the U.S. This concentration underscores significant regional disparities in EV infrastructure and policy support.",
+      "In 2023, the U.S. EV market saw a 40% increase in sales, reaching approximately 1.4 million units, driven by expanded federal incentives and automakers' price reductions. The Inflation Reduction Act's updated EV tax credits, such as the $7,500 credit for Tesla's Model Y, which boosted its sales by 50%, highlight the significant influence of government incentives and pricing strategies on EV adoption."
+    ],
+    "date": "2024-04-01",
+    "example_dr_questions": [
+      "What are the key factors driving the rapid global growth of electric vehicle sales, and how are automakers adjusting their strategies to capitalize on these trends?",
+      "How is the concentration of EV sales in China, Europe, and the U.S. shaping automakers’ market strategies, and what can be done to spur EV adoption in other regions?",
+      "In what ways do government policies (such as EV purchase incentives or subsidy phase-outs) impact the competitive dynamics of the EV market and automakers’ investment decisions?"
+    ]
+  }
+]

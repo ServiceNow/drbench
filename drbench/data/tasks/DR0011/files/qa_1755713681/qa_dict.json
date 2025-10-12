@@ -1,0 +1,10 @@
+{
+    "insight_id": "qa_1755713681",
+    "qa_type": "distractor",
+    "qa_index": 2,
+    "specific_question": "What was our average training hours per employee in Q2 2025?",
+    "answer": "Average training hours per employee reached 12 hours, a 20% increase.",
+    "justification": "Employee training metrics do not address regulatory compliance or EV battery durability.",
+    "timestamp": "2025-08-20 11:14",
+    "dr_question": "How can we balance the need for durability and warranty guarantees for EV batteries with evolving regulatory requirements, especially ACC regulations (ACC II), while staying on track with our production timelines through 2035?"
+}

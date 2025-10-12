@@ -1,0 +1,10 @@
+{
+    "insight_id": "qa_1755631867",
+    "qa_type": "distractor",
+    "qa_index": 2,
+    "specific_question": "Average employee satisfaction score Q1 2025?",
+    "answer": "Employee satisfaction score averaged 82% in Q1 2025.",
+    "justification": "Employee satisfaction does not influence insurance acceptance decisions.",
+    "timestamp": "2025-08-19 12:31",
+    "dr_question": "What are the key factors influencing MediConn Solutions' decision to accept insurance for telehealth providers, considering HIPAA compliance and state-specific data privacy regulations?"
+}

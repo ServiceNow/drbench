@@ -1,0 +1,11 @@
+Quarter,Compliance_Rate,Regulation_Impact
+The fiscal quarter and year for which the compliance rate is being reported. This helps to track compliance over time.,The percentage of third-party vendors in compliance during the specified quarter. This is crucial for assessing vendor risk and guiding regulation implementation.,A brief description of how the compliance rate affects regulatory actions and security measures. This provides context for cybersecurity decision-makers.
+Q1 2025,55.00%,"Helps assess vendor risk, guiding regulation implementation to improve security."
+Q1 2023,44.00%,"Ongoing challenges in compliance, requiring enhanced vendor oversight."
+Q2 2024,48.00%,"Slight decrease, prompting review of security measures."
+Q3 2024,50.00%,"Compliance rate stable, maintaining current regulatory measures."
+Q1 2024,47.00%,"Low compliance rate, increased regulatory scrutiny required."
+Q3 2023,46.00%,"Stable rates, suggesting need for more proactive measures."
+Q2 2023,45.00%,"Consistent with previous quarters, no immediate regulatory changes."
+Q4 2023,49.00%,"Modest increase, indicating effectiveness of recent policies."
+Q4 2024,52.00%,Slight improvement in vendor risk assessment and regulatory actions.

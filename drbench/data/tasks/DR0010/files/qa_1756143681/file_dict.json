@@ -1,0 +1,8 @@
+{
+    "file_name": "MediConn_Online_Consultation_Booking_Insights",
+    "file_format": "xlsx",
+    "file_path": "drbench/data/tasks/DR0010/files/qa_1756143681/MediConn_Online_Consultation_Booking_Insights.xlsx",
+    "csv_path": "drbench/data/tasks/DR0010/files/qa_1756143681/MediConn_Online_Consultation_Booking_Insights.csv",
+    "qa_type": "insight",
+    "app": "file_system"
+}

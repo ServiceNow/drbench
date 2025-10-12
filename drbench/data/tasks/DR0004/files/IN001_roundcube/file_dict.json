@@ -1,0 +1,125 @@
+{
+    "file_name": "roundcube_email_20250818_131813",
+    "content": "{\"type\": \"user\", \"username\": \"sofia.patel\", \"first_name\": \"Sofia\", \"last_name\": \"Patel\", \"email\": \"sofia.patel@leesmarket.com\"}\n{\"type\": \"user\", \"username\": \"emily.chen\", \"first_name\": \"Emily\", \"last_name\": \"Chen\", \"email\": \"emily.chen@leesmarket.com\"}\n{\"type\": \"user\", \"username\": \"ryan.kim\", \"first_name\": \"Ryan\", \"last_name\": \"Kim\", \"email\": \"ryan.kim@leesmarket.com\"}\n{\"type\": \"user\", \"username\": \"kevin.lee\", \"first_name\": \"Kevin\", \"last_name\": \"Lee\", \"email\": \"kevin.lee@leesmarket.com\"}\n{\"type\": \"email\", \"id\": \"email_001\", \"subject\": \"Q2 Budget Review and Planning\", \"from\": \"emily.chen@leesmarket.com\", \"from_name\": \"Emily Chen\", \"to\": [\"sofia.patel@leesmarket.com\", \"ryan.kim@leesmarket.com\"], \"cc\": [\"kevin.lee@leesmarket.com\"], \"date\": \"2023-04-10 14:30:00\", \"body\": \"Hello Team,\\n\\nI hope this email finds you well. As we approach the end of Q1, it's time to review our budget and plan for Q2. I've attached a detailed breakdown of our current expenses and projected income for the next quarter.\\n\\nI'd like to schedule a meeting to discuss the budget and address any questions or concerns you may have. Please let me know your availability, and I'll send out a meeting invite.\\n\\nIn preparation for the meeting, please review the attached document and come prepared with any suggestions or recommendations for cost savings or revenue growth.\\n\\nLooking forward to hearing your thoughts.\\n\\nBest regards,\\nEmily Chen\", \"folder\": \"inbox\", \"read\": true, \"attachments\": [\"Q2_Budget_Breakdown.xlsx\"]}\n{\"type\": \"email\", \"id\": \"email_001\", \"subject\": \"Q2 2024 Sales Performance Update\", \"from\": \"emily.chen@leesmarket.com\", \"from_name\": \"Emily Chen\", \"to\": [\"sofia.patel@leesmarket.com\", \"ryan.kim@leesmarket.com\"], \"cc\": [\"kevin.lee@leesmarket.com\"], \"date\": \"2024-07-25 14:30:00\", \"body\": \"Dear Team,\\n\\nI hope this email finds you well. I am writing to share the Q2 2024 sales performance update for Lee's Market. As we continue to navigate the competitive grocery retail landscape, it's essential to monitor our progress and adjust our strategies accordingly.\\n\\nOur private label sales have seen a significant increase, with a 12% growth in Q2 2024, reaching $15 million. This growth is a testament to our efforts to enhance our private label offerings and improve customer satisfaction.\\n\\nI have attached the detailed sales report for your review. Please let me know if you have any questions or concerns.\\n\\nBest regards,\\nEmily Chen\", \"folder\": \"inbox\", \"read\": true, \"attachments\": [\"Q2 2024 Sales Report.pdf\"]}\n{\"type\": \"email\", \"id\": \"email_002\", \"subject\": \"Re: Q2 2024 Sales Performance Update\", \"from\": \"sofia.patel@leesmarket.com\", \"from_name\": \"Sofia Patel\", \"to\": [\"emily.chen@leesmarket.com\"], \"cc\": [\"ryan.kim@leesmarket.com\", \"kevin.lee@leesmarket.com\"], \"date\": \"2024-07-25 15:15:00\", \"body\": \"Hi Emily,\\n\\nThank you for sharing the Q2 2024 sales performance update. The growth in private label sales is impressive, and it's essential to understand the factors contributing to this success. Can you provide more insights on the customer behavior and preferences that are driving this growth?\\n\\nI would like to discuss this further and explore opportunities to build on this momentum.\\n\\nBest regards,\\nSofia Patel\", \"folder\": \"sent\", \"read\": true, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_003\", \"subject\": \"Re: Q2 2024 Sales Performance Update\", \"from\": \"emily.chen@leesmarket.com\", \"from_name\": \"Emily Chen\", \"to\": [\"sofia.patel@leesmarket.com\"], \"cc\": [\"ryan.kim@leesmarket.com\", \"kevin.lee@leesmarket.com\"], \"date\": \"2024-07-25 16:00:00\", \"body\": \"Hi Sofia,\\n\\nI'd be happy to provide more insights on the customer behavior and preferences driving the growth in private label sales. Our data suggests that customers are increasingly looking for unique and authentic products that cater to their diverse tastes and preferences. Our private label offerings have been able to meet this demand, resulting in increased customer loyalty and retention.\\n\\nI agree that we should explore opportunities to build on this momentum. Perhaps we can discuss this further in our next marketing meeting and identify strategies to continue driving growth in this area.\\n\\nBest regards,\\nEmily Chen\", \"folder\": \"inbox\", \"read\": true, \"attachments\": []}",
+    "email_setup": [
+        {
+            "type": "user",
+            "username": "sofia.patel",
+            "first_name": "Sofia",
+            "last_name": "Patel",
+            "email": "sofia.patel@leesmarket.com"
+        },
+        {
+            "type": "user",
+            "username": "emily.chen",
+            "first_name": "Emily",
+            "last_name": "Chen",
+            "email": "emily.chen@leesmarket.com"
+        },
+        {
+            "type": "user",
+            "username": "ryan.kim",
+            "first_name": "Ryan",
+            "last_name": "Kim",
+            "email": "ryan.kim@leesmarket.com"
+        },
+        {
+            "type": "user",
+            "username": "kevin.lee",
+            "first_name": "Kevin",
+            "last_name": "Lee",
+            "email": "kevin.lee@leesmarket.com"
+        }
+    ],
+    "email_messages": [
+        {
+            "type": "email",
+            "id": "email_001",
+            "subject": "Q2 Budget Review and Planning",
+            "from": "emily.chen@leesmarket.com",
+            "from_name": "Emily Chen",
+            "to": [
+                "sofia.patel@leesmarket.com",
+                "ryan.kim@leesmarket.com"
+            ],
+            "cc": [
+                "kevin.lee@leesmarket.com"
+            ],
+            "date": "2023-04-10 14:30:00",
+            "body": "Hello Team,\n\nI hope this email finds you well. As we approach the end of Q1, it's time to review our budget and plan for Q2. I've attached a detailed breakdown of our current expenses and projected income for the next quarter.\n\nI'd like to schedule a meeting to discuss the budget and address any questions or concerns you may have. Please let me know your availability, and I'll send out a meeting invite.\n\nIn preparation for the meeting, please review the attached document and come prepared with any suggestions or recommendations for cost savings or revenue growth.\n\nLooking forward to hearing your thoughts.\n\nBest regards,\nEmily Chen",
+            "folder": "inbox",
+            "read": true,
+            "attachments": [
+                "Q2_Budget_Breakdown.xlsx"
+            ],
+            "tag": "distractor"
+        },
+        {
+            "type": "email",
+            "id": "email_001",
+            "subject": "Q2 2024 Sales Performance Update",
+            "from": "emily.chen@leesmarket.com",
+            "from_name": "Emily Chen",
+            "to": [
+                "sofia.patel@leesmarket.com",
+                "ryan.kim@leesmarket.com"
+            ],
+            "cc": [
+                "kevin.lee@leesmarket.com"
+            ],
+            "date": "2024-07-25 14:30:00",
+            "body": "Dear Team,\n\nI hope this email finds you well. I am writing to share the Q2 2024 sales performance update for Lee's Market. As we continue to navigate the competitive grocery retail landscape, it's essential to monitor our progress and adjust our strategies accordingly.\n\nOur private label sales have seen a significant increase, with a 12% growth in Q2 2024, reaching $15 million. This growth is a testament to our efforts to enhance our private label offerings and improve customer satisfaction.\n\nI have attached the detailed sales report for your review. Please let me know if you have any questions or concerns.\n\nBest regards,\nEmily Chen",
+            "folder": "inbox",
+            "read": true,
+            "attachments": [
+                "Q2 2024 Sales Report.pdf"
+            ],
+            "tag": "insight"
+        },
+        {
+            "type": "email",
+            "id": "email_002",
+            "subject": "Re: Q2 2024 Sales Performance Update",
+            "from": "sofia.patel@leesmarket.com",
+            "from_name": "Sofia Patel",
+            "to": [
+                "emily.chen@leesmarket.com"
+            ],
+            "cc": [
+                "ryan.kim@leesmarket.com",
+                "kevin.lee@leesmarket.com"
+            ],
+            "date": "2024-07-25 15:15:00",
+            "body": "Hi Emily,\n\nThank you for sharing the Q2 2024 sales performance update. The growth in private label sales is impressive, and it's essential to understand the factors contributing to this success. Can you provide more insights on the customer behavior and preferences that are driving this growth?\n\nI would like to discuss this further and explore opportunities to build on this momentum.\n\nBest regards,\nSofia Patel",
+            "folder": "sent",
+            "read": true,
+            "attachments": [],
+            "tag": "insight"
+        },
+        {
+            "type": "email",
+            "id": "email_003",
+            "subject": "Re: Q2 2024 Sales Performance Update",
+            "from": "emily.chen@leesmarket.com",
+            "from_name": "Emily Chen",
+            "to": [
+                "sofia.patel@leesmarket.com"
+            ],
+            "cc": [
+                "ryan.kim@leesmarket.com",
+                "kevin.lee@leesmarket.com"
+            ],
+            "date": "2024-07-25 16:00:00",
+            "body": "Hi Sofia,\n\nI'd be happy to provide more insights on the customer behavior and preferences driving the growth in private label sales. Our data suggests that customers are increasingly looking for unique and authentic products that cater to their diverse tastes and preferences. Our private label offerings have been able to meet this demand, resulting in increased customer loyalty and retention.\n\nI agree that we should explore opportunities to build on this momentum. Perhaps we can discuss this further in our next marketing meeting and identify strategies to continue driving growth in this area.\n\nBest regards,\nEmily Chen",
+            "folder": "inbox",
+            "read": true,
+            "attachments": [],
+            "tag": "insight"
+        }
+    ],
+    "file_format": "jsonl",
+    "file_path": ".llm_responses/generated_email_document.jsonl",
+    "qa_type": "insight",
+    "timestamp": "2025-08-18 10:18",
+    "app": "roundcube"
+}

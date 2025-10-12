@@ -1,0 +1,13 @@
+Quarter,Average_Commuting_Distance,Public_Transport_Usage,Employee_Count,Digital_Presence_Focus
+"The fiscal quarter for which the data is reported, e.g., Q1 2025, Q2 2025.",The average distance in miles that employees commute to work.,The percentage of employees using public transportation for commuting.,The total number of employees included in the commuting statistics for the given quarter.,Indicates if the company's focus in the given quarter was on digital presence and telehealth marketing.
+Q1 2023,13.1,0.58,890,True
+Q3 2023,13.2,0.6,920,False
+Q2 2023,12.8,0.62,930,False
+Q1 2024,12,0.5,950,True
+Q2 2025,13,0.65,1150,True
+Q1 2025,12.5,0.6,1100,True
+Q4 2023,11,0.45,900,False
+Q4 2024,14,0.7,1000,False
+Q3 2024,13.5,0.55,1050,False
+Q2 2024,14.5,0.68,980,True
+Q3 2025,15,0.75,1200,False

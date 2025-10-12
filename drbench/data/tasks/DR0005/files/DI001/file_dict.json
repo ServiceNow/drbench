@@ -1,0 +1,245 @@
+{
+    "file_name": "mattermost_chat_20250815_171206",
+    "content": "{\"type\": \"version\", \"version\": 1}\n{\"type\": \"team\", \"team\": {\"name\": \"customer-service\", \"display_name\": \"Customer Service\", \"type\": \"O\", \"header\": \"Team for customer service operations\", \"purpose\": \"Improve overall customer experience\"}}\n{\"type\": \"team\", \"team\": {\"name\": \"retail-expansion\", \"display_name\": \"Retail Expansion\", \"type\": \"O\", \"header\": \"Team for retail expansion and new store openings\", \"purpose\": \"Manage and discuss new store locations and retail strategies\"}}\n{\"type\": \"channel\", \"channel\": {\"team\": \"customer-service\", \"name\": \"customer-feedback\", \"display_name\": \"Customer Feedback\", \"type\": \"O\", \"header\": \"Channel for customer feedback and service standards discussion\", \"purpose\": \"Improve customer service based on customer feedback\"}}\n{\"type\": \"channel\", \"channel\": {\"team\": \"retail-expansion\", \"name\": \"new-store-openings\", \"display_name\": \"New Store Openings\", \"type\": \"O\", \"header\": \"Channel for discussing new store locations and expansion strategies\", \"purpose\": \"Manage and track new store openings\"}}\n{\"type\": \"user\", \"user\": {\"username\": \"david.thompson\", \"password\": \"david.thompson_pwd\", \"email\": \"dthompson@leesmarket.com\", \"nickname\": \"David\", \"first_name\": \"David\", \"last_name\": \"Thompson\", \"position\": \"Customer Service Manager\", \"roles\": \"system_user\", \"locale\": \"en\", \"teams\": [{\"name\": \"customer-service\", \"roles\": \"team_user\", \"channels\": [{\"name\": \"customer-feedback\", \"roles\": \"channel_user\"}]}, {\"name\": \"retail-expansion\", \"roles\": \"team_user\", \"channels\": [{\"name\": \"new-store-openings\", \"roles\": \"channel_user\"}]}]}}\n{\"type\": \"user\", \"user\": {\"username\": \"jlee\", \"password\": \"jlee_pwd\", \"email\": \"jlee@leesmarket.com\", \"nickname\": \"Jason\", \"first_name\": \"Jason\", \"last_name\": \"Lee\", \"position\": \"Retail Expansion Manager\", \"roles\": \"system_user\", \"locale\": \"en\", \"teams\": [{\"name\": \"retail-expansion\", \"roles\": \"team_user\", \"channels\": [{\"name\": \"new-store-openings\", \"roles\": \"channel_user\"}]}]}}\n{\"type\": \"user\", \"user\": {\"username\": \"skim\", \"password\": \"skim_pwd\", \"email\": \"skim@leesmarket.com\", \"nickname\": \"Sophia\", \"first_name\": \"Sophia\", \"last_name\": \"Kim\", \"position\": \"Customer Service Representative\", \"roles\": \"system_user\", \"locale\": \"en\", \"teams\": [{\"name\": \"customer-service\", \"roles\": \"team_user\", \"channels\": [{\"name\": \"customer-feedback\", \"roles\": \"channel_user\"}]}]}}\n{\"type\": \"post\", \"post\": {\"team\": \"customer-service\", \"channel\": \"customer-feedback\", \"user\": \"david.thompson\", \"message\": \"Hi team, just a reminder that our customer satisfaction survey is going live next Monday. Please make sure to share the link with your customers and encourage them to provide feedback.\", \"create_at\": 1690345200000}}\n{\"type\": \"post\", \"post\": {\"team\": \"retail-expansion\", \"channel\": \"new-store-openings\", \"user\": \"jlee\", \"message\": \"I've scheduled a meeting with the marketing team to discuss our grand opening promotions strategy. If anyone would like to join, please let me know and I'll send over the invite.\", \"create_at\": 1690350800000}}\n{\"type\": \"post\", \"post\": {\"team\": \"customer-service\", \"channel\": \"customer-feedback\", \"user\": \"skim\", \"message\": \"Hi David, I had a customer complaint about our return policy. They felt it was unclear and caused some confusion. Should we revisit our policy and make some adjustments?\", \"create_at\": 1690354400000}}\n{\"type\": \"post\", \"post\": {\"team\": \"retail-expansion\", \"channel\": \"new-store-openings\", \"user\": \"jlee\", \"message\": \"Just a heads up that the IT team will be conducting some system maintenance this weekend, which may cause some disruptions to our inventory management system.\", \"create_at\": 1690358000000}}\n{\"type\": \"post\", \"post\": {\"team\": \"customer-service\", \"channel\": \"customer-feedback\", \"user\": \"david.thompson\", \"message\": \"Great point Sophia, I think it's time we review our return policy and make some changes. Can you work on drafting an updated version and I'll review it?\", \"create_at\": 1690361600000}}\n{\"type\": \"post\", \"post\": {\"team\": \"retail-expansion\", \"channel\": \"new-store-openings\", \"user\": \"jlee\", \"message\": \"Also, don't forget that our quarterly team meeting is scheduled for next Thursday at 2 PM. We'll be discussing our progress and goals for the next quarter.\", \"create_at\": 1690365200000}}\n{\"type\": \"post\", \"post\": {\"team\": \"retail-expansion\", \"channel\": \"new-store-openings\", \"user\": \"jlee\", \"message\": \"Hello team, I'd like to share our Q3 2024 new store openings report. We've successfully opened 12 new locations across the US, with 4 in California, 3 in New York, and 5 in Texas. This brings our total store count to 75 locations. Great job to everyone involved in the expansion efforts!\", \"create_at\": 1696560000000}}\n{\"type\": \"post\", \"post\": {\"team\": \"retail-expansion\", \"channel\": \"new-store-openings\", \"user\": \"david.thompson\", \"message\": \"Hi Jason, thanks for sharing the Q3 new store openings report. Can you provide more details on the Texas locations? Which cities did we expand to?\", \"create_at\": 1696561000000}}\n{\"type\": \"post\", \"post\": {\"team\": \"retail-expansion\", \"channel\": \"new-store-openings\", \"user\": \"jlee\", \"message\": \"We opened 2 locations in Houston, 2 in Dallas, and 1 in Austin. All of these locations are now fully operational and receiving great customer feedback. I'll send over the detailed report to you via email.\", \"create_at\": 1696562000000}}",
+    "chat_setup": {
+        "teams": [
+            {
+                "type": "team",
+                "team": {
+                    "name": "customer-service",
+                    "display_name": "Customer Service",
+                    "type": "O",
+                    "header": "Team for customer service operations",
+                    "purpose": "Improve overall customer experience"
+                }
+            },
+            {
+                "type": "team",
+                "team": {
+                    "name": "retail-expansion",
+                    "display_name": "Retail Expansion",
+                    "type": "O",
+                    "header": "Team for retail expansion and new store openings",
+                    "purpose": "Manage and discuss new store locations and retail strategies"
+                }
+            }
+        ],
+        "channels": [
+            {
+                "type": "channel",
+                "channel": {
+                    "team": "customer-service",
+                    "name": "customer-feedback",
+                    "display_name": "Customer Feedback",
+                    "type": "O",
+                    "header": "Channel for customer feedback and service standards discussion",
+                    "purpose": "Improve customer service based on customer feedback"
+                }
+            },
+            {
+                "type": "channel",
+                "channel": {
+                    "team": "retail-expansion",
+                    "name": "new-store-openings",
+                    "display_name": "New Store Openings",
+                    "type": "O",
+                    "header": "Channel for discussing new store locations and expansion strategies",
+                    "purpose": "Manage and track new store openings"
+                }
+            }
+        ],
+        "users": [
+            {
+                "type": "user",
+                "user": {
+                    "username": "david.thompson",
+                    "email": "dthompson@leesmarket.com",
+                    "nickname": "David",
+                    "first_name": "David",
+                    "last_name": "Thompson",
+                    "position": "Customer Service Manager",
+                    "roles": "system_user",
+                    "locale": "en",
+                    "teams": [
+                        {
+                            "name": "customer-service",
+                            "roles": "team_user",
+                            "channels": [
+                                {
+                                    "name": "customer-feedback",
+                                    "roles": "channel_user"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "retail-expansion",
+                            "roles": "team_user",
+                            "channels": [
+                                {
+                                    "name": "new-store-openings",
+                                    "roles": "channel_user"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "type": "user",
+                "user": {
+                    "username": "jlee",
+                    "email": "jlee@leesmarket.com",
+                    "nickname": "Jason",
+                    "first_name": "Jason",
+                    "last_name": "Lee",
+                    "position": "Retail Expansion Manager",
+                    "roles": "system_user",
+                    "locale": "en",
+                    "teams": [
+                        {
+                            "name": "retail-expansion",
+                            "roles": "team_user",
+                            "channels": [
+                                {
+                                    "name": "new-store-openings",
+                                    "roles": "channel_user"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "type": "user",
+                "user": {
+                    "username": "skim",
+                    "email": "skim@leesmarket.com",
+                    "nickname": "Sophia",
+                    "first_name": "Sophia",
+                    "last_name": "Kim",
+                    "position": "Customer Service Representative",
+                    "roles": "system_user",
+                    "locale": "en",
+                    "teams": [
+                        {
+                            "name": "customer-service",
+                            "roles": "team_user",
+                            "channels": [
+                                {
+                                    "name": "customer-feedback",
+                                    "roles": "channel_user"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    "chat_messages": [
+        {
+            "type": "post",
+            "post": {
+                "team": "retail-expansion",
+                "channel": "new-store-openings",
+                "user": "jlee",
+                "message": "Hello team, I'd like to share our Q3 2024 new store openings report. We've successfully opened 12 new locations across the US, with 4 in California, 3 in New York, and 5 in Texas. This brings our total store count to 75 locations. Great job to everyone involved in the expansion efforts!",
+                "create_at": 1696560000000
+            },
+            "tag": "insight"
+        },
+        {
+            "type": "post",
+            "post": {
+                "team": "retail-expansion",
+                "channel": "new-store-openings",
+                "user": "david.thompson",
+                "message": "Hi Jason, thanks for sharing the Q3 new store openings report. Can you provide more details on the Texas locations? Which cities did we expand to?",
+                "create_at": 1696561000000
+            },
+            "tag": "insight"
+        },
+        {
+            "type": "post",
+            "post": {
+                "team": "retail-expansion",
+                "channel": "new-store-openings",
+                "user": "jlee",
+                "message": "We opened 2 locations in Houston, 2 in Dallas, and 1 in Austin. All of these locations are now fully operational and receiving great customer feedback. I'll send over the detailed report to you via email.",
+                "create_at": 1696562000000
+            },
+            "tag": "insight"
+        },
+        {
+            "type": "post",
+            "post": {
+                "team": "customer-service",
+                "channel": "customer-feedback",
+                "user": "david.thompson",
+                "message": "Hi team, just a reminder that our customer satisfaction survey is going live next Monday. Please make sure to share the link with your customers and encourage them to provide feedback.",
+                "create_at": 1690345200000
+            },
+            "tag": "distractor"
+        },
+        {
+            "type": "post",
+            "post": {
+                "team": "retail-expansion",
+                "channel": "new-store-openings",
+                "user": "jlee",
+                "message": "I've scheduled a meeting with the marketing team to discuss our grand opening promotions strategy. If anyone would like to join, please let me know and I'll send over the invite.",
+                "create_at": 1690350800000
+            },
+            "tag": "distractor"
+        },
+        {
+            "type": "post",
+            "post": {
+                "team": "customer-service",
+                "channel": "customer-feedback",
+                "user": "skim",
+                "message": "Hi David, I had a customer complaint about our return policy. They felt it was unclear and caused some confusion. Should we revisit our policy and make some adjustments?",
+                "create_at": 1690354400000
+            },
+            "tag": "distractor"
+        },
+        {
+            "type": "post",
+            "post": {
+                "team": "retail-expansion",
+                "channel": "new-store-openings",
+                "user": "jlee",
+                "message": "Just a heads up that the IT team will be conducting some system maintenance this weekend, which may cause some disruptions to our inventory management system.",
+                "create_at": 1690358000000
+            },
+            "tag": "distractor"
+        },
+        {
+            "type": "post",
+            "post": {
+                "team": "customer-service",
+                "channel": "customer-feedback",
+                "user": "david.thompson",
+                "message": "Great point Sophia, I think it's time we review our return policy and make some changes. Can you work on drafting an updated version and I'll review it?",
+                "create_at": 1690361600000
+            },
+            "tag": "distractor"
+        },
+        {
+            "type": "post",
+            "post": {
+                "team": "retail-expansion",
+                "channel": "new-store-openings",
+                "user": "jlee",
+                "message": "Also, don't forget that our quarterly team meeting is scheduled for next Thursday at 2 PM. We'll be discussing our progress and goals for the next quarter.",
+                "create_at": 1690365200000
+            },
+            "tag": "distractor"
+        }
+    ],
+    "file_format": "jsonl",
+    "file_path": ".llm_responses/generated_chat_document.jsonl",
+    "qa_type": "distractor",
+    "timestamp": "2025-08-15 14:12",
+    "app": "mattermost"
+}

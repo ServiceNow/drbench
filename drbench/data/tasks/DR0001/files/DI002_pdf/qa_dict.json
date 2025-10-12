@@ -1,0 +1,10 @@
+{
+    "insight_id": "DI002_pdf",
+    "qa_type": "distractor",
+    "qa_index": 1,
+    "specific_question": "What was the average IT system downtime in Q2 2024?",
+    "answer": "Average IT system downtime was 2 hours with 95% uptime in Q2 2024.",
+    "justification": "IT system downtime does not affect food safety or customer trust.",
+    "timestamp": "2025-08-15 12:58",
+    "dr_question": "How can Lee's Market leverage FSMA 204 regulations to enhance food safety and customer trust?"
+}

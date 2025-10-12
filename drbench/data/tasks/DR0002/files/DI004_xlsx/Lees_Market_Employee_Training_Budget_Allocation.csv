@@ -1,0 +1,13 @@
+Quarter,Year,Training Budget,Department,Location
+"Quarter of the year for which the training budget is allocated (e.g. Q1, Q2, Q3, Q4)",Year for which the training budget is allocated,Total amount allocated for employee training during the specified quarter and year,"Department or team within Lee's Market that the training budget is allocated for (e.g. Sales, Marketing, Operations)","Geographic location within Lee's Market where the training budget is allocated (e.g. Region, Store, Warehouse)"
+Q1,2024,400000,Marketing,Warehouse
+Q4,2022,150000,Sales,Store
+Q2,2022,120000,Operations,Region
+Q1,2023,200000,Sales,Store
+Q3,2024,750000,Operations,Region
+Q2,2023,250000,Marketing,Warehouse
+Q2,2024,500000,Operations,Region
+Q4,2023,350000,Sales,Store
+Q3,2023,300000,Operations,Region
+Q3,2022,180000,Sales,Store
+Q1,2022,100000,Marketing,Warehouse

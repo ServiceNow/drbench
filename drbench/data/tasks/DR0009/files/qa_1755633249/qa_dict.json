@@ -1,0 +1,10 @@
+{
+    "insight_id": "qa_1755633249",
+    "qa_type": "distractor",
+    "qa_index": 0,
+    "specific_question": "What was our average employee training hours per quarter in Q1 2025?",
+    "answer": "Average employee training hours per quarter was 12 hours with a 20% increase expected by Q2 2025.",
+    "justification": "Employee training metrics do not address the core DR Question focus area on CRM solutions",
+    "timestamp": "2025-08-19 12:54",
+    "dr_question": "How can MediConn Solutions leverage trendy new CRM solutions to improve patient engagement and retention, and what new CRM solutions are expected in 2025?"
+}

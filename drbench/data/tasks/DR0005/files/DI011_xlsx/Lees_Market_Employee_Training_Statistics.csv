@@ -1,0 +1,9 @@
+Quarter,Training_Type,Number_of_Employees_Trained,Impact_on_Business_Strategy
+"The fiscal quarter during which the training occurred, e.g., 'Q1 2024'.","The type of training completed by employees, e.g., 'Compliance Training'.",The number of employees who completed the specified training during the quarter.,A brief statement on how the training impacts business strategies or operations.
+Q3 2023,Safety Training,180,"Ensures workplace safety, reducing incident rates."
+Q3 2023,Diversity and Inclusion,160,"Promotes an inclusive work culture, enhancing team dynamics."
+Q2 2023,Customer Service,140,"Improves customer interaction, enhancing customer satisfaction."
+Q4 2023,Technical Skills,200,Improves technical proficiency to support product innovation.
+Q1 2024,Compliance Training,300,Compliance training figures do not impact chatbot strategies for consumer experience.
+Q4 2023,Leadership Development,150,Enhances leadership skills aligning with strategic goals.
+Q2 2023,Project Management,130,Boosts project efficiency and delivery timelines.

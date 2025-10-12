@@ -1,0 +1,10 @@
+Quarter,Total_IT_Costs,New_Hardware_Costs,Related_To_Initiatives
+"The fiscal quarter during which the IT costs were incurred, e.g., 'Q4 2024'.","The total amount spent on IT costs for the quarter, expressed in millions of dollars.","The amount spent specifically on new hardware within the total IT costs, expressed in millions of dollars.",Indicates whether the IT costs are related to specific initiatives such as chatbot implementation for centennial shoppers.
+Q3 2023,1900-01-02 19:12:00,1900-01-01 02:24:00,True
+Q3 2024,1900-01-03 07:12:00,1900-01-01 00:00:00,False
+Q2 2023,1900-01-02 12:00:00,1900-01-01 00:00:00,False
+Q1 2023,1900-01-02 02:24:00,19:12:00,True
+Q1 2024,1900-01-02 21:36:00,1900-01-01 07:12:00,True
+Q4 2023,1900-01-03 00:00:00,1900-01-01 12:00:00,False
+Q4 2024,1900-01-03 09:36:00,1900-01-01 04:48:00,False
+Q2 2024,1900-01-03 04:48:00,1900-01-01 02:24:00,True

@@ -1,0 +1,12 @@
+Training_Program,Completion_Count,Quarter,Year,Training_Impact
+The name of the training program completed by employees. Relevant for identifying different training initiatives within Lee's Market.,The number of employees who have completed the specified training program. This metric helps in assessing the reach and effectiveness of training initiatives.,The fiscal quarter during which the training program was completed. Used for temporal analysis of training completions.,The year when the training program was completed. Allows for long-term tracking and comparison of training participation.,A qualitative assessment of the impact of the training program on business operations. Could include notes on compliance improvements or operational efficiencies.
+Technical Skills Upgrade,180,Q2,2024,Increased operational efficiency
+Health and Wellness,130,Q2,2023,Reduced absenteeism
+Sales Techniques,160,Q1,2024,Boosted sales performance
+Safety Training,250,Q1,2025,Improved compliance and awareness
+Time Management,140,Q3,2023,Improved productivity
+Customer Service Training,150,Q4,2024,Enhanced customer interaction skills
+Diversity and Inclusion,170,Q4,2023,Better team collaboration
+Cybersecurity Awareness,110,Q4,2022,Reduced security incidents
+Leadership Development,200,Q3,2024,Improved team management
+Conflict Resolution,120,Q1,2023,Improved workplace harmony

@@ -1,0 +1,12 @@
+{
+  "domain": "compliance", 
+  "industry": "retail",
+  "files": [
+    {"filetype": "pdf", "type": "supporting"},
+    {"filetype": "docx", "type": "supporting"},
+    {"filetype": "xlsx", "type": "supporting"},
+    {"filetype": "pptx", "type": "supporting"},
+    {"filetype": "email", "type": "supporting"},
+    {"filetype": "chat", "type": "supporting"}
+  ]
+} 

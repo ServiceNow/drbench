@@ -1,0 +1,10 @@
+{
+    "insight_id": "DI010_xlsx",
+    "qa_type": "distractor",
+    "qa_index": 0,
+    "specific_question": "What was our employee training program completion rate in Q3 2024?",
+    "answer": "Employee training program completion rate was 85% in Q3 2024.",
+    "justification": "Training metrics do not relate to customer loyalty program engagement.",
+    "timestamp": "2025-08-15 10:16",
+    "dr_question": "How can we leverage data-driven loyalty programs to enhance customer engagement?"
+}

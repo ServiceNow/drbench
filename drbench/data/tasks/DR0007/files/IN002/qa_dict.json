@@ -1,0 +1,10 @@
+{
+    "insight_id": "IN002",
+    "qa_type": "insight",
+    "qa_index": 0,
+    "specific_question": "What is our average service desk response time as of Q2 2024?",
+    "answer": "Our average service desk response time is currently 48 hours.",
+    "justification": "This data helps identify areas for improvement in response times.",
+    "timestamp": "2025-08-19 07:40",
+    "dr_question": "How can we leverage ISTM and AI-driven analytics to minimize IT service desk workload and improve response times in MediConn Solutions?"
+}

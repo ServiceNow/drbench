@@ -1,0 +1,10 @@
+{
+    "insight_id": "qa_1755626924",
+    "qa_type": "distractor",
+    "qa_index": 0,
+    "specific_question": "What was our employee engagement survey response rate in Q1 2025?",
+    "answer": "Employee engagement survey response rate was 85% with 75%+ responses indicating high job satisfaction.",
+    "justification": "Employee engagement survey data does not address the core DR Question focus area",
+    "timestamp": "2025-08-19 11:08",
+    "dr_question": "How can Elexion Automotive\u2019s quality assurance processes be optimized to address the unique challenges of electric vehicle production, such as software and user experience issues, compared to gasoline cars?"
+}

@@ -1,0 +1,10 @@
+{
+    "insight_id": "qa_1755633407",
+    "qa_type": "distractor",
+    "qa_index": 1,
+    "specific_question": "What is our IT infrastructure upgrade budget for Q4 2023?",
+    "answer": "The IT infrastructure upgrade budget is set at $2 million.",
+    "justification": "IT budget allocation is unrelated to EV battery durability and compliance requirements.",
+    "timestamp": "2025-08-19 12:56",
+    "dr_question": "How can we balance the need for durability and warranty guarantees for EV batteries with evolving regulatory requirements, especially ACC regulations (ACC II), while staying on track with our production timelines through 2035?"
+}

@@ -1,0 +1,10 @@
+{
+    "insight_id": "qa_1755714219",
+    "qa_type": "distractor",
+    "qa_index": 0,
+    "specific_question": "What was the employee turnover rate in Q3 2024?",
+    "answer": "Employee turnover rate was 8% with an average tenure of 3 years.",
+    "justification": "Employee turnover metrics do not address cybersecurity strategy.",
+    "timestamp": "2025-08-20 11:23",
+    "dr_question": "How can Elexion Automotive effectively implement a cybersecurity strategy for its electric vehicles, considering the risks and challenges posed by connected and autonomous technologies?"
+}

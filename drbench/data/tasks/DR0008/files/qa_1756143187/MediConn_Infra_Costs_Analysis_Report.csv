@@ -1,0 +1,12 @@
+Quarter,Year,IT_Infrastructure_Costs,Cost_Impact_Analysis
+The fiscal quarter for which the IT infrastructure costs are reported. This helps in tracking costs over time.,The fiscal year associated with the reported IT infrastructure costs. Useful for annual comparison.,"The total costs incurred for IT infrastructure in the specified quarter and year. This includes hardware, software, and maintenance expenses.","A qualitative analysis of how the IT infrastructure costs relate to other business factors, such as compliance, security, and overall budget."
+Q1,2022,1100000,Costs remained stable with limited new investments.
+Q1,2023,1250000,Costs increased due to new compliance requirements.
+Q4,2023,1450000,Additional costs for end-of-year system upgrades.
+Q2,2024,1550000,Costs impacted by hardware refresh cycle.
+Q1,2024,1500000,Increased costs from cloud infrastructure expansion.
+Q2,2022,1150000,Minor increases due to software updates.
+Q4,2022,1350000,End-of-year budget adjustments increased costs.
+Q3,2024,1800000,IT costs do not directly relate to third-party data breach impacts.
+Q2,2023,1300000,Higher costs from upgrading security measures.
+Q3,2023,1400000,Increased software licensing fees.

@@ -1,0 +1,10 @@
+{
+    "insight_id": "DI001",
+    "qa_type": "distractor",
+    "qa_index": 0,
+    "specific_question": "What was our employee retention rate in Q3 2023?",
+    "answer": "Employee retention averaged 85% with a 5% increase year-over-year.",
+    "justification": "Employee retention metrics do not address customer loyalty programs.",
+    "timestamp": "2025-08-15 14:00",
+    "dr_question": "How can we leverage data-driven loyalty programs to enhance customer engagement?"
+}

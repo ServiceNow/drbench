@@ -1,0 +1,10 @@
+{
+    "insight_id": "qa_1755629380",
+    "qa_type": "distractor",
+    "qa_index": 2,
+    "specific_question": "How many compliance audits did we conduct in Q2 2024?",
+    "answer": "Seven compliance audits were conducted in Q2 2024.",
+    "justification": "Compliance audits do not address the focus area of AI-enhanced battery management",
+    "timestamp": "2025-08-19 11:49",
+    "dr_question": "Can we leverage AI-enhanced battery management to improve EV battery lifespan by 15%?"
+}

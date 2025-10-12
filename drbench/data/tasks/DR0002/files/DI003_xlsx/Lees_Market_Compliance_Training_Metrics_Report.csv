@@ -1,0 +1,11 @@
+Period,Employee Group,Compliance Training Completion Rate,Target Completion Rate,Status
+The quarter and year for which the compliance training metrics are reported.,"The specific group of employees for which the compliance training metrics are reported (e.g., all employees, new hires, department-specific).",The percentage of employees in the specified group who completed compliance training during the reported period.,The target percentage of employees expected to complete compliance training during the reported period.,"Indicates whether the actual completion rate met, exceeded, or fell short of the target completion rate."
+Q2 2023,All employees,0.78,0.8,Fell short
+Q1 2022,Lee's Market employees,0.78,0.8,Fell short
+Q1 2023,Lee's Market employees,0.8,0.8,Met
+Q3 2023,New hires,0.88,0.85,Met
+Q1 2024,Lee's Market employees,0.92,0.85,Exceeded
+Q3 2022,New hires,0.85,0.85,Met
+Q2 2022,All employees,0.75,0.8,Fell short
+Q4 2023,Department A,0.82,0.8,Met
+Q4 2022,Department B,0.8,0.8,Met

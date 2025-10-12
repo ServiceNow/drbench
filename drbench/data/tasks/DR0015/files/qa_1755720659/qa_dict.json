@@ -1,0 +1,10 @@
+{
+    "insight_id": "qa_1755720659",
+    "qa_type": "distractor",
+    "qa_index": 2,
+    "specific_question": "What was our server downtime frequency in Q1 2025?",
+    "answer": "Server downtime averaged 2.5 hours with 95% resolved within 4 hours.",
+    "justification": "Server metrics do not address the core DR Question on customer trust",
+    "timestamp": "2025-08-20 13:10",
+    "dr_question": "How can Elexion Automotive increase customer trust through after-sales support while balancing the need for exceptional customer care with efficient and cost-effective service?"
+}

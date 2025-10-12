@@ -1,0 +1,10 @@
+{
+    "insight_id": "DI008_xlsx",
+    "qa_type": "distractor",
+    "qa_index": 1,
+    "specific_question": "How much did we spend on facility maintenance in Q1 2024?",
+    "answer": "Facility maintenance costs totaled $1.2M in Q1 2024, averaging $300K monthly.",
+    "justification": "Facility costs are unrelated to enhancing customer engagement strategies",
+    "timestamp": "2025-08-15 10:15",
+    "dr_question": "How can we leverage data-driven loyalty programs to enhance customer engagement?"
+}

@@ -1,0 +1,12 @@
+Quarter,Training_Completion_Rate,Participants,Training_Impact
+"The fiscal quarter during which the training was conducted, e.g., Q1 2024.",The percentage of employees who completed the training program during the specified quarter.,The number of employees who participated in the training program.,"A brief description of how the training outcomes affect company operations, if applicable."
+Q1 2024,80.00%,250,Improved customer service satisfaction.
+Q1 2022,60.00%,150,Improved time management.
+Q4 2022,72.00%,190,Boosted leadership capabilities.
+Q2 2022,68.00%,170,Enhanced customer interaction skills.
+Q3 2023,82.00%,270,Increased workplace safety awareness.
+Q4 2023,78.00%,230,Enhanced project management skills.
+Q1 2023,70.00%,180,Streamlined internal processes.
+Q2 2023,75.00%,200,Better teamwork and communication.
+Q3 2022,65.00%,160,Heightened technical skills.
+Q2 2024,85.00%,300,Training metrics do not impact IT service desk workload or response times.

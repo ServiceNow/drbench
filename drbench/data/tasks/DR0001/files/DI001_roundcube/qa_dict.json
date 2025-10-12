@@ -1,0 +1,10 @@
+{
+    "insight_id": "DI001_roundcube",
+    "qa_type": "distractor",
+    "qa_index": 2,
+    "specific_question": "How many hours of training did Lee's Market employees receive in Q1 2024?",
+    "answer": "Employees received an average of 12 hours of training with a 90% completion rate.",
+    "justification": "Employee training hours do not directly address FSMA 204 regulations",
+    "timestamp": "2025-08-18 08:26",
+    "dr_question": "How can Lee's Market leverage FSMA 204 regulations to enhance food safety and customer trust?"
+}

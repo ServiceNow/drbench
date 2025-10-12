@@ -1,0 +1,10 @@
+{
+    "insight_id": "qa_1755635200",
+    "qa_type": "distractor",
+    "qa_index": 2,
+    "specific_question": "How much did we spend on employee training in Q2 2024?",
+    "answer": "Employee training expenses totaled $1.2 million during Q2 2024.",
+    "justification": "Training expenditures are irrelevant to the cybersecurity strategy for electric vehicles.",
+    "timestamp": "2025-08-19 13:26",
+    "dr_question": "How can Elexion Automotive effectively implement a cybersecurity strategy for its electric vehicles, considering the risks and challenges posed by connected and autonomous technologies?"
+}

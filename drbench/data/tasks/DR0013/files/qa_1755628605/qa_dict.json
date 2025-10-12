@@ -1,0 +1,10 @@
+{
+    "insight_id": "qa_1755628605",
+    "qa_type": "distractor",
+    "qa_index": 1,
+    "specific_question": "How many new IT hires in Q3 2023?",
+    "answer": "Elexion hired 15 new IT staff in Q3 2023.",
+    "justification": "IT hiring numbers do not influence vehicle cybersecurity strategies.",
+    "timestamp": "2025-08-19 11:36",
+    "dr_question": "How can Elexion Automotive effectively implement a cybersecurity strategy for its electric vehicles, considering the risks and challenges posed by connected and autonomous technologies?"
+}

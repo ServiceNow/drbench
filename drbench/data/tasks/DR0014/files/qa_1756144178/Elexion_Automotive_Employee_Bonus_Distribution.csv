@@ -1,0 +1,12 @@
+Quarter,Number_of_Bonuses,Total_Bonus_Amount,Average_Bonus_Amount,Company_Performance_Impact
+"The fiscal quarter during which the bonuses were issued, e.g., 'Q3 2024'.",The total number of bonuses issued to employees during the specified quarter.,The total monetary value of all bonuses issued in the specified quarter.,The average amount of bonus awarded per employee during the specified quarter.,A qualitative description of how the bonus distribution aligns with or impacts company performance metrics.
+Q1 2025,17,153000,9000,Bonuses aligned with moderate company growth
+Q3 2024,20,200000,10000,Employee bonuses do not address the core DR Question focus area
+Q1 2023,15,150000,10000,Bonuses aligned with steady company growth
+Q2 2024,16,160000,10000,Bonuses supported by increased revenue
+Q2 2025,11,99000,9000,Reduced bonuses due to budget constraints
+Q1 2024,14,140000,10000,Bonuses issued to retain key talent
+Q4 2024,13,130000,10000,Performance bonuses for achieving quarterly targets
+Q3 2023,12,120000,10000,"Regular distribution, maintained employee satisfaction"
+Q2 2023,18,162000,9000,Increased bonuses due to high performance
+Q4 2023,10,110000,11000,Year-end bonuses incentivized project completion

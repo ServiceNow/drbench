@@ -1,0 +1,10 @@
+{
+    "insight_id": "qa_1755635750",
+    "qa_type": "distractor",
+    "qa_index": 2,
+    "specific_question": "How many compliance audits were completed by Q4 2024?",
+    "answer": "Fifteen compliance audits were completed, ensuring 100% regulatory adherence.",
+    "justification": "Compliance audit metrics do not impact the battery lifespan inquiry.",
+    "timestamp": "2025-08-19 13:35",
+    "dr_question": "Can we leverage AI-enhanced battery management to improve EV battery lifespan by 15%?"
+}

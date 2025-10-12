@@ -1,0 +1,21 @@
+# Q3 2025 Talent Acquisition Performance Report
+
+## Introduction
+
+As we continue to drive growth and innovation in the electric vehicle market, it is essential to assess our talent acquisition strategies. This report provides an overview of our recruitment performance in Q3 2025, highlighting key trends and areas for improvement. The insights presented in this document will inform our hiring initiatives and ensure alignment with Elexion Automotive's business objectives. By evaluating our recruitment processes, we can optimize our approach to attract top talent in the industry.
+
+## Employee Value Proposition and Employer Branding
+
+Our EVP has been refreshed to emphasize professional development, aligning with the 2024 strategic roadmap. Departmental ambassadors have been appointed to champion our employer brand across social media platforms, resulting in a 12% increase in LinkedIn followers since January 2025. To further amplify our messaging, the talent acquisition team has collaborated with marketing to create a library of employee testimonials and case studies. This repository now contains 35 unique stories highlighting our company culture.
+
+## New Hire Onboarding Experience and Retention Rates
+
+The revamped onboarding program launched in Q2 2025 has yielded promising results, with 95% of new hires completing the comprehensive 6-week curriculum. Feedback from the June 2025 cohort indicated a 4.2/5 satisfaction rating with the overall onboarding experience. Notably, the program's mentorship component has led to a 25% increase in cross-functional collaboration among new hires within their first quarter. As of August 2025, we have successfully onboarded 120 new employees.
+
+## Recruitment Channel Effectiveness and ROI Analysis
+
+Our analysis of the 2024 recruitment budget revealed that job board advertising accounted for 30% of total spend, with an average cost-per-hire of $1,200. In contrast, social media advertising comprised 20% of the budget, yielding a cost-per-hire of $900. To optimize our recruitment channel mix, we have reallocated 15% of the 2025 budget to employee advocacy platforms, aiming to increase organic reach and reduce reliance on paid advertising. A comprehensive ROI analysis is scheduled for Q4 2025 to assess the effectiveness of these adjustments.
+
+## Conclusion
+
+In conclusion, our Q3 2025 recruitment performance indicates areas of strength and opportunities for growth. By refining our employee value proposition and optimizing our recruitment channels, we can enhance our talent acquisition outcomes. Recommendations for future initiatives will focus on improving the new hire onboarding experience and increasing employee referrals. By implementing these strategies, we can drive business success and maintain our competitive edge in the electric vehicle market.

@@ -1,0 +1,10 @@
+{
+    "insight_id": "qa_1755718551",
+    "qa_type": "distractor",
+    "qa_index": 2,
+    "specific_question": "What was our research and development budget in Q2 2024?",
+    "answer": "Research and development budget was $8 million in Q2 2024.",
+    "justification": "R&D budget is not directly related to cybersecurity strategy.",
+    "timestamp": "2025-08-20 12:35",
+    "dr_question": "How can Elexion Automotive effectively implement a cybersecurity strategy for its electric vehicles, considering the risks and challenges posed by connected and autonomous technologies?"
+}

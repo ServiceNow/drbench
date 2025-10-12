@@ -1,0 +1,11 @@
+Quarter,AI_Resolved_Tickets,Total_Tickets_Resolved,AI_Resolution_Percentage,Average_Response_Time,Average_Resolution_Time
+"The fiscal quarter and year for which the data is reported, e.g., 'Q3 2025'.",The number of support tickets resolved by AI within the specified quarter.,"The total number of support tickets resolved in the specified quarter, including those resolved by AI and human agents.",The percentage of total tickets resolved by AI in the specified quarter.,The average response time in hours for tickets resolved by AI in the specified quarter.,The average resolution time in hours for tickets resolved by AI in the specified quarter.
+Q4 2023,150,750,20.00%,2,4.5
+Q1 2025,400,1000,40.00%,1.7,3.5
+Q3 2024,300,900,33.33%,1.8,3.8
+Q2 2024,250,850,29.41%,1.85,4
+Q1 2024,200,800,25.00%,1.9,4.2
+Q3 2023,100,700,14.29%,2.1,4.8
+Q4 2024,350,950,36.84%,1.75,3.6
+Q3 2025,500,1200,41.67%,1.5,3
+Q2 2025,450,1100,40.91%,1.6,3.2

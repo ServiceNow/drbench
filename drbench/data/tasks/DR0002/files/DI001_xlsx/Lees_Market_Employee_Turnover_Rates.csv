@@ -1,0 +1,12 @@
+Company Name,Quarter,Year,Employee Turnover Rate,Change from Previous Quarter
+Name of the company for which employee turnover rate is being tracked,"The quarter of the year for which employee turnover rate is being reported (e.g. Q1, Q2, Q3, Q4)",The year for which employee turnover rate is being reported,The percentage of employees who left the company during the quarter,The percentage change in employee turnover rate from the previous quarter
+Fresh Mart,Q2,2023,0.11,0.01
+Fresh Mart,Q2,2024,0.14,0.01
+Lee's Market,Q3,2024,0.15,-0.03
+Lee's Market,Q1,2024,0.16,0.02
+Lee's Market,Q3,2023,0.14,0.02
+Fresh Mart,Q3,2023,0.12,0.01
+Fresh Mart,Q1,2023,0.1,0.02
+Lee's Market,Q2,2023,0.12,0.01
+Fresh Mart,Q1,2024,0.13,0.01
+Lee's Market,Q2,2024,0.18,0.02

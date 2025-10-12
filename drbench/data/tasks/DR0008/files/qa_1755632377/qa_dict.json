@@ -1,0 +1,10 @@
+{
+    "insight_id": "qa_1755632377",
+    "qa_type": "distractor",
+    "qa_index": 0,
+    "specific_question": "What is the employee turnover rate in Q2 2024?",
+    "answer": "Employee turnover rate was 12% in Q2 2024.",
+    "justification": "Employee turnover does not impact third-party data breach concerns.",
+    "timestamp": "2025-08-19 12:39",
+    "dr_question": "What is the impact of third-party data breaches on MediConn's virtual healthcare platforms and patient data, and what new regulations can be implemented to defend against these breaches?"
+}

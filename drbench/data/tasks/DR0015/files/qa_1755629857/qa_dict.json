@@ -1,0 +1,10 @@
+{
+    "insight_id": "qa_1755629857",
+    "qa_type": "distractor",
+    "qa_index": 2,
+    "specific_question": "What is the average employee tenure at our company as of Q3 2024?",
+    "answer": "The average employee tenure is 2.5 years.",
+    "justification": "HR metrics do not address the core DR Question focus area",
+    "timestamp": "2025-08-19 11:57",
+    "dr_question": "How can Elexion Automotive increase customer trust through after-sales support while balancing the need for exceptional customer care with efficient and cost-effective service?"
+}

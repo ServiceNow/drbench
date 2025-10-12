@@ -1,0 +1,10 @@
+Quarter,Data Breach Cost,Mitigation Strategy,Impact on Compliance
+The fiscal quarter and year when the data breach costs were reported. This helps in identifying the time period of the financial impact.,The total financial cost associated with data breaches for the specified quarter. This is crucial for understanding the monetary impact of breaches.,The strategy or measures taken to mitigate the impact of the data breach. This provides context on how the company responds to such incidents.,Indicates whether the data breach had any impact on the company's compliance status. This is important in maintaining regulatory standards.
+Q4 2023,"$2,500,000.00",Partnered with a cybersecurity firm for monitoring,True
+Q3 2023,"$1,300,000.00",Updated data backup and recovery plans,False
+Q2 2023,"$1,050,000.00",Regular vulnerability assessments conducted,True
+Q4 2024,"$3,000,000.00",Enhanced security protocols and employee training,False
+Q1 2023,"$950,000.00",Launched employee awareness campaigns,False
+Q1 2024,"$1,200,000.00",Implemented new encryption standards,False
+Q3 2024,"$1,800,000.00",Upgraded firewall and intrusion detection systems,False
+Q2 2024,"$1,500,000.00",Conducted a comprehensive security audit,True

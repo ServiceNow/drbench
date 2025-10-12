@@ -1,0 +1,13 @@
+Time_Period,Average_Wait_Time_Minutes,Customer_Satisfaction_Score,Total_Assistance_Requests,Response_Time_Variance
+"The specific quarter and year for the data, allowing for easy comparison across different periods.",The average wait time in minutes for roadside assistance services during the specified time period.,"A numerical score representing the average customer satisfaction for roadside assistance services, derived from feedback surveys.",The total number of roadside assistance requests received during the specified time period.,"The statistical variance in response times, indicating consistency or variability in service."
+Q1 2024,33,3.9,4400,21.5
+Q4 2024,32,4,4700,22
+Q2 2024,29,4.1,4500,19
+Q3 2023,36,3.6,4200,26
+Q2 2023,31,4,4100,20.5
+Q3 2024,35,3.8,4600,25
+Q2 2025,28,4.3,4900,18.5
+Q3 2025,25,4.5,5000,15
+Q1 2025,30,4.2,4800,20
+Q1 2023,37,3.5,4000,27
+Q4 2023,34,3.7,4300,23

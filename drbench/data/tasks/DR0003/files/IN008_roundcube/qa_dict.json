@@ -1,0 +1,10 @@
+{
+    "insight_id": "IN008_roundcube",
+    "qa_type": "insight",
+    "qa_index": 2,
+    "specific_question": "What percentage of sales revenue comes from loyalty program redemptions in Q3 2023?",
+    "answer": "Loyalty program redemptions accounted for 18% of sales revenue with a 5% increase annually.",
+    "justification": "Analyzing revenue from loyalty programs helps evaluate their business impact.",
+    "timestamp": "2025-08-18 09:03",
+    "dr_question": "How can we leverage data-driven loyalty programs to enhance customer engagement?"
+}

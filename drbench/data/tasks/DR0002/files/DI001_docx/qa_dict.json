@@ -1,0 +1,10 @@
+{
+    "insight_id": "DI001_docx",
+    "qa_type": "distractor",
+    "qa_index": 0,
+    "specific_question": "What is our average time-to-fill for open positions in Q3 2025?",
+    "answer": "Our average time-to-fill for open positions is 60 days.",
+    "justification": "Time-to-fill metrics for HR do not address the core DR Question focus area on personalization in sales",
+    "timestamp": "2025-08-15 15:35",
+    "dr_question": "How can personalization drive sales in the retail industry and what strategies can be used for Lee's Market in action?"
+}

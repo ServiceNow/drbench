@@ -1,0 +1,38 @@
+[project]
+name = "drbench"
+version = "0.2.0"
+description = "Benchmark tool for DR systems"
+authors = [
+    {name = "ServiceNow Research"}
+]
+readme = "README.md"
+requires-python = ">=3.10,<4.0"
+dependencies = [
+    "requests>=2.32.3,<3.0.0",
+    "openai>=1.65.4,<2.0.0",
+    "bs4 (>=0.0.2,<0.0.3)",
+    "pandas (>=2.2.3,<3.0.0)",
+    "tiktoken>=0.8.0",
+    "openpyxl",
+    "scikit-learn (>=1.7.0,<2.0.0)",
+    "faiss-cpu (>=1.9.0,<2.0.0)",
+    "pymupdf (>=1.26.3,<2.0.0)",
+    "python-dotenv>=1.0.0",
+    "python-docx>=1.2.0",
+    "omegaconf>=2.3.0",
+    "docker>=7.1.0",
+    "tenacity>=9.1.2",
+    "together>=1.5.26",
+]
+
+[tool.setuptools.packages.find]
+include = ["drbench*"]
+
+[project.urls]
+repository = "https://github.com/ServiceNow/drbench"
+
+[tool.black]
+line-length = 120
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

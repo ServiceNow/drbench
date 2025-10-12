@@ -1,0 +1,12 @@
+Quarter,New_Hires,Total_Employee_Count,Hiring_Growth_Rate,Notes
+"The specific quarter for which the hiring data is being reported, e.g., Q1 2024.",The number of new employees hired during the specified quarter.,The total number of employees in the company at the end of the specified quarter.,The percentage increase in the number of employees compared to the previous quarter.,Additional comments or notes related to the hiring statistics for the specified quarter.
+Q3 2023,20,475,4.40%,Steady growth observed.
+Q1 2022,5,402,1.26%,Focus on retention over hiring.
+Q1 2024,30,530,6.00%,New hiring data does not relate to insurance acceptance factors.
+Q3 2022,12,422,2.93%,Increased hiring for new projects.
+Q2 2023,15,455,3.41%,Slight increase in hiring.
+Q4 2022,8,430,1.90%,Holiday season impact on hiring.
+Q4 2023,25,500,5.26%,
+Q2 2022,8,410,1.99%,Minimal hiring due to budget constraints.
+Q4 2021,7,397,1.45%,Year-end hiring adjustments.
+Q1 2023,10,440,2.33%,New training programs initiated.

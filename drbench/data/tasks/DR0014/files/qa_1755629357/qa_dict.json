@@ -1,0 +1,10 @@
+{
+    "insight_id": "qa_1755629357",
+    "qa_type": "distractor",
+    "qa_index": 2,
+    "specific_question": "What was our average IT infrastructure cost per employee in Q2 2024?",
+    "answer": "$1,200 was the average IT infrastructure cost per employee, with a total of $2.3 million spent.",
+    "justification": "IT infrastructure cost is unrelated to AI-enhanced battery management and EV lifespan",
+    "timestamp": "2025-08-19 11:49",
+    "dr_question": "Can we leverage AI-enhanced battery management to improve EV battery lifespan by 15%?"
+}

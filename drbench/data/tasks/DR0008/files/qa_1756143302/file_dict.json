@@ -1,0 +1,8 @@
+{
+    "file_name": "MediConn_Patient_Satisfaction_Insights_Report",
+    "file_format": "xlsx",
+    "file_path": "drbench/data/tasks/DR0008/files/qa_1756143302/MediConn_Patient_Satisfaction_Insights_Report.xlsx",
+    "csv_path": "drbench/data/tasks/DR0008/files/qa_1756143302/MediConn_Patient_Satisfaction_Insights_Report.csv",
+    "qa_type": "distractor",
+    "app": "file_system"
+}

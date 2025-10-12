@@ -1,0 +1,12 @@
+Quarter,Compliance_Certification,Audit_Cost,Cost_Change_Percentage,Notes
+"The fiscal quarter for which the compliance audit costs are reported, e.g., Q3 2024.","The specific compliance certification or regulation associated with the audit costs, e.g., PIPEDA, ISO 27001.",The total cost incurred for the compliance audit in the specified quarter.,The percentage change in audit costs compared to the previous quarter.,"Additional notes or comments about the compliance audit or cost changes, e.g., reasons for cost increase."
+Q1 2024,PIPEDA,"$120,000.00",2.50%,Increase due to additional requirements.
+Q3 2024,ISO 27001,"$150,000.00",5.00%,Compliance costs are unrelated to IT service desk workload and response times.
+Q2 2022,PIPEDA,"$103,000.00",-0.50%,Slight cost reduction from efficient auditing process.
+Q2 2023,PIPEDA,"$112,000.00",1.80%,Minor adjustments in audit procedures.
+Q2 2024,ISO 27001,"$142,857.14",3.00%,Increase due to scope expansion.
+Q3 2023,HIPAA,"$110,000.00",0.00%,No significant changes.
+Q1 2023,ISO 27001,"$110,000.00",1.00%,Slight increase from additional documentation efforts.
+Q4 2023,GDPR,"$115,000.00",-1.00%,Decrease due to completed training.
+Q4 2022,GDPR,"$107,000.00",2.00%,Increase due to new data processing agreements.
+Q3 2022,HIPAA,"$105,000.00",0.00%,Stable costs compared to the previous quarter.

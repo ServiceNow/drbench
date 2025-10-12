@@ -1,0 +1,10 @@
+{
+    "insight_id": "qa_1756143202",
+    "qa_type": "distractor",
+    "qa_index": 2,
+    "specific_question": "What was employee turnover rate in Q1 2025?",
+    "answer": "Employee turnover rate was 10% in Q1 2025.",
+    "justification": "Turnover rates are unrelated to platform security or data breach regulations.",
+    "timestamp": "2025-08-25 10:33",
+    "dr_question": "What is the impact of third-party data breaches on MediConn's virtual healthcare platforms and patient data, and what new regulations can be implemented to defend against these breaches?"
+}

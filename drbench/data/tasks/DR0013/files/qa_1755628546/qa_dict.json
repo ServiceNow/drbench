@@ -1,0 +1,10 @@
+{
+    "insight_id": "qa_1755628546",
+    "qa_type": "distractor",
+    "qa_index": 2,
+    "specific_question": "What were the facility costs in Q1 2024?",
+    "answer": "Facility costs totaled $1.8 million in Q1 2024.",
+    "justification": "Facility costs are irrelevant to vehicle cybersecurity implementation.",
+    "timestamp": "2025-08-19 11:35",
+    "dr_question": "How can Elexion Automotive effectively implement a cybersecurity strategy for its electric vehicles, considering the risks and challenges posed by connected and autonomous technologies?"
+}

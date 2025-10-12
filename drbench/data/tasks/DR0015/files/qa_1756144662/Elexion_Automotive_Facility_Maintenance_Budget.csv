@@ -1,0 +1,13 @@
+Quarter,Total_Budget,Green_Initiatives_Allocation,Green_Initiatives_Budget
+"The fiscal quarter for which the budget is allocated, e.g., 'Q4 2025'.",The total budget allocated for facility maintenance in the specified quarter.,"The percentage of the total budget allocated specifically for green initiatives, reflecting the company's focus on sustainability.","The actual budget in dollars allocated for green initiatives, calculated from the total budget and the percentage allocation."
+Q2 2026,520000,0.11,57200
+Q2 2025,550000,0.09,49500
+Q1 2025,500000,0.08,40000
+Q2 2024,420000,0.06,25200
+Q3 2026,530000,0.12,63600
+Q1 2024,400000,0.05,20000
+Q4 2025,600000,0.1,60000
+Q3 2025,580000,0.07,40600
+Q4 2024,450000,0.1,45000
+Q3 2024,470000,0.07,32900
+Q1 2026,500000,0.09,45000

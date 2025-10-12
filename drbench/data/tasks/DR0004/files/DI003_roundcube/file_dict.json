@@ -1,0 +1,144 @@
+{
+    "file_name": "roundcube_email_20250818_132706",
+    "content": "{\"type\": \"user\", \"username\": \"sofia.patel\", \"first_name\": \"Sofia\", \"last_name\": \"Patel\", \"email\": \"sofia.patel@leesmarket.com\"}\n{\"type\": \"user\", \"username\": \"jason.kim\", \"first_name\": \"Jason\", \"last_name\": \"Kim\", \"email\": \"jason.kim@leesmarket.com\"}\n{\"type\": \"user\", \"username\": \"emily.chen\", \"first_name\": \"Emily\", \"last_name\": \"Chen\", \"email\": \"emily.chen@leesmarket.com\"}\n{\"type\": \"user\", \"username\": \"david.lee\", \"first_name\": \"David\", \"last_name\": \"Lee\", \"email\": \"david.lee@leesmarket.com\"}\n{\"type\": \"user\", \"username\": \"sustainability.team\", \"first_name\": \"\", \"last_name\": \"\", \"email\": \"sustainability.team@leesmarket.com\"}\n{\"type\": \"email\", \"id\": \"email_001\", \"subject\": \"Meeting Agenda for Marketing Team - July 27th\", \"from\": \"sofia.patel@leesmarket.com\", \"from_name\": \"Sofia Patel\", \"to\": [\"jason.kim@leesmarket.com\", \"emily.chen@leesmarket.com\"], \"cc\": [], \"date\": \"2023-07-26 14:30:00\", \"body\": \"Hello Team,\\n\\nI hope this email finds you well. I am sending out a reminder for our marketing team meeting scheduled for tomorrow, July 27th at 2 PM EST. Below is the meeting agenda:\\n\\n1. Review of Q2 Marketing Campaigns\\n2. Brainstorming Session for Q3 Promotions\\n3. Updates on Social Media Engagement\\n\\nPlease review the attached document for more details. If you have any topics you would like to add to the agenda, please let me know as soon as possible.\\n\\nLooking forward to seeing you all tomorrow.\\n\\nBest regards,\\nSofia Patel\", \"folder\": \"inbox\", \"read\": true, \"attachments\": [\"Meeting Agenda - July 27th.docx\"]}\n{\"type\": \"email\", \"id\": \"email_002\", \"subject\": \"FY2023 Budget Review and Planning for FY2024\", \"from\": \"david.lee@leesmarket.com\", \"from_name\": \"David Lee\", \"to\": [\"sofia.patel@leesmarket.com\"], \"cc\": [\"jason.kim@leesmarket.com\"], \"date\": \"2023-07-25 10:00:00\", \"body\": \"Hi Sofia,\\n\\nI hope you're doing well. As we approach the end of FY2023, I would like to schedule a meeting with you to review our current budget and start planning for FY2024. Your input on marketing expenses and projections will be invaluable in this process.\\n\\nWould you be available to meet on August 1st at 10 AM EST? If not, please let me know a time that suits you, and I will make sure to adjust my schedule accordingly.\\n\\nLooking forward to hearing back from you.\\n\\nBest regards,\\nDavid Lee\", \"folder\": \"inbox\", \"read\": true, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_001\", \"subject\": \"Q3 2024 Sustainability Report\", \"from\": \"sustainability.team@leesmarket.com\", \"from_name\": \"Sustainability Team\", \"to\": [\"david.lee@leesmarket.com\", \"sofia.patel@leesmarket.com\"], \"cc\": [], \"date\": \"2024-07-25 10:00:00\", \"body\": \"Dear David and Sofia,\\n\\nWe are pleased to share the Q3 2024 Sustainability Report for Lee's Market. As part of our ongoing efforts to reduce our environmental footprint, we have made significant progress in increasing our use of renewable energy sources.\\n\\nAs of Q3 2024, approximately 25% of our facilities are now powered by solar energy, resulting in a notable reduction in energy costs. While facility energy sources do not directly impact our competitiveness in the market, our commitment to sustainability is an important aspect of our brand values and appeals to the growing number of environmentally conscious consumers.\\n\\nThe full report is attached for your review. Please do not hesitate to reach out if you have any questions or would like to discuss further.\\n\\nBest regards,\\nSustainability Team\", \"folder\": \"inbox\", \"read\": true, \"attachments\": [\"Q3_2024_Sustainability_Report.pdf\"]}\n{\"type\": \"email\", \"id\": \"email_002\", \"subject\": \"Re: Q3 2024 Sustainability Report\", \"from\": \"sofia.patel@leesmarket.com\", \"from_name\": \"Sofia Patel\", \"to\": [\"sustainability.team@leesmarket.com\"], \"cc\": [\"david.lee@leesmarket.com\"], \"date\": \"2024-07-25 11:00:00\", \"body\": \"Hi Sustainability Team,\\n\\nThank you for sharing the Q3 2024 Sustainability Report. It's great to see the progress we've made in increasing our use of solar energy. I'd like to discuss how we can leverage this information in our marketing efforts to appeal to environmentally conscious consumers.\\n\\nCan we schedule a meeting to explore some ideas?\\n\\nBest regards,\\nSofia\", \"folder\": \"sent\", \"read\": true, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_003\", \"subject\": \"Re: Q3 2024 Sustainability Report\", \"from\": \"david.lee@leesmarket.com\", \"from_name\": \"David Lee\", \"to\": [\"sofia.patel@leesmarket.com\", \"sustainability.team@leesmarket.com\"], \"cc\": [], \"date\": \"2024-07-25 12:00:00\", \"body\": \"Hi Sofia and Sustainability Team,\\n\\nI agree that highlighting our commitment to sustainability can be a valuable marketing opportunity. Let's schedule a meeting to discuss further and explore ways to incorporate this into our overall marketing strategy.\\n\\nSustainability Team, can you please provide some additional data on the environmental impact of our solar-powered facilities? This will be helpful in crafting our messaging.\\n\\nBest regards,\\nDavid\", \"folder\": \"inbox\", \"read\": true, \"attachments\": []}",
+    "email_setup": [
+        {
+            "type": "user",
+            "username": "sofia.patel",
+            "first_name": "Sofia",
+            "last_name": "Patel",
+            "email": "sofia.patel@leesmarket.com"
+        },
+        {
+            "type": "user",
+            "username": "jason.kim",
+            "first_name": "Jason",
+            "last_name": "Kim",
+            "email": "jason.kim@leesmarket.com"
+        },
+        {
+            "type": "user",
+            "username": "emily.chen",
+            "first_name": "Emily",
+            "last_name": "Chen",
+            "email": "emily.chen@leesmarket.com"
+        },
+        {
+            "type": "user",
+            "username": "david.lee",
+            "first_name": "David",
+            "last_name": "Lee",
+            "email": "david.lee@leesmarket.com"
+        },
+        {
+            "type": "user",
+            "username": "sustainability.team",
+            "first_name": "",
+            "last_name": "",
+            "email": "sustainability.team@leesmarket.com"
+        }
+    ],
+    "email_messages": [
+        {
+            "type": "email",
+            "id": "email_001",
+            "subject": "Meeting Agenda for Marketing Team - July 27th",
+            "from": "sofia.patel@leesmarket.com",
+            "from_name": "Sofia Patel",
+            "to": [
+                "jason.kim@leesmarket.com",
+                "emily.chen@leesmarket.com"
+            ],
+            "cc": [],
+            "date": "2023-07-26 14:30:00",
+            "body": "Hello Team,\n\nI hope this email finds you well. I am sending out a reminder for our marketing team meeting scheduled for tomorrow, July 27th at 2 PM EST. Below is the meeting agenda:\n\n1. Review of Q2 Marketing Campaigns\n2. Brainstorming Session for Q3 Promotions\n3. Updates on Social Media Engagement\n\nPlease review the attached document for more details. If you have any topics you would like to add to the agenda, please let me know as soon as possible.\n\nLooking forward to seeing you all tomorrow.\n\nBest regards,\nSofia Patel",
+            "folder": "inbox",
+            "read": true,
+            "attachments": [
+                "Meeting Agenda - July 27th.docx"
+            ],
+            "tag": "distractor"
+        },
+        {
+            "type": "email",
+            "id": "email_002",
+            "subject": "FY2023 Budget Review and Planning for FY2024",
+            "from": "david.lee@leesmarket.com",
+            "from_name": "David Lee",
+            "to": [
+                "sofia.patel@leesmarket.com"
+            ],
+            "cc": [
+                "jason.kim@leesmarket.com"
+            ],
+            "date": "2023-07-25 10:00:00",
+            "body": "Hi Sofia,\n\nI hope you're doing well. As we approach the end of FY2023, I would like to schedule a meeting with you to review our current budget and start planning for FY2024. Your input on marketing expenses and projections will be invaluable in this process.\n\nWould you be available to meet on August 1st at 10 AM EST? If not, please let me know a time that suits you, and I will make sure to adjust my schedule accordingly.\n\nLooking forward to hearing back from you.\n\nBest regards,\nDavid Lee",
+            "folder": "inbox",
+            "read": true,
+            "attachments": [],
+            "tag": "distractor"
+        },
+        {
+            "type": "email",
+            "id": "email_001",
+            "subject": "Q3 2024 Sustainability Report",
+            "from": "sustainability.team@leesmarket.com",
+            "from_name": "Sustainability Team",
+            "to": [
+                "david.lee@leesmarket.com",
+                "sofia.patel@leesmarket.com"
+            ],
+            "cc": [],
+            "date": "2024-07-25 10:00:00",
+            "body": "Dear David and Sofia,\n\nWe are pleased to share the Q3 2024 Sustainability Report for Lee's Market. As part of our ongoing efforts to reduce our environmental footprint, we have made significant progress in increasing our use of renewable energy sources.\n\nAs of Q3 2024, approximately 25% of our facilities are now powered by solar energy, resulting in a notable reduction in energy costs. While facility energy sources do not directly impact our competitiveness in the market, our commitment to sustainability is an important aspect of our brand values and appeals to the growing number of environmentally conscious consumers.\n\nThe full report is attached for your review. Please do not hesitate to reach out if you have any questions or would like to discuss further.\n\nBest regards,\nSustainability Team",
+            "folder": "inbox",
+            "read": true,
+            "attachments": [
+                "Q3_2024_Sustainability_Report.pdf"
+            ],
+            "tag": "insight"
+        },
+        {
+            "type": "email",
+            "id": "email_002",
+            "subject": "Re: Q3 2024 Sustainability Report",
+            "from": "sofia.patel@leesmarket.com",
+            "from_name": "Sofia Patel",
+            "to": [
+                "sustainability.team@leesmarket.com"
+            ],
+            "cc": [
+                "david.lee@leesmarket.com"
+            ],
+            "date": "2024-07-25 11:00:00",
+            "body": "Hi Sustainability Team,\n\nThank you for sharing the Q3 2024 Sustainability Report. It's great to see the progress we've made in increasing our use of solar energy. I'd like to discuss how we can leverage this information in our marketing efforts to appeal to environmentally conscious consumers.\n\nCan we schedule a meeting to explore some ideas?\n\nBest regards,\nSofia",
+            "folder": "sent",
+            "read": true,
+            "attachments": [],
+            "tag": "insight"
+        },
+        {
+            "type": "email",
+            "id": "email_003",
+            "subject": "Re: Q3 2024 Sustainability Report",
+            "from": "david.lee@leesmarket.com",
+            "from_name": "David Lee",
+            "to": [
+                "sofia.patel@leesmarket.com",
+                "sustainability.team@leesmarket.com"
+            ],
+            "cc": [],
+            "date": "2024-07-25 12:00:00",
+            "body": "Hi Sofia and Sustainability Team,\n\nI agree that highlighting our commitment to sustainability can be a valuable marketing opportunity. Let's schedule a meeting to discuss further and explore ways to incorporate this into our overall marketing strategy.\n\nSustainability Team, can you please provide some additional data on the environmental impact of our solar-powered facilities? This will be helpful in crafting our messaging.\n\nBest regards,\nDavid",
+            "folder": "inbox",
+            "read": true,
+            "attachments": [],
+            "tag": "insight"
+        }
+    ],
+    "file_format": "jsonl",
+    "file_path": ".llm_responses/generated_email_document.jsonl",
+    "qa_type": "distractor",
+    "timestamp": "2025-08-18 10:27",
+    "app": "roundcube"
+}

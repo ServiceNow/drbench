@@ -1,0 +1,8 @@
+{
+    "file_name": "Lees_Market_Customer_Retention_Metrics",
+    "file_format": "xlsx",
+    "file_path": "drbench/data/tasks/DR0003/files/IN004/Lees_Market_Customer_Retention_Metrics.xlsx",
+    "csv_path": "drbench/data/tasks/DR0003/files/IN004/Lees_Market_Customer_Retention_Metrics.csv",
+    "qa_type": "insight",
+    "app": "file_system"
+}

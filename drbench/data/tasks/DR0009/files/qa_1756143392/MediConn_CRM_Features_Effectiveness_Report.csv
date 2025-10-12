@@ -1,0 +1,12 @@
+Feature_Name,Impact_Percentage,Evaluation_Quarter,Justification_Note
+The name of the CRM feature being evaluated for its impact on patient retention.,The percentage increase in patient retention attributed to the CRM feature.,"The quarter and year by which the impact of the CRM feature is evaluated, formatted as YYYY-Q[Quarter Number].",A brief note justifying the selection and evaluation of the CRM feature.
+Loyalty Programs,0.15,2023-Q1,Incentives through loyalty programs enhance patient commitment.
+Email Campaigns,0.10,2023-Q4,Regular updates and engagement through emails maintain patient interest.
+Feedback Systems,0.07,2023-Q4,Collecting patient feedback leads to improvements in services offered.
+Telehealth Services,0.20,2023-Q2,"Telehealth provides greater access to care, improving retention."
+24/7 Customer Support,0.18,2023-Q3,Round-the-clock support ensures patient issues are resolved promptly.
+Patient Education Portals,0.09,2023-Q1,"Educational resources empower patients, leading to better retention."
+Online Appointment Scheduling,0.05,2024-Q1,Convenience in scheduling appointments online improves patient satisfaction.
+AI Personalization and Automation,0.30,2024-Q2,Identifying effective CRM features supports strategic patient retention improvements.
+Mobile App Engagement,0.12,2023-Q3,"Mobile apps provide easier access to services, increasing retention."
+Social Media Interaction,0.08,2023-Q2,Engaging patients on social media platforms keeps them informed and engaged.

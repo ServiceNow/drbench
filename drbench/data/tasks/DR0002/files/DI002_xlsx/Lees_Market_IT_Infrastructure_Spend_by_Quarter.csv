@@ -1,0 +1,11 @@
+Company Name,Quarter,IT Infrastructure Spend,Region,Business Segment
+The name of the company.,"The quarter in which the IT infrastructure spend occurred (e.g. Q1 2024, Q2 2024).",The total amount spent on IT infrastructure upgrades during the quarter.,"The geographic region in which the IT infrastructure spend occurred (e.g. US, Canada).","The business segment that the IT infrastructure spend supports (e.g. Retail, Online Shopping)."
+Wilson's Market,Q4 2022,700000,Canada,Online Shopping
+Lee's Market,Q2 2024,2500000,US,Retail
+Johnson's Market,Q4 2023,1000000,Canada,Online Shopping
+Anderson's Market,Q3 2022,600000,US,Retail
+Davis' Market,Q2 2023,800000,Canada,Online Shopping
+Williams' Market,Q3 2023,1200000,US,Retail
+Miller's Market,Q1 2023,900000,US,Retail
+Thomas' Market,Q2 2022,500000,Canada,Online Shopping
+Smith's Market,Q1 2024,1500000,US,Retail

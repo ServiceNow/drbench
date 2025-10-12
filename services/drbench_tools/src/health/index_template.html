@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>DrBench Services Health Status</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 20px;
+            color: #333;
+        }
+        h1 {
+            color: #2c3e50;
+            border-bottom: 2px solid #ecf0f1;
+            padding-bottom: 10px;
+        }
+        .status-card {
+            border: 1px solid #ddd;
+            border-radius: 8px;
+            padding: 15px;
+            margin-bottom: 20px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+        .status-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 10px;
+        }
+        .service-name {
+            font-size: 18px;
+            font-weight: bold;
+        }
+        .status-badge {
+            padding: 5px 10px;
+            border-radius: 20px;
+            font-size: 14px;
+            font-weight: bold;
+        }
+        .healthy {
+            background-color: #d4edda;
+            color: #155724;
+        }
+        .unhealthy {
+            background-color: #f8d7da;
+            color: #721c24;
+        }
+        .ready {
+            background-color: #cce5ff;
+            color: #004085;
+        }
+        .not-ready {
+            background-color: #fff3cd;
+            color: #856404;
+        }
+        .details {
+            background-color: #f8f9fa;
+            border-radius: 4px;
+            padding: 10px;
+            font-family: monospace;
+            white-space: pre-wrap;
+            margin-top: 10px;
+        }
+        .overall-status {
+            display: flex;
+            gap: 10px;
+            margin-bottom: 20px;
+        }
+        .refresh-info {
+            font-size: 14px;
+            color: #6c757d;
+            text-align: right;
+            margin-bottom: 20px;
+        }
+        .auto-refresh {
+            margin-left: 10px;
+        }
+        button {
+            padding: 5px 10px;
+            background-color: #007bff;
+            color: white;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+        }
+        button:hover {
+            background-color: #0069d9;
+        }
+    </style>
+</head>
+<body>
+    <h1>DrBench Services Health Status</h1>
+    
+    <div class="overall-status">
+        <div class="status-badge {{ 'healthy' if data.status == 'healthy' else 'unhealthy' }}">
+            Status: {{ data.status.upper() }}
+        </div>
+        <div class="status-badge {{ 'ready' if data.ready else 'not-ready' }}">
+            Ready: {{ 'YES' if data.ready else 'NO' }}
+        </div>
+    </div>
+    
+    <div class="refresh-info">
+        Last updated: {{ data.timestamp | timestamp_to_time }}
+        <button onclick="location.reload()">Refresh</button>
+        <label class="auto-refresh">
+            <input type="checkbox" id="auto-refresh" onclick="toggleAutoRefresh()"> Auto-refresh (10s)
+        </label>
+    </div>
+    
+    {% for service_name, service in data.services.items() %}
+    <div class="status-card">
+        <div class="status-header">
+            <span class="service-name">{{ service_name }}</span>
+            <div>
+                <span class="status-badge {{ 'healthy' if service.status == 'healthy' else 'unhealthy' }}">
+                    {{ service.status.upper() }}
+                </span>
+                <span class="status-badge {{ 'ready' if service.ready else 'not-ready' }}">
+                    {{ 'READY' if service.ready else 'NOT READY' }}
+                </span>
+            </div>
+        </div>
+        {% if service.details %}
+        <div class="details">{{ service.details | tojson(indent=2) }}</div>
+        {% endif %}
+    </div>
+    {% endfor %}
+    
+    <script>
+        let refreshInterval;
+        
+        function toggleAutoRefresh() {
+            const checkbox = document.getElementById('auto-refresh');
+            if (checkbox.checked) {
+                refreshInterval = setInterval(() => {
+                    location.reload();
+                }, 10000);
+            } else {
+                clearInterval(refreshInterval);
+            }
+        }
+    </script>
+</body>
+</html>

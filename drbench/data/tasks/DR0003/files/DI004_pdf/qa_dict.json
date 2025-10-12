@@ -1,0 +1,10 @@
+{
+    "insight_id": "DI004_pdf",
+    "qa_type": "distractor",
+    "qa_index": 0,
+    "specific_question": "What was employee absenteeism rate in Q3 2024?",
+    "answer": "Employee absenteeism rate averaged 5% with a peak of 7%.",
+    "justification": "Absenteeism metrics do not relate to customer loyalty programs",
+    "timestamp": "2025-08-15 10:09",
+    "dr_question": "How can we leverage data-driven loyalty programs to enhance customer engagement?"
+}

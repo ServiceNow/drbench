@@ -1,0 +1,2 @@
+username,first_name,last_name,email,passwd,team,channels,is_admin
+current.user,Current,"DRBench User",current.user@drbench.com,current_user_pwd,"DR Bench","",false

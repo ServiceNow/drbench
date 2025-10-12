@@ -1,0 +1,8 @@
+{
+    "file_name": "Lees_Market_IT_Infrastructure_Spend_by_Quarter",
+    "file_format": "xlsx",
+    "file_path": "drbench/data/tasks/DR0002/files/DI002/Lees_Market_IT_Infrastructure_Spend_by_Quarter.xlsx",
+    "csv_path": "drbench/data/tasks/DR0002/files/DI002/Lees_Market_IT_Infrastructure_Spend_by_Quarter.csv",
+    "qa_type": "distractor",
+    "app": "file_system"
+}

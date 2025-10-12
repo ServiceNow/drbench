@@ -1,0 +1,10 @@
+{
+    "insight_id": "qa_1755633257",
+    "qa_type": "distractor",
+    "qa_index": 1,
+    "specific_question": "What was our annual facility maintenance cost in 2024?",
+    "answer": "Annual facility maintenance cost was $250,000 with a 10% increase expected by 2025.",
+    "justification": "Facility costs do not address the core DR Question focus area on CRM solutions",
+    "timestamp": "2025-08-19 12:54",
+    "dr_question": "How can MediConn Solutions leverage trendy new CRM solutions to improve patient engagement and retention, and what new CRM solutions are expected in 2025?"
+}

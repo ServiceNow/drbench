@@ -1,0 +1,60 @@
+{
+    "company_info": {
+        "annual_revenue": "$350M - $500M",
+        "compliance_certifications": [
+            "EPA Greenhouse Gas Emissions Compliance",
+            "Motor Vehicle Safety Oversight Program",
+            "CARB Zero-Emission Vehicle (ZEV) Program",
+            "ISO 26262 \u2013 Road Vehicles Functional Safety"
+        ],
+        "description": "Elexion Automotive designs and manufactures premium and mid-range electric vehicles tailored for the North American market. With a focus on sustainability, user-centric technology, and cross-border compliance, Elexion aims to accelerate the transition to zero-emission transportation.",
+        "employee_count": 1900,
+        "founded_year": 2010,
+        "headquarters": "Austin, Texas, USA",
+        "industry": "Automotive -- Electric Vehicles",
+        "key_products_services": [
+            "Electric vehicles",
+            "Plug-in hybrid electric vehicles",
+            "Home charging stations"
+        ],
+        "market_position": "Elexion is an emerging force in the North American EV market, offering affordable and high-performance electric vehicles with regulatory-first design and localized production.",
+        "name": "Elexion Automotive",
+        "size": "Enterprise",
+        "target_markets": [
+            "Mid-income families in North America",
+            "Provincial and municipal governments"
+        ]
+    },
+    "persona": {
+        "department": "Product Development",
+        "domain": "compliance",
+        "email": "sofia.rodriguez@elexionautomotive.com",
+        "first_name": "Sofia",
+        "id": "EMP0001",
+        "justification": "Elexion Automotive must ensure its products meet regulatory requirements, such as safety and emissions standards, to avoid costly recalls and reputational damage.",
+        "last_name": "Rodriguez",
+        "name": "Sofia Rodriguez",
+        "password": "my_drbench_pwd",
+        "responsibilities": "Conducts compliance testing and certification for Elexion Automotive's electric vehicles, collaborates with design teams to ensure regulatory requirements are met, and assists in the development of compliance documentation.",
+        "role": "Product Compliance Engineer",
+        "seniority": "Junior",
+        "username": "sofia.rodriguez"
+    },
+    "url": {
+        "date": "2024-03-15",
+        "domain": "compliance",
+        "example_dr_questions": [
+            "What strategies are automakers adopting to comply with new EV battery durability and warranty regulations while maintaining consumer trust?",
+            "How do differing regional EV regulations (e.g., California\u2019s ACC II vs. federal EPA standards) impact automakers\u2019 compliance strategies in the electric vehicle market?",
+            "What challenges do car manufacturers face in meeting zero-emission vehicle sales mandates by target dates (such as 2035), and how are they addressing those challenges?"
+        ],
+        "industry": "automobiles",
+        "insights": [
+            "Regulators like the EPA and California's CARB are now mandating durability and warranty guarantees for EV batteries, moving beyond mere production incentives. This shift aims to enhance consumer confidence in electric vehicles by ensuring high performance and reliability standards.",
+            "California's Advanced Clean Cars II (ACC II) rule requires 35% of new vehicles sold to be zero-emission by 2026, reaching 100% by 2035, with stringent EV standards. EV manufacturers must include OBD-II diagnostics, display battery \"state of health\" to drivers, and ensure that by 2030, EV batteries retain at least 80% of their range for 10 years or 150,000 miles.",
+            "The U.S. EPA's proposed 2027+ emissions standards suggest automakers will need approximately 67% EV sales by 2032 to meet CO2 limits. The proposal includes EV-specific durability rules, requiring battery health monitors and ensuring light-duty EVs maintain 80% battery capacity for up to 5 years/62,000 miles and 70% for up to 8 years/100,000 miles."
+        ],
+        "url": "https://www.wardsauto.com/regulatory/ev-regulations-continue-evolving"
+    },
+    "timestamp": "2025-08-10 18:59"
+}

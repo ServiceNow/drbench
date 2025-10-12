@@ -1,0 +1,10 @@
+{
+    "insight_id": "qa_1756144303",
+    "qa_type": "distractor",
+    "qa_index": 0,
+    "specific_question": "What was our employee wellness program budget in Q1 2025?",
+    "answer": "$500,000 was allocated for employee wellness programs, focusing on mental health",
+    "justification": "Employee wellness program budget is tangential to the DR Question on AI-enhanced battery management",
+    "timestamp": "2025-08-25 10:51",
+    "dr_question": "Can we leverage AI-enhanced battery management to improve EV battery lifespan by 15%?"
+}

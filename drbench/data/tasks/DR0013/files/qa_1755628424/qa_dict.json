@@ -1,0 +1,10 @@
+{
+    "insight_id": "qa_1755628424",
+    "qa_type": "distractor",
+    "qa_index": 0,
+    "specific_question": "What was our office space utilization rate in Q2 2024?",
+    "answer": "Office space utilization averaged 65% with peak usage reaching 80%.",
+    "justification": "Office utilization metrics do not address the core DR Question focus area",
+    "timestamp": "2025-08-19 11:33",
+    "dr_question": "How can Elexion Automotive effectively implement a cybersecurity strategy for its electric vehicles, considering the risks and challenges posed by connected and autonomous technologies?"
+}

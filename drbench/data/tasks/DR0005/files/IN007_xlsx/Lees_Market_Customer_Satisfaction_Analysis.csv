@@ -1,0 +1,13 @@
+Quarter,Support_Channel,Satisfaction_Rating,Change_From_Previous_Quarter
+"The fiscal quarter during which the customer satisfaction data was collected, e.g., 'Q3 2023'.","The type of customer support channel evaluated, such as 'Phone', 'Email', 'Chatbot', etc.",The average customer satisfaction rating for the specified support channel during the specified quarter.,The percentage change in customer satisfaction rating from the previous quarter. A negative value indicates a drop.
+Q1 2023,Phone,84.00%,0.00%
+Q3 2023,Chatbot,78.00%,3.00%
+Q3 2023,Email,85.00%,2.00%
+Q2 2023,Email,83.00%,5.00%
+Q1 2023,Chatbot,74.00%,2.00%
+Q2 2023,Chatbot,75.00%,-1.00%
+Q4 2022,Email,81.00%,-2.00%
+Q3 2023,Phone,80.00%,-5.00%
+Q4 2022,Phone,84.00%,3.00%
+Q1 2023,Email,78.00%,-3.00%
+Q2 2023,Phone,85.00%,1.00%

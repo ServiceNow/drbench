@@ -1,0 +1,8 @@
+{
+    "file_name": "Lees_Market_Supply_Chain_Automation_Metrics",
+    "file_format": "xlsx",
+    "file_path": "drbench/data/tasks/DR0003/files/DI011/Lees_Market_Supply_Chain_Automation_Metrics.xlsx",
+    "csv_path": "drbench/data/tasks/DR0003/files/DI011/Lees_Market_Supply_Chain_Automation_Metrics.csv",
+    "qa_type": "distractor",
+    "app": "file_system"
+}

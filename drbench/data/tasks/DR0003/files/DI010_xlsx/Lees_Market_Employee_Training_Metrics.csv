@@ -1,0 +1,13 @@
+Quarter,Year,Training Program,Completion Rate,Number of Participants
+The quarter of the year for which the training metrics are reported.,The year for which the training metrics are reported.,The name of the employee training program.,The percentage of employees who completed the training program.,The total number of employees who participated in the training program.
+Q3,2024,Employee Training Program,0.85,150
+Q1,2022,Employee Training Program,0.55,80
+Q2,2023,Communication Skills,0.75,120
+Q4,2022,Employee Training Program,0.7,110
+Q2,2024,Data Analysis,0.7,100
+Q4,2023,Team Building,0.8,130
+Q1,2023,Leadership Development,0.7,100
+Q1,2024,Employee Onboarding,0.6,90
+Q2,2022,Employee Training Program,0.6,90
+Q3,2022,Employee Training Program,0.65,100
+Q3,2023,Time Management,0.65,110

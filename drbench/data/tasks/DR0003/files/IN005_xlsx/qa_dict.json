@@ -1,0 +1,10 @@
+{
+    "insight_id": "IN005_xlsx",
+    "qa_type": "insight",
+    "qa_index": 1,
+    "specific_question": "How many loyalty program members do we have as of Q1 2024?",
+    "answer": "We have 350,000 loyalty program members, with 25% actively engaged as of Q1 2024.",
+    "justification": "Knowing loyalty program member count and engagement helps tailor data-driven loyalty strategies.",
+    "timestamp": "2025-08-15 10:11",
+    "dr_question": "How can we leverage data-driven loyalty programs to enhance customer engagement?"
+}

@@ -1,0 +1,10 @@
+{
+    "insight_id": "IN011_roundcube",
+    "qa_type": "insight",
+    "qa_index": 0,
+    "specific_question": "What is Lee's Market's FSMA 204 compliance rate among high-risk food suppliers as of Q2 2025?",
+    "answer": "85% of high-risk food suppliers are FSMA 204 compliant, totaling 270 vendors.",
+    "justification": "Determining supplier compliance rate helps assess overall food safety and trust enhancement.",
+    "timestamp": "2025-08-18 08:22",
+    "dr_question": "How can Lee's Market leverage FSMA 204 regulations to enhance food safety and customer trust?"
+}

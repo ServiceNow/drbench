@@ -1,0 +1,12 @@
+Quarter,Training_Budget,Budget_Change_Percentage,Revenue_Range,Compliance_Impact
+"The fiscal quarter for which the financial data is reported, e.g., Q2 2025.",The total budget allocated for training in the specified quarter. This includes funds allocated for employee development and training programs.,The percentage change in the training budget compared to the previous quarter. This helps in understanding financial trends and budget adjustments.,The range of the company's annual revenue. This provides context for financial allocations and budget planning.,"Indicates whether the training budget changes have any compliance-related impact. Given the company's strong compliance framework, it's crucial to monitor budget changes for potential compliance implications."
+Q2 2023,"$303,000.00",1.00%,$5M - $10M,False
+Q1 2024,"$299,000.00",0.50%,$10M - $50M,False
+Q3 2023,"$297,000.00",-2.00%,$5M - $10M,True
+Q2 2024,"$304,000.00",1.50%,$10M - $50M,False
+Q4 2023,"$297,000.00",0.00%,$5M - $10M,False
+Q1 2025,"$333,333.00",3.00%,$10M - $50M,False
+Q4 2024,"$323,456.00",4.50%,$10M - $50M,False
+Q2 2025,"$350,000.00",5.00%,$10M - $50M,False
+Q3 2024,"$310,000.00",2.00%,$10M - $50M,True
+Q1 2023,"$300,000.00",0.00%,$5M - $10M,False

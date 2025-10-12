@@ -1,0 +1,10 @@
+{
+    "insight_id": "DI001",
+    "qa_type": "distractor",
+    "qa_index": 2,
+    "specific_question": "What were training expenses in Q3 2024?",
+    "answer": "Training expenses amounted to $300,000, reflecting a 10% increase this quarter.",
+    "justification": "Training expenses do not impact the decision regarding insurance and compliance regulations.",
+    "timestamp": "2025-08-19 07:34",
+    "dr_question": "What are the key factors influencing MediConn Solutions' decision to accept insurance for telehealth providers, considering HIPAA compliance and state-specific data privacy regulations?"
+}

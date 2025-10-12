@@ -1,0 +1,8 @@
+{
+    "file_name": "Lees_Market_Employee_Turnover_Analysis",
+    "file_format": "xlsx",
+    "file_path": "drbench/data/tasks/DR0005/files/DI015/Lees_Market_Employee_Turnover_Analysis.xlsx",
+    "csv_path": "drbench/data/tasks/DR0005/files/DI015/Lees_Market_Employee_Turnover_Analysis.csv",
+    "qa_type": "distractor",
+    "app": "file_system"
+}

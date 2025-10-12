@@ -1,0 +1,10 @@
+{
+    "insight_id": "qa_1755634742",
+    "qa_type": "distractor",
+    "qa_index": 2,
+    "specific_question": "What is our average production cost per vehicle in Q2 2024?",
+    "answer": "Average production cost per vehicle was $32,000 in Q2 2024.",
+    "justification": "Production costs do not impact the implementation of cybersecurity strategies.",
+    "timestamp": "2025-08-19 13:19",
+    "dr_question": "How can Elexion Automotive effectively implement a cybersecurity strategy for its electric vehicles, considering the risks and challenges posed by connected and autonomous technologies?"
+}

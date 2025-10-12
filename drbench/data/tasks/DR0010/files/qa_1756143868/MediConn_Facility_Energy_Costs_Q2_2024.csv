@@ -1,0 +1,12 @@
+facility_name,total_energy_cost,average_cost_per_kWh,energy_consumption_kWh,reporting_period
+The name of the facility for which the energy costs are being tracked.,"The total energy cost incurred by the facility for the specified period, given in Canadian dollars.",The average cost per kilowatt-hour (kWh) of energy consumed by the facility.,The total energy consumption of the facility in kilowatt-hours (kWh) during the specified period.,"The time period for which the energy costs and consumption are reported, e.g., 'Q2 2024'."
+Data Center,9500,0.095,100000,Q1 2023
+Research Lab,7200,0.072,100000,Q3 2023
+Distribution Center,8500,0.085,100000,Q4 2023
+Retail Store,6000,0.06,100000,Q3 2023
+Secondary Facility,8000,0.08,100000,Q1 2024
+Manufacturing Plant,11000,0.11,100000,Q2 2023
+Main Facility,12000,0.1,120000,Q2 2024
+Warehouse A,5000,0.09,55555.55,Q1 2024
+Office Building,7000,0.07,100000,Q4 2023
+Warehouse B,7500,0.075,100000,Q2 2023

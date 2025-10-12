@@ -1,0 +1,10 @@
+{
+    "insight_id": "DI002",
+    "qa_type": "distractor",
+    "qa_index": 1,
+    "specific_question": "How much did we spend on IT infrastructure in Q2 2024?",
+    "answer": "We spent $1.2 million on IT infrastructure upgrades and maintenance.",
+    "justification": "IT infrastructure costs do not relate to the DR Question on sales",
+    "timestamp": "2025-08-15 13:07",
+    "dr_question": "How can personalization drive sales in the retail industry and what strategies can be used for Lee's Market in action?"
+}

@@ -1,0 +1,12 @@
+Quarter,Automation Percentage,Process Area,Business Impact,Target Goal
+The quarter of the year for which the supply chain automation metrics are being reported.,The percentage of supply chain operations that were automated during the quarter.,"The specific area of the supply chain where automation was implemented (e.g. inventory management, shipping, etc.).","A brief description of the business impact of the automation (e.g. increased efficiency, reduced costs, etc.).",The target percentage of supply chain automation for the company.
+Q1 2022,0.15,Quality Control,Improved product quality and reduced defect rates,0.5
+Q3 2023,0.3,Order Fulfillment,Streamlined order processing and improved customer satisfaction,0.5
+Q2 2023,0.28,Warehouse Management,Optimized inventory storage and reduced storage costs,0.5
+Q3 2022,0.2,Risk Management,Identified and mitigated potential supply chain disruptions,0.5
+Q2 2024,0.4,Inventory Management,Increased efficiency and reduced labor costs,0.5
+Q1 2024,0.35,Shipping and Logistics,Improved delivery times and reduced transportation costs,0.5
+Q1 2023,0.25,Demand Planning,Improved forecast accuracy and reduced stockouts,0.5
+Q2 2022,0.18,Compliance and Governance,Ensured regulatory compliance and improved audit readiness,0.5
+Q4 2023,0.32,Procurement,Enhanced supplier management and reduced material costs,0.5
+Q4 2022,0.22,Supply Chain Visibility,Enhanced real-time tracking and monitoring,0.5

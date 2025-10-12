@@ -1,0 +1,10 @@
+{
+    "insight_id": "DI007_xlsx",
+    "qa_type": "distractor",
+    "qa_index": 0,
+    "specific_question": "What is our employee turnover rate as of Q3 2024?",
+    "answer": "Lee's Market has a 12% employee turnover rate as of Q3 2024.",
+    "justification": "Employee turnover metrics do not relate to customer loyalty programs",
+    "timestamp": "2025-08-15 10:15",
+    "dr_question": "How can we leverage data-driven loyalty programs to enhance customer engagement?"
+}

@@ -1,0 +1,10 @@
+{
+    "insight_id": "qa_1755632100",
+    "qa_type": "distractor",
+    "qa_index": 0,
+    "specific_question": "What was the median employee tenure in Q3 2025?",
+    "answer": "Median employee tenure was 2.5 years with 75% of employees having less than 3 years of service.",
+    "justification": "Employee tenure metrics do not address the core DR Question focus area of IT service desk workload and response times",
+    "timestamp": "2025-08-19 12:35",
+    "dr_question": "How can we leverage ISTM and AI-driven analytics to minimize IT service desk workload and improve response times in MediConn Solutions?"
+}

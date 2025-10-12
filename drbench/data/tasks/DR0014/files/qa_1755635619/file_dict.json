@@ -1,0 +1,212 @@
+{
+    "file_name": "mattermost_chat_20250819_163411",
+    "content": "{\"type\": \"version\", \"version\": 1}\n{\"type\": \"team\", \"team\": {\"name\": \"advanced_technology\", \"display_name\": \"Advanced Technology Team\", \"type\": \"O\", \"header\": \"Team focused on the development of cutting-edge electric vehicle technologies.\", \"purpose\": \"To innovate and implement advanced technologies in electric vehicles.\"}}\n{\"type\": \"team\", \"team\": {\"name\": \"training_and_development\", \"display_name\": \"Training and Development Team\", \"type\": \"O\", \"header\": \"Team responsible for employee training programs and sessions.\", \"purpose\": \"To ensure all employees are well-trained on new technologies and compliance.\"}}\n{\"type\": \"channel\", \"channel\": {\"team\": \"advanced_technology\", \"name\": \"technology_updates\", \"display_name\": \"Technology Updates\", \"type\": \"O\", \"header\": \"Channel for sharing updates on technology developments.\", \"purpose\": \"To discuss progress and challenges in technology projects.\"}}\n{\"type\": \"channel\", \"channel\": {\"team\": \"training_and_development\", \"name\": \"training_sessions\", \"display_name\": \"Training Sessions\", \"type\": \"O\", \"header\": \"Channel for tracking and discussing training sessions.\", \"purpose\": \"To share information about upcoming and completed training sessions.\"}}\n{\"type\": \"user\", \"user\": {\"username\": \"liam.chen\", \"password\": \"liam.chen_pwd\", \"email\": \"liam.chen@elexionautomotive.com\", \"nickname\": \"Liam\", \"first_name\": \"Liam\", \"last_name\": \"Chen\", \"position\": \"Advanced Technology Engineer\", \"roles\": \"system_user\", \"locale\": \"en\", \"teams\": [{\"name\": \"advanced_technology\", \"roles\": \"team_user\", \"channels\": [{\"name\": \"technology_updates\", \"roles\": \"channel_user\"}]}, {\"name\": \"training_and_development\", \"roles\": \"team_user\", \"channels\": [{\"name\": \"training_sessions\", \"roles\": \"channel_user\"}]}]}}\n{\"type\": \"user\", \"user\": {\"username\": \"jessica.morris\", \"password\": \"jessica.morris_pwd\", \"email\": \"jessica.morris@elexionautomotive.com\", \"nickname\": \"Jessica\", \"first_name\": \"Jessica\", \"last_name\": \"Morris\", \"position\": \"Senior Engineer\", \"roles\": \"system_user\", \"locale\": \"en\", \"teams\": [{\"name\": \"advanced_technology\", \"roles\": \"team_user\", \"channels\": [{\"name\": \"technology_updates\", \"roles\": \"channel_user\"}]}]}}\n{\"type\": \"user\", \"user\": {\"username\": \"mark.smith\", \"password\": \"mark.smith_pwd\", \"email\": \"mark.smith@elexionautomotive.com\", \"nickname\": \"Mark\", \"first_name\": \"Mark\", \"last_name\": \"Smith\", \"position\": \"Training Coordinator\", \"roles\": \"system_user\", \"locale\": \"en\", \"teams\": [{\"name\": \"training_and_development\", \"roles\": \"team_user\", \"channels\": [{\"name\": \"training_sessions\", \"roles\": \"channel_user\"}]}]}}\n{\"type\": \"post\", \"post\": {\"team\": \"advanced_technology\", \"channel\": \"technology_updates\", \"user\": \"liam.chen\", \"message\": \"Hey team, just a reminder that our weekly sync is scheduled for Thursday at 10 AM. Let's make sure to have the project updates ready for discussion.\", \"create_at\": 1620500000000}}\n{\"type\": \"post\", \"post\": {\"team\": \"training_and_development\", \"channel\": \"training_sessions\", \"user\": \"mark.smith\", \"message\": \"I\\u2019ve received some feedback regarding the last training session. It seems like participants would appreciate more hands-on activities. Let\\u2019s consider revising the format for future sessions.\", \"create_at\": 1620500005000}}\n{\"type\": \"post\", \"post\": {\"team\": \"advanced_technology\", \"channel\": \"technology_updates\", \"user\": \"jessica.morris\", \"message\": \"I just finished reviewing the latest prototype. I think we need to focus more on the user interface before we move to the next phase. It\\u2019s crucial for customer satisfaction.\", \"create_at\": 1620500010000}}\n{\"type\": \"post\", \"post\": {\"team\": \"training_and_development\", \"channel\": \"training_sessions\", \"user\": \"mark.smith\", \"message\": \"Also, can we discuss our budget for the training programs in the next meeting? I think we might need to allocate additional resources for the upcoming technology rollouts.\", \"create_at\": 1620500015000}}\n{\"type\": \"post\", \"post\": {\"team\": \"advanced_technology\", \"channel\": \"technology_updates\", \"user\": \"liam.chen\", \"message\": \"I just came across an article about the latest trends in electric vehicle technology. I think it might be worth sharing with the team to inspire some new ideas!\", \"create_at\": 1620500020000}}\n{\"type\": \"post\", \"post\": {\"team\": \"training_and_development\", \"channel\": \"training_sessions\", \"user\": \"mark.smith\", \"message\": \"Hi team, I wanted to provide a quick update on our training sessions for the year. As of Q4 2024, we have successfully completed 75% of our training sessions, with a total of 300 participants this year. This is a significant achievement considering the number of new technologies we introduced. Just to note, while these sessions have been crucial for compliance and user training, they don\\u2019t directly impact areas like battery management or AI enhancements, which are covered in specialized tech training. Let\\u2019s keep up the good work!\", \"create_at\": 1690000000000}}",
+    "chat_setup": {
+        "teams": [
+            {
+                "type": "team",
+                "team": {
+                    "name": "advanced_technology",
+                    "display_name": "Advanced Technology Team",
+                    "type": "O",
+                    "header": "Team focused on the development of cutting-edge electric vehicle technologies.",
+                    "purpose": "To innovate and implement advanced technologies in electric vehicles."
+                }
+            },
+            {
+                "type": "team",
+                "team": {
+                    "name": "training_and_development",
+                    "display_name": "Training and Development Team",
+                    "type": "O",
+                    "header": "Team responsible for employee training programs and sessions.",
+                    "purpose": "To ensure all employees are well-trained on new technologies and compliance."
+                }
+            }
+        ],
+        "channels": [
+            {
+                "type": "channel",
+                "channel": {
+                    "team": "advanced_technology",
+                    "name": "technology_updates",
+                    "display_name": "Technology Updates",
+                    "type": "O",
+                    "header": "Channel for sharing updates on technology developments.",
+                    "purpose": "To discuss progress and challenges in technology projects."
+                }
+            },
+            {
+                "type": "channel",
+                "channel": {
+                    "team": "training_and_development",
+                    "name": "training_sessions",
+                    "display_name": "Training Sessions",
+                    "type": "O",
+                    "header": "Channel for tracking and discussing training sessions.",
+                    "purpose": "To share information about upcoming and completed training sessions."
+                }
+            }
+        ],
+        "users": [
+            {
+                "type": "user",
+                "user": {
+                    "username": "liam.chen",
+                    "email": "liam.chen@elexionautomotive.com",
+                    "nickname": "Liam",
+                    "first_name": "Liam",
+                    "last_name": "Chen",
+                    "position": "Advanced Technology Engineer",
+                    "roles": "system_user",
+                    "locale": "en",
+                    "teams": [
+                        {
+                            "name": "advanced_technology",
+                            "roles": "team_user",
+                            "channels": [
+                                {
+                                    "name": "technology_updates",
+                                    "roles": "channel_user"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "training_and_development",
+                            "roles": "team_user",
+                            "channels": [
+                                {
+                                    "name": "training_sessions",
+                                    "roles": "channel_user"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "type": "user",
+                "user": {
+                    "username": "jessica.morris",
+                    "email": "jessica.morris@elexionautomotive.com",
+                    "nickname": "Jessica",
+                    "first_name": "Jessica",
+                    "last_name": "Morris",
+                    "position": "Senior Engineer",
+                    "roles": "system_user",
+                    "locale": "en",
+                    "teams": [
+                        {
+                            "name": "advanced_technology",
+                            "roles": "team_user",
+                            "channels": [
+                                {
+                                    "name": "technology_updates",
+                                    "roles": "channel_user"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "type": "user",
+                "user": {
+                    "username": "mark.smith",
+                    "email": "mark.smith@elexionautomotive.com",
+                    "nickname": "Mark",
+                    "first_name": "Mark",
+                    "last_name": "Smith",
+                    "position": "Training Coordinator",
+                    "roles": "system_user",
+                    "locale": "en",
+                    "teams": [
+                        {
+                            "name": "training_and_development",
+                            "roles": "team_user",
+                            "channels": [
+                                {
+                                    "name": "training_sessions",
+                                    "roles": "channel_user"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    "chat_messages": [
+        {
+            "type": "post",
+            "post": {
+                "team": "training_and_development",
+                "channel": "training_sessions",
+                "user": "mark.smith",
+                "message": "Hi team, I wanted to provide a quick update on our training sessions for the year. As of Q4 2024, we have successfully completed 75% of our training sessions, with a total of 300 participants this year. This is a significant achievement considering the number of new technologies we introduced. Just to note, while these sessions have been crucial for compliance and user training, they don\u2019t directly impact areas like battery management or AI enhancements, which are covered in specialized tech training. Let\u2019s keep up the good work!",
+                "create_at": 1690000000000
+            },
+            "tag": "insight"
+        },
+        {
+            "type": "post",
+            "post": {
+                "team": "advanced_technology",
+                "channel": "technology_updates",
+                "user": "liam.chen",
+                "message": "Hey team, just a reminder that our weekly sync is scheduled for Thursday at 10 AM. Let's make sure to have the project updates ready for discussion.",
+                "create_at": 1620500000000
+            },
+            "tag": "distractor"
+        },
+        {
+            "type": "post",
+            "post": {
+                "team": "training_and_development",
+                "channel": "training_sessions",
+                "user": "mark.smith",
+                "message": "I\u2019ve received some feedback regarding the last training session. It seems like participants would appreciate more hands-on activities. Let\u2019s consider revising the format for future sessions.",
+                "create_at": 1620500005000
+            },
+            "tag": "distractor"
+        },
+        {
+            "type": "post",
+            "post": {
+                "team": "advanced_technology",
+                "channel": "technology_updates",
+                "user": "jessica.morris",
+                "message": "I just finished reviewing the latest prototype. I think we need to focus more on the user interface before we move to the next phase. It\u2019s crucial for customer satisfaction.",
+                "create_at": 1620500010000
+            },
+            "tag": "distractor"
+        },
+        {
+            "type": "post",
+            "post": {
+                "team": "training_and_development",
+                "channel": "training_sessions",
+                "user": "mark.smith",
+                "message": "Also, can we discuss our budget for the training programs in the next meeting? I think we might need to allocate additional resources for the upcoming technology rollouts.",
+                "create_at": 1620500015000
+            },
+            "tag": "distractor"
+        },
+        {
+            "type": "post",
+            "post": {
+                "team": "advanced_technology",
+                "channel": "technology_updates",
+                "user": "liam.chen",
+                "message": "I just came across an article about the latest trends in electric vehicle technology. I think it might be worth sharing with the team to inspire some new ideas!",
+                "create_at": 1620500020000
+            },
+            "tag": "distractor"
+        }
+    ],
+    "file_format": "jsonl",
+    "file_path": ".llm_responses/generated_chat_document.jsonl",
+    "qa_type": "distractor",
+    "timestamp": "2025-08-19 13:34",
+    "app": "mattermost"
+}

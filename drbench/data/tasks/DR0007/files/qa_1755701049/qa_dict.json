@@ -1,0 +1,10 @@
+{
+    "insight_id": "qa_1755701049",
+    "qa_type": "insight",
+    "qa_index": 1,
+    "specific_question": "How many IT service desk staff hours were spent on routine tasks in Q2 2024?",
+    "answer": "Our IT service desk staff spent 500 hours on routine tasks, accounting for 30% of total hours worked.",
+    "justification": "Quantifying routine task hours helps determine potential AI-driven automation benefits.",
+    "timestamp": "2025-08-20 07:44",
+    "dr_question": "How can we leverage ISTM and AI-driven analytics to minimize IT service desk workload and improve response times in MediConn Solutions?"
+}

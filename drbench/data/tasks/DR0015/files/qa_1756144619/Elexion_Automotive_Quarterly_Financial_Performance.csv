@@ -1,0 +1,11 @@
+Quarter,Logistics Costs,Percentage Change in Costs,Impact on Customer Trust
+"The fiscal quarter being reported, e.g., 'Q1 2025'. This helps identify the time period for the financial data.","Total logistics costs for the quarter. This represents the expenditure on transportation, warehousing, and other logistics activities.",The percentage change in logistics costs compared to the previous quarter. This metric helps to understand cost efficiency improvements or deteriorations.,Indicates whether the logistics costs impact customer trust and after-sales support. This is a qualitative assessment of how logistics efficiency relates to customer satisfaction.
+Q4 2024,1650000,0.05,True
+Q1 2023,1306122.45,0.03,True
+Q2 2023,1333333.33,0.02,False
+Q3 2023,1440000,0.08,True
+Q1 2024,1575000,0.15,True
+Q2 2024,1431818.18,-0.09,True
+Q4 2023,1373913.04,-0.05,False
+Q3 2024,1575000,0.1,False
+Q1 2025,1500000,-0.1,False

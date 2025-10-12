@@ -1,0 +1,12 @@
+Quarter,Training_Sessions_Conducted,Employee_Participation,Compliance_Focus,Training_Impact_Score
+"The fiscal quarter in which the HR training sessions were conducted, e.g., Q2 2025.",The total number of HR training sessions conducted in the specified quarter.,The number of employees who participated in the HR training sessions during the specified quarter.,"The specific compliance topics covered during the HR training sessions, such as data protection regulations or security protocols.","A score evaluating the effectiveness of the HR training sessions in terms of employee readiness and compliance understanding, ranging from 0 to 10."
+Q3 2026,8,135,Harassment Policies,9.1
+Q4 2024,6,110,Workplace Safety,8.2
+Q1 2024,5,100,General Data Protection,8
+Q2 2026,5,105,Financial Regulations,8.1
+Q2 2025,10,150,Data Breach Regulations,9.5
+Q3 2025,9,140,Data Privacy,9.2
+Q1 2025,8,130,Ethical Compliance,9
+Q1 2026,7,125,Environmental Compliance,8.9
+Q4 2025,6,115,Health Regulations,8.7
+Q3 2024,7,120,Cybersecurity Protocols,8.5

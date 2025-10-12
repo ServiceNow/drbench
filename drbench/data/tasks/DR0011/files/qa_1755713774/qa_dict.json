@@ -1,0 +1,10 @@
+{
+    "insight_id": "qa_1755713774",
+    "qa_type": "distractor",
+    "qa_index": 1,
+    "specific_question": "How many IT help desk tickets were resolved in Q3 2024?",
+    "answer": "IT help desk resolved 85% of 2,500 tickets within 24 hours.",
+    "justification": "IT help desk metrics do not impact EV battery warranty guarantees.",
+    "timestamp": "2025-08-20 11:16",
+    "dr_question": "How can we balance the need for durability and warranty guarantees for EV batteries with evolving regulatory requirements, especially ACC regulations (ACC II), while staying on track with our production timelines through 2035?"
+}

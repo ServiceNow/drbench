@@ -1,0 +1,10 @@
+{
+    "insight_id": "qa_1755632445",
+    "qa_type": "distractor",
+    "qa_index": 1,
+    "specific_question": "How many training sessions were conducted in Q3 2024?",
+    "answer": "Conducted 15 training sessions in Q3 2024.",
+    "justification": "Training session frequency is unrelated to cybersecurity breach issues.",
+    "timestamp": "2025-08-19 12:40",
+    "dr_question": "What is the impact of third-party data breaches on MediConn's virtual healthcare platforms and patient data, and what new regulations can be implemented to defend against these breaches?"
+}

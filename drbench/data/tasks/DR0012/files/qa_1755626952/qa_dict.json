@@ -1,0 +1,10 @@
+{
+    "insight_id": "qa_1755626952",
+    "qa_type": "distractor",
+    "qa_index": 2,
+    "specific_question": "What was our facility energy consumption cost in Q2 2025?",
+    "answer": "Facility energy consumption cost was $120,000 with electricity usage accounting for 70% of total energy expenses.",
+    "justification": "Facility energy consumption costs do not address the core DR Question focus area",
+    "timestamp": "2025-08-19 11:09",
+    "dr_question": "How can Elexion Automotive\u2019s quality assurance processes be optimized to address the unique challenges of electric vehicle production, such as software and user experience issues, compared to gasoline cars?"
+}

@@ -1,0 +1,364 @@
+[
+    {
+        "industry": "retail",
+        "domain": "compliance",
+        "dr_question": "What is the company's compliance policy?",
+        "n_hops": 3,
+        "url": "https://www.google.com"
+    },
+    {
+        "industry": "retail",
+        "domain": "compliance",
+        "dr_question": "How can ShopSmart's data protection policies align with Google's search engine practices?",
+        "n_hops": 3,
+        "url": "https://www.techtarget.com/searchenterpriseai/feature/AI-regulation-What-businesses-need-to-know"
+    },
+    {
+        "industry": "retail",
+        "domain": "compliance",
+        "dr_question": "How can ShopSmart ensure compliance with data protection regulations in our search engine integration?",
+        "n_hops": 3,
+        "url": "https://www.techtarget.com/searchenterpriseai/feature/AI-regulation-What-businesses-need-to-know",
+        "subquestions": [
+            "What data protection regulations are relevant to our search engine integration?",
+            "How can we assess the security of our search engine partner, Google?",
+            "What measures can we take to protect sensitive customer data?",
+            "Can we implement a data sharing agreement with Google that meets compliance standards?"
+        ]
+    },
+    {
+        "industry": "retail",
+        "domain": "compliance",
+        "dr_question": "What are the potential data protection risks associated with using Google as a search engine?",
+        "n_hops": 3,
+        "url": "https://www.techtarget.com/searchenterpriseai/feature/AI-regulation-What-businesses-need-to-know",
+        "subquestions": [
+            "What data is being shared with Google?",
+            "How is our customer data processed by Google?",
+            "Are our data protection policies aligned with Google's data processing practices?",
+            "What are the potential data breaches associated with Google's search engine?"
+        ]
+    },
+    {
+        "industry": "retail",
+        "domain": "compliance",
+        "dr_question": "What are the most critical compliance-related risks for ShopSmart's retail operations, and how can they be mitigated?",
+        "n_hops": 3,
+        "url": "https://www.techtarget.com/searchenterpriseai/feature/AI-regulation-What-businesses-need-to-know",
+        "subquestions": [
+            "What are the top 5 compliance-related risks identified by ShopSmart's internal audit team?",
+            "What are the top 3 compliance-related risks identified by external auditors?",
+            "What are the most critical compliance-related risks identified by industry experts?"
+        ]
+    },
+    {
+        "industry": "retail",
+        "domain": "compliance",
+        "dr_question": "What are the potential implications of using Google's search engine for company data on ShopSmart's compliance with privacy regulations?",
+        "n_hops": 3,
+        "url": "https://www.techtarget.com/searchenterpriseai/feature/AI-regulation-What-businesses-need-to-know",
+        "timestamp": "2025-08-04T21:35:03.253193",
+        "subquestions": [
+            "What privacy regulations must ShopSmart comply with?",
+            "How does using Google's search engine impact data collection and processing?",
+            "Are there any requirements for data breaches or security incidents?",
+            "What are the recommended practices for ensuring compliance with privacy regulations?"
+        ]
+    },
+    {
+        "industry": "retail",
+        "domain": "compliance",
+        "dr_question": "How can ShopSmart ensure compliance with data protection regulations while using Google's search engine for company data?",
+        "n_hops": 3,
+        "url": "https://www.techtarget.com/searchenterpriseai/feature/AI-regulation-What-businesses-need-to-know",
+        "timestamp": "2025-08-04T21:35:11.735515",
+        "subquestions": [
+            "What data protection regulations must ShopSmart comply with?",
+            "What are the risks of non-compliance?",
+            "What are the recommended practices for ensuring compliance with data protection regulations?"
+        ]
+    },
+    {
+        "industry": "retail",
+        "domain": "compliance",
+        "dr_question": "Can we ensure the security of our customers' personal data when processing and storing it in our retail environment?",
+        "n_hops": 3,
+        "url": "https://www.techtarget.com/searchenterpriseai/feature/AI-regulation-What-businesses-need-to-know",
+        "timestamp": "2025-08-04 18:53",
+        "subquestions": [
+            "What data do we collect and process in our retail environment?",
+            "How do we store and protect that data?",
+            "Are our data storage and protection measures compliant with relevant regulations?"
+        ]
+    },
+    {
+        "industry": "retail",
+        "domain": "compliance",
+        "dr_question": "What data protection by design and default principles should ShopSmart implement in its IT systems and processes?",
+        "n_hops": 3,
+        "url": "https://www.techtarget.com/searchenterpriseai/feature/AI-regulation-What-businesses-need-to-know",
+        "timestamp": "2025-08-04 18:58",
+        "subquestions": [
+            "What are the key data protection by design and default principles?",
+            "How do these principles apply to ShopSmart's IT systems and processes?",
+            "What measures are already in place to implement these principles?"
+        ]
+    },
+    {
+        "industry": "retail",
+        "domain": "compliance",
+        "dr_question": "How can ShopSmart minimize its exposure to data breaches and ensure timely notification to affected individuals?",
+        "n_hops": 3,
+        "url": "https://www.techtarget.com/searchenterpriseai/feature/AI-regulation-What-businesses-need-to-know",
+        "timestamp": "2025-08-04 18:58",
+        "subquestions": [
+            "What are the common causes of data breaches in the retail industry?",
+            "What data breach notification requirements exist in relevant regulations?",
+            "What measures are already in place to prevent data breaches?",
+            "How can ShopSmart's incident response plan be improved?",
+            "What resources are needed to ensure timely notification to affected individuals?"
+        ]
+    },
+    {
+        "industry": "retail",
+        "domain": "compliance",
+        "dr_question": "Can we ensure compliance with the latest data protection regulations while leveraging Google's search engine for customer data analysis?",
+        "n_hops": 3,
+        "url": "https://www.techtarget.com/searchenterpriseai/feature/AI-regulation-What-businesses-need-to-know",
+        "timestamp": "2025-08-05 03:30",
+        "subquestions": [
+            "What are the current data protection regulations and standards?",
+            "What are the potential risks of using Google's search engine for customer data analysis?",
+            "How can we implement effective data protection measures to ensure compliance?",
+            "What are the potential benefits of using Google's search engine for customer data analysis?"
+        ]
+    },
+    {
+        "industry": "retail",
+        "domain": "compliance",
+        "dr_question": "What are the key compliance risks associated with ShopSmart's retail operations, and how can they be mitigated?",
+        "n_hops": 3,
+        "url": "https://www.techtarget.com/searchenterpriseai/feature/AI-regulation-What-businesses-need-to-know",
+        "timestamp": "2025-08-05 10:25",
+        "subquestions": [
+            "What personal data does ShopSmart collect from customers?",
+            "How is this data stored and processed?",
+            "What security measures are in place to protect this data?",
+            "Are there any third-party vendors involved in the processing of personal data?"
+        ]
+    },
+    {
+        "industry": "healthcare",
+        "domain": "compliance",
+        "dr_question": "What are the key factors influencing the decision to accept insurance for telehealth providers, considering HIPAA compliance and state-specific data privacy regulations?",
+        "n_hops": 3,
+        "url": "https://www.healthcaredive.com/news/telehealth-providers-crossroads-regulations-paul-schmeltzer-clark-hill/727296/",
+        "timestamp": "2025-08-08 12:49",
+        "subquestions": [
+            "What are the HIPAA compliance requirements for telehealth providers?",
+            "What are the key considerations for data encryption and risk analysis?",
+            "How do state-specific data privacy regulations impact telehealth providers?",
+            "What are the potential benefits of accepting insurance for telehealth providers?"
+        ]
+    },
+    {
+        "industry": "healthcare",
+        "domain": "compliance",
+        "dr_question": "What are the strategic implications of choosing a cash-only basis for telehealth providers, considering state-specific data privacy regulations?",
+        "n_hops": 3,
+        "url": "https://www.healthcaredive.com/news/telehealth-providers-crossroads-regulations-paul-schmeltzer-clark-hill/727296/",
+        "timestamp": "2025-08-08 12:49",
+        "subquestions": [
+            "What are the potential legal risks for telehealth providers operating on a cash-only basis?",
+            "How do state-specific data privacy regulations impact telehealth providers?",
+            "What are the potential benefits of avoiding HIPAA compliance for telehealth providers?"
+        ]
+    },
+    {
+        "industry": "healthcare",
+        "domain": "itsm",
+        "dr_question": "How can MediConn Solutions leverage IT service management (ITSM) to streamline IT incident handling and service requests, reducing response times and improving overall IT service experience?",
+        "n_hops": 3,
+        "url": "https://www.topdesk.com/en/blog/itsm-healthcare/",
+        "timestamp": "2025-08-08 12:54",
+        "subquestions": [
+            "What are the current IT service desk workflows in MediConn Solutions?",
+            "What are the most common IT incidents and service requests in remote healthcare?",
+            "How can ITSM enable proactive issue resolution and automation in remote healthcare?",
+            "What are the potential benefits of streamlining IT service desk workflows in remote healthcare?"
+        ]
+    },
+    {
+        "industry": "healthcare",
+        "domain": "itsm",
+        "dr_question": "How can we leverage AI-driven analytics to minimize IT service desk workload and improve response times in MediConn Solutions?",
+        "n_hops": 3,
+        "url": "https://www.topdesk.com/en/blog/itsm-healthcare/",
+        "timestamp": "2025-08-08 12:57",
+        "subquestions": [
+            "What AI-driven analytics can we integrate with our ITSM?",
+            "How can we measure the reduction in service desk workload?",
+            "What are the potential benefits to patient care?",
+            "What are the implementation challenges we should consider?"
+        ]
+    },
+    {
+        "industry": "healthcare",
+        "domain": "cybersecurity",
+        "dr_question": "What are the implications of the 287% surge in third-party data breaches on MediConn's virtual healthcare platforms?",
+        "n_hops": 3,
+        "url": "https://www.aha.org/news/aha-cyber-intel/2024-10-07-look-2024s-health-care-cybersecurity-challenges",
+        "timestamp": "2025-08-08 13:04",
+        "subquestions": [
+            "What are the potential risks associated with third-party data breaches to patient data and clinical operations?",
+            "How can MediConn assess and mitigate the risks associated with third-party data breaches?",
+            "What are the key steps MediConn can take to ensure compliance with new HHS cybersecurity guidelines?"
+        ]
+    },
+    {
+        "industry": "healthcare",
+        "domain": "cybersecurity",
+        "dr_question": "What is the impact of third-party data breaches on MediConn's virtual healthcare platforms and patient data?",
+        "n_hops": 3,
+        "url": "https://www.aha.org/news/aha-cyber-intel/2024-10-07-look-2024s-health-care-cybersecurity-challenges",
+        "timestamp": "2025-08-08 13:09",
+        "subquestions": [
+            "What is the average cost of a data breach in the healthcare industry?",
+            "What are the common causes of data breaches in the healthcare industry?",
+            "How can MediConn's virtual healthcare platforms be designed to minimize the risk of third-party data breaches?"
+        ]
+    },
+    {
+        "industry": "healthcare",
+        "domain": "crm",
+        "dr_question": "What are the implications of integrating chronic care management tools with our virtual healthcare services on patient outcomes and revenue growth?",
+        "n_hops": 3,
+        "url": "https://wtt-solutions.com/blog/the-future-of-healthcare-crm-solutions-what-to-expect-in-2025",
+        "timestamp": "2025-08-08 13:11",
+        "subquestions": [
+            "What are the key benefits of integrating chronic care management tools?",
+            "How do they impact patient outcomes?",
+            "What are the potential revenue growth opportunities?",
+            "What are the potential implementation challenges?"
+        ]
+    },
+    {
+        "industry": "healthcare",
+        "domain": "crm",
+        "dr_question": "How can MediConn Solutions leverage AI-driven personalization to improve patient engagement and retention?",
+        "n_hops": 3,
+        "url": "https://wtt-solutions.com/blog/the-future-of-healthcare-crm-solutions-what-to-expect-in-2025",
+        "timestamp": "2025-08-08 13:13",
+        "subquestions": [
+            "What percentage of patients are currently engaged with our services?",
+            "What features of our current CRM system are not being utilized?",
+            "How do our competitors prioritize patient data security and cloud-based platforms?",
+            "What are the potential revenue growth projections for implementing AI-driven personalization?"
+        ]
+    },
+    {
+        "industry": "healthcare",
+        "domain": "crm",
+        "dr_question": "What are the most effective strategies for leveraging AI-driven personalization and automation in MediConn Solutions' virtual healthcare services to improve patient outcomes and reduce healthcare costs?",
+        "n_hops": 3,
+        "url": "https://wtt-solutions.com/blog/the-future-of-healthcare-crm-solutions-what-to-expect-in-2025",
+        "timestamp": "2025-08-08 13:17",
+        "subquestions": [
+            "What are the top 2 AI-driven personalization and automation features used by our competitors?",
+            "How do our customers currently use AI-driven personalization and automation in their healthcare CRM systems?",
+            "What are the most common pain points or barriers to adoption for AI-driven personalization and automation in healthcare CRM systems?",
+            "What are the top 2 metrics for measuring the success of AI-driven personalization and automation in healthcare CRM systems?"
+        ]
+    },
+    {
+        "industry": "healthcare",
+        "domain": "crm",
+        "dr_question": "How can MediConn Solutions leverage its virtual healthcare services to improve patient engagement and retention, and what role can AI-driven personalization play in this strategy?",
+        "n_hops": 3,
+        "url": "https://wtt-solutions.com/blog/the-future-of-healthcare-crm-solutions-what-to-expect-in-2025",
+        "timestamp": "2025-08-08 13:18",
+        "subquestions": [
+            "What are the current patient engagement and retention rates for MediConn Solutions?",
+            "How can AI-driven personalization be integrated into MediConn Solutions' virtual healthcare services?",
+            "What are the key performance indicators (KPIs) to measure the success of this strategy?"
+        ]
+    },
+    {
+        "industry": "healthcare",
+        "domain": "crm",
+        "dr_question": "How can we leverage AI-driven personalization in our virtual healthcare services to improve patient engagement and retention?",
+        "n_hops": 3,
+        "url": "https://wtt-solutions.com/blog/the-future-of-healthcare-crm-solutions-what-to-expect-in-2025",
+        "timestamp": "2025-08-08 13:21",
+        "subquestions": [
+            "What are the key features of AI-driven personalization in healthcare CRM systems?",
+            "How do our competitors currently use AI in their virtual healthcare services?",
+            "What are the potential revenue growth opportunities from offering AI-driven personalization in our services?"
+        ]
+    },
+    {
+        "industry": "healthcare",
+        "domain": "marketing",
+        "dr_question": "What are the most critical elements of a robust digital presence for a telehealth provider, and how can we optimize our website and content marketing strategy to achieve this?",
+        "n_hops": 3,
+        "url": "https://marketinginsidergroup.com/marketing-strategy/how-to-market-telehealth-services-to-connect-with-digital-first-patients/",
+        "timestamp": "2025-08-08 13:24",
+        "subquestions": [
+            "What are the essential features of a modern, mobile-optimized website for a telehealth provider?",
+            "How can we effectively use SEO to ensure our service appears in search results and is perceived as trustworthy and convenient?"
+        ]
+    },
+    {
+        "industry": "retail",
+        "domain": "compliance",
+        "dr_question": "How can Lee's Market leverage FSMA 204 compliance to enhance food safety and reduce waste?",
+        "n_hops": 3,
+        "url": "https://www.grocerydive.com/spons/grocers-talk-fsma-204-compliance-food-safety-and-the-future-of-grocery/722810/",
+        "timestamp": "2025-08-08 11:58",
+        "subquestions": [
+            "What are the key data points required for FSMA 204 compliance?",
+            "How do regional grocers like Lunds & Byerlys and Raley's plan to implement FSMA 204?",
+            "What are the potential benefits of accurate lot code tracking for Lee's Market?",
+            "How can Lee's Market use FSMA 204 compliance to improve customer trust?"
+        ]
+    },
+    {
+        "industry": "retail",
+        "domain": "compliance",
+        "dr_question": "What are the strategic implications of implementing FSMA 204 compliance on Lee's Market's supply chain and inventory management?",
+        "n_hops": 3,
+        "url": "https://www.grocerydive.com/spons/grocers-talk-fsma-204-compliance-food-safety-and-the-future-of-grocery/722810/",
+        "timestamp": "2025-08-08 11:59",
+        "subquestions": [
+            "How will implementing FSMA 204 compliance affect Lee's Market's supply chain transparency?",
+            "What are the potential costs and benefits of implementing FSMA 204 compliance for Lee's Market?",
+            "How can Lee's Market use FSMA 204 compliance to improve inventory management and reduce waste?"
+        ]
+    },
+    {
+        "industry": "retail",
+        "domain": "sales",
+        "dr_question": "How can we leverage data-driven sales strategies to unlock additional revenue and increase our competitive edge?",
+        "n_hops": 3,
+        "url": "https://www.bcg.com/publications/2024/personalization-in-action",
+        "timestamp": "2025-08-08 12:03",
+        "subquestions": [
+            "What are our current data-driven sales strategies and their effectiveness?",
+            "How do our competitors' data-driven sales strategies differ from ours?",
+            "What are the potential benefits and challenges of implementing data-driven sales strategies?"
+        ]
+    },
+    {
+        "industry": "retail",
+        "domain": "crm",
+        "dr_question": "How can we leverage AI and CRM data to align loyalty offers with inventory and shopping patterns to enhance customer engagement?",
+        "n_hops": 3,
+        "url": "https://eagleeye.com/blog/grocery-loyalty-inflation-data-growth",
+        "timestamp": "2025-08-08 13:09",
+        "subquestions": [
+            "What are the current inventory and shopping patterns of our most loyal customers?",
+            "Can we use AI to predict customer behavior and offer personalized promotions?",
+            "How can we use CRM data to identify high-value customers and optimize loyalty offers for them?"
+        ]
+    }
+]

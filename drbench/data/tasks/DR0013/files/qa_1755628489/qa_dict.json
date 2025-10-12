@@ -1,0 +1,10 @@
+{
+    "insight_id": "qa_1755628489",
+    "qa_type": "distractor",
+    "qa_index": 1,
+    "specific_question": "How many training hours per employee in Q3 2024?",
+    "answer": "Each employee completed an average of 12 training hours.",
+    "justification": "Training hours do not relate to cybersecurity strategy for vehicles.",
+    "timestamp": "2025-08-19 11:34",
+    "dr_question": "How can Elexion Automotive effectively implement a cybersecurity strategy for its electric vehicles, considering the risks and challenges posed by connected and autonomous technologies?"
+}

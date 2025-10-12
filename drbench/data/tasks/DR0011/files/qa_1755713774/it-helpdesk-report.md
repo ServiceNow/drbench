@@ -1,0 +1,21 @@
+# Q3 2024 IT Help Desk Performance Report
+
+## Introduction
+
+This report provides an overview of the IT help desk's performance in Q3 2024. The purpose of this report is to evaluate the effectiveness of our IT support services and identify areas for improvement. The data and insights presented in this report will inform strategic decisions and optimize our IT operations. Key performance indicators, including ticket resolution rates, are analyzed to assess our progress towards operational excellence.
+
+## IT Support Services Utilization Trends
+
+Our IT support team has been focused on implementing a new service management platform since Q2 2023, resulting in a 25% reduction in mean time to resolve (MTTR) for network-related issues. This improvement has allowed our internal customers to quickly access critical applications and services. Additionally, we have seen a significant increase in the adoption of self-service portals, with a 30% month-over-month growth in usage since January 2024. As a result, our IT support team has been able to reallocate resources to focus on more complex issues.
+
+## Help Desk Ticket Resolution and Escalation Metrics
+
+In an effort to improve our incident management process, we have established clear escalation procedures for critical issues, resulting in a 40% reduction in downtime for our manufacturing systems. Our help desk team has also implemented a rigorous problem management process, which has led to the identification and resolution of several underlying issues. Furthermore, we have established key performance indicators (KPIs) to measure the effectiveness of our incident management process, including mean time to detect (MTTD) and mean time to resolve (MTTR). These metrics will enable us to make data-driven decisions to continuously improve our support services.
+
+## Employee Satisfaction with IT Support Services
+
+According to our quarterly employee satisfaction survey, conducted in April 2024, 85% of respondents reported being satisfied with the overall quality of IT support services. The survey also revealed that 70% of employees prefer to use our self-service portal for IT-related issues, rather than contacting the help desk directly. Additionally, we have seen a significant increase in employee engagement, with a 25% increase in attendance at IT training sessions since Q1 2024. This suggests that our employees are taking a proactive approach to learning about our IT systems and services.
+
+## Conclusion
+
+In conclusion, the Q3 2024 IT help desk performance report highlights key areas of strength and opportunities for improvement. The insights presented in this report will inform strategic decisions and optimize our IT operations. Recommendations for improving IT support services will be developed based on the data and analysis presented in this report. By implementing these recommendations, we can enhance the overall quality of our IT support services and better meet the needs of our employees.

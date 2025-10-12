@@ -1,0 +1,11 @@
+Testing_Period,UX_UI_Testing_Allocation,Total_Testing_Hours,EV_Model_Focus,QA_Engineer_Responsible
+The specific time period during which the software quality assurance testing is being analyzed. This relates to when the testing efforts are being evaluated.,The proportion of testing time dedicated to user experience and interface issues. This metric helps in understanding the focus on enhancing user interactions with the software.,The total number of hours allocated for software quality assurance testing in the given period. This provides context for the proportion of time spent on specific issues.,The specific electric vehicle model or models that are the focus of the testing efforts. This helps in associating testing allocation with particular products.,The name of the Quality Assurance Engineer responsible for overseeing the testing allocation. This relates to accountability and traceability in testing processes.
+2023-04-01,25.00%,135,Model Y,Hannah Bell
+2025-04-01,30.00%,120,Model Y,Bob Smith
+2024-07-01,25.00%,140,Model X,Diana Evans
+2023-01-01,10.00%,95,Model Z,Ian King
+2024-10-01,20.00%,130,Model Z,Charlie Davis
+2025-07-01,45.00%,150,Model X,Alice Johnson
+2025-01-01,40.00%,145,Model Z,Fiona Clark
+2023-07-01,15.00%,100,Model X,George Harris
+2024-01-01,35.00%,110,Model Y,Evan Mitchell

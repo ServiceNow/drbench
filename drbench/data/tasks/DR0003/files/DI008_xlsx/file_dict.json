@@ -1,0 +1,8 @@
+{
+    "file_name": "Lees_Market_Facility_Maintenance_Costs_Tracker",
+    "file_format": "xlsx",
+    "file_path": "drbench/data/tasks/DR0003/files/DI008/Lees_Market_Facility_Maintenance_Costs_Tracker.xlsx",
+    "csv_path": "drbench/data/tasks/DR0003/files/DI008/Lees_Market_Facility_Maintenance_Costs_Tracker.csv",
+    "qa_type": "distractor",
+    "app": "file_system"
+}

@@ -1,0 +1,12 @@
+Quarter,Energy_Consumption_Cost,Carbon_Footprint_Reduction,Compliance_Impact,EV_Production_Impact
+"The fiscal quarter for which the energy consumption data is reported, e.g., 'Q2 2024'.","The cost associated with energy consumption for the data center in the specified quarter, represented in USD.",The percentage reduction in carbon footprint achieved by the data center in the specified quarter.,Describes how the energy consumption and carbon footprint align with compliance certifications such as EPA Greenhouse Gas Emissions Compliance.,Details how the data center's energy metrics influence or relate to electric vehicle production challenges.
+Q1 2024,85000,0.25,Partially aligned with EPA Greenhouse Gas Emissions Compliance,Minimal impact on electric vehicle production
+Q2 2023,72000,0.15,Aligned with EPA Greenhouse Gas Emissions Compliance,Positive impact on electric vehicle production
+Q1 2023,70000,0.12,Partially aligned with EPA Greenhouse Gas Emissions Compliance,Negligible impact on electric vehicle production
+Q3 2023,75000,0.18,Not aligned with EPA Greenhouse Gas Emissions Compliance,Negative impact on electric vehicle production
+Q3 2022,68000,0.08,Partially aligned with EPA Greenhouse Gas Emissions Compliance,Neutral impact on electric vehicle production
+Q1 2022,65000,0.03,Aligned with EPA Greenhouse Gas Emissions Compliance,Positive impact on electric vehicle production
+Q4 2023,78000,0.2,Aligned with EPA Greenhouse Gas Emissions Compliance,No significant impact on electric vehicle production
+Q4 2022,69000,0.1,Aligned with EPA Greenhouse Gas Emissions Compliance,No impact on electric vehicle production
+Q2 2022,66000,0.05,Not aligned with EPA Greenhouse Gas Emissions Compliance,Slight impact on electric vehicle production
+Q2 2024,90000,0.3,Aligned with EPA Greenhouse Gas Emissions Compliance,Data center energy consumption metrics do not address the unique challenges of electric vehicle production

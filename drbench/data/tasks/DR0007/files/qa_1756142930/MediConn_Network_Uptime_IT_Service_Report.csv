@@ -1,0 +1,12 @@
+Quarter,Network Uptime,IT Service Desk Impact,Compliance Status
+"The financial quarter being analyzed, e.g., Q2 2024.",The percentage of time the network was operational without interruptions during the specified quarter.,A qualitative assessment of how network uptime affected the IT service desk workload and response times.,Indicates whether the network operations were in compliance with relevant certifications and regulations during the quarter.
+Q1 2024,0.975,Slight increase in service desk calls due to minor network disruptions.,True
+Q4 2023,0.982,Stable network performance resulted in normal service desk operations.,True
+Q1 2023,0.97,Minimal impact on service desk with steady network performance.,True
+Q2 2024,0.998,Network uptime doesn't directly affect IT service desk workload or response times.,True
+Q2 2022,0.945,Service desk operations were affected by network downtime.,False
+Q2 2023,0.965,Service desk experienced higher call volume due to network instability.,False
+Q3 2022,0.955,Network performance issues led to greater service desk involvement.,False
+Q4 2022,0.96,Service desk handled increased queries because of network interruptions.,False
+Q1 2022,0.98,"Network was stable, resulting in a smooth service desk operation.",True
+Q3 2023,0.95,Increased service desk workload due to frequent network outages.,False

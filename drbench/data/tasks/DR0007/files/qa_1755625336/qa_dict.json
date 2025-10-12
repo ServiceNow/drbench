@@ -1,0 +1,10 @@
+{
+    "insight_id": "qa_1755625336",
+    "qa_type": "distractor",
+    "qa_index": 1,
+    "specific_question": "What is our average patient wait time as of Q3 2024?",
+    "answer": "The average patient wait time is currently 20 minutes.",
+    "justification": "Patient wait time metrics are unrelated to IT service desk efficiency.",
+    "timestamp": "2025-08-19 10:42",
+    "dr_question": "How can we leverage ISTM and AI-driven analytics to minimize IT service desk workload and improve response times in MediConn Solutions?"
+}

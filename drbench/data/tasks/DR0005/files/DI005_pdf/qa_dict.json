@@ -1,0 +1,10 @@
+{
+    "insight_id": "DI005_pdf",
+    "qa_type": "distractor",
+    "qa_index": 1,
+    "specific_question": "How many Lee's Market employees participated in leadership training in Q1 2024?",
+    "answer": "120 employees completed leadership training with a 90% satisfaction rate.",
+    "justification": "Leadership training metrics do not address chatbot implementation",
+    "timestamp": "2025-08-15 09:56",
+    "dr_question": "How can Lee's Market leverage chatbots to enhance the consumer experience for centennial shoppers?"
+}

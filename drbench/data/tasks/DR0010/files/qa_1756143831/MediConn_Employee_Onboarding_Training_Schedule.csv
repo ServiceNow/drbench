@@ -1,0 +1,12 @@
+Quarter,Onboarding_Time_Spent_on_Training,Total_Onboarding_Hours,Number_of_New_Hires,Training_Hours_Per_Hire
+"The fiscal quarter in which the data was collected, e.g., Q1 2025, Q2 2025. This helps in tracking changes over time.",The percentage of total employee onboarding time that is dedicated to training activities. This metric is crucial for understanding the efficiency and focus of the onboarding process.,The total number of hours spent on onboarding new employees during the quarter. This provides context for the percentage of time spent on training.,The number of new employees who started the onboarding process in the specified quarter. This helps in understanding the scale of onboarding activities.,The average number of hours spent on training per new hire. This metric helps in assessing the intensity and depth of training provided.
+Q4 2024,30.00%,150,40,1.13
+Q1 2024,28.00%,140,35,1.12
+Q1 2023,33.00%,155,42,1.22
+Q3 2023,31.00%,175,45,1.21
+Q1 2025,35.00%,180,45,1.4
+Q2 2023,26.00%,145,38,0.99
+Q4 2023,29.00%,130,30,1.26
+Q3 2024,25.00%,160,50,0.8
+Q2 2025,44.00%,200,50,1.76
+Q2 2024,32.00%,170,55,0.99

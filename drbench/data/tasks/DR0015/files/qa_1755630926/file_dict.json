@@ -1,0 +1,98 @@
+{
+    "file_name": "trust-through-support",
+    "file_title": "Enhancing Trust Through After-Sales Support",
+    "introduction": "This presentation explores strategic approaches to strengthening customer trust through after-sales support at Elexion Automotive. Our focus is on balancing exceptional customer care with cost-effective service solutions.",
+    "subsections": [
+        {
+            "heading": "Optimizing Customer Service Channels",
+            "content": "\u2022 In Q3 2025, an impressive 95% of roadside assistance requests were resolved within just half an hour, enhancing customer confidence in our support services.\n\u2022 This rapid response rate significantly bolsters our customer trust metrics, aligning with our strategic goal of exceptional after-sales support.\n\u2022 By maintaining a swift resolution time, we've mitigated potential customer dissatisfaction and fostered loyalty, crucial in the competitive EV market.\n\u2022 The efficiency of our roadside assistance service positions Elexion as a leader in customer care, supporting our commitment to high service standards.\n\u2022 Leveraging advanced support systems and technology, we ensure quick and effective service delivery, critical for sustaining customer trust.\n\u2022 Our focus on swift resolutions not only addresses immediate customer needs but also strengthens long-term relationships and brand reputation.",
+            "type": "insight",
+            "justification": "The content highlights effective after-sales service strategies, demonstrating quick issue resolution, which is essential for building customer trust and answering the DR Question."
+        },
+        {
+            "heading": "Leveraging Technology for Better Engagement",
+            "content": "\u2022 Overview of technological advancements in CRM systems since 2010\n\u2022 Historical adoption rates of AI in customer service for automotive brands\n\u2022 Evolution of chatbot technology in the industry over the last decade\n\u2022 Review of previous technology integration challenges in service departments\n\u2022 Case study of a 2016 technology overhaul at a peer company\n\u2022 Analysis of past trends in mobile app engagement among EV customers\n\u2022 Summary of previous tech-driven initiatives and their outcomes\n\u2022 Insights into past collaborations with tech providers for service enhancement",
+            "type": "distractor",
+            "justification": "Discusses historical tech trends unrelated to current service improvements"
+        },
+        {
+            "heading": "Balancing Cost with Customer Satisfaction",
+            "content": "\u2022 Historical cost-benefit analysis of customer service investments from 2012-2018\n\u2022 Examination of industry-wide cost management strategies over the years\n\u2022 Review of previous budget allocation strategies in customer service\n\u2022 Comparison of historical satisfaction scores with cost trends\n\u2022 Insights into past cost containment initiatives and their impact\n\u2022 Overview of traditional methods for measuring cost-efficiency in service\n\u2022 Analysis of previous customer service ROI metrics from past campaigns\n\u2022 Survey data on consumer perceptions of cost-value balance in EVs",
+            "type": "distractor",
+            "justification": "Focuses on historical cost management vs current balancing strategies"
+        },
+        {
+            "heading": "Insights on Building Customer Trust",
+            "content": "\u2022 Historical analysis of trust-building strategies in the auto industry\n\u2022 Review of past customer trust metrics and their evolution\n\u2022 Examination of trust-related branding campaigns from 2010-2020\n\u2022 Overview of legacy customer loyalty programs and their effectiveness\n\u2022 Insights into historical trust metrics and their measurement evolution\n\u2022 Case studies of past trust-building initiatives in related industries\n\u2022 Analysis of historical marketing messages focused on trust\n\u2022 Summary of past consumer trust surveys and their findings",
+            "type": "distractor",
+            "justification": "Focuses on historical strategies vs current trust-building measures"
+        }
+    ],
+    "conclusion": "By optimizing our service channels and leveraging technology, we can enhance customer satisfaction while maintaining cost efficiency. Implementing these strategies will solidify our reputation and foster long-term customer loyalty.",
+    "file_format": "pptx",
+    "file_path": ".llm_responses/generated_pptx_presentation.pptx",
+    "qa_type": "insight",
+    "timestamp": "2025-08-19 12:15",
+    "image_queries": [
+        {
+            "slide_title": "Introduction",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "intentionally_clean",
+            "slide_type": "introduction"
+        },
+        {
+            "slide_title": "Optimizing Customer Service Channels",
+            "has_image": true,
+            "image_query": "roadside assistance customer service",
+            "generation_method": "strategic_placement",
+            "slide_type": "insight",
+            "content_length": 6,
+            "total_chars": 880,
+            "forced": false,
+            "theme": "Bold Crimson"
+        },
+        {
+            "slide_title": "Leveraging Technology for Better Engagement",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 7,
+            "total_chars": 467,
+            "probability": 0.25,
+            "theme": "Bold Crimson"
+        },
+        {
+            "slide_title": "Balancing Cost with Customer Satisfaction",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 7,
+            "total_chars": 482,
+            "probability": 0.25,
+            "theme": "Bold Crimson"
+        },
+        {
+            "slide_title": "Insights on Building Customer Trust",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 7,
+            "total_chars": 453,
+            "probability": 0.25,
+            "theme": "Bold Crimson"
+        },
+        {
+            "slide_title": "Conclusion",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "strategic_clean_conclusion",
+            "slide_type": "conclusion",
+            "theme": "Bold Crimson"
+        }
+    ],
+    "app": "nextcloud"
+}

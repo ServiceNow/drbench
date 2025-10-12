@@ -1,0 +1,10 @@
+Quarter,Patient_Satisfaction_Rate,Data_Breach_Impact,Compliance_Status
+"The fiscal quarter and year under consideration, e.g., 'Q1 2025'.",The percentage of patients satisfied with the services provided during the specified quarter.,Indicates whether a data breach had an impact on patient satisfaction during the specified quarter.,"The status of compliance certifications during the specified quarter, reflecting adherence to industry standards."
+Q4 2024,75.00%,False,Non-Compliant
+Q3 2023,77.00%,False,Compliant
+Q4 2023,80.00%,True,Compliant
+Q3 2024,78.00%,True,Compliant
+Q2 2023,79.00%,True,Non-Compliant
+Q1 2025,89.00%,False,Compliant
+Q2 2024,82.00%,False,Compliant
+Q1 2024,85.00%,False,Non-Compliant

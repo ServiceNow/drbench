@@ -1,0 +1,25 @@
+[tool.poetry]
+name = "drbench-services"
+version = "0.1.0"
+description = ""
+authors = ["Miguel Muñoz <miguel.munoz@servicenow.com>"]
+packages = [
+    { include = "mcp_servers", from = "src" },
+    { include = "drbench_utils", from = "src" }
+]
+
+[tool.poetry.dependencies]
+python = ">=3.10"
+pandas = ">=2.2.3,<3.0.0"
+flask = ">=3.1.0,<4.0.0"
+requests = ">=2.32.3,<3.0.0"
+nc-py-api = ">=0.20.1,<0.21.0"
+mcp = { version = ">=1.8.0,<2.0.0", extras = ["cli"] }
+python-dotenv = ">=1.1.0,<2.0.0"
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
+
+[tool.poetry.group.dev.dependencies]
+ipykernel = "^6.29.5"

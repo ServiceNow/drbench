@@ -1,0 +1,98 @@
+{
+    "file_name": "Q2-training-overview",
+    "file_title": "Q2 2024 Training Overview Analysis",
+    "introduction": "This presentation provides insights into our Q2 2024 training initiatives, emphasizing their alignment with Lee's Market's strategic goals. By examining current progress, we aim to enhance employee development and operational excellence.",
+    "subsections": [
+        {
+            "heading": "Strategic Training Program Objectives",
+            "content": "\u2022 Focus on enhancing cross-cultural competencies among employees to improve customer service in multicultural urban centers.\n\u2022 Increase digital literacy to support the expansion of online retail platforms by 15% over the next fiscal year.\n\u2022 Implement leadership development pathways targeting middle management to fill anticipated vacancies due to retirement.\n\u2022 Develop partnerships with local community colleges to offer certification programs in Asian culinary arts.\n\u2022 Incorporate sustainability practices into training modules to align with corporate responsibility goals by 2025.\n\u2022 Establish a feedback loop to continuously update training content quality based on employee satisfaction surveys.",
+            "type": "distractor",
+            "justification": "Focuses on program goals and future plans, not on completed training hours or their counting."
+        },
+        {
+            "heading": "Employee Engagement Metrics and Trends",
+            "content": "\u2022 Employee satisfaction surveys indicate a 12% increase in happiness scores compared to the previous year.\n\u2022 Turnover rates decreased by 8% after implementing flexible scheduling options in Q1 2024.\n\u2022 Participation in employee resource groups increased by 20%, showing strong community building.\n\u2022 Recognition program launched in January 2024 has resulted in a 25% increase in peer-to-peer nominations.\n\u2022 Use of company intranet for communication has grown by 30%, enhancing internal information dissemination.\n\u2022 Surveys show a 15% rise in employees feeling aligned with corporate values since the launch of new branding.\n\u2022 Monthly town halls have seen a 50% rise in attendance since implementation of virtual participation options.",
+            "type": "distractor",
+            "justification": "Discusses engagement and satisfaction trends rather than the specific metric of training hours completed."
+        },
+        {
+            "heading": "Completed Training Hours Analysis",
+            "content": "\u2022 Historical data shows a 10% annual increase in training hours from 2020 to 2023, reflecting enhanced focus on employee development.\n\u2022 Regional variations exist, with East Coast locations traditionally completing 20% more hours than their West Coast counterparts.\n\u2022 Emphasis on compliance training due to new regulations led to a 30% uptick in hours in Q1 2023.\n\u2022 Introduction of new e-learning modules in 2023 increased accessibility, targeting a 40% engagement rate.\n\u2022 Comparative analysis with industry benchmarks shows Lee\u2019s Market surpassing average training hour metrics by 15%.\n\u2022 Year-end reviews highlight a consistent focus on customer service training as a core component since 2022.",
+            "type": "distractor",
+            "justification": "Focuses on past trends and regional variations, not specific to Q2 2024 training hours."
+        },
+        {
+            "heading": "Future Training Initiatives and Goals",
+            "content": "\u2022 Launching a new mentorship program in Q4 2024 to nurture high-potential employees for leadership roles.\n\u2022 Plan to integrate augmented reality (AR) into training by 2025 to enhance interactive learning experiences.\n\u2022 Aim to increase training budget by 10% annually to support expansion of specialized skill programs.\n\u2022 Develop multilingual training content to cater to the diverse workforce and improve inclusivity.\n\u2022 Partnering with tech firms to incorporate AI-driven personalized learning modules by 2026.\n\u2022 Introduce quarterly employee feedback sessions to tailor future training offerings to employee needs.\n\u2022 Set a goal to achieve 90% employee participation in training programs by the end of 2024.",
+            "type": "distractor",
+            "justification": "Discusses forward-looking plans and goals, unrelated to the current state of Q2 2024 training hours."
+        }
+    ],
+    "conclusion": "The analysis of Q2 2024 training hours highlights our commitment to continuous improvement and employee growth. Moving forward, we recommend leveraging these insights to optimize training strategies and drive organizational success.",
+    "file_format": "pptx",
+    "file_path": ".llm_responses/generated_pptx_presentation.pptx",
+    "qa_type": "distractor",
+    "timestamp": "2025-08-15 14:51",
+    "image_queries": [
+        {
+            "slide_title": "Introduction",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "intentionally_clean",
+            "slide_type": "introduction"
+        },
+        {
+            "slide_title": "Strategic Training Program Objectives",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 6,
+            "total_chars": 682,
+            "probability": 0.25,
+            "theme": "Modern Orange"
+        },
+        {
+            "slide_title": "Employee Engagement Metrics and Trends",
+            "has_image": true,
+            "image_query": "employee engagement statistics chart",
+            "generation_method": "strategic_placement",
+            "slide_type": "distractor",
+            "content_length": 7,
+            "total_chars": 712,
+            "forced": false,
+            "theme": "Modern Orange"
+        },
+        {
+            "slide_title": "Completed Training Hours Analysis",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 6,
+            "total_chars": 677,
+            "probability": 0.25,
+            "theme": "Modern Orange"
+        },
+        {
+            "slide_title": "Future Training Initiatives and Goals",
+            "has_image": true,
+            "image_query": "mentorship program in office setting",
+            "generation_method": "strategic_placement",
+            "slide_type": "distractor",
+            "content_length": 7,
+            "total_chars": 685,
+            "forced": false,
+            "theme": "Modern Orange"
+        },
+        {
+            "slide_title": "Conclusion",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "strategic_clean_conclusion",
+            "slide_type": "conclusion",
+            "theme": "Modern Orange"
+        }
+    ],
+    "app": "nextcloud"
+}

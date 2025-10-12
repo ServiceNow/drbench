@@ -1,0 +1,181 @@
+{
+    "file_name": "roundcube_email_20250818_113104",
+    "content": "{\"type\": \"user\", \"username\": \"emily.patel\", \"first_name\": \"Emily\", \"last_name\": \"Patel\", \"email\": \"emily.patel@leesmarket.com\"}\n{\"type\": \"user\", \"username\": \"jason.kim\", \"first_name\": \"Jason\", \"last_name\": \"Kim\", \"email\": \"jason.kim@leesmarket.com\"}\n{\"type\": \"user\", \"username\": \"sophia.lee\", \"first_name\": \"Sophia\", \"last_name\": \"Lee\", \"email\": \"sophia.lee@leesmarket.com\"}\n{\"type\": \"user\", \"username\": \"david.chen\", \"first_name\": \"David\", \"last_name\": \"Chen\", \"email\": \"david.chen@leesmarket.com\"}\n{\"type\": \"user\", \"username\": \"olivia.hong\", \"first_name\": \"Olivia\", \"last_name\": \"Hong\", \"email\": \"olivia.hong@leesmarket.com\"}\n{\"type\": \"user\", \"username\": \"peter.tran\", \"first_name\": \"Peter\", \"last_name\": \"Tran\", \"email\": \"peter.tran@leesmarket.com\"}\n{\"type\": \"email\", \"id\": \"email_001\", \"subject\": \"Q2 Budget Review and Planning\", \"from\": \"emily.patel@leesmarket.com\", \"from_name\": \"Emily Patel\", \"to\": [\"jason.kim@leesmarket.com\", \"sophia.lee@leesmarket.com\"], \"cc\": [\"david.chen@leesmarket.com\"], \"date\": \"2023-07-20 10:00:00\", \"body\": \"Dear Team,\\n\\nI hope this email finds you well. As we approach the end of Q2, it's time to review our budget and plan for the next quarter. I've attached a summary of our current expenses and revenue for your review.\\n\\nI'd like to schedule a meeting for next Wednesday at 2 PM to discuss our Q3 budget and address any questions or concerns you may have. Please let me know if you're available to attend.\\n\\nBest regards,\\nEmily Patel\", \"folder\": \"inbox\", \"read\": true, \"attachments\": [\"Q2_Budget_Summary.xlsx\"]}\n{\"type\": \"email\", \"id\": \"email_002\", \"subject\": \"Customer Feedback and Satisfaction Survey Results\", \"from\": \"olivia.hong@leesmarket.com\", \"from_name\": \"Olivia Hong\", \"to\": [\"emily.patel@leesmarket.com\", \"peter.tran@leesmarket.com\"], \"cc\": [], \"date\": \"2023-07-18 14:30:00\", \"body\": \"Hi Emily and Peter,\\n\\nI wanted to share the results of our recent customer feedback and satisfaction survey. The survey was conducted across all our locations, and we received a total of 1,500 responses.\\n\\nThe results are attached to this email, but I wanted to highlight a few key findings. Our customers are generally satisfied with our products and services, but there are areas for improvement, such as our online ordering system and in-store navigation.\\n\\nI'd like to schedule a meeting to discuss the results in more detail and brainstorm ways to address the areas for improvement.\\n\\nBest regards,\\nOlivia Hong\", \"folder\": \"inbox\", \"read\": true, \"attachments\": [\"Customer_Feedback_Survey_Results.pdf\"]}\n{\"type\": \"email\", \"id\": \"email_003\", \"subject\": \"Technology Implementation Update - New Inventory Management System\", \"from\": \"david.chen@leesmarket.com\", \"from_name\": \"David Chen\", \"to\": [\"emily.patel@leesmarket.com\", \"jason.kim@leesmarket.com\"], \"cc\": [\"sophia.lee@leesmarket.com\"], \"date\": \"2023-07-22 11:15:00\", \"body\": \"Hi Team,\\n\\nI wanted to provide an update on the implementation of our new inventory management system. The system is currently being tested in our pilot store, and we're on track to roll it out to all locations by the end of Q3.\\n\\nI've attached a training schedule for the new system, which will be conducted in phases over the next few weeks. Please review the schedule and let me know if you have any questions or concerns.\\n\\nBest regards,\\nDavid Chen\", \"folder\": \"inbox\", \"read\": true, \"attachments\": [\"Inventory_Management_System_Training_Schedule.xlsx\"]}\n{\"type\": \"email\", \"id\": \"email_001\", \"subject\": \"FSMA 204 Compliance Update and Recommendations\", \"from\": \"emily.patel@leesmarket.com\", \"from_name\": \"Emily Patel\", \"to\": [\"jason.kim@leesmarket.com\", \"sophia.lee@leesmarket.com\"], \"cc\": [\"david.chen@leesmarket.com\"], \"date\": \"2025-04-15 10:00:00\", \"body\": \"Dear Team,\\n\\nAs we continue to work on implementing FSMA 204 regulations, I wanted to provide an update on our progress and recommend some additional steps to enhance our food safety practices. Our new employee onboarding program, which includes comprehensive training on food safety procedures, has been successful with an average onboarding time of 30 days and a 90% completion rate in Q1 2025. However, this metric does not directly impact our FSMA 204 compliance.\\n\\nTo improve our compliance, I suggest we focus on implementing more stringent record-keeping practices and increasing our supplier verification efforts. I have attached a detailed report outlining these recommendations and their potential impact on our food safety practices.\\n\\nPlease let me know if you have any questions or concerns.\\n\\nBest regards,\\nEmily Patel\", \"folder\": \"inbox\", \"read\": true, \"attachments\": [\"FSMA 204 Compliance Report.pdf\"]}\n{\"type\": \"email\", \"id\": \"email_002\", \"subject\": \"Re: FSMA 204 Compliance Update and Recommendations\", \"from\": \"jason.kim@leesmarket.com\", \"from_name\": \"Jason Kim\", \"to\": [\"emily.patel@leesmarket.com\"], \"cc\": [\"sophia.lee@leesmarket.com\", \"david.chen@leesmarket.com\"], \"date\": \"2025-04-16 09:00:00\", \"body\": \"Hi Emily,\\n\\nThank you for the update and the report. I agree that implementing more stringent record-keeping practices and increasing our supplier verification efforts will help improve our FSMA 204 compliance. I would like to schedule a meeting to discuss these recommendations in more detail and create an action plan for implementation.\\n\\nPlease let me know your availability, and I will schedule the meeting accordingly.\\n\\nBest regards,\\nJason Kim\", \"folder\": \"inbox\", \"read\": true, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_003\", \"subject\": \"Re: FSMA 204 Compliance Update and Recommendations\", \"from\": \"emily.patel@leesmarket.com\", \"from_name\": \"Emily Patel\", \"to\": [\"jason.kim@leesmarket.com\"], \"cc\": [\"sophia.lee@leesmarket.com\", \"david.chen@leesmarket.com\"], \"date\": \"2025-04-17 10:00:00\", \"body\": \"Hi Jason,\\n\\nI am available to meet on Tuesday or Wednesday of next week. Please let me know which day works best for you, and I will make sure to adjust my schedule accordingly.\\n\\nIn the meantime, I will work on creating a detailed action plan for implementing the recommended changes. I will share the plan with the team before the meeting so we can discuss and finalize it.\\n\\nBest regards,\\nEmily Patel\", \"folder\": \"inbox\", \"read\": true, \"attachments\": []}",
+    "email_setup": [
+        {
+            "type": "user",
+            "username": "emily.patel",
+            "first_name": "Emily",
+            "last_name": "Patel",
+            "email": "emily.patel@leesmarket.com"
+        },
+        {
+            "type": "user",
+            "username": "jason.kim",
+            "first_name": "Jason",
+            "last_name": "Kim",
+            "email": "jason.kim@leesmarket.com"
+        },
+        {
+            "type": "user",
+            "username": "sophia.lee",
+            "first_name": "Sophia",
+            "last_name": "Lee",
+            "email": "sophia.lee@leesmarket.com"
+        },
+        {
+            "type": "user",
+            "username": "david.chen",
+            "first_name": "David",
+            "last_name": "Chen",
+            "email": "david.chen@leesmarket.com"
+        },
+        {
+            "type": "user",
+            "username": "olivia.hong",
+            "first_name": "Olivia",
+            "last_name": "Hong",
+            "email": "olivia.hong@leesmarket.com"
+        },
+        {
+            "type": "user",
+            "username": "peter.tran",
+            "first_name": "Peter",
+            "last_name": "Tran",
+            "email": "peter.tran@leesmarket.com"
+        }
+    ],
+    "email_messages": [
+        {
+            "type": "email",
+            "id": "email_001",
+            "subject": "Q2 Budget Review and Planning",
+            "from": "emily.patel@leesmarket.com",
+            "from_name": "Emily Patel",
+            "to": [
+                "jason.kim@leesmarket.com",
+                "sophia.lee@leesmarket.com"
+            ],
+            "cc": [
+                "david.chen@leesmarket.com"
+            ],
+            "date": "2023-07-20 10:00:00",
+            "body": "Dear Team,\n\nI hope this email finds you well. As we approach the end of Q2, it's time to review our budget and plan for the next quarter. I've attached a summary of our current expenses and revenue for your review.\n\nI'd like to schedule a meeting for next Wednesday at 2 PM to discuss our Q3 budget and address any questions or concerns you may have. Please let me know if you're available to attend.\n\nBest regards,\nEmily Patel",
+            "folder": "inbox",
+            "read": true,
+            "attachments": [
+                "Q2_Budget_Summary.xlsx"
+            ],
+            "tag": "distractor"
+        },
+        {
+            "type": "email",
+            "id": "email_002",
+            "subject": "Customer Feedback and Satisfaction Survey Results",
+            "from": "olivia.hong@leesmarket.com",
+            "from_name": "Olivia Hong",
+            "to": [
+                "emily.patel@leesmarket.com",
+                "peter.tran@leesmarket.com"
+            ],
+            "cc": [],
+            "date": "2023-07-18 14:30:00",
+            "body": "Hi Emily and Peter,\n\nI wanted to share the results of our recent customer feedback and satisfaction survey. The survey was conducted across all our locations, and we received a total of 1,500 responses.\n\nThe results are attached to this email, but I wanted to highlight a few key findings. Our customers are generally satisfied with our products and services, but there are areas for improvement, such as our online ordering system and in-store navigation.\n\nI'd like to schedule a meeting to discuss the results in more detail and brainstorm ways to address the areas for improvement.\n\nBest regards,\nOlivia Hong",
+            "folder": "inbox",
+            "read": true,
+            "attachments": [
+                "Customer_Feedback_Survey_Results.pdf"
+            ],
+            "tag": "distractor"
+        },
+        {
+            "type": "email",
+            "id": "email_003",
+            "subject": "Technology Implementation Update - New Inventory Management System",
+            "from": "david.chen@leesmarket.com",
+            "from_name": "David Chen",
+            "to": [
+                "emily.patel@leesmarket.com",
+                "jason.kim@leesmarket.com"
+            ],
+            "cc": [
+                "sophia.lee@leesmarket.com"
+            ],
+            "date": "2023-07-22 11:15:00",
+            "body": "Hi Team,\n\nI wanted to provide an update on the implementation of our new inventory management system. The system is currently being tested in our pilot store, and we're on track to roll it out to all locations by the end of Q3.\n\nI've attached a training schedule for the new system, which will be conducted in phases over the next few weeks. Please review the schedule and let me know if you have any questions or concerns.\n\nBest regards,\nDavid Chen",
+            "folder": "inbox",
+            "read": true,
+            "attachments": [
+                "Inventory_Management_System_Training_Schedule.xlsx"
+            ],
+            "tag": "distractor"
+        },
+        {
+            "type": "email",
+            "id": "email_001",
+            "subject": "FSMA 204 Compliance Update and Recommendations",
+            "from": "emily.patel@leesmarket.com",
+            "from_name": "Emily Patel",
+            "to": [
+                "jason.kim@leesmarket.com",
+                "sophia.lee@leesmarket.com"
+            ],
+            "cc": [
+                "david.chen@leesmarket.com"
+            ],
+            "date": "2025-04-15 10:00:00",
+            "body": "Dear Team,\n\nAs we continue to work on implementing FSMA 204 regulations, I wanted to provide an update on our progress and recommend some additional steps to enhance our food safety practices. Our new employee onboarding program, which includes comprehensive training on food safety procedures, has been successful with an average onboarding time of 30 days and a 90% completion rate in Q1 2025. However, this metric does not directly impact our FSMA 204 compliance.\n\nTo improve our compliance, I suggest we focus on implementing more stringent record-keeping practices and increasing our supplier verification efforts. I have attached a detailed report outlining these recommendations and their potential impact on our food safety practices.\n\nPlease let me know if you have any questions or concerns.\n\nBest regards,\nEmily Patel",
+            "folder": "inbox",
+            "read": true,
+            "attachments": [
+                "FSMA 204 Compliance Report.pdf"
+            ],
+            "tag": "insight"
+        },
+        {
+            "type": "email",
+            "id": "email_002",
+            "subject": "Re: FSMA 204 Compliance Update and Recommendations",
+            "from": "jason.kim@leesmarket.com",
+            "from_name": "Jason Kim",
+            "to": [
+                "emily.patel@leesmarket.com"
+            ],
+            "cc": [
+                "sophia.lee@leesmarket.com",
+                "david.chen@leesmarket.com"
+            ],
+            "date": "2025-04-16 09:00:00",
+            "body": "Hi Emily,\n\nThank you for the update and the report. I agree that implementing more stringent record-keeping practices and increasing our supplier verification efforts will help improve our FSMA 204 compliance. I would like to schedule a meeting to discuss these recommendations in more detail and create an action plan for implementation.\n\nPlease let me know your availability, and I will schedule the meeting accordingly.\n\nBest regards,\nJason Kim",
+            "folder": "inbox",
+            "read": true,
+            "attachments": [],
+            "tag": "insight"
+        },
+        {
+            "type": "email",
+            "id": "email_003",
+            "subject": "Re: FSMA 204 Compliance Update and Recommendations",
+            "from": "emily.patel@leesmarket.com",
+            "from_name": "Emily Patel",
+            "to": [
+                "jason.kim@leesmarket.com"
+            ],
+            "cc": [
+                "sophia.lee@leesmarket.com",
+                "david.chen@leesmarket.com"
+            ],
+            "date": "2025-04-17 10:00:00",
+            "body": "Hi Jason,\n\nI am available to meet on Tuesday or Wednesday of next week. Please let me know which day works best for you, and I will make sure to adjust my schedule accordingly.\n\nIn the meantime, I will work on creating a detailed action plan for implementing the recommended changes. I will share the plan with the team before the meeting so we can discuss and finalize it.\n\nBest regards,\nEmily Patel",
+            "folder": "inbox",
+            "read": true,
+            "attachments": [],
+            "tag": "insight"
+        }
+    ],
+    "file_format": "jsonl",
+    "file_path": ".llm_responses/generated_email_document.jsonl",
+    "qa_type": "distractor",
+    "timestamp": "2025-08-18 08:31",
+    "app": "roundcube"
+}

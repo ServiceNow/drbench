@@ -1,0 +1,245 @@
+{
+    "file_name": "mattermost_chat_20250819_140842",
+    "content": "{\"type\": \"version\", \"version\": 1}\n{\"type\": \"team\", \"team\": {\"name\": \"sales_team\", \"display_name\": \"Sales Team\", \"type\": \"O\", \"header\": \"Team focused on driving sales and revenue growth.\", \"purpose\": \"To enhance sales strategies and improve client acquisition.\"}}\n{\"type\": \"team\", \"team\": {\"name\": \"it_infrastructure_team\", \"display_name\": \"IT Infrastructure Team\", \"type\": \"O\", \"header\": \"Team responsible for managing IT infrastructure.\", \"purpose\": \"To oversee and optimize the company's IT resources and costs.\"}}\n{\"type\": \"channel\", \"channel\": {\"team\": \"sales_team\", \"name\": \"lead_discussion\", \"display_name\": \"Lead Discussion\", \"type\": \"O\", \"header\": \"Channel for discussing new leads and sales opportunities.\", \"purpose\": \"To collaborate on prospecting and qualifying new sales leads.\"}}\n{\"type\": \"channel\", \"channel\": {\"team\": \"it_infrastructure_team\", \"name\": \"cost_management\", \"display_name\": \"Cost Management\", \"type\": \"O\", \"header\": \"Channel for discussing IT infrastructure costs.\", \"purpose\": \"To review and strategize on IT infrastructure spending.\"}}\n{\"type\": \"user\", \"user\": {\"username\": \"liam.patel\", \"password\": \"liam.patel_pwd\", \"email\": \"liam.patel@mediconnsolutions.com\", \"nickname\": \"Liam\", \"first_name\": \"Liam\", \"last_name\": \"Patel\", \"position\": \"Business Development Representative\", \"roles\": \"system_user\", \"locale\": \"en\", \"teams\": [{\"name\": \"sales_team\", \"roles\": \"team_user\", \"channels\": [{\"name\": \"lead_discussion\", \"roles\": \"channel_user\"}]}, {\"name\": \"it_infrastructure_team\", \"roles\": \"team_user\", \"channels\": [{\"name\": \"cost_management\", \"roles\": \"channel_user\"}]}]}}\n{\"type\": \"user\", \"user\": {\"username\": \"jane.smith\", \"password\": \"jane.smith_pwd\", \"email\": \"jane.smith@mediconnsolutions.com\", \"nickname\": \"Jane\", \"first_name\": \"Jane\", \"last_name\": \"Smith\", \"position\": \"Sales Manager\", \"roles\": \"system_user\", \"locale\": \"en\", \"teams\": [{\"name\": \"sales_team\", \"roles\": \"team_user\", \"channels\": [{\"name\": \"lead_discussion\", \"roles\": \"channel_user\"}]}]}}\n{\"type\": \"user\", \"user\": {\"username\": \"mike.johnson\", \"password\": \"mike.johnson_pwd\", \"email\": \"mike.johnson@mediconnsolutions.com\", \"nickname\": \"Mike\", \"first_name\": \"Mike\", \"last_name\": \"Johnson\", \"position\": \"IT Manager\", \"roles\": \"system_user\", \"locale\": \"en\", \"teams\": [{\"name\": \"it_infrastructure_team\", \"roles\": \"team_user\", \"channels\": [{\"name\": \"cost_management\", \"roles\": \"channel_user\"}]}]}}\n{\"type\": \"post\", \"post\": {\"team\": \"sales_team\", \"channel\": \"lead_discussion\", \"user\": \"liam.patel\", \"message\": \"Hey team, has anyone gathered feedback from the last client meeting? I want to ensure we're addressing all concerns.\", \"create_at\": 1620500000000}}\n{\"type\": \"post\", \"post\": {\"team\": \"sales_team\", \"channel\": \"lead_discussion\", \"user\": \"jane.smith\", \"message\": \"Yes, I have some notes. The client was particularly interested in our new telehealth features. I\\u2019ll summarize the key points!\", \"create_at\": 1620500001000}}\n{\"type\": \"post\", \"post\": {\"team\": \"it_infrastructure_team\", \"channel\": \"cost_management\", \"user\": \"mike.johnson\", \"message\": \"Quick reminder that our team meeting is scheduled for Thursday. We'll review the current infrastructure projects.\", \"create_at\": 1620500002000}}\n{\"type\": \"post\", \"post\": {\"team\": \"it_infrastructure_team\", \"channel\": \"cost_management\", \"user\": \"mike.johnson\", \"message\": \"Also, can everyone come prepared with updates on their respective projects? It\\u2019ll help us streamline our discussions.\", \"create_at\": 1620500003000}}\n{\"type\": \"post\", \"post\": {\"team\": \"sales_team\", \"channel\": \"lead_discussion\", \"user\": \"liam.patel\", \"message\": \"I was thinking about organizing a lunch & learn session for our new product launch. What do you all think?\", \"create_at\": 1620500004000}}\n{\"type\": \"post\", \"post\": {\"team\": \"sales_team\", \"channel\": \"lead_discussion\", \"user\": \"jane.smith\", \"message\": \"That sounds like a great idea, Liam! It could really help with team engagement and product knowledge.\", \"create_at\": 1620500005000}}\n{\"type\": \"post\", \"post\": {\"team\": \"it_infrastructure_team\", \"channel\": \"cost_management\", \"user\": \"mike.johnson\", \"message\": \"I\\u2019ve been looking into some new compliance regulations that might affect our processes. Let\\u2019s discuss them in our next meeting.\", \"create_at\": 1620500006000}}\n{\"type\": \"post\", \"post\": {\"team\": \"it_infrastructure_team\", \"channel\": \"cost_management\", \"user\": \"mike.johnson\", \"message\": \"Also, I\\u2019ll share a document with everyone outlining the latest industry trends for our upcoming strategy session.\", \"create_at\": 1620500007000}}\n{\"type\": \"post\", \"post\": {\"team\": \"it_infrastructure_team\", \"channel\": \"cost_management\", \"user\": \"mike.johnson\", \"message\": \"Hey team, as we prepare our projections for the upcoming quarters, I've reviewed our IT infrastructure costs. Based on our current contracts and projected usage, I estimate that our IT costs will reach approximately $1.2 million by Q3 2025. It's important to note that these costs are primarily associated with maintaining our systems and do not correlate with CRM effectiveness or our patient retention strategies. Let's ensure we're optimizing our resources to manage this effectively.\", \"create_at\": 1630500000000}}",
+    "chat_setup": {
+        "teams": [
+            {
+                "type": "team",
+                "team": {
+                    "name": "sales_team",
+                    "display_name": "Sales Team",
+                    "type": "O",
+                    "header": "Team focused on driving sales and revenue growth.",
+                    "purpose": "To enhance sales strategies and improve client acquisition."
+                }
+            },
+            {
+                "type": "team",
+                "team": {
+                    "name": "it_infrastructure_team",
+                    "display_name": "IT Infrastructure Team",
+                    "type": "O",
+                    "header": "Team responsible for managing IT infrastructure.",
+                    "purpose": "To oversee and optimize the company's IT resources and costs."
+                }
+            }
+        ],
+        "channels": [
+            {
+                "type": "channel",
+                "channel": {
+                    "team": "sales_team",
+                    "name": "lead_discussion",
+                    "display_name": "Lead Discussion",
+                    "type": "O",
+                    "header": "Channel for discussing new leads and sales opportunities.",
+                    "purpose": "To collaborate on prospecting and qualifying new sales leads."
+                }
+            },
+            {
+                "type": "channel",
+                "channel": {
+                    "team": "it_infrastructure_team",
+                    "name": "cost_management",
+                    "display_name": "Cost Management",
+                    "type": "O",
+                    "header": "Channel for discussing IT infrastructure costs.",
+                    "purpose": "To review and strategize on IT infrastructure spending."
+                }
+            }
+        ],
+        "users": [
+            {
+                "type": "user",
+                "user": {
+                    "username": "liam.patel",
+                    "email": "liam.patel@mediconnsolutions.com",
+                    "nickname": "Liam",
+                    "first_name": "Liam",
+                    "last_name": "Patel",
+                    "position": "Business Development Representative",
+                    "roles": "system_user",
+                    "locale": "en",
+                    "teams": [
+                        {
+                            "name": "sales_team",
+                            "roles": "team_user",
+                            "channels": [
+                                {
+                                    "name": "lead_discussion",
+                                    "roles": "channel_user"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "it_infrastructure_team",
+                            "roles": "team_user",
+                            "channels": [
+                                {
+                                    "name": "cost_management",
+                                    "roles": "channel_user"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "type": "user",
+                "user": {
+                    "username": "jane.smith",
+                    "email": "jane.smith@mediconnsolutions.com",
+                    "nickname": "Jane",
+                    "first_name": "Jane",
+                    "last_name": "Smith",
+                    "position": "Sales Manager",
+                    "roles": "system_user",
+                    "locale": "en",
+                    "teams": [
+                        {
+                            "name": "sales_team",
+                            "roles": "team_user",
+                            "channels": [
+                                {
+                                    "name": "lead_discussion",
+                                    "roles": "channel_user"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "type": "user",
+                "user": {
+                    "username": "mike.johnson",
+                    "email": "mike.johnson@mediconnsolutions.com",
+                    "nickname": "Mike",
+                    "first_name": "Mike",
+                    "last_name": "Johnson",
+                    "position": "IT Manager",
+                    "roles": "system_user",
+                    "locale": "en",
+                    "teams": [
+                        {
+                            "name": "it_infrastructure_team",
+                            "roles": "team_user",
+                            "channels": [
+                                {
+                                    "name": "cost_management",
+                                    "roles": "channel_user"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    "chat_messages": [
+        {
+            "type": "post",
+            "post": {
+                "team": "it_infrastructure_team",
+                "channel": "cost_management",
+                "user": "mike.johnson",
+                "message": "Hey team, as we prepare our projections for the upcoming quarters, I've reviewed our IT infrastructure costs. Based on our current contracts and projected usage, I estimate that our IT costs will reach approximately $1.2 million by Q3 2025. It's important to note that these costs are primarily associated with maintaining our systems and do not correlate with CRM effectiveness or our patient retention strategies. Let's ensure we're optimizing our resources to manage this effectively.",
+                "create_at": 1630500000000
+            },
+            "tag": "insight"
+        },
+        {
+            "type": "post",
+            "post": {
+                "team": "sales_team",
+                "channel": "lead_discussion",
+                "user": "liam.patel",
+                "message": "Hey team, has anyone gathered feedback from the last client meeting? I want to ensure we're addressing all concerns.",
+                "create_at": 1620500000000
+            },
+            "tag": "distractor"
+        },
+        {
+            "type": "post",
+            "post": {
+                "team": "sales_team",
+                "channel": "lead_discussion",
+                "user": "jane.smith",
+                "message": "Yes, I have some notes. The client was particularly interested in our new telehealth features. I\u2019ll summarize the key points!",
+                "create_at": 1620500001000
+            },
+            "tag": "distractor"
+        },
+        {
+            "type": "post",
+            "post": {
+                "team": "it_infrastructure_team",
+                "channel": "cost_management",
+                "user": "mike.johnson",
+                "message": "Quick reminder that our team meeting is scheduled for Thursday. We'll review the current infrastructure projects.",
+                "create_at": 1620500002000
+            },
+            "tag": "distractor"
+        },
+        {
+            "type": "post",
+            "post": {
+                "team": "it_infrastructure_team",
+                "channel": "cost_management",
+                "user": "mike.johnson",
+                "message": "Also, can everyone come prepared with updates on their respective projects? It\u2019ll help us streamline our discussions.",
+                "create_at": 1620500003000
+            },
+            "tag": "distractor"
+        },
+        {
+            "type": "post",
+            "post": {
+                "team": "sales_team",
+                "channel": "lead_discussion",
+                "user": "liam.patel",
+                "message": "I was thinking about organizing a lunch & learn session for our new product launch. What do you all think?",
+                "create_at": 1620500004000
+            },
+            "tag": "distractor"
+        },
+        {
+            "type": "post",
+            "post": {
+                "team": "sales_team",
+                "channel": "lead_discussion",
+                "user": "jane.smith",
+                "message": "That sounds like a great idea, Liam! It could really help with team engagement and product knowledge.",
+                "create_at": 1620500005000
+            },
+            "tag": "distractor"
+        },
+        {
+            "type": "post",
+            "post": {
+                "team": "it_infrastructure_team",
+                "channel": "cost_management",
+                "user": "mike.johnson",
+                "message": "I\u2019ve been looking into some new compliance regulations that might affect our processes. Let\u2019s discuss them in our next meeting.",
+                "create_at": 1620500006000
+            },
+            "tag": "distractor"
+        },
+        {
+            "type": "post",
+            "post": {
+                "team": "it_infrastructure_team",
+                "channel": "cost_management",
+                "user": "mike.johnson",
+                "message": "Also, I\u2019ll share a document with everyone outlining the latest industry trends for our upcoming strategy session.",
+                "create_at": 1620500007000
+            },
+            "tag": "distractor"
+        }
+    ],
+    "file_format": "jsonl",
+    "file_path": ".llm_responses/generated_chat_document.jsonl",
+    "qa_type": "distractor",
+    "timestamp": "2025-08-19 11:08",
+    "app": "mattermost"
+}

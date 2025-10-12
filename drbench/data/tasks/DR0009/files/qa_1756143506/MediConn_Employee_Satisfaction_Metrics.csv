@@ -1,0 +1,10 @@
+Quarter,Year,Satisfaction Rate,Employee Count,Comments
+The fiscal quarter during which the employee satisfaction was measured. This is crucial for time-trend analysis and understanding seasonal variations.,The fiscal year during which the employee satisfaction was measured. Used to track annual trends and improvements.,The percentage of employees satisfied with their job during the specified quarter. A key indicator of internal morale and company culture.,The total number of employees surveyed for satisfaction during the specified quarter. Provides context for the satisfaction rate.,Additional qualitative insights or notes from the employee satisfaction survey. Useful for understanding the reasons behind satisfaction levels.
+Q2,2023,0.78,142,Increased workload due to project deadlines.
+Q2,2024,0.82,150,Employee satisfaction is unrelated to CRM solution trends or patient engagement.
+Q1,2023,0.75,145,Positive feedback on new work-from-home policy.
+Q1,2024,0.79,155,Introduction of flexible working hours appreciated.
+Q4,2024,0.83,152,New leadership seen as a positive change.
+Q3,2023,0.76,148,Concerns about job security during reorganization.
+Q3,2024,0.81,147,Team-building activities boosted team spirit.
+Q4,2023,0.8,150,Year-end bonuses improved morale.

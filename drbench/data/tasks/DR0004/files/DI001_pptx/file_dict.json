@@ -1,0 +1,81 @@
+{
+    "file_name": "workforce-analysis-2024",
+    "file_title": "Q2 2024 Workforce Analysis Insights",
+    "introduction": "This presentation provides an overview of workforce dynamics at Lee's Market, focusing on key trends and metrics from the second quarter of 2024.",
+    "subsections": [
+        {
+            "heading": "Q2 2024 Employee Engagement Trends",
+            "content": "\u2022 In Q2 2024, Lee's Market launched a new employee recognition program, resulting in a 15% increase in monthly award nominations.\n\u2022 Engagement surveys revealed that 70% of the workforce felt more connected to company values post-implementation of the \"Cultural Days\" initiative.\n\u2022 Cross-departmental team-building events were held in April and May, bringing together over 300 employees from various locations.\n\u2022 A pilot mentorship program was introduced, pairing senior leaders with new hires to foster professional development and networking opportunities.\n\u2022 Satisfaction ratings for workplace environment improved by 8% after the introduction of flexible workspaces in urban center locations.\n\u2022 The introduction of a quarterly town hall meeting via virtual platforms saw a 25% increase in employee attendance and participation.",
+            "type": "distractor",
+            "justification": "Focuses on engagement initiatives and outcomes, not turnover rates or specific employee retention data."
+        },
+        {
+            "heading": "Turnover Rates and Retention Strategies",
+            "content": "\u2022 The HR department developed a retention toolkit in April 2024, targeting departmental managers to train them on personalized retention strategies.\n\u2022 A strategic review of exit interview feedback highlighted the need for enhanced career progression paths, implemented in June 2024.\n\u2022 Retention bonuses were tested in select regions, aimed at employees in high-demand roles like supply chain management and IT.\n\u2022 Implementation of a new ERP system streamlined onboarding processes, reducing time-to-productivity by 20% across all stores.\n\u2022 The recruitment team expanded outreach efforts to local universities, increasing internship applications by 30% in Q2 2024.\n\u2022 In June 2024, Lee\u2019s Market launched the \u201cStay with Us\u201d campaign, focusing on strengthening the employer brand to attract long-term talent.",
+            "type": "distractor",
+            "justification": "Discusses strategies and initiatives without providing specific Q2 2024 turnover rate data."
+        },
+        {
+            "heading": "Impact of Training on Employee Satisfaction",
+            "content": "\u2022 In April 2024, Lee's Market implemented a new training platform, resulting in a 40% increase in course completion rates among staff.\n\u2022 Feedback from training sessions showed a 15% improvement in employee confidence in using new digital tools introduced in Q1 2024.\n\u2022 A certification program launched in May 2024 led to a 25% increase in employee satisfaction scores related to skill development opportunities.\n\u2022 Training sessions focused on customer service excellence were attended by over 500 employees, enhancing in-store experiences.\n\u2022 Post-training surveys indicated a 10% rise in satisfaction scores for professional development resources across all departments.\n\u2022 The leadership development track, initiated in June 2024, was completed by 120 team leads, enhancing managerial capabilities.",
+            "type": "distractor",
+            "justification": "Explores training impacts on satisfaction, not directly related to employee turnover rates."
+        }
+    ],
+    "conclusion": "In summary, understanding our turnover rates helps us refine our retention strategies. Moving forward, we recommend focusing on targeted employee engagement initiatives to enhance workforce stability.",
+    "file_format": "pptx",
+    "file_path": ".llm_responses/generated_pptx_presentation.pptx",
+    "qa_type": "distractor",
+    "timestamp": "2025-08-15 14:48",
+    "image_queries": [
+        {
+            "slide_title": "Introduction",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "intentionally_clean",
+            "slide_type": "introduction"
+        },
+        {
+            "slide_title": "Q2 2024 Employee Engagement Trends",
+            "has_image": true,
+            "image_query": "employee recognition program activity",
+            "generation_method": "strategic_placement",
+            "slide_type": "distractor",
+            "content_length": 6,
+            "total_chars": 812,
+            "forced": false,
+            "theme": "Forest Theme"
+        },
+        {
+            "slide_title": "Turnover Rates and Retention Strategies",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 6,
+            "total_chars": 787,
+            "probability": 0.25,
+            "theme": "Forest Theme"
+        },
+        {
+            "slide_title": "Impact of Training on Employee Satisfaction",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 6,
+            "total_chars": 781,
+            "probability": 0.25,
+            "theme": "Forest Theme"
+        },
+        {
+            "slide_title": "Conclusion",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "strategic_clean_conclusion",
+            "slide_type": "conclusion",
+            "theme": "Forest Theme"
+        }
+    ],
+    "app": "nextcloud"
+}

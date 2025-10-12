@@ -1,0 +1,10 @@
+{
+    "insight_id": "qa_1755705614",
+    "qa_type": "distractor",
+    "qa_index": 2,
+    "specific_question": "What percentage of employees completed IT security training by Q1 2025?",
+    "answer": "85% of employees completed IT security training by Q1 2025.",
+    "justification": "Employee IT security training does not impact CRM solutions or patient engagement",
+    "timestamp": "2025-08-20 09:00",
+    "dr_question": "How can MediConn Solutions leverage trendy new CRM solutions to improve patient engagement and retention, and what new CRM solutions are expected in 2025?"
+}

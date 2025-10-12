@@ -1,0 +1,10 @@
+{
+    "insight_id": "qa_1755624646",
+    "qa_type": "distractor",
+    "qa_index": 0,
+    "specific_question": "What are our employee turnover rates in Q1 2025?",
+    "answer": "Employee turnover rate was 12%, slightly down from 15% last quarter.",
+    "justification": "Employee metrics are unrelated to the insurance acceptance and compliance focus.",
+    "timestamp": "2025-08-19 10:30",
+    "dr_question": "What are the key factors influencing MediConn Solutions' decision to accept insurance for telehealth providers, considering HIPAA compliance and state-specific data privacy regulations?"
+}

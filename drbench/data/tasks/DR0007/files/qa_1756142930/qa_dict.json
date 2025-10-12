@@ -1,0 +1,10 @@
+{
+    "insight_id": "qa_1756142930",
+    "qa_type": "distractor",
+    "qa_index": 2,
+    "specific_question": "What was our network uptime percentage in Q2 2024?",
+    "answer": "Network uptime was 99.8%, maintaining optimal operations.",
+    "justification": "Network uptime doesn't directly affect IT service desk workload or response times.",
+    "timestamp": "2025-08-25 10:28",
+    "dr_question": "How can we leverage ISTM and AI-driven analytics to minimize IT service desk workload and improve response times in MediConn Solutions?"
+}

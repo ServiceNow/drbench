@@ -1,0 +1,9 @@
+Quarter,Year,IT_Training_Budget,Impact_on_Security,Compliance_Certifications,Market_Position_Impact
+The fiscal quarter in which the budget was allocated. This helps track the budget allocation over different periods.,The fiscal year for the budget allocation. This is crucial for year-over-year comparisons of budget trends.,The total budget allocated for IT training in a given quarter. It is important for evaluating investment in employee skill development.,Indicates whether the IT training budget was influenced by third-party data breach impacts. Useful for understanding budget adjustments related to security concerns.,List of compliance certifications held by the company during the budget period. Provides context on regulatory influences on budgeting.,Describes any impact on market position or competitive advantage due to IT training investments. Important for strategic planning.
+Q1,2024,250000,False,"ISO 27001, GDPR",Increased employee satisfaction
+Q3,2023,180000,True,"ISO 27001, GDPR, SOC 2",Slight improvement in market perception
+Q1,2023,150000,True,ISO 27001,Maintained market position
+Q4,2023,220000,True,"ISO 27001, GDPR",Stabilized market presence
+Q3,2024,300000,False,"ISO 27001, GDPR",Enhanced competitive advantage
+Q2,2023,200000,False,"ISO 27001, GDPR",Improved compliance ranking
+Q2,2024,275000,False,"ISO 27001, GDPR, SOC 2",Improved training efficiency

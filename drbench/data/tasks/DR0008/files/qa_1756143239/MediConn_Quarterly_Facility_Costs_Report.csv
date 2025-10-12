@@ -1,0 +1,11 @@
+Quarter,Facility_Costs,Annual_Revenue_Category,Compliance_Certifications,Headquarters_Location
+"The fiscal quarter for which the facility costs are reported, e.g., 'Q3 2025'.","Total facility costs incurred during the specified quarter. This includes expenses related to physical infrastructure, utilities, and maintenance.","The annual revenue range of the company during the reporting period, providing context to the cost data.","List of compliance certifications held by the company, indicating adherence to regulatory standards during the reporting period.","The location of the company's headquarters, providing geographic context relevant to the facility costs."
+Q1 2024,110000,$250K - $500K,ISO 14001,"Boston, USA"
+Q2 2024,95000,$250K - $500K,ISO 9001,"Seattle, USA"
+Q1 2025,200000,$500K - $1M,ISO 9001,"Chicago, USA"
+Q3 2024,120000,$500K - $1M,ISO 9001,"San Francisco, USA"
+Q4 2023,80000,$250K - $500K,ISO 9001,"Miami, USA"
+Q2 2025,150000,$500K - $1M,ISO 9001,"Los Angeles, USA"
+Q4 2024,175000,$500K - $1M,"ISO 9001, ISO 14001","Houston, USA"
+Q3 2025,350000,$1M - $5M,"ISO 9001, ISO 14001","New York, USA"
+Q3 2023,90000,$250K - $500K,ISO 14001,"Denver, USA"

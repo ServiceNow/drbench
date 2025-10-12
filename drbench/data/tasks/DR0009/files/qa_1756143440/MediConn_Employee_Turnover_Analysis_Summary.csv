@@ -1,0 +1,13 @@
+Quarter,Employee_Turnover_Rate,Total_Employees_Start,Total_Employees_End,Voluntary_Exits,Involuntary_Exits,New_Hires
+"The financial quarter and year for which the employee turnover rate is reported (e.g., Q3 2025).",The percentage of employees who left the company during the specified quarter.,The total number of employees at the beginning of the quarter.,The total number of employees at the end of the quarter.,The number of employees who left the company voluntarily during the quarter.,The number of employees who left the company involuntarily during the quarter.,The number of new employees hired during the quarter.
+Q3 2025,11%,1000,890,80,30,0
+Q2 2023,7%,950,880,60,10,0
+Q1 2024,3%,1020,990,20,10,0
+Q3 2023,5%,980,930,40,10,0
+Q3 2024,8%,1100,1010,70,20,0
+Q1 2023,4%,920,890,30,10,0
+Q4 2024,7%,1080,1000,60,20,0
+Q2 2024,4%,1050,1010,30,10,0
+Q4 2023,6%,1000,940,50,10,0
+Q1 2025,5%,1200,1140,40,20,0
+Q2 2025,6%,1150,1080,50,20,0

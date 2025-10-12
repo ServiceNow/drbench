@@ -1,0 +1,10 @@
+{
+    "insight_id": "qa_1755632546",
+    "qa_type": "distractor",
+    "qa_index": 1,
+    "specific_question": "What was the training budget for Q2 2024?",
+    "answer": "Training budget was $200,000 in Q2 2024.",
+    "justification": "Training budget allocations do not address data breach impacts or regulations.",
+    "timestamp": "2025-08-19 12:42",
+    "dr_question": "What is the impact of third-party data breaches on MediConn's virtual healthcare platforms and patient data, and what new regulations can be implemented to defend against these breaches?"
+}

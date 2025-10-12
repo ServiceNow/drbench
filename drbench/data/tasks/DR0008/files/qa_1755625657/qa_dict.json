@@ -1,0 +1,10 @@
+{
+    "insight_id": "qa_1755625657",
+    "qa_type": "distractor",
+    "qa_index": 1,
+    "specific_question": "How many new employees were hired in Q3 2025?",
+    "answer": "MediConn hired 30 new employees in Q3 2025 to support growth.",
+    "justification": "Hiring metrics are unrelated to cybersecurity threats and patient data protection.",
+    "timestamp": "2025-08-19 10:47",
+    "dr_question": "What is the impact of third-party data breaches on MediConn's virtual healthcare platforms and patient data, and what new regulations can be implemented to defend against these breaches?"
+}

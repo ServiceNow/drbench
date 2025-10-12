@@ -1,0 +1,190 @@
+{
+    "file_name": "roundcube_email_20250818_120501",
+    "content": "{\"type\": \"user\", \"username\": \"david.lee\", \"first_name\": \"David\", \"last_name\": \"Lee\", \"email\": \"david.lee@leesmarket.com\"}\n{\"type\": \"user\", \"username\": \"emily.chen\", \"first_name\": \"Emily\", \"last_name\": \"Chen\", \"email\": \"emily.chen@leesmarket.com\"}\n{\"type\": \"user\", \"username\": \"ryan.kim\", \"first_name\": \"Ryan\", \"last_name\": \"Kim\", \"email\": \"ryan.kim@leesmarket.com\"}\n{\"type\": \"user\", \"username\": \"sophia.patel\", \"first_name\": \"Sophia\", \"last_name\": \"Patel\", \"email\": \"sophia.patel@leesmarket.com\"}\n{\"type\": \"user\", \"username\": \"kevin.white\", \"first_name\": \"Kevin\", \"last_name\": \"White\", \"email\": \"kevin.white@leesmarket.com\"}\n{\"type\": \"email\", \"id\": \"email_001\", \"subject\": \"Upcoming Marketing Team Meeting\", \"from\": \"david.lee@leesmarket.com\", \"from_name\": \"David Lee\", \"to\": [\"emily.chen@leesmarket.com\", \"ryan.kim@leesmarket.com\"], \"cc\": [], \"date\": \"2023-07-20 10:00:00\", \"body\": \"Hello Team,\\n\\nI wanted to send out a reminder that our marketing team meeting is scheduled for this Thursday at 2 PM. We will be discussing our Q3 campaign strategy and brainstorming new ideas for social media engagement.\\n\\nPlease come prepared with any updates or topics you would like to discuss. I look forward to seeing you all there.\\n\\nBest,\\nDavid\", \"folder\": \"inbox\", \"read\": true, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_002\", \"subject\": \"Project Status Update: Website Revamp\", \"from\": \"emily.chen@leesmarket.com\", \"from_name\": \"Emily Chen\", \"to\": [\"david.lee@leesmarket.com\", \"kevin.white@leesmarket.com\"], \"cc\": [\"sophia.patel@leesmarket.com\"], \"date\": \"2023-07-18 14:30:00\", \"body\": \"Hi David and Kevin,\\n\\nI wanted to provide a quick update on the website revamp project. We are currently on track to meet our deadline, but I do have some concerns regarding the new design layout. I have attached the latest mockups for your review.\\n\\nPlease let me know if you have any feedback or if there's anything else I can do to move the project forward.\\n\\nThanks,\\nEmily\", \"folder\": \"inbox\", \"read\": true, \"attachments\": [\"website_revamp_mockups.pdf\"]}\n{\"type\": \"email\", \"id\": \"email_003\", \"subject\": \"Budget Planning for Q4\", \"from\": \"kevin.white@leesmarket.com\", \"from_name\": \"Kevin White\", \"to\": [\"david.lee@leesmarket.com\", \"emily.chen@leesmarket.com\"], \"cc\": [], \"date\": \"2023-07-22 11:15:00\", \"body\": \"Hi David and Emily,\\n\\nAs we approach the end of Q3, I wanted to start discussing our budget plans for Q4. We need to allocate resources for our holiday marketing campaigns and ensure we have enough budget for any unexpected expenses.\\n\\nI have attached a preliminary budget breakdown for your review. Please let me know if you have any questions or concerns.\\n\\nThanks,\\nKevin\", \"folder\": \"inbox\", \"read\": true, \"attachments\": [\"q4_budget_breakdown.xlsx\"]}\n{\"type\": \"email\", \"id\": \"email_004\", \"subject\": \"Industry Event: Asian Food Expo\", \"from\": \"sophia.patel@leesmarket.com\", \"from_name\": \"Sophia Patel\", \"to\": [\"david.lee@leesmarket.com\", \"emily.chen@leesmarket.com\"], \"cc\": [\"ryan.kim@leesmarket.com\"], \"date\": \"2023-07-25 09:45:00\", \"body\": \"Hi Team,\\n\\nI wanted to bring to your attention an upcoming industry event that may be of interest to us. The Asian Food Expo is taking place in Los Angeles next month, and it could be a great opportunity for us to network and learn about the latest trends in the industry.\\n\\nPlease let me know if you're interested in attending, and I can look into registering us for the event.\\n\\nThanks,\\nSophia\", \"folder\": \"inbox\", \"read\": true, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_001\", \"subject\": \"Loyalty Program Performance Q3 2023\", \"from\": \"emily.chen@leesmarket.com\", \"from_name\": \"Emily Chen\", \"to\": [\"david.lee@leesmarket.com\"], \"cc\": [\"ryan.kim@leesmarket.com\", \"sophia.patel@leesmarket.com\"], \"date\": \"2023-10-17 14:30:00\", \"body\": \"Hi David,\\n\\nI hope this email finds you well. As we approach the end of the year, I wanted to share some key insights on our loyalty program's performance for Q3 2023. As you know, we've been working hard to enhance customer engagement and drive sales through our loyalty initiatives.\\n\\nOur analysis shows that loyalty program redemptions accounted for 18% of our sales revenue in Q3 2023, representing a 5% increase annually. This growth is a testament to the effectiveness of our targeted marketing campaigns and the value our customers see in our loyalty program.\\n\\nI've attached a detailed report to this email, which provides a breakdown of our loyalty program's performance by region and customer segment. I'd love to discuss these findings further and explore opportunities to build on this momentum in Q4.\\n\\nPlease let me know if you have any questions or if you'd like to schedule a meeting to discuss.\\n\\nBest regards,\\nEmily\", \"folder\": \"inbox\", \"read\": true, \"attachments\": [\"Loyalty Program Performance Q3 2023.pdf\"]}\n{\"type\": \"email\", \"id\": \"email_002\", \"subject\": \"Re: Loyalty Program Performance Q3 2023\", \"from\": \"david.lee@leesmarket.com\", \"from_name\": \"David Lee\", \"to\": [\"emily.chen@leesmarket.com\"], \"cc\": [\"ryan.kim@leesmarket.com\", \"sophia.patel@leesmarket.com\"], \"date\": \"2023-10-17 15:15:00\", \"body\": \"Hi Emily,\\n\\nThanks for sharing the loyalty program performance report for Q3 2023. The 18% revenue contribution from loyalty redemptions is impressive, and the 5% annual growth is a great indicator of our progress.\\n\\nI'd love to discuss the regional breakdown and customer segment analysis further. Can we schedule a meeting for this week to explore ways to build on this momentum in Q4?\\n\\nAlso, have we considered integrating our loyalty program with our online shopping platform to enhance the customer experience and drive more sales?\\n\\nLooking forward to hearing your thoughts.\\n\\nBest regards,\\nDavid\", \"folder\": \"inbox\", \"read\": true, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_003\", \"subject\": \"Re: Loyalty Program Performance Q3 2023\", \"from\": \"emily.chen@leesmarket.com\", \"from_name\": \"Emily Chen\", \"to\": [\"david.lee@leesmarket.com\"], \"cc\": [\"ryan.kim@leesmarket.com\", \"sophia.patel@leesmarket.com\"], \"date\": \"2023-10-17 16:00:00\", \"body\": \"Hi David,\\n\\nI'm glad you found the report helpful. I agree that integrating our loyalty program with our online shopping platform is a great idea. In fact, we've already started exploring this opportunity with our IT team.\\n\\nRegarding the meeting, how about we schedule it for Thursday at 2 PM? I'll make sure to invite Ryan and Sophia as well.\\n\\nLooking forward to discussing the loyalty program further and exploring ways to drive more sales and customer engagement in Q4.\\n\\nBest regards,\\nEmily\", \"folder\": \"inbox\", \"read\": true, \"attachments\": []}",
+    "email_setup": [
+        {
+            "type": "user",
+            "username": "david.lee",
+            "first_name": "David",
+            "last_name": "Lee",
+            "email": "david.lee@leesmarket.com"
+        },
+        {
+            "type": "user",
+            "username": "emily.chen",
+            "first_name": "Emily",
+            "last_name": "Chen",
+            "email": "emily.chen@leesmarket.com"
+        },
+        {
+            "type": "user",
+            "username": "ryan.kim",
+            "first_name": "Ryan",
+            "last_name": "Kim",
+            "email": "ryan.kim@leesmarket.com"
+        },
+        {
+            "type": "user",
+            "username": "sophia.patel",
+            "first_name": "Sophia",
+            "last_name": "Patel",
+            "email": "sophia.patel@leesmarket.com"
+        },
+        {
+            "type": "user",
+            "username": "kevin.white",
+            "first_name": "Kevin",
+            "last_name": "White",
+            "email": "kevin.white@leesmarket.com"
+        }
+    ],
+    "email_messages": [
+        {
+            "type": "email",
+            "id": "email_001",
+            "subject": "Upcoming Marketing Team Meeting",
+            "from": "david.lee@leesmarket.com",
+            "from_name": "David Lee",
+            "to": [
+                "emily.chen@leesmarket.com",
+                "ryan.kim@leesmarket.com"
+            ],
+            "cc": [],
+            "date": "2023-07-20 10:00:00",
+            "body": "Hello Team,\n\nI wanted to send out a reminder that our marketing team meeting is scheduled for this Thursday at 2 PM. We will be discussing our Q3 campaign strategy and brainstorming new ideas for social media engagement.\n\nPlease come prepared with any updates or topics you would like to discuss. I look forward to seeing you all there.\n\nBest,\nDavid",
+            "folder": "inbox",
+            "read": true,
+            "attachments": [],
+            "tag": "distractor"
+        },
+        {
+            "type": "email",
+            "id": "email_002",
+            "subject": "Project Status Update: Website Revamp",
+            "from": "emily.chen@leesmarket.com",
+            "from_name": "Emily Chen",
+            "to": [
+                "david.lee@leesmarket.com",
+                "kevin.white@leesmarket.com"
+            ],
+            "cc": [
+                "sophia.patel@leesmarket.com"
+            ],
+            "date": "2023-07-18 14:30:00",
+            "body": "Hi David and Kevin,\n\nI wanted to provide a quick update on the website revamp project. We are currently on track to meet our deadline, but I do have some concerns regarding the new design layout. I have attached the latest mockups for your review.\n\nPlease let me know if you have any feedback or if there's anything else I can do to move the project forward.\n\nThanks,\nEmily",
+            "folder": "inbox",
+            "read": true,
+            "attachments": [
+                "website_revamp_mockups.pdf"
+            ],
+            "tag": "distractor"
+        },
+        {
+            "type": "email",
+            "id": "email_003",
+            "subject": "Budget Planning for Q4",
+            "from": "kevin.white@leesmarket.com",
+            "from_name": "Kevin White",
+            "to": [
+                "david.lee@leesmarket.com",
+                "emily.chen@leesmarket.com"
+            ],
+            "cc": [],
+            "date": "2023-07-22 11:15:00",
+            "body": "Hi David and Emily,\n\nAs we approach the end of Q3, I wanted to start discussing our budget plans for Q4. We need to allocate resources for our holiday marketing campaigns and ensure we have enough budget for any unexpected expenses.\n\nI have attached a preliminary budget breakdown for your review. Please let me know if you have any questions or concerns.\n\nThanks,\nKevin",
+            "folder": "inbox",
+            "read": true,
+            "attachments": [
+                "q4_budget_breakdown.xlsx"
+            ],
+            "tag": "distractor"
+        },
+        {
+            "type": "email",
+            "id": "email_004",
+            "subject": "Industry Event: Asian Food Expo",
+            "from": "sophia.patel@leesmarket.com",
+            "from_name": "Sophia Patel",
+            "to": [
+                "david.lee@leesmarket.com",
+                "emily.chen@leesmarket.com"
+            ],
+            "cc": [
+                "ryan.kim@leesmarket.com"
+            ],
+            "date": "2023-07-25 09:45:00",
+            "body": "Hi Team,\n\nI wanted to bring to your attention an upcoming industry event that may be of interest to us. The Asian Food Expo is taking place in Los Angeles next month, and it could be a great opportunity for us to network and learn about the latest trends in the industry.\n\nPlease let me know if you're interested in attending, and I can look into registering us for the event.\n\nThanks,\nSophia",
+            "folder": "inbox",
+            "read": true,
+            "attachments": [],
+            "tag": "distractor"
+        },
+        {
+            "type": "email",
+            "id": "email_001",
+            "subject": "Loyalty Program Performance Q3 2023",
+            "from": "emily.chen@leesmarket.com",
+            "from_name": "Emily Chen",
+            "to": [
+                "david.lee@leesmarket.com"
+            ],
+            "cc": [
+                "ryan.kim@leesmarket.com",
+                "sophia.patel@leesmarket.com"
+            ],
+            "date": "2023-10-17 14:30:00",
+            "body": "Hi David,\n\nI hope this email finds you well. As we approach the end of the year, I wanted to share some key insights on our loyalty program's performance for Q3 2023. As you know, we've been working hard to enhance customer engagement and drive sales through our loyalty initiatives.\n\nOur analysis shows that loyalty program redemptions accounted for 18% of our sales revenue in Q3 2023, representing a 5% increase annually. This growth is a testament to the effectiveness of our targeted marketing campaigns and the value our customers see in our loyalty program.\n\nI've attached a detailed report to this email, which provides a breakdown of our loyalty program's performance by region and customer segment. I'd love to discuss these findings further and explore opportunities to build on this momentum in Q4.\n\nPlease let me know if you have any questions or if you'd like to schedule a meeting to discuss.\n\nBest regards,\nEmily",
+            "folder": "inbox",
+            "read": true,
+            "attachments": [
+                "Loyalty Program Performance Q3 2023.pdf"
+            ],
+            "tag": "insight"
+        },
+        {
+            "type": "email",
+            "id": "email_002",
+            "subject": "Re: Loyalty Program Performance Q3 2023",
+            "from": "david.lee@leesmarket.com",
+            "from_name": "David Lee",
+            "to": [
+                "emily.chen@leesmarket.com"
+            ],
+            "cc": [
+                "ryan.kim@leesmarket.com",
+                "sophia.patel@leesmarket.com"
+            ],
+            "date": "2023-10-17 15:15:00",
+            "body": "Hi Emily,\n\nThanks for sharing the loyalty program performance report for Q3 2023. The 18% revenue contribution from loyalty redemptions is impressive, and the 5% annual growth is a great indicator of our progress.\n\nI'd love to discuss the regional breakdown and customer segment analysis further. Can we schedule a meeting for this week to explore ways to build on this momentum in Q4?\n\nAlso, have we considered integrating our loyalty program with our online shopping platform to enhance the customer experience and drive more sales?\n\nLooking forward to hearing your thoughts.\n\nBest regards,\nDavid",
+            "folder": "inbox",
+            "read": true,
+            "attachments": [],
+            "tag": "insight"
+        },
+        {
+            "type": "email",
+            "id": "email_003",
+            "subject": "Re: Loyalty Program Performance Q3 2023",
+            "from": "emily.chen@leesmarket.com",
+            "from_name": "Emily Chen",
+            "to": [
+                "david.lee@leesmarket.com"
+            ],
+            "cc": [
+                "ryan.kim@leesmarket.com",
+                "sophia.patel@leesmarket.com"
+            ],
+            "date": "2023-10-17 16:00:00",
+            "body": "Hi David,\n\nI'm glad you found the report helpful. I agree that integrating our loyalty program with our online shopping platform is a great idea. In fact, we've already started exploring this opportunity with our IT team.\n\nRegarding the meeting, how about we schedule it for Thursday at 2 PM? I'll make sure to invite Ryan and Sophia as well.\n\nLooking forward to discussing the loyalty program further and exploring ways to drive more sales and customer engagement in Q4.\n\nBest regards,\nEmily",
+            "folder": "inbox",
+            "read": true,
+            "attachments": [],
+            "tag": "insight"
+        }
+    ],
+    "file_format": "jsonl",
+    "file_path": ".llm_responses/generated_email_document.jsonl",
+    "qa_type": "insight",
+    "timestamp": "2025-08-18 09:05",
+    "app": "roundcube"
+}

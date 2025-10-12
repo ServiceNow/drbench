@@ -1,0 +1,10 @@
+{
+    "insight_id": "qa_1755714339",
+    "qa_type": "distractor",
+    "qa_index": 1,
+    "specific_question": "How many new manufacturing equipment were purchased in Q2 2024?",
+    "answer": "Elexion purchased 15 new manufacturing equipment totaling $1.5 million.",
+    "justification": "Manufacturing equipment purchases do not impact cybersecurity implementation.",
+    "timestamp": "2025-08-20 11:25",
+    "dr_question": "How can Elexion Automotive effectively implement a cybersecurity strategy for its electric vehicles, considering the risks and challenges posed by connected and autonomous technologies?"
+}

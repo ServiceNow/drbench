@@ -1,0 +1,13 @@
+Quarter,Year,Employee_Turnover_Rate,Industry_Average_Turnover_Rate,Workforce_Stability_Comment
+The fiscal quarter for which the employee turnover data is reported. This helps in tracking turnover trends across different periods.,The fiscal year corresponding to the quarter. This aids in analyzing annual turnover patterns.,The percentage of employees who left the company during the specified quarter. This metric is crucial for understanding workforce stability.,The average employee turnover rate for the retail industry during the specified quarter. This provides context for how Lee's Market compares to industry standards.,"A qualitative assessment of workforce stability based on the turnover rate, providing insights into HR and management performance."
+Q3,2024,7.50%,8.20%,Slightly better retention than industry average.
+Q4,2023,9.50%,8.70%,"Higher than industry average, room for improvement."
+Q2,2023,7.80%,8.10%,Better retention than industry average.
+Q1,2025,10.00%,8.00%,"Employee turnover was 10%, maintaining a stable workforce."
+Q4,2024,8.00%,8.50%,"Turnover is below industry average, indicating good retention."
+Q1,2023,8.00%,8.20%,"Consistent turnover rate, aligns with industry."
+Q3,2022,8.70%,8.50%,"On par with industry average, stable workforce."
+Q4,2022,9.00%,8.60%,Higher turnover than industry.
+Q3,2023,8.20%,8.40%,"Slightly below industry average, indicating stable workforce."
+Q1,2024,8.50%,8.00%,Consistent with industry turnover rates.
+Q2,2024,9.00%,8.10%,On par with industry standards.

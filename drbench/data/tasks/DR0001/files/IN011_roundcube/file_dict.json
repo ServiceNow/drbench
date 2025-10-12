@@ -1,0 +1,170 @@
+{
+    "file_name": "roundcube_email_20250818_112436",
+    "content": "{\"type\": \"user\", \"username\": \"emily.patel\", \"first_name\": \"Emily\", \"last_name\": \"Patel\", \"email\": \"emily.patel@leesmarket.com\"}\n{\"type\": \"user\", \"username\": \"david.lee\", \"first_name\": \"David\", \"last_name\": \"Lee\", \"email\": \"david.lee@leesmarket.com\"}\n{\"type\": \"user\", \"username\": \"samantha.kim\", \"first_name\": \"Samantha\", \"last_name\": \"Kim\", \"email\": \"samantha.kim@leesmarket.com\"}\n{\"type\": \"user\", \"username\": \"peter.tran\", \"first_name\": \"Peter\", \"last_name\": \"Tran\", \"email\": \"peter.tran@leesmarket.com\"}\n{\"type\": \"user\", \"username\": \"kevin.chen\", \"first_name\": \"Kevin\", \"last_name\": \"Chen\", \"email\": \"kevin.chen@leesmarket.com\"}\n{\"type\": \"email\", \"id\": \"email_001\", \"subject\": \"Q2 Performance Review Schedule\", \"from\": \"emily.patel@leesmarket.com\", \"from_name\": \"Emily Patel\", \"to\": [\"david.lee@leesmarket.com\", \"samantha.kim@leesmarket.com\"], \"cc\": [\"peter.tran@leesmarket.com\"], \"date\": \"2023-06-01 10:00:00\", \"body\": \"Hello Team,\\n\\nI hope this email finds you well. As we approach the mid-point of the year, it's time to schedule our Q2 performance reviews. I've attached a calendar invite for our team's review sessions, which will take place on June 15th and 16th.\\n\\nPlease review the schedule and let me know if you have any conflicts. I look forward to discussing our progress and setting goals for the second half of the year.\\n\\nBest regards,\\nEmily Patel\", \"folder\": \"inbox\", \"read\": true, \"attachments\": [\"Q2 Performance Review Schedule.ics\"]}\n{\"type\": \"email\", \"id\": \"email_002\", \"subject\": \"Project Orion Update: Store Renovation Progress\", \"from\": \"kevin.chen@leesmarket.com\", \"from_name\": \"Kevin Chen\", \"to\": [\"emily.patel@leesmarket.com\", \"david.lee@leesmarket.com\"], \"cc\": [\"samantha.kim@leesmarket.com\"], \"date\": \"2023-06-05 14:30:00\", \"body\": \"Hi Team,\\n\\nI wanted to share a quick update on Project Orion, our store renovation initiative. We've made significant progress over the past few weeks, with several locations already completed and others nearing completion.\\n\\nI've attached a project status report for your review. Please let me know if you have any questions or concerns.\\n\\nThanks,\\nKevin Chen\", \"folder\": \"inbox\", \"read\": true, \"attachments\": [\"Project Orion Status Report.pdf\"]}\n{\"type\": \"email\", \"id\": \"email_003\", \"subject\": \"Industry Event: Asian Food Expo Registration\", \"from\": \"samantha.kim@leesmarket.com\", \"from_name\": \"Samantha Kim\", \"to\": [\"emily.patel@leesmarket.com\", \"david.lee@leesmarket.com\"], \"cc\": [\"peter.tran@leesmarket.com\"], \"date\": \"2023-06-08 09:45:00\", \"body\": \"Hello Team,\\n\\nI wanted to remind everyone that the Asian Food Expo is taking place next month in Los Angeles. This is a great opportunity for us to network with suppliers, learn about industry trends, and showcase our brand.\\n\\nI've attached a registration link for those interested in attending. Please let me know if you have any questions.\\n\\nBest,\\nSamantha Kim\", \"folder\": \"inbox\", \"read\": true, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_001\", \"subject\": \"FSMA 204 Compliance Update - Q2 2025\", \"from\": \"emily.patel@leesmarket.com\", \"from_name\": \"Emily Patel\", \"to\": [\"david.lee@leesmarket.com\", \"samantha.kim@leesmarket.com\"], \"cc\": [], \"date\": \"2025-07-15 10:00:00\", \"body\": \"Dear David and Samantha,\\n\\nI hope this email finds you well. As we continue to prioritize food safety and customer trust, I wanted to share with you our latest FSMA 204 compliance update for Q2 2025. Our team has been working diligently to ensure that our high-risk food suppliers meet the necessary standards.\\n\\nAs of Q2 2025, I am pleased to report that 85% of our high-risk food suppliers are FSMA 204 compliant, totaling 270 vendors. This is a significant achievement, and I believe it demonstrates our commitment to maintaining the highest standards of food safety.\\n\\nI have attached a detailed report to this email, which provides a breakdown of our compliance rates and identifies areas for further improvement. I would be happy to discuss this report in more detail with you both and answer any questions you may have.\\n\\nBest regards,\\nEmily Patel\", \"folder\": \"inbox\", \"read\": true, \"attachments\": [\"FSMA 204 Compliance Report - Q2 2025.pdf\"]}\n{\"type\": \"email\", \"id\": \"email_002\", \"subject\": \"Re: FSMA 204 Compliance Update - Q2 2025\", \"from\": \"david.lee@leesmarket.com\", \"from_name\": \"David Lee\", \"to\": [\"emily.patel@leesmarket.com\"], \"cc\": [\"samantha.kim@leesmarket.com\"], \"date\": \"2025-07-15 11:00:00\", \"body\": \"Hi Emily,\\n\\nThank you for sharing the FSMA 204 compliance update with us. I am impressed by the progress we have made in ensuring that our high-risk food suppliers meet the necessary standards. The 85% compliance rate is a testament to the hard work of your team, and I appreciate the efforts you have made to identify areas for further improvement.\\n\\nI would like to schedule a meeting with you and Samantha to discuss the report in more detail and explore ways to build on this success. Would you be available to meet next week?\\n\\nBest regards,\\nDavid Lee\", \"folder\": \"inbox\", \"read\": true, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_003\", \"subject\": \"Re: FSMA 204 Compliance Update - Q2 2025\", \"from\": \"emily.patel@leesmarket.com\", \"from_name\": \"Emily Patel\", \"to\": [\"david.lee@leesmarket.com\"], \"cc\": [\"samantha.kim@leesmarket.com\"], \"date\": \"2025-07-15 12:00:00\", \"body\": \"Hi David,\\n\\nThank you for your kind words about our team's efforts. I am more than happy to meet with you and Samantha to discuss the report in more detail and explore ways to build on our success. I have checked my schedule, and I am available to meet next Wednesday at 2 PM.\\n\\nI will send out a formal meeting invitation to you both shortly. In the meantime, please let me know if you have any specific questions or topics you would like to discuss during the meeting.\\n\\nBest regards,\\nEmily Patel\", \"folder\": \"inbox\", \"read\": true, \"attachments\": []}",
+    "email_setup": [
+        {
+            "type": "user",
+            "username": "emily.patel",
+            "first_name": "Emily",
+            "last_name": "Patel",
+            "email": "emily.patel@leesmarket.com"
+        },
+        {
+            "type": "user",
+            "username": "david.lee",
+            "first_name": "David",
+            "last_name": "Lee",
+            "email": "david.lee@leesmarket.com"
+        },
+        {
+            "type": "user",
+            "username": "samantha.kim",
+            "first_name": "Samantha",
+            "last_name": "Kim",
+            "email": "samantha.kim@leesmarket.com"
+        },
+        {
+            "type": "user",
+            "username": "peter.tran",
+            "first_name": "Peter",
+            "last_name": "Tran",
+            "email": "peter.tran@leesmarket.com"
+        },
+        {
+            "type": "user",
+            "username": "kevin.chen",
+            "first_name": "Kevin",
+            "last_name": "Chen",
+            "email": "kevin.chen@leesmarket.com"
+        }
+    ],
+    "email_messages": [
+        {
+            "type": "email",
+            "id": "email_001",
+            "subject": "Q2 Performance Review Schedule",
+            "from": "emily.patel@leesmarket.com",
+            "from_name": "Emily Patel",
+            "to": [
+                "david.lee@leesmarket.com",
+                "samantha.kim@leesmarket.com"
+            ],
+            "cc": [
+                "peter.tran@leesmarket.com"
+            ],
+            "date": "2023-06-01 10:00:00",
+            "body": "Hello Team,\n\nI hope this email finds you well. As we approach the mid-point of the year, it's time to schedule our Q2 performance reviews. I've attached a calendar invite for our team's review sessions, which will take place on June 15th and 16th.\n\nPlease review the schedule and let me know if you have any conflicts. I look forward to discussing our progress and setting goals for the second half of the year.\n\nBest regards,\nEmily Patel",
+            "folder": "inbox",
+            "read": true,
+            "attachments": [
+                "Q2 Performance Review Schedule.ics"
+            ],
+            "tag": "distractor"
+        },
+        {
+            "type": "email",
+            "id": "email_002",
+            "subject": "Project Orion Update: Store Renovation Progress",
+            "from": "kevin.chen@leesmarket.com",
+            "from_name": "Kevin Chen",
+            "to": [
+                "emily.patel@leesmarket.com",
+                "david.lee@leesmarket.com"
+            ],
+            "cc": [
+                "samantha.kim@leesmarket.com"
+            ],
+            "date": "2023-06-05 14:30:00",
+            "body": "Hi Team,\n\nI wanted to share a quick update on Project Orion, our store renovation initiative. We've made significant progress over the past few weeks, with several locations already completed and others nearing completion.\n\nI've attached a project status report for your review. Please let me know if you have any questions or concerns.\n\nThanks,\nKevin Chen",
+            "folder": "inbox",
+            "read": true,
+            "attachments": [
+                "Project Orion Status Report.pdf"
+            ],
+            "tag": "distractor"
+        },
+        {
+            "type": "email",
+            "id": "email_003",
+            "subject": "Industry Event: Asian Food Expo Registration",
+            "from": "samantha.kim@leesmarket.com",
+            "from_name": "Samantha Kim",
+            "to": [
+                "emily.patel@leesmarket.com",
+                "david.lee@leesmarket.com"
+            ],
+            "cc": [
+                "peter.tran@leesmarket.com"
+            ],
+            "date": "2023-06-08 09:45:00",
+            "body": "Hello Team,\n\nI wanted to remind everyone that the Asian Food Expo is taking place next month in Los Angeles. This is a great opportunity for us to network with suppliers, learn about industry trends, and showcase our brand.\n\nI've attached a registration link for those interested in attending. Please let me know if you have any questions.\n\nBest,\nSamantha Kim",
+            "folder": "inbox",
+            "read": true,
+            "attachments": [],
+            "tag": "distractor"
+        },
+        {
+            "type": "email",
+            "id": "email_001",
+            "subject": "FSMA 204 Compliance Update - Q2 2025",
+            "from": "emily.patel@leesmarket.com",
+            "from_name": "Emily Patel",
+            "to": [
+                "david.lee@leesmarket.com",
+                "samantha.kim@leesmarket.com"
+            ],
+            "cc": [],
+            "date": "2025-07-15 10:00:00",
+            "body": "Dear David and Samantha,\n\nI hope this email finds you well. As we continue to prioritize food safety and customer trust, I wanted to share with you our latest FSMA 204 compliance update for Q2 2025. Our team has been working diligently to ensure that our high-risk food suppliers meet the necessary standards.\n\nAs of Q2 2025, I am pleased to report that 85% of our high-risk food suppliers are FSMA 204 compliant, totaling 270 vendors. This is a significant achievement, and I believe it demonstrates our commitment to maintaining the highest standards of food safety.\n\nI have attached a detailed report to this email, which provides a breakdown of our compliance rates and identifies areas for further improvement. I would be happy to discuss this report in more detail with you both and answer any questions you may have.\n\nBest regards,\nEmily Patel",
+            "folder": "inbox",
+            "read": true,
+            "attachments": [
+                "FSMA 204 Compliance Report - Q2 2025.pdf"
+            ],
+            "tag": "insight"
+        },
+        {
+            "type": "email",
+            "id": "email_002",
+            "subject": "Re: FSMA 204 Compliance Update - Q2 2025",
+            "from": "david.lee@leesmarket.com",
+            "from_name": "David Lee",
+            "to": [
+                "emily.patel@leesmarket.com"
+            ],
+            "cc": [
+                "samantha.kim@leesmarket.com"
+            ],
+            "date": "2025-07-15 11:00:00",
+            "body": "Hi Emily,\n\nThank you for sharing the FSMA 204 compliance update with us. I am impressed by the progress we have made in ensuring that our high-risk food suppliers meet the necessary standards. The 85% compliance rate is a testament to the hard work of your team, and I appreciate the efforts you have made to identify areas for further improvement.\n\nI would like to schedule a meeting with you and Samantha to discuss the report in more detail and explore ways to build on this success. Would you be available to meet next week?\n\nBest regards,\nDavid Lee",
+            "folder": "inbox",
+            "read": true,
+            "attachments": [],
+            "tag": "insight"
+        },
+        {
+            "type": "email",
+            "id": "email_003",
+            "subject": "Re: FSMA 204 Compliance Update - Q2 2025",
+            "from": "emily.patel@leesmarket.com",
+            "from_name": "Emily Patel",
+            "to": [
+                "david.lee@leesmarket.com"
+            ],
+            "cc": [
+                "samantha.kim@leesmarket.com"
+            ],
+            "date": "2025-07-15 12:00:00",
+            "body": "Hi David,\n\nThank you for your kind words about our team's efforts. I am more than happy to meet with you and Samantha to discuss the report in more detail and explore ways to build on our success. I have checked my schedule, and I am available to meet next Wednesday at 2 PM.\n\nI will send out a formal meeting invitation to you both shortly. In the meantime, please let me know if you have any specific questions or topics you would like to discuss during the meeting.\n\nBest regards,\nEmily Patel",
+            "folder": "inbox",
+            "read": true,
+            "attachments": [],
+            "tag": "insight"
+        }
+    ],
+    "file_format": "jsonl",
+    "file_path": ".llm_responses/generated_email_document.jsonl",
+    "qa_type": "insight",
+    "timestamp": "2025-08-18 08:24",
+    "app": "roundcube"
+}

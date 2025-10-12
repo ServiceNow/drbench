@@ -1,0 +1,10 @@
+{
+    "insight_id": "DI001",
+    "qa_type": "distractor",
+    "qa_index": 0,
+    "specific_question": "What were our employee turnover rates in Q3 2025?",
+    "answer": "Employee turnover rate was 15%, with 40 hires this quarter.",
+    "justification": "Employee turnover metrics are unrelated to IT service desk workload reduction.",
+    "timestamp": "2025-08-19 07:42",
+    "dr_question": "How can we leverage ISTM and AI-driven analytics to minimize IT service desk workload and improve response times in MediConn Solutions?"
+}

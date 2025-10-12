@@ -1,0 +1,9 @@
+Quarter,Budget_Allocation,Allocation_Justification,Compliance_Certification_Impact
+"The fiscal quarter for the budget allocation, e.g., Q1 2024.",The total budget allocated for IT infrastructure upgrades during the specified quarter. This indicates the financial investment planned for technology enhancements.,"A brief description of the reasoning behind the budget allocation, highlighting strategic priorities or needs addressed by this investment.","Indicates whether the budget allocation supports compliance with certifications such as PIPEDA or ISO 27001, which are critical for maintaining secure and compliant telehealth operations."
+Q4 2023,150000,Budget allocated for upgrading cloud storage capabilities to enhance data retrieval speeds.,True
+Q2 2023,200000,Expansion of server capacities to support increased telehealth service demands.,True
+Q3 2023,180000,Investment in cybersecurity tools to strengthen network defense against potential breaches.,True
+Q3 2022,140000,Implementation of new telehealth software solutions to improve user experience.,False
+Q1 2024,220000,IT infrastructure budget allocation does not address the critical elements of a digital presence for a telehealth provider,False
+Q4 2022,160000,Enhancement of data analytics capabilities for better patient data management.,True
+Q1 2023,175000,Upgrade of communication systems to improve reliability and efficiency in telehealth operations.,False

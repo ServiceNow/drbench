@@ -1,0 +1,10 @@
+{
+    "insight_id": "qa_1755628888",
+    "qa_type": "distractor",
+    "qa_index": 0,
+    "specific_question": "What was IT infrastructure cost in Q3 2024?",
+    "answer": "IT infrastructure cost was $2.3 million in Q3 2024.",
+    "justification": "IT costs are unrelated to battery management improvements.",
+    "timestamp": "2025-08-19 11:41",
+    "dr_question": "Can we leverage AI-enhanced battery management to improve EV battery lifespan by 15%?"
+}

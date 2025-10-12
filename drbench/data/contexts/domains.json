@@ -1,0 +1,119 @@
+[
+    {
+        "domain": "compliance", 
+        "justification": "an enterprise company needs to comply with regulations",
+        "example_companies": ["Amazon", "Pfizer", "Tesla"],
+        "industries": ["automobiles", "healthcare", "retail"],
+        "example_dr_questions": ["How can Amazon design an adaptive compliance framework that is compliant across jurisdictions with different data privacy laws?",
+                                "How can Pfizer ensure full transparency in clinical trial data sharing, in light of regulatory requirements and public trust expectations?",
+                                "How can Tesla manage the intersection of export control laws with the release of AI-enabled vehicles and energy systems across different countries?"]
+    },
+    {
+        "domain": "crm",
+        "justification": "CRM systems contain critical customer context. Research into CRM helps link that data to service delivery, allowing for personalization, better segmentation, and more strategic customer engagement workflows.",
+        "example_companies": ["Amazon", "Pfizer", "Tesla"],
+        "industries": ["automobiles", "healthcare", "retail"],
+        "example_dr_questions": ["How are Amazon's CRM strategies different for high-margin vs. high-frequency users, and what models are used to support this differentiation?", 
+                                "How can Pfizer evolve its CRM systems to support content delivery based on clinical interest and patient demographic data?", 
+                                "How does real-time in-vehicle feedback factor into Tesla’s customer relationship loop?"]
+    },
+    {
+        "domain": "market_analysis",
+        "justification": "Market Analysis helps understand the market and the competition. Research in market analysis helps link that data to service delivery, allowing for personalization, better segmentation, and more strategic customer engagement workflows.",
+        "example_companies": ["Amazon", "Pfizer", "Tesla"],
+        "industries": ["automobiles", "healthcare", "retail"],  
+        "example_dr_questions": ["How is Amazon’s market penetration different across emerging versus developed markets?",
+                                "How does Pfizer sustain competitive advantage amid increasing competition for key drugs that may be similar across different companies?",
+                                "How does Tesla maintain its competitive edge in the global electric vehicle market with increasing competition?"]
+    },
+    {
+        "domain": "itsm",
+        "justification": "ITSM is core to enterprise operations and heavily impacted by AI, automation, and user expectations. Research into can uncover ways to reduce incident volume, accelerate resolution, and improve digital employee experience.",
+        "example_companies": ["Amazon", "Pfizer", "Tesla"],
+        "industries": ["automobiles", "healthcare", "retail"],  
+        "example_dr_questions": ["What design principles make it so that Amazon’s can scale its e-commerce platform to support millions of users globally?",
+                                "What challenges can occur in integrating older systems with newer digital infrastructure in highly controlled pharmaceutical companies like Pfizer?",
+                                "How is ISTM  relevant to Tesla’s various apps and portals supported to provide a unified experience for its customers?"]
+    },
+    {
+        "domain": "csm",
+        "justification": "Customer Service Management directly influences satisfaction, retention, and brand perception. Research into CSM reveals how to reduce churn, improve self-service, and personalize customer interactions through proactive support.",
+        "example_companies": ["Amazon", "Pfizer", "Tesla"],
+        "industries": ["automobiles", "healthcare", "retail"],  
+        "example_dr_questions": ["How are Amazon's CSM strategies different for Prime vs. non-Prime customers?",
+                                "How CSM support Pfizer’s goal of being a more patient-centric organization?",
+                                "How is Tesla’s approach to CSM different from that other automakers, in particular other electric vehicle companies?"]
+    },
+    {
+        "domain": "knowledge_management",
+        "justification": "Knowledge is a foundational enabler of self-service and automation. Research can uncover how to structure, surface, and personalize knowledge content using AI to reduce service requests and enhance decision-making.",
+        "example_companies": ["Amazon", "Pfizer", "Tesla"],
+        "industries": ["automobiles", "healthcare", "retail"],  
+        "example_dr_questions": ["How does Amazon structure all of its documentation in order to promote knowledge sharing between all of its different teams?",
+                                "How does Pfizer ensure effective knowledge transfer between research and development, manufacturing, and other departments?",
+                                "How does Tesla quickly document fast-evolving technical knowledge, especially those for software and firmware updates relevant to their electric vehicles?" ]
+    },
+    {
+        "domain": "asset_management",
+        "justification": "IT Asset Management supports compliance, cost optimization, and risk reduction. Research helps organizations track asset lifecycles, reduce waste, and plan future investments more intelligently.",
+        "example_companies": ["Amazon", "Pfizer", "Tesla"],
+        "industries": ["automobiles", "healthcare", "retail"],  
+        "example_dr_questions": ["How can Amazon use large language models and unstructured financial data to help with quantitative investment strategies?",
+                                "How should Pfizer prioritize capital allocation for aging infrastructure in old sites versus investment in newer, next-generation smart facilities?",
+                                "How should Tesla optimize asset utilization models to balance high-throughput electric vehicle production with flexibility for new platform rollouts?"]
+    },
+    {
+        "domain": "sales",
+        "justification": "Sales processes impact revenue growth and customer handoff. Research helps optimize handovers to service teams, reduce friction post-sale, and improve collaboration between CRM and service platforms.",
+        "example_companies": ["Amazon", "Pfizer", "Tesla"],
+        "industries": ["automobiles", "healthcare", "retail"],     
+        "example_dr_questions": ["How can Amazon use generative AI to create personalized promotions at scale to attract new customers?",
+                                "How can Pfizer encourage more people to get their most recent COVID-19 booster vaccine?",
+                                "What are the emotional drivers behind Tesla's customers' electric vehicle purchase decisions?"]
+    },
+    {
+        "domain": "research",
+        "justification": "Research is a core enabler of innovation and growth. Research helps uncover new opportunities, validate product-market fit, and inform strategic decisions.",
+        "example_companies": ["Amazon", "Pfizer", "Tesla"],
+        "industries": ["automobiles", "healthcare", "retail"],  
+        "example_dr_questions": ["How can Amazon manage model drift and interpretability in customer-facing ML models with changing data environments?",
+                                "How can Pfizer use real-world data in machine learning pipelines to identify patient subtypes and other relvant clinical data?",
+                                "How can Tesla design a universal, AI-optimized battery management system that adapts in real-time to battery age and differing driving style?"]
+    },
+    {
+        "domain": "marketing",
+        "justification": "Marketing is a core enabler of growth and customer acquisition. Research into marketing can uncover new opportunities, validate product-market fit, and inform strategic decisions.",
+        "example_companies": ["Amazon", "Pfizer", "Tesla"],
+        "industries": ["automobiles", "healthcare", "retail"],  
+        "example_dr_questions": ["What are the most effective ad formats for driving conversion in high-consideration categories like electronics, health, and luxury goods on Amazon?",
+                                "What are the best practices for Pfizer to design explainable AI marketing tools in the heavily regulated pharmaceutical sectors?",
+                                "How can Tesla maintain a coherent global brand narrative across differing political and regulatory expectations?"]
+    },
+    {
+        "domain": "cybersecurity",
+        "justification": "Cybersecurity is necessary for a company to protect its data and customers. Research into cybersecurity can find ways to improve the security of the company's data and customers.",
+        "example_companies": ["Amazon", "Pfizer", "Tesla"],
+        "industries": ["automobiles", "healthcare", "retail"],    
+        "example_dr_questions": ["What can Amazon do to defend against attacks on its AI models deployed in customer-facing systems?",
+                                "How can Pfizer defend against cyber-espionage targeting clinical intellectual property at different R&D lifecycle stages?",
+                                "How can Tesla defend against sensor spoofing attacks on autonomous driving software in real time?"]
+    },
+    {
+        "domain": "public_relations",
+        "justification": "Public Relations is a core enabler of growth and customer acquisition. Research into public relations can help the company build a positive reputation and attract customers.",
+        "example_companies": ["Amazon", "Pfizer", "Tesla"],
+        "industries": ["automobiles", "healthcare", "retail"],    
+        "example_dr_questions": ["How can Amazon manage its global reputation amid possibly conflicting regional perceptions related to labor practices and environmental impact?",
+                                "What PR strategies can Pfizer leverage to most effectively maintain public confidence after recalls or safety controversies in a post-pandemic world?",
+                                "How can Tesla manage conflicting narratives when Elon Musk’s personal statements are different from official corporate messaging?"]
+    },
+    {
+        "domain": "quality_assurance",
+        "justification": "Quality Assurance is necessary for a company to ensure their products are of the highest quality. Research into quality assurance can help the company build a positive reputation and attract customers.",
+        "example_companies": ["Amazon", "Pfizer", "Tesla"],
+        "industries": ["automobiles", "healthcare", "retail"],    
+        "example_dr_questions": ["How can QA processes be extended to validate the fairness and robustness of ML models deployed in Amazon product recommendations?",
+                                "How should Pfizer manage incoming material testing for raw materials used in advanced therapeutics?",
+                                "What limitations do Tesla's current QA frameworks for its AI-driven or autonomous systems development environments currently have?"]
+    }
+]

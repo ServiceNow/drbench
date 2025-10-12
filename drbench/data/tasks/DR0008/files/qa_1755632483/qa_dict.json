@@ -1,0 +1,10 @@
+{
+    "insight_id": "qa_1755632483",
+    "qa_type": "distractor",
+    "qa_index": 2,
+    "specific_question": "What was the IT infrastructure cost in Q1 2024?",
+    "answer": "IT infrastructure cost was $2.5 million in Q1 2024.",
+    "justification": "Infrastructure costs don't directly address third-party data breach impacts.",
+    "timestamp": "2025-08-19 12:41",
+    "dr_question": "What is the impact of third-party data breaches on MediConn's virtual healthcare platforms and patient data, and what new regulations can be implemented to defend against these breaches?"
+}

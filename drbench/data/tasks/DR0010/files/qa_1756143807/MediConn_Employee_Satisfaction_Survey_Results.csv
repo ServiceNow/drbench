@@ -1,0 +1,12 @@
+Department,Score_Percentage,Reporting_Period,Year
+The department or team within the company for which the employee satisfaction score is being reported. This helps to categorize the satisfaction metrics by different organizational units.,The employee satisfaction score expressed as a percentage. This column provides insight into the level of satisfaction among employees in the specified department.,The specific quarter or time period during which the satisfaction survey was conducted. This helps in tracking changes in satisfaction over different periods.,The calendar year in which the employee satisfaction survey was conducted. This is used for chronological tracking and analysis.
+IT,0.78,Q3,2025
+Operations,0.75,Q2,2025
+Facilities,0.92,Q3,2025
+Sales,0.8,Q3,2025
+Finance,0.88,Q2,2025
+Marketing,0.85,Q3,2025
+Engineering,0.87,Q3,2024
+Customer Service,0.79,Q1,2025
+HR,0.82,Q3,2025
+Legal,0.83,Q3,2025

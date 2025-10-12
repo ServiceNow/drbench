@@ -1,0 +1,11 @@
+Quarter,IT_Support_Cost,Year,Average_Cost_Per_Employee
+"The fiscal quarter for which the IT support costs are reported, e.g., Q1 2025.","The total IT support costs incurred in the specified quarter, relevant for analyzing operational expenses.","The year corresponding to the fiscal quarter, useful for longitudinal analyses.","The average IT support cost per employee for the quarter, providing insight into cost efficiency."
+Q2 2023,86000,2023,430
+Q1 2023,84000,2023,420
+Q4 2023,88000,2023,440
+Q1 2025,120000,2025,600
+Q2 2024,95000,2024,475
+Q4 2024,85000,2024,425
+Q3 2023,87000,2023,435
+Q3 2024,90000,2024,450
+Q1 2024,92000,2024,460

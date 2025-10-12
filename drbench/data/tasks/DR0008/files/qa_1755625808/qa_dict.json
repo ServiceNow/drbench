@@ -1,0 +1,10 @@
+{
+    "insight_id": "qa_1755625808",
+    "qa_type": "distractor",
+    "qa_index": 2,
+    "specific_question": "What were the facility costs in Q2 2024?",
+    "answer": "Facility costs for Q2 2024 totaled $300,000, up from $250,000.",
+    "justification": "Facility costs do not impact the cybersecurity focus of the DR Question.",
+    "timestamp": "2025-08-19 10:50",
+    "dr_question": "What is the impact of third-party data breaches on MediConn's virtual healthcare platforms and patient data, and what new regulations can be implemented to defend against these breaches?"
+}

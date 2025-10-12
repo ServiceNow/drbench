@@ -1,0 +1,6 @@
+{
+    "port": 8090,
+    "address": "0.0.0.0",
+    "log": "stdout",
+    "database": "/var/lib/filebrowser/filebrowser.db"
+}

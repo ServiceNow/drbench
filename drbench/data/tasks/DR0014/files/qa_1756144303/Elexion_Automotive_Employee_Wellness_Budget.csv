@@ -1,0 +1,11 @@
+Quarter,Budget_Allocation,Focus_Area,Employee_Count,Industry_Compliance
+"The fiscal quarter for which the budget allocation is reported, e.g., 'Q1 2025'. This helps in understanding the time period associated with the wellness program budget.",The total amount of money allocated for employee wellness programs in the specified quarter. This reflects the company's investment in employee well-being.,"The primary focus area of the wellness program for the given quarter, e.g., 'mental health'. This provides insight into specific initiatives being prioritized.",The number of employees at the company during the specified quarter. This allows for analysis of budget allocation per employee.,"Indicates if the wellness program meets industry compliance standards, reflecting the company’s adherence to regulatory requirements."
+Q2 2023,80000,nutrition,2100,True
+Q4 2023,100000,exercise,2200,True
+Q3 2024,250000,nutrition,2400,True
+Q1 2023,75000,physical health,2100,False
+Q1 2025,500000,mental health,2500,True
+Q1 2024,150000,financial wellness,2300,False
+Q2 2024,200000,stress management,2300,True
+Q4 2024,300000,physical health,2400,True
+Q3 2023,90000,mental health,2200,False

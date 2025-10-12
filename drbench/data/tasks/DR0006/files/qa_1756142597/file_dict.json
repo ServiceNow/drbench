@@ -1,0 +1,8 @@
+{
+    "file_name": "MediConn_Quarterly_Financial_Insights",
+    "file_format": "xlsx",
+    "file_path": "drbench/data/tasks/DR0006/files/qa_1756142597/MediConn_Quarterly_Financial_Insights.xlsx",
+    "csv_path": "drbench/data/tasks/DR0006/files/qa_1756142597/MediConn_Quarterly_Financial_Insights.csv",
+    "qa_type": "distractor",
+    "app": "file_system"
+}

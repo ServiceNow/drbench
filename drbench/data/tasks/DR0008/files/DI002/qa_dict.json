@@ -1,0 +1,10 @@
+{
+    "insight_id": "DI002",
+    "qa_type": "distractor",
+    "qa_index": 2,
+    "specific_question": "What was the patient satisfaction rate in Q2 2024?",
+    "answer": "Patient satisfaction rate stood at 87%, improving from 82% last year.",
+    "justification": "Patient satisfaction metrics do not relate to cybersecurity or regulatory issues.",
+    "timestamp": "2025-08-19 07:51",
+    "dr_question": "What is the impact of third-party data breaches on MediConn's virtual healthcare platforms and patient data, and what new regulations can be implemented to defend against these breaches?"
+}

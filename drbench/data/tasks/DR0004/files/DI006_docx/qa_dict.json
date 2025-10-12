@@ -1,0 +1,10 @@
+{
+    "insight_id": "DI006_docx",
+    "qa_type": "distractor",
+    "qa_index": 0,
+    "specific_question": "What was our employee engagement survey score in Q4 2024?",
+    "answer": "Employee engagement score was 82%, with a 5% increase from Q3 2024.",
+    "justification": "Employee engagement metrics do not address the core DR Question focus area",
+    "timestamp": "2025-08-15 15:46",
+    "dr_question": "What are the new trends in the grocery retail market and what strategies can Lee's Market adopt to remain competitive?"
+}

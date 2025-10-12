@@ -1,0 +1,21 @@
+# Q3 2025 Talent Acquisition Performance Review
+
+## Introduction
+
+As we continue to grow and expand our virtual healthcare services, it's essential to evaluate our talent acquisition strategies to ensure we're attracting and retaining top talent. This report aims to provide an overview of our recruitment efforts in Q3 2025, highlighting key areas of success and opportunities for improvement. The insights and recommendations presented in this report will inform our future hiring initiatives and support our business objectives. By analyzing our recruitment metrics, we can optimize our hiring processes and enhance our competitive edge in the virtual healthcare industry.
+
+## New Hire Onboarding Experience and Satisfaction Rates
+
+Our new hire onboarding program has seen a 15% increase in satisfaction rates since its revamp in Q2 2024. As of August 2025, 92% of new hires reported feeling 'prepared' or 'very prepared' for their roles after completing the onboarding process. The average onboarding time has decreased from 5 days to 3.5 days, resulting in a more efficient transition to productivity. The HR department continues to monitor and refine the program to ensure a seamless integration of new team members.
+
+## Employee Referral Program Effectiveness and ROI Analysis
+
+According to a recent industry report, the average cost-per-hire for healthcare companies in Canada has increased by 12% since 2023. In response, our talent acquisition team has been exploring alternative recruitment strategies, including social media campaigns and targeted job postings. As of Q2 2025, these efforts have resulted in a 25% reduction in recruitment costs. The team continues to analyze the effectiveness of these strategies and identify areas for further improvement.
+
+## Time-to-Hire and Recruitment Process Efficiency Metrics
+
+Our recruitment team has been working to streamline the hiring process, with a focus on reducing time-to-hire for critical roles. As of September 2025, the average time-to-hire for clinical positions has decreased from 42 days to 32 days, representing a 23.8% improvement. The team has also implemented a new applicant tracking system, which has increased application processing efficiency by 18%. These efforts have enabled us to respond more quickly to changing business needs.
+
+## Conclusion
+
+In conclusion, our Q3 2025 recruitment efforts have shown promising results, with opportunities for growth and improvement. To capitalize on these findings, we recommend refining our employee referral program, streamlining our hiring processes, and enhancing our new hire onboarding experience. By implementing these strategies, we can improve our talent acquisition outcomes, reduce recruitment costs, and drive business success. Future reports will continue to monitor and evaluate the effectiveness of these initiatives.

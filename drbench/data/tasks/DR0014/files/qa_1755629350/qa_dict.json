@@ -1,0 +1,10 @@
+{
+    "insight_id": "qa_1755629350",
+    "qa_type": "distractor",
+    "qa_index": 1,
+    "specific_question": "How many employee retention bonuses were issued in Q1 2025?",
+    "answer": "Twenty-five employee retention bonuses were issued, totaling $250,000.",
+    "justification": "Employee retention bonuses are unrelated to EV battery management and lifespan",
+    "timestamp": "2025-08-19 11:49",
+    "dr_question": "Can we leverage AI-enhanced battery management to improve EV battery lifespan by 15%?"
+}

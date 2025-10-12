@@ -1,0 +1,10 @@
+{
+    "insight_id": "DI003_pdf",
+    "qa_type": "distractor",
+    "qa_index": 2,
+    "specific_question": "What was the total energy consumption of Lee's Market stores in Q1 2024?",
+    "answer": "Total energy consumption was 15 million kWh with a cost of $1.8M in Q1 2024.",
+    "justification": "Energy consumption metrics are unrelated to food safety regulations.",
+    "timestamp": "2025-08-15 12:58",
+    "dr_question": "How can Lee's Market leverage FSMA 204 regulations to enhance food safety and customer trust?"
+}

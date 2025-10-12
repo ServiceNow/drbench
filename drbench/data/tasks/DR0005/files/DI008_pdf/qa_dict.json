@@ -1,0 +1,10 @@
+{
+    "insight_id": "DI008_pdf",
+    "qa_type": "distractor",
+    "qa_index": 1,
+    "specific_question": "What were Lee's Market facility maintenance costs in Q2 2024?",
+    "answer": "Facility maintenance costs totaled $1.2M with an average of $100,000 monthly.",
+    "justification": "Facility costs do not address the core DR Question on chatbots",
+    "timestamp": "2025-08-15 09:58",
+    "dr_question": "How can Lee's Market leverage chatbots to enhance the consumer experience for centennial shoppers?"
+}

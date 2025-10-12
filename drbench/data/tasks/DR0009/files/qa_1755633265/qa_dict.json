@@ -1,0 +1,10 @@
+{
+    "insight_id": "qa_1755633265",
+    "qa_type": "distractor",
+    "qa_index": 2,
+    "specific_question": "What was our average IT infrastructure upgrade cycle in Q3 2024?",
+    "answer": "Average IT infrastructure upgrade cycle was 18 months with a 12% increase in upgrade frequency expected by 2025.",
+    "justification": "IT infrastructure upgrade cycles do not address the core DR Question focus area on CRM solutions",
+    "timestamp": "2025-08-19 12:54",
+    "dr_question": "How can MediConn Solutions leverage trendy new CRM solutions to improve patient engagement and retention, and what new CRM solutions are expected in 2025?"
+}

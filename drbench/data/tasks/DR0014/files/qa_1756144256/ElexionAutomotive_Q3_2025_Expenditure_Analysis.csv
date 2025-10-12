@@ -1,0 +1,10 @@
+Department,Program_Name,Allocation_Amount,Focus_Area,Quarter,Year
+The department within the company responsible for the expenditure. This helps in understanding which business unit is investing in wellness programs.,The specific name or type of the employee wellness program. This column categorizes the various wellness initiatives.,"The amount allocated to each employee wellness program, focusing on mental health in the given quarter. Helps track financial commitment towards employee wellbeing.","The specific focus area of the wellness program, e.g., mental health, physical health, etc. This describes the core intent of the program.","The fiscal quarter for which the data is reported, e.g., Q3 2025. Provides a timeline for the analysis.",The fiscal year for which the data is reported. It is essential for annual performance tracking.
+Human Resources,Mental Health Initiative,"$350,000.00",Mental Health,Q3 2025,2025
+Research and Development,Mindfulness Program,"$35,000.00",Mental Health,Q3 2025,2025
+Marketing,Yoga Classes,"$20,000.00",Physical Health,Q3 2025,2025
+Operations,Gym Memberships,"$45,000.00",Physical Health,Q3 2025,2025
+Sales,Stress Management Workshop,"$25,000.00",Mental Health,Q3 2025,2025
+Customer Service,Wellness Retreat,"$40,000.00",Mental Health,Q3 2025,2025
+Finance,Financial Wellness Program,"$50,000.00",Financial Health,Q3 2025,2025
+IT,Tech Meditation,"$30,000.00",Mental Health,Q3 2025,2025

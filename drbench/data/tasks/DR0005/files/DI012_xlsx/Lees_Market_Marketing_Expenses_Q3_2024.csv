@@ -1,0 +1,9 @@
+Expense_Category,Amount,Percentage_of_Total,Date_Reported
+"The category of marketing expense, such as digital advertising, print media, etc.",The amount spent on the marketing category in USD.,The percentage of the total marketing expenses that this category represents.,The date when the expense report was submitted.
+Digital Advertising,"$1,200,000.00",40.00%,2024-09-30
+Billboards,"$150,000.00",5.00%,2024-08-20
+Sponsorships,"$200,000.00",6.67%,2024-07-25
+Social Media,"$400,000.00",13.33%,2024-09-15
+Radio,"$250,000.00",8.33%,2024-09-05
+Print Media,"$500,000.00",16.67%,2024-07-15
+Television,"$300,000.00",10.00%,2024-08-10

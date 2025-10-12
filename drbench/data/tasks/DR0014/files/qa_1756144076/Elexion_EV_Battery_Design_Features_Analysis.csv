@@ -1,0 +1,11 @@
+Market,Feature_Percentage,Reporting_Quarter,AI_Enhancement_Impact,Compliance_Status
+"The geographical market where the EV battery design is being implemented, e.g., North America.",The percentage of the EV battery design that features AI-enhanced battery management.,"The financial quarter and year being reported, e.g., Q2 2025.",A brief description of the impact of AI-enhanced battery management on the EV battery design.,"Indicates whether the battery design is compliant with relevant regulations, e.g., EPA Greenhouse Gas Emissions Compliance."
+Europe,0.15,Q4 2024,Basic AI features implemented for testing.,False
+South America,0.05,Q3 2024,Minimal AI features with limited impact.,False
+South America,0.2,Q4 2024,Minor improvements in charge cycle prediction.,True
+North America,0.4,Q2 2025,Significant improvement in battery lifespan and efficiency.,True
+Europe,0.25,Q1 2025,Moderate improvement in battery efficiency.,True
+Asia,0.1,Q3 2024,Initial phase of AI integration.,False
+North America,0.22,Q4 2024,Basic AI implementation for initial market feedback.,True
+North America,0.35,Q1 2025,Improved charging times and better thermal management.,True
+Asia,0.3,Q1 2025,Enhanced energy distribution across cells.,False

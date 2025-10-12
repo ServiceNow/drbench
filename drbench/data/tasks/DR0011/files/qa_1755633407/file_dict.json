@@ -1,0 +1,199 @@
+{
+    "file_name": "roundcube_email_20250819_155731",
+    "content": "{\"type\": \"user\", \"username\": \"sofia.rodriguez\", \"first_name\": \"Sofia\", \"last_name\": \"Rodriguez\", \"email\": \"sofia.rodriguez@elexionautomotive.com\", \"password\": \"sofia_pwd\"}\n{\"type\": \"user\", \"username\": \"michael.johnson\", \"first_name\": \"Michael\", \"last_name\": \"Johnson\", \"email\": \"michael.johnson@elexionautomotive.com\", \"password\": \"michael_pwd\"}\n{\"type\": \"user\", \"username\": \"linda.wang\", \"first_name\": \"Linda\", \"last_name\": \"Wang\", \"email\": \"linda.wang@elexionautomotive.com\", \"password\": \"linda_pwd\"}\n{\"type\": \"email\", \"id\": \"email_001\", \"subject\": \"Upcoming Team Meeting Agenda\", \"from\": \"sofia.rodriguez@elexionautomotive.com\", \"from_name\": \"Sofia Rodriguez\", \"to\": [\"michael.johnson@elexionautomotive.com\", \"linda.wang@elexionautomotive.com\"], \"cc\": [], \"date\": \"2023-10-05 09:30:00\", \"body\": \"Hi Michael and Linda,\\n\\nI hope this email finds you well. I wanted to confirm our team meeting scheduled for next week on Wednesday at 10 AM. \\n\\nThe agenda will focus on the latest updates in our product testing phases and any challenges we may need to address. Please prepare any relevant data or reports you would like to discuss. \\n\\nLet me know if there are any additional topics you would like to include.\\n\\nBest,\\nSofia\", \"folder\": \"inbox\", \"read\": true, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_002\", \"subject\": \"Feedback on Recent Customer Survey\", \"from\": \"michael.johnson@elexionautomotive.com\", \"from_name\": \"Michael Johnson\", \"to\": [\"sofia.rodriguez@elexionautomotive.com\", \"linda.wang@elexionautomotive.com\"], \"cc\": [], \"date\": \"2023-10-06 11:15:00\", \"body\": \"Hi Sofia and Linda,\\n\\nI wanted to share some insights from the recent customer satisfaction survey. Overall, the feedback has been positive, especially regarding the user interface of our vehicles. However, there are a few areas where customers expressed a desire for improvements. \\n\\nI think it would be beneficial for us to discuss these points in our upcoming meeting and brainstorm some actionable steps we can take. \\n\\nLooking forward to hearing your thoughts.\\n\\nBest,\\nMichael\", \"folder\": \"inbox\", \"read\": true, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_003\", \"subject\": \"Budget Planning for Next Quarter\", \"from\": \"linda.wang@elexionautomotive.com\", \"from_name\": \"Linda Wang\", \"to\": [\"sofia.rodriguez@elexionautomotive.com\", \"michael.johnson@elexionautomotive.com\"], \"cc\": [], \"date\": \"2023-10-07 10:00:00\", \"body\": \"Hi Sofia and Michael,\\n\\nAs we approach the end of the quarter, we need to start planning our budget for the next one. I suggest we review our current expenditures and identify any areas where we can optimize costs. \\n\\nLet\\u2019s aim to have a draft ready before our next team meeting. Please send me any suggestions or data you think would be helpful for this process.\\n\\nThanks,\\nLinda\", \"folder\": \"inbox\", \"read\": true, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_004\", \"subject\": \"Policy Update on Remote Work\", \"from\": \"sofia.rodriguez@elexionautomotive.com\", \"from_name\": \"Sofia Rodriguez\", \"to\": [\"michael.johnson@elexionautomotive.com\", \"linda.wang@elexionautomotive.com\"], \"cc\": [], \"date\": \"2023-10-08 14:45:00\", \"body\": \"Hi Michael and Linda,\\n\\nI wanted to bring to your attention the recent update regarding our remote work policy. Starting next month, employees will have the option to work remotely two days a week. This is aimed at improving work-life balance and has received positive feedback from the staff. \\n\\nLet\\u2019s discuss how this might impact our team dynamics during our next meeting. \\n\\nBest,\\nSofia\", \"folder\": \"inbox\", \"read\": true, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_001\", \"subject\": \"Update on Compliance and Production Timeline\", \"from\": \"sofia.rodriguez@elexionautomotive.com\", \"from_name\": \"Sofia Rodriguez\", \"to\": [\"michael.johnson@elexionautomotive.com\", \"linda.wang@elexionautomotive.com\"], \"cc\": [], \"date\": \"2023-10-01 10:15:00\", \"body\": \"Hi Michael and Linda,\\n\\nI hope this message finds you well. As we continue to navigate the evolving ACC II regulations, I wanted to provide an update on our compliance testing for the new vehicle models.\\n\\nCurrently, the focus is on ensuring that our battery systems meet the new durability standards without compromising production timelines. With the target set for 2035, it\\u2019s crucial that we balance these requirements effectively.\\n\\nAdditionally, regarding the IT infrastructure, I\\u2019ve confirmed that the upgrade budget for Q4 2023 is set at $2 million. This investment is essential for enhancing our compliance testing capabilities, which indirectly supports our goals for battery durability and warranty guarantees. It\\u2019s important to note that while this budget allocation is significant, it does not directly affect our EV battery durability and compliance requirements.\\n\\nLet\\u2019s discuss this further in our next meeting. Please let me know if you have any questions or need further details.\\n\\nBest,\\nSofia\", \"folder\": \"inbox\", \"read\": true, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_002\", \"subject\": \"Re: Update on Compliance and Production Timeline\", \"from\": \"michael.johnson@elexionautomotive.com\", \"from_name\": \"Michael Johnson\", \"to\": [\"sofia.rodriguez@elexionautomotive.com\", \"linda.wang@elexionautomotive.com\"], \"cc\": [], \"date\": \"2023-10-01 11:00:00\", \"body\": \"Hi Sofia,\\n\\nThanks for the update! It\\u2019s great to see the proactive steps being taken towards compliance with ACC II regulations. The $2 million IT budget seems like a solid investment.\\n\\nI agree that enhancing our infrastructure will be key to streamlining our compliance processes. Let\\u2019s ensure we align on the timeline for these upgrades to avoid any production delays.\\n\\nLooking forward to our next meeting.\\n\\nBest,\\nMichael\", \"folder\": \"inbox\", \"read\": true, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_003\", \"subject\": \"Follow-up on Production and Compliance Strategy\", \"from\": \"linda.wang@elexionautomotive.com\", \"from_name\": \"Linda Wang\", \"to\": [\"sofia.rodriguez@elexionautomotive.com\", \"michael.johnson@elexionautomotive.com\"], \"cc\": [], \"date\": \"2023-10-01 12:30:00\", \"body\": \"Hi Sofia and Michael,\\n\\nI appreciate the insights shared in the previous emails. As we work towards meeting the ACC II regulations, I think it would be beneficial to outline specific actions we can take to ensure our battery durability aligns with the new requirements.\\n\\nAlso, I\\u2019d like to confirm if the $2 million IT budget will cover any necessary software for compliance tracking. This could be crucial in helping us stay on track with our production timelines through 2035.\\n\\nLet\\u2019s add this to the agenda for our upcoming meeting.\\n\\nThanks,\\nLinda\", \"folder\": \"inbox\", \"read\": true, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_004\", \"subject\": \"Re: Follow-up on Production and Compliance Strategy\", \"from\": \"sofia.rodriguez@elexionautomotive.com\", \"from_name\": \"Sofia Rodriguez\", \"to\": [\"linda.wang@elexionautomotive.com\", \"michael.johnson@elexionautomotive.com\"], \"cc\": [], \"date\": \"2023-10-01 13:00:00\", \"body\": \"Hi Linda,\\n\\nThank you for your input! The IT budget is indeed focused on upgrading our infrastructure, which will include software enhancements for compliance tracking. This should help us maintain a strong oversight on our battery compliance processes and warranty guarantees as we move forward.\\n\\nI\\u2019ll make sure to prepare a detailed outline for our meeting that includes proposed actions and how the IT upgrades will support our compliance goals.\\n\\nBest,\\nSofia\", \"folder\": \"inbox\", \"read\": true, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_005\", \"subject\": \"Agenda for Upcoming Meeting\", \"from\": \"michael.johnson@elexionautomotive.com\", \"from_name\": \"Michael Johnson\", \"to\": [\"sofia.rodriguez@elexionautomotive.com\", \"linda.wang@elexionautomotive.com\"], \"cc\": [], \"date\": \"2023-10-01 14:15:00\", \"body\": \"Hello Sofia and Linda,\\n\\nAs we prepare for our meeting, I wanted to confirm the agenda items. We will discuss:\\n1. Updates on compliance testing and the impact of ACC II regulations.\\n2. Strategies for ensuring battery durability and warranty guarantees.\\n3. Review of the IT infrastructure upgrade budget of $2 million and its implications for our production timelines.\\n\\nLooking forward to our discussion!\\n\\nBest,\\nMichael\", \"folder\": \"inbox\", \"read\": true, \"attachments\": []}",
+    "email_setup": [
+        {
+            "type": "user",
+            "username": "sofia.rodriguez",
+            "first_name": "Sofia",
+            "last_name": "Rodriguez",
+            "email": "sofia.rodriguez@elexionautomotive.com",
+            "password": "sofia_pwd"
+        },
+        {
+            "type": "user",
+            "username": "michael.johnson",
+            "first_name": "Michael",
+            "last_name": "Johnson",
+            "email": "michael.johnson@elexionautomotive.com",
+            "password": "michael_pwd"
+        },
+        {
+            "type": "user",
+            "username": "linda.wang",
+            "first_name": "Linda",
+            "last_name": "Wang",
+            "email": "linda.wang@elexionautomotive.com",
+            "password": "linda_pwd"
+        }
+    ],
+    "email_messages": [
+        {
+            "type": "email",
+            "id": "email_001",
+            "subject": "Upcoming Team Meeting Agenda",
+            "from": "sofia.rodriguez@elexionautomotive.com",
+            "from_name": "Sofia Rodriguez",
+            "to": [
+                "michael.johnson@elexionautomotive.com",
+                "linda.wang@elexionautomotive.com"
+            ],
+            "cc": [],
+            "date": "2023-10-05 09:30:00",
+            "body": "Hi Michael and Linda,\n\nI hope this email finds you well. I wanted to confirm our team meeting scheduled for next week on Wednesday at 10 AM. \n\nThe agenda will focus on the latest updates in our product testing phases and any challenges we may need to address. Please prepare any relevant data or reports you would like to discuss. \n\nLet me know if there are any additional topics you would like to include.\n\nBest,\nSofia",
+            "folder": "inbox",
+            "read": true,
+            "attachments": [],
+            "tag": "distractor"
+        },
+        {
+            "type": "email",
+            "id": "email_002",
+            "subject": "Feedback on Recent Customer Survey",
+            "from": "michael.johnson@elexionautomotive.com",
+            "from_name": "Michael Johnson",
+            "to": [
+                "sofia.rodriguez@elexionautomotive.com",
+                "linda.wang@elexionautomotive.com"
+            ],
+            "cc": [],
+            "date": "2023-10-06 11:15:00",
+            "body": "Hi Sofia and Linda,\n\nI wanted to share some insights from the recent customer satisfaction survey. Overall, the feedback has been positive, especially regarding the user interface of our vehicles. However, there are a few areas where customers expressed a desire for improvements. \n\nI think it would be beneficial for us to discuss these points in our upcoming meeting and brainstorm some actionable steps we can take. \n\nLooking forward to hearing your thoughts.\n\nBest,\nMichael",
+            "folder": "inbox",
+            "read": true,
+            "attachments": [],
+            "tag": "distractor"
+        },
+        {
+            "type": "email",
+            "id": "email_003",
+            "subject": "Budget Planning for Next Quarter",
+            "from": "linda.wang@elexionautomotive.com",
+            "from_name": "Linda Wang",
+            "to": [
+                "sofia.rodriguez@elexionautomotive.com",
+                "michael.johnson@elexionautomotive.com"
+            ],
+            "cc": [],
+            "date": "2023-10-07 10:00:00",
+            "body": "Hi Sofia and Michael,\n\nAs we approach the end of the quarter, we need to start planning our budget for the next one. I suggest we review our current expenditures and identify any areas where we can optimize costs. \n\nLet\u2019s aim to have a draft ready before our next team meeting. Please send me any suggestions or data you think would be helpful for this process.\n\nThanks,\nLinda",
+            "folder": "inbox",
+            "read": true,
+            "attachments": [],
+            "tag": "distractor"
+        },
+        {
+            "type": "email",
+            "id": "email_004",
+            "subject": "Policy Update on Remote Work",
+            "from": "sofia.rodriguez@elexionautomotive.com",
+            "from_name": "Sofia Rodriguez",
+            "to": [
+                "michael.johnson@elexionautomotive.com",
+                "linda.wang@elexionautomotive.com"
+            ],
+            "cc": [],
+            "date": "2023-10-08 14:45:00",
+            "body": "Hi Michael and Linda,\n\nI wanted to bring to your attention the recent update regarding our remote work policy. Starting next month, employees will have the option to work remotely two days a week. This is aimed at improving work-life balance and has received positive feedback from the staff. \n\nLet\u2019s discuss how this might impact our team dynamics during our next meeting. \n\nBest,\nSofia",
+            "folder": "inbox",
+            "read": true,
+            "attachments": [],
+            "tag": "distractor"
+        },
+        {
+            "type": "email",
+            "id": "email_001",
+            "subject": "Update on Compliance and Production Timeline",
+            "from": "sofia.rodriguez@elexionautomotive.com",
+            "from_name": "Sofia Rodriguez",
+            "to": [
+                "michael.johnson@elexionautomotive.com",
+                "linda.wang@elexionautomotive.com"
+            ],
+            "cc": [],
+            "date": "2023-10-01 10:15:00",
+            "body": "Hi Michael and Linda,\n\nI hope this message finds you well. As we continue to navigate the evolving ACC II regulations, I wanted to provide an update on our compliance testing for the new vehicle models.\n\nCurrently, the focus is on ensuring that our battery systems meet the new durability standards without compromising production timelines. With the target set for 2035, it\u2019s crucial that we balance these requirements effectively.\n\nAdditionally, regarding the IT infrastructure, I\u2019ve confirmed that the upgrade budget for Q4 2023 is set at $2 million. This investment is essential for enhancing our compliance testing capabilities, which indirectly supports our goals for battery durability and warranty guarantees. It\u2019s important to note that while this budget allocation is significant, it does not directly affect our EV battery durability and compliance requirements.\n\nLet\u2019s discuss this further in our next meeting. Please let me know if you have any questions or need further details.\n\nBest,\nSofia",
+            "folder": "inbox",
+            "read": true,
+            "attachments": [],
+            "tag": "insight"
+        },
+        {
+            "type": "email",
+            "id": "email_002",
+            "subject": "Re: Update on Compliance and Production Timeline",
+            "from": "michael.johnson@elexionautomotive.com",
+            "from_name": "Michael Johnson",
+            "to": [
+                "sofia.rodriguez@elexionautomotive.com",
+                "linda.wang@elexionautomotive.com"
+            ],
+            "cc": [],
+            "date": "2023-10-01 11:00:00",
+            "body": "Hi Sofia,\n\nThanks for the update! It\u2019s great to see the proactive steps being taken towards compliance with ACC II regulations. The $2 million IT budget seems like a solid investment.\n\nI agree that enhancing our infrastructure will be key to streamlining our compliance processes. Let\u2019s ensure we align on the timeline for these upgrades to avoid any production delays.\n\nLooking forward to our next meeting.\n\nBest,\nMichael",
+            "folder": "inbox",
+            "read": true,
+            "attachments": [],
+            "tag": "insight"
+        },
+        {
+            "type": "email",
+            "id": "email_003",
+            "subject": "Follow-up on Production and Compliance Strategy",
+            "from": "linda.wang@elexionautomotive.com",
+            "from_name": "Linda Wang",
+            "to": [
+                "sofia.rodriguez@elexionautomotive.com",
+                "michael.johnson@elexionautomotive.com"
+            ],
+            "cc": [],
+            "date": "2023-10-01 12:30:00",
+            "body": "Hi Sofia and Michael,\n\nI appreciate the insights shared in the previous emails. As we work towards meeting the ACC II regulations, I think it would be beneficial to outline specific actions we can take to ensure our battery durability aligns with the new requirements.\n\nAlso, I\u2019d like to confirm if the $2 million IT budget will cover any necessary software for compliance tracking. This could be crucial in helping us stay on track with our production timelines through 2035.\n\nLet\u2019s add this to the agenda for our upcoming meeting.\n\nThanks,\nLinda",
+            "folder": "inbox",
+            "read": true,
+            "attachments": [],
+            "tag": "insight"
+        },
+        {
+            "type": "email",
+            "id": "email_004",
+            "subject": "Re: Follow-up on Production and Compliance Strategy",
+            "from": "sofia.rodriguez@elexionautomotive.com",
+            "from_name": "Sofia Rodriguez",
+            "to": [
+                "linda.wang@elexionautomotive.com",
+                "michael.johnson@elexionautomotive.com"
+            ],
+            "cc": [],
+            "date": "2023-10-01 13:00:00",
+            "body": "Hi Linda,\n\nThank you for your input! The IT budget is indeed focused on upgrading our infrastructure, which will include software enhancements for compliance tracking. This should help us maintain a strong oversight on our battery compliance processes and warranty guarantees as we move forward.\n\nI\u2019ll make sure to prepare a detailed outline for our meeting that includes proposed actions and how the IT upgrades will support our compliance goals.\n\nBest,\nSofia",
+            "folder": "inbox",
+            "read": true,
+            "attachments": [],
+            "tag": "insight"
+        },
+        {
+            "type": "email",
+            "id": "email_005",
+            "subject": "Agenda for Upcoming Meeting",
+            "from": "michael.johnson@elexionautomotive.com",
+            "from_name": "Michael Johnson",
+            "to": [
+                "sofia.rodriguez@elexionautomotive.com",
+                "linda.wang@elexionautomotive.com"
+            ],
+            "cc": [],
+            "date": "2023-10-01 14:15:00",
+            "body": "Hello Sofia and Linda,\n\nAs we prepare for our meeting, I wanted to confirm the agenda items. We will discuss:\n1. Updates on compliance testing and the impact of ACC II regulations.\n2. Strategies for ensuring battery durability and warranty guarantees.\n3. Review of the IT infrastructure upgrade budget of $2 million and its implications for our production timelines.\n\nLooking forward to our discussion!\n\nBest,\nMichael",
+            "folder": "inbox",
+            "read": true,
+            "attachments": [],
+            "tag": "insight"
+        }
+    ],
+    "file_format": "jsonl",
+    "file_path": ".llm_responses/generated_email_document.jsonl",
+    "qa_type": "distractor",
+    "timestamp": "2025-08-19 12:57",
+    "app": "roundcube"
+}

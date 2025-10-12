@@ -1,0 +1,10 @@
+{
+    "insight_id": "qa_1756142630",
+    "qa_type": "distractor",
+    "qa_index": 2,
+    "specific_question": "Total training hours spent in Q4 2024?",
+    "answer": "Total training hours were 2,500 in Q4 2024.",
+    "justification": "General training metrics don't impact insurance and compliance decisions.",
+    "timestamp": "2025-08-25 10:23",
+    "dr_question": "What are the key factors influencing MediConn Solutions' decision to accept insurance for telehealth providers, considering HIPAA compliance and state-specific data privacy regulations?"
+}

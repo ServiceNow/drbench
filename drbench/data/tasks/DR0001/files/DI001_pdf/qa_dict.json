@@ -1,0 +1,10 @@
+{
+    "insight_id": "DI001_pdf",
+    "qa_type": "distractor",
+    "qa_index": 0,
+    "specific_question": "What was Lee's Market employee turnover rate in Q3 2024?",
+    "answer": "Employee turnover rate averaged 12% with 150 new hires in Q3 2024.",
+    "justification": "Employee turnover metrics do not impact FSMA 204 regulations directly.",
+    "timestamp": "2025-08-15 12:58",
+    "dr_question": "How can Lee's Market leverage FSMA 204 regulations to enhance food safety and customer trust?"
+}

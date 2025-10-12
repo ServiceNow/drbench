@@ -1,0 +1,220 @@
+{
+    "file_name": "roundcube_email_20250819_171920",
+    "content": "{\"type\": \"user\", \"username\": \"ryan.thompson\", \"first_name\": \"Ryan\", \"last_name\": \"Thompson\", \"email\": \"ryan.thompson@elexionautomotive.com\", \"password\": \"ryan_pwd\"}\n{\"type\": \"user\", \"username\": \"jessica.brown\", \"first_name\": \"Jessica\", \"last_name\": \"Brown\", \"email\": \"jessica.brown@elexionautomotive.com\", \"password\": \"jessica_pwd\"}\n{\"type\": \"user\", \"username\": \"michael.johnson\", \"first_name\": \"Michael\", \"last_name\": \"Johnson\", \"email\": \"michael.johnson@elexionautomotive.com\", \"password\": \"michael_pwd\"}\n{\"type\": \"email\", \"id\": \"email_001\", \"subject\": \"Upcoming Team Meeting Agenda\", \"from\": \"ryan.thompson@elexionautomotive.com\", \"from_name\": \"Ryan Thompson\", \"to\": [\"jessica.brown@elexionautomotive.com\", \"michael.johnson@elexionautomotive.com\"], \"cc\": [], \"date\": \"2023-10-10 09:00:00\", \"body\": \"Hi Jessica and Michael,\\n\\nI hope this message finds you well. I wanted to confirm our upcoming team meeting scheduled for this Thursday at 2 PM. Here\\u2019s the draft agenda:\\n\\n1. Review of last month\\u2019s performance metrics\\n2. Updates on the customer feedback survey initiatives\\n3. Discussion on training needs for new software\\n4. Any other business\\n\\nPlease let me know if there\\u2019s anything else you would like to add to the agenda. Looking forward to our discussion!\\n\\nBest,\\nRyan\", \"folder\": \"inbox\", \"read\": true, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_002\", \"subject\": \"Project Status Update\", \"from\": \"jessica.brown@elexionautomotive.com\", \"from_name\": \"Jessica Brown\", \"to\": [\"ryan.thompson@elexionautomotive.com\"], \"cc\": [\"michael.johnson@elexionautomotive.com\"], \"date\": \"2023-10-10 10:15:00\", \"body\": \"Hi Ryan,\\n\\nI wanted to provide you with a quick update on the customer service software implementation project. We are currently in the testing phase, and it looks promising so far. The team is working hard to address any bugs identified during this phase.\\n\\nI anticipate that we\\u2019ll be ready for the next rollout by the end of next week. I\\u2019ll keep you posted on any developments!\\n\\nBest,\\nJessica\", \"folder\": \"inbox\", \"read\": true, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_003\", \"subject\": \"Budget Planning for Next Quarter\", \"from\": \"michael.johnson@elexionautomotive.com\", \"from_name\": \"Michael Johnson\", \"to\": [\"ryan.thompson@elexionautomotive.com\", \"jessica.brown@elexionautomotive.com\"], \"cc\": [], \"date\": \"2023-10-10 11:30:00\", \"body\": \"Hi Ryan and Jessica,\\n\\nAs we approach the end of the quarter, I think it\\u2019s important we start discussing budget allocations for the next quarter. I\\u2019d like to gather inputs on what resources you believe will be necessary for our teams moving forward.\\n\\nCould we include this as a discussion point in our next meeting? I think it would be beneficial to align our budgets with our strategic goals.\\n\\nThanks,\\nMichael\", \"folder\": \"inbox\", \"read\": true, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_004\", \"subject\": \"Feedback on Recent Customer Satisfaction Survey\", \"from\": \"ryan.thompson@elexionautomotive.com\", \"from_name\": \"Ryan Thompson\", \"to\": [\"jessica.brown@elexionautomotive.com\"], \"cc\": [\"michael.johnson@elexionautomotive.com\"], \"date\": \"2023-10-10 14:00:00\", \"body\": \"Hi Jessica,\\n\\nI wanted to touch base regarding the recent customer satisfaction survey results. It seems we have some interesting insights that could help us improve our services. Let\\u2019s review these findings together and see how we can leverage them in our upcoming strategies.\\n\\nPerhaps we can add this to our agenda for Thursday\\u2019s meeting? \\n\\nLooking forward to your thoughts!\\n\\nBest,\\nRyan\", \"folder\": \"inbox\", \"read\": true, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_005\", \"subject\": \"Industry Networking Event Next Month\", \"from\": \"jessica.brown@elexionautomotive.com\", \"from_name\": \"Jessica Brown\", \"to\": [\"michael.johnson@elexionautomotive.com\", \"ryan.thompson@elexionautomotive.com\"], \"cc\": [], \"date\": \"2023-10-10 15:45:00\", \"body\": \"Hi Team,\\n\\nI wanted to remind you both about the upcoming industry networking event scheduled for next month. It\\u2019s a great opportunity to connect with other professionals in the electric vehicle sector and share insights on market trends.\\n\\nLet\\u2019s discuss if we want to attend as a team or if we should send representatives from customer experience. \\n\\nBest,\\nJessica\", \"folder\": \"inbox\", \"read\": true, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_001\", \"subject\": \"Q2 2024 Facility Maintenance Budget Overview\", \"from\": \"michael.johnson@elexionautomotive.com\", \"from_name\": \"Michael Johnson\", \"to\": [\"ryan.thompson@elexionautomotive.com\", \"jessica.brown@elexionautomotive.com\"], \"cc\": [], \"date\": \"2024-04-15 10:30:00\", \"body\": \"Hi Ryan and Jessica,\\n\\nI wanted to provide an update regarding our facility maintenance budget for Q2 2024. After reviewing our financial plans and expenditures, I've confirmed that our budget for this quarter is set at $500,000.\\n\\nWhile this may not directly influence our after-sales support strategies, maintaining our facilities in optimal condition is crucial for ensuring that our customer service teams can operate efficiently. This way, we can focus on improving customer trust through exceptional care while keeping costs manageable.\\n\\nLet me know if you need further details or if there's anything specific you would like to discuss regarding our customer service initiatives.\\n\\nBest,\\nMichael\", \"folder\": \"inbox\", \"read\": true, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_002\", \"subject\": \"Re: Q2 2024 Facility Maintenance Budget Overview\", \"from\": \"ryan.thompson@elexionautomotive.com\", \"from_name\": \"Ryan Thompson\", \"to\": [\"michael.johnson@elexionautomotive.com\"], \"cc\": [\"jessica.brown@elexionautomotive.com\"], \"date\": \"2024-04-15 10:45:00\", \"body\": \"Hi Michael,\\n\\nThanks for the quick update on the maintenance budget. It\\u2019s great to know we have a solid plan in place. I agree that ensuring our facilities are well-maintained will support our customer service efforts.\\n\\nI believe we should explore how we can leverage this budget to enhance our customer experience further, perhaps by investing in training or additional resources for our team. Let\\u2019s discuss this in our next meeting.\\n\\nBest,\\nRyan\", \"folder\": \"inbox\", \"read\": true, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_003\", \"subject\": \"Re: Q2 2024 Facility Maintenance Budget Overview\", \"from\": \"jessica.brown@elexionautomotive.com\", \"from_name\": \"Jessica Brown\", \"to\": [\"ryan.thompson@elexionautomotive.com\", \"michael.johnson@elexionautomotive.com\"], \"cc\": [], \"date\": \"2024-04-15 11:00:00\", \"body\": \"Hi Ryan and Michael,\\n\\nI appreciate the update as well. Regarding the maintenance budget, I think it would be beneficial to allocate a portion towards improving our customer support tools. This could help us provide more efficient service, which in turn could build greater trust with our customers.\\n\\nLet\\u2019s make sure to include this in our agenda for the upcoming team meeting.\\n\\nThanks,\\nJessica\", \"folder\": \"inbox\", \"read\": true, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_004\", \"subject\": \"Agenda for Upcoming Team Meeting\", \"from\": \"ryan.thompson@elexionautomotive.com\", \"from_name\": \"Ryan Thompson\", \"to\": [\"jessica.brown@elexionautomotive.com\", \"michael.johnson@elexionautomotive.com\"], \"cc\": [], \"date\": \"2024-04-16 09:30:00\", \"body\": \"Hi Team,\\n\\nAs we prepare for our meeting next week, I\\u2019d like to include a discussion on how we can utilize the $500,000 facility maintenance budget to enhance our after-sales support and overall customer experience. I believe that if we align our resources effectively, we can strike a balance between exceptional customer care and cost efficiency.\\n\\nPlease come with your ideas and any data that might support our discussion. Looking forward to your insights!\\n\\nBest,\\nRyan\", \"folder\": \"inbox\", \"read\": true, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_005\", \"subject\": \"Re: Agenda for Upcoming Team Meeting\", \"from\": \"michael.johnson@elexionautomotive.com\", \"from_name\": \"Michael Johnson\", \"to\": [\"ryan.thompson@elexionautomotive.com\", \"jessica.brown@elexionautomotive.com\"], \"cc\": [], \"date\": \"2024-04-16 09:45:00\", \"body\": \"Hi Ryan and Jessica,\\n\\nAbsolutely, I\\u2019ll prepare some insights on how we can allocate the maintenance budget to support our customer service strategy. I\\u2019ll also look into any potential cost-saving measures that could allow us to enhance our service offerings without exceeding our budget.\\n\\nLet\\u2019s make this meeting productive!\\n\\nBest,\\nMichael\", \"folder\": \"inbox\", \"read\": true, \"attachments\": []}",
+    "email_setup": [
+        {
+            "type": "user",
+            "username": "ryan.thompson",
+            "first_name": "Ryan",
+            "last_name": "Thompson",
+            "email": "ryan.thompson@elexionautomotive.com",
+            "password": "ryan_pwd"
+        },
+        {
+            "type": "user",
+            "username": "jessica.brown",
+            "first_name": "Jessica",
+            "last_name": "Brown",
+            "email": "jessica.brown@elexionautomotive.com",
+            "password": "jessica_pwd"
+        },
+        {
+            "type": "user",
+            "username": "michael.johnson",
+            "first_name": "Michael",
+            "last_name": "Johnson",
+            "email": "michael.johnson@elexionautomotive.com",
+            "password": "michael_pwd"
+        }
+    ],
+    "email_messages": [
+        {
+            "type": "email",
+            "id": "email_001",
+            "subject": "Upcoming Team Meeting Agenda",
+            "from": "ryan.thompson@elexionautomotive.com",
+            "from_name": "Ryan Thompson",
+            "to": [
+                "jessica.brown@elexionautomotive.com",
+                "michael.johnson@elexionautomotive.com"
+            ],
+            "cc": [],
+            "date": "2023-10-10 09:00:00",
+            "body": "Hi Jessica and Michael,\n\nI hope this message finds you well. I wanted to confirm our upcoming team meeting scheduled for this Thursday at 2 PM. Here\u2019s the draft agenda:\n\n1. Review of last month\u2019s performance metrics\n2. Updates on the customer feedback survey initiatives\n3. Discussion on training needs for new software\n4. Any other business\n\nPlease let me know if there\u2019s anything else you would like to add to the agenda. Looking forward to our discussion!\n\nBest,\nRyan",
+            "folder": "inbox",
+            "read": true,
+            "attachments": [],
+            "tag": "distractor"
+        },
+        {
+            "type": "email",
+            "id": "email_002",
+            "subject": "Project Status Update",
+            "from": "jessica.brown@elexionautomotive.com",
+            "from_name": "Jessica Brown",
+            "to": [
+                "ryan.thompson@elexionautomotive.com"
+            ],
+            "cc": [
+                "michael.johnson@elexionautomotive.com"
+            ],
+            "date": "2023-10-10 10:15:00",
+            "body": "Hi Ryan,\n\nI wanted to provide you with a quick update on the customer service software implementation project. We are currently in the testing phase, and it looks promising so far. The team is working hard to address any bugs identified during this phase.\n\nI anticipate that we\u2019ll be ready for the next rollout by the end of next week. I\u2019ll keep you posted on any developments!\n\nBest,\nJessica",
+            "folder": "inbox",
+            "read": true,
+            "attachments": [],
+            "tag": "distractor"
+        },
+        {
+            "type": "email",
+            "id": "email_003",
+            "subject": "Budget Planning for Next Quarter",
+            "from": "michael.johnson@elexionautomotive.com",
+            "from_name": "Michael Johnson",
+            "to": [
+                "ryan.thompson@elexionautomotive.com",
+                "jessica.brown@elexionautomotive.com"
+            ],
+            "cc": [],
+            "date": "2023-10-10 11:30:00",
+            "body": "Hi Ryan and Jessica,\n\nAs we approach the end of the quarter, I think it\u2019s important we start discussing budget allocations for the next quarter. I\u2019d like to gather inputs on what resources you believe will be necessary for our teams moving forward.\n\nCould we include this as a discussion point in our next meeting? I think it would be beneficial to align our budgets with our strategic goals.\n\nThanks,\nMichael",
+            "folder": "inbox",
+            "read": true,
+            "attachments": [],
+            "tag": "distractor"
+        },
+        {
+            "type": "email",
+            "id": "email_004",
+            "subject": "Feedback on Recent Customer Satisfaction Survey",
+            "from": "ryan.thompson@elexionautomotive.com",
+            "from_name": "Ryan Thompson",
+            "to": [
+                "jessica.brown@elexionautomotive.com"
+            ],
+            "cc": [
+                "michael.johnson@elexionautomotive.com"
+            ],
+            "date": "2023-10-10 14:00:00",
+            "body": "Hi Jessica,\n\nI wanted to touch base regarding the recent customer satisfaction survey results. It seems we have some interesting insights that could help us improve our services. Let\u2019s review these findings together and see how we can leverage them in our upcoming strategies.\n\nPerhaps we can add this to our agenda for Thursday\u2019s meeting? \n\nLooking forward to your thoughts!\n\nBest,\nRyan",
+            "folder": "inbox",
+            "read": true,
+            "attachments": [],
+            "tag": "distractor"
+        },
+        {
+            "type": "email",
+            "id": "email_005",
+            "subject": "Industry Networking Event Next Month",
+            "from": "jessica.brown@elexionautomotive.com",
+            "from_name": "Jessica Brown",
+            "to": [
+                "michael.johnson@elexionautomotive.com",
+                "ryan.thompson@elexionautomotive.com"
+            ],
+            "cc": [],
+            "date": "2023-10-10 15:45:00",
+            "body": "Hi Team,\n\nI wanted to remind you both about the upcoming industry networking event scheduled for next month. It\u2019s a great opportunity to connect with other professionals in the electric vehicle sector and share insights on market trends.\n\nLet\u2019s discuss if we want to attend as a team or if we should send representatives from customer experience. \n\nBest,\nJessica",
+            "folder": "inbox",
+            "read": true,
+            "attachments": [],
+            "tag": "distractor"
+        },
+        {
+            "type": "email",
+            "id": "email_001",
+            "subject": "Q2 2024 Facility Maintenance Budget Overview",
+            "from": "michael.johnson@elexionautomotive.com",
+            "from_name": "Michael Johnson",
+            "to": [
+                "ryan.thompson@elexionautomotive.com",
+                "jessica.brown@elexionautomotive.com"
+            ],
+            "cc": [],
+            "date": "2024-04-15 10:30:00",
+            "body": "Hi Ryan and Jessica,\n\nI wanted to provide an update regarding our facility maintenance budget for Q2 2024. After reviewing our financial plans and expenditures, I've confirmed that our budget for this quarter is set at $500,000.\n\nWhile this may not directly influence our after-sales support strategies, maintaining our facilities in optimal condition is crucial for ensuring that our customer service teams can operate efficiently. This way, we can focus on improving customer trust through exceptional care while keeping costs manageable.\n\nLet me know if you need further details or if there's anything specific you would like to discuss regarding our customer service initiatives.\n\nBest,\nMichael",
+            "folder": "inbox",
+            "read": true,
+            "attachments": [],
+            "tag": "insight"
+        },
+        {
+            "type": "email",
+            "id": "email_002",
+            "subject": "Re: Q2 2024 Facility Maintenance Budget Overview",
+            "from": "ryan.thompson@elexionautomotive.com",
+            "from_name": "Ryan Thompson",
+            "to": [
+                "michael.johnson@elexionautomotive.com"
+            ],
+            "cc": [
+                "jessica.brown@elexionautomotive.com"
+            ],
+            "date": "2024-04-15 10:45:00",
+            "body": "Hi Michael,\n\nThanks for the quick update on the maintenance budget. It\u2019s great to know we have a solid plan in place. I agree that ensuring our facilities are well-maintained will support our customer service efforts.\n\nI believe we should explore how we can leverage this budget to enhance our customer experience further, perhaps by investing in training or additional resources for our team. Let\u2019s discuss this in our next meeting.\n\nBest,\nRyan",
+            "folder": "inbox",
+            "read": true,
+            "attachments": [],
+            "tag": "insight"
+        },
+        {
+            "type": "email",
+            "id": "email_003",
+            "subject": "Re: Q2 2024 Facility Maintenance Budget Overview",
+            "from": "jessica.brown@elexionautomotive.com",
+            "from_name": "Jessica Brown",
+            "to": [
+                "ryan.thompson@elexionautomotive.com",
+                "michael.johnson@elexionautomotive.com"
+            ],
+            "cc": [],
+            "date": "2024-04-15 11:00:00",
+            "body": "Hi Ryan and Michael,\n\nI appreciate the update as well. Regarding the maintenance budget, I think it would be beneficial to allocate a portion towards improving our customer support tools. This could help us provide more efficient service, which in turn could build greater trust with our customers.\n\nLet\u2019s make sure to include this in our agenda for the upcoming team meeting.\n\nThanks,\nJessica",
+            "folder": "inbox",
+            "read": true,
+            "attachments": [],
+            "tag": "insight"
+        },
+        {
+            "type": "email",
+            "id": "email_004",
+            "subject": "Agenda for Upcoming Team Meeting",
+            "from": "ryan.thompson@elexionautomotive.com",
+            "from_name": "Ryan Thompson",
+            "to": [
+                "jessica.brown@elexionautomotive.com",
+                "michael.johnson@elexionautomotive.com"
+            ],
+            "cc": [],
+            "date": "2024-04-16 09:30:00",
+            "body": "Hi Team,\n\nAs we prepare for our meeting next week, I\u2019d like to include a discussion on how we can utilize the $500,000 facility maintenance budget to enhance our after-sales support and overall customer experience. I believe that if we align our resources effectively, we can strike a balance between exceptional customer care and cost efficiency.\n\nPlease come with your ideas and any data that might support our discussion. Looking forward to your insights!\n\nBest,\nRyan",
+            "folder": "inbox",
+            "read": true,
+            "attachments": [],
+            "tag": "insight"
+        },
+        {
+            "type": "email",
+            "id": "email_005",
+            "subject": "Re: Agenda for Upcoming Team Meeting",
+            "from": "michael.johnson@elexionautomotive.com",
+            "from_name": "Michael Johnson",
+            "to": [
+                "ryan.thompson@elexionautomotive.com",
+                "jessica.brown@elexionautomotive.com"
+            ],
+            "cc": [],
+            "date": "2024-04-16 09:45:00",
+            "body": "Hi Ryan and Jessica,\n\nAbsolutely, I\u2019ll prepare some insights on how we can allocate the maintenance budget to support our customer service strategy. I\u2019ll also look into any potential cost-saving measures that could allow us to enhance our service offerings without exceeding our budget.\n\nLet\u2019s make this meeting productive!\n\nBest,\nMichael",
+            "folder": "inbox",
+            "read": true,
+            "attachments": [],
+            "tag": "insight"
+        }
+    ],
+    "file_format": "jsonl",
+    "file_path": ".llm_responses/generated_email_document.jsonl",
+    "qa_type": "distractor",
+    "timestamp": "2025-08-19 14:19",
+    "app": "roundcube"
+}

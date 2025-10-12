@@ -1,0 +1,10 @@
+{
+    "insight_id": "DI008_docx",
+    "qa_type": "distractor",
+    "qa_index": 0,
+    "specific_question": "What is the average employee tenure in Q1 2025?",
+    "answer": "Average employee tenure was 2.5 years, with 35% of employees having 1-2 years of service.",
+    "justification": "Employee tenure metrics do not address the core DR Question focus area on customer experience and chatbots",
+    "timestamp": "2025-08-15 15:56",
+    "dr_question": "How can Lee's Market leverage chatbots to enhance the consumer experience for centennial shoppers?"
+}

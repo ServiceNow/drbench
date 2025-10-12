@@ -1,0 +1,10 @@
+{
+    "insight_id": "qa_1756142865",
+    "qa_type": "distractor",
+    "qa_index": 1,
+    "specific_question": "What was our training completion rate in Q2 2024?",
+    "answer": "Training completion rate was 85% with 300 employees participating.",
+    "justification": "Training metrics do not impact IT service desk workload or response times.",
+    "timestamp": "2025-08-25 10:27",
+    "dr_question": "How can we leverage ISTM and AI-driven analytics to minimize IT service desk workload and improve response times in MediConn Solutions?"
+}

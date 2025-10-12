@@ -1,0 +1,9 @@
+Quarter,Year,Employee Turnover Rate,Total Employees,New Hires,Departures
+The quarter of the year for which the employee turnover rate is being reported.,The year for which the employee turnover rate is being reported.,The percentage of employees who left the company during the quarter.,The total number of employees at the company during the quarter.,The number of new employees hired during the quarter.,The number of employees who left the company during the quarter.
+Q3,2023,0.1,480,40,48
+Q4,2023,0.11,490,45,53
+Q2,2024,0.11,490,45,53
+Q3,2024,0.12,500,50,60
+Q2,2023,0.09,460,35,41
+Q1,2023,0.08,450,30,36
+Q1,2024,0.1,480,40,48

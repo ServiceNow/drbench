@@ -1,0 +1,13 @@
+bonus_count,total_bonus_amount,average_bonus_amount,quarter,year
+The number of employee retention bonuses issued in Q1 2023. This reflects the company's strategy to retain key talent in a competitive EV industry.,The total monetary value of the employee retention bonuses issued in Q1 2023. This indicates the financial commitment to employee retention.,The average amount of each retention bonus issued. This provides insight into the standard bonus amount offered to employees.,"The fiscal quarter during which the bonuses were issued, providing a temporal context for the data.","The fiscal year in which the bonuses were issued, providing a broader temporal context for trend analysis."
+5,50000,10000,Q1,2022
+11,110000,10000,Q4,2020
+14,140000,10000,Q3,2020
+9,90000,10000,Q3,2021
+7,70000,10000,Q1,2021
+12,120000,10000,Q4,2021
+15,150000,10000,Q3,2022
+10,100000,10000,Q4,2022
+6,60000,10000,Q2,2021
+8,80000,10000,Q2,2022
+25,250000,10000,Q1,2023

@@ -1,0 +1,10 @@
+{
+    "insight_id": "qa_1755719913",
+    "qa_type": "distractor",
+    "qa_index": 2,
+    "specific_question": "What was our average time-to-hire for new engineering positions in Q1 2025?",
+    "answer": "Average time-to-hire for engineering positions was 45 days, with 80% hired within 60 days.",
+    "justification": "Time-to-hire metrics for engineers do not address after-sales support or customer trust",
+    "timestamp": "2025-08-20 12:58",
+    "dr_question": "How can Elexion Automotive increase customer trust through after-sales support while balancing the need for exceptional customer care with efficient and cost-effective service?"
+}

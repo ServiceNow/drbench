@@ -1,0 +1,10 @@
+{
+    "insight_id": "DI006_pdf",
+    "qa_type": "distractor",
+    "qa_index": 2,
+    "specific_question": "What was the IT system downtime rate in Q2 2024?",
+    "answer": "IT system downtime rate averaged 2% with a maximum of 4%.",
+    "justification": "IT system downtime metrics do not address customer engagement strategies",
+    "timestamp": "2025-08-15 10:09",
+    "dr_question": "How can we leverage data-driven loyalty programs to enhance customer engagement?"
+}

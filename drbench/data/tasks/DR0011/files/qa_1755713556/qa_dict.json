@@ -1,0 +1,10 @@
+{
+    "insight_id": "qa_1755713556",
+    "qa_type": "distractor",
+    "qa_index": 1,
+    "specific_question": "How many IT security incidents occurred in Q1 2025?",
+    "answer": "Five IT security incidents were reported, resulting in $120,000 in damages.",
+    "justification": "IT security incidents do not relate to EV battery warranty or production timelines.",
+    "timestamp": "2025-08-20 11:12",
+    "dr_question": "How can we balance the need for durability and warranty guarantees for EV batteries with evolving regulatory requirements, especially ACC regulations (ACC II), while staying on track with our production timelines through 2035?"
+}

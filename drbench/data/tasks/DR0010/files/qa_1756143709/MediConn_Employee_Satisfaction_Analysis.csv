@@ -1,0 +1,12 @@
+Quarter,Department,Satisfaction_Score,Sample_Size,Key_Drivers
+"The fiscal quarter and year for which the employee satisfaction data is reported, e.g., Q2 2025.","The specific department within MediConn Solutions being assessed for job satisfaction, in this case, customer-facing staff.",The average job satisfaction score reported by employees within the specified department and quarter. This is expressed as a percentage.,The number of employees surveyed within the specified department and quarter.,Identified key drivers of employee satisfaction. This information can inform marketing and HR strategies.
+Q1 2023,Customer-Facing,72.00%,105,Increasing support for professional development.
+Q3 2023,Customer-Facing,75.00%,115,Enhancing job security and stability.
+Q2 2025,Customer-Facing,85.00%,150,Identifying key drivers of employee satisfaction to inform our content marketing and human resources strategies.
+Q1 2025,Customer-Facing,78.00%,145,Improving communication and support from management.
+Q4 2024,Customer-Facing,80.00%,140,Enhancing work-life balance and career development opportunities.
+Q2 2023,Customer-Facing,73.00%,110,Providing clear pathways for career progression.
+Q3 2024,Customer-Facing,76.00%,135,Increasing recognition and reward for achievements.
+Q1 2024,Customer-Facing,77.00%,125,Fostering a more inclusive work environment.
+Q4 2023,Customer-Facing,79.00%,120,Improving team collaboration and cohesion.
+Q2 2024,Customer-Facing,74.00%,130,Providing more training and development.

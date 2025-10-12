@@ -1,0 +1,12 @@
+Breach_ID,Breach_Date,Third_Party_Involved,Data_Compromised,Impact_Severity,Regulatory_Implications
+Unique identifier for each data breach incident to ensure traceability and reference.,"Date when the breach was reported or identified, providing a timeline for the incident.","Indicates whether a third party was involved in the breach, highlighting potential external vulnerabilities.","Type of data compromised during the breach, such as personal patient information or financial records.","Severity of the breach impact categorized as Low, Medium, or High, to assess the potential damage.","Regulatory changes or considerations resulting from the breach, informing compliance and security strategy."
+BR2025-0010,2025-06-15,True,Patient Data,High,Regulatory update to enhance third-party data protection
+BR2025-0006,2025-05-15,False,Marketing Data,Low,Update marketing data storage protocols
+BR2025-0009,2025-06-10,True,Payment Information,High,Strengthened third-party payment gateways
+BR2025-0007,2025-05-25,True,Insurance Details,Medium,Revised third-party compliance checklist
+BR2025-0008,2025-06-05,False,Employee Credentials,Low,Enhanced internal access controls
+BR2025-0003,2025-04-20,True,Customer Information,High,Immediate notification to affected customers
+BR2025-0002,2025-04-10,False,Internal Employee Data,Low,Internal security audit recommended
+BR2025-0005,2025-05-10,True,Healthcare Records,High,Increased scrutiny on third-party agreements
+BR2025-0001,2025-04-05,True,Financial Records,Medium,Review of third-party data handling policies
+BR2025-0004,2025-05-01,False,Vendor Contracts,Medium,No regulatory changes required

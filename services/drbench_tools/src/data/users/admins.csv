@@ -1,0 +1,2 @@
+username,first_name,last_name,email,passwd,team,channels,is_admin
+mm_admin,DRBench,"MM Admin",admin@drbench.com,mm_admin_pwd,"DR Bench","support,general",true

@@ -1,0 +1,12 @@
+Quarter,Training_Budget,Budget_Change_Percentage,Strategic_Alignment
+"The fiscal quarter and year to which the data pertains, e.g., Q3 2024. This provides a time reference for the financial insights presented.",The total budget allocated for training during the specified quarter. This includes any increases or decreases from previous quarters.,The percentage change in the training budget compared to the previous quarter. This helps in evaluating budget trends over time.,"Indicates whether the training budget aligns with the company's strategic goals, such as compliance or market expansion. TRUE if aligned, FALSE otherwise."
+Q2 2024,95000,0.03,False
+Q2 2023,87500,0.02,False
+Q4 2022,82000,-0.03,True
+Q1 2023,86000,0.05,True
+Q3 2024,100000,0.05,True
+Q1 2024,92000,0.02,True
+Q3 2023,91000,0.04,True
+Q4 2023,90000,-0.01,False
+Q2 2022,83000,0.01,True
+Q3 2022,84500,0.02,False

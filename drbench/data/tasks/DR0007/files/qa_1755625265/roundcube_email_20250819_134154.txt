@@ -1,0 +1,220 @@
+================================================================================
+ROUNDCUBE EMAIL EXPORT
+================================================================================
+
+USERS:
+----------------------------------------
+• emily.patel
+  Name: Emily Patel
+  Email: emily.patel@medicomm.ca
+
+• john.doe
+  Name: John Doe
+  Email: john.doe@medicomm.ca
+
+• sarah.johnson
+  Name: Sarah Johnson
+  Email: sarah.johnson@medicomm.ca
+
+• michael.brown
+  Name: Michael Brown
+  Email: michael.brown@medicomm.ca
+
+• linda.wilson
+  Name: Linda Wilson
+  Email: linda.wilson@medicomm.ca
+
+EMAILS:
+================================================================================
+Email ID: email_001
+Date: 2023-10-15 09:00:00
+From: Emily Patel <emily.patel@medicomm.ca>
+To: john.doe@medicomm.ca, sarah.johnson@medicomm.ca
+Subject: Team Meeting Schedule for Next Week
+Folder: inbox | Status: Read
+
+Message Body:
+----------------------------------------
+Hi John and Sarah,
+
+I hope this message finds you well. I wanted to propose scheduling our weekly team meeting for next week. How does Tuesday at 10 AM sound? Please let me know if that works for you or if there are any other times that are more convenient.
+
+Looking forward to our discussion!
+
+Best,
+Emily
+============================================================
+
+Email ID: email_002
+Date: 2023-10-16 11:30:00
+From: John Doe <john.doe@medicomm.ca>
+To: emily.patel@medicomm.ca, michael.brown@medicomm.ca
+CC: linda.wilson@medicomm.ca
+Subject: Project Status Update: Virtual Consultation Platform
+Folder: inbox | Status: Read
+
+Message Body:
+----------------------------------------
+Hello Emily and Michael,
+
+I wanted to provide a quick update on the virtual consultation platform project. We are currently on track for the next milestone, and the development team has made significant progress on the user interface. I will send out a more detailed report by the end of the week.
+
+Thanks,
+John
+============================================================
+
+Email ID: email_003
+Date: 2023-10-17 14:15:00
+From: Sarah Johnson <sarah.johnson@medicomm.ca>
+To: emily.patel@medicomm.ca, linda.wilson@medicomm.ca
+Subject: Feedback from Recent Customer Satisfaction Survey
+Folder: inbox | Status: Read
+
+Message Body:
+----------------------------------------
+Hi Emily and Linda,
+
+I just reviewed the feedback from our recent customer satisfaction survey. Overall, the response has been positive, but there are a few areas highlighted for improvement that we might want to discuss. Let’s plan to cover this in our next team meeting.
+
+Best,
+Sarah
+============================================================
+
+Email ID: email_004
+Date: 2023-10-18 09:45:00
+From: Michael Brown <michael.brown@medicomm.ca>
+To: emily.patel@medicomm.ca, john.doe@medicomm.ca
+CC: sarah.johnson@medicomm.ca
+Subject: Budget Planning for Q1 2024
+Folder: inbox | Status: Read
+
+Message Body:
+----------------------------------------
+Dear Emily and John,
+
+As we approach the end of the year, it’s time to start planning our budget for Q1 2024. I think we should schedule a brainstorming session to discuss our priorities and resource allocation. Please let me know your availability for next week.
+
+Regards,
+Michael
+============================================================
+
+Email ID: email_005
+Date: 2023-10-19 16:00:00
+From: Linda Wilson <linda.wilson@medicomm.ca>
+To: emily.patel@medicomm.ca, michael.brown@medicomm.ca
+Subject: Policy Update: Remote Work Guidelines
+Folder: inbox | Status: Read
+
+Message Body:
+----------------------------------------
+Hi Emily and Michael,
+
+I wanted to share an update regarding the remote work policy guidelines that were recently revised by HR. It’s crucial that we review these changes and ensure our teams are informed. I suggest we include this as a topic in our upcoming meetings.
+
+Best,
+Linda
+============================================================
+
+Email ID: email_001
+Date: 2024-01-15 09:00:00
+From: John Doe <john.doe@medicomm.ca>
+To: emily.patel@medicomm.ca, sarah.johnson@medicomm.ca
+CC: michael.brown@medicomm.ca
+Subject: Q1 2024 Training Budget Allocation
+Folder: inbox | Status: Read
+
+Message Body:
+----------------------------------------
+Hi Emily and Sarah,
+
+I hope this email finds you well. As we kick off Q1, I wanted to touch base regarding our training budget allocation for the upcoming quarter. After our last finance meeting, I can confirm that the training budget for Q1 2024 has been set at $300,000.
+
+This allocation is crucial as we focus on integrating AI-driven analytics and ISTM into our IT service desk processes. With this training investment, we aim to enhance our team's capabilities in leveraging these technologies to minimize our workload and improve response times.
+
+Let me know if you need further details or if there's anything specific you would like to discuss in our next meeting.
+
+Best,
+John
+============================================================
+
+Email ID: email_002
+Date: 2024-01-15 09:30:00
+From: Emily Patel <emily.patel@medicomm.ca>
+To: john.doe@medicomm.ca
+CC: sarah.johnson@medicomm.ca, michael.brown@medicomm.ca
+Subject: Re: Q1 2024 Training Budget Allocation
+Folder: inbox | Status: Read
+
+Message Body:
+----------------------------------------
+Hi John,
+
+Thanks for the update on the training budget. The $300,000 allocation is a solid step forward as we look to enhance our IT service desk functionality with ISTM and AI.
+
+I believe that investing in the right training will empower our team to manage incidents more efficiently, reducing overall workload and improving our response times significantly. I’d like to discuss specific training programs that could align with our goals in our next meeting.
+
+Best,
+Emily
+============================================================
+
+Email ID: email_003
+Date: 2024-01-15 10:00:00
+From: Sarah Johnson <sarah.johnson@medicomm.ca>
+To: emily.patel@medicomm.ca, john.doe@medicomm.ca
+CC: michael.brown@medicomm.ca
+Subject: Suggestions for Training Programs
+Folder: inbox | Status: Read
+
+Message Body:
+----------------------------------------
+Hi Emily and John,
+
+I completely agree with you both. The training budget for the quarter will allow us to explore several AI and ISTM training programs that can be tailored to our needs. 
+
+I’ve researched a few programs that focus on AI-driven analytics and best practices for service desk improvement. I think these could be beneficial in minimizing workload and enhancing our response times. Let’s compile our findings and discuss them in our upcoming meeting.
+
+Thanks,
+Sarah
+============================================================
+
+Email ID: email_004
+Date: 2024-01-15 10:30:00
+From: Michael Brown <michael.brown@medicomm.ca>
+To: emily.patel@medicomm.ca, john.doe@medicomm.ca, sarah.johnson@medicomm.ca
+Subject: Meeting to Discuss Training Initiatives
+Folder: inbox | Status: Read
+
+Message Body:
+----------------------------------------
+Hi Team,
+
+I’d like to propose a meeting to discuss the training initiatives we want to implement with the $300,000 budget for Q1. It’s important that we align our training goals with our objectives to leverage ISTM and AI analytics effectively.
+
+Please let me know your availability this week to finalize a time.
+
+Best,
+Michael
+============================================================
+
+Email ID: email_005
+Date: 2024-01-15 11:00:00
+From: Emily Patel <emily.patel@medicomm.ca>
+To: michael.brown@medicomm.ca, john.doe@medicomm.ca, sarah.johnson@medicomm.ca
+Subject: Re: Meeting to Discuss Training Initiatives
+Folder: inbox | Status: Read
+
+Message Body:
+----------------------------------------
+Hi Michael,
+
+Thanks for taking the initiative to set up a meeting. I’m available tomorrow at 2 PM. I believe having a clear focus on how we can utilize the $300,000 training budget will help us implement AI-driven solutions and ISTM effectively, ultimately minimizing our IT service desk workload.
+
+Looking forward to our discussion!
+
+Best,
+Emily
+============================================================
+
+================================================================================
+END OF EMAIL EXPORT
+================================================================================

@@ -1,0 +1,10 @@
+{
+    "insight_id": "DI001",
+    "qa_type": "distractor",
+    "qa_index": 1,
+    "specific_question": "How many IT infrastructure upgrades were completed by Q3 2025?",
+    "answer": "A total of 12 IT infrastructure upgrades were completed by Q3 2025.",
+    "justification": "IT upgrades do not pertain to third-party data breaches or regulations.",
+    "timestamp": "2025-08-19 07:50",
+    "dr_question": "What is the impact of third-party data breaches on MediConn's virtual healthcare platforms and patient data, and what new regulations can be implemented to defend against these breaches?"
+}

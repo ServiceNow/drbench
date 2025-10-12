@@ -1,0 +1,10 @@
+{
+    "insight_id": "DI003_pdf",
+    "qa_type": "distractor",
+    "qa_index": 2,
+    "specific_question": "How many Lee's Market employees completed IT security training in Q1 2024?",
+    "answer": "85% of employees completed IT security training with a 95% pass rate.",
+    "justification": "IT security training metrics do not address chatbot consumer experience enhancement.",
+    "timestamp": "2025-08-15 09:53",
+    "dr_question": "How can Lee's Market leverage chatbots to enhance the consumer experience for centennial shoppers?"
+}

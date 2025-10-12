@@ -1,0 +1,8 @@
+{
+    "file_name": "Lees_Market_Employee_Training_Metrics",
+    "file_format": "xlsx",
+    "file_path": "drbench/data/tasks/DR0003/files/DI010/Lees_Market_Employee_Training_Metrics.xlsx",
+    "csv_path": "drbench/data/tasks/DR0003/files/DI010/Lees_Market_Employee_Training_Metrics.csv",
+    "qa_type": "distractor",
+    "app": "file_system"
+}
