@@ -16,16 +16,25 @@ It tests an agent’s ability to conduct **multi-hop, insight-driven research** 
 
 ## Data Overview
 
-Explore the DR Questions: [DR Questions CSV](drbench/data/summary/dr_questions.csv)
+The benchmark data is included in `drbench/data/`:
 
-Discover the Facts for each DR Question: [Facts Directory](drbench/data/summary/facts/)
+- **DR Questions**: [DR Questions CSV](drbench/data/summary/dr_questions.csv)
+- **Facts**: [Facts Directory](drbench/data/summary/facts/)
+- **Tasks**: Complete task configurations in `drbench/data/tasks/` with enterprise files
 
-## Quick Start 
+**Alternative Data Source**: The dataset is also available on HuggingFace at [ServiceNow/drbench](https://huggingface.co/datasets/ServiceNow/drbench) for browsing task metadata and using with the `DRBENCH_DATA_DIR` environment variable.
+
+## Quick Start
 
 ### Install Requirements
 
 ```bash
 uv pip install -e .
+```
+
+**Custom Data Directory:** By default, the library uses data from `drbench/data/`. To use a custom data location (e.g., cloned from HuggingFace), set the `DRBENCH_DATA_DIR` environment variable:
+```bash
+export DRBENCH_DATA_DIR=/path/to/custom/data
 ```
 
 ### (1) Quick Run (Without Docker) 
@@ -79,15 +88,28 @@ print(task.get_dr_question())
 
 #### (b) Create Your Agent
 
-Your agent needs a `generate_report` method that takes a question and returns insights:
+Your agent needs a `generate_report` method that returns a report with structured insights:
 
 ```python
 class MyAgent:
     def generate_report(self, query, env):
         # Your research logic here
-        # report_text is the raw report text
-        # insights is the list of atomic insights from the report
-        return {"report_insights": insights, "report_text": report_text}
+        # 1. Search across files, emails, chats, and web
+        # 2. Extract insights with supporting citations
+        # 3. Synthesize into a comprehensive report
+
+        insights = [
+            {
+                "claim": "Key finding from your research",
+                "citations": ["file.pdf", "https://example.com"]
+            },
+            # ... more insights
+        ]
+
+        return {
+            "report_insights": insights,  # List of claim-citation pairs
+            "report_text": report_text     # Full report as string
+        }
 ```
 
 Refer to `BasicAgent` for a simple example in `drbench/agents/basic_agent.py`
