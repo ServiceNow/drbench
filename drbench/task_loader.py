@@ -12,18 +12,34 @@ ROOT_DIR = Path(__file__).parent.parent
 
 
 def get_all_subset_files_in_dir(dir_path: str):
-    path = os.path.join(ROOT_DIR, "drbench", "data", "subsets")
+    # Check for custom data directory
+    custom_data_dir = os.environ.get('DRBENCH_DATA_DIR')
+    if custom_data_dir:
+        path = os.path.join(custom_data_dir, "data", "subsets")
+    else:
+        path = os.path.join(ROOT_DIR, "drbench", "data", "subsets")
     return glob.glob(os.path.join(path, "*.jsonl"))
 
 
 # Convenience accessors
 def get_data_path(data_name) -> str:
-    """Get path to a data resource"""
+    """Get path to a data resource
+
+    Checks for DRBENCH_DATA_DIR environment variable to allow
+    loading data from a custom location. If not set, uses the
+    default package installation directory.
+    """
     # make it path
     if isinstance(data_name, str):
         data_name = Path(data_name)
 
-    path = Path(ROOT_DIR) / data_name
+    # Check for custom data directory
+    custom_data_dir = os.environ.get('DRBENCH_DATA_DIR')
+    if custom_data_dir:
+        path = Path(custom_data_dir) / data_name
+    else:
+        path = Path(ROOT_DIR) / data_name
+
     if not path.exists():
         warnings.warn(f"Data directory not found at {path}")
 
