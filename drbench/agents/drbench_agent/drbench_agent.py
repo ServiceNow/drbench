@@ -914,26 +914,27 @@ class DrBenchAgent(BaseAgent):
         success = result.get("success", False)
         data_retrieved = result.get("data_retrieved", False)
 
-        if success and self.verbose:
-            status_msg = f"✅ Completed: {action.description} ({tool_name})"
+        if success:
+            if self.verbose:
+                status_msg = f"✅ Completed: {action.description} ({tool_name})"
 
-            # Add details about what was retrieved
-            details = []
-            if data_retrieved:
-                details.append("📊 Data retrieved")
-            if processed_files:
-                details.append(f"📁 {len(processed_files)} files processed")
-            if result.get("stored_in_vector") or result.get("content_stored_in_vector", 0) > 0:
-                details.append("🗄️ Content stored in vector store")
-            if result.get("documents_found", 0) > 0:
-                details.append(f"📄 {result['documents_found']} documents found")
-            if result.get("urls_processed", 0) > 0:
-                details.append(f"🌐 {result['urls_processed']} URLs processed")
+                # Add details about what was retrieved
+                details = []
+                if data_retrieved:
+                    details.append("📊 Data retrieved")
+                if processed_files:
+                    details.append(f"📁 {len(processed_files)} files processed")
+                if result.get("stored_in_vector") or result.get("content_stored_in_vector", 0) > 0:
+                    details.append("🗄️ Content stored in vector store")
+                if result.get("documents_found", 0) > 0:
+                    details.append(f"📄 {result['documents_found']} documents found")
+                if result.get("urls_processed", 0) > 0:
+                    details.append(f"🌐 {result['urls_processed']} URLs processed")
 
-            if details:
-                status_msg += f" - {', '.join(details)}"
+                if details:
+                    status_msg += f" - {', '.join(details)}"
 
-            logger.info(status_msg)
+                logger.info(status_msg)
         else:
             error_msg = result.get("error", "Unknown error")
             logger.error(f"❌ Failed: {action.description} ({tool_name}) - {error_msg}")
