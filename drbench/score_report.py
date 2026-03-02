@@ -144,7 +144,7 @@ def score_report(
         if verbose:
             print(f"Computing {metric_name}...")
 
-        metric = get_metric(metric_name)
+        metric = get_metric(metric_name, model=model)
         metric_result = metric.compute(
             report_dict=predicted_report_dict,
             task_data=task_config,
@@ -220,7 +220,7 @@ def score_report(
                         insight_text,
                         citations,
                         file_list=env_files,
-                        model="gpt-4o-mini",
+                        model=model,
                     )
                     is_factual = factuality_result["is_factual"]
                     justification = factuality_result["explanation"]
@@ -252,7 +252,7 @@ def score_report(
 
                 # Get factuality verdict
                 factuality_result = get_factuality_verdict_multi(
-                    insight_text, citations, file_list=env_files, model="gpt-4o-mini"
+                    insight_text, citations, file_list=env_files, model=model
                 )
 
                 per_insight_scores.append(
@@ -306,7 +306,7 @@ def score_report(
                     if verbose and attempt > 0:
                         print(f"Retrying recall matching (attempt {attempt + 1}/{max_retries})...")
 
-                    recall_response = prompt_llm(recall_matching_prompt, "gpt-4o-mini", temperature=0)
+                    recall_response = prompt_llm(recall_matching_prompt, model, temperature=0)
 
                     # Extract JSON from response using regex to handle various formats
                     response_text = recall_response.strip()

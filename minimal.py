@@ -3,6 +3,13 @@ import warnings
 
 warnings.filterwarnings("ignore")
 
+import logging
+
+logging.basicConfig(level=logging.INFO)
+
+# Disable logging for specific libraries
+logging.getLogger("openai").setLevel(logging.WARNING)
+logging.getLogger("httpx").setLevel(logging.WARNING)
 
 from drbench import drbench_enterprise_space, task_loader
 from drbench.agents.drbench_agent.drbench_agent import DrBenchAgent
@@ -24,7 +31,11 @@ if __name__ == "__main__":
 
     # (3) Generate Report with Your Own Agent
     # ----------------------
-    dr_agent = DrBenchAgent(model="gpt-4o-mini", max_iterations=5)
+    dr_agent = DrBenchAgent(
+        model="openrouter/openai/gpt-4o-mini",
+        max_iterations=5,
+        embedding_model="openrouter/openai/text-embedding-ada-002",
+    )
 
     report = dr_agent.generate_report(
         query=task.get_task_config()["dr_question"],
@@ -38,6 +49,7 @@ if __name__ == "__main__":
         task=task,
         metrics=["insights_recall", "factuality"],
         savedir="results/minimal",
+        model="openrouter/openai/gpt-4o-mini",
     )
     print("Insights Recall: ", score_dict["insights_recall"])
     print("Factuality: ", score_dict["factuality"])
