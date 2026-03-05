@@ -15,7 +15,12 @@ logger = logging.getLogger(__name__)
 
 def get_embeddings(texts: List[str], model: str = "text-embedding-ada-002") -> List[List[float]]:
     """
-    OpenAI embedding function to convert texts into vectors.
+    Generate embeddings for texts using OpenAI-compatible APIs or local SentenceTransformer models.
+
+    Supports:
+        - OpenAI models (e.g. "text-embedding-ada-002") via OPENAI_API_KEY
+        - OpenRouter models (e.g. "openrouter/openai/text-embedding-ada-002") via OPENROUTER_API_KEY
+        - Local SentenceTransformer models (e.g. "all-MiniLM-L6-v2")
 
     Args:
         texts: List of texts to embed
@@ -24,21 +29,67 @@ def get_embeddings(texts: List[str], model: str = "text-embedding-ada-002") -> L
     Returns:
         List of embedding vectors
     """
+    # Route based on model prefix
+    if model.startswith("openrouter/"):
+        return _get_embeddings_openrouter(texts, model)
+    elif "/" not in model and not model.startswith("text-embedding"):
+        # Assume local SentenceTransformer model (e.g. "all-MiniLM-L6-v2")
+        return _get_embeddings_local(texts, model)
+    else:
+        # Default: OpenAI API
+        return _get_embeddings_openai(texts, model)
+
+
+def _get_embeddings_openai(texts: List[str], model: str) -> List[List[float]]:
+    """Get embeddings via the OpenAI API."""
     try:
         from openai import OpenAI
 
-        # Initialize OpenAI client (uses OPENAI_API_KEY from env by default)
         client = OpenAI()
-
-        # Get embeddings
         response = client.embeddings.create(input=texts, model=model)
-
         return [item.embedding for item in response.data]
-
     except ImportError:
         raise ImportError("OpenAI library not installed. Run: pip install openai")
     except Exception as e:
         raise Exception(f"OpenAI embedding error: {e}")
+
+
+def _get_embeddings_openrouter(texts: List[str], model: str) -> List[List[float]]:
+    """Get embeddings via OpenRouter using the OpenAI-compatible API."""
+    try:
+        from openai import OpenAI
+
+        api_key = os.environ.get("OPENROUTER_API_KEY")
+        base_url = os.environ.get("OPENROUTER_API_URL", "https://openrouter.ai/api/v1")
+        if not api_key:
+            raise ValueError("OPENROUTER_API_KEY environment variable is not set")
+
+        # Strip the "openrouter/" prefix to get the actual model ID
+        actual_model = model[len("openrouter/"):]
+
+        client = OpenAI(api_key=api_key, base_url=base_url)
+        response = client.embeddings.create(input=texts, model=actual_model)
+        return [item.embedding for item in response.data]
+    except ImportError:
+        raise ImportError("OpenAI library not installed. Run: pip install openai")
+    except Exception as e:
+        raise Exception(f"OpenRouter embedding error: {e}")
+
+
+def _get_embeddings_local(texts: List[str], model: str) -> List[List[float]]:
+    """Get embeddings using a local SentenceTransformer model."""
+    try:
+        from sentence_transformers import SentenceTransformer
+
+        st_model = SentenceTransformer(model)
+        embeddings = st_model.encode(texts)
+        return [emb.tolist() for emb in embeddings]
+    except ImportError:
+        raise ImportError(
+            "sentence-transformers not installed. Run: pip install sentence-transformers"
+        )
+    except Exception as e:
+        raise Exception(f"SentenceTransformer embedding error: {e}")
 
 
 class VectorStore:

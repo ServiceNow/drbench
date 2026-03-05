@@ -52,7 +52,9 @@ class AIAgentManager:
         temperature: float = 0.7,
         with_linebreak: bool = False,
     ):
-        if model in SERVICE_TO_MODELS["vllm"]:
+        if model.startswith("openrouter/"):
+            self.service = "openrouter"
+        elif model in SERVICE_TO_MODELS["vllm"]:
             self.service = "vllm"
         elif model in SERVICE_TO_MODELS["together"]:
             self.service = "together"
@@ -71,7 +73,10 @@ class AIAgentManager:
 
     def get_api_key_from_env(self, api_key, api_url):
         """Get the API key from the environment"""
-        if self.service == "vllm":
+        if self.service == "openrouter":
+            self.api_key = api_key or config.OPENROUTER_API_KEY
+            self.api_url = api_url or getattr(config, "OPENROUTER_API_URL", "https://openrouter.ai/api/v1")
+        elif self.service == "vllm":
             self.api_url = api_url or config.VLLM_API_URL
             self.api_key = api_key or config.VLLM_API_KEY
         elif self.service == "together":
@@ -83,7 +88,11 @@ class AIAgentManager:
         if not self.api_key:
             raise ValueError("No API key provided. Please provide a valid API key.")
 
-        if self.service == "vllm":
+        if self.service == "openrouter":
+            self.client = OpenAI(base_url=self.api_url, api_key=self.api_key)
+            # Store the actual model name without the openrouter/ prefix
+            self.actual_model = self.model[len("openrouter/"):]
+        elif self.service == "vllm":
             if not self.api_url:
                 raise ValueError("No API URL provided. Please provide a valid API URL.")
             self.client = OpenAI(base_url=f"{self.api_url}/v1", api_key=self.api_key)
@@ -128,7 +137,9 @@ class AIAgentManager:
         if not self.client:
             raise ValueError("Client not initialized. Please provide a valid API key.")
 
-        if self.model not in AVAILABLE_MODELS:
+        if self.service == "openrouter":
+            model = self.actual_model
+        elif self.model not in AVAILABLE_MODELS:
             print(
                 f"Warning: Model {self.model} not in available models list. Using default."
             )
