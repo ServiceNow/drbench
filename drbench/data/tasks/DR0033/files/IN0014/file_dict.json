@@ -1,0 +1,82 @@
+{
+    "file_name": "cybersecurity-training-program",
+    "file_title": "Cybersecurity Training & Awareness Program",
+    "introduction": "As we expand our operations and digital footprint, it's critical to enhance our cybersecurity posture. This presentation aims to outline a comprehensive cybersecurity awareness and training program to mitigate risks associated with high employee turnover and seasonal hiring.",
+    "subsections": [
+        {
+            "heading": "Understanding Our Security Landscape",
+            "content": "\u2022 Our seasonal workforce displays a significantly lower turnover rate of 19% when provided with cybersecurity training, compared to 41% for untrained staff.\n\u2022 Trained seasonal staff resulted in 65% fewer security errors or reported incidents, demonstrating the efficacy of our training programs.\n\u2022 The correlation between cybersecurity training and lower turnover suggests an increased sense of job competency and security.\n\u2022 A substantial reduction in security incidents among trained staff underscores the importance of extending cybersecurity awareness to all employees, irrespective of contract length.\n\u2022 By reducing security errors, we can minimize operational disruptions and maintain the integrity of our customer and operational data.\n\u2022 Our training program's success with seasonal staff highlights the need for continuous investment in cybersecurity awareness as part of our broader growth strategy in the U.S. and Canada.\n\u2022 Addressing the training needs of temporary hires can help us maintain a robust security posture during peak hiring periods, mitigating potential risk exposure.",
+            "type": "insight",
+            "justification": "The content directly addresses the DR Question, demonstrating the impact of cybersecurity training on turnover and incident rates, and its relevance to our growth strategy."
+        },
+        {
+            "heading": "Mitigating Risks Through Employee Training",
+            "content": "\u2022 All new employees at Lee's Market undergo a basic cybersecurity awareness training as part of their onboarding process\n\u2022 In 2024, we held quarterly cybersecurity refresher courses for all employees\n\u2022 We are investing in advanced cybersecurity training for our IT and Security teams\n\u2022 Our training modules cover security best practices, like setting strong passwords and recognizing suspicious emails\n\u2022 In 2024, we launched a successful 'Security Champion' program where selected employees received advanced training and were responsible for promoting cybersecurity awareness in their respective departments\n\u2022 We use gamified training modules to engage our employees in cybersecurity training.",
+            "type": "distractor",
+            "justification": "The slide discusses employee training in general but does not detail a strategic plan to mitigate security risks due to high employee turnover and seasonal hiring, hence it does not answer the DR question. The distractor strategy used here is discussing related but non-essential activities."
+        },
+        {
+            "heading": "Creating a Culture of Cybersecurity Awareness",
+            "content": "\u2022 We hold annual 'Cybersecurity Week' events, aimed at increasing awareness among our employees\n\u2022 Cybersecurity posters and reminders are placed strategically in every office and store\n\u2022 We have a 'cybersecurity tip of the month' included in our corporate newsletter\n\u2022 Employees are encouraged to report any security concerns immediately to the IT & Security department\n\u2022 We regularly share news and updates on major cybersecurity incidents in the retail industry to keep our employees informed\n\u2022 Our cybersecurity policies are reviewed and updated annually to keep up with the evolving threat landscape.",
+            "type": "distractor",
+            "justification": "While this slide discusses creating a culture of cybersecurity awareness, it does not provide a targeted plan for the DR question. The distractor strategy used here is discussing processes and activities that are related but not directly beneficial."
+        }
+    ],
+    "conclusion": "By implementing a robust training program and fostering a culture of cybersecurity awareness, we can significantly reduce the potential for security incidents. We'll be working closely with HR and Operations to roll out these initiatives and monitor their effectiveness.",
+    "file_format": "pptx",
+    "file_path": ".llm_responses/generated_pptx_presentation.pptx",
+    "qa_type": "insight",
+    "timestamp": "2025-11-19 10:42",
+    "image_queries": [
+        {
+            "slide_title": "Introduction",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "intentionally_clean",
+            "slide_type": "introduction"
+        },
+        {
+            "slide_title": "Understanding Our Security Landscape",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "insight",
+            "content_length": 7,
+            "total_chars": 1073,
+            "probability": 0.25,
+            "theme": "Corporate Blue"
+        },
+        {
+            "slide_title": "Mitigating Risks Through Employee Training",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "failed",
+            "slide_type": "distractor",
+            "content_length": 6,
+            "total_chars": 677,
+            "error": "'str' object has no attribute 'choices'",
+            "theme": "Corporate Blue"
+        },
+        {
+            "slide_title": "Creating a Culture of Cybersecurity Awareness",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 6,
+            "total_chars": 587,
+            "probability": 0.25,
+            "theme": "Corporate Blue"
+        },
+        {
+            "slide_title": "Conclusion",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "conclusion_failed",
+            "slide_type": "conclusion",
+            "error": "'str' object has no attribute 'choices'",
+            "theme": "Corporate Blue"
+        }
+    ],
+    "app": "file_system"
+}

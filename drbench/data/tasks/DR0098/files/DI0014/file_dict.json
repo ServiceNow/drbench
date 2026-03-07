@@ -1,0 +1,81 @@
+{
+    "file_name": "lease-renegotiation-impact",
+    "file_title": "Lease Renegotiation Impact Analysis",
+    "introduction": "This presentation outlines the financial implications of our recently renegotiated leases. We will delve into our cost-saving measures and their impact on our bottom line.",
+    "subsections": [
+        {
+            "heading": "Context: Retail Industry Lease Trends",
+            "content": "\u2022 Overall, the retail industry saw a 3% decrease in lease costs in 2025\n\u2022 In Richmond, lease costs remained stable due to economic growth\n\u2022 Q1 2025 marked an increase in lease renegotiations across the retail sector\n\u2022 E-commerce growth has influenced changes in lease agreements\n\u2022 More retailers are exploring short-term leases to increase flexibility\n\u2022 Some retailers have negotiated for percentage rent leases, where rent is based on store sales",
+            "type": "distractor",
+            "justification": "This slide discusses general industry trends and regional data, but does not directly address Lee's Market's specific lease renegotiations."
+        },
+        {
+            "heading": "Impact of Lease Renegotiations on Lee's Market",
+            "content": "\u2022 The renegotiations impacted twelve store locations\n\u2022 Lease renegotiations led to changes in store operating hours\n\u2022 The lease renegotiations were managed by the company's legal and finance departments\n\u2022 The renegotiations allowed for more flexible terms in the face of volatile market conditions\n\u2022 The company's ability to renegotiate leases was influenced by its strong market presence and store performance",
+            "type": "distractor",
+            "justification": "This slide focuses on the impact and related aspects of lease renegotiations, not on the specific rent reduction rates."
+        },
+        {
+            "heading": "Future Lease Management Strategies",
+            "content": "\u2022 Lee's Market plans to evaluate lease agreements on an annual basis\n\u2022 The company is considering incorporating more percentage rent leases in the future\n\u2022 Lee's Market is exploring opportunities for further lease renegotiations\n\u2022 Future lease management will focus on flexible terms to adapt to market changes\n\u2022 The company will prioritize locations with high sales performance for future lease negotiations",
+            "type": "distractor",
+            "justification": "The slide discusses future strategies, which do not provide any information about the average rent reduction from past renegotiations."
+        }
+    ],
+    "conclusion": "Our strategic lease renegotiations have yielded considerable rent reductions across our locations. Moving forward, we need to continuously review and manage our lease agreements to maximize savings.",
+    "file_format": "pptx",
+    "file_path": ".llm_responses/generated_pptx_presentation.pptx",
+    "qa_type": "distractor",
+    "timestamp": "2025-11-21 13:08",
+    "image_queries": [
+        {
+            "slide_title": "Introduction",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "intentionally_clean",
+            "slide_type": "introduction"
+        },
+        {
+            "slide_title": "Context: Retail Industry Lease Trends",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 6,
+            "total_chars": 430,
+            "probability": 0.25,
+            "theme": "Executive Purple"
+        },
+        {
+            "slide_title": "Impact of Lease Renegotiations on Lee's Market",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 5,
+            "total_chars": 396,
+            "probability": 0.25,
+            "theme": "Executive Purple"
+        },
+        {
+            "slide_title": "Future Lease Management Strategies",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "failed",
+            "slide_type": "distractor",
+            "content_length": 5,
+            "total_chars": 394,
+            "error": "'str' object has no attribute 'choices'",
+            "theme": "Executive Purple"
+        },
+        {
+            "slide_title": "Conclusion",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "strategic_clean_conclusion",
+            "slide_type": "conclusion",
+            "theme": "Executive Purple"
+        }
+    ],
+    "app": "file_system"
+}

@@ -1,0 +1,28 @@
+{
+    "company_info": {
+        "name": "Lee's Market (Richmond, British Columbia, Canada, $500M - $600M, 5000 employees)",
+        "industry": "Retail",
+        "description": "A company in the Retail industry",
+        "size": "medium",
+        "employee_count": "100-500",
+        "annual_revenue": "Not specified"
+    },
+    "persona": {
+        "name": "Grace Kim",
+        "first_name": "Grace",
+        "last_name": "Kim",
+        "username": "grace.kim",
+        "email": "grace.kim@leesmarket.com",
+        "role": "VP of Sales and Marketing",
+        "role_description": "Develops company-wide sales strategy and revenue targets, leads marketing initiatives, and drives expansion into new markets and customer segments"
+    },
+    "url": {
+        "url": "https://competition-bureau.canada.ca/en/how-we-foster-competition/education-and-outreach/canada-needs-more-grocery-competition",
+        "domain": "Sales",
+        "industry": "retail",
+        "example_dr_questions": [],
+        "insights": [],
+        "date": "2025-11-21"
+    },
+    "timestamp": "2025-10-24 00:00"
+}

@@ -1,0 +1,169 @@
+================================================================================
+ROUNDCUBE EMAIL EXPORT
+================================================================================
+
+USERS:
+----------------------------------------
+• jason.wong
+  Name: Jason Wong
+  Email: jason.wong@leesmarket.com
+
+• lisa.chang
+  Name: Lisa Chang
+  Email: lisa.chang@leesmarket.com
+
+• michael.kim
+  Name: Michael Kim
+  Email: michael.kim@leesmarket.com
+
+• susan.lee
+  Name: Susan Lee
+  Email: susan.lee@leesmarket.com
+
+• kevin.chan
+  Name: Kevin Chan
+  Email: kevin.chan@leesmarket.com
+
+• sarah.wang
+  Name: Sarah Wang
+  Email: sarah.wang@leesmarket.com
+
+• tom.park
+  Name: Tom Park
+  Email: tom.park@leesmarket.com
+
+EMAILS:
+================================================================================
+Email ID: email_001
+Date: 2025-01-01 08:00:00
+From: Jason Wong <jason.wong@leesmarket.com>
+To: lisa.chang@leesmarket.com, michael.kim@leesmarket.com, susan.lee@leesmarket.com, kevin.chan@leesmarket.com, sarah.wang@leesmarket.com, tom.park@leesmarket.com
+Subject: Weekly IT Maintenance Schedule
+Folder: sent | Status: Read
+
+Message Body:
+----------------------------------------
+Dear team,
+
+The weekly IT maintenance is scheduled for this Friday evening. Please ensure all your systems are properly saved and shut down before you leave.
+
+Thanks,
+Jason
+============================================================
+
+Email ID: email_002
+Date: 2025-01-02 10:30:00
+From: Michael Kim <michael.kim@leesmarket.com>
+To: jason.wong@leesmarket.com
+Subject: Inventory System Update
+Folder: sent | Status: Read
+
+Message Body:
+----------------------------------------
+Hi Jason,
+
+We've noticed a slight delay in the inventory system's response time. Could your team have a look at it?
+
+Best,
+Michael
+============================================================
+
+Email ID: email_003
+Date: 2025-01-03 14:45:00
+From: Susan Lee <susan.lee@leesmarket.com>
+To: jason.wong@leesmarket.com
+CC: lisa.chang@leesmarket.com, tom.park@leesmarket.com
+Subject: New POS System Training
+Folder: sent | Status: Read
+
+Message Body:
+----------------------------------------
+Hi Jason,
+
+We've received the new POS systems at our store. Can we arrange a training session for our staff next week?
+
+Thanks,
+Susan
+============================================================
+
+Email ID: email_004
+Date: 2025-01-04 09:15:00
+From: Kevin Chan <kevin.chan@leesmarket.com>
+To: jason.wong@leesmarket.com
+CC: lisa.chang@leesmarket.com, tom.park@leesmarket.com
+Subject: Website Downtime
+Folder: sent | Status: Read
+
+Message Body:
+----------------------------------------
+Hi Jason,
+
+We've received a few customer complaints about our website being down this morning. Could you please check what's going on?
+
+Regards,
+Kevin
+============================================================
+
+Email ID: email_001
+Date: 2025-05-20 10:30:00
+From: Jason Wong <jason.wong@leesmarket.com>
+To: michael.kim@leesmarket.com, kevin.chan@leesmarket.com, sarah.wang@leesmarket.com
+CC: lisa.chang@leesmarket.com, susan.lee@leesmarket.com, tom.park@leesmarket.com
+Subject: POS Troubleshooting Workshop - June 9, 2025
+Folder: sent | Status: Read
+
+Message Body:
+----------------------------------------
+Dear Assistant Managers,
+
+I'm writing to inform you about the upcoming workshop on POS error codes and basic fixes. The half-day workshop will be held on June 9, 2025. This training session is crucial to help you handle common POS issues and provide a smooth checkout experience for our customers.
+
+Best Regards,
+Jason Wong
+Information Security Manager
+Lee's Market
+============================================================
+
+Email ID: email_002
+Date: 2025-05-21 09:20:00
+From: Kevin Chan <kevin.chan@leesmarket.com>
+To: jason.wong@leesmarket.com
+CC: michael.kim@leesmarket.com, sarah.wang@leesmarket.com, lisa.chang@leesmarket.com, susan.lee@leesmarket.com, tom.park@leesmarket.com
+Subject: Re: POS Troubleshooting Workshop - June 9, 2025
+Folder: inbox | Status: Read
+
+Message Body:
+----------------------------------------
+Hi Jason,
+
+Thanks for arranging this workshop. It will certainly help us in managing POS issues more effectively.
+
+Best,
+Kevin Chan
+Assistant Manager
+Lee's Market
+============================================================
+
+Email ID: email_003
+Date: 2025-05-21 10:00:00
+From: Jason Wong <jason.wong@leesmarket.com>
+To: kevin.chan@leesmarket.com
+CC: michael.kim@leesmarket.com, sarah.wang@leesmarket.com, lisa.chang@leesmarket.com, susan.lee@leesmarket.com, tom.park@leesmarket.com
+Subject: Re: POS Troubleshooting Workshop - June 9, 2025
+Folder: sent | Status: Read
+
+Message Body:
+----------------------------------------
+Hi Kevin,
+
+I'm glad you see the value in the workshop. Ensuring our staff is well equipped to handle POS issues is a key part of our cybersecurity strategy. I look forward to your participation.
+
+Best,
+Jason Wong
+Information Security Manager
+Lee's Market
+============================================================
+
+================================================================================
+END OF EMAIL EXPORT
+================================================================================

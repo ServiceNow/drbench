@@ -1,0 +1,11 @@
+company_name,industry,survey_date,challenge_identified,percentage
+The name of the company where the survey was conducted.,The industry in which the company operates.,The date when the survey was conducted.,The most challenging part of the sales process as identified by the salespeople.,The percentage of salespeople who identified this part of the sales process as the most challenging.
+Foodie Heaven,Food & Beverage,2023-11-12,Building Relationships,0.45
+MediConn Solutions,Healthcare,2022-03-01,Closing Deals,0.45
+MediConn Solutions,Healthcare,2024-03-01,Negotiating,0.55
+Swift Logistics,Transportation,2024-09-20,Negotiating,0.5
+AutoMoto Corp,Automotive,2024-06-15,Lead Generation,0.55
+MediConn Solutions,Healthcare,2025-03-01,Prospecting,0.6
+TechBots Inc,Technology,2023-05-10,Closing Deals,0.4
+MediConn Solutions,Healthcare,2023-03-01,Lead Generation,0.5
+EduSphere,Education,2022-08-18,Upselling,0.35

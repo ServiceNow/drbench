@@ -1,0 +1,10 @@
+{
+    "insight_id": "IN0001",
+    "qa_type": "insight",
+    "qa_index": 1,
+    "specific_question": "What was MediConn Solutions' average wait time for patients to secure a virtual consultation appointment in Q4 2024?",
+    "answer": "In Q4 2024, MediConn Solutions' average wait time for virtual consultation appointments was 3.5 days. This represented a 40% increase from the 2.5-day average recorded in Q1 2024. Peak demand periods during flu season in November and December 2024 saw wait times spike to 5-7 days.",
+    "justification": "",
+    "timestamp": "2025-11-19 23:46",
+    "dr_question": "The article published on TechTarget in January 2024 cited the MGMA's findings, showing that patient communication technology addresses digital front door issues like poor booking systems. How might MediConn Solutions enhance patient access to virtual consultations and prescription management services in Q1 2026 to reduce wait times and boost satisfaction and retention?"
+}

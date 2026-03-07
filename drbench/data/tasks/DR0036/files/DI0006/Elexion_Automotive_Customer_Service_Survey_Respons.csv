@@ -1,0 +1,13 @@
+Month,Active_Customers,Responded_Customers,Response_Rate
+This column represents the specific month for which the response rate data is being represented.,This column represents the total number of active customers in the given month.,This column represents the number of active customers who responded to the customer service surveys in the given month.,This column represents the response rate to the customer service surveys by the active customers in the given month.
+2022-05,10500,3150,0.3
+2021-09,8500,2550,0.3
+2021-10,9000,2700,0.3
+2021-08,8000,2400,0.3
+2022-02,9000,2700,0.3
+2022-06,10000,4000,0.4
+2021-07,7500,2250,0.3
+2022-03,9500,2850,0.3
+2021-06,7000,2100,0.3
+2022-04,10000,3000,0.3
+2022-01,8000,2400,0.3

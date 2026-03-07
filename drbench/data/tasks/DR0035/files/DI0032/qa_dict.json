@@ -1,0 +1,10 @@
+{
+    "insight_id": "DI0032",
+    "qa_type": "distractor",
+    "qa_index": 32,
+    "specific_question": "How did Jason Wong respond to the simulated password-sharing incident in March 2025?",
+    "answer": "In March 2025, Jason Wong coordinated with the IT help desk and quickly contained a simulated incident in which employees shared passwords, reducing the average response time to resolve policy violations to under 25 minutes.",
+    "justification": "",
+    "timestamp": "2025-12-02 14:56",
+    "dr_question": "Between Q1 2025 and Q4 2025, how can the adoption of managed security service providers (MSSPs) be leveraged by Jason Wong to address Lee's Market's internal cybersecurity resource constraints, and what measurable improvement in threat management, compliance, and customer trust can be achieved compared to maintaining traditional in-house approaches?"
+}

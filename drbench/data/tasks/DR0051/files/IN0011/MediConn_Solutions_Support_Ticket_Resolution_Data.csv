@@ -1,0 +1,14 @@
+Quarter,Team_Lead,Average_Resolution_Time,Patient_Satisfaction_Rating,Ticket_Category
+The quarter in which the support tickets were submitted.,The leader of the team to which the support tickets were submitted.,"The average time taken to resolve the support tickets, in hours.",The average patient satisfaction rating for the support ticket resolution.,"The category of the support tickets, e.g., booking-related."
+Q3 2024,Rachel,4.1,4.2,appointment-related
+Q4 2024,John,7.2,2.5,billing-related
+Q4 2024,Rachel,6.7,2.7,appointment-related
+Q2 2024,John,4.8,4.2,billing-related
+Q2 2024,Rachel,3.8,4.1,appointment-related
+Q1 2024,Rachel,3.9,4,booking-related
+Q1 2024,Rachel,3.7,4,appointment-related
+Q3 2024,Rachel,4.2,4.1,booking-related
+Q2 2024,Rachel,3.6,4.3,booking-related
+Q1 2024,John,5,4,billing-related
+Q4 2024,Rachel,6.8,2.8,booking-related
+Q3 2024,John,5.5,3.9,billing-related

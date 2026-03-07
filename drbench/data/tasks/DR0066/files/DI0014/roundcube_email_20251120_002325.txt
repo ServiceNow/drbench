@@ -1,0 +1,166 @@
+================================================================================
+ROUNDCUBE EMAIL EXPORT
+================================================================================
+
+USERS:
+----------------------------------------
+• amanda.lee
+  Name: Amanda Lee
+  Email: amanda.lee@elexionautomotive.com
+
+• john.doe
+  Name: John Doe
+  Email: john.doe@elexionautomotive.com
+
+• emily.jones
+  Name: Emily Jones
+  Email: emily.jones@elexionautomotive.com
+
+• michael.brown
+  Name: Michael Brown
+  Email: michael.brown@elexionautomotive.com
+
+• sarah.smith
+  Name: Sarah Smith
+  Email: sarah.smith@elexionautomotive.com
+
+• david.johnson
+  Name: David Johnson
+  Email: david.johnson@elexionautomotive.com
+
+• linda.williams
+  Name: Linda Williams
+  Email: linda.williams@elexionautomotive.com
+
+• robert.miller
+  Name: Robert Miller
+  Email: robert.miller@elexionautomotive.com
+
+EMAILS:
+================================================================================
+Email ID: email_001
+Date: 2022-03-01 08:00:00
+From: Amanda Lee <amanda.lee@elexionautomotive.com>
+To: john.doe@elexionautomotive.com, emily.jones@elexionautomotive.com, michael.brown@elexionautomotive.com
+Subject: Quarterly Sales Meeting
+Folder: inbox | Status: Read
+
+Message Body:
+----------------------------------------
+Dear team, Just a reminder about our Quarterly Sales Meeting scheduled for next Tuesday at 10 am. Please prepare your reports and updates. Regards, Amanda
+============================================================
+
+Email ID: email_002
+Date: 2022-03-02 14:30:00
+From: Sarah Smith <sarah.smith@elexionautomotive.com>
+To: amanda.lee@elexionautomotive.com
+Subject: New HR Policies
+Folder: inbox | Status: Read
+Attachments: 1 file(s)
+
+Message Body:
+----------------------------------------
+Hi Amanda, We've implemented some new HR policies that you might want to review. The document is attached. Regards, Sarah
+============================================================
+
+Email ID: email_003
+Date: 2022-03-03 15:45:00
+From: Linda Williams <linda.williams@elexionautomotive.com>
+To: amanda.lee@elexionautomotive.com
+Subject: Company Outing
+Folder: inbox | Status: Read
+
+Message Body:
+----------------------------------------
+Hello Amanda, We're planning a company outing for next month. Could you let us know if your team has any specific preferences? Best, Linda
+============================================================
+
+Email ID: email_004
+Date: 2022-03-04 09:15:00
+From: Robert Miller <robert.miller@elexionautomotive.com>
+To: amanda.lee@elexionautomotive.com
+Subject: Vehicle Design Feedback
+Folder: inbox | Status: Read
+Attachments: 1 file(s)
+
+Message Body:
+----------------------------------------
+Amanda, We've received some interesting feedback on the latest vehicle design. I've attached the summary document for your review. Regards, Robert
+============================================================
+
+Email ID: email_005
+Date: 2022-03-05 11:30:00
+From: David Johnson <david.johnson@elexionautomotive.com>
+To: amanda.lee@elexionautomotive.com
+Subject: Office Renovation Plan
+Folder: inbox | Status: Read
+Attachments: 1 file(s)
+
+Message Body:
+----------------------------------------
+Amanda, The office renovation plan has been finalized. Please find the attached blueprint and let us know if you have any concerns. Best, David
+============================================================
+
+Email ID: email_001
+Date: 2025-04-02 14:10:00
+From: Robert Miller <robert.miller@elexionautomotive.com>
+To: amanda.lee@elexionautomotive.com
+CC: sarah.smith@elexionautomotive.com, david.johnson@elexionautomotive.com
+Subject: Sales Report Q1 2025
+Folder: inbox | Status: Read
+
+Message Body:
+----------------------------------------
+Hello Amanda,
+
+I am pleased to share the sales report for the first quarter of 2025. As per the report, we sold a total of 4,000 vehicles and the average selling price was $48,750. This is indeed a positive trend compared to last year.
+
+I believe the CRM data could be instrumental in analyzing this trend further. Let's discuss this in our next meeting.
+
+Best,
+Robert
+============================================================
+
+Email ID: email_002
+Date: 2025-04-02 16:30:00
+From: Amanda Lee <amanda.lee@elexionautomotive.com>
+To: robert.miller@elexionautomotive.com
+CC: sarah.smith@elexionautomotive.com, david.johnson@elexionautomotive.com
+Subject: Re: Sales Report Q1 2025
+Folder: inbox | Status: Read
+
+Message Body:
+----------------------------------------
+Hi Robert,
+
+Thanks for sharing the report. The average selling price is indeed a positive trend. I agree that it would be beneficial to analyze the CRM data to understand the customer behavior behind it.
+
+Let's schedule a meeting for next week to discuss more in-depth.
+
+Best,
+Amanda
+============================================================
+
+Email ID: email_003
+Date: 2025-04-02 17:00:00
+From: David Johnson <david.johnson@elexionautomotive.com>
+To: amanda.lee@elexionautomotive.com, robert.miller@elexionautomotive.com
+CC: sarah.smith@elexionautomotive.com
+Subject: Re: Sales Report Q1 2025
+Folder: inbox | Status: Read
+
+Message Body:
+----------------------------------------
+Hi Amanda and Robert,
+
+I would like to join the discussion on the CRM data analysis. I believe we can use this data to also identify patterns that drive sales, which would be beneficial for our overall sales strategy.
+
+Let me know the meeting details.
+
+Best,
+David
+============================================================
+
+================================================================================
+END OF EMAIL EXPORT
+================================================================================

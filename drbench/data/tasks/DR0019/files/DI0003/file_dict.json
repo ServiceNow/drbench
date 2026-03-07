@@ -1,0 +1,81 @@
+{
+    "file_name": "customer-demographics-analysis",
+    "file_title": "Customer Demographics Trends Analysis - January 2025",
+    "introduction": "This presentation aims to provide a comprehensive analysis of our online customer demographic trends as reported by Sofia Patel in January 2025. The insights will be valuable in refining our marketing strategy and enhancing customer experience.",
+    "subsections": [
+        {
+            "heading": "Overview of Online Customer Demographics",
+            "content": "\u2022 Lee's Market has invested heavily in its online platform since 2020\n\u2022 In 2024, online sales accounted for 35% of total sales\n\u2022 Peak online sales typically occur during the holiday season\n\u2022 The most popular categories purchased online are fresh produce and pantry essentials\n\u2022 Online customers often use the 'Click and Collect' service to pick up their online orders\n\u2022 The online platform offers a multilingual interface to cater to diverse customers\n\u2022 Lee\u2019s Market has integrated AI technology to enhance personalized shopping experiences",
+            "type": "distractor",
+            "justification": "Discusses general online platform features and trends, not specific demographic information from Sofia Patel's January 2025 report."
+        },
+        {
+            "heading": "Key Findings from January 2025 Report",
+            "content": "\u2022 The report was compiled by the data analytics team over a period of three months\n\u2022 Methodologies used in the report included data mining, predictive modeling, and customer segmentation\n\u2022 The report covered various aspects of the business including in-store, online, and delivery services\n\u2022 The report identified the most and least profitable product categories\n\u2022 January 2025 saw an increase in online sales compared to January 2024\n\u2022 The report also highlighted areas of improvement in customer service and delivery efficiency\n\u2022 Sofia Patel recommended a series of A/B tests to optimize the online shopping experience",
+            "type": "distractor",
+            "justification": "All bullet points discuss procedural aspects of the report or general business findings, not Sofia Patel's specific demographic findings."
+        },
+        {
+            "heading": "Implications for Our Future Marketing Strategies",
+            "content": "\u2022 A greater focus on data-driven marketing is recommended\n\u2022 The report suggests leveraging social media platforms for marketing\n\u2022 The company is considering partnerships with influencers for product promotion\n\u2022 A shift towards more eco-friendly packaging could improve brand image\n\u2022 SEO optimization is a key focus area to enhance online visibility\n\u2022 Personalized email marketing campaigns have shown promising results\n\u2022 Customer loyalty programs are being reevaluated to increase customer retention rates",
+            "type": "distractor",
+            "justification": "These points discuss general marketing strategies and recommendations, not the specifics related to Sofia Patel's demographic findings."
+        }
+    ],
+    "conclusion": "The demographic analysis of our online customers reveals key insights into our customer base that can be leveraged for future marketing strategies. The next steps involve integrating these insights into our marketing decisions and tracking the impact on customer engagement and sales.",
+    "file_format": "pptx",
+    "file_path": ".llm_responses/generated_pptx_presentation.pptx",
+    "qa_type": "distractor",
+    "timestamp": "2025-11-24 16:03",
+    "image_queries": [
+        {
+            "slide_title": "Introduction",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "intentionally_clean",
+            "slide_type": "introduction"
+        },
+        {
+            "slide_title": "Overview of Online Customer Demographics",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "failed",
+            "slide_type": "distractor",
+            "content_length": 7,
+            "total_chars": 520,
+            "error": "'str' object has no attribute 'choices'",
+            "theme": "Professional Green"
+        },
+        {
+            "slide_title": "Key Findings from January 2025 Report",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 7,
+            "total_chars": 600,
+            "probability": 0.25,
+            "theme": "Professional Green"
+        },
+        {
+            "slide_title": "Implications for Our Future Marketing Strategies",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 7,
+            "total_chars": 485,
+            "probability": 0.25,
+            "theme": "Professional Green"
+        },
+        {
+            "slide_title": "Conclusion",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "strategic_clean_conclusion",
+            "slide_type": "conclusion",
+            "theme": "Professional Green"
+        }
+    ],
+    "app": "file_system"
+}

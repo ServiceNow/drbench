@@ -1,0 +1,13 @@
+year_month,total_scheduled_appointments,cancelled_appointments,percentage_cancelled,company
+The year and month the data is relevant to. This facilitates tracking and comparison of data across different time periods.,The total number of virtual mental health consultations that were scheduled for the specified month. This data is necessary for calculating the percentage of appointments cancelled by patients.,The number of virtual mental health consultations that were cancelled by the patient at least one day before the appointment for the specified month. This data is necessary for calculating the percentage of appointments cancelled by patients.,The percentage of scheduled virtual mental health consultations that were cancelled by the patient at least one day before the appointment for the specified month. This is calculated by dividing the 'cancelled_appointments' by 'total_scheduled_appointments' and multiplying by 100.,The name of the company to which the data belongs. This is important for distinguishing data from different companies or different divisions within the same company.
+2025-08,320,26,8,MediConn Solutions
+2025-02,260,21,8,MediConn Solutions
+2025-04,280,23,8,MediConn Solutions
+2025-06,300,24,8,MediConn Solutions
+2025-03,270,22,8,MediConn Solutions
+2025-05,290,23,8,MediConn Solutions
+2025-09,330,26,8,MediConn Solutions
+2025-11,350,28,8,MediConn Solutions
+2025-01,250,20,8,MediConn Solutions
+2025-10,340,27,8,MediConn Solutions
+2025-07,310,25,8,MediConn Solutions

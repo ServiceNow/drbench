@@ -1,0 +1,165 @@
+================================================================================
+ROUNDCUBE EMAIL EXPORT
+================================================================================
+
+USERS:
+----------------------------------------
+• kevin.wong
+  Name: Kevin Wong
+  Email: kevin.wong@leesmarket.com
+
+• amy.chen
+  Name: Amy Chen
+  Email: amy.chen@leesmarket.com
+
+• michael.lee
+  Name: Michael Lee
+  Email: michael.lee@leesmarket.com
+
+• jessica.liu
+  Name: Jessica Liu
+  Email: jessica.liu@leesmarket.com
+
+• david.kim
+  Name: David Kim
+  Email: david.kim@leesmarket.com
+
+• helen.park
+  Name: Helen Park
+  Email: helen.park@leesmarket.com
+
+• john.tan
+  Name: John Tan
+  Email: john.tan@leesmarket.com
+
+EMAILS:
+================================================================================
+Email ID: email_001
+Date: 2025-09-01 09:00:00
+From: Kevin Wong <kevin.wong@leesmarket.com>
+To: jessica.liu@leesmarket.com
+CC: amy.chen@leesmarket.com, michael.lee@leesmarket.com, david.kim@leesmarket.com, helen.park@leesmarket.com, john.tan@leesmarket.com
+Subject: High Volume of Service Desk Emails
+Folder: sent | Status: Read
+
+Message Body:
+----------------------------------------
+Team,
+
+I hope this email finds you well. I am reaching out because we have seen a high volume of service desk emails across our stores recently. I am currently looking into the cause of this increase and would appreciate your inputs.
+
+Best,
+Kevin
+============================================================
+
+Email ID: email_002
+Date: 2025-09-01 10:30:00
+From: Amy Chen <amy.chen@leesmarket.com>
+To: kevin.wong@leesmarket.com
+CC: jessica.liu@leesmarket.com, michael.lee@leesmarket.com, david.kim@leesmarket.com, helen.park@leesmarket.com, john.tan@leesmarket.com
+Subject: Re: High Volume of Service Desk Emails
+Folder: sent | Status: Read
+
+Message Body:
+----------------------------------------
+Kevin and Team,
+
+I've noticed a surge in customer complaints related to our online payment system, especially with PayPal. Based on our internal tracking, PayPal transactions failed 1,275 times in August due to intermittent API connection issues. This primarily affected our urban U.S. stores. We’re investigating this on our end, but it could be contributing to the increase in service desk emails.
+
+Best,
+Amy
+============================================================
+
+Email ID: email_003
+Date: 2025-09-01 11:00:00
+From: Kevin Wong <kevin.wong@leesmarket.com>
+To: amy.chen@leesmarket.com
+CC: jessica.liu@leesmarket.com, michael.lee@leesmarket.com, david.kim@leesmarket.com, helen.park@leesmarket.com, john.tan@leesmarket.com
+Subject: Re: High Volume of Service Desk Emails
+Folder: sent | Status: Read
+
+Message Body:
+----------------------------------------
+Amy and Team,
+
+Thanks for the quick response, Amy. That certainly could be contributing to the increased volume of service desk emails. Let's prioritize resolving these PayPal API issues and monitor the volume of service desk emails thereafter. I believe by improving this, we could reduce the number of service desk emails by Q2 2026.
+
+Best,
+Kevin
+============================================================
+
+Email ID: email_001
+Date: 2026-01-05 09:10:00
+From: Kevin Wong <kevin.wong@leesmarket.com>
+To: michael.lee@leesmarket.com
+CC: david.kim@leesmarket.com, john.tan@leesmarket.com
+Subject: New POS System Installation Update
+Folder: sent | Status: Read
+
+Message Body:
+----------------------------------------
+Dear Michael,
+
+I am writing to update you about the installation of the new POS system across all our stores. We have successfully completed the installations in 60% of our stores as of last week. The remaining installations are scheduled for completion by the end of this month.
+
+Best,
+Kevin
+============================================================
+
+Email ID: email_002
+Date: 2026-01-09 14:25:00
+From: Amy Chen <amy.chen@leesmarket.com>
+To: kevin.wong@leesmarket.com
+Subject: E-commerce Platform Update
+Folder: inbox | Status: Read
+
+Message Body:
+----------------------------------------
+Hi Kevin,
+
+Just wanted to let you know that the latest update to our e-commerce platform was successfully deployed last night. The new features and improvements are now live and functioning as expected.
+
+Best,
+Amy
+============================================================
+
+Email ID: email_003
+Date: 2026-01-10 08:30:00
+From: Jessica Liu <jessica.liu@leesmarket.com>
+To: kevin.wong@leesmarket.com, amy.chen@leesmarket.com, michael.lee@leesmarket.com, david.kim@leesmarket.com, helen.park@leesmarket.com, john.tan@leesmarket.com
+Subject: Weekly Team Meeting Agenda
+Folder: inbox | Status: Read
+Attachments: 1 file(s)
+
+Message Body:
+----------------------------------------
+Dear Team,
+
+I hope this email finds you well. Please find the agenda for our weekly team meeting attached. The meeting is scheduled for tomorrow at 10:00 am in the main conference room.
+
+Best,
+Jessica
+============================================================
+
+Email ID: email_004
+Date: 2026-01-11 17:45:00
+From: Helen Park <helen.park@leesmarket.com>
+To: kevin.wong@leesmarket.com
+CC: amy.chen@leesmarket.com
+Subject: QA Report for December
+Folder: inbox | Status: Read
+Attachments: 1 file(s)
+
+Message Body:
+----------------------------------------
+Hi Kevin,
+
+Please find attached the QA report for December. We had a successful month with all targets being met. Do let me know if you have any questions or need further information.
+
+Best,
+Helen
+============================================================
+
+================================================================================
+END OF EMAIL EXPORT
+================================================================================

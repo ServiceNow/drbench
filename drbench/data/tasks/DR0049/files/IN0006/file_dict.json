@@ -1,0 +1,81 @@
+{
+    "file_name": "patient-appointment-enhancement",
+    "file_title": "Enhancing Patient Appointment Experience",
+    "introduction": "As we strive to make our virtual healthcare services more accessible, we need to address some barriers identified in the recent 2022 patient experience report. This presentation will explore potential areas for improvement in our online booking system and customer support processes.",
+    "subsections": [
+        {
+            "heading": "Overview of Current Appointment Booking System",
+            "content": "\u2022 In Q4 2024, our customer satisfaction scores for support interactions averaged 3.2 out of 5, reflecting areas for improvement.\n\u2022 A reported 58% of negative reviews pointed to delays in reaching a representative as a primary concern.\n\u2022 This delay in customer support interaction could be contributing to current barriers in booking appointments.\n\u2022 Current bottlenecks in customer support may indicate an over-reliance on our call centers.\n\u2022 These findings suggest that our customer support process may need streamlining to improve accessibility.\n\u2022 Addressing these issues may better position us to meet patient needs and improve our overall patient experience.\n\u2022 Strategically, these insights could guide efforts to enhance our digital platform and customer support process.",
+            "type": "insight",
+            "justification": "The content presents the Q4 2024 CSAT scores and key customer complaints, providing context to identify issues in the appointment booking system."
+        },
+        {
+            "heading": "Assessment of Customer Support Interactions",
+            "content": "\u2022 The customer support team comprises 50 full-time employees\n\u2022 We offer support via phone, email, and live chat\n\u2022 The average response time for customer queries is 15 minutes\n\u2022 Our team resolved over 90% of the reported issues within 24 hours in 2021\n\u2022 We have implemented a system to escalate complex issues to senior support staff\n\u2022 The team participates in quarterly training to improve their product knowledge and communication skills",
+            "type": "distractor",
+            "justification": "This slide focuses on customer support team composition and performance metrics, not on the complexity of their processes."
+        },
+        {
+            "heading": "Root Cause Analysis: Booking Challenges",
+            "content": "\u2022 We use a structured approach for root cause analysis, including data collection and hypothesis testing\n\u2022 The IT department is responsible for maintaining and troubleshooting the booking system\n\u2022 The customer support team provides feedback on common user issues\n\u2022 We conduct user surveys every six months to understand their pain points\n\u2022 An external audit of the booking system was conducted in Q2, 2021\n\u2022 The analysis process also includes review of system logs and error reports",
+            "type": "distractor",
+            "justification": "This slide outlines the general root cause analysis process without focusing on specific issues related to booking or customer support."
+        }
+    ],
+    "conclusion": "To improve our patients' experiences, we need to streamline our appointment booking system and refine our customer support processes. Let's prioritize these improvements in our operational plan, ensuring we deliver the best virtual healthcare services in Canada.",
+    "file_format": "pptx",
+    "file_path": ".llm_responses/generated_pptx_presentation.pptx",
+    "qa_type": "insight",
+    "timestamp": "2025-12-02 17:15",
+    "image_queries": [
+        {
+            "slide_title": "Introduction",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "intentionally_clean",
+            "slide_type": "introduction"
+        },
+        {
+            "slide_title": "Overview of Current Appointment Booking System",
+            "has_image": true,
+            "image_query": "customer service support metrics chart",
+            "generation_method": "strategic_placement",
+            "slide_type": "insight",
+            "content_length": 7,
+            "total_chars": 755,
+            "forced": false,
+            "theme": "Professional Green"
+        },
+        {
+            "slide_title": "Assessment of Customer Support Interactions",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 6,
+            "total_chars": 421,
+            "probability": 0.25,
+            "theme": "Professional Green"
+        },
+        {
+            "slide_title": "Root Cause Analysis: Booking Challenges",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 6,
+            "total_chars": 465,
+            "probability": 0.25,
+            "theme": "Professional Green"
+        },
+        {
+            "slide_title": "Conclusion",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "strategic_clean_conclusion",
+            "slide_type": "conclusion",
+            "theme": "Professional Green"
+        }
+    ],
+    "app": "file_system"
+}

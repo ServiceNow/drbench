@@ -1,0 +1,10 @@
+{
+    "insight_id": "DI0024",
+    "qa_type": "distractor",
+    "qa_index": 24,
+    "specific_question": "What disaster recovery testing did Information Security Manager, Jason Wong, organize for Lee's Market's servers in June 2025?",
+    "answer": "Jason Wong scheduled three full server failover tests on June 11, 15, and 30, 2025, which resulted in all the systems being recovered within 40 minutes.",
+    "justification": "",
+    "timestamp": "2025-11-19 02:56",
+    "dr_question": "How can Jason Wong, given Lee's Markets' limited IT resources in 2025, strengthen employee cybersecurity training to reduce risk of retail cyberattacks that lead to operation disruptions and financial loss by Q3 2027?"
+}

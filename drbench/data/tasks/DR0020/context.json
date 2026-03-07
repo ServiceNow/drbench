@@ -1,0 +1,51 @@
+{
+    "company_info": {
+        "name": "Lee's Market",
+        "industry": "Retail",
+        "size": "Enterprise",
+        "founded_year": 2003,
+        "headquarters": "Richmond, British Columbia, Canada",
+        "description": "Lee's Market is a regional Asian supermarket chain specializing in high-quality Asian groceries and household items. With a growing footprint in urban centers across the U.S. and Canada, Lee's Market blends traditional flavors with modern retail experiences, offering in-store, online, and delivery services.",
+        "key_products_services": [
+            "Fresh produce, meats, and seafood",
+            "Asian household items",
+            "Bakery and prepared foods",
+            "Online grocery shopping and delivery"
+        ],
+        "target_markets": [
+            "Asian communities in the U.S. and Canada",
+            "Urban centers with diverse populations"
+        ],
+        "annual_revenue": "$500M - $600M",
+        "employee_count": 5000,
+        "compliance_certifications": [
+            "FDA and CFIA Food Safety Compliance",
+            "HACCP Food Safety Compliance",
+            "USDA Import Inspection Regulations"
+        ],
+        "market_position": "Lee's Market is a rising regional player bridging cultural authenticity and modern retail innovation in the Asian grocery sector. It is carving a niche between mainstream retailers like Walmart and ethnic-focused giants like H-Mart."
+    },
+    "persona": {
+        "role": "Sales Team Lead",
+        "department": "Sales",
+        "name": "Michael Lee",
+        "first_name": "Michael",
+        "last_name": "Lee",
+        "email": "michael.lee@leesmarket.com",
+        "seniority": "Mid",
+        "responsibilities": "Lead a team of sales representatives, set sales targets, and develop strategies to achieve sales goals while collaborating with the customer service team to ensure smooth handovers.",
+        "id": "MNG0005",
+        "domain": "sales",
+        "justification": "As a sales team lead at Lee's Market, Michael's leadership and strategic planning in sales processes are crucial for revenue growth, and his collaboration with customer service teams makes him an important persona for research in reducing friction post-sale and improving CRM and service platform integration.",
+        "username": "michael.lee"
+    },
+    "url": {
+        "url": "https://www.bcg.com/publications/2024/personalization-in-action",
+        "domain": "Sales",
+        "industry": "retail",
+        "example_dr_questions": [],
+        "insights": [],
+        "date": "2025-12-02"
+    },
+    "timestamp": "2025-10-30 00:00"
+}

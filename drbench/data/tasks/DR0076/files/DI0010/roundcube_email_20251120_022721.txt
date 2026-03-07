@@ -1,0 +1,155 @@
+================================================================================
+ROUNDCUBE EMAIL EXPORT
+================================================================================
+
+USERS:
+----------------------------------------
+• olivia.martinez
+  Name: Olivia Martinez
+  Email: olivia.martinez@elexionautomotive.com
+
+• john.baker
+  Name: John Baker
+  Email: john.baker@elexionautomotive.com
+
+• emily.jones
+  Name: Emily Jones
+  Email: emily.jones@elexionautomotive.com
+
+• david.williams
+  Name: David Williams
+  Email: david.williams@elexionautomotive.com
+
+• linda.brown
+  Name: Linda Brown
+  Email: linda.brown@elexionautomotive.com
+
+• steven.miller
+  Name: Steven Miller
+  Email: steven.miller@elexionautomotive.com
+
+EMAILS:
+================================================================================
+Email ID: email_001
+Date: 2023-02-10 10:30:00
+From: Olivia Martinez <olivia.martinez@elexionautomotive.com>
+To: john.baker@elexionautomotive.com, emily.jones@elexionautomotive.com, david.williams@elexionautomotive.com
+CC: linda.brown@elexionautomotive.com
+Subject: Asset Management Department Meeting
+Folder: sent | Status: Read
+
+Message Body:
+----------------------------------------
+Dear Team,
+
+I hope this email finds you well. Just wanted to remind everyone about our department meeting scheduled for next Wednesday at 2 PM. We will be discussing the quarterly budget, updates on our ongoing projects, and any challenges we might be facing.
+
+Please make sure to review the meeting agenda and prepare any necessary materials ahead of time.
+
+Best,
+Olivia
+============================================================
+
+Email ID: email_002
+Date: 2023-02-11 09:15:00
+From: Steven Miller <steven.miller@elexionautomotive.com>
+To: olivia.martinez@elexionautomotive.com
+Subject: New Software Implementation
+Folder: inbox | Status: Read
+
+Message Body:
+----------------------------------------
+Hi Olivia,
+
+Our IT team is planning to implement a new software solution for asset tracking and management. We believe this will greatly improve our efficiency in managing both physical and digital assets.
+
+We will be providing training sessions for everyone in the coming weeks. More details will follow soon.
+
+Best,
+Steven
+============================================================
+
+Email ID: email_003
+Date: 2023-02-11 10:00:00
+From: Olivia Martinez <olivia.martinez@elexionautomotive.com>
+To: steven.miller@elexionautomotive.com
+Subject: Re: New Software Implementation
+Folder: sent | Status: Read
+
+Message Body:
+----------------------------------------
+Hi Steven,
+
+Thanks for the heads up. I'll inform my team about the upcoming changes. We're looking forward to the training sessions and using the new software to further improve our asset management processes.
+
+Best,
+Olivia
+============================================================
+
+Email ID: email_001
+Date: 2025-01-10 16:30:00
+From: John Baker <john.baker@elexionautomotive.com>
+To: olivia.martinez@elexionautomotive.com
+CC: emily.jones@elexionautomotive.com, david.williams@elexionautomotive.com
+Subject: Digital Engineering Workshops Q3 and Q4 Report
+Folder: inbox | Status: Read
+
+Message Body:
+----------------------------------------
+Dear Olivia,
+
+I trust this email finds you well. I am writing to share the final report on the internal workshops conducted by you in the last two quarters of 2024.
+
+According to the training logs, you conducted 9 workshops on lifecycle documentation standards. The feedback from the staff was overwhelmingly positive, and we have seen an improvement in the adherence to documentation standards.
+
+Let's continue this momentum in the new year. Please let me know if there's any support needed from my end.
+
+Best regards,
+John
+============================================================
+
+Email ID: email_002
+Date: 2025-01-11 10:15:00
+From: Olivia Martinez <olivia.martinez@elexionautomotive.com>
+To: john.baker@elexionautomotive.com
+CC: emily.jones@elexionautomotive.com, david.williams@elexionautomotive.com
+Subject: Re: Digital Engineering Workshops Q3 and Q4 Report
+Folder: inbox | Status: Read
+
+Message Body:
+----------------------------------------
+Hello John,
+
+Thank you for your email and the acknowledgement.
+
+I am glad to know that the workshops were beneficial. It is crucial that we maintain our focus on utilizing digital engineering methodologies in the coming years. This will help us optimize EV battery performance and lifecycle management as we integrate digital twins into our processes.
+
+Looking forward to another productive year.
+
+Kind regards,
+Olivia
+============================================================
+
+Email ID: email_003
+Date: 2025-01-11 12:30:00
+From: John Baker <john.baker@elexionautomotive.com>
+To: olivia.martinez@elexionautomotive.com
+CC: emily.jones@elexionautomotive.com, david.williams@elexionautomotive.com
+Subject: Re: Digital Engineering Workshops Q3 and Q4 Report
+Folder: inbox | Status: Read
+
+Message Body:
+----------------------------------------
+Hi Olivia,
+
+Absolutely, the integration of digital twins will be a game-changer for our asset lifecycle management, particularly for EV batteries. The training you're providing will be instrumental in making sure our staff are up-to-speed with these advancements.
+
+Let's touch base next week to discuss our training plans for Q1 2025.
+
+Best,
+John
+============================================================
+
+================================================================================
+END OF EMAIL EXPORT
+================================================================================

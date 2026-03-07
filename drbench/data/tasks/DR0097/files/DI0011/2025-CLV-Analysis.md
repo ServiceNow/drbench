@@ -1,0 +1,21 @@
+# 2025 Patient Lifetime Value Analysis
+
+## Introduction
+
+This document provides an in-depth analysis of the average customer lifetime value (CLV) for individual patients utilizing MediConn’s services in 2025. The information contained herein is vital for understanding our revenue trends and planning future business strategies. As a team, it's crucial for us to understand these metrics to better serve our customers and drive our growth.
+
+## Patient Demographics and Engagement Trends
+
+In 2025, our patient base showed a substantial increase in the 50-60 age group, up by 12% from the previous year. We also noted a significant uptick in engagement levels, with the average number of virtual consults per patient rising by 8%. This trend demonstrates the growing acceptance and reliance on our remote healthcare services among our older demographic.
+
+## Revenue Analysis from Individual Patient
+
+Our per-patient revenue saw a slight increase of 3% in 2025, largely due to the introduction of new premium services. The most popular service was our personalized health coaching program, which accounted for 35% of our total revenue last year. Our annual subscription model also contributed substantially to our revenue, with a retention rate of 80%.
+
+## Customer Lifetime Value Calculation and Insights
+
+The calculation of customer lifetime value (CLV) is a critical metric for our business. Our finance department uses a model that combines the average revenue per user, churn rate, and customer acquisition cost. We continually refine this model to ensure it accurately reflects our business operations and market conditions.
+
+## Conclusion
+
+The data presented provides valuable insights into the average customer lifetime value in 2025. These insights will guide our strategic planning and revenue forecasting. Moving forward, we will continue to monitor these metrics and adjust our strategies as necessary to optimize patient lifetime value. Let's leverage these findings to enhance our patient services and maximize profitability.

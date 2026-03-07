@@ -1,0 +1,193 @@
+================================================================================
+ROUNDCUBE EMAIL EXPORT
+================================================================================
+
+USERS:
+----------------------------------------
+• ethan.thompson
+  Name: Ethan Thompson
+  Email: ethan.thompson@elexionautomotive.com
+
+• rachel.morgan
+  Name: Rachel Morgan
+  Email: rachel.morgan@elexionautomotive.com
+
+• james.lee
+  Name: James Lee
+  Email: james.lee@elexionautomotive.com
+
+• sarah.williams
+  Name: Sarah Williams
+  Email: sarah.williams@elexionautomotive.com
+
+• kevin.jones
+  Name: Kevin Jones
+  Email: kevin.jones@elexionautomotive.com
+
+• linda.brown
+  Name: Linda Brown
+  Email: linda.brown@elexionautomotive.com
+
+• david.garcia
+  Name: David Garcia
+  Email: david.garcia@elexionautomotive.com
+
+• jennifer.rodriguez
+  Name: Jennifer Rodriguez
+  Email: jennifer.rodriguez@elexionautomotive.com
+
+EMAILS:
+================================================================================
+Email ID: email_001
+Date: 2025-12-01 09:30:00
+From: Ethan Thompson <ethan.thompson@elexionautomotive.com>
+To: rachel.morgan@elexionautomotive.com, james.lee@elexionautomotive.com, sarah.williams@elexionautomotive.com
+Subject: Upcoming IT Department Meeting
+Folder: inbox | Status: Read
+
+Message Body:
+----------------------------------------
+Team,
+
+Just a reminder about our monthly IT department meeting scheduled for next Tuesday at 2 PM. We will be discussing our ongoing projects and any departmental updates. Please prepare any necessary reports or presentations.
+
+Best,
+Ethan
+============================================================
+
+Email ID: email_002
+Date: 2025-12-02 10:05:00
+From: Sarah Williams <sarah.williams@elexionautomotive.com>
+To: ethan.thompson@elexionautomotive.com
+Subject: New Employee Onboarding Schedule
+Folder: inbox | Status: Read
+
+Message Body:
+----------------------------------------
+Ethan,
+
+We have two new hires joining our department next week. Could you please prepare a cybersecurity training schedule for them? We want to ensure they understand our protocols from day one.
+
+Thanks,
+Sarah
+============================================================
+
+Email ID: email_003
+Date: 2025-12-03 14:15:00
+From: James Lee <james.lee@elexionautomotive.com>
+To: ethan.thompson@elexionautomotive.com
+Subject: Annual Performance Review
+Folder: inbox | Status: Read
+
+Message Body:
+----------------------------------------
+Ethan,
+
+It's time for our annual performance reviews. Can we schedule a time next week to discuss your achievements and goals for the upcoming year? Let me know what works best for you.
+
+Best,
+James
+============================================================
+
+Email ID: email_004
+Date: 2025-12-04 13:30:00
+From: Rachel Morgan <rachel.morgan@elexionautomotive.com>
+To: ethan.thompson@elexionautomotive.com
+CC: james.lee@elexionautomotive.com
+Subject: IT Budget for Next Quarter
+Folder: inbox | Status: Read
+
+Message Body:
+----------------------------------------
+Ethan,
+
+Could you please provide a rough estimate of our cybersecurity needs for next quarter? We're working on the IT budget and want to ensure we allocate sufficient resources for your department.
+
+Thanks,
+Rachel
+============================================================
+
+Email ID: email_005
+Date: 2025-12-05 10:00:00
+From: Ethan Thompson <ethan.thompson@elexionautomotive.com>
+To: rachel.morgan@elexionautomotive.com, james.lee@elexionautomotive.com, sarah.williams@elexionautomotive.com, kevin.jones@elexionautomotive.com, linda.brown@elexionautomotive.com, david.garcia@elexionautomotive.com, jennifer.rodriguez@elexionautomotive.com
+Subject: Company-wide Cybersecurity Awareness Training
+Folder: inbox | Status: Read
+
+Message Body:
+----------------------------------------
+All,
+
+Next week, we will be conducting a company-wide cybersecurity awareness training. The session will cover basic cybersecurity best practices and company-specific protocols. Please ensure that your teams are available to attend.
+
+Best,
+Ethan
+============================================================
+
+Email ID: email_001
+Date: 2025-12-15 09:30:00
+From: Rachel Morgan <rachel.morgan@elexionautomotive.com>
+To: ethan.thompson@elexionautomotive.com
+CC: james.lee@elexionautomotive.com, sarah.williams@elexionautomotive.com
+Subject: Re: Upcoming Cybersecurity Strategy Meeting
+Folder: inbox | Status: Read
+
+Message Body:
+----------------------------------------
+Hi Ethan,
+
+Thank you for providing the details for the upcoming cybersecurity strategy meeting in January. I understand that the focus will be on remote cybersecurity attacks, and I've recently read an article from Help Net Security that discusses the same.
+
+I think it would be beneficial for us to discuss the key insights from that article and align our strategies accordingly for Q1 of 2026.
+
+Looking forward to the meeting.
+
+Best,
+Rachel
+============================================================
+
+Email ID: email_002
+Date: 2025-12-15 10:05:00
+From: Ethan Thompson <ethan.thompson@elexionautomotive.com>
+To: rachel.morgan@elexionautomotive.com
+CC: james.lee@elexionautomotive.com, sarah.williams@elexionautomotive.com
+Subject: Re: Upcoming Cybersecurity Strategy Meeting
+Folder: inbox | Status: Read
+
+Message Body:
+----------------------------------------
+Hi Rachel,
+
+Thanks for sharing your thoughts. I agree that the article from Help Net Security gives us a good perspective on the current landscape of remote cybersecurity threats.
+
+However, one thing we should bear in mind is that not all attacks are remote. In fact, since Elexion's founding in 2010, roughly 12% of all cybersecurity attacks we have faced were from physical access attacks. These mainly involved the exploitation of diagnostic ports (OBD-II) in various models.
+
+I think it's crucial that we don't overlook these types of attacks in our discussions. Looking forward to further discussing this in the meeting.
+
+Best,
+Ethan
+============================================================
+
+Email ID: email_003
+Date: 2025-12-15 10:30:00
+From: Rachel Morgan <rachel.morgan@elexionautomotive.com>
+To: ethan.thompson@elexionautomotive.com
+CC: james.lee@elexionautomotive.com, sarah.williams@elexionautomotive.com
+Subject: Re: Upcoming Cybersecurity Strategy Meeting
+Folder: inbox | Status: Read
+
+Message Body:
+----------------------------------------
+Hi Ethan,
+
+That's a good point. It's easy to overlook physical access attacks in the age of remote threats. The statistic you shared certainly puts things into perspective. We should definitely consider strategies to protect against both remote and physical access attacks.
+
+Thank you for bringing this to our attention. We'll make sure to discuss this in our meeting.
+
+Best,
+Rachel
+============================================================
+
+================================================================================
+END OF EMAIL EXPORT
+================================================================================

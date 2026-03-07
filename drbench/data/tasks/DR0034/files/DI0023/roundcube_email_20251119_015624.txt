@@ -1,0 +1,188 @@
+================================================================================
+ROUNDCUBE EMAIL EXPORT
+================================================================================
+
+USERS:
+----------------------------------------
+• jason.wong
+  Name: Jason Wong
+  Email: jason.wong@leesmarket.com
+
+• linda.chen
+  Name: Linda Chen
+  Email: linda.chen@leesmarket.com
+
+• robert.lee
+  Name: Robert Lee
+  Email: robert.lee@leesmarket.com
+
+• michael.tan
+  Name: Michael Tan
+  Email: michael.tan@leesmarket.com
+
+• david.liu
+  Name: David Liu
+  Email: david.liu@leesmarket.com
+
+• susan.li
+  Name: Susan Li
+  Email: susan.li@leesmarket.com
+
+• paul.kim
+  Name: Paul Kim
+  Email: paul.kim@leesmarket.com
+
+• jennifer.park
+  Name: Jennifer Park
+  Email: jennifer.park@leesmarket.com
+
+EMAILS:
+================================================================================
+Email ID: email_001
+Date: 2022-10-01 09:00:00
+From: Jason Wong <jason.wong@leesmarket.com>
+To: robert.lee@leesmarket.com
+CC: michael.tan@leesmarket.com, david.liu@leesmarket.com
+Subject: Annual IT Department Budget Planning
+Folder: sent | Status: Read
+
+Message Body:
+----------------------------------------
+Hi Robert,
+
+As we approach the end of the fiscal year, I would like to arrange a meeting to discuss the IT department's budget for the upcoming year. Please let me know your availability next week.
+
+Best,
+Jason
+============================================================
+
+Email ID: email_002
+Date: 2022-10-02 10:30:00
+From: Linda Chen <linda.chen@leesmarket.com>
+To: jason.wong@leesmarket.com
+Subject: Customer Feedback on New Online Shopping Platform
+Folder: inbox | Status: Read
+
+Message Body:
+----------------------------------------
+Hi Jason,
+
+Just wanted to share some recent feedback we've received on our new online shopping platform. Customers seem to love the new design and user-friendly interface. Great work to your team!
+
+Best,
+Linda
+============================================================
+
+Email ID: email_003
+Date: 2022-10-03 14:20:00
+From: Susan Li <susan.li@leesmarket.com>
+To: jason.wong@leesmarket.com
+Subject: Upcoming Retail Industry Event
+Folder: inbox | Status: Read
+
+Message Body:
+----------------------------------------
+Hi Jason,
+
+I wanted to make you aware of an upcoming retail industry event that might be of interest. It's focused on the latest retail technology innovations. Let me know if you're interested in attending.
+
+Best,
+Susan
+============================================================
+
+Email ID: email_004
+Date: 2022-10-04 11:00:00
+From: Paul Kim <paul.kim@leesmarket.com>
+To: jason.wong@leesmarket.com, jennifer.park@leesmarket.com
+Subject: HR Compliance Training Schedule
+Folder: inbox | Status: Unread
+Attachments: 1 file(s)
+
+Message Body:
+----------------------------------------
+Hi Jason and Jennifer,
+
+Please find attached the schedule for the upcoming HR compliance training. Your attendance is mandatory as part of our company's commitment to maintaining a safe and respectful workplace.
+
+Best,
+Paul
+============================================================
+
+Email ID: email_005
+Date: 2022-10-05 09:00:00
+From: Jason Wong <jason.wong@leesmarket.com>
+To: michael.tan@leesmarket.com, david.liu@leesmarket.com
+Subject: Team Meeting Agenda - October 10
+Folder: sent | Status: Read
+Attachments: 1 file(s)
+
+Message Body:
+----------------------------------------
+Hi Michael and David,
+
+Here's the agenda for our team meeting on October 10. Please review and let me know if there's anything else you'd like us to discuss.
+
+Best,
+Jason
+============================================================
+
+Email ID: email_001
+Date: 2025-03-31 11:30:00
+From: Jason Wong <jason.wong@leesmarket.com>
+To: robert.lee@leesmarket.com
+CC: linda.chen@leesmarket.com, michael.tan@leesmarket.com
+Subject: Proposed Upgrade for Store Managers' Password Storage
+Folder: sent | Status: Read
+
+Message Body:
+----------------------------------------
+Hi Robert,
+
+I hope this email finds you well. Given the rise in cyberattacks across the retail industry, we need to enhance the security of our password storage for store managers. Currently, they are using manual logbooks which pose a significant risk of data breach.
+
+I propose we upgrade to a digital solution - 'Vaultpro' password manager. It offers a secure, encrypted environment for password storage and can be easily integrated with our existing infrastructure.
+
+Let's discuss further.
+
+Best,
+Jason
+============================================================
+
+Email ID: email_002
+Date: 2025-04-01 09:10:00
+From: Robert Lee <robert.lee@leesmarket.com>
+To: jason.wong@leesmarket.com
+CC: linda.chen@leesmarket.com, michael.tan@leesmarket.com
+Subject: Re: Proposed Upgrade for Store Managers' Password Storage
+Folder: inbox | Status: Read
+
+Message Body:
+----------------------------------------
+Hi Jason,
+
+I agree with your suggestion. The Vaultpro password manager seems like a great solution to enhance our cybersecurity. Please proceed with the necessary steps for its implementation.
+
+Robert
+============================================================
+
+Email ID: email_003
+Date: 2025-04-15 16:45:00
+From: Jason Wong <jason.wong@leesmarket.com>
+To: robert.lee@leesmarket.com
+CC: linda.chen@leesmarket.com, michael.tan@leesmarket.com
+Subject: Vaultpro Implementation Update
+Folder: sent | Status: Read
+
+Message Body:
+----------------------------------------
+Hi Robert,
+
+I'm pleased to inform you that we have successfully replaced the manual logbooks with Vaultpro password manager licenses for all our store managers as of today. I believe this will significantly strengthen our cybersecurity.
+
+Best,
+Jason
+============================================================
+
+================================================================================
+END OF EMAIL EXPORT
+================================================================================

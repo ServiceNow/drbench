@@ -1,0 +1,10 @@
+{
+    "insight_id": "DI0002",
+    "qa_type": "distractor",
+    "qa_index": 2,
+    "specific_question": "In Q1 2024, how many internal platform modules did the cybersecurity specialist review for compliance with MediConn\u2019s coding standards?",
+    "answer": "According to internal documentation, the cybersecurity specialist reviewed 15 of 20 platform modules for coding standard compliance between January 1 and March 31, 2024.",
+    "justification": "",
+    "timestamp": "2025-11-20 00:44",
+    "dr_question": "In 2026, since a ransomware attack would not be just an IT issue but a risk to every function of MediConn Solutions, what specific architectural and procedural controls would a cybersecurity specialist need to design and implement to minimize the blast radius and ensure MediConn\u2019s clinical continuity during an extended loss of services from one of their third-party providers?"
+}

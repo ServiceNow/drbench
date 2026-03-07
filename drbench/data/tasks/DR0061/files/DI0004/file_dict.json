@@ -1,0 +1,81 @@
+{
+    "file_name": "social-media-campaign-analysis",
+    "file_title": "Elexion's Social Media Campaign Analysis",
+    "introduction": "This presentation explores the recent social media campaign's performance, particularly focusing on customer testimonials. We'll delve into the engagement metrics and discuss our strategic implications.",
+    "subsections": [
+        {
+            "heading": "Overview of Social Media Campaigns",
+            "content": "\u2022 Elexion has been leveraging social media platforms for marketing since 2022\n\u2022 The company has utilized platforms such as Facebook, Instagram, Twitter, and LinkedIn to engage potential customers\n\u2022 The marketing team uses a mix of organic and paid strategies to increase brand visibility\n\u2022 In 2024, Elexion spent approximately 15% of its marketing budget on social media ads\n\u2022 The company has seen a steady increase in its social media following, with a 25% increase in followers in 2024 compared to 2023\n\u2022 The marketing department works closely with R&D to ensure product announcements align with social media campaigns",
+            "type": "distractor",
+            "justification": "This slide discusses general social media strategy and history, not the specific customer testimonial campaign's success."
+        },
+        {
+            "heading": "Customer Testimonial Campaign Engagement",
+            "content": "\u2022 Testimonial campaigns have been a part of Elexion's marketing strategy since 2023\n\u2022 Typically, such campaigns are launched in Q3 to align with the release of new models\n\u2022 Testimonial campaigns involve sourcing stories from satisfied customers and sharing them on social media\n\u2022 Elexion's marketing team collaborates with the customer service department to identify potential testimonial candidates\n\u2022 The company has seen a positive response to these campaigns, with an increase in website traffic during these periods\n\u2022 Past campaigns have showcased a variety of customer experiences, from daily commuting to long-distance travel",
+            "type": "distractor",
+            "justification": "The slide focuses on the general process and history of testimonial campaigns, not the specific campaign's engagement metrics."
+        },
+        {
+            "heading": "Implications on Future Digital Marketing Strategies",
+            "content": "\u2022 Elexion plans to increase its investment in digital marketing by 20% in 2026\n\u2022 The company is exploring new digital channels, such as TikTok and Snapchat, to reach younger audiences\n\u2022 Elexion is considering implementing AI chatbots on its website to enhance customer service\n\u2022 The marketing team is investigating the potential of virtual reality for digital showrooms\n\u2022 Future campaigns will focus on showcasing Elexion's commitment to sustainability and zero-emission transportation\n\u2022 The company is also considering partnerships with influencers and celebrities to promote their brand",
+            "type": "distractor",
+            "justification": "This slide discusses future plans and strategies, not the success of the past customer testimonial campaign."
+        }
+    ],
+    "conclusion": "The customer testimonial campaign significantly contributed to our social media engagement. Moving forward, we need to leverage these insights to optimize our future digital marketing strategies.",
+    "file_format": "pptx",
+    "file_path": ".llm_responses/generated_pptx_presentation.pptx",
+    "qa_type": "distractor",
+    "timestamp": "2025-12-02 17:41",
+    "image_queries": [
+        {
+            "slide_title": "Introduction",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "intentionally_clean",
+            "slide_type": "introduction"
+        },
+        {
+            "slide_title": "Overview of Social Media Campaigns",
+            "has_image": true,
+            "image_query": "social media marketing strategy",
+            "generation_method": "strategic_placement",
+            "slide_type": "distractor",
+            "content_length": 6,
+            "total_chars": 603,
+            "forced": false,
+            "theme": "Professional Green"
+        },
+        {
+            "slide_title": "Customer Testimonial Campaign Engagement",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 6,
+            "total_chars": 614,
+            "probability": 0.25,
+            "theme": "Professional Green"
+        },
+        {
+            "slide_title": "Implications on Future Digital Marketing Strategies",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 6,
+            "total_chars": 571,
+            "probability": 0.25,
+            "theme": "Professional Green"
+        },
+        {
+            "slide_title": "Conclusion",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "strategic_clean_conclusion",
+            "slide_type": "conclusion",
+            "theme": "Professional Green"
+        }
+    ],
+    "app": "file_system"
+}

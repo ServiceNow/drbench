@@ -1,0 +1,82 @@
+{
+    "file_name": "instagram-growth-analysis",
+    "file_title": "Lee's Market Instagram Growth Analysis 2024",
+    "introduction": "This presentation explores the growth trajectory of Lee's Market's Instagram following throughout 2024. We will examine the impact of our social media strategies on customer engagement and brand visibility.",
+    "subsections": [
+        {
+            "heading": "2024 Social Media Strategy Overview",
+            "content": "\u2022 Launched new product promotion campaigns on various social media platforms\n\u2022 Collaborated with micro-influencers for brand promotion\n\u2022 Conducted a series of live cooking shows on Facebook\n\u2022 Invested in Twitter Ads to promote in-store events\n\u2022 Utilized LinkedIn to share company news and attract potential employees\n\u2022 Rolled out a new customer interaction model on social media to enhance engagement\n\u2022 Initiated the 'Lee's Market Rewards Program' on social media platforms",
+            "type": "distractor",
+            "justification": "This content doesn't help answer the DR Question because it's focused on the overall social media strategy, not specific Instagram follower growth."
+        },
+        {
+            "heading": "Instagram Follower Growth in 2024",
+            "content": "\u2022 Introduced weekly Instagram-exclusive deals to incentivize followers\n\u2022 Partnered with popular Asian cuisine bloggers to create Instagram content\n\u2022 Implemented Instagram Shops feature to facilitate direct sales\n\u2022 Ran Instagram Ads targeting millennials in urban areas\n\u2022 Held monthly Instagram contests to increase engagement\n\u2022 Started using Instagram Reels for showcasing new product arrivals",
+            "type": "distractor",
+            "justification": "This content doesn't answer the DR Question because it discusses strategies used on Instagram, not the specific follower growth."
+        },
+        {
+            "heading": "Implications of Instagram Follower Growth",
+            "content": "\u2022 Increased brand recognition among younger demographics\n\u2022 Enhanced customer engagement through Instagram-exclusive promotions\n\u2022 Improved online sales through Instagram Shops feature\n\u2022 Raised public awareness of new store openings via Instagram\n\u2022 Strengthened customer loyalty with engaging Instagram content\n\u2022 Leveraged Instagram's analytics for understanding customer behavior",
+            "type": "distractor",
+            "justification": "This content doesn't answer the DR Question because it focuses on the implications of Instagram follower growth, not the actual growth metrics."
+        }
+    ],
+    "conclusion": "The upward trend in Instagram followers demonstrates the effectiveness of our 2024 social media strategies. Moving forward, we should continue leveraging Instagram as a key platform for customer engagement and product promotion.",
+    "file_format": "pptx",
+    "file_path": ".llm_responses/generated_pptx_presentation.pptx",
+    "qa_type": "distractor",
+    "timestamp": "2025-11-19 12:24",
+    "image_queries": [
+        {
+            "slide_title": "Introduction",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "intentionally_clean",
+            "slide_type": "introduction"
+        },
+        {
+            "slide_title": "2024 Social Media Strategy Overview",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "failed",
+            "slide_type": "distractor",
+            "content_length": 7,
+            "total_chars": 453,
+            "error": "'str' object has no attribute 'choices'",
+            "theme": "Corporate Blue"
+        },
+        {
+            "slide_title": "Instagram Follower Growth in 2024",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 6,
+            "total_chars": 376,
+            "probability": 0.25,
+            "theme": "Corporate Blue"
+        },
+        {
+            "slide_title": "Implications of Instagram Follower Growth",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "failed",
+            "slide_type": "distractor",
+            "content_length": 6,
+            "total_chars": 361,
+            "error": "'str' object has no attribute 'choices'",
+            "theme": "Corporate Blue"
+        },
+        {
+            "slide_title": "Conclusion",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "conclusion_failed",
+            "slide_type": "conclusion",
+            "error": "'str' object has no attribute 'choices'",
+            "theme": "Corporate Blue"
+        }
+    ],
+    "app": "file_system"
+}

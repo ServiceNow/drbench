@@ -1,0 +1,193 @@
+================================================================================
+ROUNDCUBE EMAIL EXPORT
+================================================================================
+
+USERS:
+----------------------------------------
+• ethan.smith
+  Name: Ethan Smith
+  Email: ethan.smith@elexionautomotive.com
+
+• david.jones
+  Name: David Jones
+  Email: david.jones@elexionautomotive.com
+
+• sarah.martin
+  Name: Sarah Martin
+  Email: sarah.martin@elexionautomotive.com
+
+• michael.bell
+  Name: Michael Bell
+  Email: michael.bell@elexionautomotive.com
+
+• emma.white
+  Name: Emma White
+  Email: emma.white@elexionautomotive.com
+
+• james.wilson
+  Name: James Wilson
+  Email: james.wilson@elexionautomotive.com
+
+• olivia.taylor
+  Name: Olivia Taylor
+  Email: olivia.taylor@elexionautomotive.com
+
+• william.johnson
+  Name: William Johnson
+  Email: william.johnson@elexionautomotive.com
+
+EMAILS:
+================================================================================
+Email ID: email_001
+Date: 2022-09-20 09:30:00
+From: Ethan Smith <ethan.smith@elexionautomotive.com>
+To: david.jones@elexionautomotive.com
+Subject: Weekly QA Team Meeting
+Folder: inbox | Status: Read
+Attachments: 1 file(s)
+
+Message Body:
+----------------------------------------
+Hi David,
+
+Please find attached the agenda for our weekly QA team meeting. We will be discussing the results of the latest round of testing on the new EV model and planning our next steps.
+
+Best,
+Ethan
+============================================================
+
+Email ID: email_002
+Date: 2022-09-21 11:00:00
+From: William Johnson <william.johnson@elexionautomotive.com>
+To: ethan.smith@elexionautomotive.com
+Subject: Fwd: Updated Budget Plan for Q4
+Folder: inbox | Status: Read
+Attachments: 1 file(s)
+
+Message Body:
+----------------------------------------
+Ethan,
+
+As per our discussion earlier, here's the updated budget plan for Q4. Please review and let me know if you have any queries.
+
+Best,
+William
+============================================================
+
+Email ID: email_003
+Date: 2022-09-22 14:30:00
+From: Olivia Taylor <olivia.taylor@elexionautomotive.com>
+To: ethan.smith@elexionautomotive.com
+Subject: Annual Performance Review Schedule
+Folder: inbox | Status: Read
+Attachments: 1 file(s)
+
+Message Body:
+----------------------------------------
+Ethan,
+
+Your annual performance review has been scheduled for October 15th at 10am. Please see attached the performance review guidelines.
+
+Best regards,
+Olivia
+============================================================
+
+Email ID: email_004
+Date: 2022-09-23 16:00:00
+From: James Wilson <james.wilson@elexionautomotive.com>
+To: ethan.smith@elexionautomotive.com
+Subject: Invitation: Industry Networking Event on Oct 30th
+Folder: inbox | Status: Read
+Attachments: 1 file(s)
+
+Message Body:
+----------------------------------------
+Ethan,
+
+You are invited to the annual industry networking event on October 30th. This will be a great opportunity to meet and network with other professionals in the EV industry.
+
+Best,
+James
+============================================================
+
+Email ID: email_005
+Date: 2022-09-24 08:00:00
+From: Sarah Martin <sarah.martin@elexionautomotive.com>
+To: ethan.smith@elexionautomotive.com
+Subject: New Employee Onboarding Schedule
+Folder: inbox | Status: Read
+Attachments: 1 file(s)
+
+Message Body:
+----------------------------------------
+Ethan,
+
+We have a new member joining our team next week. Please find attached the onboarding schedule. I would appreciate if you could take them through our QA processes on Day 2.
+
+Best,
+Sarah
+============================================================
+
+Email ID: email_001
+Date: 2025-01-01 09:30:00
+From: David Jones <david.jones@elexionautomotive.com>
+To: ethan.smith@elexionautomotive.com
+CC: emma.white@elexionautomotive.com, sarah.martin@elexionautomotive.com
+Subject: 2026 EV Model Design Strategy - Initial Thoughts
+Folder: inbox | Status: Read
+
+Message Body:
+----------------------------------------
+Dear Ethan,
+
+As we're starting to plan our control interface design strategy for the 2026 EV models, we're considering prioritizing physical buttons and switches to reduce the higher control/display problem rate we've been experiencing.
+
+Given your expertise in Quality Assurance, I'm hoping you could provide some insight into the possible challenges and considerations we should keep in mind. In particular, how did we fare in the environmental chamber tests for the 2025 models?
+
+Best,
+David
+============================================================
+
+Email ID: email_002
+Date: 2025-01-02 11:15:00
+From: Ethan Smith <ethan.smith@elexionautomotive.com>
+To: david.jones@elexionautomotive.com
+CC: emma.white@elexionautomotive.com, sarah.martin@elexionautomotive.com
+Subject: Re: 2026 EV Model Design Strategy - Initial Thoughts
+Folder: inbox | Status: Read
+
+Message Body:
+----------------------------------------
+Dear David,
+
+I agree with the direction of prioritizing physical buttons and switches for our 2026 EV models. From the Quality Assurance perspective, we've noticed that touch-based controls are more susceptible to temperature extremes.
+
+For your information, our 2025 models were tested in the environmental chamber from -40 degrees Fahrenheit to 150 degrees Fahrenheit in May 2024. We'll need to ensure our chosen button and switch materials can withstand such temperature ranges without compromise.
+
+Best,
+Ethan
+============================================================
+
+Email ID: email_003
+Date: 2025-01-02 13:30:00
+From: Emma White <emma.white@elexionautomotive.com>
+To: david.jones@elexionautomotive.com, ethan.smith@elexionautomotive.com
+CC: sarah.martin@elexionautomotive.com
+Subject: Re: 2026 EV Model Design Strategy - Initial Thoughts
+Folder: inbox | Status: Read
+
+Message Body:
+----------------------------------------
+David and Ethan,
+
+Thanks for the input. Ethan, your note about the environmental chamber test temperatures is crucial. We'll make sure to source materials for our physical controls that are robust and able to withstand these temperatures.
+
+David, let's consider this information for our next product strategy meeting. I believe a shift towards physical controls will be beneficial for our customers and our PP100 scores.
+
+Best,
+Emma
+============================================================
+
+================================================================================
+END OF EMAIL EXPORT
+================================================================================

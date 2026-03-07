@@ -1,0 +1,10 @@
+{
+    "insight_id": "IN0005",
+    "qa_type": "insight",
+    "qa_index": 5,
+    "specific_question": "What is the comparative customer lifetime value (USD) between digital-first members (app users) and traditional card/coupon users as of Q4 2025 at Lee's Market?",
+    "answer": "At Lee's Market, digital-first members show a CLV of $1,800, compared to traditional users' CLV of $1,350.",
+    "justification": "Digitally engaged members are more profitable and loyal, justifying investment in enhanced mobile personalization while maintaining legacy formats for high-value, less tech-savvy shoppers.",
+    "timestamp": "2025-11-20 18:55",
+    "dr_question": "What considerations will need to be made when Lee's Market is redesigning its loyalty program by Q2 2026 to serve both Gen Z/Millennial digital preferences and Gen X/Boomer traditional service expectations?"
+}

@@ -1,0 +1,10 @@
+{
+    "insight_id": "DI0003",
+    "qa_type": "distractor",
+    "qa_index": 3,
+    "specific_question": "What was MediConn's employee satisfaction score in the 2025 annual survey?",
+    "answer": "Employee satisfaction rose from 78% in 2024 to 86% in 2025.",
+    "justification": "Staff satisfaction is important for HR but does not affect platform scalability, interoperability, or data security.",
+    "timestamp": "2025-11-21 13:31",
+    "dr_question": "Which IT modernization efforts should MediConn emphasize to stay aligned with national virtual care standards and shared digital health infrastructure by 2026?"
+}

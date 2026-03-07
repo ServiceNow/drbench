@@ -1,0 +1,12 @@
+Review_Year,Review_Cadence,Reviewer,Reviewee_Team,Informal_Checks
+The year in which the performance review was conducted.,"The frequency of the performance reviews conducted (e.g., annually, quarterly, monthly, etc.).",The person who is conducting the performance review.,The team whose performance is being reviewed.,The frequency of informal check-ins for coaching and feedback.
+2023,Annually,Tom,Sales,Monthly
+2022,Bi-annually,Rachel,Sales,Bi-weekly
+2024,Quarterly,Rachel,Marketing,Bi-weekly
+2023,Quarterly,Tom,Marketing,Monthly
+2023,Quarterly,John,Sales,Bi-weekly
+2022,Annually,John,Customer Service,Monthly
+2024,Bi-annually,Rachel,Customer Service,Monthly
+2024,Annually,John,Sales,Bi-weekly
+2022,Annually,Tom,Marketing,Monthly
+2025,Quarterly,Rachel,Customer Service,Bi-weekly

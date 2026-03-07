@@ -1,0 +1,28 @@
+{
+    "company_info": {
+        "name": "Lee's Market (Richmond, British Columbia, Canada, $500M - $600M, 5000 employees)",
+        "industry": "Retail",
+        "description": "A company in the Retail industry",
+        "size": "medium",
+        "employee_count": "100-500",
+        "annual_revenue": "Not specified"
+    },
+    "persona": {
+        "name": "Maria Gonzalez",
+        "first_name": "Maria",
+        "last_name": "Gonzalez",
+        "username": "maria.gonzalez",
+        "email": "maria.gonzalez@leesmarket.com",
+        "role": "Department Sales Supervisor",
+        "role_description": "Manages daily sales operations for specific departments, trains new sales staff, and ensures customer service standards are maintained"
+    },
+    "url": {
+        "url": "https://www.census.gov/retail/sales.html",
+        "domain": "Sales",
+        "industry": "retail",
+        "example_dr_questions": [],
+        "insights": [],
+        "date": "2025-11-21"
+    },
+    "timestamp": "2025-10-24 00:00"
+}

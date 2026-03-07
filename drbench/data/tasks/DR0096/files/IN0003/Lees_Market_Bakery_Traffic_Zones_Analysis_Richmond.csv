@@ -1,0 +1,13 @@
+Date_Range,Top_Traffic_Zones,Store_Location
+This column represents the date range during which the heatmap data was collected. It provides the timeframe for the traffic flow analysis.,This column lists the top five traffic flow zones within the bakery section. These are the areas where the highest customer traffic was observed.,This column represents the store location within the U.S. It provides geographical context to the traffic flow data.
+June-September 2025,"Entrance-facing bread display, Cake and pastry display, Checkout-side impulse rack, Beverage adjacency shelf, Custom cake counter",All Lee's Market's U.S. stores
+April-June 2025,"Entrance-facing bread display, Cake and pastry display, Fresh fruit section, Beverage adjacency shelf, Custom cake counter",Lee's Market Texas
+January-March 2027,"Cake and pastry display, Fresh fruit section, Checkout-side impulse rack, Beverage adjacency shelf, Custom cake counter",Lee's Market Florida
+July-September 2026,"Entrance-facing bread display, Cake and pastry display, Fresh fruit section, Checkout-side impulse rack, Beverage adjacency shelf",Lee's Market California
+October-December 2025,"Entrance-facing bread display, Cake and pastry display, Fresh fruit section, Checkout-side impulse rack, Custom cake counter",Lee's Market New York
+January-March 2026,"Cake and pastry display, Fresh fruit section, Checkout-side impulse rack, Beverage adjacency shelf, Custom cake counter",Lee's Market Florida
+April-June 2026,"Entrance-facing bread display, Cake and pastry display, Fresh fruit section, Checkout-side impulse rack, Custom cake counter",Lee's Market Texas
+July-September 2025,"Entrance-facing bread display, Fresh fruit section, Checkout-side impulse rack, Beverage adjacency shelf, Custom cake counter",Lee's Market California
+October-December 2026,"Entrance-facing bread display, Cake and pastry display, Fresh fruit section, Checkout-side impulse rack, Custom cake counter",Lee's Market New York
+January-March 2025,"Entrance-facing bread display, Cake and pastry display, Fresh fruit section, Checkout-side impulse rack, Beverage adjacency shelf",Lee's Market Florida
+April-June 2027,"Entrance-facing bread display, Cake and pastry display, Fresh fruit section, Checkout-side impulse rack, Custom cake counter",Lee's Market Texas

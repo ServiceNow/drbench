@@ -1,0 +1,81 @@
+{
+    "file_name": "HQ-Security-Initiative",
+    "file_title": "Addressing Physical Security: Lee's Market HQ",
+    "introduction": "In this presentation, we'll discuss the measures implemented by Jason Wong to address the physical security gap at our headquarters in March 2025. These steps are crucial to ensure the safety and security of our assets and employees.",
+    "subsections": [
+        {
+            "heading": "Overview of Lee's Market Security Infrastructure",
+            "content": "\u2022 Lee's Market employs a layered security strategy, ensuring both physical and cybersecurity measures\n\u2022 Physical security includes CCTV cameras, motion detectors, and access control systems\n\u2022 Cybersecurity measures include firewalls, intrusion detection systems, and regular vulnerability assessments\n\u2022 Employee training is paramount, with annual security awareness programs\n\u2022 Security protocols are revised every six months to address emerging threats\n\u2022 The security department collaborates with other departments to integrate security into their processes\n\u2022 Lee's Market follows the ISO 27001 framework for information security management",
+            "type": "distractor",
+            "justification": "This slide gives a broad overview of Lee's Market's security infrastructure but does not address the specific actions taken by Jason Wong in March 2025."
+        },
+        {
+            "heading": "Jason Wong's Initiative in March 2025",
+            "content": "\u2022 Jason Wong, the Head of Security, has been with Lee's Market for over 10 years\n\u2022 Jason is a Certified Information Systems Security Professional (CISSP)\n\u2022 Jason's focus areas include risk management, physical security, and cybersecurity\n\u2022 In March 2025, Jason undertook a significant initiative to enhance security\n\u2022 The project involved collaboration with multiple departments, including IT and HR\n\u2022 Jason's leadership style encourages proactive threat identification and mitigation\n\u2022 Jason is recognized for his commitment to maintaining high security standards",
+            "type": "distractor",
+            "justification": "This slide provides background information about Jason Wong and his general approach to security, but does not detail the specific initiative he undertook in March 2025."
+        },
+        {
+            "heading": "Impact and Evaluation of Security Measures",
+            "content": "\u2022 Regular audits are conducted to assess the effectiveness of security measures\n\u2022 Feedback from these audits helps to improve and streamline security protocols\n\u2022 The overall security incident rate has seen a decline over the past three years\n\u2022 Employee compliance with security protocols is measured and tracked\n\u2022 The security department uses key performance indicators (KPIs) to evaluate its performance\n\u2022 These KPIs include the number of security incidents, response time, and resolution time\n\u2022 Continuous improvement is a fundamental principle of Lee's Market's security approach",
+            "type": "distractor",
+            "justification": "This slide discusses the evaluation and impact of security measures at a high level, but does not provide specific information about the impact of Jason Wong's initiative in March 2025."
+        }
+    ],
+    "conclusion": "The security initiatives implemented by Jason Wong have significantly enhanced our physical security. Moving forward, we should consider these measures as a standard practice across all our locations to maintain the assured safety of our employees and assets.",
+    "file_format": "pptx",
+    "file_path": ".llm_responses/generated_pptx_presentation.pptx",
+    "qa_type": "distractor",
+    "timestamp": "2025-12-02 14:48",
+    "image_queries": [
+        {
+            "slide_title": "Introduction",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "intentionally_clean",
+            "slide_type": "introduction"
+        },
+        {
+            "slide_title": "Overview of Lee's Market Security Infrastructure",
+            "has_image": true,
+            "image_query": "layered security strategy infographic",
+            "generation_method": "strategic_placement",
+            "slide_type": "distractor",
+            "content_length": 7,
+            "total_chars": 620,
+            "forced": false,
+            "theme": "Executive Purple"
+        },
+        {
+            "slide_title": "Jason Wong's Initiative in March 2025",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 7,
+            "total_chars": 544,
+            "probability": 0.25,
+            "theme": "Executive Purple"
+        },
+        {
+            "slide_title": "Impact and Evaluation of Security Measures",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 7,
+            "total_chars": 562,
+            "probability": 0.25,
+            "theme": "Executive Purple"
+        },
+        {
+            "slide_title": "Conclusion",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "strategic_clean_conclusion",
+            "slide_type": "conclusion",
+            "theme": "Executive Purple"
+        }
+    ],
+    "app": "file_system"
+}

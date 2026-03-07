@@ -1,0 +1,21 @@
+# MediConn Facility Infrastructure Analysis 2024
+
+## Introduction
+
+As a part of our ongoing efforts to optimize our operational capacity, this document provides an in-depth analysis of the infrastructure of MediConn Solutions' headquarters. It includes an examination of our parking facilities, office space utilization, and future expansion plans. The analysis aims to inform strategic decisions related to our headquarters' operational efficiency and employee convenience.
+
+## Current Facility Utilization and Limitations
+
+As of 2023, our Vancouver headquarters accommodates 80% of our workforce. The remaining 20% are distributed across various remote locations. Despite the available workspace, we've noticed a consistent rise in remote work, causing a reduction in the daily usage of the facility. We are currently exploring strategies to optimize the use of our existing facility resources.
+
+## Parking Facility Analysis and Capacity
+
+The company has always prioritized environmentally-friendly initiatives. As part of this, we have recently installed electric vehicle (EV) charging stations at our headquarters. Data from 2023 shows that 35% of employees driving to work use EVs. We project a steady increase in this percentage, aligning with the global surge in EV usage.
+
+## Future Expansion Plans and Implications
+
+Our expansion plans for 2025 include opening two additional regional offices in Western Canada. This strategy is expected to further amplify our market presence and reduce the pressure on our headquarters. We anticipate a noticeable shift in the workforce distribution, with a growing number of employees based at these regional offices.
+
+## Conclusion
+
+The analysis of MediConn's facility infrastructure, including its parking capacity, has highlighted critical areas for improvement and potential expansion. It is crucial to align these insights with our strategic growth plans to ensure optimal utilization of our resources. Going forward, specific attention to the parking facility's capacity may be required to cater to the growing workforce. Recommendations based on this analysis will be presented to the management for further action.

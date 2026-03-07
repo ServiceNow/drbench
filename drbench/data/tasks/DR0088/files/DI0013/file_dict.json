@@ -1,0 +1,193 @@
+{
+    "file_name": "roundcube_email_20251120_144002",
+    "content": "{\"type\": \"user\", \"username\": \"jordan.lee\", \"first_name\": \"Jordan\", \"last_name\": \"Lee\", \"email\": \"jordan.lee@mediconnsolutions.com\", \"password\": \"cybersecurity123\"}\n{\"type\": \"user\", \"username\": \"emily.hayes\", \"first_name\": \"Emily\", \"last_name\": \"Hayes\", \"email\": \"emily.hayes@mediconnsolutions.com\", \"password\": \"marketingpro01\"}\n{\"type\": \"user\", \"username\": \"david.walker\", \"first_name\": \"David\", \"last_name\": \"Walker\", \"email\": \"david.walker@mediconnsolutions.com\", \"password\": \"salesleader2022\"}\n{\"type\": \"user\", \"username\": \"sarah.johnson\", \"first_name\": \"Sarah\", \"last_name\": \"Johnson\", \"email\": \"sarah.johnson@mediconnsolutions.com\", \"password\": \"executive_assistant\"}\n{\"type\": \"user\", \"username\": \"michael.roberts\", \"first_name\": \"Michael\", \"last_name\": \"Roberts\", \"email\": \"michael.roberts@mediconnsolutions.com\", \"password\": \"finance_guru\"}\n{\"type\": \"user\", \"username\": \"laura.jones\", \"first_name\": \"Laura\", \"last_name\": \"Jones\", \"email\": \"laura.jones@mediconnsolutions.com\", \"password\": \"hrmanager2022\"}\n{\"type\": \"email\", \"id\": \"email_001\", \"subject\": \"Upcoming Virtual Healthcare Seminar\", \"from\": \"emily.hayes@mediconnsolutions.com\", \"from_name\": \"Emily Hayes\", \"to\": [\"jordan.lee@mediconnsolutions.com\", \"david.walker@mediconnsolutions.com\", \"sarah.johnson@mediconnsolutions.com\", \"michael.roberts@mediconnsolutions.com\", \"laura.jones@mediconnsolutions.com\"], \"cc\": [], \"date\": \"2022-09-10 10:30:00\", \"body\": \"Dear Team,\\n\\nWe are organizing a seminar on the latest trends in virtual healthcare next week. This is a great opportunity for us to stay informed about the latest developments in our industry. Please let me know your availability so we can finalize the schedule.\\n\\nBest,\\nEmily\", \"folder\": \"inbox\", \"read\": true, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_002\", \"subject\": \"Monthly Budget Update\", \"from\": \"michael.roberts@mediconnsolutions.com\", \"from_name\": \"Michael Roberts\", \"to\": [\"jordan.lee@mediconnsolutions.com\", \"david.walker@mediconnsolutions.com\", \"sarah.johnson@mediconnsolutions.com\", \"emily.hayes@mediconnsolutions.com\"], \"cc\": [\"laura.jones@mediconnsolutions.com\"], \"date\": \"2022-09-11 09:00:00\", \"body\": \"Hello everyone,\\n\\nPlease find attached the updated budget for this month. Let's discuss these numbers in our next team meeting and plan accordingly. Feel free to reach out if you have any questions.\\n\\nBest,\\nMichael\", \"folder\": \"inbox\", \"read\": true, \"attachments\": [\"Monthly_Budget_Update.pdf\"]}\n{\"type\": \"email\", \"id\": \"email_003\", \"subject\": \"Customer Feedback Survey Results\", \"from\": \"david.walker@mediconnsolutions.com\", \"from_name\": \"David Walker\", \"to\": [\"jordan.lee@mediconnsolutions.com\", \"emily.hayes@mediconnsolutions.com\", \"sarah.johnson@mediconnsolutions.com\", \"michael.roberts@mediconnsolutions.com\"], \"cc\": [\"laura.jones@mediconnsolutions.com\"], \"date\": \"2022-09-12 14:00:00\", \"body\": \"Hi Team,\\n\\nWe've received the results of our latest customer feedback survey. Overall, the response has been positive. We'll discuss the detailed findings in our next team meeting. I have attached the summary report for your review.\\n\\nBest,\\nDavid\", \"folder\": \"inbox\", \"read\": true, \"attachments\": [\"Customer_Feedback_Survey_Results.pdf\"]}\n{\"type\": \"email\", \"id\": \"email_001\", \"subject\": \"Initial Thoughts on AI Anomaly Detection Integration\", \"from\": \"jordan.lee@mediconnsolutions.com\", \"from_name\": \"Jordan Lee\", \"to\": [\"emily.hayes@mediconnsolutions.com\", \"david.walker@mediconnsolutions.com\", \"sarah.johnson@mediconnsolutions.com\", \"michael.roberts@mediconnsolutions.com\", \"laura.jones@mediconnsolutions.com\"], \"cc\": [], \"date\": \"2026-01-12 09:30:00\", \"body\": \"Team,\\n\\nFollowing our meeting about the integration of the AI anomaly detection tool into our infrastructure, I've started compiling a list of considerations to ensure we align with the 2025 Cyber Security Cooperation Program and our deadline of Q3 2026.\\n\\nI'd appreciate it if each department could contribute their expertise to this list.\\n\\nBest,\\nJordan\", \"folder\": \"sent\", \"read\": true, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_002\", \"subject\": \"Re: Initial Thoughts on AI Anomaly Detection Integration\", \"from\": \"michael.roberts@mediconnsolutions.com\", \"from_name\": \"Michael Roberts\", \"to\": [\"jordan.lee@mediconnsolutions.com\", \"emily.hayes@mediconnsolutions.com\", \"david.walker@mediconnsolutions.com\", \"sarah.johnson@mediconnsolutions.com\", \"laura.jones@mediconnsolutions.com\"], \"cc\": [], \"date\": \"2026-01-12 11:45:00\", \"body\": \"Jordan and Team,\\n\\nFrom the finance perspective, we need to ensure the integration cost fits within our budget. It's also essential to consider the impact on operational costs and potential downtime. Unplanned disruptions could have financial implications, particularly given the large volume of transactions we handle daily.\\n\\nMichael\", \"folder\": \"inbox\", \"read\": true, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_003\", \"subject\": \"Re: Initial Thoughts on AI Anomaly Detection Integration\", \"from\": \"emily.hayes@mediconnsolutions.com\", \"from_name\": \"Emily Hayes\", \"to\": [\"jordan.lee@mediconnsolutions.com\", \"michael.roberts@mediconnsolutions.com\", \"david.walker@mediconnsolutions.com\", \"sarah.johnson@mediconnsolutions.com\", \"laura.jones@mediconnsolutions.com\"], \"cc\": [], \"date\": \"2026-01-12 14:30:00\", \"body\": \"Jordan, Michael and Team,\\n\\nIn addition to Michael's points, from a marketing perspective, we need to consider the impact this can have on our brand image. Any disruption to services, especially given the volume of branded promotional items (approximately 25000 annually) we produce, could significantly affect our customer perception. This might not directly influence the technical aspects of AI integration but is a vital aspect to consider in our planning to avoid any adverse impact.\\n\\nEmily\", \"folder\": \"inbox\", \"read\": true, \"attachments\": []}",
+    "email_setup": [
+        {
+            "type": "user",
+            "username": "jordan.lee",
+            "first_name": "Jordan",
+            "last_name": "Lee",
+            "email": "jordan.lee@mediconnsolutions.com",
+            "password": "cybersecurity123"
+        },
+        {
+            "type": "user",
+            "username": "emily.hayes",
+            "first_name": "Emily",
+            "last_name": "Hayes",
+            "email": "emily.hayes@mediconnsolutions.com",
+            "password": "marketingpro01"
+        },
+        {
+            "type": "user",
+            "username": "david.walker",
+            "first_name": "David",
+            "last_name": "Walker",
+            "email": "david.walker@mediconnsolutions.com",
+            "password": "salesleader2022"
+        },
+        {
+            "type": "user",
+            "username": "sarah.johnson",
+            "first_name": "Sarah",
+            "last_name": "Johnson",
+            "email": "sarah.johnson@mediconnsolutions.com",
+            "password": "executive_assistant"
+        },
+        {
+            "type": "user",
+            "username": "michael.roberts",
+            "first_name": "Michael",
+            "last_name": "Roberts",
+            "email": "michael.roberts@mediconnsolutions.com",
+            "password": "finance_guru"
+        },
+        {
+            "type": "user",
+            "username": "laura.jones",
+            "first_name": "Laura",
+            "last_name": "Jones",
+            "email": "laura.jones@mediconnsolutions.com",
+            "password": "hrmanager2022"
+        }
+    ],
+    "email_messages": [
+        {
+            "type": "email",
+            "id": "email_001",
+            "subject": "Upcoming Virtual Healthcare Seminar",
+            "from": "emily.hayes@mediconnsolutions.com",
+            "from_name": "Emily Hayes",
+            "to": [
+                "jordan.lee@mediconnsolutions.com",
+                "david.walker@mediconnsolutions.com",
+                "sarah.johnson@mediconnsolutions.com",
+                "michael.roberts@mediconnsolutions.com",
+                "laura.jones@mediconnsolutions.com"
+            ],
+            "cc": [],
+            "date": "2022-09-10 10:30:00",
+            "body": "Dear Team,\n\nWe are organizing a seminar on the latest trends in virtual healthcare next week. This is a great opportunity for us to stay informed about the latest developments in our industry. Please let me know your availability so we can finalize the schedule.\n\nBest,\nEmily",
+            "folder": "inbox",
+            "read": true,
+            "attachments": [],
+            "tag": "distractor"
+        },
+        {
+            "type": "email",
+            "id": "email_002",
+            "subject": "Monthly Budget Update",
+            "from": "michael.roberts@mediconnsolutions.com",
+            "from_name": "Michael Roberts",
+            "to": [
+                "jordan.lee@mediconnsolutions.com",
+                "david.walker@mediconnsolutions.com",
+                "sarah.johnson@mediconnsolutions.com",
+                "emily.hayes@mediconnsolutions.com"
+            ],
+            "cc": [
+                "laura.jones@mediconnsolutions.com"
+            ],
+            "date": "2022-09-11 09:00:00",
+            "body": "Hello everyone,\n\nPlease find attached the updated budget for this month. Let's discuss these numbers in our next team meeting and plan accordingly. Feel free to reach out if you have any questions.\n\nBest,\nMichael",
+            "folder": "inbox",
+            "read": true,
+            "attachments": [
+                "Monthly_Budget_Update.pdf"
+            ],
+            "tag": "distractor"
+        },
+        {
+            "type": "email",
+            "id": "email_003",
+            "subject": "Customer Feedback Survey Results",
+            "from": "david.walker@mediconnsolutions.com",
+            "from_name": "David Walker",
+            "to": [
+                "jordan.lee@mediconnsolutions.com",
+                "emily.hayes@mediconnsolutions.com",
+                "sarah.johnson@mediconnsolutions.com",
+                "michael.roberts@mediconnsolutions.com"
+            ],
+            "cc": [
+                "laura.jones@mediconnsolutions.com"
+            ],
+            "date": "2022-09-12 14:00:00",
+            "body": "Hi Team,\n\nWe've received the results of our latest customer feedback survey. Overall, the response has been positive. We'll discuss the detailed findings in our next team meeting. I have attached the summary report for your review.\n\nBest,\nDavid",
+            "folder": "inbox",
+            "read": true,
+            "attachments": [
+                "Customer_Feedback_Survey_Results.pdf"
+            ],
+            "tag": "distractor"
+        },
+        {
+            "type": "email",
+            "id": "email_001",
+            "subject": "Initial Thoughts on AI Anomaly Detection Integration",
+            "from": "jordan.lee@mediconnsolutions.com",
+            "from_name": "Jordan Lee",
+            "to": [
+                "emily.hayes@mediconnsolutions.com",
+                "david.walker@mediconnsolutions.com",
+                "sarah.johnson@mediconnsolutions.com",
+                "michael.roberts@mediconnsolutions.com",
+                "laura.jones@mediconnsolutions.com"
+            ],
+            "cc": [],
+            "date": "2026-01-12 09:30:00",
+            "body": "Team,\n\nFollowing our meeting about the integration of the AI anomaly detection tool into our infrastructure, I've started compiling a list of considerations to ensure we align with the 2025 Cyber Security Cooperation Program and our deadline of Q3 2026.\n\nI'd appreciate it if each department could contribute their expertise to this list.\n\nBest,\nJordan",
+            "folder": "sent",
+            "read": true,
+            "attachments": [],
+            "tag": "insight"
+        },
+        {
+            "type": "email",
+            "id": "email_002",
+            "subject": "Re: Initial Thoughts on AI Anomaly Detection Integration",
+            "from": "michael.roberts@mediconnsolutions.com",
+            "from_name": "Michael Roberts",
+            "to": [
+                "jordan.lee@mediconnsolutions.com",
+                "emily.hayes@mediconnsolutions.com",
+                "david.walker@mediconnsolutions.com",
+                "sarah.johnson@mediconnsolutions.com",
+                "laura.jones@mediconnsolutions.com"
+            ],
+            "cc": [],
+            "date": "2026-01-12 11:45:00",
+            "body": "Jordan and Team,\n\nFrom the finance perspective, we need to ensure the integration cost fits within our budget. It's also essential to consider the impact on operational costs and potential downtime. Unplanned disruptions could have financial implications, particularly given the large volume of transactions we handle daily.\n\nMichael",
+            "folder": "inbox",
+            "read": true,
+            "attachments": [],
+            "tag": "insight"
+        },
+        {
+            "type": "email",
+            "id": "email_003",
+            "subject": "Re: Initial Thoughts on AI Anomaly Detection Integration",
+            "from": "emily.hayes@mediconnsolutions.com",
+            "from_name": "Emily Hayes",
+            "to": [
+                "jordan.lee@mediconnsolutions.com",
+                "michael.roberts@mediconnsolutions.com",
+                "david.walker@mediconnsolutions.com",
+                "sarah.johnson@mediconnsolutions.com",
+                "laura.jones@mediconnsolutions.com"
+            ],
+            "cc": [],
+            "date": "2026-01-12 14:30:00",
+            "body": "Jordan, Michael and Team,\n\nIn addition to Michael's points, from a marketing perspective, we need to consider the impact this can have on our brand image. Any disruption to services, especially given the volume of branded promotional items (approximately 25000 annually) we produce, could significantly affect our customer perception. This might not directly influence the technical aspects of AI integration but is a vital aspect to consider in our planning to avoid any adverse impact.\n\nEmily",
+            "folder": "inbox",
+            "read": true,
+            "attachments": [],
+            "tag": "insight"
+        }
+    ],
+    "file_format": "jsonl",
+    "file_path": ".llm_responses/generated_email_document.jsonl",
+    "qa_type": "distractor",
+    "timestamp": "2025-11-20 15:40",
+    "app": "email"
+}

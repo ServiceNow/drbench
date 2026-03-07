@@ -1,0 +1,10 @@
+{
+    "insight_id": "DI0005",
+    "qa_type": "distractor",
+    "qa_index": 5,
+    "specific_question": "In Q4 2024, how many internal threat logs did the cybersecurity specialist review for MediConn\u2019s virtual healthcare platform?",
+    "answer": "The cybersecurity specialist reviewed 28 internal threat logs for MediConn\u2019s virtual healthcare platform between October 1 and December 31, 2024.",
+    "justification": "",
+    "timestamp": "2025-11-20 00:45",
+    "dr_question": "In 2026, since a ransomware attack would not be just an IT issue but a risk to every function of MediConn Solutions, what specific architectural and procedural controls would a cybersecurity specialist need to design and implement to minimize the blast radius and ensure MediConn\u2019s clinical continuity during an extended loss of services from one of their third-party providers?"
+}

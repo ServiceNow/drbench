@@ -1,0 +1,12 @@
+Year,Half,Minimum_Wait_Days,Maximum_Wait_Days,Average_Wait_Days
+The year when the wait time data was recorded.,The half of the year (H1 or H2) when the wait time data was recorded.,The minimum wait time in days for a virtual appointment during the specified period.,The maximum wait time in days for a virtual appointment during the specified period.,The average wait time in days for a virtual appointment during the specified period.
+2023,H2,2,20,11
+2021,H2,6,40,23
+2022,H1,5,35,20
+2020,H2,8,50,29
+2023,H1,3,25,14
+2024,H1,1,15,8
+2024,H2,3,30,16.5
+2020,H1,9,55,32
+2021,H1,7,45,26
+2022,H2,4,30,17

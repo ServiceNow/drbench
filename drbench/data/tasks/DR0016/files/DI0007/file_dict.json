@@ -1,0 +1,81 @@
+{
+    "file_name": "fsma-compliance-perceptions",
+    "file_title": "FSMA 204 Compliance: Customer Perception & Progress",
+    "introduction": "This presentation will explore our customers' views on our commitment to FSMA 204 compliance. We'll also assess our progress and identify areas for improvement.",
+    "subsections": [
+        {
+            "heading": "Understanding FSMA 204: An Overview",
+            "content": "\u2022 FSMA 204 is a federal law enacted in 2011 to ensure food safety\n\u2022 It shifts the focus of federal regulators from responding to contamination to preventing it\n\u2022 This legislation is applicable to all companies that manufacture, process, pack, or hold food\n\u2022 It mandates companies to have a written preventive controls plan\n\u2022 This plan should outline how the company will prevent food safety hazards\n\u2022 It should also include a plan for correcting any problems that could arise\n\u2022 The law also includes mandatory inspections by the FDA",
+            "type": "distractor",
+            "justification": "This slide provides general information about FSMA 204, but does not address customer perceptions or Lee's Market's specific compliance initiatives."
+        },
+        {
+            "heading": "Lee's Market Current Compliance Initiatives",
+            "content": "\u2022 Lee's Market has a dedicated FSMA 204 compliance team\n\u2022 The team is responsible for developing and implementing our preventive controls plan\n\u2022 We conduct regular internal audits to ensure compliance with FSMA 204\n\u2022 Our training programs educate employees about food safety regulations\n\u2022 We maintain thorough records as required by FSMA 204\n\u2022 Our suppliers are also subject to our strict compliance requirements\n\u2022 We communicate openly with regulatory authorities about our compliance efforts",
+            "type": "distractor",
+            "justification": "This slide discusses Lee's Market's compliance efforts, but does not provide any data on customer perceptions."
+        },
+        {
+            "heading": "Customer Perceptions on FSMA 204 Compliance",
+            "content": "\u2022 Customers increasingly prioritize food safety when choosing where to shop\n\u2022 Many customers are aware of FSMA 204 and its implications\n\u2022 Food safety scandals can significantly impact customer trust and brand reputation\n\u2022 Transparency about compliance efforts can positively influence customer perceptions\n\u2022 Customers appreciate when companies take proactive steps to ensure food safety\n\u2022 Social media and online reviews provide platforms for customers to share their opinions on food safety practices",
+            "type": "distractor",
+            "justification": "This slide discusses general customer perceptions about food safety and FSMA 204, but does not provide specific data about Lee's Market's customer perceptions."
+        }
+    ],
+    "conclusion": "Our customers are largely aware of our progress towards FSMA 204 compliance. Moving forward, we'll need to enhance our communication strategies to better express our commitment to compliance and food safety.",
+    "file_format": "pptx",
+    "file_path": ".llm_responses/generated_pptx_presentation.pptx",
+    "qa_type": "distractor",
+    "timestamp": "2025-12-02 22:31",
+    "image_queries": [
+        {
+            "slide_title": "Introduction",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "intentionally_clean",
+            "slide_type": "introduction"
+        },
+        {
+            "slide_title": "Understanding FSMA 204: An Overview",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 7,
+            "total_chars": 512,
+            "probability": 0.25,
+            "theme": "Elegant Teal"
+        },
+        {
+            "slide_title": "Lee's Market Current Compliance Initiatives",
+            "has_image": true,
+            "image_query": "compliance team meeting",
+            "generation_method": "strategic_placement",
+            "slide_type": "distractor",
+            "content_length": 7,
+            "total_chars": 473,
+            "forced": false,
+            "theme": "Elegant Teal"
+        },
+        {
+            "slide_title": "Customer Perceptions on FSMA 204 Compliance",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 6,
+            "total_chars": 484,
+            "probability": 0.25,
+            "theme": "Elegant Teal"
+        },
+        {
+            "slide_title": "Conclusion",
+            "has_image": true,
+            "image_query": "business team collaboration office",
+            "generation_method": "strategic_conclusion",
+            "slide_type": "conclusion",
+            "theme": "Elegant Teal"
+        }
+    ],
+    "app": "nextcloud"
+}

@@ -1,0 +1,186 @@
+================================================================================
+ROUNDCUBE EMAIL EXPORT
+================================================================================
+
+USERS:
+----------------------------------------
+• laura.singh
+  Name: Laura Singh
+  Email: laura.singh@mediconnsolutions.com
+
+• john.doe
+  Name: John Doe
+  Email: john.doe@mediconnsolutions.com
+
+• mary.jane
+  Name: Mary Jane
+  Email: mary.jane@mediconnsolutions.com
+
+• peter.parker
+  Name: Peter Parker
+  Email: peter.parker@mediconnsolutions.com
+
+• david.jones
+  Name: David Jones
+  Email: david.jones@mediconnsolutions.com
+
+• susan.miller
+  Name: Susan Miller
+  Email: susan.miller@mediconnsolutions.com
+
+• jane.doe
+  Name: Jane Doe
+  Email: jane.doe@mediconnsolutions.com
+
+• michael.johnson
+  Name: Michael Johnson
+  Email: michael.johnson@mediconnsolutions.com
+
+EMAILS:
+================================================================================
+Email ID: email_001
+Date: 2025-09-18 10:00:00
+From: Laura Singh <laura.singh@mediconnsolutions.com>
+To: john.doe@mediconnsolutions.com, mary.jane@mediconnsolutions.com, peter.parker@mediconnsolutions.com, david.jones@mediconnsolutions.com, susan.miller@mediconnsolutions.com
+CC: jane.doe@mediconnsolutions.com, michael.johnson@mediconnsolutions.com
+Subject: Team Meeting Schedule for Next Week
+Folder: sent | Status: Read
+
+Message Body:
+----------------------------------------
+Dear Team, 
+
+Please note the change in our weekly team meeting schedule. From next week onwards, it will be held on Wednesdays at 10:00 AM PST instead of Tuesdays. 
+
+Best, 
+Laura
+============================================================
+
+Email ID: email_002
+Date: 2025-09-20 15:00:00
+From: John Doe <john.doe@mediconnsolutions.com>
+To: laura.singh@mediconnsolutions.com
+Subject: Project Phoenix Status Update
+Folder: inbox | Status: Unread
+
+Message Body:
+----------------------------------------
+Hi Laura, 
+
+Just wanted to give you a quick update on Project Phoenix. We are on track and expect to complete the first phase by the end of this month. 
+
+Best, 
+John
+============================================================
+
+Email ID: email_003
+Date: 2025-09-22 08:30:00
+From: Mary Jane <mary.jane@mediconnsolutions.com>
+To: laura.singh@mediconnsolutions.com, john.doe@mediconnsolutions.com
+Subject: Customer Satisfaction Survey Results
+Folder: inbox | Status: Unread
+Attachments: 1 file(s)
+
+Message Body:
+----------------------------------------
+Dear Laura and John, 
+
+The results from our latest customer satisfaction survey are in. I've attached the report for your review. Let's discuss this in our next meeting. 
+
+Best, 
+Mary
+============================================================
+
+Email ID: email_004
+Date: 2025-09-25 11:45:00
+From: David Jones <david.jones@mediconnsolutions.com>
+To: laura.singh@mediconnsolutions.com
+Subject: 2026 Budget Planning Session
+Folder: inbox | Status: Unread
+
+Message Body:
+----------------------------------------
+Laura, 
+
+The 2026 budget planning session is scheduled for October 5th. Please prepare the IT department's proposed budget and be ready to present it. 
+
+Best, 
+David
+============================================================
+
+Email ID: email_005
+Date: 2025-09-27 16:00:00
+From: Laura Singh <laura.singh@mediconnsolutions.com>
+To: susan.miller@mediconnsolutions.com
+Subject: Performance Reviews
+Folder: sent | Status: Read
+
+Message Body:
+----------------------------------------
+Susan, 
+
+Please schedule the performance reviews for the IT department for the second week of October. 
+
+Best, 
+Laura
+============================================================
+
+Email ID: email_001
+Date: 2025-10-01 09:15:00
+From: Laura Singh <laura.singh@mediconnsolutions.com>
+To: john.doe@mediconnsolutions.com, mary.jane@mediconnsolutions.com
+CC: peter.parker@mediconnsolutions.com, david.jones@mediconnsolutions.com
+Subject: IT Workflow Optimizations for Q4
+Folder: sent | Status: Read
+
+Message Body:
+----------------------------------------
+Dear Team,
+
+As we move into Q4, one of our key goals is to streamline our IT workflows to boost clinician efficiency and manage per-consultation costs. Given the expansion of our virtual healthcare services, we need to find ways to manage these increased overall expenses.
+
+I am looking for your input on this matter. Please prepare a brief summary of your department's current IT workflows, highlighting any areas you believe could be made more efficient or cost-effective.
+
+Best,
+Laura
+============================================================
+
+Email ID: email_002
+Date: 2025-10-01 10:30:00
+From: John Doe <john.doe@mediconnsolutions.com>
+To: laura.singh@mediconnsolutions.com
+CC: mary.jane@mediconnsolutions.com, peter.parker@mediconnsolutions.com, david.jones@mediconnsolutions.com
+Subject: RE: IT Workflow Optimizations for Q4
+Folder: inbox | Status: Read
+
+Message Body:
+----------------------------------------
+Hi Laura,
+
+Thanks for your mail. I'll work on the requested summary. One thing to note: in Q3, 74% of our employees worked remotely full-time. This has increased our IT support needs. We might want to consider this in our plans for Q4.
+
+Regards,
+John
+============================================================
+
+Email ID: email_003
+Date: 2025-10-01 11:00:00
+From: Laura Singh <laura.singh@mediconnsolutions.com>
+To: john.doe@mediconnsolutions.com, mary.jane@mediconnsolutions.com
+CC: peter.parker@mediconnsolutions.com, david.jones@mediconnsolutions.com
+Subject: RE: IT Workflow Optimizations for Q4
+Folder: sent | Status: Read
+
+Message Body:
+----------------------------------------
+John,
+
+Thank you for bringing this to my attention. The high percentage of remote employees definitely impacts our IT workflows and clinician efficiency. Let's focus our efforts on optimizing remote support and streamlining these workflows to manage costs.
+
+Best,
+Laura
+============================================================
+
+================================================================================
+END OF EMAIL EXPORT
+================================================================================

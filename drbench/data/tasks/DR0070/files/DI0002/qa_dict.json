@@ -1,0 +1,10 @@
+{
+    "insight_id": "DI0002",
+    "qa_type": "distractor",
+    "qa_index": 2,
+    "specific_question": "Of all the cybersecurity attacks faced by Elexion Automotive since its founding in 2010, what percentage of them were from physical access attacks?",
+    "answer": "Roughly 12% of all cybersecurity attacks faced by Elexion Automotive since its founding in 2010 were from physical access attacks. Namely, diagnostic ports (OBD-II) from various models were exploited to perform these attacks.",
+    "justification": "",
+    "timestamp": "2025-11-20 03:03",
+    "dr_question": "Given the Help Net Security article from April 2025, what strategies should Elexion Automotive be cognizant of to protect its consumer base from remote cybersecurity attacks going into Q1 of 2026?"
+}

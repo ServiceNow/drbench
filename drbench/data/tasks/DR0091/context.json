@@ -1,0 +1,28 @@
+{
+    "company_info": {
+        "name": "Lee's Market (Richmond, British Columbia, Canada, $500M - $600M, 5000 employees)",
+        "industry": "Retail",
+        "description": "A company in the Retail industry",
+        "size": "medium",
+        "employee_count": "100-500",
+        "annual_revenue": "Not specified"
+    },
+    "persona": {
+        "name": "Sophie Liu",
+        "first_name": "Sophie",
+        "last_name": "Liu",
+        "username": "sophie.liu",
+        "email": "sophie.liu@leesmarket.com",
+        "role": "Customer Service Manager",
+        "role_description": "Handles customer inquiries and complaints through phone and digital channels, processes returns and exchanges, and maintains customer account information"
+    },
+    "url": {
+        "url": "https://www.mckinsey.com/capabilities/growth-marketing-and-sales/our-insights/experience-led-growth-a-new-way-to-create-value",
+        "domain": "Customer relationship Management",
+        "industry": "retail",
+        "example_dr_questions": [],
+        "insights": [],
+        "date": "2025-11-21"
+    },
+    "timestamp": "2025-10-24 00:00"
+}

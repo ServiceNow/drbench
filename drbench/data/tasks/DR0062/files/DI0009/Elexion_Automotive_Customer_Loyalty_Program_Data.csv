@@ -1,0 +1,13 @@
+date,loyalty_program_members,source
+This column represents the specific date for which the number of loyalty program members is being reported.,This column represents the number of members Elexion Automotive's loyalty program had at the end of the specified date.,"This column indicates the source of the data, in this case, the sales department records."
+2012-12-31,3400,Sales Department Records
+2012-04-30,2600,Sales Department Records
+2012-09-30,3100,Sales Department Records
+2012-11-30,3300,Sales Department Records
+2012-08-31,3000,Sales Department Records
+2012-07-31,2900,Sales Department Records
+2012-06-30,2800,Sales Department Records
+2012-05-31,2700,Sales Department Records
+2012-10-31,3200,Sales Department Records
+2012-03-31,2500,Sales Department Records
+2013-01-31,3500,Sales Department Records

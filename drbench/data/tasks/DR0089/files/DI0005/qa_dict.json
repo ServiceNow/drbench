@@ -1,0 +1,10 @@
+{
+    "insight_id": "DI0005",
+    "qa_type": "distractor",
+    "qa_index": 5,
+    "specific_question": "By how much did automotive software-defined vehicle (SDV) development drive cost increase in 2025 at Elexion Automotive?",
+    "answer": "SDV development increased product development costs by approximately 12% at Elexion Automotive.",
+    "justification": "This focuses on software integration challenges unrelated to battery testing protocols, EV battery endurance, or reliability.",
+    "timestamp": "2025-11-20 15:44",
+    "dr_question": "Given that one in seven new vehicles sold in Canada in 2024 were zero-emission, how can Elexion Automotive\u2019s QA team enhance cold-weather testing protocols by Q4 2026 to improve EV battery endurance and reliability in the country\u2019s key ZEV markets?"
+}

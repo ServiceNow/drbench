@@ -1,0 +1,10 @@
+{
+    "insight_id": "DI0004",
+    "qa_type": "distractor",
+    "qa_index": 4,
+    "specific_question": "What percentage of MediConn's new hires in the most recent quarter came from the employee referral program?",
+    "answer": "30-40%",
+    "justification": "No use in the research area of cybersecurity or AI tools. This is general employee hiring information.",
+    "timestamp": "2025-11-20 15:24",
+    "dr_question": "In alignment with Canada\u2019s new call for proposals to strengthen the country\u2019s cyber resilience and address evolving cyber threats under the 2025 Cyber Security Cooperation Program (CSCP), what are some considerations to keep in mind while integrating a new AI anomaly detection tool into MediConn's existing infrastructure by Q3 2026 without disrupting critical healthcare services?"
+}

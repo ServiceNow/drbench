@@ -1,0 +1,10 @@
+{
+    "insight_id": "DI0008",
+    "qa_type": "distractor",
+    "qa_index": 8,
+    "specific_question": "What payroll frequency is used for employees?",
+    "answer": "Bi-weekly payroll cycle.",
+    "justification": "Payroll timing is purely administrative, not related to technology or cyber planning.",
+    "timestamp": "2025-11-20 15:27",
+    "dr_question": "In alignment with Canada\u2019s new call for proposals to strengthen the country\u2019s cyber resilience and address evolving cyber threats under the 2025 Cyber Security Cooperation Program (CSCP), what are some considerations to keep in mind while integrating a new AI anomaly detection tool into MediConn's existing infrastructure by Q3 2026 without disrupting critical healthcare services?"
+}

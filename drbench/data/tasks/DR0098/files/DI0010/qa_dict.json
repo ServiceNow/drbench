@@ -1,0 +1,10 @@
+{
+    "insight_id": "DI0010",
+    "qa_type": "distractor",
+    "qa_index": 10,
+    "specific_question": "How many social media followers did Lee's Market have across different social media platforms by June 2025?",
+    "answer": "Lee's Market's social media following reached 450,000 followers in June 2025 across different platforms.",
+    "justification": "This data is not relevant because social media metrics show digital reach but do not measure product-level consumer spending changes from tariffs. Lee's Market cannot use this data to gauge product-level tariff impacts or to inform sales projections.  This data is related to digital marketing performance, and not product sales performance measurement.",
+    "timestamp": "2025-11-21 13:06",
+    "dr_question": "Given the drop in Canadian retail sales brought on by US tariffs in 2025, what insights should Lee\u2019s Market derive from product-level sales trends across tariff-exposed and tariff-insulated categories to update sales forecasts by 2027?"
+}

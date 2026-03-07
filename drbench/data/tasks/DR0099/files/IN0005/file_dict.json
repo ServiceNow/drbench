@@ -1,0 +1,81 @@
+{
+    "file_name": "zev-compliance-update",
+    "file_title": "ZEV Mandate Compliance: Supply Chain Investments",
+    "introduction": "In response to Canada's revised ZEV mandate, understanding and implementing updated compliance documentation is crucial for Elexion Automotive. This presentation will discuss how we can effectively verify and record supply-chain investment credits by 2026.",
+    "subsections": [
+        {
+            "heading": "Overview of Canada\u2019s Revised ZEV Mandate",
+            "content": "\u2022 In order to align with Canada's updated ZEV mandate, Elexion Automotive needs to revamp its compliance documentation framework.\n\u2022 A critical aspect of this transition involves ensuring our compliance staff are adequately trained on the revised verification protocols.\n\u2022 The training scope is expected to encompass approximately 55 of our compliance personnel.\n\u2022 These personnel will collectively require around 1,200 hours of training to fully comprehend the new protocols.\n\u2022 By Q2 2026, we need to have completed this training to avoid creating audit gaps.\n\u2022 The training timeline, in turn, will impact our budget and scheduling decisions for the fiscal year 2026.\n\u2022 Therefore, it is crucial that we structure our compliance documentation framework in a manner that allows sufficient time for staff training.\n\u2022 This strategic investment in our people readiness is key to our successful adaptation to the revised ZEV mandate.",
+            "type": "insight",
+            "justification": "This content outlines the necessary steps and timeline for Elexion Automotive to update its compliance documentation framework under Canada\u2019s revised ZEV mandate."
+        },
+        {
+            "heading": "Current Compliance Documentation Framework",
+            "content": "\u2022 Elexion Automotive uses a GRC software tool for managing documentation\n\u2022 The current documentation process involves three departments: procurement, legal, and finance\n\u2022 The documentation framework was last updated in 2018\n\u2022 Quarterly audits are conducted to ensure the accuracy of the documentation\n\u2022 The existing framework's storage system is cloud-based for easy access\n\u2022 All documents in the framework are encrypted to ensure security",
+            "type": "distractor",
+            "justification": "This slide outlines the current documentation framework without suggesting how it should be updated."
+        },
+        {
+            "heading": "Proposed Changes to Documentation Framework",
+            "content": "\u2022 Introducing a new process for document verification that includes AI technology\n\u2022 Integration of blockchain technology for secure and transparent transactions\n\u2022 Moving towards a paperless documentation system by 2025\n\u2022 Implementing a new training program for employees to adapt to the changes\n\u2022 Upgrading the GRC software tool to a newer version for better performance\n\u2022 Implementing a two-factor authentication system for accessing documents",
+            "type": "distractor",
+            "justification": "The slide discusses potential changes to the documentation framework but doesn't relate to the supply-chain investment credits under Canada's ZEV mandate."
+        }
+    ],
+    "conclusion": "By aligning our compliance documentation framework with the updated ZEV mandate, Elexion Automotive can ensure proper recording of supply-chain investment credits. Moving forward, let's strategize on implementing these proposed changes for a smooth transition by 2026.",
+    "file_format": "pptx",
+    "file_path": ".llm_responses/generated_pptx_presentation.pptx",
+    "qa_type": "insight",
+    "timestamp": "2025-11-21 13:20",
+    "image_queries": [
+        {
+            "slide_title": "Introduction",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "intentionally_clean",
+            "slide_type": "introduction"
+        },
+        {
+            "slide_title": "Overview of Canada\u2019s Revised ZEV Mandate",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "failed",
+            "slide_type": "insight",
+            "content_length": 7,
+            "total_chars": 791,
+            "error": "'str' object has no attribute 'choices'",
+            "theme": "Professional Green"
+        },
+        {
+            "slide_title": "Current Compliance Documentation Framework",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 6,
+            "total_chars": 422,
+            "probability": 0.25,
+            "theme": "Professional Green"
+        },
+        {
+            "slide_title": "Proposed Changes to Documentation Framework",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 6,
+            "total_chars": 427,
+            "probability": 0.25,
+            "theme": "Professional Green"
+        },
+        {
+            "slide_title": "Conclusion",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "strategic_clean_conclusion",
+            "slide_type": "conclusion",
+            "theme": "Professional Green"
+        }
+    ],
+    "app": "file_system"
+}

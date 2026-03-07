@@ -1,0 +1,81 @@
+{
+    "file_name": "IT-expenditure-analysis",
+    "file_title": "IT Expenditure Analysis: Hardware Upgrades",
+    "introduction": "This presentation will provide an in-depth analysis of MediConn's Information Technology expenditure in 2025, with a specific focus on desktop hardware upgrades. This information is crucial in understanding and strategizing the allocation of our annual IT budget.",
+    "subsections": [
+        {
+            "heading": "Overview of 2025 IT Expenditures",
+            "content": "\u2022 Total IT expenditure for 2025 was $7.5 million\n\u2022 Network security and data protection accounted for 35% of the total budget\n\u2022 Cloud services and storage solutions accounted for 25% of the budget\n\u2022 IT staff salaries and benefits made up 20% of the total expenditure\n\u2022 Software licensing and updates accounted for 15% of the expenditure\n\u2022 The remaining 5% was allocated to miscellaneous IT costs",
+            "type": "distractor",
+            "justification": "The content discusses the general IT budget distribution without detailing the desktop hardware upgrades. It uses the 'adjacent business areas' distractor strategy."
+        },
+        {
+            "heading": "Detailed Analysis of Hardware Upgrade Costs",
+            "content": "\u2022 The cost of server hardware upgrades in 2025 was $500,000\n\u2022 The company invested $300,000 in new routers and switches\n\u2022 MediConn spent $200,000 on upgrading data center infrastructure\n\u2022 There was a $100,000 investment in wireless network hardware\n\u2022 The company also allocated $50,000 for peripheral device upgrades",
+            "type": "distractor",
+            "justification": "The content details other hardware costs, but doesn't mention desktop hardware upgrades. It uses the 'focus on tangential operational details' distractor strategy."
+        },
+        {
+            "heading": "Comparison of IT Spending with Industry Trends",
+            "content": "\u2022 Industry average IT spending increased by 15% in 2025\n\u2022 MediConn's IT spending increased by 20% compared to 2024\n\u2022 The company's spending on data security was 10% higher than the industry average\n\u2022 The investment in cloud services was in line with industry trends\n\u2022 The spending on hardware upgrades was below the industry average",
+            "type": "distractor",
+            "justification": "The content compares MediConn's overall IT spending with industry trends without specifying desktop hardware upgrades. It uses the 'general industry trends' distractor strategy."
+        }
+    ],
+    "conclusion": "Understanding our IT expenditure, specifically on hardware upgrades, allows us to make informed decisions about future investments and budgeting. Moving forward, we will continue monitoring industry trends to ensure our IT infrastructure is both cost-effective and competitive.",
+    "file_format": "pptx",
+    "file_path": ".llm_responses/generated_pptx_presentation.pptx",
+    "qa_type": "distractor",
+    "timestamp": "2025-11-21 13:33",
+    "image_queries": [
+        {
+            "slide_title": "Introduction",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "intentionally_clean",
+            "slide_type": "introduction"
+        },
+        {
+            "slide_title": "Overview of 2025 IT Expenditures",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 6,
+            "total_chars": 378,
+            "probability": 0.25,
+            "theme": "Classic Navy"
+        },
+        {
+            "slide_title": "Detailed Analysis of Hardware Upgrade Costs",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 5,
+            "total_chars": 302,
+            "probability": 0.45,
+            "theme": "Classic Navy"
+        },
+        {
+            "slide_title": "Comparison of IT Spending with Industry Trends",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "failed",
+            "slide_type": "distractor",
+            "content_length": 5,
+            "total_chars": 318,
+            "error": "'str' object has no attribute 'choices'",
+            "theme": "Classic Navy"
+        },
+        {
+            "slide_title": "Conclusion",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "strategic_clean_conclusion",
+            "slide_type": "conclusion",
+            "theme": "Classic Navy"
+        }
+    ],
+    "app": "nextcloud"
+}

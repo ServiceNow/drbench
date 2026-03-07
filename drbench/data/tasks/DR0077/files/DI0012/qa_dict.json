@@ -1,0 +1,10 @@
+{
+    "insight_id": "DI0012",
+    "qa_type": "distractor",
+    "qa_index": 12,
+    "specific_question": "How many key environmental compliance metrics will Elexion Automotive collect from each of its production lines using IoT sensors and digital twins in Q1 2026?",
+    "answer": "Internal Elexion Automotive analytics projections indicate that each production line will collect approximately 500 real-time environmental compliance metrics from IoT sensors and digital twins between January 1 and March 31, 2026. This will cover emissions, energy use, and waste management.",
+    "justification": "",
+    "timestamp": "2025-11-20 03:35",
+    "dr_question": "How can Elexion Automotive use real-time data from IoT sensors embedded in vehicles and manufacturing equipment, combined with digital engineering-enabled digital twins, to enhance predictive maintenance and minimize downtime in production lines by the end of 2025?"
+}

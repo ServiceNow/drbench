@@ -1,0 +1,172 @@
+================================================================================
+ROUNDCUBE EMAIL EXPORT
+================================================================================
+
+USERS:
+----------------------------------------
+• amanda.foster
+  Name: Amanda Foster
+  Email: amanda.foster@elexionautomotive.com
+
+• peter.martin
+  Name: Peter Martin
+  Email: peter.martin@elexionautomotive.com
+
+• lucy.richards
+  Name: Lucy Richards
+  Email: lucy.richards@elexionautomotive.com
+
+• john.doe
+  Name: John Doe
+  Email: john.doe@elexionautomotive.com
+
+• sarah.jones
+  Name: Sarah Jones
+  Email: sarah.jones@elexionautomotive.com
+
+• tom.parker
+  Name: Tom Parker
+  Email: tom.parker@elexionautomotive.com
+
+• rachel.green
+  Name: Rachel Green
+  Email: rachel.green@elexionautomotive.com
+
+EMAILS:
+================================================================================
+Email ID: email_001
+Date: 2023-06-20 10:00:00
+From: Amanda Foster <amanda.foster@elexionautomotive.com>
+To: peter.martin@elexionautomotive.com, lucy.richards@elexionautomotive.com, john.doe@elexionautomotive.com
+CC: sarah.jones@elexionautomotive.com
+Subject: Weekly Team Meeting Agenda
+Folder: sent | Status: Read
+Attachments: 1 file(s)
+
+Message Body:
+----------------------------------------
+Hello Team,
+
+Attached you will find the agenda for our weekly meeting. We will be discussing the status of ongoing projects and any potential obstacles. Please come prepared with updates from your respective areas.
+
+Best,
+Amanda
+============================================================
+
+Email ID: email_002
+Date: 2023-06-21 09:30:00
+From: Sarah Jones <sarah.jones@elexionautomotive.com>
+To: amanda.foster@elexionautomotive.com, peter.martin@elexionautomotive.com
+Subject: EV Industry Conference
+Folder: inbox | Status: Read
+
+Message Body:
+----------------------------------------
+Hi Amanda and Peter,
+
+Just wanted to let you know that the annual EV Industry Conference is coming up in August. It would be a great opportunity for us to meet with industry leaders and gain some insights. Please let me know if you'd be interested in attending.
+
+Best,
+Sarah
+============================================================
+
+Email ID: email_003
+Date: 2023-06-21 12:15:00
+From: Rachel Green <rachel.green@elexionautomotive.com>
+To: amanda.foster@elexionautomotive.com
+Subject: Customer Feedback Summary
+Folder: inbox | Status: Read
+Attachments: 1 file(s)
+
+Message Body:
+----------------------------------------
+Hi Amanda,
+
+Attached is the summary of customer feedback we've received in the past month. While most of the feedback is positive, there are a few areas that we might need to address. Please review and let's discuss it in our next meeting.
+
+Best,
+Rachel
+============================================================
+
+Email ID: email_004
+Date: 2023-06-22 14:00:00
+From: Tom Parker <tom.parker@elexionautomotive.com>
+To: amanda.foster@elexionautomotive.com
+CC: peter.martin@elexionautomotive.com
+Subject: Software Update Implementation
+Folder: inbox | Status: Unread
+
+Message Body:
+----------------------------------------
+Hi Amanda,
+
+We'll be rolling out a new software update next week. This should improve the efficiency of our design process. I will need your help in testing this new software. Let's schedule a meeting to discuss this further.
+
+Regards,
+Tom
+============================================================
+
+Email ID: email_001
+Date: 2026-10-12 10:30:00
+From: Peter Martin <peter.martin@elexionautomotive.com>
+To: amanda.foster@elexionautomotive.com
+CC: lucy.richards@elexionautomotive.com
+Subject: Re: Cold Weather Testing Protocols
+Folder: inbox | Status: Read
+
+Message Body:
+----------------------------------------
+Hi Amanda,
+
+Thank you for sharing your insights on improving our cold-weather testing protocols. As you know, Canada is a crucial market for us, and we need to make sure our EVs perform optimally in their extreme weather conditions. 
+
+I believe that the integration of the vehicle-to-everything (V2X) communication technology could play a significant role in enhancing our testing protocols. As per our data, the demand for V2X technology at Elexion Automotive rose by 42% in 2025. This trend indicates that consumers are increasingly interested in connected vehicle technology.
+
+Let's brainstorm on how we can leverage this technology to improve our cold-weather testing protocols. I'll set up a meeting for us next week.
+
+Best,
+Peter
+============================================================
+
+Email ID: email_002
+Date: 2026-10-12 12:30:00
+From: Amanda Foster <amanda.foster@elexionautomotive.com>
+To: peter.martin@elexionautomotive.com
+CC: lucy.richards@elexionautomotive.com
+Subject: Re: Cold Weather Testing Protocols
+Folder: inbox | Status: Read
+
+Message Body:
+----------------------------------------
+Hi Peter,
+
+Thanks for your quick response and for setting up the meeting. The substantial increase in the demand for V2X technology is indeed an important factor we should consider. It could provide valuable data for our QA team to analyze battery performance under different driving conditions, including cold weather.
+
+Looking forward to our discussion next week.
+
+Best,
+Amanda
+============================================================
+
+Email ID: email_003
+Date: 2026-10-12 15:00:00
+From: Lucy Richards <lucy.richards@elexionautomotive.com>
+To: peter.martin@elexionautomotive.com, amanda.foster@elexionautomotive.com
+Subject: Re: Cold Weather Testing Protocols
+Folder: inbox | Status: Read
+
+Message Body:
+----------------------------------------
+Hi Peter and Amanda,
+
+I've been following your discussion and I agree that the rise in V2X technology usage could significantly benefit our cold-weather testing protocols. Moreover, with more data from V2X, we can make our EVs more reliable and suited to the Canadian weather.
+
+I'm looking forward to our meeting next week and exploring this further.
+
+Best,
+Lucy
+============================================================
+
+================================================================================
+END OF EMAIL EXPORT
+================================================================================

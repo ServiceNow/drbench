@@ -1,0 +1,10 @@
+{
+    "insight_id": "DI0009",
+    "qa_type": "distractor",
+    "qa_index": 9,
+    "specific_question": "How many third-party wellness app integrations were added to MediConn's virtual health platform in FY2025?",
+    "answer": "MediConn added five new third-party wellness app integrations, including fitness tracking and nutrition logging tools, to enhance user engagement.",
+    "justification": "While these integrations support patient experience, they are unrelated to the Government of Canada's Indigenous healthcare data governance or reporting compliance requirements.",
+    "timestamp": "2025-11-20 16:45",
+    "dr_question": "What additional compliance controls should be integrated into MediConn\u2019s platform by Q2 2026 to ensure secure authentication and patient verification for Indigenous patients in low-connectivity environments?"
+}

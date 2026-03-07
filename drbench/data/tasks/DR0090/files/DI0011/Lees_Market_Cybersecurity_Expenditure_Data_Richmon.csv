@@ -1,0 +1,12 @@
+Company_Name,Year,Expenditure_on_Cybersecurity,Currency,Relation_to_Sales
+"The name of the company. For this insight, it would be 'Lee's Market'.","The year in which the expenditure was made. For this insight, it would be '2024'.","The amount of money spent by the company on cybersecurity in the specified year. For this insight, it would be '1.8 million CAD'.","Currency in which the expenditure was made. For this insight, it would be 'CAD'.","A brief description on how the expenditure on cybersecurity is related to the company's sales. For this insight, it would be 'Expenditure on cybersecurity is unrelated to Lee's Market's success in sales.'"
+Black's Books,2023,600000,EUR,Black's Books has seen a decrease in sales despite high cybersecurity expenditure.
+White's Winery,2023,900000,AUD,Increased cybersecurity expenditure has led to increased online sales for White's Winery.
+Green's Gardening,2022,200000,GBP,"Despite high cybersecurity expenditure, Green's Gardening's sales have decreased."
+Orange's Outfits,2024,1700000,EUR,Increased cybersecurity expenditure has led to increased online sales for Orange's Outfits.
+Brown's Bakery,2021,700000,USD,Cybersecurity expenditure has no clear impact on Brown's Bakery's sales.
+Lee's Market,2024,1800000,CAD,Expenditure on cybersecurity is unrelated to Lee's Market's success in sales.
+Purple's Produce,2024,1500000,USD,"Despite high cybersecurity expenditure, Purple's Produce has seen a decrease in sales."
+Smith's Groceries,2020,500000,CAD,Cybersecurity expenditure has positively impacted Smith's Groceries' sales.
+Gray's Groceries,2024,1100000,CAD,Cybersecurity expenditure has had a positive impact on Gray's Groceries' online sales.
+Blue's Bakery,2024,1600000,CAD,Cybersecurity expenditure has had no clear impact on Blue's Bakery's sales.

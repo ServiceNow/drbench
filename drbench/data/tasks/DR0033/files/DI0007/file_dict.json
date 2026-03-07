@@ -1,0 +1,237 @@
+{
+    "file_name": "roundcube_email_20251119_094521",
+    "content": "{\"type\": \"user\", \"username\": \"jason.wong\", \"first_name\": \"Jason\", \"last_name\": \"Wong\", \"email\": \"jason.wong@leesmarket.com\", \"password\": \"secure_pwd1\"}\n{\"type\": \"user\", \"username\": \"linda.chen\", \"first_name\": \"Linda\", \"last_name\": \"Chen\", \"email\": \"linda.chen@leesmarket.com\", \"password\": \"secure_pwd2\"}\n{\"type\": \"user\", \"username\": \"david.lee\", \"first_name\": \"David\", \"last_name\": \"Lee\", \"email\": \"david.lee@leesmarket.com\", \"password\": \"secure_pwd3\"}\n{\"type\": \"user\", \"username\": \"susan.kim\", \"first_name\": \"Susan\", \"last_name\": \"Kim\", \"email\": \"susan.kim@leesmarket.com\", \"password\": \"secure_pwd4\"}\n{\"type\": \"user\", \"username\": \"michael.park\", \"first_name\": \"Michael\", \"last_name\": \"Park\", \"email\": \"michael.park@leesmarket.com\", \"password\": \"secure_pwd5\"}\n{\"type\": \"user\", \"username\": \"elizabeth.johnson\", \"first_name\": \"Elizabeth\", \"last_name\": \"Johnson\", \"email\": \"elizabeth.johnson@leesmarket.com\", \"password\": \"secure_pwd6\"}\n{\"type\": \"user\", \"username\": \"james.taylor\", \"first_name\": \"James\", \"last_name\": \"Taylor\", \"email\": \"james.taylor@leesmarket.com\", \"password\": \"secure_pwd7\"}\n{\"type\": \"user\", \"username\": \"sarah.martin\", \"first_name\": \"Sarah\", \"last_name\": \"Martin\", \"email\": \"sarah.martin@leesmarket.com\", \"password\": \"secure_pwd8\"}\n{\"type\": \"email\", \"id\": \"email_001\", \"subject\": \"Weekly IT Team Meeting Agenda\", \"from\": \"jason.wong@leesmarket.com\", \"from_name\": \"Jason Wong\", \"to\": [\"linda.chen@leesmarket.com\", \"david.lee@leesmarket.com\", \"susan.kim@leesmarket.com\", \"michael.park@leesmarket.com\"], \"cc\": [], \"date\": \"2022-10-01 09:00:00\", \"body\": \"Dear Team, Here's the agenda for our weekly meeting this Tuesday. Please prepare your updates. 1. IT Infrastructure Updates 2. Potential Software Upgrades 3. Team's Ongoing Projects 4. Open Discussion Time. Regards, Jason\", \"folder\": \"sent\", \"read\": true, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_002\", \"subject\": \"Budget Allocation for the Next Quarter\", \"from\": \"linda.chen@leesmarket.com\", \"from_name\": \"Linda Chen\", \"to\": [\"jason.wong@leesmarket.com\"], \"cc\": [\"elizabeth.johnson@leesmarket.com\"], \"date\": \"2022-10-02 10:30:00\", \"body\": \"Hi Jason, I need your input on the IT budget for the next quarter. Can we discuss this during our one-on-one tomorrow? Regards, Linda.\", \"folder\": \"inbox\", \"read\": false, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_003\", \"subject\": \"Customer Feedback on Online Shopping Experience\", \"from\": \"david.lee@leesmarket.com\", \"from_name\": \"David Lee\", \"to\": [\"jason.wong@leesmarket.com\"], \"cc\": [\"sarah.martin@leesmarket.com\"], \"date\": \"2022-10-03 14:15:00\", \"body\": \"Jason, Sharing the latest customer feedback on the online shopping experience. We've been getting some complaints about the lengthy checkout process. Let's discuss possible solutions in the next meeting. - David\", \"folder\": \"inbox\", \"read\": true, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_004\", \"subject\": \"New POS System Implementation\", \"from\": \"jason.wong@leesmarket.com\", \"from_name\": \"Jason Wong\", \"to\": [\"michael.park@leesmarket.com\"], \"cc\": [\"linda.chen@leesmarket.com\"], \"date\": \"2022-10-04 15:30:00\", \"body\": \"Hi Michael, I would like to discuss the timeline for the implementation of the new POS system. Can you provide an update on your end? Best, Jason\", \"folder\": \"sent\", \"read\": true, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_005\", \"subject\": \"Annual IT Conference\", \"from\": \"susan.kim@leesmarket.com\", \"from_name\": \"Susan Kim\", \"to\": [\"jason.wong@leesmarket.com\"], \"cc\": [], \"date\": \"2022-10-05 11:00:00\", \"body\": \"Jason, The annual IT conference is coming up next month. Would you be interested in participating? It would be a good opportunity to network and learn about new trends in the industry. - Susan\", \"folder\": \"inbox\", \"read\": false, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_001\", \"subject\": \"Cybersecurity Awareness and Training Program Proposal\", \"from\": \"jason.wong@leesmarket.com\", \"from_name\": \"Jason Wong\", \"to\": [\"david.lee@leesmarket.com\", \"linda.chen@leesmarket.com\", \"susan.kim@leesmarket.com\"], \"cc\": [\"michael.park@leesmarket.com\", \"elizabeth.johnson@leesmarket.com\"], \"date\": \"2025-07-15 09:00:00\", \"body\": \"Hi team,\\n\\nAs we continue to expand our operations and hire seasonally, it\\u2019s important that we prioritize the implementation of a comprehensive cybersecurity awareness and training program. Our goal is to mitigate security risks, minimize incidents caused by human error, and support our growth in both the US and Canadian markets.\\n\\nI propose we design a program that includes regular training sessions, phishing simulations, and security best practice reminders. We should also consider integrating cybersecurity into our onboarding process, especially given our high turnover rate.\\n\\nLooking forward to your thoughts.\\n\\nBest,\\nJason\", \"folder\": \"sent\", \"read\": true, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_002\", \"subject\": \"Re: Cybersecurity Awareness and Training Program Proposal\", \"from\": \"linda.chen@leesmarket.com\", \"from_name\": \"Linda Chen\", \"to\": [\"jason.wong@leesmarket.com\", \"david.lee@leesmarket.com\", \"susan.kim@leesmarket.com\"], \"cc\": [\"michael.park@leesmarket.com\", \"elizabeth.johnson@leesmarket.com\"], \"date\": \"2025-07-16 10:15:00\", \"body\": \"Hi Jason,\\n\\nI agree with your proposal and believe that a focused training program is essential to ensuring our cybersecurity. This will help us address potential risks caused by high employee turnover and seasonal hires.\\n\\nLet's discuss further on how we can integrate this with our HR processes.\\n\\nBest,\\nLinda\", \"folder\": \"inbox\", \"read\": true, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_003\", \"subject\": \"Re: Cybersecurity Awareness and Training Program Proposal\", \"from\": \"susan.kim@leesmarket.com\", \"from_name\": \"Susan Kim\", \"to\": [\"jason.wong@leesmarket.com\", \"david.lee@leesmarket.com\", \"linda.chen@leesmarket.com\"], \"cc\": [\"michael.park@leesmarket.com\", \"elizabeth.johnson@leesmarket.com\"], \"date\": \"2025-07-17 11:30:00\", \"body\": \"Jason,\\n\\nI support this initiative and believe it will significantly contribute to our cybersecurity efforts. Having a standardized training program will ensure that all employees, regardless of their tenure, are equipped with the knowledge necessary to prevent and respond to potential threats. We should also consider using our internal communication channels to regularly share cybersecurity updates and reminders.\\n\\nBest,\\nSusan\", \"folder\": \"inbox\", \"read\": true, \"attachments\": []}",
+    "email_setup": [
+        {
+            "type": "user",
+            "username": "jason.wong",
+            "first_name": "Jason",
+            "last_name": "Wong",
+            "email": "jason.wong@leesmarket.com",
+            "password": "secure_pwd1"
+        },
+        {
+            "type": "user",
+            "username": "linda.chen",
+            "first_name": "Linda",
+            "last_name": "Chen",
+            "email": "linda.chen@leesmarket.com",
+            "password": "secure_pwd2"
+        },
+        {
+            "type": "user",
+            "username": "david.lee",
+            "first_name": "David",
+            "last_name": "Lee",
+            "email": "david.lee@leesmarket.com",
+            "password": "secure_pwd3"
+        },
+        {
+            "type": "user",
+            "username": "susan.kim",
+            "first_name": "Susan",
+            "last_name": "Kim",
+            "email": "susan.kim@leesmarket.com",
+            "password": "secure_pwd4"
+        },
+        {
+            "type": "user",
+            "username": "michael.park",
+            "first_name": "Michael",
+            "last_name": "Park",
+            "email": "michael.park@leesmarket.com",
+            "password": "secure_pwd5"
+        },
+        {
+            "type": "user",
+            "username": "elizabeth.johnson",
+            "first_name": "Elizabeth",
+            "last_name": "Johnson",
+            "email": "elizabeth.johnson@leesmarket.com",
+            "password": "secure_pwd6"
+        },
+        {
+            "type": "user",
+            "username": "james.taylor",
+            "first_name": "James",
+            "last_name": "Taylor",
+            "email": "james.taylor@leesmarket.com",
+            "password": "secure_pwd7"
+        },
+        {
+            "type": "user",
+            "username": "sarah.martin",
+            "first_name": "Sarah",
+            "last_name": "Martin",
+            "email": "sarah.martin@leesmarket.com",
+            "password": "secure_pwd8"
+        }
+    ],
+    "email_messages": [
+        {
+            "type": "email",
+            "id": "email_001",
+            "subject": "Weekly IT Team Meeting Agenda",
+            "from": "jason.wong@leesmarket.com",
+            "from_name": "Jason Wong",
+            "to": [
+                "linda.chen@leesmarket.com",
+                "david.lee@leesmarket.com",
+                "susan.kim@leesmarket.com",
+                "michael.park@leesmarket.com"
+            ],
+            "cc": [],
+            "date": "2022-10-01 09:00:00",
+            "body": "Dear Team, Here's the agenda for our weekly meeting this Tuesday. Please prepare your updates. 1. IT Infrastructure Updates 2. Potential Software Upgrades 3. Team's Ongoing Projects 4. Open Discussion Time. Regards, Jason",
+            "folder": "sent",
+            "read": true,
+            "attachments": [],
+            "tag": "distractor"
+        },
+        {
+            "type": "email",
+            "id": "email_002",
+            "subject": "Budget Allocation for the Next Quarter",
+            "from": "linda.chen@leesmarket.com",
+            "from_name": "Linda Chen",
+            "to": [
+                "jason.wong@leesmarket.com"
+            ],
+            "cc": [
+                "elizabeth.johnson@leesmarket.com"
+            ],
+            "date": "2022-10-02 10:30:00",
+            "body": "Hi Jason, I need your input on the IT budget for the next quarter. Can we discuss this during our one-on-one tomorrow? Regards, Linda.",
+            "folder": "inbox",
+            "read": false,
+            "attachments": [],
+            "tag": "distractor"
+        },
+        {
+            "type": "email",
+            "id": "email_003",
+            "subject": "Customer Feedback on Online Shopping Experience",
+            "from": "david.lee@leesmarket.com",
+            "from_name": "David Lee",
+            "to": [
+                "jason.wong@leesmarket.com"
+            ],
+            "cc": [
+                "sarah.martin@leesmarket.com"
+            ],
+            "date": "2022-10-03 14:15:00",
+            "body": "Jason, Sharing the latest customer feedback on the online shopping experience. We've been getting some complaints about the lengthy checkout process. Let's discuss possible solutions in the next meeting. - David",
+            "folder": "inbox",
+            "read": true,
+            "attachments": [],
+            "tag": "distractor"
+        },
+        {
+            "type": "email",
+            "id": "email_004",
+            "subject": "New POS System Implementation",
+            "from": "jason.wong@leesmarket.com",
+            "from_name": "Jason Wong",
+            "to": [
+                "michael.park@leesmarket.com"
+            ],
+            "cc": [
+                "linda.chen@leesmarket.com"
+            ],
+            "date": "2022-10-04 15:30:00",
+            "body": "Hi Michael, I would like to discuss the timeline for the implementation of the new POS system. Can you provide an update on your end? Best, Jason",
+            "folder": "sent",
+            "read": true,
+            "attachments": [],
+            "tag": "distractor"
+        },
+        {
+            "type": "email",
+            "id": "email_005",
+            "subject": "Annual IT Conference",
+            "from": "susan.kim@leesmarket.com",
+            "from_name": "Susan Kim",
+            "to": [
+                "jason.wong@leesmarket.com"
+            ],
+            "cc": [],
+            "date": "2022-10-05 11:00:00",
+            "body": "Jason, The annual IT conference is coming up next month. Would you be interested in participating? It would be a good opportunity to network and learn about new trends in the industry. - Susan",
+            "folder": "inbox",
+            "read": false,
+            "attachments": [],
+            "tag": "distractor"
+        },
+        {
+            "type": "email",
+            "id": "email_001",
+            "subject": "Cybersecurity Awareness and Training Program Proposal",
+            "from": "jason.wong@leesmarket.com",
+            "from_name": "Jason Wong",
+            "to": [
+                "david.lee@leesmarket.com",
+                "linda.chen@leesmarket.com",
+                "susan.kim@leesmarket.com"
+            ],
+            "cc": [
+                "michael.park@leesmarket.com",
+                "elizabeth.johnson@leesmarket.com"
+            ],
+            "date": "2025-07-15 09:00:00",
+            "body": "Hi team,\n\nAs we continue to expand our operations and hire seasonally, it\u2019s important that we prioritize the implementation of a comprehensive cybersecurity awareness and training program. Our goal is to mitigate security risks, minimize incidents caused by human error, and support our growth in both the US and Canadian markets.\n\nI propose we design a program that includes regular training sessions, phishing simulations, and security best practice reminders. We should also consider integrating cybersecurity into our onboarding process, especially given our high turnover rate.\n\nLooking forward to your thoughts.\n\nBest,\nJason",
+            "folder": "sent",
+            "read": true,
+            "attachments": [],
+            "tag": "insight"
+        },
+        {
+            "type": "email",
+            "id": "email_002",
+            "subject": "Re: Cybersecurity Awareness and Training Program Proposal",
+            "from": "linda.chen@leesmarket.com",
+            "from_name": "Linda Chen",
+            "to": [
+                "jason.wong@leesmarket.com",
+                "david.lee@leesmarket.com",
+                "susan.kim@leesmarket.com"
+            ],
+            "cc": [
+                "michael.park@leesmarket.com",
+                "elizabeth.johnson@leesmarket.com"
+            ],
+            "date": "2025-07-16 10:15:00",
+            "body": "Hi Jason,\n\nI agree with your proposal and believe that a focused training program is essential to ensuring our cybersecurity. This will help us address potential risks caused by high employee turnover and seasonal hires.\n\nLet's discuss further on how we can integrate this with our HR processes.\n\nBest,\nLinda",
+            "folder": "inbox",
+            "read": true,
+            "attachments": [],
+            "tag": "insight"
+        },
+        {
+            "type": "email",
+            "id": "email_003",
+            "subject": "Re: Cybersecurity Awareness and Training Program Proposal",
+            "from": "susan.kim@leesmarket.com",
+            "from_name": "Susan Kim",
+            "to": [
+                "jason.wong@leesmarket.com",
+                "david.lee@leesmarket.com",
+                "linda.chen@leesmarket.com"
+            ],
+            "cc": [
+                "michael.park@leesmarket.com",
+                "elizabeth.johnson@leesmarket.com"
+            ],
+            "date": "2025-07-17 11:30:00",
+            "body": "Jason,\n\nI support this initiative and believe it will significantly contribute to our cybersecurity efforts. Having a standardized training program will ensure that all employees, regardless of their tenure, are equipped with the knowledge necessary to prevent and respond to potential threats. We should also consider using our internal communication channels to regularly share cybersecurity updates and reminders.\n\nBest,\nSusan",
+            "folder": "inbox",
+            "read": true,
+            "attachments": [],
+            "tag": "insight"
+        }
+    ],
+    "file_format": "jsonl",
+    "file_path": ".llm_responses/generated_email_document.jsonl",
+    "qa_type": "distractor",
+    "timestamp": "2025-11-19 10:45",
+    "app": "email"
+}

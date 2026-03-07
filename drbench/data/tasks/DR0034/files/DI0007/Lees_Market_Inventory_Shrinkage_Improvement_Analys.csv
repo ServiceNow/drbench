@@ -1,0 +1,11 @@
+Month_Year,Person_Responsible,Action,Starting_Shrinkage_Rate,Ending_Shrinkage_Rate,Shrinkage_Rate_Change
+The month and year when the mentioned improvement was made in the inventory shrinkage reporting.,The name of the person who made the improvement in the inventory shrinkage reporting.,The specific action or method implemented to improve inventory shrinkage reporting.,The inventory shrinkage rate before the improvement was made.,The inventory shrinkage rate after the improvement was made.,The change in inventory shrinkage rate as a result of the implemented improvement.
+2025-06,Emma Thompson,Enhanced surveillance systems,3.0%,2.8%,-0.2%
+2025-09,Michael Johnson,Improved checkout procedures,2.8%,2.5%,-0.3%
+2025-12,Sophia Davis,Implemented vendor scorecards,2.5%,2.3%,-0.2%
+2025-03,Jason Wong,Optimized receiving process,3.2%,3.0%,-0.2%
+2025-01,Jason Wong,Introduced new loss prevention strategies,3.7%,3.8%,0.1%
+2024-09,Michael Johnson,Launched inventory accuracy program,4.2%,3.9%,-0.3%
+2024-12,Sophia Davis,Established routine cycle counts,3.9%,3.7%,-0.2%
+2025-02,Jason Wong,Built a dashboard tracking shrink rates,3.8%,3.2%,-0.6%
+2024-06,Emma Thompson,Implemented RFID tags,5%,4.2%,-0.8%

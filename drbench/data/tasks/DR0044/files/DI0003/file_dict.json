@@ -1,0 +1,82 @@
+{
+    "file_name": "website-traffic-2025",
+    "file_title": "Website Traffic Analysis 2025",
+    "introduction": "This presentation aims to provide an in-depth analysis of our website traffic for the year 2025. The insights gathered will guide our digital marketing strategies moving forward.",
+    "subsections": [
+        {
+            "heading": "Review of Digital Marketing Efforts",
+            "content": "\u2022 In 2024, the marketing department focused on enhancing SEO efforts\n\u2022 Social media campaigns increased by 15% in the past year\n\u2022 Email marketing campaigns reached an open rate of 20% in Q4 2024\n\u2022 Online ad spend increased by 10% in 2025 to widen reach\n\u2022 Content marketing strategy revamped to include more healthcare-related blogs and articles\n\u2022 The use of influencer marketing was trialled in Q2 2025",
+            "type": "distractor",
+            "justification": "Information is about general marketing efforts, not specific website traffic metrics. Strategy focuses on historical context and general industry trends."
+        },
+        {
+            "heading": "Detailed Website Traffic Overview",
+            "content": "\u2022 The website underwent a redesign in Q1 2025\n\u2022 80% of website traffic in 2024 was from organic search\n\u2022 Bounce rate improved by 5% after implementing new website design\n\u2022 The website was optimized for mobile usage, accounting for 60% of the traffic\n\u2022 Page load times decreased by 20% after website optimization\n\u2022 Introduced live chat support on the website in Q3 2025",
+            "type": "distractor",
+            "justification": "Although the information is about the website, it doesn't give specifics on monthly traffic. Strategy focuses on operational details and procedural information."
+        },
+        {
+            "heading": "User Engagement and Conversion Rates",
+            "content": "\u2022 User session duration increased by 10% in 2025\n\u2022 The average number of pages viewed per session was 3 in 2025\n\u2022 Conversion rate improved by 2% after implementing new user interface\n\u2022 A/B testing conducted for landing pages showed a 15% increase in conversions\n\u2022 Cart abandonment rate decreased by 5% in Q4 2025\n\u2022 User feedback survey conducted in Q2 2025 showed a 90% satisfaction rate",
+            "type": "distractor",
+            "justification": "Discussing user engagement and conversions, not website traffic. Strategy uses related but non-essential business metrics."
+        }
+    ],
+    "conclusion": "Our website has seen significant traffic this past year, informing us of key areas to focus our digital marketing efforts. Moving forward, we will continue to optimize our website to improve user engagement and conversion rates.",
+    "file_format": "pptx",
+    "file_path": ".llm_responses/generated_pptx_presentation.pptx",
+    "qa_type": "distractor",
+    "timestamp": "2025-11-19 23:18",
+    "image_queries": [
+        {
+            "slide_title": "Introduction",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "intentionally_clean",
+            "slide_type": "introduction"
+        },
+        {
+            "slide_title": "Review of Digital Marketing Efforts",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "failed",
+            "slide_type": "distractor",
+            "content_length": 6,
+            "total_chars": 385,
+            "error": "'str' object has no attribute 'choices'",
+            "theme": "Elegant Teal"
+        },
+        {
+            "slide_title": "Detailed Website Traffic Overview",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 6,
+            "total_chars": 351,
+            "probability": 0.25,
+            "theme": "Elegant Teal"
+        },
+        {
+            "slide_title": "User Engagement and Conversion Rates",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 6,
+            "total_chars": 370,
+            "probability": 0.25,
+            "theme": "Elegant Teal"
+        },
+        {
+            "slide_title": "Conclusion",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "conclusion_failed",
+            "slide_type": "conclusion",
+            "error": "'str' object has no attribute 'choices'",
+            "theme": "Elegant Teal"
+        }
+    ],
+    "app": "file_system"
+}

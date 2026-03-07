@@ -1,0 +1,29 @@
+{
+    "file_name": "Q2-Energy-Report",
+    "file_title": "Q2 2025 Energy Consumption Report",
+    "introduction": "This report provides an overview of Lee's Market's energy consumption during Q2 2025, with a particular focus on our New Jersey store. As part of our company's commitment to financial efficiency and sustainability, it is important to regularly review and analyze our energy usage patterns. This analysis will guide our strategic planning for future energy conservation measures and operational cost management.",
+    "subsections": [
+        {
+            "heading": "Analysis of store-wide energy consumption",
+            "content": "In Q1 2025, Lee's Market noticed an overall increase in energy consumption by 2.7% compared to the same quarter the previous year. This rise was observed across all stores, and was particularly significant in the fresh produce department. This led to an internal initiative to review lighting and refrigeration practices across all our locations.",
+            "type": "distractor",
+            "justification": "This content discusses overall energy consumption but not specifically about electricity cost in New Jersey store in Q2 2025."
+        },
+        {
+            "heading": "Assessment of New Jersey store's electrical usage",
+            "content": "Our New Jersey store has been a consistent performer in effectively managing electrical usage. In Q3 2024, the store implemented an energy-saving initiative which resulted in a 3% decrease in overall electrical usage by Q1 2025. The store has also been focusing on using energy-efficient lighting solutions.",
+            "type": "distractor",
+            "justification": "This content discusses electrical usage but does not give specific figures for Q2 2025 electricity cost."
+        },
+        {
+            "heading": "Comparative study of energy costs across locations",
+            "content": "During the past year, Lee's Market has been studying energy costs across different locations. Notably, our stores in colder climates tend to have higher energy costs due to heating requirements. For instance, our store in Yukon saw a 4% increase in energy costs during the winter months of 2024 compared to the previous year.",
+            "type": "distractor",
+            "justification": "This content discusses energy costs at different locations but not the specific cost in New Jersey store in Q2 2025."
+        }
+    ],
+    "conclusion": "The energy consumption patterns identified in this report provide valuable insights into our operational efficiency. Our New Jersey store shows higher electricity usage, which requires further investigation and potential implementation of energy-saving measures. Continuing to monitor and analyze our energy consumption across all locations will be vital in reducing operational costs and contributing to our environmental sustainability goals.",
+    "file_format": "pdf",
+    "file_path": ".llm_responses/generated_pdf_document.pdf",
+    "app": "file_system"
+}

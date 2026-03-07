@@ -1,0 +1,29 @@
+{
+    "file_name": "asset-decommissioning-report",
+    "file_title": "Asset Lifecycle Report: Diagnostic Tool Decommissioning",
+    "introduction": "This report provides an overview of the decommissioning process of legacy combustion-engine diagnostic tools across all Elexion Automotive facilities. Led by Olivia Martinez and the asset lifecycle team, this initiative aligns with our company's commitment to zero-emission transportation. The report details the decommissioning status, related operational impacts, and strategic insights. It is crucial for understanding our transition progress and planning future resource allocation.",
+    "subsections": [
+        {
+            "heading": "Decommissioning Status and Timeline",
+            "content": "As of October 2025, our team had successfully completed the decommissioning of a variety of manufacturing equipment no longer aligned with our focus on electric vehicles. This equipment, while vital to our previous combustion-engine production, had become obsolete following our strategic pivot. We've also implemented a continuous review process to identify and plan for the decommissioning of other non-core assets in the future.",
+            "type": "distractor",
+            "justification": "Details about other manufacturing equipment and future plans, not the specific tools in the DR Question."
+        },
+        {
+            "heading": "Operational Impacts of Decommissioning",
+            "content": "Decommissioning outdated equipment has had a significant impact on our production processes. We've seen an average 12% increase in assembly line efficiency and a 15% reduction in energy consumption since the initiative began in 2024. The increased floor space has also allowed for more flexible production configurations.",
+            "type": "distractor",
+            "justification": "Discusses impacts on efficiency and energy consumption, not the number of tools decommissioned."
+        },
+        {
+            "heading": "Strategic Insights from Decommissioning Process",
+            "content": "Our shift towards sustainable transportation has necessitated a reevaluation of our asset lifecycle management. The decommissioning process has given us key insights into streamlining our operations, identifying inefficiencies, and maximizing the use of our resources. These learnings will shape our future asset management strategies.",
+            "type": "distractor",
+            "justification": "Discusses strategic insights and future plans, but not the specific decommissioning count."
+        }
+    ],
+    "conclusion": "The decommissioning of legacy diagnostic tools is a significant milestone in our transition to a sustainable future. This process has impacted various operational aspects, requiring us to adapt and innovate. The strategic insights gained will inform our future asset lifecycle management and resource allocation. We will continue to update stakeholders as we progress further in our sustainability journey.",
+    "file_format": "pdf",
+    "file_path": ".llm_responses/generated_pdf_document.pdf",
+    "app": "file_system"
+}

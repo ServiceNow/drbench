@@ -1,0 +1,188 @@
+================================================================================
+ROUNDCUBE EMAIL EXPORT
+================================================================================
+
+USERS:
+----------------------------------------
+• maria.gonzalez
+  Name: Maria Gonzalez
+  Email: maria.gonzalez@leesmarket.com
+
+• john.doe
+  Name: John Doe
+  Email: john.doe@leesmarket.com
+
+• sarah.lee
+  Name: Sarah Lee
+  Email: sarah.lee@leesmarket.com
+
+• david.kim
+  Name: David Kim
+  Email: david.kim@leesmarket.com
+
+• linda.johnson
+  Name: Linda Johnson
+  Email: linda.johnson@leesmarket.com
+
+• michael.brown
+  Name: Michael Brown
+  Email: michael.brown@leesmarket.com
+
+• emma.williams
+  Name: Emma Williams
+  Email: emma.williams@leesmarket.com
+
+• james.jones
+  Name: James Jones
+  Email: james.jones@leesmarket.com
+
+EMAILS:
+================================================================================
+Email ID: email_001
+Date: 2025-09-01 10:30:00
+From: Maria Gonzalez <maria.gonzalez@leesmarket.com>
+To: john.doe@leesmarket.com, sarah.lee@leesmarket.com, david.kim@leesmarket.com
+Subject: Weekly Department Meeting - Agendas
+Folder: sent | Status: Read
+
+Message Body:
+----------------------------------------
+Dear Team,
+
+This is a reminder about our weekly department meeting scheduled for tomorrow at 2 PM. The main discussion point will be the feedback from last week's customer satisfaction survey.
+
+Kind Regards,
+Maria
+============================================================
+
+Email ID: email_002
+Date: 2025-09-02 11:15:23
+From: John Doe <john.doe@leesmarket.com>
+To: maria.gonzalez@leesmarket.com
+Subject: Annual Leave Request
+Folder: sent | Status: Read
+
+Message Body:
+----------------------------------------
+Hi Maria,
+
+I would like to request annual leave from October 15-20. Please let me know if this can be accommodated.
+
+Best,
+John
+============================================================
+
+Email ID: email_003
+Date: 2025-09-03 13:45:00
+From: David Kim <david.kim@leesmarket.com>
+To: maria.gonzalez@leesmarket.com
+CC: linda.johnson@leesmarket.com
+Subject: New Employee Onboarding Next Week
+Folder: sent | Status: Read
+
+Message Body:
+----------------------------------------
+Hi Maria,
+
+Just a heads up that we will have a new employee joining our team next week. I will need your assistance with the onboarding procedure.
+
+Thanks,
+David
+============================================================
+
+Email ID: email_004
+Date: 2025-09-04 08:30:00
+From: Maria Gonzalez <maria.gonzalez@leesmarket.com>
+To: john.doe@leesmarket.com
+Subject: Re: Annual Leave Request
+Folder: sent | Status: Read
+
+Message Body:
+----------------------------------------
+Hi John,
+
+Your leave request for October 15-20 has been approved. Please ensure all your tasks are covered during your absence.
+
+Best,
+Maria
+============================================================
+
+Email ID: email_005
+Date: 2025-09-05 12:00:00
+From: Linda Johnson <linda.johnson@leesmarket.com>
+To: maria.gonzalez@leesmarket.com
+Subject: Employee Performance Reviews
+Folder: inbox | Status: Read
+
+Message Body:
+----------------------------------------
+Dear Maria,
+
+Please prepare the performance reviews of your team members by next week. This will be discussed at our department meeting.
+
+Thanks,
+Linda
+============================================================
+
+Email ID: email_001
+Date: 2025-10-01 09:00:00
+From: Emma Williams <emma.williams@leesmarket.com>
+To: maria.gonzalez@leesmarket.com, john.doe@leesmarket.com
+CC: sarah.lee@leesmarket.com
+Subject: Bakery Sales Analysis Q1-Q3 2025
+Folder: inbox | Status: Read
+Attachments: 1 file(s)
+
+Message Body:
+----------------------------------------
+Hello Maria and John,
+
+As part of our ongoing efforts to optimize store layouts and product displays to increase bakery sales, I've completed a detailed analysis of our monthly bakery sales across all U.S. locations from Q1 to Q3 2025.
+
+On average, we've been making an estimated $5.5M USD per month. This represents an average quarterly growth rate of approximately 5%. This analysis helps us understand the current trend and establish a baseline for setting realistic targets for our desired growth.
+
+Please review the attached report for detailed breakdowns and insights.
+
+Best,
+Emma
+============================================================
+
+Email ID: email_002
+Date: 2025-10-02 10:00:00
+From: Maria Gonzalez <maria.gonzalez@leesmarket.com>
+To: emma.williams@leesmarket.com, john.doe@leesmarket.com
+CC: sarah.lee@leesmarket.com
+Subject: Re: Bakery Sales Analysis Q1-Q3 2025
+Folder: inbox | Status: Read
+
+Message Body:
+----------------------------------------
+Emma,
+
+Thanks for sharing this. These insights are very helpful in understanding our current performance and setting realistic targets for the next quarter. I have a better understanding now of our sales trend and how we can leverage this information to increase bakery sales by 15% by the end of Q1 2026.
+
+Best,
+Maria
+============================================================
+
+Email ID: email_003
+Date: 2025-10-02 16:00:00
+From: John Doe <john.doe@leesmarket.com>
+To: maria.gonzalez@leesmarket.com, emma.williams@leesmarket.com
+CC: sarah.lee@leesmarket.com
+Subject: Re: Bakery Sales Analysis Q1-Q3 2025
+Folder: inbox | Status: Read
+
+Message Body:
+----------------------------------------
+Maria, Emma,
+
+I agree with Maria. This analysis is crucial for our growth strategy. Let's ensure we keep monitoring these trends and keep this data in mind when considering in-store layout changes.
+
+Best Regards,
+John
+============================================================
+
+================================================================================
+END OF EMAIL EXPORT
+================================================================================

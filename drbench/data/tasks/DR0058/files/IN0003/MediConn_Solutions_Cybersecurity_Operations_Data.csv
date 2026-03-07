@@ -1,0 +1,12 @@
+Employee ID,Employee Name,Task Description,Task Start Date,Task End Date,Total Hours Spent
+Unique identifier of the employee responsible for the task,Full name of the employee responsible for the task,Description of the cybersecurity task performed,Start date of the task performed,End date of the task performed,Total number of hours spent on the task
+EID132,Jessica Martinez,Developing a new security awareness program,2024-12-01,2024-12-31,50
+EID130,Emma Thomas,Reviewing and updating the company's password policy,2024-10-15,2024-11-15,35
+EID128,Anna Brown,Ensuring compliance with new data protection regulations,2024-09-20,2024-10-20,25
+EID131,Michael Miller,Responding to a data breach,2024-11-01,2024-11-30,45
+EID129,James Wilson,Conducting penetration testing,2024-10-01,2024-10-31,40
+EID127,Robert Johnson,Updating antivirus software across all systems,2024-09-10,2024-09-25,15
+EID125,John Smith,Implementing new firewall configurations,2024-07-05,2024-08-20,30
+EID123,MediConn's Cybersecurity Specialist,Reviewing and updating the incident response plan for third-party outages and ransomware scenarios,2024-07-01,2024-09-30,36
+EID124,Jane Doe,Routine system checks for vulnerabilities,2024-06-01,2024-06-30,20
+EID126,Emily Davis,Training employees on phishing attempts,2024-09-01,2024-09-15,10

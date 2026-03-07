@@ -1,0 +1,81 @@
+{
+    "file_name": "cybersecurity-training-enhancement",
+    "file_title": "Strengthening Employee Cybersecurity Training in Retail",
+    "introduction": "As we continue to grow and expand our digital footprint, strengthening our cybersecurity training has become of paramount importance to prevent any potential cyberattacks. This presentation outlines how we can leverage our limited resources to enhance our security measures in this area.",
+    "subsections": [
+        {
+            "heading": "Current Cybersecurity Threat Landscape in Retail",
+            "content": "\u2022 With daily processing of thousands of transactions, digital POS and e-commerce platforms at Lee's Market are under constant cyber threat.\n\u2022 Approximately 65% of reported cyberattacks in the retail sector target these critical business systems.\n\u2022 Given the high risk, it is crucial to prioritize employee training on POS and e-commerce platform security in the first three quarters of 2026.\n\u2022 The industry has witnessed 80% of retailers being victims of cyberattacks in the previous year, emphasizing the urgent need for a robust cybersecurity training program.\n\u2022 Lee's Market's brand reputation and operational efficiency hinge on the effectiveness of our cybersecurity measures; 53% of retailers have experienced reputational damage following security breaches.\n\u2022 Furthermore, 68% of retailers reported operational downtime as the most common consequence of cyberattacks, directly affecting customer trust and revenue streams.\n\u2022 It is therefore imperative that our cybersecurity training and incident response processes be designed to mitigate these threats and minimize potential damage.",
+            "type": "insight",
+            "justification": "This content provides insights regarding the cyber threat landscape in retail, the critical importance of employee training, and the potential risks to Lee's Market."
+        },
+        {
+            "heading": "Review of Our Existing Employee Cybersecurity Training",
+            "content": "\u2022 Our current training program was last updated in Q3 2024\n\u2022 The program covers standard cybersecurity topics like phishing, malware, and safe internet usage\n\u2022 As of December 2024, 80% of our employees have completed the training\n\u2022 We utilize a combination of in-person workshops and online modules for training\n\u2022 Since implementation in 2020, our training program has seen an overall positive feedback score of 4.2/5 from employees",
+            "type": "distractor",
+            "justification": "This slide reviews the current training program but doesn't suggest how to strengthen it or address limited IT resources."
+        },
+        {
+            "heading": "Efficient Use of Limited IT Resources for Enhanced Cybersecurity",
+            "content": "\u2022 Our IT department currently consists of 20 full-time employees and 10 contractors\n\u2022 We have implemented automation tools to handle routine tasks and free up our resources for more complex issues\n\u2022 Our IT budget for 2025 is $5 million, a 10% decrease from 2024\n\u2022 We have partnerships with several cybersecurity vendors to extend our capabilities\n\u2022 We are exploring the use of AI and machine learning for threat detection and response",
+            "type": "distractor",
+            "justification": "This information focuses on the existing IT resources and potential technologies, not how to strengthen the training program to mitigate cyberattack risks."
+        }
+    ],
+    "conclusion": "By staying abreast of current threats, reviewing and improving our training program, and using our IT resources efficiently, we can significantly reduce the risk of operation disruptions and financial losses due to cyberattacks. Our next step should be to roll out an updated cybersecurity training program by Q3 2027.",
+    "file_format": "pptx",
+    "file_path": ".llm_responses/generated_pptx_presentation.pptx",
+    "qa_type": "insight",
+    "timestamp": "2025-11-19 02:40",
+    "image_queries": [
+        {
+            "slide_title": "Introduction",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "intentionally_clean",
+            "slide_type": "introduction"
+        },
+        {
+            "slide_title": "Current Cybersecurity Threat Landscape in Retail",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "failed",
+            "slide_type": "insight",
+            "content_length": 7,
+            "total_chars": 1071,
+            "error": "'str' object has no attribute 'choices'",
+            "theme": "Professional Green"
+        },
+        {
+            "slide_title": "Review of Our Existing Employee Cybersecurity Training",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 5,
+            "total_chars": 418,
+            "probability": 0.25,
+            "theme": "Professional Green"
+        },
+        {
+            "slide_title": "Efficient Use of Limited IT Resources for Enhanced Cybersecurity",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 5,
+            "total_chars": 420,
+            "probability": 0.25,
+            "theme": "Professional Green"
+        },
+        {
+            "slide_title": "Conclusion",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "strategic_clean_conclusion",
+            "slide_type": "conclusion",
+            "theme": "Professional Green"
+        }
+    ],
+    "app": "file_system"
+}

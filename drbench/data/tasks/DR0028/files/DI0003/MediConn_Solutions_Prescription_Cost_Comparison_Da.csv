@@ -1,0 +1,13 @@
+Pharmacy_Name,Pharmacy_Out_Of_Pocket_Cost,MediConn_Out_Of_Pocket_Cost,Savings_Percentage
+The name of the pharmacy where prescriptions are purchased directly.,The average cost patients pay out-of-pocket for prescriptions when purchased directly from the pharmacy.,The average cost patients pay out-of-pocket for prescriptions when using MediConn's prescription management service.,The percentage of savings patients can expect when using MediConn's service compared to the direct pharmacy purchase.
+Pharmacy C,$100.00,$80.00,20%
+Pharmacy E,$80.00,$60.00,25%
+Pharmacy A,$80.00,$60.00,25%
+Pharmacy D,$120.00,$90.00,25%
+Pharmacy B,$120.00,$90.00,25%
+Pharmacy G,$90.00,$68.00,24.44%
+Pharmacy H,$110.00,$82.50,25%
+MediConn Average,$100.00,$75.00,25%
+Pharmacy F,$100.00,$75.00,25%
+Pharmacy J,$90.00,$67.50,25%
+Pharmacy I,$100.00,$75.00,25%

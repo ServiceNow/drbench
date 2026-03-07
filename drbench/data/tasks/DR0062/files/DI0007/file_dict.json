@@ -1,0 +1,81 @@
+{
+    "file_name": "Q3-Appointments-Analysis",
+    "file_title": "Q3 2024 Service Center Appointments Analysis",
+    "introduction": "This presentation provides an in-depth analysis of service center appointments made via Elexion Automotive's mobile app in Q3 2024. It aims to provide insights on customer behaviors and preferences.",
+    "subsections": [
+        {
+            "heading": "User Engagement with Elexion's Mobile App",
+            "content": "\u2022 The mobile app has seen a 15% increase in active users from Q2 to Q3 2024\n\u2022 The average session length on the app was 7 minutes in Q3 2024\n\u2022 The app retention rate was 68% in Q3 2024\n\u2022 A total of 5,000 feedback submissions were received via the app in Q3 2024\n\u2022 The app's UI/UX redesign was completed in July 2024\n\u2022 The app crash rate decreased by 3% from Q2 to Q3 2024\n\u2022 The app's most used feature in Q3 was its energy efficiency calculator\n\u2022 The app's user rating on the Apple Store and Google Play remained steady at 4.5 in Q3 2024",
+            "type": "distractor",
+            "justification": "The content is focused on overall user engagement with the app, not specifically on service center appointments."
+        },
+        {
+            "heading": "Service Center Appointments via Mobile App in Q3 2024",
+            "content": "\u2022 The app was updated in Q3 2024 to allow users to book service center appointments\n\u2022 The app's appointment booking feature has a user rating of 4.7\n\u2022 The cancellation rate for appointments made via the app was 12% in Q3 2024\n\u2022 A tutorial video on how to book appointments via the app was released in August 2024\n\u2022 The app's appointment booking feature was used the most on Tuesdays in Q3 2024\n\u2022 The average user booked their appointment 10 days in advance in Q3 2024",
+            "type": "distractor",
+            "justification": "The content discusses general usage patterns of the app's appointment booking feature but does not provide specific numbers of appointments booked."
+        },
+        {
+            "heading": "Impact of Mobile App on Overall Service Appointments",
+            "content": "\u2022 The introduction of the mobile app booking feature resulted in a 20% decrease in phone bookings\n\u2022 The no-show rate for appointments booked via the app was 5% lower than phone bookings\n\u2022 The mobile app has helped streamline the appointment process at service centers\n\u2022 The app's impact on the overall customer experience at service centers is currently being evaluated\n\u2022 The app allows service centers to manage appointments more efficiently\n\u2022 The app's appointment booking feature has received positive feedback from service center staff",
+            "type": "distractor",
+            "justification": "The content discusses the impact of the mobile app on service appointments generally, but does not give specific numbers of appointments made via the app."
+        }
+    ],
+    "conclusion": "Customer reliance on our mobile app to make service center appointments has significantly increased in Q3 2024. We should further optimize our mobile app to enhance user experience and increase service center appointments.",
+    "file_format": "pptx",
+    "file_path": ".llm_responses/generated_pptx_presentation.pptx",
+    "qa_type": "distractor",
+    "timestamp": "2025-12-02 17:36",
+    "image_queries": [
+        {
+            "slide_title": "Introduction",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "intentionally_clean",
+            "slide_type": "introduction"
+        },
+        {
+            "slide_title": "User Engagement with Elexion's Mobile App",
+            "has_image": true,
+            "image_query": "mobile app user engagement statistics",
+            "generation_method": "strategic_placement",
+            "slide_type": "distractor",
+            "content_length": 7,
+            "total_chars": 424,
+            "forced": false,
+            "theme": "Classic Navy"
+        },
+        {
+            "slide_title": "Service Center Appointments via Mobile App in Q3 2024",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 6,
+            "total_chars": 450,
+            "probability": 0.25,
+            "theme": "Classic Navy"
+        },
+        {
+            "slide_title": "Impact of Mobile App on Overall Service Appointments",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 6,
+            "total_chars": 522,
+            "probability": 0.25,
+            "theme": "Classic Navy"
+        },
+        {
+            "slide_title": "Conclusion",
+            "has_image": true,
+            "image_query": "mobile app appointment usage graph",
+            "generation_method": "strategic_conclusion",
+            "slide_type": "conclusion",
+            "theme": "Classic Navy"
+        }
+    ],
+    "app": "file_system"
+}

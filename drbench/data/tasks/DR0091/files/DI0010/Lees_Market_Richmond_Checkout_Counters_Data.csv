@@ -1,0 +1,13 @@
+Store_ID,Location,Year,Average_Checkout_Counters,Store_Size,Employee_Count
+Unique identifier for each Lee's Market store,Geographical location of the Lee's Market store,The fiscal year for which the data is representative,The average number of checkout counters operated by the Lee's Market store for the specified year,"Size category of the Lee's Market store such as small, medium or large",Number of employees working at the Lee's Market store
+LM-002,Texas,2026,10,Medium,30
+LM-005,Ohio,2026,9,Small,20
+LM-004,Florida,2026,12,Medium,40
+LM-011,Texas,2024,10,Small,20
+LM-010,Pennsylvania,2024,9,Medium,30
+LM-008,Georgia,2025,8,Small,25
+LM-001,New York,2026,14,Large,50
+LM-003,California,2026,13,Large,55
+LM-007,Illinois,2025,10,Medium,35
+LM-006,Washington,2025,11,Large,45
+LM-009,Michigan,2024,12,Large,40

@@ -1,0 +1,21 @@
+# Vaughan Store Impact on Toronto Sales
+
+## Introduction
+
+As we continue to expand our footprint in the Canadian market, we have recently opened a new store in Vaughan, Ontario. This report will explore the influence of this new location on the sales performance of our existing stores in Toronto. It will provide valuable insights to guide our future expansion strategies in the region.
+
+## Overview of Vaughan Store Performance
+
+Since its inauguration in 2025, the Vaughan store has consistently outperformed initial projections. Customer footfall has been impressive, averaging 1000 shoppers per day. The majority of these shoppers, about 70%, are walk-ins, showing the store's appeal to local residents. The store's top-selling categories are packaged foods and fresh produce, which together account for 60% of total sales.
+
+## Sales Trend Analysis for Toronto Stores
+
+In the past year, Toronto stores have experienced a 5% increase in overall sales. The grocery department has seen the most significant growth, with a 7% increase in sales. Interestingly, non-food items such as kitchenware and household essentials have also contributed to the rise, showing a 4% increase. The store located in Downtown Toronto remains the highest-grossing among all Toronto stores.
+
+## Inter-Store Synergies and Customer Migration Patterns
+
+Analysis of inter-store synergies has shown promising results. We've observed a 10% increase in cross-shopping between our stores over the last fiscal year. In particular, the Richmond Hill and Midtown stores have seen a noticeable increase in shared customers. Additionally, migration patterns indicate that 15% of customers have switched their primary store location within the past six months.
+
+## Conclusion
+
+The introduction of our Vaughan location has had a substantial ripple effect on our Toronto stores. It demonstrates the potential of strategic store placements and how they can influence overall market performance. As we consider further expansion, we should leverage these insights to optimize store locations for maximum synergy. This will ensure the continued growth and success of Lee's Market in the Canadian retail sector.

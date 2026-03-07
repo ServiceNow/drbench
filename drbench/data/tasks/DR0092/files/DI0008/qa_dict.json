@@ -1,0 +1,10 @@
+{
+    "insight_id": "DI0008",
+    "qa_type": "distractor",
+    "qa_index": 8,
+    "specific_question": "What is MediConn's annual internal employee turnover rate for FY2025?",
+    "answer": "MediConn recorded an 11% annual turnover rate across all departments in FY2025.",
+    "justification": "Turnover data affects HR and staffing decisions but does not influence compliance or Indigenous data integration activities.",
+    "timestamp": "2025-11-20 16:45",
+    "dr_question": "What additional compliance controls should be integrated into MediConn\u2019s platform by Q2 2026 to ensure secure authentication and patient verification for Indigenous patients in low-connectivity environments?"
+}

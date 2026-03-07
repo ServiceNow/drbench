@@ -1,0 +1,10 @@
+{
+    "insight_id": "DI0026",
+    "qa_type": "distractor",
+    "qa_index": 26,
+    "specific_question": "What ticketing system upgrade did Jason Wong implement in March 2025?",
+    "answer": "Jason Wong implemented the new ServiceNow workflow launched in March, bringing down unresolved cyber tickets from 94 to 63 in 2 months.",
+    "justification": "",
+    "timestamp": "2025-12-02 14:54",
+    "dr_question": "Between Q1 2025 and Q4 2025, how can the adoption of managed security service providers (MSSPs) be leveraged by Jason Wong to address Lee's Market's internal cybersecurity resource constraints, and what measurable improvement in threat management, compliance, and customer trust can be achieved compared to maintaining traditional in-house approaches?"
+}

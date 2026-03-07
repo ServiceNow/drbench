@@ -1,0 +1,10 @@
+{
+    "insight_id": "DI0023",
+    "qa_type": "distractor",
+    "qa_index": 23,
+    "specific_question": "What percentage of MediConn Solutions' customer support tickets were resolved quickly due to automated AI-powered ITSM?",
+    "answer": "According to the November 2025 MediConn Solutions' IT support report, 50% of customer support tickets were resolved quickly by AI-powered ITSM.",
+    "justification": "",
+    "timestamp": "2025-12-02 15:20",
+    "dr_question": "By Q3 2025, how can MediConn Solutions' IT Service Management (ITSM) team manage security protocols, ensure regulatory compliance, and implement preventive measures against network and information system security risks, given the sensitivity of electronic medical data?"
+}

@@ -1,0 +1,81 @@
+{
+    "file_name": "taurus-3s-braking-safety",
+    "file_title": "Taurus 3S: Braking Efficiency and Safety Impact",
+    "introduction": "In our continuous pursuit to enhance our vehicle's performance and safety, we've significantly improved the braking system of our new Taurus 3S model. This presentation explores the increase in braking efficiency and its impact on safety ratings.",
+    "subsections": [
+        {
+            "heading": "Innovation in Taurus 3S Braking System",
+            "content": "\u2022 Incorporated a new high-performance Brembo braking system\n\u2022 Leveraged advanced material technology for improved brake pad longevity\n\u2022 Implemented brake-by-wire technology for better responsiveness\n\u2022 Improved brake cooling system to prevent overheating\n\u2022 Conducted rigorous testing of the braking system under various conditions\n\u2022 Invested in research and development for the continuous improvement of braking system",
+            "type": "distractor",
+            "justification": "This content discusses the innovations in brake system but doesn't provide its efficiency improvement or impact on safety rating."
+        },
+        {
+            "heading": "Efficiency Improvements in Taurus 3S Brakes",
+            "content": "\u2022 Introduced a new brake energy regeneration system\n\u2022 Enhanced brake pad material for better friction and heat resistance\n\u2022 Reduced brake system weight for improved efficiency\n\u2022 Optimized brake force distribution for more balanced braking\n\u2022 Updated brake system software for increased responsiveness\n\u2022 Improved brake disc design to reduce wear and tear",
+            "type": "distractor",
+            "justification": "This slide talks about various efficiency improvements but doesn't quantify the improvement in the braking system or its impact on safety ratings."
+        },
+        {
+            "heading": "Braking Efficiency and Safety Ratings Correlation",
+            "content": "\u2022 Efficient braking systems lead to better control and safety\n\u2022 Enhanced braking systems can significantly improve safety ratings\n\u2022 Safety ratings directly impact customer perception and sales\n\u2022 Regulatory bodies give high importance to braking efficiency in safety ratings\n\u2022 Continuous improvement in braking efficiency is key to maintaining high safety scores\n\u2022 Companies with efficient braking systems often receive lower insurance premiums",
+            "type": "distractor",
+            "justification": "This slide discusses the correlation between braking efficiency and safety ratings but doesn't provide the specific increase in efficiency or impact on safety ratings for the Taurus 3S model."
+        }
+    ],
+    "conclusion": "The enhanced braking efficiency in the Taurus 3S model has positively impacted our safety ratings, reinforcing Elexion's commitment to user safety. Moving forward, we will continue to focus on innovating our technology for increased efficiency and safety.",
+    "file_format": "pptx",
+    "file_path": ".llm_responses/generated_pptx_presentation.pptx",
+    "qa_type": "distractor",
+    "timestamp": "2025-12-02 23:38",
+    "image_queries": [
+        {
+            "slide_title": "Introduction",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "intentionally_clean",
+            "slide_type": "introduction"
+        },
+        {
+            "slide_title": "Innovation in Taurus 3S Braking System",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 6,
+            "total_chars": 400,
+            "probability": 0.25,
+            "theme": "Forest Theme"
+        },
+        {
+            "slide_title": "Efficiency Improvements in Taurus 3S Brakes",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 6,
+            "total_chars": 335,
+            "probability": 0.25,
+            "theme": "Forest Theme"
+        },
+        {
+            "slide_title": "Braking Efficiency and Safety Ratings Correlation",
+            "has_image": true,
+            "image_query": "car braking system infographic",
+            "generation_method": "strategic_placement",
+            "slide_type": "distractor",
+            "content_length": 6,
+            "total_chars": 426,
+            "forced": false,
+            "theme": "Forest Theme"
+        },
+        {
+            "slide_title": "Conclusion",
+            "has_image": true,
+            "image_query": "automobile safety ratings chart",
+            "generation_method": "strategic_conclusion",
+            "slide_type": "conclusion",
+            "theme": "Forest Theme"
+        }
+    ],
+    "app": "file_system"
+}

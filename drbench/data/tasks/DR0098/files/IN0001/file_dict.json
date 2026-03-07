@@ -1,0 +1,213 @@
+{
+    "file_name": "roundcube_email_20251121_120008",
+    "content": "{\"type\": \"user\", \"username\": \"andrew.chang\", \"first_name\": \"Andrew\", \"last_name\": \"Chang\", \"email\": \"andrew.chang@leesmarket.com\", \"password\": \"sales_lead_pwd\"}\n{\"type\": \"user\", \"username\": \"sarah.jones\", \"first_name\": \"Sarah\", \"last_name\": \"Jones\", \"email\": \"sarah.jones@leesmarket.com\", \"password\": \"financial_analyst_pwd\"}\n{\"type\": \"user\", \"username\": \"michael.lee\", \"first_name\": \"Michael\", \"last_name\": \"Lee\", \"email\": \"michael.lee@leesmarket.com\", \"password\": \"ceo_pwd\"}\n{\"type\": \"user\", \"username\": \"julia.kim\", \"first_name\": \"Julia\", \"last_name\": \"Kim\", \"email\": \"julia.kim@leesmarket.com\", \"password\": \"marketing_dir_pwd\"}\n{\"type\": \"user\", \"username\": \"peter.wang\", \"first_name\": \"Peter\", \"last_name\": \"Wang\", \"email\": \"peter.wang@leesmarket.com\", \"password\": \"retail_ops_pwd\"}\n{\"type\": \"user\", \"username\": \"emma.li\", \"first_name\": \"Emma\", \"last_name\": \"Li\", \"email\": \"emma.li@leesmarket.com\", \"password\": \"customer_service_pwd\"}\n{\"type\": \"user\", \"username\": \"lucas.chen\", \"first_name\": \"Lucas\", \"last_name\": \"Chen\", \"email\": \"lucas.chen@leesmarket.com\", \"password\": \"supply_chain_pwd\"}\n{\"type\": \"email\", \"id\": \"email_001\", \"subject\": \"Weekly Sales Meeting Reschedule\", \"from\": \"andrew.chang@leesmarket.com\", \"from_name\": \"Andrew Chang\", \"to\": [\"sarah.jones@leesmarket.com\", \"michael.lee@leesmarket.com\", \"julia.kim@leesmarket.com\", \"peter.wang@leesmarket.com\", \"emma.li@leesmarket.com\", \"lucas.chen@leesmarket.com\"], \"cc\": [], \"date\": \"2025-05-11 09:00:00\", \"body\": \"Hello team,\\n\\nDue to a scheduling conflict, our weekly sales meeting will be moved from Monday at 10 AM to Wednesday at 11 AM. Please update your calendars accordingly. The agenda will be sent out tomorrow.\\n\\nBest,\\nAndrew\", \"folder\": \"inbox\", \"read\": true, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_002\", \"subject\": \"Customer Service Training Session\", \"from\": \"emma.li@leesmarket.com\", \"from_name\": \"Emma Li\", \"to\": [\"andrew.chang@leesmarket.com\"], \"cc\": [], \"date\": \"2025-05-12 14:30:00\", \"body\": \"Hi Andrew,\\n\\nI'd like to invite your sales team to a customer service training session next Tuesday. It will be a great chance for your team to learn about new customer service strategies and enhance their skills.\\n\\nPlease let me know if this works for your team.\\n\\nBest,\\nEmma\", \"folder\": \"inbox\", \"read\": true, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_003\", \"subject\": \"New Product Line Introduction\", \"from\": \"julia.kim@leesmarket.com\", \"from_name\": \"Julia Kim\", \"to\": [\"andrew.chang@leesmarket.com\"], \"cc\": [\"michael.lee@leesmarket.com\"], \"date\": \"2025-05-14 16:15:00\", \"body\": \"Hi Andrew,\\n\\nI wanted to inform you that we are introducing a new product line next month. It would be great if you could prepare your team for the upcoming changes.\\n\\nLet's schedule a meeting next week to discuss the potential impact on sales and strategies to boost the new product line.\\n\\nBest,\\nJulia\", \"folder\": \"inbox\", \"read\": true, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_004\", \"subject\": \"Annual Performance Reviews\", \"from\": \"michael.lee@leesmarket.com\", \"from_name\": \"Michael Lee\", \"to\": [\"andrew.chang@leesmarket.com\"], \"cc\": [], \"date\": \"2025-05-15 10:00:00\", \"body\": \"Hi Andrew,\\n\\nI wanted to remind you that it's time for the annual performance reviews of your team members. Please prepare the necessary reports and schedule individual meetings with your team members for their reviews.\\n\\nLet me know if you need any assistance.\\n\\nBest,\\nMichael\", \"folder\": \"inbox\", \"read\": true, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_001\", \"subject\": \"Initial Impact of US Tariffs on Sales\", \"from\": \"sarah.jones@leesmarket.com\", \"from_name\": \"Sarah Jones\", \"to\": [\"andrew.chang@leesmarket.com\", \"michael.lee@leesmarket.com\", \"julia.kim@leesmarket.com\", \"peter.wang@leesmarket.com\"], \"cc\": [\"lucas.chen@leesmarket.com\", \"emma.li@leesmarket.com\"], \"date\": \"2025-04-02 09:30:00\", \"body\": \"Dear Team,\\n\\nI hope this email finds you well. I have just completed the preliminary analysis of our Q1 sales performance. It appears that the recent imposition of tariffs has had a significant impact on our sales.\\n\\nYear-on-Year, we are seeing a 5.7% decline in sales. This is a substantial dip and it's clear that we need to reassess our sales forecasts and strategies across tariff-exposed categories.\\n\\nI will be digging deeper into the data to identify which product categories are contributing most to this decline and will share these findings as soon as they are available.\\n\\nBest,\\nSarah\", \"folder\": \"sent\", \"read\": true, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_002\", \"subject\": \"Re: Initial Impact of US Tariffs on Sales\", \"from\": \"andrew.chang@leesmarket.com\", \"from_name\": \"Andrew Chang\", \"to\": [\"sarah.jones@leesmarket.com\"], \"cc\": [\"michael.lee@leesmarket.com\", \"julia.kim@leesmarket.com\", \"peter.wang@leesmarket.com\", \"lucas.chen@leesmarket.com\", \"emma.li@leesmarket.com\"], \"date\": \"2025-04-02 10:15:00\", \"body\": \"Thanks for the update Sarah,\\n\\nThis is indeed concerning. As you delve deeper into the data, could you also analyze whether there are any tariff-insulated categories that we can leverage to offset these losses? We will need this information to realign our marketing and sales efforts accordingly.\\n\\nBest,\\nAndrew\", \"folder\": \"sent\", \"read\": true, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_003\", \"subject\": \"Re: Initial Impact of US Tariffs on Sales\", \"from\": \"michael.lee@leesmarket.com\", \"from_name\": \"Michael Lee\", \"to\": [\"andrew.chang@leesmarket.com\", \"sarah.jones@leesmarket.com\", \"julia.kim@leesmarket.com\", \"peter.wang@leesmarket.com\"], \"cc\": [\"lucas.chen@leesmarket.com\", \"emma.li@leesmarket.com\"], \"date\": \"2025-04-02 10:45:00\", \"body\": \"Team,\\n\\nThank you for your quick action on this. The impact of these tariffs is indeed concerning and we need to respond swiftly. Let's also gather insights on consumer behavior changes due to these tariffs, this could aid us in our promotional planning.\\n\\nSarah, please share your findings as soon as you can. We need to strategize and realign our plans to mitigate these losses.\\n\\nBest,\\nMichael\", \"folder\": \"sent\", \"read\": true, \"attachments\": []}",
+    "email_setup": [
+        {
+            "type": "user",
+            "username": "andrew.chang",
+            "first_name": "Andrew",
+            "last_name": "Chang",
+            "email": "andrew.chang@leesmarket.com",
+            "password": "sales_lead_pwd"
+        },
+        {
+            "type": "user",
+            "username": "sarah.jones",
+            "first_name": "Sarah",
+            "last_name": "Jones",
+            "email": "sarah.jones@leesmarket.com",
+            "password": "financial_analyst_pwd"
+        },
+        {
+            "type": "user",
+            "username": "michael.lee",
+            "first_name": "Michael",
+            "last_name": "Lee",
+            "email": "michael.lee@leesmarket.com",
+            "password": "ceo_pwd"
+        },
+        {
+            "type": "user",
+            "username": "julia.kim",
+            "first_name": "Julia",
+            "last_name": "Kim",
+            "email": "julia.kim@leesmarket.com",
+            "password": "marketing_dir_pwd"
+        },
+        {
+            "type": "user",
+            "username": "peter.wang",
+            "first_name": "Peter",
+            "last_name": "Wang",
+            "email": "peter.wang@leesmarket.com",
+            "password": "retail_ops_pwd"
+        },
+        {
+            "type": "user",
+            "username": "emma.li",
+            "first_name": "Emma",
+            "last_name": "Li",
+            "email": "emma.li@leesmarket.com",
+            "password": "customer_service_pwd"
+        },
+        {
+            "type": "user",
+            "username": "lucas.chen",
+            "first_name": "Lucas",
+            "last_name": "Chen",
+            "email": "lucas.chen@leesmarket.com",
+            "password": "supply_chain_pwd"
+        }
+    ],
+    "email_messages": [
+        {
+            "type": "email",
+            "id": "email_001",
+            "subject": "Weekly Sales Meeting Reschedule",
+            "from": "andrew.chang@leesmarket.com",
+            "from_name": "Andrew Chang",
+            "to": [
+                "sarah.jones@leesmarket.com",
+                "michael.lee@leesmarket.com",
+                "julia.kim@leesmarket.com",
+                "peter.wang@leesmarket.com",
+                "emma.li@leesmarket.com",
+                "lucas.chen@leesmarket.com"
+            ],
+            "cc": [],
+            "date": "2025-05-11 09:00:00",
+            "body": "Hello team,\n\nDue to a scheduling conflict, our weekly sales meeting will be moved from Monday at 10 AM to Wednesday at 11 AM. Please update your calendars accordingly. The agenda will be sent out tomorrow.\n\nBest,\nAndrew",
+            "folder": "inbox",
+            "read": true,
+            "attachments": [],
+            "tag": "distractor"
+        },
+        {
+            "type": "email",
+            "id": "email_002",
+            "subject": "Customer Service Training Session",
+            "from": "emma.li@leesmarket.com",
+            "from_name": "Emma Li",
+            "to": [
+                "andrew.chang@leesmarket.com"
+            ],
+            "cc": [],
+            "date": "2025-05-12 14:30:00",
+            "body": "Hi Andrew,\n\nI'd like to invite your sales team to a customer service training session next Tuesday. It will be a great chance for your team to learn about new customer service strategies and enhance their skills.\n\nPlease let me know if this works for your team.\n\nBest,\nEmma",
+            "folder": "inbox",
+            "read": true,
+            "attachments": [],
+            "tag": "distractor"
+        },
+        {
+            "type": "email",
+            "id": "email_003",
+            "subject": "New Product Line Introduction",
+            "from": "julia.kim@leesmarket.com",
+            "from_name": "Julia Kim",
+            "to": [
+                "andrew.chang@leesmarket.com"
+            ],
+            "cc": [
+                "michael.lee@leesmarket.com"
+            ],
+            "date": "2025-05-14 16:15:00",
+            "body": "Hi Andrew,\n\nI wanted to inform you that we are introducing a new product line next month. It would be great if you could prepare your team for the upcoming changes.\n\nLet's schedule a meeting next week to discuss the potential impact on sales and strategies to boost the new product line.\n\nBest,\nJulia",
+            "folder": "inbox",
+            "read": true,
+            "attachments": [],
+            "tag": "distractor"
+        },
+        {
+            "type": "email",
+            "id": "email_004",
+            "subject": "Annual Performance Reviews",
+            "from": "michael.lee@leesmarket.com",
+            "from_name": "Michael Lee",
+            "to": [
+                "andrew.chang@leesmarket.com"
+            ],
+            "cc": [],
+            "date": "2025-05-15 10:00:00",
+            "body": "Hi Andrew,\n\nI wanted to remind you that it's time for the annual performance reviews of your team members. Please prepare the necessary reports and schedule individual meetings with your team members for their reviews.\n\nLet me know if you need any assistance.\n\nBest,\nMichael",
+            "folder": "inbox",
+            "read": true,
+            "attachments": [],
+            "tag": "distractor"
+        },
+        {
+            "type": "email",
+            "id": "email_001",
+            "subject": "Initial Impact of US Tariffs on Sales",
+            "from": "sarah.jones@leesmarket.com",
+            "from_name": "Sarah Jones",
+            "to": [
+                "andrew.chang@leesmarket.com",
+                "michael.lee@leesmarket.com",
+                "julia.kim@leesmarket.com",
+                "peter.wang@leesmarket.com"
+            ],
+            "cc": [
+                "lucas.chen@leesmarket.com",
+                "emma.li@leesmarket.com"
+            ],
+            "date": "2025-04-02 09:30:00",
+            "body": "Dear Team,\n\nI hope this email finds you well. I have just completed the preliminary analysis of our Q1 sales performance. It appears that the recent imposition of tariffs has had a significant impact on our sales.\n\nYear-on-Year, we are seeing a 5.7% decline in sales. This is a substantial dip and it's clear that we need to reassess our sales forecasts and strategies across tariff-exposed categories.\n\nI will be digging deeper into the data to identify which product categories are contributing most to this decline and will share these findings as soon as they are available.\n\nBest,\nSarah",
+            "folder": "sent",
+            "read": true,
+            "attachments": [],
+            "tag": "insight"
+        },
+        {
+            "type": "email",
+            "id": "email_002",
+            "subject": "Re: Initial Impact of US Tariffs on Sales",
+            "from": "andrew.chang@leesmarket.com",
+            "from_name": "Andrew Chang",
+            "to": [
+                "sarah.jones@leesmarket.com"
+            ],
+            "cc": [
+                "michael.lee@leesmarket.com",
+                "julia.kim@leesmarket.com",
+                "peter.wang@leesmarket.com",
+                "lucas.chen@leesmarket.com",
+                "emma.li@leesmarket.com"
+            ],
+            "date": "2025-04-02 10:15:00",
+            "body": "Thanks for the update Sarah,\n\nThis is indeed concerning. As you delve deeper into the data, could you also analyze whether there are any tariff-insulated categories that we can leverage to offset these losses? We will need this information to realign our marketing and sales efforts accordingly.\n\nBest,\nAndrew",
+            "folder": "sent",
+            "read": true,
+            "attachments": [],
+            "tag": "insight"
+        },
+        {
+            "type": "email",
+            "id": "email_003",
+            "subject": "Re: Initial Impact of US Tariffs on Sales",
+            "from": "michael.lee@leesmarket.com",
+            "from_name": "Michael Lee",
+            "to": [
+                "andrew.chang@leesmarket.com",
+                "sarah.jones@leesmarket.com",
+                "julia.kim@leesmarket.com",
+                "peter.wang@leesmarket.com"
+            ],
+            "cc": [
+                "lucas.chen@leesmarket.com",
+                "emma.li@leesmarket.com"
+            ],
+            "date": "2025-04-02 10:45:00",
+            "body": "Team,\n\nThank you for your quick action on this. The impact of these tariffs is indeed concerning and we need to respond swiftly. Let's also gather insights on consumer behavior changes due to these tariffs, this could aid us in our promotional planning.\n\nSarah, please share your findings as soon as you can. We need to strategize and realign our plans to mitigate these losses.\n\nBest,\nMichael",
+            "folder": "sent",
+            "read": true,
+            "attachments": [],
+            "tag": "insight"
+        }
+    ],
+    "file_format": "jsonl",
+    "file_path": ".llm_responses/generated_email_document.jsonl",
+    "qa_type": "insight",
+    "timestamp": "2025-11-21 13:00",
+    "app": "email"
+}

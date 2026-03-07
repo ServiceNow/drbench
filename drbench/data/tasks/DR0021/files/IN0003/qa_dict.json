@@ -1,0 +1,10 @@
+{
+    "insight_id": "IN0003",
+    "qa_type": "insight",
+    "qa_index": 3,
+    "specific_question": "Why does it take so long to roll out IT updates across all Lee\u2019s Market stores?",
+    "answer": "According to Lee\u2019s Market\u2019s IT operations' logs from September 2024, rolling out updates to all stores takes an average of 5 business days because each location uses slightly different systems, requiring updates to be applied individually, which delays completion across regions.",
+    "justification": "",
+    "timestamp": "2025-11-19 01:37",
+    "dr_question": "What ITSM strategies, such as governance improvements, workflow automation, or system integrations, could provide insights to improve incident, problem, and change management at Lee\u2019s Market in 2026?"
+}

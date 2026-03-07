@@ -1,0 +1,81 @@
+{
+    "file_name": "social-media-outreach-analysis",
+    "file_title": "MediConn's Social Media Outreach Analysis",
+    "introduction": "In this presentation, we will examine MediConn's current strategies in using social media platforms and how these strategies contribute to our customer acquisition efforts.",
+    "subsections": [
+        {
+            "heading": "Overview of MediConn's Digital Marketing Strategies",
+            "content": "\u2022 MediConn Solutions launched its digital marketing strategy in 2015\n\u2022 The main goal was to increase brand visibility and drive web traffic\n\u2022 The strategy was developed and executed by the internal marketing team\n\u2022 Emphasis was placed on SEO, content marketing, and email marketing\n\u2022 A 30% increase in web traffic was noted in the first year\n\u2022 Partnered with several online health forums and blogs for guest posting",
+            "type": "distractor",
+            "justification": "Details of the company's digital marketing strategies, but does not indicate if social media is used to attract new customers"
+        },
+        {
+            "heading": "Assessment of Social Media Engagement",
+            "content": "\u2022 MediConn has a presence on several social media platforms\n\u2022 Regular posting and engagement with users on these platforms\n\u2022 Partnerships with influencers in the health sector for promotion\n\u2022 An external agency was hired to manage social media engagement\n\u2022 The company tracks key metrics such as likes, shares, and comments\n\u2022 Conducts regular audits to assess the performance of social media activities",
+            "type": "distractor",
+            "justification": "Outlines the company's social media activities but does not specify if these are used for customer acquisition"
+        },
+        {
+            "heading": "Impact of Social Media on Customer Acquisition",
+            "content": "\u2022 The marketing team regularly monitors customer acquisition channels\n\u2022 Social media analytics tools are used to track performance\n\u2022 A significant number of website visitors are referred from social media\n\u2022 Regular updates to social media strategies based on performance\n\u2022 Engagement on social media posts is a key performance indicator\n\u2022 The company believes in the power of social media but continually tests other channels",
+            "type": "distractor",
+            "justification": "Details the company's approach to social media performance tracking but does not specify if it is used for customer acquisition"
+        }
+    ],
+    "conclusion": "Social media plays a crucial role in MediConn's customer acquisition strategy by increasing our visibility and engagement with potential customers. Going forward, we recommend allocating more resources to strengthen our social media presence and to capitalize on this cost-effective acquisition channel.",
+    "file_format": "pptx",
+    "file_path": ".llm_responses/generated_pptx_presentation.pptx",
+    "qa_type": "distractor",
+    "timestamp": "2025-11-19 22:58",
+    "image_queries": [
+        {
+            "slide_title": "Introduction",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "intentionally_clean",
+            "slide_type": "introduction"
+        },
+        {
+            "slide_title": "Overview of MediConn's Digital Marketing Strategies",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 6,
+            "total_chars": 398,
+            "probability": 0.25,
+            "theme": "Classic Navy"
+        },
+        {
+            "slide_title": "Assessment of Social Media Engagement",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "failed",
+            "slide_type": "distractor",
+            "content_length": 6,
+            "total_chars": 385,
+            "error": "'str' object has no attribute 'choices'",
+            "theme": "Classic Navy"
+        },
+        {
+            "slide_title": "Impact of Social Media on Customer Acquisition",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 6,
+            "total_chars": 408,
+            "probability": 0.25,
+            "theme": "Classic Navy"
+        },
+        {
+            "slide_title": "Conclusion",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "strategic_clean_conclusion",
+            "slide_type": "conclusion",
+            "theme": "Classic Navy"
+        }
+    ],
+    "app": "nextcloud"
+}

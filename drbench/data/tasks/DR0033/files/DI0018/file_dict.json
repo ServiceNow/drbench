@@ -1,0 +1,81 @@
+{
+    "file_name": "IT-Security-Expansion",
+    "file_title": "IT & Security Team Expansion Overview",
+    "introduction": "This presentation will provide an overview of the growth and development in our IT & Security team during 2024. We'll be looking at new hires, their roles, and the impact on our overall operations.",
+    "subsections": [
+        {
+            "heading": "Overview of 2024 Staffing Changes",
+            "content": "\u2022 Consolidation of regional HR departments into a unified, central HR group\n\u2022 Implementation of a new talent acquisition strategy to attract diverse candidates\n\u2022 Launch of a comprehensive employee training and development program\n\u2022 Strengthening of retention strategies, leading to a 15% decrease in staff turnover\n\u2022 Expansion of remote work policies to cater to a distributed workforce\n\u2022 Introduction of a new performance evaluation system\n\u2022 Increase in total workforce by 10%, primarily in operations and logistics",
+            "type": "distractor",
+            "justification": "This slide provides an overview of staffing changes but doesn't mention the IT & Security team specifically."
+        },
+        {
+            "heading": "Profiles of New IT & Security Team Members",
+            "content": "\u2022 Introduction of team members with backgrounds in cloud security and data protection\n\u2022 Highlight of new hires who are certified in industry-recognized certifications\n\u2022 Emphasis on new team members' experience with agile development methodologies\n\u2022 Review of new hires' previous roles in Fortune 500 companies\n\u2022 Discussion on the diverse educational backgrounds of the new team members\n\u2022 Showcase of new hires who have made significant contributions to open-source projects",
+            "type": "distractor",
+            "justification": "This slide highlights the profiles of new IT & Security team members, but doesn't provide the number of hires."
+        },
+        {
+            "heading": "Impact of New Hires on Operational Efficiency",
+            "content": "\u2022 Improvement in average response time to internal IT support tickets by 20%\n\u2022 Enhancement of system uptime from 98% to 99.7%\n\u2022 Increase in successful patch and update deployments by 30%\n\u2022 Reduction in average time to detect and isolate security incidents by 25%\n\u2022 Improvement in the efficiency of the change management process by 15%\n\u2022 Positive impact on the organization's ISO 27001 compliance",
+            "type": "distractor",
+            "justification": "This slide discusses the impact of new hires on operational efficiency but doesn't mention the number of hires."
+        }
+    ],
+    "conclusion": "The expansion of our IT & Security team has considerably strengthened our capacity to deliver secure, efficient, and innovative services. Moving forward, we'll continue to invest in our team to support our growing business needs.",
+    "file_format": "pptx",
+    "file_path": ".llm_responses/generated_pptx_presentation.pptx",
+    "qa_type": "distractor",
+    "timestamp": "2025-11-19 12:12",
+    "image_queries": [
+        {
+            "slide_title": "Introduction",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "intentionally_clean",
+            "slide_type": "introduction"
+        },
+        {
+            "slide_title": "Overview of 2024 Staffing Changes",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "failed",
+            "slide_type": "distractor",
+            "content_length": 7,
+            "total_chars": 496,
+            "error": "'str' object has no attribute 'choices'",
+            "theme": "Professional Green"
+        },
+        {
+            "slide_title": "Profiles of New IT & Security Team Members",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 6,
+            "total_chars": 456,
+            "probability": 0.25,
+            "theme": "Professional Green"
+        },
+        {
+            "slide_title": "Impact of New Hires on Operational Efficiency",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 6,
+            "total_chars": 378,
+            "probability": 0.25,
+            "theme": "Professional Green"
+        },
+        {
+            "slide_title": "Conclusion",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "strategic_clean_conclusion",
+            "slide_type": "conclusion",
+            "theme": "Professional Green"
+        }
+    ],
+    "app": "file_system"
+}

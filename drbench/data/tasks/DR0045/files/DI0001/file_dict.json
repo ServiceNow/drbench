@@ -1,0 +1,82 @@
+{
+    "file_name": "website-performance-insights",
+    "file_title": "Insights into MediConn's Website Performance",
+    "introduction": "As we strive to ensure our digital platform's accessibility and user-friendliness, it's critical to monitor and assess our website's performance. This presentation will provide a comprehensive overview of the recent changes in our website's performance metrics.",
+    "subsections": [
+        {
+            "heading": "Overview of Virtual Healthcare Market Trends",
+            "content": "\u2022 Virtual healthcare market expected to grow by 30% over the next five years globally\n\u2022 North America remains the leading region in virtual healthcare adoption\n\u2022 Telehealth services experienced a surge during the COVID-19 pandemic\n\u2022 Increased demand for remote patient monitoring systems\n\u2022 Rise in the number of smartphone users boosting the mHealth market\n\u2022 Regulatory changes in telemedicine are speeding up the market growth\n\u2022 Increased investment in AI and machine learning in healthcare",
+            "type": "distractor",
+            "justification": "This content discusses market trends and projections, not MediConn's website performance changes."
+        },
+        {
+            "heading": "Analysis of MediConn's User Engagement Metrics",
+            "content": "\u2022 Average session duration of users on the platform has increased by 15% in Q2\n\u2022 60% of users accessed the platform through mobile devices\n\u2022 User churn rate has decreased by 10% in the last six months\n\u2022 Average number of daily active users has increased by 5% in the last quarter\n\u2022 The user retention rate showed a consistent growth of 2% month over month\n\u2022 The bounce rate shows a slight increase of 1.5% in the last month\n\u2022 The most used feature in the application is the virtual consultation tool",
+            "type": "distractor",
+            "justification": "This content discusses user engagement metrics, not specific website performance changes."
+        },
+        {
+            "heading": "Recent Changes in Website Performance",
+            "content": "\u2022 Website load time has been reduced by 20% after the last update\n\u2022 The number of 404 errors has decreased significantly in the last quarter\n\u2022 The website's security score has improved after the implementation of SSL certification\n\u2022 The mobile version of the website has improved its performance by 15% in the last month\n\u2022 Server downtime incidents have been reduced by 70% in the last six months\n\u2022 The website's accessibility score has improved, meeting all WCAG 2.1 AA standards",
+            "type": "distractor",
+            "justification": "This slide discusses general website performance improvements, not recent specific changes to MediConn's website performance."
+        }
+    ],
+    "conclusion": "Our website performance has shown significant changes, which correlate with the current virtual healthcare market trends. Moving forward, we need to focus on further optimizing the user experience and engagement on our platform.",
+    "file_format": "pptx",
+    "file_path": ".llm_responses/generated_pptx_presentation.pptx",
+    "qa_type": "distractor",
+    "timestamp": "2025-11-19 23:11",
+    "image_queries": [
+        {
+            "slide_title": "Introduction",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "intentionally_clean",
+            "slide_type": "introduction"
+        },
+        {
+            "slide_title": "Overview of Virtual Healthcare Market Trends",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "failed",
+            "slide_type": "distractor",
+            "content_length": 7,
+            "total_chars": 471,
+            "error": "'str' object has no attribute 'choices'",
+            "theme": "Professional Green"
+        },
+        {
+            "slide_title": "Analysis of MediConn's User Engagement Metrics",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "failed",
+            "slide_type": "distractor",
+            "content_length": 7,
+            "total_chars": 479,
+            "error": "'str' object has no attribute 'choices'",
+            "theme": "Professional Green"
+        },
+        {
+            "slide_title": "Recent Changes in Website Performance",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 6,
+            "total_chars": 463,
+            "probability": 0.25,
+            "theme": "Professional Green"
+        },
+        {
+            "slide_title": "Conclusion",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "conclusion_failed",
+            "slide_type": "conclusion",
+            "error": "'str' object has no attribute 'choices'",
+            "theme": "Professional Green"
+        }
+    ],
+    "app": "file_system"
+}

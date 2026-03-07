@@ -1,0 +1,22 @@
+Year,Quarter,Average_Email_Response_Time,Average_Chat_Phone_Response_Time,After_Hours_Response_System,Next_Year_Response_Time_Target
+The year during which the customer service data was recorded,"The quarter of the year (Q1, Q2, Q3, Q4) during which the customer service data was recorded",The average time in hours it took for the customer service team to respond to email inquiries,The average time in minutes it took for the customer service team to respond to chat and phone inquiries during business hours,The system used to respond to inquiries outside of business hours,The target reduction in response times for the following year
+2021,Q2,18,8.5,Automated system with a next-business-day response,15
+2020,Q2,22,11,Automated system with a next-business-day response,15
+2022,Q2,16,6.5,Automated system with a next-business-day response,20
+2022,Q3,15.5,6,Automated system with a next-business-day response,20
+2023,Q2,14,4.5,Automated system with a next-business-day response,20
+2023,Q1,14.5,5,Automated system with a next-business-day response,20
+2024,Q2,18,8,Automated system with a next-business-day response,20
+2021,Q1,18.5,9,Automated system with a next-business-day response,15
+2020,Q3,20,10,Automated system with a next-business-day response,15
+2021,Q4,17,7.5,Automated system with a next-business-day response,20
+2024,Q4,18,8,Automated system with a next-business-day response,20
+2024,Q1,18.5,8.5,Automated system with a next-business-day response,20
+2022,Q4,15,5.5,Automated system with a next-business-day response,20
+2023,Q4,13,3.5,Automated system with a next-business-day response,20
+2020,Q1,24,12,Automated system with a next-business-day response,15
+2023,Q3,13.5,4,Automated system with a next-business-day response,20
+2022,Q1,16.5,7,Automated system with a next-business-day response,20
+2021,Q3,17.5,8,Automated system with a next-business-day response,15
+2020,Q4,19,9.5,Automated system with a next-business-day response,15
+2024,Q3,18,8,Automated system with a next-business-day response,20

@@ -1,0 +1,81 @@
+{
+    "file_name": "browser-update-campaign",
+    "file_title": "Browser Update Campaign: May 2025 Overview",
+    "introduction": "Today, we'll review the browser update enforcement campaign led by Jason Wong in May 2025. This campaign was aimed at improving our online and delivery service user experience.",
+    "subsections": [
+        {
+            "heading": "Browser Usage Statistics of Lee's Market Customers",
+            "content": "\u2022 Chrome is the most-used browser among our customers, accounting for 65% of total usage\n\u2022 Firefox and Safari come next, with 20% and 10% usage, respectively\n\u2022 Edge and other browsers account for the remaining 5% of usage\n\u2022 In the last quarter, there was a 3% increase in mobile browser usage among our customers\n\u2022 There is a trend of increasing usage of privacy-focused browsers like Brave and Tor, but still, they represent less than 1% of total usage\n\u2022 We observed that customers using updated browsers tend to spend 15% more time on our site",
+            "type": "distractor",
+            "justification": "This slide provides information on customer browser usage, not the internal browser update campaign run by Jason Wong."
+        },
+        {
+            "heading": "Overview of May 2025 Browser Update Campaign",
+            "content": "\u2022 The campaign was planned and executed in collaboration with our IT and Marketing departments\n\u2022 We used a phased rollout approach to minimize potential disruptions to our online services\n\u2022 We targeted all major browsers including Chrome, Firefox, Safari, and Edge\n\u2022 Email notifications were sent to all staff members informing them about the update\n\u2022 We monitored the campaign progress using real-time analytics and dashboards\n\u2022 The campaign was concluded successfully within the planned timeframe",
+            "type": "distractor",
+            "justification": "This slide discusses the process and strategy of the campaign, not specific actions taken by Jason Wong."
+        },
+        {
+            "heading": "Impact of Browser Update Campaign on Online Sales",
+            "content": "\u2022 There was a slight decrease in online sales immediately after the campaign, likely due to temporary disruption\n\u2022 A week after the campaign, online sales returned to normal levels\n\u2022 In the following month, we noticed a 7% increase in online sales compared to the previous month\n\u2022 The checkout process on our website became smoother for customers using updated browsers\n\u2022 Our website's loading time improved, which may have contributed to the increase in sales",
+            "type": "distractor",
+            "justification": "This slide discusses the impact of the campaign on sales, not the actions taken by Jason Wong during the campaign."
+        }
+    ],
+    "conclusion": "The browser update enforcement campaign has played a significant role in enhancing our customer's online shopping experience. Moving forward, we'll continue to monitor browser usage trends and make necessary updates to meet our customers' needs.",
+    "file_format": "pptx",
+    "file_path": ".llm_responses/generated_pptx_presentation.pptx",
+    "qa_type": "distractor",
+    "timestamp": "2025-12-02 14:49",
+    "image_queries": [
+        {
+            "slide_title": "Introduction",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "intentionally_clean",
+            "slide_type": "introduction"
+        },
+        {
+            "slide_title": "Browser Usage Statistics of Lee's Market Customers",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 6,
+            "total_chars": 528,
+            "probability": 0.25,
+            "theme": "Executive Purple"
+        },
+        {
+            "slide_title": "Overview of May 2025 Browser Update Campaign",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 6,
+            "total_chars": 481,
+            "probability": 0.25,
+            "theme": "Executive Purple"
+        },
+        {
+            "slide_title": "Impact of Browser Update Campaign on Online Sales",
+            "has_image": true,
+            "image_query": "online sales graph decline",
+            "generation_method": "strategic_placement",
+            "slide_type": "distractor",
+            "content_length": 5,
+            "total_chars": 446,
+            "forced": false,
+            "theme": "Executive Purple"
+        },
+        {
+            "slide_title": "Conclusion",
+            "has_image": true,
+            "image_query": "team collaboration on technology update",
+            "generation_method": "strategic_conclusion",
+            "slide_type": "conclusion",
+            "theme": "Executive Purple"
+        }
+    ],
+    "app": "nextcloud"
+}

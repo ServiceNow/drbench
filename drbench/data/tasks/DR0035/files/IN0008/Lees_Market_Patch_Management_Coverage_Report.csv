@@ -1,0 +1,13 @@
+Month_Year,Critical_Update_Coverage,Reason_for_Delay
+This column represents the specific month and year for which the patch management coverage data is relevant.,This column shows the percentage of critical updates covered by the internal team's patch management for the specified month and year.,This column gives the reason for any delays or shortcomings in achieving full patch management coverage.
+2020-02,96%,No delays
+2021-06,92%,Delay due to hardware failure
+2025-07,88%,Delays due to after-hours staffing limits
+2020-03,94%,Brief delay due to system update
+2020-04,97%,No delays
+2025-06,90%,Delay due to staff training
+2022-07,90%,Delay due to software bug
+2024-09,91%,Delay due to system maintenance
+2020-05,93%,Brief delay due to network issues
+2023-08,89%,Delay due to security breach
+2020-01,95%,No delays

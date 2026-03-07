@@ -1,0 +1,251 @@
+{
+    "file_name": "roundcube_email_20251119_010937",
+    "content": "{\"type\": \"user\", \"username\": \"david.thompson\", \"first_name\": \"David\", \"last_name\": \"Thompson\", \"email\": \"d.thompson@leesmarket.com\", \"password\": \"cust_service2024\"}\n{\"type\": \"user\", \"username\": \"linda.chen\", \"first_name\": \"Linda\", \"last_name\": \"Chen\", \"email\": \"l.chen@leesmarket.com\", \"password\": \"product_mgr2024\"}\n{\"type\": \"user\", \"username\": \"peter.kim\", \"first_name\": \"Peter\", \"last_name\": \"Kim\", \"email\": \"p.kim@leesmarket.com\", \"password\": \"sales_lead2024\"}\n{\"type\": \"user\", \"username\": \"susan.johnson\", \"first_name\": \"Susan\", \"last_name\": \"Johnson\", \"email\": \"s.johnson@leesmarket.com\", \"password\": \"online_sales2024\"}\n{\"type\": \"user\", \"username\": \"richard.morgan\", \"first_name\": \"Richard\", \"last_name\": \"Morgan\", \"email\": \"r.morgan@leesmarket.com\", \"password\": \"delivery_mgr2024\"}\n{\"type\": \"user\", \"username\": \"karen.lee\", \"first_name\": \"Karen\", \"last_name\": \"Lee\", \"email\": \"k.lee@leesmarket.com\", \"password\": \"store_mgr2024\"}\n{\"type\": \"user\", \"username\": \"steven.wilson\", \"first_name\": \"Steven\", \"last_name\": \"Wilson\", \"email\": \"s.wilson@leesmarket.com\", \"password\": \"finance_lead2024\"}\n{\"type\": \"user\", \"username\": \"jennifer.taylor\", \"first_name\": \"Jennifer\", \"last_name\": \"Taylor\", \"email\": \"j.taylor@leesmarket.com\", \"password\": \"marketing_dir2024\"}\n{\"type\": \"email\", \"id\": \"email_001\", \"subject\": \"Weekly Team Meeting\", \"from\": \"d.thompson@leesmarket.com\", \"from_name\": \"David Thompson\", \"to\": [\"l.chen@leesmarket.com\", \"p.kim@leesmarket.com\", \"s.johnson@leesmarket.com\", \"r.morgan@leesmarket.com\", \"k.lee@leesmarket.com\", \"s.wilson@leesmarket.com\"], \"cc\": [], \"date\": \"2023-10-07 09:00:00\", \"body\": \"Hello Team,\\n\\nOur weekly team meeting is scheduled for tomorrow at 10 AM. Please prepare your updates and any issues you would like to discuss.\\n\\nThank you,\\nDavid Thompson\", \"folder\": \"inbox\", \"read\": true, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_002\", \"subject\": \"Store Inventory Update\", \"from\": \"k.lee@leesmarket.com\", \"from_name\": \"Karen Lee\", \"to\": [\"d.thompson@leesmarket.com\", \"l.chen@leesmarket.com\"], \"cc\": [], \"date\": \"2023-10-07 10:30:00\", \"body\": \"Dear David and Linda,\\n\\nThe monthly inventory check at our main store is complete. We are fully stocked for the upcoming month. Please find the detailed report attached.\\n\\nBest Regards,\\nKaren Lee\", \"folder\": \"inbox\", \"read\": true, \"attachments\": [\"Inventory Report Oct 2023.pdf\"]}\n{\"type\": \"email\", \"id\": \"email_003\", \"subject\": \"Annual Budget Planning\", \"from\": \"s.wilson@leesmarket.com\", \"from_name\": \"Steven Wilson\", \"to\": [\"d.thompson@leesmarket.com\", \"l.chen@leesmarket.com\", \"p.kim@leesmarket.com\", \"s.johnson@leesmarket.com\", \"r.morgan@leesmarket.com\", \"k.lee@leesmarket.com\"], \"cc\": [], \"date\": \"2023-10-07 11:00:00\", \"body\": \"Team,\\n\\nIt's that time of year again to start planning our budget for the next fiscal year. Please prepare your department's forecast and send it to me by the end of next week.\\n\\nThanks,\\nSteven Wilson\", \"folder\": \"inbox\", \"read\": true, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_004\", \"subject\": \"New Compliance Training\", \"from\": \"d.thompson@leesmarket.com\", \"from_name\": \"David Thompson\", \"to\": [\"l.chen@leesmarket.com\", \"p.kim@leesmarket.com\", \"s.johnson@leesmarket.com\", \"r.morgan@leesmarket.com\", \"k.lee@leesmarket.com\", \"s.wilson@leesmarket.com\"], \"cc\": [], \"date\": \"2023-10-07 12:00:00\", \"body\": \"Hello Team,\\n\\nWe are introducing a new compliance training for all employees. Please ensure your teams complete the training by the end of this month. You'll find the training module in the HR portal.\\n\\nThank you,\\nDavid Thompson\", \"folder\": \"inbox\", \"read\": true, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_005\", \"subject\": \"Sales Performance Review\", \"from\": \"p.kim@leesmarket.com\", \"from_name\": \"Peter Kim\", \"to\": [\"d.thompson@leesmarket.com\"], \"cc\": [], \"date\": \"2023-10-07 13:00:00\", \"body\": \"Hi David,\\n\\nJust a quick note, the sales performance review for Q3 is ready. I'll present the full report in our next meeting.\\n\\nBest,\\nPeter Kim\", \"folder\": \"inbox\", \"read\": true, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_001\", \"subject\": \"Holiday Season Initiatives & Results\", \"from\": \"p.kim@leesmarket.com\", \"from_name\": \"Peter Kim\", \"to\": [\"d.thompson@leesmarket.com\", \"l.chen@leesmarket.com\", \"s.johnson@leesmarket.com\", \"r.morgan@leesmarket.com\", \"k.lee@leesmarket.com\", \"s.wilson@leesmarket.com\", \"j.taylor@leesmarket.com\"], \"cc\": [], \"date\": \"2025-01-02 09:00:00\", \"body\": \"Dear Team,\\n\\nI hope everyone enjoyed their holiday season. I'm writing to share some significant achievements from our holiday initiatives.\\n\\nOne of our major successes was the introduction of our seasonal gift baskets. These baskets were available from December 1 to 31, and we managed to sell over 3,000 across all locations. The positive customer feedback and strong sales suggest that this initiative was well received by our customers, especially among the younger demographic.\\n\\nLet's keep this momentum going into the new year. I look forward to discussing these results and planning our strategies for 2025.\\n\\nBest,\\nPeter\", \"folder\": \"inbox\", \"read\": true, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_002\", \"subject\": \"Re: Holiday Season Initiatives & Results\", \"from\": \"d.thompson@leesmarket.com\", \"from_name\": \"David Thompson\", \"to\": [\"p.kim@leesmarket.com\"], \"cc\": [\"l.chen@leesmarket.com\", \"s.johnson@leesmarket.com\", \"r.morgan@leesmarket.com\", \"k.lee@leesmarket.com\", \"s.wilson@leesmarket.com\", \"j.taylor@leesmarket.com\"], \"date\": \"2025-01-02 10:30:00\", \"body\": \"Peter,\\n\\nThanks for the update. The success of the seasonal gift baskets shows how well we understand our customers' needs and preferences. This could be a key insight for our upcoming project on improving customer engagement and loyalty using conversational AI across social media, live chat, and texting. I believe that similar initiatives can be integrated into these platforms to enhance our relationship with customers, particularly with Centennials.\\n\\nBest,\\nDavid\", \"folder\": \"inbox\", \"read\": true, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_003\", \"subject\": \"Re: Holiday Season Initiatives & Results\", \"from\": \"j.taylor@leesmarket.com\", \"from_name\": \"Jennifer Taylor\", \"to\": [\"p.kim@leesmarket.com\", \"d.thompson@leesmarket.com\"], \"cc\": [\"l.chen@leesmarket.com\", \"s.johnson@leesmarket.com\", \"r.morgan@leesmarket.com\", \"k.lee@leesmarket.com\", \"s.wilson@leesmarket.com\"], \"date\": \"2025-01-02 11:15:00\", \"body\": \"Peter, David,\\n\\nI agree with David's point. The success of the seasonal gift baskets shows that we can effectively cater to the needs of our younger customers. By integrating similar initiatives into our conversational AI platforms, we have the potential to significantly improve our engagement with Centennial shoppers. Let's consider this as we plan our marketing strategies for 2025.\\n\\nBest,\\nJennifer\", \"folder\": \"inbox\", \"read\": true, \"attachments\": []}",
+    "email_setup": [
+        {
+            "type": "user",
+            "username": "david.thompson",
+            "first_name": "David",
+            "last_name": "Thompson",
+            "email": "d.thompson@leesmarket.com",
+            "password": "cust_service2024"
+        },
+        {
+            "type": "user",
+            "username": "linda.chen",
+            "first_name": "Linda",
+            "last_name": "Chen",
+            "email": "l.chen@leesmarket.com",
+            "password": "product_mgr2024"
+        },
+        {
+            "type": "user",
+            "username": "peter.kim",
+            "first_name": "Peter",
+            "last_name": "Kim",
+            "email": "p.kim@leesmarket.com",
+            "password": "sales_lead2024"
+        },
+        {
+            "type": "user",
+            "username": "susan.johnson",
+            "first_name": "Susan",
+            "last_name": "Johnson",
+            "email": "s.johnson@leesmarket.com",
+            "password": "online_sales2024"
+        },
+        {
+            "type": "user",
+            "username": "richard.morgan",
+            "first_name": "Richard",
+            "last_name": "Morgan",
+            "email": "r.morgan@leesmarket.com",
+            "password": "delivery_mgr2024"
+        },
+        {
+            "type": "user",
+            "username": "karen.lee",
+            "first_name": "Karen",
+            "last_name": "Lee",
+            "email": "k.lee@leesmarket.com",
+            "password": "store_mgr2024"
+        },
+        {
+            "type": "user",
+            "username": "steven.wilson",
+            "first_name": "Steven",
+            "last_name": "Wilson",
+            "email": "s.wilson@leesmarket.com",
+            "password": "finance_lead2024"
+        },
+        {
+            "type": "user",
+            "username": "jennifer.taylor",
+            "first_name": "Jennifer",
+            "last_name": "Taylor",
+            "email": "j.taylor@leesmarket.com",
+            "password": "marketing_dir2024"
+        }
+    ],
+    "email_messages": [
+        {
+            "type": "email",
+            "id": "email_001",
+            "subject": "Weekly Team Meeting",
+            "from": "d.thompson@leesmarket.com",
+            "from_name": "David Thompson",
+            "to": [
+                "l.chen@leesmarket.com",
+                "p.kim@leesmarket.com",
+                "s.johnson@leesmarket.com",
+                "r.morgan@leesmarket.com",
+                "k.lee@leesmarket.com",
+                "s.wilson@leesmarket.com"
+            ],
+            "cc": [],
+            "date": "2023-10-07 09:00:00",
+            "body": "Hello Team,\n\nOur weekly team meeting is scheduled for tomorrow at 10 AM. Please prepare your updates and any issues you would like to discuss.\n\nThank you,\nDavid Thompson",
+            "folder": "inbox",
+            "read": true,
+            "attachments": [],
+            "tag": "distractor"
+        },
+        {
+            "type": "email",
+            "id": "email_002",
+            "subject": "Store Inventory Update",
+            "from": "k.lee@leesmarket.com",
+            "from_name": "Karen Lee",
+            "to": [
+                "d.thompson@leesmarket.com",
+                "l.chen@leesmarket.com"
+            ],
+            "cc": [],
+            "date": "2023-10-07 10:30:00",
+            "body": "Dear David and Linda,\n\nThe monthly inventory check at our main store is complete. We are fully stocked for the upcoming month. Please find the detailed report attached.\n\nBest Regards,\nKaren Lee",
+            "folder": "inbox",
+            "read": true,
+            "attachments": [
+                "Inventory Report Oct 2023.pdf"
+            ],
+            "tag": "distractor"
+        },
+        {
+            "type": "email",
+            "id": "email_003",
+            "subject": "Annual Budget Planning",
+            "from": "s.wilson@leesmarket.com",
+            "from_name": "Steven Wilson",
+            "to": [
+                "d.thompson@leesmarket.com",
+                "l.chen@leesmarket.com",
+                "p.kim@leesmarket.com",
+                "s.johnson@leesmarket.com",
+                "r.morgan@leesmarket.com",
+                "k.lee@leesmarket.com"
+            ],
+            "cc": [],
+            "date": "2023-10-07 11:00:00",
+            "body": "Team,\n\nIt's that time of year again to start planning our budget for the next fiscal year. Please prepare your department's forecast and send it to me by the end of next week.\n\nThanks,\nSteven Wilson",
+            "folder": "inbox",
+            "read": true,
+            "attachments": [],
+            "tag": "distractor"
+        },
+        {
+            "type": "email",
+            "id": "email_004",
+            "subject": "New Compliance Training",
+            "from": "d.thompson@leesmarket.com",
+            "from_name": "David Thompson",
+            "to": [
+                "l.chen@leesmarket.com",
+                "p.kim@leesmarket.com",
+                "s.johnson@leesmarket.com",
+                "r.morgan@leesmarket.com",
+                "k.lee@leesmarket.com",
+                "s.wilson@leesmarket.com"
+            ],
+            "cc": [],
+            "date": "2023-10-07 12:00:00",
+            "body": "Hello Team,\n\nWe are introducing a new compliance training for all employees. Please ensure your teams complete the training by the end of this month. You'll find the training module in the HR portal.\n\nThank you,\nDavid Thompson",
+            "folder": "inbox",
+            "read": true,
+            "attachments": [],
+            "tag": "distractor"
+        },
+        {
+            "type": "email",
+            "id": "email_005",
+            "subject": "Sales Performance Review",
+            "from": "p.kim@leesmarket.com",
+            "from_name": "Peter Kim",
+            "to": [
+                "d.thompson@leesmarket.com"
+            ],
+            "cc": [],
+            "date": "2023-10-07 13:00:00",
+            "body": "Hi David,\n\nJust a quick note, the sales performance review for Q3 is ready. I'll present the full report in our next meeting.\n\nBest,\nPeter Kim",
+            "folder": "inbox",
+            "read": true,
+            "attachments": [],
+            "tag": "distractor"
+        },
+        {
+            "type": "email",
+            "id": "email_001",
+            "subject": "Holiday Season Initiatives & Results",
+            "from": "p.kim@leesmarket.com",
+            "from_name": "Peter Kim",
+            "to": [
+                "d.thompson@leesmarket.com",
+                "l.chen@leesmarket.com",
+                "s.johnson@leesmarket.com",
+                "r.morgan@leesmarket.com",
+                "k.lee@leesmarket.com",
+                "s.wilson@leesmarket.com",
+                "j.taylor@leesmarket.com"
+            ],
+            "cc": [],
+            "date": "2025-01-02 09:00:00",
+            "body": "Dear Team,\n\nI hope everyone enjoyed their holiday season. I'm writing to share some significant achievements from our holiday initiatives.\n\nOne of our major successes was the introduction of our seasonal gift baskets. These baskets were available from December 1 to 31, and we managed to sell over 3,000 across all locations. The positive customer feedback and strong sales suggest that this initiative was well received by our customers, especially among the younger demographic.\n\nLet's keep this momentum going into the new year. I look forward to discussing these results and planning our strategies for 2025.\n\nBest,\nPeter",
+            "folder": "inbox",
+            "read": true,
+            "attachments": [],
+            "tag": "insight"
+        },
+        {
+            "type": "email",
+            "id": "email_002",
+            "subject": "Re: Holiday Season Initiatives & Results",
+            "from": "d.thompson@leesmarket.com",
+            "from_name": "David Thompson",
+            "to": [
+                "p.kim@leesmarket.com"
+            ],
+            "cc": [
+                "l.chen@leesmarket.com",
+                "s.johnson@leesmarket.com",
+                "r.morgan@leesmarket.com",
+                "k.lee@leesmarket.com",
+                "s.wilson@leesmarket.com",
+                "j.taylor@leesmarket.com"
+            ],
+            "date": "2025-01-02 10:30:00",
+            "body": "Peter,\n\nThanks for the update. The success of the seasonal gift baskets shows how well we understand our customers' needs and preferences. This could be a key insight for our upcoming project on improving customer engagement and loyalty using conversational AI across social media, live chat, and texting. I believe that similar initiatives can be integrated into these platforms to enhance our relationship with customers, particularly with Centennials.\n\nBest,\nDavid",
+            "folder": "inbox",
+            "read": true,
+            "attachments": [],
+            "tag": "insight"
+        },
+        {
+            "type": "email",
+            "id": "email_003",
+            "subject": "Re: Holiday Season Initiatives & Results",
+            "from": "j.taylor@leesmarket.com",
+            "from_name": "Jennifer Taylor",
+            "to": [
+                "p.kim@leesmarket.com",
+                "d.thompson@leesmarket.com"
+            ],
+            "cc": [
+                "l.chen@leesmarket.com",
+                "s.johnson@leesmarket.com",
+                "r.morgan@leesmarket.com",
+                "k.lee@leesmarket.com",
+                "s.wilson@leesmarket.com"
+            ],
+            "date": "2025-01-02 11:15:00",
+            "body": "Peter, David,\n\nI agree with David's point. The success of the seasonal gift baskets shows that we can effectively cater to the needs of our younger customers. By integrating similar initiatives into our conversational AI platforms, we have the potential to significantly improve our engagement with Centennial shoppers. Let's consider this as we plan our marketing strategies for 2025.\n\nBest,\nJennifer",
+            "folder": "inbox",
+            "read": true,
+            "attachments": [],
+            "tag": "insight"
+        }
+    ],
+    "file_format": "jsonl",
+    "file_path": ".llm_responses/generated_email_document.jsonl",
+    "qa_type": "distractor",
+    "timestamp": "2025-11-19 02:09",
+    "app": "email"
+}

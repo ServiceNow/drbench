@@ -1,0 +1,81 @@
+{
+    "file_name": "linkedin-sales-engagement",
+    "file_title": "LinkedIn Engagement & Sales Performance 2025",
+    "introduction": "In this presentation, we will explore the correlation between LinkedIn engagement and sales performance in 2025. This overview will help us understand the impact of social media on our sales strategies.",
+    "subsections": [
+        {
+            "heading": "Evolving Landscape of Digital Sales",
+            "content": "\u2022 In 2020, digital sales accounted for 15% of global automotive sales\n\u2022 Digital sales channels are increasingly crucial for engaging prospective customers\n\u2022 Elexion Automotive's website experienced a 25% increase in traffic YoY in 2025\n\u2022 Social media ad spend in the automotive industry increased by 30% in 2025\n\u2022 Over 35% of Elexion Automotive's leads in 2025 came from digital platforms\n\u2022 Elexion plans to further invest in digital sales strategies in the future",
+            "type": "distractor",
+            "justification": "The content discusses digital sales evolution over time but doesn't provide LinkedIn engagement metrics for sales representatives."
+        },
+        {
+            "heading": "LinkedIn Engagement Metrics 2025",
+            "content": "\u2022 LinkedIn has become the go-to platform for B2B marketing and sales\n\u2022 LinkedIn's user base grew by 10% in 2025\n\u2022 The average LinkedIn post in the automotive industry received 50 likes in 2025\n\u2022 LinkedIn's algorithm tends to favor posts with high engagement rates\n\u2022 Elexion Automotive's official LinkedIn page gained 15% more followers in 2025",
+            "type": "distractor",
+            "justification": "This slide focuses on general LinkedIn usage and Elexion's official page, not engagement from sales representatives."
+        },
+        {
+            "heading": "Correlation: LinkedIn Engagement & Sales Performance",
+            "content": "\u2022 High LinkedIn engagement rates can lead to higher brand visibility\n\u2022 Engagement on LinkedIn can foster trust among potential customers\n\u2022 Elexion's top-performing sales representatives consistently engage with LinkedIn content\n\u2022 A study showed that companies with high LinkedIn engagement tend to see a 20% increase in sales\n\u2022 Elexion is implementing a program to encourage more LinkedIn engagement from sales staff",
+            "type": "distractor",
+            "justification": "The content discusses the potential impact of LinkedIn engagement on sales but doesn't provide specific engagement metrics for sales representatives."
+        }
+    ],
+    "conclusion": "Understanding the relationship between LinkedIn engagement and sales performance allows us to develop effective digital sales strategies. Moving forward, it is crucial to continue improving our social media engagement for better sales performance.",
+    "file_format": "pptx",
+    "file_path": ".llm_responses/generated_pptx_presentation.pptx",
+    "qa_type": "distractor",
+    "timestamp": "2025-11-20 01:01",
+    "image_queries": [
+        {
+            "slide_title": "Introduction",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "intentionally_clean",
+            "slide_type": "introduction"
+        },
+        {
+            "slide_title": "Evolving Landscape of Digital Sales",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 6,
+            "total_chars": 447,
+            "probability": 0.25,
+            "theme": "Elegant Teal"
+        },
+        {
+            "slide_title": "LinkedIn Engagement Metrics 2025",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "failed",
+            "slide_type": "distractor",
+            "content_length": 5,
+            "total_chars": 329,
+            "error": "'str' object has no attribute 'choices'",
+            "theme": "Elegant Teal"
+        },
+        {
+            "slide_title": "Correlation: LinkedIn Engagement & Sales Performance",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 5,
+            "total_chars": 402,
+            "probability": 0.25,
+            "theme": "Elegant Teal"
+        },
+        {
+            "slide_title": "Conclusion",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "strategic_clean_conclusion",
+            "slide_type": "conclusion",
+            "theme": "Elegant Teal"
+        }
+    ],
+    "app": "nextcloud"
+}

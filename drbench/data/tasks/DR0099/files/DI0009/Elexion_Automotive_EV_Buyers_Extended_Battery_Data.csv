@@ -1,0 +1,13 @@
+Buyer_ID,Purchase_Year,Extended_Battery_Warranty_Plan
+This is a unique identifier for each buyer of Elexion EV and it does not relate directly to the insight but it helps to identify buyers.,This column represents the year in which the Elexion EV was purchased. It relates to the insight by identifying buyers of the specific year 2025.,This column indicates whether the buyer opted for the extended battery-warranty plan or not. It relates directly to the insight as it shows the percentage of buyers who opted for the warranty plan.
+BUYER_003,2022,False
+BUYER_007,2025,True
+BUYER_009,2025,False
+INSIGHT_001,2025,True
+BUYER_002,2021,True
+BUYER_006,2025,True
+BUYER_005,2024,False
+BUYER_004,2023,True
+BUYER_008,2025,False
+BUYER_001,2020,False
+BUYER_010,2025,True

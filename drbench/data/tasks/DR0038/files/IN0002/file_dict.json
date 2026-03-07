@@ -1,0 +1,81 @@
+{
+    "file_name": "community-partnerships-analysis",
+    "file_title": "Community Partnerships: Retail ROI Analysis",
+    "introduction": "Today, we will be examining how community partnerships have impacted regional food retailers' ROI within our revenue bracket. Our focus will be on media coverage value, customer acquisition costs, and brand perception shifts.",
+    "subsections": [
+        {
+            "heading": "Overview of Community Partnership Programs",
+            "content": "\u2022 Lee's Market engaged in the sponsorship of three major Asian cultural festivals in 2022, a strategic approach to community engagement.\n\u2022 The total investment for these sponsorships was $150,000, indicating our commitment to supporting culturally relevant events.\n\u2022 The sponsorships resulted in significant media coverage, translating to an impressive 300% return on investment.\n\u2022 Beyond financial gains, these sponsorships also led to a surge in new customer acquisition, with a 25% increase observed.\n\u2022 It's noteworthy that these new customers were culturally relevant, aligning well with our core business of Asian groceries.\n\u2022 The success of these sponsorships indicates the potential of community partnerships as a vehicle for brand promotion and customer acquisition.\n\u2022 Given the results, it's recommended to continue exploring community partnerships, particularly those that align with our target demographic.",
+            "type": "insight",
+            "justification": "This content provides data on community partnerships' ROI, cost of customer acquisition, and brand perception\u2014key factors to answer the DR Question."
+        },
+        {
+            "heading": "Media Coverage Value and Customer Acquisition Costs",
+            "content": "\u2022 Media coverage varies greatly based on the nature of the community partnership\n\u2022 In the past, we've seen a correlation between the size of the initiative and the amount of media coverage\n\u2022 For large-scale initiatives, we've typically had to hire an external PR firm to manage the media relations\n\u2022 The cost to acquire a new customer varies by region and demographic\n\u2022 Traditional advertising methods like TV and newspaper ads have higher costs but can reach a larger audience\n\u2022 Digital marketing channels have lower costs but require more effort to target and reach potential customers\n\u2022 We continually monitor and adjust our marketing strategies to reduce acquisition costs",
+            "type": "distractor",
+            "justification": "This slide discusses media coverage and customer acquisition generally but not in relation to specific community partnership programs or the 2022-2023 period."
+        },
+        {
+            "heading": "Brand Perception Following Community Initiatives",
+            "content": "\u2022 It's crucial to maintain a positive brand image in the communities we serve\n\u2022 Our community partnerships have historically been well received by our customers\n\u2022 We conduct regular surveys to gauge customer sentiment following our community initiatives\n\u2022 Data from these surveys is used to inform our future initiatives and partnerships\n\u2022 We also monitor social media and online reviews to understand the public's perception of our brand\n\u2022 Negative feedback is taken seriously and used to improve our brand and services",
+            "type": "distractor",
+            "justification": "The slide discusses brand perception generally but doesn't provide specific details about changes following community initiatives in 2022-2023."
+        }
+    ],
+    "conclusion": "Our analysis indicates that strategic community partnerships can significantly enhance our brand perception and attract new customers cost-effectively. Moving forward, we should explore suitable local initiatives to leverage these benefits.",
+    "file_format": "pptx",
+    "file_path": ".llm_responses/generated_pptx_presentation.pptx",
+    "qa_type": "insight",
+    "timestamp": "2025-11-19 22:47",
+    "image_queries": [
+        {
+            "slide_title": "Introduction",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "intentionally_clean",
+            "slide_type": "introduction"
+        },
+        {
+            "slide_title": "Overview of Community Partnership Programs",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "failed",
+            "slide_type": "insight",
+            "content_length": 7,
+            "total_chars": 897,
+            "error": "'str' object has no attribute 'choices'",
+            "theme": "Bold Crimson"
+        },
+        {
+            "slide_title": "Media Coverage Value and Customer Acquisition Costs",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 7,
+            "total_chars": 656,
+            "probability": 0.25,
+            "theme": "Bold Crimson"
+        },
+        {
+            "slide_title": "Brand Perception Following Community Initiatives",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 6,
+            "total_chars": 503,
+            "probability": 0.25,
+            "theme": "Bold Crimson"
+        },
+        {
+            "slide_title": "Conclusion",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "strategic_clean_conclusion",
+            "slide_type": "conclusion",
+            "theme": "Bold Crimson"
+        }
+    ],
+    "app": "file_system"
+}

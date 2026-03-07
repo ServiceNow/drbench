@@ -1,0 +1,13 @@
+Date_Range,Platform,Engagement_Change,Budget_Change_Advocated,Decision_Maker,Anticipated_Engagement_Lift
+"The specific period time in consideration for the trend and budget shaping. For example, 'March to August 2025' in the given insight.","The social media platform in focus. In the given insight, this would be 'Instagram'.","The percentage change in engagement or participation on the platform during the specified date range. For example, '27%' in the given insight.","The proposed percentage change in budget allocation for the platform. For example, '20%' in the given insight.","The individual who advocated for the change in budget allocation. For example, 'Sofia Patel' in the given insight.",The expected increase in engagement or participation as a result of the budget change. This is derived from the justification or answer.
+January to June 2025,Twitter,10%,5%,John Doe,Expecting small engagement increase
+January to June 2026,Facebook,15%,10%,John Doe,Expecting moderate engagement increase
+January to June 2027,Twitter,15%,10%,Lisa Smith,Expecting moderate engagement increase
+July to December 2026,Twitter,5%,2%,Lisa Smith,Expecting slight engagement increase
+July to December 2025,Facebook,5%,2%,Lisa Smith,Expecting slight engagement increase
+July to December 2026,Instagram,20%,15%,Sofia Patel,Expecting significant engagement increase
+January to June 2027,Facebook,10%,5%,John Doe,Expecting small engagement increase
+January to June 2026,Instagram,10%,5%,Sofia Patel,Expecting small engagement increase
+July to December 2025,Twitter,20%,15%,Lisa Smith,Expecting significant engagement increase
+January to June 2025,Instagram,15%,10%,John Doe,Expecting moderate engagement increase
+March to August 2025,Instagram,27%,20%,Sofia Patel,Anticipating further engagement lifts

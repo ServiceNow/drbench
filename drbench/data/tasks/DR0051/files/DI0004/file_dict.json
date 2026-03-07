@@ -1,0 +1,81 @@
+{
+    "file_name": "multilingual-support-review",
+    "file_title": "Multilingual Support in MediConn's Services",
+    "introduction": "As we continue to expand our reach across Canada, it's crucial to understand the diverse language needs of our customers. This presentation examines the language support provided by our customer service team in 2024.",
+    "subsections": [
+        {
+            "heading": "Demographics of MediConn's Customer Base",
+            "content": "\u2022 MediConn services are widely used across all provinces of Canada\n\u2022 Our user base consists primarily of individuals aged between 30-50 years\n\u2022 Approximately 40% of our users are from urban regions, while 60% come from suburban and rural areas\n\u2022 The gender distribution of our customer base is roughly equal, with a slight female predominance at 52%\n\u2022 A significant percentage of users, roughly 65%, have subscribed to our services through corporate partnerships\n\u2022 Our user retention rate in 2024 was 87%, a 3% increase from 2023",
+            "type": "distractor",
+            "justification": "This slide provides demographics of the customer base but doesn't specify the languages supported by the customer service team."
+        },
+        {
+            "heading": "Language Capabilities of Customer Service Team",
+            "content": "\u2022 Our customer service team consists of highly trained professionals with diverse language skills\n\u2022 We strive to provide round-the-clock support to our customers\n\u2022 Our customer service team receives ongoing training to stay updated with the latest industry standards and practices\n\u2022 We leverage AI technology to aid our customer service team in resolving customer issues efficiently\n\u2022 In 2024, we implemented a new customer service software to streamline ticketing and problem resolution\n\u2022 The average response time in 2024 was 15 minutes, a decrease by 5 minutes from the previous year",
+            "type": "distractor",
+            "justification": "The slide provides details about the customer service team's capabilities, but not the specific languages they supported in 2024."
+        },
+        {
+            "heading": "Impact of Multilingual Support on Customer Satisfaction",
+            "content": "\u2022 Multilingual support has been instrumental in achieving higher customer satisfaction ratings\n\u2022 We have seen a 20% increase in customer satisfaction scores since introducing multilingual support\n\u2022 Customer churn rate has decreased by 5% after the implementation of multilingual support\n\u2022 Our Net Promoter Score (NPS) has increased from 70 in 2023 to 80 in 2024\n\u2022 In a recent survey, 95% of users rated their customer service interaction as 'excellent' or 'good'\n\u2022 We have seen an increase in positive customer reviews and testimonials since introducing multilingual support",
+            "type": "distractor",
+            "justification": "The slide discusses the impact of multilingual support on customer satisfaction but does not specify the number of languages supported in 2024."
+        }
+    ],
+    "conclusion": "The multilingual capabilities of our customer service team have been instrumental in catering to the diverse needs of our customer base. Going forward, we should continue to invest in this area, ensuring we provide accessible service to all Canadians.",
+    "file_format": "pptx",
+    "file_path": ".llm_responses/generated_pptx_presentation.pptx",
+    "qa_type": "distractor",
+    "timestamp": "2025-11-19 23:52",
+    "image_queries": [
+        {
+            "slide_title": "Introduction",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "intentionally_clean",
+            "slide_type": "introduction"
+        },
+        {
+            "slide_title": "Demographics of MediConn's Customer Base",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 6,
+            "total_chars": 512,
+            "probability": 0.25,
+            "theme": "Forest Theme"
+        },
+        {
+            "slide_title": "Language Capabilities of Customer Service Team",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "failed",
+            "slide_type": "distractor",
+            "content_length": 6,
+            "total_chars": 569,
+            "error": "'str' object has no attribute 'choices'",
+            "theme": "Forest Theme"
+        },
+        {
+            "slide_title": "Impact of Multilingual Support on Customer Satisfaction",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 6,
+            "total_chars": 557,
+            "probability": 0.25,
+            "theme": "Forest Theme"
+        },
+        {
+            "slide_title": "Conclusion",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "strategic_clean_conclusion",
+            "slide_type": "conclusion",
+            "theme": "Forest Theme"
+        }
+    ],
+    "app": "file_system"
+}

@@ -1,0 +1,10 @@
+{
+    "insight_id": "IN0003",
+    "qa_type": "insight",
+    "qa_index": 3,
+    "specific_question": "What percentage of MediConn's reviewed data processing systems and integrations is compliant with the new CPPA requirements as of Q4 2025?",
+    "answer": "An estimated 60% of MediConn's reviewed data processing systems and integrations are compliant with the new CPPA requirements as of Q4 2025.",
+    "justification": "This highlights MediConn's measurable progress toward meeting CPPA standards. Quantifying current compliance helps identify remaining gaps, particularly around algorithmic transparency and data portability, thereby guiding targeted upgrades for full readiness.",
+    "timestamp": "2025-11-20 14:39",
+    "dr_question": "As the CPPA Act (Bill C-27) awaits parliamentary decision, how can MediConn build preparedness measures to ensure a smooth transition in the event the Act comes into effect by Q2 2026?"
+}

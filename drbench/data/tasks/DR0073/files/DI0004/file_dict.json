@@ -1,0 +1,218 @@
+{
+    "file_name": "roundcube_email_20251120_021802",
+    "content": "{\"type\": \"user\", \"username\": \"ethan.smith\", \"first_name\": \"Ethan\", \"last_name\": \"Smith\", \"email\": \"ethan.smith@elexionautomotive.com\", \"password\": \"quality_control_pwd\"}\n{\"type\": \"user\", \"username\": \"jennifer.jones\", \"first_name\": \"Jennifer\", \"last_name\": \"Jones\", \"email\": \"jennifer.jones@elexionautomotive.com\", \"password\": \"testing_team_pwd\"}\n{\"type\": \"user\", \"username\": \"michael.brown\", \"first_name\": \"Michael\", \"last_name\": \"Brown\", \"email\": \"michael.brown@elexionautomotive.com\", \"password\": \"product_development_pwd\"}\n{\"type\": \"user\", \"username\": \"samantha.wilson\", \"first_name\": \"Samantha\", \"last_name\": \"Wilson\", \"email\": \"samantha.wilson@elexionautomotive.com\", \"password\": \"marketing_team_pwd\"}\n{\"type\": \"user\", \"username\": \"robert.garcia\", \"first_name\": \"Robert\", \"last_name\": \"Garcia\", \"email\": \"robert.garcia@elexionautomotive.com\", \"password\": \"sales_team_pwd\"}\n{\"type\": \"user\", \"username\": \"elizabeth.lee\", \"first_name\": \"Elizabeth\", \"last_name\": \"Lee\", \"email\": \"elizabeth.lee@elexionautomotive.com\", \"password\": \"customer_service_pwd\"}\n{\"type\": \"user\", \"username\": \"david.miller\", \"first_name\": \"David\", \"last_name\": \"Miller\", \"email\": \"david.miller@elexionautomotive.com\", \"password\": \"finance_team_pwd\"}\n{\"type\": \"user\", \"username\": \"mary.moore\", \"first_name\": \"Mary\", \"last_name\": \"Moore\", \"email\": \"mary.moore@elexionautomotive.com\", \"password\": \"hr_team_pwd\"}\n{\"type\": \"email\", \"id\": \"email_001\", \"subject\": \"Weekly QA Team Meeting\", \"from\": \"ethan.smith@elexionautomotive.com\", \"from_name\": \"Ethan Smith\", \"to\": [\"jennifer.jones@elexionautomotive.com\"], \"cc\": [], \"date\": \"2022-09-15 10:00:00\", \"body\": \"Hi Jennifer,\\n\\nPlease be reminded of our weekly QA team meeting scheduled for today at 2pm in the conference room. We will be discussing this week's quality inspection results and any new issues that have arisen.\\n\\nSee you there,\\nEthan\", \"folder\": \"sent\", \"read\": true, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_002\", \"subject\": \"Updated Employee Handbook\", \"from\": \"mary.moore@elexionautomotive.com\", \"from_name\": \"Mary Moore\", \"to\": [\"ethan.smith@elexionautomotive.com\"], \"cc\": [], \"date\": \"2022-09-16 09:30:00\", \"body\": \"Dear Ethan,\\n\\nWe have updated the Employee Handbook to include new policies on remote work and office safety. Please take a moment to review these changes.\\n\\nBest Regards,\\nMary\", \"folder\": \"inbox\", \"read\": false, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_003\", \"subject\": \"EV Industry Seminar\", \"from\": \"samantha.wilson@elexionautomotive.com\", \"from_name\": \"Samantha Wilson\", \"to\": [\"ethan.smith@elexionautomotive.com\"], \"cc\": [], \"date\": \"2022-09-17 13:00:00\", \"body\": \"Ethan,\\n\\nThe EV Industry Seminar is coming up next month. This will be a great opportunity for us to network and learn more about the latest trends in the industry. Please let me know if you're interested in attending.\\n\\nBest,\\nSamantha\", \"folder\": \"inbox\", \"read\": false, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_004\", \"subject\": \"Quarterly Budget Planning\", \"from\": \"david.miller@elexionautomotive.com\", \"from_name\": \"David Miller\", \"to\": [\"ethan.smith@elexionautomotive.com\"], \"cc\": [], \"date\": \"2022-09-18 15:30:00\", \"body\": \"Hi Ethan,\\n\\nI am in the process of preparing the budget for the next quarter. Can you provide the estimated expenses for the Quality Assurance department?\\n\\nBest,\\nDavid\", \"folder\": \"inbox\", \"read\": false, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_005\", \"subject\": \"Employee Satisfaction Survey\", \"from\": \"mary.moore@elexionautomotive.com\", \"from_name\": \"Mary Moore\", \"to\": [\"ethan.smith@elexionautomotive.com\"], \"cc\": [], \"date\": \"2022-09-19 09:00:00\", \"body\": \"Dear Ethan,\\n\\nPlease take a few minutes to complete the Employee Satisfaction Survey. Your feedback is important to us and helps us improve the overall working environment at Elexion Automotive.\\n\\nBest Regards,\\nMary\", \"folder\": \"inbox\", \"read\": false, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_001\", \"subject\": \"Q2 2024 Testing Results and Recommendations\", \"from\": \"ethan.smith@elexionautomotive.com\", \"from_name\": \"Ethan Smith\", \"to\": [\"michael.brown@elexionautomotive.com\"], \"cc\": [\"jennifer.jones@elexionautomotive.com\"], \"date\": \"2024-07-10 14:20:00\", \"body\": \"Hi Michael,\\n\\nI hope this message finds you well. I wanted to share with you the results from our Q2 2024 testing. Our team has been working diligently to improve the quality and reliability of our electric vehicles. I'm pleased to share that we've made significant progress.\\n\\nOne of our standout metrics is the interior noise level. During our testing at 70 mph highway speed, we achieved a noise level of 55 dB. This is a great improvement and signifies our efforts in enhancing customer comfort and driving experience.\\n\\nI believe this improvement will greatly contribute to our goal of reducing the 30% higher control/display problem rate for EVs. The reduced noise level can enhance the user experience and potentially contribute to achieving PP100 scores below the 266 EV average.\\n\\nI will be sharing a comprehensive report with further insights soon. Let's discuss these results and plan the next steps.\\n\\nBest,\\nEthan\", \"folder\": \"sent\", \"read\": true, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_002\", \"subject\": \"RE: Q2 2024 Testing Results and Recommendations\", \"from\": \"michael.brown@elexionautomotive.com\", \"from_name\": \"Michael Brown\", \"to\": [\"ethan.smith@elexionautomotive.com\"], \"cc\": [\"jennifer.jones@elexionautomotive.com\"], \"date\": \"2024-07-11 09:15:00\", \"body\": \"Hi Ethan,\\n\\nThank you for the update. The reduction in noise level is indeed a notable achievement. I agree that it can contribute to enhancing the user experience and reducing the control/display problem rate.\\n\\nI look forward to discussing the comprehensive report and planning our next steps. We need to keep this momentum going as we work towards our 2026 EV models.\\n\\nBest,\\nMichael\", \"folder\": \"inbox\", \"read\": true, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_003\", \"subject\": \"RE: Q2 2024 Testing Results and Recommendations\", \"from\": \"jennifer.jones@elexionautomotive.com\", \"from_name\": \"Jennifer Jones\", \"to\": [\"ethan.smith@elexionautomotive.com\", \"michael.brown@elexionautomotive.com\"], \"cc\": [], \"date\": \"2024-07-11 10:30:00\", \"body\": \"Hi Ethan and Michael,\\n\\nI've also reviewed the results and couldn't agree more. The reduction in noise level is a significant step forward in our quest to improve the overall customer experience.\\n\\nEthan, could we arrange a meeting to discuss the full report? I'd love to understand more about the testing process and how we can continue these improvements.\\n\\nBest,\\nJennifer\", \"folder\": \"inbox\", \"read\": true, \"attachments\": []}",
+    "email_setup": [
+        {
+            "type": "user",
+            "username": "ethan.smith",
+            "first_name": "Ethan",
+            "last_name": "Smith",
+            "email": "ethan.smith@elexionautomotive.com",
+            "password": "quality_control_pwd"
+        },
+        {
+            "type": "user",
+            "username": "jennifer.jones",
+            "first_name": "Jennifer",
+            "last_name": "Jones",
+            "email": "jennifer.jones@elexionautomotive.com",
+            "password": "testing_team_pwd"
+        },
+        {
+            "type": "user",
+            "username": "michael.brown",
+            "first_name": "Michael",
+            "last_name": "Brown",
+            "email": "michael.brown@elexionautomotive.com",
+            "password": "product_development_pwd"
+        },
+        {
+            "type": "user",
+            "username": "samantha.wilson",
+            "first_name": "Samantha",
+            "last_name": "Wilson",
+            "email": "samantha.wilson@elexionautomotive.com",
+            "password": "marketing_team_pwd"
+        },
+        {
+            "type": "user",
+            "username": "robert.garcia",
+            "first_name": "Robert",
+            "last_name": "Garcia",
+            "email": "robert.garcia@elexionautomotive.com",
+            "password": "sales_team_pwd"
+        },
+        {
+            "type": "user",
+            "username": "elizabeth.lee",
+            "first_name": "Elizabeth",
+            "last_name": "Lee",
+            "email": "elizabeth.lee@elexionautomotive.com",
+            "password": "customer_service_pwd"
+        },
+        {
+            "type": "user",
+            "username": "david.miller",
+            "first_name": "David",
+            "last_name": "Miller",
+            "email": "david.miller@elexionautomotive.com",
+            "password": "finance_team_pwd"
+        },
+        {
+            "type": "user",
+            "username": "mary.moore",
+            "first_name": "Mary",
+            "last_name": "Moore",
+            "email": "mary.moore@elexionautomotive.com",
+            "password": "hr_team_pwd"
+        }
+    ],
+    "email_messages": [
+        {
+            "type": "email",
+            "id": "email_001",
+            "subject": "Weekly QA Team Meeting",
+            "from": "ethan.smith@elexionautomotive.com",
+            "from_name": "Ethan Smith",
+            "to": [
+                "jennifer.jones@elexionautomotive.com"
+            ],
+            "cc": [],
+            "date": "2022-09-15 10:00:00",
+            "body": "Hi Jennifer,\n\nPlease be reminded of our weekly QA team meeting scheduled for today at 2pm in the conference room. We will be discussing this week's quality inspection results and any new issues that have arisen.\n\nSee you there,\nEthan",
+            "folder": "sent",
+            "read": true,
+            "attachments": [],
+            "tag": "distractor"
+        },
+        {
+            "type": "email",
+            "id": "email_002",
+            "subject": "Updated Employee Handbook",
+            "from": "mary.moore@elexionautomotive.com",
+            "from_name": "Mary Moore",
+            "to": [
+                "ethan.smith@elexionautomotive.com"
+            ],
+            "cc": [],
+            "date": "2022-09-16 09:30:00",
+            "body": "Dear Ethan,\n\nWe have updated the Employee Handbook to include new policies on remote work and office safety. Please take a moment to review these changes.\n\nBest Regards,\nMary",
+            "folder": "inbox",
+            "read": false,
+            "attachments": [],
+            "tag": "distractor"
+        },
+        {
+            "type": "email",
+            "id": "email_003",
+            "subject": "EV Industry Seminar",
+            "from": "samantha.wilson@elexionautomotive.com",
+            "from_name": "Samantha Wilson",
+            "to": [
+                "ethan.smith@elexionautomotive.com"
+            ],
+            "cc": [],
+            "date": "2022-09-17 13:00:00",
+            "body": "Ethan,\n\nThe EV Industry Seminar is coming up next month. This will be a great opportunity for us to network and learn more about the latest trends in the industry. Please let me know if you're interested in attending.\n\nBest,\nSamantha",
+            "folder": "inbox",
+            "read": false,
+            "attachments": [],
+            "tag": "distractor"
+        },
+        {
+            "type": "email",
+            "id": "email_004",
+            "subject": "Quarterly Budget Planning",
+            "from": "david.miller@elexionautomotive.com",
+            "from_name": "David Miller",
+            "to": [
+                "ethan.smith@elexionautomotive.com"
+            ],
+            "cc": [],
+            "date": "2022-09-18 15:30:00",
+            "body": "Hi Ethan,\n\nI am in the process of preparing the budget for the next quarter. Can you provide the estimated expenses for the Quality Assurance department?\n\nBest,\nDavid",
+            "folder": "inbox",
+            "read": false,
+            "attachments": [],
+            "tag": "distractor"
+        },
+        {
+            "type": "email",
+            "id": "email_005",
+            "subject": "Employee Satisfaction Survey",
+            "from": "mary.moore@elexionautomotive.com",
+            "from_name": "Mary Moore",
+            "to": [
+                "ethan.smith@elexionautomotive.com"
+            ],
+            "cc": [],
+            "date": "2022-09-19 09:00:00",
+            "body": "Dear Ethan,\n\nPlease take a few minutes to complete the Employee Satisfaction Survey. Your feedback is important to us and helps us improve the overall working environment at Elexion Automotive.\n\nBest Regards,\nMary",
+            "folder": "inbox",
+            "read": false,
+            "attachments": [],
+            "tag": "distractor"
+        },
+        {
+            "type": "email",
+            "id": "email_001",
+            "subject": "Q2 2024 Testing Results and Recommendations",
+            "from": "ethan.smith@elexionautomotive.com",
+            "from_name": "Ethan Smith",
+            "to": [
+                "michael.brown@elexionautomotive.com"
+            ],
+            "cc": [
+                "jennifer.jones@elexionautomotive.com"
+            ],
+            "date": "2024-07-10 14:20:00",
+            "body": "Hi Michael,\n\nI hope this message finds you well. I wanted to share with you the results from our Q2 2024 testing. Our team has been working diligently to improve the quality and reliability of our electric vehicles. I'm pleased to share that we've made significant progress.\n\nOne of our standout metrics is the interior noise level. During our testing at 70 mph highway speed, we achieved a noise level of 55 dB. This is a great improvement and signifies our efforts in enhancing customer comfort and driving experience.\n\nI believe this improvement will greatly contribute to our goal of reducing the 30% higher control/display problem rate for EVs. The reduced noise level can enhance the user experience and potentially contribute to achieving PP100 scores below the 266 EV average.\n\nI will be sharing a comprehensive report with further insights soon. Let's discuss these results and plan the next steps.\n\nBest,\nEthan",
+            "folder": "sent",
+            "read": true,
+            "attachments": [],
+            "tag": "insight"
+        },
+        {
+            "type": "email",
+            "id": "email_002",
+            "subject": "RE: Q2 2024 Testing Results and Recommendations",
+            "from": "michael.brown@elexionautomotive.com",
+            "from_name": "Michael Brown",
+            "to": [
+                "ethan.smith@elexionautomotive.com"
+            ],
+            "cc": [
+                "jennifer.jones@elexionautomotive.com"
+            ],
+            "date": "2024-07-11 09:15:00",
+            "body": "Hi Ethan,\n\nThank you for the update. The reduction in noise level is indeed a notable achievement. I agree that it can contribute to enhancing the user experience and reducing the control/display problem rate.\n\nI look forward to discussing the comprehensive report and planning our next steps. We need to keep this momentum going as we work towards our 2026 EV models.\n\nBest,\nMichael",
+            "folder": "inbox",
+            "read": true,
+            "attachments": [],
+            "tag": "insight"
+        },
+        {
+            "type": "email",
+            "id": "email_003",
+            "subject": "RE: Q2 2024 Testing Results and Recommendations",
+            "from": "jennifer.jones@elexionautomotive.com",
+            "from_name": "Jennifer Jones",
+            "to": [
+                "ethan.smith@elexionautomotive.com",
+                "michael.brown@elexionautomotive.com"
+            ],
+            "cc": [],
+            "date": "2024-07-11 10:30:00",
+            "body": "Hi Ethan and Michael,\n\nI've also reviewed the results and couldn't agree more. The reduction in noise level is a significant step forward in our quest to improve the overall customer experience.\n\nEthan, could we arrange a meeting to discuss the full report? I'd love to understand more about the testing process and how we can continue these improvements.\n\nBest,\nJennifer",
+            "folder": "inbox",
+            "read": true,
+            "attachments": [],
+            "tag": "insight"
+        }
+    ],
+    "file_format": "jsonl",
+    "file_path": ".llm_responses/generated_email_document.jsonl",
+    "qa_type": "distractor",
+    "timestamp": "2025-11-20 03:18",
+    "app": "email"
+}

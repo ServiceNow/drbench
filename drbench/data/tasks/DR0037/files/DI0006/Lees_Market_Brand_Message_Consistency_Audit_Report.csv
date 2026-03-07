@@ -1,0 +1,12 @@
+company_name,audit_year,audit_result,consistency_percentage,core_brand_keywords
+The name of the company for which the brand message consistency is being measured.,The year in which the brand message consistency audit was carried out.,"The overall result of the brand message consistency audit, such as 'High Consistency', 'Medium Consistency', etc.",The percentage of the company's content that was found to be consistent with the brand message.,The core brand keywords that the company aims to include in its official media content.
+Smith's Store,2021,Medium Consistency,68%,"reliable, value, service"
+Green's Grocer,2020,High Consistency,85%,"fresh, organic, local"
+South's Supermarket,2022,High Consistency,87%,"variety, quality, value"
+Brown's Boutique,2023,Low Consistency,40%,"unique, luxury, exclusive"
+East's Electronics,2020,Medium Consistency,65%,"innovative, tech, future"
+Lee's Market,2024,High Consistency,92%,"authentic, quality, community"
+Central City Cinema,2019,Low Consistency,50%,"entertainment, blockbuster, family"
+North's Nook,2021,High Consistency,95%,"cozy, comfort, homely"
+West's Warehouse,2019,Medium Consistency,70%,"bulk, discount, value"
+Eve's Emporium,2022,Low Consistency,55%,"curated, eclectic, individual"

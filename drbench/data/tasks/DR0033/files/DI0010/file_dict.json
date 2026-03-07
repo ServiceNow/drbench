@@ -1,0 +1,81 @@
+{
+    "file_name": "IT-Report-2024",
+    "file_title": "IT Infrastructure Report 2024: Lee's Market",
+    "introduction": "This presentation provides insights into the IT & Security operations at Lee's Market in 2024, focusing on hardware management. It particularly highlights the update and replacement of employee computers.",
+    "subsections": [
+        {
+            "heading": "Overview of IT Assets Management",
+            "content": "\u2022 Lee's Market's IT Assets Management policy was updated in 2023 to align with the new industry standards\n\u2022 The IT department utilizes IT Asset Management (ITAM) software to track and manage assets across all locations\n\u2022 Regular audits are conducted to ensure all assets are accounted for and are in good working condition\n\u2022 IT Asset Management plays a crucial role in ensuring business continuity and mitigating risks\n\u2022 In 2024, the IT department rolled out a new system for better tracking of software licenses\n\u2022 The IT department has implemented a robust disposal process for obsolete or end-of-life IT assets",
+            "type": "distractor",
+            "justification": "This slide talks about IT assets management in general, not about the specific number of computers replaced in 2024."
+        },
+        {
+            "heading": "Employee Computer Replacement Statistics",
+            "content": "\u2022 The IT department has a protocol to replace computers every 3-5 years depending on the usage and technical specifications\n\u2022 The 2023 computer replacement program saw a 15% increase from the previous year\n\u2022 The IT department has a set budget for computer replacements which is reviewed annually\n\u2022 The cost of computer replacements has decreased by 10% from 2020 to 2024 due to better procurement strategies\n\u2022 The number of computers replaced in 2024 was slightly higher than the average of the last five years",
+            "type": "distractor",
+            "justification": "This slide gives an overview of computer replacement statistics but does not provide the specific number for 2024."
+        },
+        {
+            "heading": "Impact on Operational Efficiency",
+            "content": "\u2022 Regular computer replacements ensure that employees have the tools they need to perform their jobs efficiently\n\u2022 The IT department tracks downtime related to computer issues and has seen a decrease in the past two years\n\u2022 The implementation of new technology has contributed to a 10% increase in operational efficiency in 2024\n\u2022 The IT department's rapid response to hardware issues minimizes disruptions in store operations\n\u2022 Employee satisfaction with IT support increased by 8% in 2024, according to the annual employee survey",
+            "type": "distractor",
+            "justification": "This slide discusses the impact of IT operations on efficiency, not the specific number of computers replaced by Jason Wong's team in 2024."
+        }
+    ],
+    "conclusion": "The proactive approach to computer replacements has had a significant positive impact on operational efficiency. Moving forward, we recommend continued investment in IT infrastructure to maintain this momentum.",
+    "file_format": "pptx",
+    "file_path": ".llm_responses/generated_pptx_presentation.pptx",
+    "qa_type": "distractor",
+    "timestamp": "2025-11-19 10:46",
+    "image_queries": [
+        {
+            "slide_title": "Introduction",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "intentionally_clean",
+            "slide_type": "introduction"
+        },
+        {
+            "slide_title": "Overview of IT Assets Management",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 6,
+            "total_chars": 595,
+            "probability": 0.25,
+            "theme": "Forest Theme"
+        },
+        {
+            "slide_title": "Employee Computer Replacement Statistics",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 5,
+            "total_chars": 496,
+            "probability": 0.25,
+            "theme": "Forest Theme"
+        },
+        {
+            "slide_title": "Impact on Operational Efficiency",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "failed",
+            "slide_type": "distractor",
+            "content_length": 5,
+            "total_chars": 517,
+            "error": "'str' object has no attribute 'choices'",
+            "theme": "Forest Theme"
+        },
+        {
+            "slide_title": "Conclusion",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "strategic_clean_conclusion",
+            "slide_type": "conclusion",
+            "theme": "Forest Theme"
+        }
+    ],
+    "app": "nextcloud"
+}

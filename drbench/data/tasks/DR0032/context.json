@@ -1,0 +1,51 @@
+{
+    "company_info": {
+        "name": "Elexion Automotive",
+        "industry": "Automotive -- Electric Vehicles",
+        "size": "Enterprise",
+        "founded_year": 2010,
+        "headquarters": "Austin, Texas, USA",
+        "description": "Elexion Automotive designs and manufactures premium and mid-range electric vehicles tailored for the North American market. With a focus on sustainability, user-centric technology, and cross-border compliance, Elexion aims to accelerate the transition to zero-emission transportation.",
+        "key_products_services": [
+            "Electric vehicles",
+            "Plug-in hybrid electric vehicles",
+            "Home charging stations"
+        ],
+        "target_markets": [
+            "Mid-income families in North America",
+            "Provincial and municipal governments"
+        ],
+        "annual_revenue": "$350M - $500M",
+        "employee_count": 1900,
+        "compliance_certifications": [
+            "EPA Greenhouse Gas Emissions Compliance",
+            "Motor Vehicle Safety Oversight Program",
+            "CARB Zero-Emission Vehicle (ZEV) Program",
+            "ISO 26262 – Road Vehicles Functional Safety"
+        ],
+        "market_position": "Elexion is an emerging force in the North American EV market, offering affordable and high-performance electric vehicles with regulatory-first design and localized production."
+    },
+    "persona": {
+        "role": "Product Compliance Engineer",
+        "department": "Product Development",
+        "name": "Sofia Rodriguez",
+        "first_name": "Sofia",
+        "last_name": "Rodriguez",
+        "email": "sofia.rodriguez@elexionautomotive.com",
+        "seniority": "Junior",
+        "responsibilities": "Conducts compliance testing and certification for Elexion Automotive's electric vehicles, collaborates with design teams to ensure regulatory requirements are met, and assists in the development of compliance documentation.",
+        "id": "EMP0001",
+        "domain": "compliance",
+        "justification": "Elexion Automotive must ensure its products meet regulatory requirements, such as safety and emissions standards, to avoid costly recalls and reputational damage.",
+        "username": "sofia.rodriguez"
+    },
+    "url": {
+        "url": "https://www.wardsauto.com/regulatory/ev-regulations-continue-evolving",
+        "domain": "Compliance",
+        "industry": "automotive -- electric vehicles",
+        "example_dr_questions": [],
+        "insights": [],
+        "date": "2025-12-02"
+    },
+    "timestamp": "2025-10-30 00:00"
+}

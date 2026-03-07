@@ -1,0 +1,12 @@
+Year,Meal_Category,High_Rating_Percentage,Rating_Change
+This column records the year when the order was made and rated by the customer. It is used to track rating changes over time.,"This column specifies the category of the meal that was ordered. In this case, it will be 'Hot Meat and Seafood'. It helps in comparing ratings among different meal categories.",This column represents the percentage of orders in the specified meal category that received a high customer rating (4 out of 5 or higher). It provides a measure of customer satisfaction.,This column indicates the change in percentage of high ratings from the previous year. It helps to track rating trends over time.
+2023,Vegetarian,85%,2%
+2022,Vegetarian,83%,3%
+2022,Hot Meat and Seafood,86%,1%
+2021,Vegetarian,80%,3%
+2024,Vegetarian,87%,2%
+2024,Hot Meat and Seafood,88%,0%
+2021,Hot Meat and Seafood,85%,2%
+2023,Hot Meat and Seafood,88%,2%
+2025,Hot Meat and Seafood,94%,6%
+2025,Vegetarian,90%,3%

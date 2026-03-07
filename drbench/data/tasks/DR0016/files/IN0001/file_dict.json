@@ -1,0 +1,226 @@
+{
+    "file_name": "mattermost_chat_20251202_212737",
+    "content": "{\"type\": \"version\", \"version\": 1}\n{\"type\": \"team\", \"team\": {\"name\": \"operations\", \"display_name\": \"Operations\", \"type\": \"O\", \"header\": \"Team handling the operational aspects of Lee's Market\", \"purpose\": \"Manage, oversee, and improve Lee's Market's operational processes, including compliance with regulations\"}}\n{\"type\": \"team\", \"team\": {\"name\": \"compliance\", \"display_name\": \"Compliance\", \"type\": \"O\", \"header\": \"Team dedicated to ensuring Lee's Market complies with regulatory standards\", \"purpose\": \"Monitor regulatory changes, develop compliance strategies, and collaborate with cross-functional teams to ensure implementation\"}}\n{\"type\": \"channel\", \"channel\": {\"team\": \"operations\", \"name\": \"supplier_relations\", \"display_name\": \"Supplier Relations\", \"type\": \"O\", \"header\": \"Channel for discussions related to suppliers\", \"purpose\": \"Discuss supplier matters, including compliance with FSMA 204 rules\"}}\n{\"type\": \"channel\", \"channel\": {\"team\": \"compliance\", \"name\": \"regulatory_updates\", \"display_name\": \"Regulatory Updates\", \"type\": \"O\", \"header\": \"Channel for updates and discussions on regulatory matters\", \"purpose\": \"Share updates on regulatory changes and discuss compliance strategies\"}}\n{\"type\": \"user\", \"user\": {\"username\": \"emily.patel\", \"email\": \"emily.patel@leesmarket.com\", \"password\": \"securepwd123\", \"nickname\": \"Emily\", \"first_name\": \"Emily\", \"last_name\": \"Patel\", \"position\": \"Regulatory Affairs Manager\", \"roles\": \"system_user\", \"locale\": \"en\", \"teams\": [{\"name\": \"operations\", \"roles\": \"team_user\", \"channels\": [{\"name\": \"supplier_relations\", \"roles\": \"channel_user\"}]}, {\"name\": \"compliance\", \"roles\": \"team_user\", \"channels\": [{\"name\": \"regulatory_updates\", \"roles\": \"channel_user\"}]}]}}\n{\"type\": \"user\", \"user\": {\"username\": \"johnsmith\", \"email\": \"john.smith@leesmarket.com\", \"password\": \"securepwd123\", \"nickname\": \"John\", \"first_name\": \"John\", \"last_name\": \"Smith\", \"position\": \"Operations Manager\", \"roles\": \"system_user\", \"locale\": \"en\", \"teams\": [{\"name\": \"operations\", \"roles\": \"team_user\", \"channels\": [{\"name\": \"supplier_relations\", \"roles\": \"channel_user\"}]}]}}\n{\"type\": \"user\", \"user\": {\"username\": \"sarahjohnson\", \"email\": \"sarah.johnson@leesmarket.com\", \"password\": \"securepwd123\", \"nickname\": \"Sarah\", \"first_name\": \"Sarah\", \"last_name\": \"Johnson\", \"position\": \"Compliance Officer\", \"roles\": \"system_user\", \"locale\": \"en\", \"teams\": [{\"name\": \"compliance\", \"roles\": \"team_user\", \"channels\": [{\"name\": \"regulatory_updates\", \"roles\": \"channel_user\"}]}]}}\n{\"type\": \"post\", \"post\": {\"team\": \"operations\", \"channel\": \"supplier_relations\", \"user\": \"johnsmith\", \"message\": \"Hey team, just a reminder that we have a meeting scheduled this afternoon to discuss the supplier contracts renewal. Let's make sure we're prepared with all the necessary data.\", \"created_at\": 1620500000000}}\n{\"type\": \"post\", \"post\": {\"team\": \"compliance\", \"channel\": \"regulatory_updates\", \"user\": \"sarahjohnson\", \"message\": \"Hi team, we have a new policy update from the legal department. Please make sure to review it and let me know if there are any concerns.\", \"created_at\": 1620500100000}}\n{\"type\": \"post\", \"post\": {\"team\": \"operations\", \"channel\": \"supplier_relations\", \"user\": \"emily.patel\", \"message\": \"John, I've received an email from one of our suppliers regarding the increase in their product prices. Could we include this in our meeting discussion?\", \"created_at\": 1620500200000}}\n{\"type\": \"post\", \"post\": {\"team\": \"compliance\", \"channel\": \"regulatory_updates\", \"user\": \"emily.patel\", \"message\": \"I'll be attending a regulatory conference next week. I'll share any relevant updates and learnings with the team when I return.\", \"created_at\": 1620500300000}}\n{\"type\": \"post\", \"post\": {\"team\": \"operations\", \"channel\": \"supplier_relations\", \"user\": \"johnsmith\", \"message\": \"Thanks for the heads up, Emily. I'll add it to our meeting's agenda. Let's discuss how this price increase will impact our budget and operations.\", \"created_at\": 1620500400000}}\n{\"type\": \"post\", \"post\": {\"team\": \"operations\", \"channel\": \"supplier_relations\", \"user\": \"johnsmith\", \"message\": \"Hi team, as we continue to work on our FSMA 204 compliance efforts, it's important to remember that we have a shared responsibility with our suppliers. Can anyone give an update on the latest discussions with suppliers regarding the lot codes tracking?\", \"create_at\": 1620500000000}}\n{\"type\": \"post\", \"post\": {\"team\": \"operations\", \"channel\": \"supplier_relations\", \"user\": \"emily.patel\", \"message\": \"Hello John, you're absolutely right. We have been actively collaborating with our suppliers on this matter. We hosted representatives from all our major suppliers at the Q1 2025 Supplier Review Day, where FSMA 204 and its rules regarding lot codes were the main subject of discussion. We will continue to work with them to ensure full compliance.\", \"create_at\": 1620500100000}}",
+    "chat_setup": {
+        "teams": [
+            {
+                "type": "team",
+                "team": {
+                    "name": "operations",
+                    "display_name": "Operations",
+                    "type": "O",
+                    "header": "Team handling the operational aspects of Lee's Market",
+                    "purpose": "Manage, oversee, and improve Lee's Market's operational processes, including compliance with regulations"
+                }
+            },
+            {
+                "type": "team",
+                "team": {
+                    "name": "compliance",
+                    "display_name": "Compliance",
+                    "type": "O",
+                    "header": "Team dedicated to ensuring Lee's Market complies with regulatory standards",
+                    "purpose": "Monitor regulatory changes, develop compliance strategies, and collaborate with cross-functional teams to ensure implementation"
+                }
+            }
+        ],
+        "channels": [
+            {
+                "type": "channel",
+                "channel": {
+                    "team": "operations",
+                    "name": "supplier_relations",
+                    "display_name": "Supplier Relations",
+                    "type": "O",
+                    "header": "Channel for discussions related to suppliers",
+                    "purpose": "Discuss supplier matters, including compliance with FSMA 204 rules"
+                }
+            },
+            {
+                "type": "channel",
+                "channel": {
+                    "team": "compliance",
+                    "name": "regulatory_updates",
+                    "display_name": "Regulatory Updates",
+                    "type": "O",
+                    "header": "Channel for updates and discussions on regulatory matters",
+                    "purpose": "Share updates on regulatory changes and discuss compliance strategies"
+                }
+            }
+        ],
+        "users": [
+            {
+                "type": "user",
+                "user": {
+                    "username": "emily.patel",
+                    "email": "emily.patel@leesmarket.com",
+                    "password": "securepwd123",
+                    "nickname": "Emily",
+                    "first_name": "Emily",
+                    "last_name": "Patel",
+                    "position": "Regulatory Affairs Manager",
+                    "roles": "system_user",
+                    "locale": "en",
+                    "teams": [
+                        {
+                            "name": "operations",
+                            "roles": "team_user",
+                            "channels": [
+                                {
+                                    "name": "supplier_relations",
+                                    "roles": "channel_user"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "compliance",
+                            "roles": "team_user",
+                            "channels": [
+                                {
+                                    "name": "regulatory_updates",
+                                    "roles": "channel_user"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "type": "user",
+                "user": {
+                    "username": "johnsmith",
+                    "email": "john.smith@leesmarket.com",
+                    "password": "securepwd123",
+                    "nickname": "John",
+                    "first_name": "John",
+                    "last_name": "Smith",
+                    "position": "Operations Manager",
+                    "roles": "system_user",
+                    "locale": "en",
+                    "teams": [
+                        {
+                            "name": "operations",
+                            "roles": "team_user",
+                            "channels": [
+                                {
+                                    "name": "supplier_relations",
+                                    "roles": "channel_user"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "type": "user",
+                "user": {
+                    "username": "sarahjohnson",
+                    "email": "sarah.johnson@leesmarket.com",
+                    "password": "securepwd123",
+                    "nickname": "Sarah",
+                    "first_name": "Sarah",
+                    "last_name": "Johnson",
+                    "position": "Compliance Officer",
+                    "roles": "system_user",
+                    "locale": "en",
+                    "teams": [
+                        {
+                            "name": "compliance",
+                            "roles": "team_user",
+                            "channels": [
+                                {
+                                    "name": "regulatory_updates",
+                                    "roles": "channel_user"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    "chat_messages": [
+        {
+            "type": "post",
+            "post": {
+                "team": "operations",
+                "channel": "supplier_relations",
+                "user": "johnsmith",
+                "message": "Hi team, as we continue to work on our FSMA 204 compliance efforts, it's important to remember that we have a shared responsibility with our suppliers. Can anyone give an update on the latest discussions with suppliers regarding the lot codes tracking?",
+                "create_at": 1620500000000
+            },
+            "tag": "insight"
+        },
+        {
+            "type": "post",
+            "post": {
+                "team": "operations",
+                "channel": "supplier_relations",
+                "user": "emily.patel",
+                "message": "Hello John, you're absolutely right. We have been actively collaborating with our suppliers on this matter. We hosted representatives from all our major suppliers at the Q1 2025 Supplier Review Day, where FSMA 204 and its rules regarding lot codes were the main subject of discussion. We will continue to work with them to ensure full compliance.",
+                "create_at": 1620500100000
+            },
+            "tag": "insight"
+        },
+        {
+            "type": "post",
+            "post": {
+                "team": "operations",
+                "channel": "supplier_relations",
+                "user": "johnsmith",
+                "message": "Hey team, just a reminder that we have a meeting scheduled this afternoon to discuss the supplier contracts renewal. Let's make sure we're prepared with all the necessary data.",
+                "created_at": 1620500000000
+            },
+            "tag": "distractor"
+        },
+        {
+            "type": "post",
+            "post": {
+                "team": "compliance",
+                "channel": "regulatory_updates",
+                "user": "sarahjohnson",
+                "message": "Hi team, we have a new policy update from the legal department. Please make sure to review it and let me know if there are any concerns.",
+                "created_at": 1620500100000
+            },
+            "tag": "distractor"
+        },
+        {
+            "type": "post",
+            "post": {
+                "team": "operations",
+                "channel": "supplier_relations",
+                "user": "emily.patel",
+                "message": "John, I've received an email from one of our suppliers regarding the increase in their product prices. Could we include this in our meeting discussion?",
+                "created_at": 1620500200000
+            },
+            "tag": "distractor"
+        },
+        {
+            "type": "post",
+            "post": {
+                "team": "compliance",
+                "channel": "regulatory_updates",
+                "user": "emily.patel",
+                "message": "I'll be attending a regulatory conference next week. I'll share any relevant updates and learnings with the team when I return.",
+                "created_at": 1620500300000
+            },
+            "tag": "distractor"
+        },
+        {
+            "type": "post",
+            "post": {
+                "team": "operations",
+                "channel": "supplier_relations",
+                "user": "johnsmith",
+                "message": "Thanks for the heads up, Emily. I'll add it to our meeting's agenda. Let's discuss how this price increase will impact our budget and operations.",
+                "created_at": 1620500400000
+            },
+            "tag": "distractor"
+        }
+    ],
+    "file_format": "jsonl",
+    "file_path": ".llm_responses/generated_chat_document.jsonl",
+    "qa_type": "insight",
+    "timestamp": "2025-12-02 22:27",
+    "app": "mattermost"
+}

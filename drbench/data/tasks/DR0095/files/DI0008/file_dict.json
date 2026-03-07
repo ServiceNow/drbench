@@ -1,0 +1,181 @@
+{
+    "file_name": "roundcube_email_20251120_175950",
+    "content": "{\"type\": \"user\", \"username\": \"janet.park\", \"first_name\": \"Janet\", \"last_name\": \"Park\", \"email\": \"janet.park@leesmarket.com\", \"password\": \"janet_pwd_123\"}\n{\"type\": \"user\", \"username\": \"robert.lee\", \"first_name\": \"Robert\", \"last_name\": \"Lee\", \"email\": \"robert.lee@leesmarket.com\", \"password\": \"robert_pwd_456\"}\n{\"type\": \"user\", \"username\": \"laura.green\", \"first_name\": \"Laura\", \"last_name\": \"Green\", \"email\": \"laura.green@leesmarket.com\", \"password\": \"laura_pwd_789\"}\n{\"type\": \"email\", \"id\": \"email_001\", \"subject\": \"Weekly Team Meeting Schedule\", \"from\": \"janet.park@leesmarket.com\", \"from_name\": \"Janet Park\", \"to\": [\"robert.lee@leesmarket.com\", \"laura.green@leesmarket.com\"], \"cc\": [], \"date\": \"2022-11-01 10:30:00\", \"body\": \"Hello Team,\\n\\nI wanted to remind everyone about our weekly team meeting scheduled for every Wednesday at 10:00 AM. Please make sure to join on time. Do not hesitate to bring up any issues or updates related to your current projects.\\n\\nRegards,\\nJanet\", \"folder\": \"inbox\", \"read\": true, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_002\", \"subject\": \"New POS System Training\", \"from\": \"laura.green@leesmarket.com\", \"from_name\": \"Laura Green\", \"to\": [\"janet.park@leesmarket.com\"], \"cc\": [\"robert.lee@leesmarket.com\"], \"date\": \"2022-11-02 11:00:00\", \"body\": \"Hi Janet,\\n\\nThe new POS system training is scheduled for next Monday at 2:00 PM. Please inform your team about this and make sure everyone is available.\\n\\nBest,\\nLaura\", \"folder\": \"inbox\", \"read\": true, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_003\", \"subject\": \"Customer Satisfaction Survey Results\", \"from\": \"janet.park@leesmarket.com\", \"from_name\": \"Janet Park\", \"to\": [\"robert.lee@leesmarket.com\"], \"cc\": [], \"date\": \"2022-11-03 12:00:00\", \"body\": \"Hi Robert,\\n\\nThe results from our latest customer satisfaction survey have been compiled. I'll present the insights during the next team meeting.\\n\\nBest,\\nJanet\", \"folder\": \"inbox\", \"read\": true, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_004\", \"subject\": \"Annual Budget Planning\", \"from\": \"robert.lee@leesmarket.com\", \"from_name\": \"Robert Lee\", \"to\": [\"janet.park@leesmarket.com\", \"laura.green@leesmarket.com\"], \"cc\": [], \"date\": \"2022-11-04 13:00:00\", \"body\": \"Hello Team,\\n\\nWe'll be starting our annual budget planning next week. Please prepare a preliminary budget for your department and present it during our next meeting.\\n\\nBest,\\nRobert\", \"folder\": \"inbox\", \"read\": true, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_005\", \"subject\": \"Holiday Season Staffing\", \"from\": \"janet.park@leesmarket.com\", \"from_name\": \"Janet Park\", \"to\": [\"robert.lee@leesmarket.com\", \"laura.green@leesmarket.com\"], \"cc\": [], \"date\": \"2022-11-05 14:00:00\", \"body\": \"Hello Team,\\n\\nWith the holiday season fast approaching, we need to plan for additional staffing. Can we discuss this in our next meeting?\\n\\nRegards,\\nJanet\", \"folder\": \"inbox\", \"read\": true, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_001\", \"subject\": \"Planning for Lee's Market Loyalty Program Redesign\", \"from\": \"janet.park@leesmarket.com\", \"from_name\": \"Janet Park\", \"to\": [\"robert.lee@leesmarket.com\", \"laura.green@leesmarket.com\"], \"cc\": [], \"date\": \"2026-01-05 10:30:00\", \"body\": \"Dear Robert and Laura,\\n\\nAs we approach the redesign of our loyalty program targeted for Q2, I'd like to gather your thoughts on how we can tailor the experience to meet the preferences of both our Gen Z/Millennial clientele as well as Gen X/Boomer customers. Any insights on their preferences and habits would be extremely valuable.\\n\\nBest,\\nJanet Park\\nCustomer Experience Manager\\nLee's Market\", \"folder\": \"sent\", \"read\": true, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_002\", \"subject\": \"Re: Planning for Lee's Market Loyalty Program Redesign\", \"from\": \"laura.green@leesmarket.com\", \"from_name\": \"Laura Green\", \"to\": [\"janet.park@leesmarket.com\", \"robert.lee@leesmarket.com\"], \"cc\": [], \"date\": \"2026-01-06 09:15:00\", \"body\": \"Hi Janet,\\n\\nGreat initiative. I think a key consideration should be the digital preferences of the younger demographic, while not alienating our older customers who are more accustomed to traditional service. Maybe we can incorporate a blend of digital rewards and in-store experiences? Looking forward to brainstorming more in our meeting.\\n\\nBest,\\nLaura Green\\nLee's Market\", \"folder\": \"inbox\", \"read\": true, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_003\", \"subject\": \"Re: Planning for Lee's Market Loyalty Program Redesign\", \"from\": \"robert.lee@leesmarket.com\", \"from_name\": \"Robert Lee\", \"to\": [\"janet.park@leesmarket.com\", \"laura.green@leesmarket.com\"], \"cc\": [], \"date\": \"2026-01-06 13:45:00\", \"body\": \"Hello Janet and Laura,\\n\\nI agree with Laura's idea. A combination of digital and traditional rewards could satisfy both demographics. We could also consider special offers for imported goods which are popular across all our customers. Speaking of which, our average supplier lead time for imported goods from Asia was 28 days in 2025. If we can improve this, it might lead to better inventory planning and logistics. This could indirectly enhance our customer experience and loyalty by ensuring availability of favourite products.\\n\\nBest,\\nRobert Lee\\nLee's Market\", \"folder\": \"inbox\", \"read\": true, \"attachments\": []}",
+    "email_setup": [
+        {
+            "type": "user",
+            "username": "janet.park",
+            "first_name": "Janet",
+            "last_name": "Park",
+            "email": "janet.park@leesmarket.com",
+            "password": "janet_pwd_123"
+        },
+        {
+            "type": "user",
+            "username": "robert.lee",
+            "first_name": "Robert",
+            "last_name": "Lee",
+            "email": "robert.lee@leesmarket.com",
+            "password": "robert_pwd_456"
+        },
+        {
+            "type": "user",
+            "username": "laura.green",
+            "first_name": "Laura",
+            "last_name": "Green",
+            "email": "laura.green@leesmarket.com",
+            "password": "laura_pwd_789"
+        }
+    ],
+    "email_messages": [
+        {
+            "type": "email",
+            "id": "email_001",
+            "subject": "Weekly Team Meeting Schedule",
+            "from": "janet.park@leesmarket.com",
+            "from_name": "Janet Park",
+            "to": [
+                "robert.lee@leesmarket.com",
+                "laura.green@leesmarket.com"
+            ],
+            "cc": [],
+            "date": "2022-11-01 10:30:00",
+            "body": "Hello Team,\n\nI wanted to remind everyone about our weekly team meeting scheduled for every Wednesday at 10:00 AM. Please make sure to join on time. Do not hesitate to bring up any issues or updates related to your current projects.\n\nRegards,\nJanet",
+            "folder": "inbox",
+            "read": true,
+            "attachments": [],
+            "tag": "distractor"
+        },
+        {
+            "type": "email",
+            "id": "email_002",
+            "subject": "New POS System Training",
+            "from": "laura.green@leesmarket.com",
+            "from_name": "Laura Green",
+            "to": [
+                "janet.park@leesmarket.com"
+            ],
+            "cc": [
+                "robert.lee@leesmarket.com"
+            ],
+            "date": "2022-11-02 11:00:00",
+            "body": "Hi Janet,\n\nThe new POS system training is scheduled for next Monday at 2:00 PM. Please inform your team about this and make sure everyone is available.\n\nBest,\nLaura",
+            "folder": "inbox",
+            "read": true,
+            "attachments": [],
+            "tag": "distractor"
+        },
+        {
+            "type": "email",
+            "id": "email_003",
+            "subject": "Customer Satisfaction Survey Results",
+            "from": "janet.park@leesmarket.com",
+            "from_name": "Janet Park",
+            "to": [
+                "robert.lee@leesmarket.com"
+            ],
+            "cc": [],
+            "date": "2022-11-03 12:00:00",
+            "body": "Hi Robert,\n\nThe results from our latest customer satisfaction survey have been compiled. I'll present the insights during the next team meeting.\n\nBest,\nJanet",
+            "folder": "inbox",
+            "read": true,
+            "attachments": [],
+            "tag": "distractor"
+        },
+        {
+            "type": "email",
+            "id": "email_004",
+            "subject": "Annual Budget Planning",
+            "from": "robert.lee@leesmarket.com",
+            "from_name": "Robert Lee",
+            "to": [
+                "janet.park@leesmarket.com",
+                "laura.green@leesmarket.com"
+            ],
+            "cc": [],
+            "date": "2022-11-04 13:00:00",
+            "body": "Hello Team,\n\nWe'll be starting our annual budget planning next week. Please prepare a preliminary budget for your department and present it during our next meeting.\n\nBest,\nRobert",
+            "folder": "inbox",
+            "read": true,
+            "attachments": [],
+            "tag": "distractor"
+        },
+        {
+            "type": "email",
+            "id": "email_005",
+            "subject": "Holiday Season Staffing",
+            "from": "janet.park@leesmarket.com",
+            "from_name": "Janet Park",
+            "to": [
+                "robert.lee@leesmarket.com",
+                "laura.green@leesmarket.com"
+            ],
+            "cc": [],
+            "date": "2022-11-05 14:00:00",
+            "body": "Hello Team,\n\nWith the holiday season fast approaching, we need to plan for additional staffing. Can we discuss this in our next meeting?\n\nRegards,\nJanet",
+            "folder": "inbox",
+            "read": true,
+            "attachments": [],
+            "tag": "distractor"
+        },
+        {
+            "type": "email",
+            "id": "email_001",
+            "subject": "Planning for Lee's Market Loyalty Program Redesign",
+            "from": "janet.park@leesmarket.com",
+            "from_name": "Janet Park",
+            "to": [
+                "robert.lee@leesmarket.com",
+                "laura.green@leesmarket.com"
+            ],
+            "cc": [],
+            "date": "2026-01-05 10:30:00",
+            "body": "Dear Robert and Laura,\n\nAs we approach the redesign of our loyalty program targeted for Q2, I'd like to gather your thoughts on how we can tailor the experience to meet the preferences of both our Gen Z/Millennial clientele as well as Gen X/Boomer customers. Any insights on their preferences and habits would be extremely valuable.\n\nBest,\nJanet Park\nCustomer Experience Manager\nLee's Market",
+            "folder": "sent",
+            "read": true,
+            "attachments": [],
+            "tag": "insight"
+        },
+        {
+            "type": "email",
+            "id": "email_002",
+            "subject": "Re: Planning for Lee's Market Loyalty Program Redesign",
+            "from": "laura.green@leesmarket.com",
+            "from_name": "Laura Green",
+            "to": [
+                "janet.park@leesmarket.com",
+                "robert.lee@leesmarket.com"
+            ],
+            "cc": [],
+            "date": "2026-01-06 09:15:00",
+            "body": "Hi Janet,\n\nGreat initiative. I think a key consideration should be the digital preferences of the younger demographic, while not alienating our older customers who are more accustomed to traditional service. Maybe we can incorporate a blend of digital rewards and in-store experiences? Looking forward to brainstorming more in our meeting.\n\nBest,\nLaura Green\nLee's Market",
+            "folder": "inbox",
+            "read": true,
+            "attachments": [],
+            "tag": "insight"
+        },
+        {
+            "type": "email",
+            "id": "email_003",
+            "subject": "Re: Planning for Lee's Market Loyalty Program Redesign",
+            "from": "robert.lee@leesmarket.com",
+            "from_name": "Robert Lee",
+            "to": [
+                "janet.park@leesmarket.com",
+                "laura.green@leesmarket.com"
+            ],
+            "cc": [],
+            "date": "2026-01-06 13:45:00",
+            "body": "Hello Janet and Laura,\n\nI agree with Laura's idea. A combination of digital and traditional rewards could satisfy both demographics. We could also consider special offers for imported goods which are popular across all our customers. Speaking of which, our average supplier lead time for imported goods from Asia was 28 days in 2025. If we can improve this, it might lead to better inventory planning and logistics. This could indirectly enhance our customer experience and loyalty by ensuring availability of favourite products.\n\nBest,\nRobert Lee\nLee's Market",
+            "folder": "inbox",
+            "read": true,
+            "attachments": [],
+            "tag": "insight"
+        }
+    ],
+    "file_format": "jsonl",
+    "file_path": ".llm_responses/generated_email_document.jsonl",
+    "qa_type": "distractor",
+    "timestamp": "2025-11-20 18:59",
+    "app": "email"
+}

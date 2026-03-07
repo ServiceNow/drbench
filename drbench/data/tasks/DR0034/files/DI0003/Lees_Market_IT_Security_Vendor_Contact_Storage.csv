@@ -1,0 +1,13 @@
+year_month,action_details,company_name,number_of_documents_audited
+The year and month when the IT & Security team took actions. This should be in the format YYYY-MM.,A detailed description of the action taken by the IT & Security team to support secure vendor contact storage.,The name of the company where the action was taken. This is useful to differentiate when compiling data from multiple companies.,The number of documents audited for compliance by the IT & Security team during the action.
+2024-06,Implemented a new secure vendor contact management system,Lee's Market,200
+2024-12,Audited vendor contact storage for potential security issues,Lee's Market,120
+2025-01,Implemented two-factor authentication for vendor contact access,Lee's Market,80
+2024-08,Introduced stricter access controls to vendor contact storage,Lee's Market,67
+2024-05,Conducted a comprehensive security assessment of vendor contact storage,Lee's Market,150
+2024-10,Updated vendor contact storage policies,Lee's Market,43
+2025-03,Set up a new encrypted shared storage drive for contacts,Lee's Market,217
+2024-09,Improved encryption for vendor contact storage,Lee's Market,75
+2024-11,Conducted a security training for employees handling vendor contacts,Lee's Market,30
+2024-07,Performed routine audit of vendor contact storage,Lee's Market,100
+2025-02,Updated firewall settings for enhanced security,Lee's Market,50

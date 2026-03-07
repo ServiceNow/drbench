@@ -1,0 +1,162 @@
+================================================================================
+ROUNDCUBE EMAIL EXPORT
+================================================================================
+
+USERS:
+----------------------------------------
+• sophie.liu
+  Name: Sophie Liu
+  Email: sophie.liu@leesmarket.com
+
+• john.doe
+  Name: John Doe
+  Email: john.doe@leesmarket.com
+
+• mary.johnson
+  Name: Mary Johnson
+  Email: mary.johnson@leesmarket.com
+
+• mark.davis
+  Name: Mark Davis
+  Email: mark.davis@leesmarket.com
+
+• jane.williams
+  Name: Jane Williams
+  Email: jane.williams@leesmarket.com
+
+• paul.martin
+  Name: Paul Martin
+  Email: paul.martin@leesmarket.com
+
+• linda.brown
+  Name: Linda Brown
+  Email: linda.brown@leesmarket.com
+
+• david.jones
+  Name: David Jones
+  Email: david.jones@leesmarket.com
+
+EMAILS:
+================================================================================
+Email ID: email_001
+Date: 2022-07-15 09:15:00
+From: Sophie Liu <sophie.liu@leesmarket.com>
+To: john.doe@leesmarket.com, mary.johnson@leesmarket.com, mark.davis@leesmarket.com, jane.williams@leesmarket.com, paul.martin@leesmarket.com, linda.brown@leesmarket.com, david.jones@leesmarket.com
+Subject: Weekly Team Meeting - Rescheduling
+Folder: sent | Status: Read
+
+Message Body:
+----------------------------------------
+Dear team, due to an unexpected schedule change, our weekly team meeting will be moved from Tuesday to Thursday. The time remains the same. Any issues, let me know.
+============================================================
+
+Email ID: email_002
+Date: 2022-07-15 10:30:00
+From: John Doe <john.doe@leesmarket.com>
+To: sophie.liu@leesmarket.com
+Subject: End of Year Employee Performance Review Preparation
+Folder: inbox | Status: Read
+
+Message Body:
+----------------------------------------
+Hello Sophie, It's that time of the year again. I would appreciate if you could start preparing the performance review reports for your team.
+============================================================
+
+Email ID: email_003
+Date: 2022-07-15 11:45:00
+From: Mary Johnson <mary.johnson@leesmarket.com>
+To: sophie.liu@leesmarket.com
+Subject: New Health and Safety Policy Updates
+Folder: inbox | Status: Read
+
+Message Body:
+----------------------------------------
+Hi Sophie, We have recently updated our health and safety policies. I will be sharing the new policy document soon. Please ensure your team understands and adheres to these new rules.
+============================================================
+
+Email ID: email_004
+Date: 2022-07-15 13:30:00
+From: Mark Davis <mark.davis@leesmarket.com>
+To: sophie.liu@leesmarket.com
+Subject: Marketing Event Participation
+Folder: inbox | Status: Read
+
+Message Body:
+----------------------------------------
+Sophie, There is a local marketing event happening next month. I think it would be great if we could have some representation from the Customer Service team. Could you spare a couple of team members for this?
+============================================================
+
+Email ID: email_005
+Date: 2022-07-15 14:45:00
+From: Sophie Liu <sophie.liu@leesmarket.com>
+To: linda.brown@leesmarket.com
+CC: john.doe@leesmarket.com
+Subject: Request for Additional Resources
+Folder: sent | Status: Read
+
+Message Body:
+----------------------------------------
+Dear Linda, I would like to request two additional team members for our department. The increase in customer queries has been significant over the last few months, and we need more hands on deck.
+============================================================
+
+Email ID: email_001
+Date: 2026-01-05 09:30:00
+From: John Doe <john.doe@leesmarket.com>
+To: sophie.liu@leesmarket.com
+CC: mary.johnson@leesmarket.com, mark.davis@leesmarket.com
+Subject: Customer Service Improvements for 2026
+Folder: inbox | Status: Read
+
+Message Body:
+----------------------------------------
+Dear Sophie,
+
+I hope this email finds you well. As we move into 2026, we are exploring ways to enhance our customer service experience, specifically focusing on making our customers feel more recognized and valued during interactions.
+
+One area we've seen success is with our 'Recognized Customer' self-service portal. I believe enhancing this feature could be a good starting point.
+
+Best,
+John
+============================================================
+
+Email ID: email_002
+Date: 2026-01-06 10:45:00
+From: Sophie Liu <sophie.liu@leesmarket.com>
+To: john.doe@leesmarket.com
+CC: mary.johnson@leesmarket.com, mark.davis@leesmarket.com
+Subject: Re: Customer Service Improvements for 2026
+Folder: inbox | Status: Read
+
+Message Body:
+----------------------------------------
+Hi John,
+
+Thanks for your email. I agree that the 'Recognized Customer' self-service portal is a promising area for improvement. Do we have any data on how this feature is currently performing in terms of customer resolution?
+
+Best,
+Sophie
+============================================================
+
+Email ID: email_003
+Date: 2026-01-06 14:25:00
+From: John Doe <john.doe@leesmarket.com>
+To: sophie.liu@leesmarket.com
+CC: mary.johnson@leesmarket.com, mark.davis@leesmarket.com
+Subject: Re: Customer Service Improvements for 2026
+Folder: inbox | Status: Read
+
+Message Body:
+----------------------------------------
+Hi Sophie,
+
+Good question. I checked with our Data Analytics team and learned that our First Contact Resolution (FCR) rate for customers who authenticated and used the personalized self-service portal, referencing their last 3 interactions, was 88% in H2 2025. This is 12 percentage points higher than the average FCR for all channels combined.
+
+It appears that customers appreciate not having to start from scratch every time they need support. This drives efficiency by keeping high-FCR volume out of the live agent queues. Going forward, enhancing this personalized portal should be a priority.
+
+Best,
+John
+============================================================
+
+================================================================================
+END OF EMAIL EXPORT
+================================================================================

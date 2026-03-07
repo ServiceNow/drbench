@@ -1,0 +1,81 @@
+{
+    "file_name": "customer-service-evaluation",
+    "file_title": "Elexion Customer Service Evaluation",
+    "introduction": "In this presentation, we will assess our current customer service operations, with a focus on accessibility and availability for customers. Our aim is to ensure we are providing optimal support for our customers.",
+    "subsections": [
+        {
+            "heading": "Elexion's Current Customer Service Infrastructure",
+            "content": "\u2022 Our customer service department consists of 400 trained professionals\n\u2022 We have implemented an AI-powered chatbot to address common customer queries\n\u2022 Our customer service department is divided into front-office and back-office operations\n\u2022 We use a CRM system to track customer interactions and ensure a seamless experience\n\u2022 We have a dedicated team that handles customer complaints and escalations\n\u2022 Our customer service processes are ISO 9001:2015 certified for quality management",
+            "type": "distractor",
+            "justification": "This slide provides general information about Elexion's customer service infrastructure but doesn't specify their hours of operation."
+        },
+        {
+            "heading": "Availability of Live Customer Service Representatives",
+            "content": "\u2022 Our customer service representatives undergo a rigorous 6-week training program\n\u2022 We have a performance management system in place to monitor and improve service quality\n\u2022 Our representatives are equipped to handle enquiries in English, Spanish, and French\n\u2022 We have a customer satisfaction rate of 87% for live interactions\n\u2022 Our representatives handle an average of 90 calls per day\n\u2022 We have a system in place to rotate representatives to prevent burnout and ensure consistent service quality",
+            "type": "distractor",
+            "justification": "While this slide discusses the availability of customer service representatives, it doesn't provide details about their working hours."
+        },
+        {
+            "heading": "Enhancing Customer Engagement Strategies",
+            "content": "\u2022 We have implemented a customer loyalty program to increase retention rates\n\u2022 We are exploring the use of AR/VR technology for virtual showroom experiences\n\u2022 We regularly conduct customer surveys to understand their needs and expectations\n\u2022 We have a quarterly newsletter to keep customers updated about our latest offerings\n\u2022 We plan to launch a mobile app to provide a comprehensive digital experience\n\u2022 We are planning to conduct customer engagement events in key markets in Q3 2021",
+            "type": "distractor",
+            "justification": "This slide discusses strategies for enhancing customer engagement but doesn't provide any information about Elexion's customer service hours."
+        }
+    ],
+    "conclusion": "As we strive for excellence in our customer service, it is essential that we ensure its availability around the clock. Let's explore ways to enhance our customer engagement strategies to meet this objective.",
+    "file_format": "pptx",
+    "file_path": ".llm_responses/generated_pptx_presentation.pptx",
+    "qa_type": "distractor",
+    "timestamp": "2025-12-02 23:45",
+    "image_queries": [
+        {
+            "slide_title": "Introduction",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "intentionally_clean",
+            "slide_type": "introduction"
+        },
+        {
+            "slide_title": "Elexion's Current Customer Service Infrastructure",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 6,
+            "total_chars": 469,
+            "probability": 0.25,
+            "theme": "Forest Theme"
+        },
+        {
+            "slide_title": "Availability of Live Customer Service Representatives",
+            "has_image": true,
+            "image_query": "customer service training session",
+            "generation_method": "strategic_placement",
+            "slide_type": "distractor",
+            "content_length": 6,
+            "total_chars": 480,
+            "forced": false,
+            "theme": "Forest Theme"
+        },
+        {
+            "slide_title": "Enhancing Customer Engagement Strategies",
+            "has_image": true,
+            "image_query": "customer loyalty program infographic",
+            "generation_method": "strategic_placement",
+            "slide_type": "distractor",
+            "content_length": 6,
+            "total_chars": 469,
+            "forced": false,
+            "theme": "Forest Theme"
+        },
+        {
+            "slide_title": "Conclusion",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "strategic_clean_conclusion",
+            "slide_type": "conclusion",
+            "theme": "Forest Theme"
+        }
+    ],
+    "app": "file_system"
+}

@@ -1,0 +1,274 @@
+{
+    "file_name": "mattermost_chat_20251202_141612",
+    "content": "{\"type\": \"version\", \"version\": 1}\n{\"type\": \"team\", \"team\": {\"name\": \"it_operations\", \"display_name\": \"IT Operations\", \"type\": \"O\", \"header\": \"Team managing the IT infrastructure and services of MediConn Solutions\", \"purpose\": \"Provide efficient IT support and implement improvements for the digital services of the company\"}}\n{\"type\": \"team\", \"team\": {\"name\": \"cybersecurity\", \"display_name\": \"Cybersecurity\", \"type\": \"O\", \"header\": \"Team responsible for maintaining and enhancing the security of MediConn Solutions' digital platforms\", \"purpose\": \"Ensure the security of our digital platforms, conduct cybersecurity awareness trainings, and manage cyber threats\"}}\n{\"type\": \"channel\", \"channel\": {\"team\": \"it_operations\", \"name\": \"service_desk\", \"display_name\": \"Service Desk\", \"type\": \"O\", \"header\": \"Channel for the IT service desk team\", \"purpose\": \"Discuss incident and request workflows, strategize process improvements, and address IT concerns\"}}\n{\"type\": \"channel\", \"channel\": {\"team\": \"cybersecurity\", \"name\": \"training_updates\", \"display_name\": \"Training Updates\", \"type\": \"O\", \"header\": \"Channel for updates on cybersecurity awareness training\", \"purpose\": \"Share updates on cybersecurity awareness training, discuss participation rates, and strategize for future sessions\"}}\n{\"type\": \"user\", \"user\": {\"username\": \"emily_patel\", \"email\": \"emily.patel@mediconn.ca\", \"password\": \"emily_pwd\", \"nickname\": \"Emily\", \"first_name\": \"Emily\", \"last_name\": \"Patel\", \"position\": \"IT Service Desk Manager\", \"roles\": \"system_user\", \"locale\": \"en\", \"teams\": [{\"name\": \"it_operations\", \"roles\": \"team_user\", \"channels\": [{\"name\": \"service_desk\", \"roles\": \"channel_user\"}]}, {\"name\": \"cybersecurity\", \"roles\": \"team_user\", \"channels\": [{\"name\": \"training_updates\", \"roles\": \"channel_user\"}]}]}}\n{\"type\": \"user\", \"user\": {\"username\": \"john_doe\", \"email\": \"john.doe@mediconn.ca\", \"password\": \"john_pwd\", \"nickname\": \"John\", \"first_name\": \"John\", \"last_name\": \"Doe\", \"position\": \"Cybersecurity Specialist\", \"roles\": \"system_user\", \"locale\": \"en\", \"teams\": [{\"name\": \"cybersecurity\", \"roles\": \"team_user\", \"channels\": [{\"name\": \"training_updates\", \"roles\": \"channel_user\"}]}]}}\n{\"type\": \"user\", \"user\": {\"username\": \"jane_doe\", \"email\": \"jane.doe@mediconn.ca\", \"password\": \"jane_pwd\", \"nickname\": \"Jane\", \"first_name\": \"Jane\", \"last_name\": \"Doe\", \"position\": \"IT Support Specialist\", \"roles\": \"system_user\", \"locale\": \"en\", \"teams\": [{\"name\": \"it_operations\", \"roles\": \"team_user\", \"channels\": [{\"name\": \"service_desk\", \"roles\": \"channel_user\"}]}]}}\n{\"type\": \"user\", \"user\": {\"username\": \"emily.patel\", \"nickname\": \"emily.patel\", \"first_name\": \"Emily\", \"last_name\": \"Patel\", \"roles\": [\"member\"], \"position\": \"IT Service Desk Manager\", \"email\": \"emily.patel@mediconnsolutions.com\", \"locale\": \"en\", \"teams\": [{\"name\": \"it_operations\", \"roles\": \"team_user\", \"channels\": [{\"name\": \"service_desk\", \"roles\": \"channel_user\"}]}, {\"name\": \"cybersecurity\", \"roles\": \"team_user\", \"channels\": [{\"name\": \"training_updates\", \"roles\": \"channel_user\"}]}]}}\n{\"type\": \"post\", \"post\": {\"team\": \"it_operations\", \"channel\": \"service_desk\", \"user\": \"emily_patel\", \"message\": \"Team, we need to ensure that our digital platforms are up and running with minimum downtime. I've noticed a few hiccups over the past week. Let's work on this.\", \"created_at\": 1620500000001}}\n{\"type\": \"post\", \"post\": {\"team\": \"it_operations\", \"channel\": \"service_desk\", \"user\": \"jane_doe\", \"message\": \"I agree, Emily. I've been receiving a few complaints about the platform's speed. We should definitely look into optimizing our servers.\", \"created_at\": 1620500000002}}\n{\"type\": \"post\", \"post\": {\"team\": \"cybersecurity\", \"channel\": \"training_updates\", \"user\": \"john_doe\", \"message\": \"Just a reminder, we have a meeting scheduled for tomorrow to discuss the new encryption methods we're looking to implement. Please review the material beforehand.\", \"created_at\": 1620500000003}}\n{\"type\": \"post\", \"post\": {\"team\": \"it_operations\", \"channel\": \"service_desk\", \"user\": \"emily_patel\", \"message\": \"Jane, please liaise with the server team and get an update on this. We need to ensure a seamless experience for our patients.\", \"created_at\": 1620500000004}}\n{\"type\": \"post\", \"post\": {\"team\": \"cybersecurity\", \"channel\": \"training_updates\", \"user\": \"emily_patel\", \"message\": \"Thanks for the reminder, John. I'll make sure to go through the material today.\", \"created_at\": 1620500000005}}\n{\"type\": \"post\", \"post\": {\"team\": \"it_operations\", \"channel\": \"service_desk\", \"user\": \"jane_doe\", \"message\": \"Sure, Emily. I'll get in touch with the server team and keep you updated.\", \"created_at\": 1620500000006}}\n{\"type\": \"post\", \"post\": {\"team\": \"cybersecurity\", \"channel\": \"training_updates\", \"user\": \"john_doe\", \"message\": \"Excellent, Emily. We'll see you at the meeting tomorrow.\", \"created_at\": 1620500000007}}\n{\"type\": \"post\", \"post\": {\"team\": \"cybersecurity\", \"channel\": \"training_updates\", \"user\": \"john_doe\", \"message\": \"Hello team, I've just received the participation data for our January 2024 cybersecurity awareness training from the HR department. I'm thrilled to announce that we had an impressive turnout. Based on the data, 90% of MediConn Solutions' staff joined the training. This is a significant increase from our previous sessions. We're making great strides in ensuring that our colleagues are well-informed about cybersecurity best practices. Let's keep up the good work!\", \"create_at\": 1620500000000}}",
+    "chat_setup": {
+        "teams": [
+            {
+                "type": "team",
+                "team": {
+                    "name": "it_operations",
+                    "display_name": "IT Operations",
+                    "type": "O",
+                    "header": "Team managing the IT infrastructure and services of MediConn Solutions",
+                    "purpose": "Provide efficient IT support and implement improvements for the digital services of the company"
+                }
+            },
+            {
+                "type": "team",
+                "team": {
+                    "name": "cybersecurity",
+                    "display_name": "Cybersecurity",
+                    "type": "O",
+                    "header": "Team responsible for maintaining and enhancing the security of MediConn Solutions' digital platforms",
+                    "purpose": "Ensure the security of our digital platforms, conduct cybersecurity awareness trainings, and manage cyber threats"
+                }
+            }
+        ],
+        "channels": [
+            {
+                "type": "channel",
+                "channel": {
+                    "team": "it_operations",
+                    "name": "service_desk",
+                    "display_name": "Service Desk",
+                    "type": "O",
+                    "header": "Channel for the IT service desk team",
+                    "purpose": "Discuss incident and request workflows, strategize process improvements, and address IT concerns"
+                }
+            },
+            {
+                "type": "channel",
+                "channel": {
+                    "team": "cybersecurity",
+                    "name": "training_updates",
+                    "display_name": "Training Updates",
+                    "type": "O",
+                    "header": "Channel for updates on cybersecurity awareness training",
+                    "purpose": "Share updates on cybersecurity awareness training, discuss participation rates, and strategize for future sessions"
+                }
+            }
+        ],
+        "users": [
+            {
+                "type": "user",
+                "user": {
+                    "username": "emily_patel",
+                    "email": "emily.patel@mediconn.ca",
+                    "password": "emily_pwd",
+                    "nickname": "Emily",
+                    "first_name": "Emily",
+                    "last_name": "Patel",
+                    "position": "IT Service Desk Manager",
+                    "roles": "system_user",
+                    "locale": "en",
+                    "teams": [
+                        {
+                            "name": "it_operations",
+                            "roles": "team_user",
+                            "channels": [
+                                {
+                                    "name": "service_desk",
+                                    "roles": "channel_user"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "cybersecurity",
+                            "roles": "team_user",
+                            "channels": [
+                                {
+                                    "name": "training_updates",
+                                    "roles": "channel_user"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "type": "user",
+                "user": {
+                    "username": "john_doe",
+                    "email": "john.doe@mediconn.ca",
+                    "password": "john_pwd",
+                    "nickname": "John",
+                    "first_name": "John",
+                    "last_name": "Doe",
+                    "position": "Cybersecurity Specialist",
+                    "roles": "system_user",
+                    "locale": "en",
+                    "teams": [
+                        {
+                            "name": "cybersecurity",
+                            "roles": "team_user",
+                            "channels": [
+                                {
+                                    "name": "training_updates",
+                                    "roles": "channel_user"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "type": "user",
+                "user": {
+                    "username": "jane_doe",
+                    "email": "jane.doe@mediconn.ca",
+                    "password": "jane_pwd",
+                    "nickname": "Jane",
+                    "first_name": "Jane",
+                    "last_name": "Doe",
+                    "position": "IT Support Specialist",
+                    "roles": "system_user",
+                    "locale": "en",
+                    "teams": [
+                        {
+                            "name": "it_operations",
+                            "roles": "team_user",
+                            "channels": [
+                                {
+                                    "name": "service_desk",
+                                    "roles": "channel_user"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "type": "user",
+                "user": {
+                    "username": "emily.patel",
+                    "nickname": "emily.patel",
+                    "first_name": "Emily",
+                    "last_name": "Patel",
+                    "roles": [
+                        "member"
+                    ],
+                    "position": "IT Service Desk Manager",
+                    "email": "emily.patel@mediconnsolutions.com",
+                    "locale": "en",
+                    "teams": [
+                        {
+                            "name": "it_operations",
+                            "roles": "team_user",
+                            "channels": [
+                                {
+                                    "name": "service_desk",
+                                    "roles": "channel_user"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "cybersecurity",
+                            "roles": "team_user",
+                            "channels": [
+                                {
+                                    "name": "training_updates",
+                                    "roles": "channel_user"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    "chat_messages": [
+        {
+            "type": "post",
+            "post": {
+                "team": "cybersecurity",
+                "channel": "training_updates",
+                "user": "john_doe",
+                "message": "Hello team, I've just received the participation data for our January 2024 cybersecurity awareness training from the HR department. I'm thrilled to announce that we had an impressive turnout. Based on the data, 90% of MediConn Solutions' staff joined the training. This is a significant increase from our previous sessions. We're making great strides in ensuring that our colleagues are well-informed about cybersecurity best practices. Let's keep up the good work!",
+                "create_at": 1620500000000
+            },
+            "tag": "insight"
+        },
+        {
+            "type": "post",
+            "post": {
+                "team": "it_operations",
+                "channel": "service_desk",
+                "user": "emily_patel",
+                "message": "Team, we need to ensure that our digital platforms are up and running with minimum downtime. I've noticed a few hiccups over the past week. Let's work on this.",
+                "created_at": 1620500000001
+            },
+            "tag": "distractor"
+        },
+        {
+            "type": "post",
+            "post": {
+                "team": "it_operations",
+                "channel": "service_desk",
+                "user": "jane_doe",
+                "message": "I agree, Emily. I've been receiving a few complaints about the platform's speed. We should definitely look into optimizing our servers.",
+                "created_at": 1620500000002
+            },
+            "tag": "distractor"
+        },
+        {
+            "type": "post",
+            "post": {
+                "team": "cybersecurity",
+                "channel": "training_updates",
+                "user": "john_doe",
+                "message": "Just a reminder, we have a meeting scheduled for tomorrow to discuss the new encryption methods we're looking to implement. Please review the material beforehand.",
+                "created_at": 1620500000003
+            },
+            "tag": "distractor"
+        },
+        {
+            "type": "post",
+            "post": {
+                "team": "it_operations",
+                "channel": "service_desk",
+                "user": "emily_patel",
+                "message": "Jane, please liaise with the server team and get an update on this. We need to ensure a seamless experience for our patients.",
+                "created_at": 1620500000004
+            },
+            "tag": "distractor"
+        },
+        {
+            "type": "post",
+            "post": {
+                "team": "cybersecurity",
+                "channel": "training_updates",
+                "user": "emily_patel",
+                "message": "Thanks for the reminder, John. I'll make sure to go through the material today.",
+                "created_at": 1620500000005
+            },
+            "tag": "distractor"
+        },
+        {
+            "type": "post",
+            "post": {
+                "team": "it_operations",
+                "channel": "service_desk",
+                "user": "jane_doe",
+                "message": "Sure, Emily. I'll get in touch with the server team and keep you updated.",
+                "created_at": 1620500000006
+            },
+            "tag": "distractor"
+        },
+        {
+            "type": "post",
+            "post": {
+                "team": "cybersecurity",
+                "channel": "training_updates",
+                "user": "john_doe",
+                "message": "Excellent, Emily. We'll see you at the meeting tomorrow.",
+                "created_at": 1620500000007
+            },
+            "tag": "distractor"
+        }
+    ],
+    "file_format": "jsonl",
+    "file_path": ".llm_responses/generated_chat_document.jsonl",
+    "qa_type": "distractor",
+    "timestamp": "2025-12-02 15:16",
+    "app": "mattermost"
+}

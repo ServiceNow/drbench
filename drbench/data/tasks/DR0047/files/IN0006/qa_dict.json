@@ -1,0 +1,10 @@
+{
+    "insight_id": "IN0006",
+    "qa_type": "insight",
+    "qa_index": 6,
+    "specific_question": "What percentage of IT staff reported that completing the mandatory data privacy training for PIPEDA adherence made it difficult for them to respond to service tickets in a timely manner during July 2025?",
+    "answer": "According to MediConn Solutions' internal IT staff surveys upon the completion of data privacy training for PIPEDA adherence in July 2025, 78% of IT staff reported that the lengthy training modules made it difficult for them to respond to service tickets in a timely manner. Service ticket average response times increased by 5 minutes in during the month of July 2025.",
+    "justification": "",
+    "timestamp": "2025-12-02 15:25",
+    "dr_question": "How can MediConn Solutions use AI-integrated IT Service Management (ITSM) to improve its support of remote care and mobile health apps while maintaining a high standard of regulatory compliance and delivering a seamless experience for patients and healthcare professionals by Q1 of 2027?"
+}

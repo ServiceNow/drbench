@@ -1,0 +1,13 @@
+Quarter,Year,Company,Avg_Data_Points_Per_Module,Data_Point_Type_Covered
+The quarter of the year in which the data was collected.,The year in which the data was collected.,The name of the company that collected the data.,The average number of performance data points collected per battery module by the company's lifecycle system through its digital twin integration.,"The types of performance data points that were collected, such as voltage, temperature, and charge-discharge rates."
+Q1,2021,Elexion Automotive,1130,"temperature, charge-discharge rates"
+Q3,2020,Elexion Automotive,1150,"voltage, temperature, charge-discharge rates"
+Q2,2022,Elexion Automotive,1190,"voltage, temperature, charge-discharge rates"
+Q1,2022,Elexion Automotive,1120,"temperature, charge-discharge rates"
+Q2,2021,Elexion Automotive,1170,"voltage, temperature"
+Q2,2020,Elexion Automotive,1100,charge-discharge rates
+Q3,2025,Elexion Automotive,1200,"voltage, temperature, charge-discharge rates"
+Q4,2020,Elexion Automotive,1080,"voltage, charge-discharge rates"
+Q4,2021,Elexion Automotive,1150,"voltage, charge-discharge rates"
+Q3,2021,Elexion Automotive,1180,"voltage, temperature, charge-discharge rates"
+Q1,2020,Elexion Automotive,1050,"voltage, temperature"

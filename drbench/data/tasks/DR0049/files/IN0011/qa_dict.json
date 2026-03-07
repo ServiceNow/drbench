@@ -1,0 +1,10 @@
+{
+    "insight_id": "IN0011",
+    "qa_type": "insight",
+    "qa_index": 11,
+    "specific_question": "At what point in the booking process during Q4 2024 do users most frequently abandon their attempts without contacting support, and how many users does this affect?",
+    "answer": "Analytics from Q4 2024 show that 5,200 users (11% of total booking attempts) abandoned the booking process at the coverage verification step (provincial health card and supplemental insurance validation) without ever contacting support or reaching the final confirmation page.",
+    "justification": "",
+    "timestamp": "2025-12-02 17:17",
+    "dr_question": "A 2022 patient experience report found that six in 10 patients identified poor online booking tools and convoluted call centers as barriers to making appointments. When individual patients or corporate employees struggle to book appointments on MediConn Solutions' platform, how can I determine whether the root cause is poot booking tool design or convoluted customer support processes?"
+}

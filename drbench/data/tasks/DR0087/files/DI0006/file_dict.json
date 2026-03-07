@@ -1,0 +1,82 @@
+{
+    "file_name": "employee-motivation-insights",
+    "file_title": "Employee Motivation Insights at Lee's Market",
+    "introduction": "This presentation aims to explore the priorities and motivations of our retail workforce. We will particularly focus on understanding the significance of meaningful work for our employees.",
+    "subsections": [
+        {
+            "heading": "Retail Workforce: Job Satisfaction Metrics",
+            "content": "\u2022 Employee turnover rate in the retail sector was 60% in 2019\n\u2022 The average job satisfaction score in the retail sector was 3.2 out of 5 in 2020\n\u2022 Customer satisfaction is directly linked to employee job satisfaction in retail\n\u2022 Retail employees tend to be more satisfied in roles that offer flexible scheduling\n\u2022 Retail jobs that offer growth opportunities tend to have higher job satisfaction scores\n\u2022 Retail companies with strong internal communication strategies report higher job satisfaction rates",
+            "type": "distractor",
+            "justification": "This content focuses on general job satisfaction metrics in the retail sector, not specifically on meaningful work at Lee's Market."
+        },
+        {
+            "heading": "Importance of Meaningful Work in Retail Sector",
+            "content": "\u2022 Research shows that meaningful work increases employee engagement in the retail sector\n\u2022 Retail employees who find their work meaningful tend to stay longer in their jobs\n\u2022 Retail companies that prioritize meaningful work tend to have lower turnover rates\n\u2022 Retail employees report higher job satisfaction when they find their work meaningful\n\u2022 Meaningful work in retail often involves contributing positively to customer experiences",
+            "type": "distractor",
+            "justification": "This slide talks about the importance of meaningful work in the retail sector in general, not specifically at Lee's Market."
+        },
+        {
+            "heading": "Employee Priorities: Case Study of Lee's Market",
+            "content": "\u2022 Lee's Market conducted an internal survey on employee priorities in 2018\n\u2022 The survey found that competitive compensation was a top priority for Lee's Market employees\n\u2022 Other important priorities included opportunities for growth and a positive work environment\n\u2022 The survey revealed that flexible scheduling was a crucial factor for part-time employees at Lee's Market\n\u2022 The survey also highlighted the importance of strong leadership and effective communication in the workplace\n\u2022 Retention strategies at Lee's Market focus on aligning company goals with employee priorities",
+            "type": "distractor",
+            "justification": "This slide discusses a case study on employee priorities at Lee's Market, but does not specifically mention meaningful work."
+        }
+    ],
+    "conclusion": "Understanding our employees' priority towards meaningful work can enhance job satisfaction and productivity. Let's leverage these insights to develop targeted HR strategies and employee engagement programs.",
+    "file_format": "pptx",
+    "file_path": ".llm_responses/generated_pptx_presentation.pptx",
+    "qa_type": "distractor",
+    "timestamp": "2025-11-20 14:56",
+    "image_queries": [
+        {
+            "slide_title": "Introduction",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "intentionally_clean",
+            "slide_type": "introduction"
+        },
+        {
+            "slide_title": "Retail Workforce: Job Satisfaction Metrics",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "failed",
+            "slide_type": "distractor",
+            "content_length": 6,
+            "total_chars": 486,
+            "error": "'str' object has no attribute 'choices'",
+            "theme": "Elegant Teal"
+        },
+        {
+            "slide_title": "Importance of Meaningful Work in Retail Sector",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 5,
+            "total_chars": 421,
+            "probability": 0.25,
+            "theme": "Elegant Teal"
+        },
+        {
+            "slide_title": "Employee Priorities: Case Study of Lee's Market",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "failed",
+            "slide_type": "distractor",
+            "content_length": 6,
+            "total_chars": 562,
+            "error": "'str' object has no attribute 'choices'",
+            "theme": "Elegant Teal"
+        },
+        {
+            "slide_title": "Conclusion",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "conclusion_failed",
+            "slide_type": "conclusion",
+            "error": "'str' object has no attribute 'choices'",
+            "theme": "Elegant Teal"
+        }
+    ],
+    "app": "file_system"
+}

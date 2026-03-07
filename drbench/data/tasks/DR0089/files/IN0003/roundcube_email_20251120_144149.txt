@@ -1,0 +1,150 @@
+================================================================================
+ROUNDCUBE EMAIL EXPORT
+================================================================================
+
+USERS:
+----------------------------------------
+• amanda.foster
+  Name: Amanda Foster
+  Email: amanda.foster@elexionautomotive.com
+
+• john.doe
+  Name: John Doe
+  Email: john.doe@elexionautomotive.com
+
+• mary.johnson
+  Name: Mary Johnson
+  Email: mary.johnson@elexionautomotive.com
+
+• robert.brown
+  Name: Robert Brown
+  Email: robert.brown@elexionautomotive.com
+
+• susan.davis
+  Name: Susan Davis
+  Email: susan.davis@elexionautomotive.com
+
+• james.miller
+  Name: James Miller
+  Email: james.miller@elexionautomotive.com
+
+EMAILS:
+================================================================================
+Email ID: email_001
+Date: 2023-06-18 09:30:00
+From: Amanda Foster <amanda.foster@elexionautomotive.com>
+To: john.doe@elexionautomotive.com, mary.johnson@elexionautomotive.com, robert.brown@elexionautomotive.com
+CC: susan.davis@elexionautomotive.com, james.miller@elexionautomotive.com
+Subject: Weekly QA Team Meeting Reminder
+Folder: sent | Status: Read
+
+Message Body:
+----------------------------------------
+Dear Team,
+
+This is a reminder of our weekly QA team meeting scheduled for tomorrow at 10:00 AM in the conference room.
+
+The meeting will focus on the current status of ongoing projects, upcoming tasks, and any issues or roadblocks that might have arisen.
+
+Please prepare your updates and issues for discussion. Looking forward to seeing you all there.
+
+Best,
+Amanda
+============================================================
+
+Email ID: email_002
+Date: 2023-06-19 11:45:00
+From: John Doe <john.doe@elexionautomotive.com>
+To: amanda.foster@elexionautomotive.com
+CC: susan.davis@elexionautomotive.com
+Subject: Re: Annual Budget Planning Meeting
+Folder: sent | Status: Read
+
+Message Body:
+----------------------------------------
+Hi Amanda,
+
+Thank you for your email. I've noted the date and time for the budget planning meeting.
+
+I’ll prepare the current expenses report and projections for the next fiscal year to help us make informed decisions.
+
+Best,
+John
+============================================================
+
+Email ID: email_003
+Date: 2023-06-19 14:15:00
+From: Susan Davis <susan.davis@elexionautomotive.com>
+To: amanda.foster@elexionautomotive.com, john.doe@elexionautomotive.com, mary.johnson@elexionautomotive.com, robert.brown@elexionautomotive.com, james.miller@elexionautomotive.com
+Subject: New Office Security Measures
+Folder: sent | Status: Read
+
+Message Body:
+----------------------------------------
+Dear Team,
+
+Please be aware that new security measures will be implemented at our office from next week. All employees will be required to use their ID badges to access the building.
+
+This is part of our ongoing efforts to ensure the safety and security of our staff and assets. Your cooperation is greatly appreciated.
+
+Best,
+Susan
+============================================================
+
+Email ID: email_001
+Date: 2026-06-01 09:00:00
+From: Amanda Foster <amanda.foster@elexionautomotive.com>
+To: john.doe@elexionautomotive.com
+CC: mary.johnson@elexionautomotive.com, robert.brown@elexionautomotive.com
+Subject: Enhancing Cold-Weather Testing Protocols for Canada's ZEV Market
+Folder: sent | Status: Read
+
+Message Body:
+----------------------------------------
+Hi John,
+
+As we look to improve our EV battery endurance and reliability in Canada's key ZEV markets, I believe we need to revisit our battery pack testing protocols. Specifically, I'm interested in the extent to which our manufacturing plants isolate EV battery pack tests from HVAC or cabin heating simulations. I suspect this isolation could be underestimating real-world thermal load transitions. Could you provide some data on this?
+
+Best,
+Amanda
+============================================================
+
+Email ID: email_002
+Date: 2026-06-02 09:30:00
+From: John Doe <john.doe@elexionautomotive.com>
+To: amanda.foster@elexionautomotive.com
+CC: mary.johnson@elexionautomotive.com, robert.brown@elexionautomotive.com
+Subject: Re: Enhancing Cold-Weather Testing Protocols for Canada's ZEV Market
+Folder: inbox | Status: Read
+
+Message Body:
+----------------------------------------
+Hi Amanda,
+
+Thank you for bringing this to our attention. After reviewing the data, it appears that about 70% of our manufacturing plants isolate EV battery pack tests from HVAC or cabin heating simulations. I agree that this practice could potentially lead to inaccurate assessments of battery endurance and performance in cold weather conditions. We should definitely consider revising our testing protocols to address this issue.
+
+Best,
+John
+============================================================
+
+Email ID: email_003
+Date: 2026-06-02 10:00:00
+From: Amanda Foster <amanda.foster@elexionautomotive.com>
+To: john.doe@elexionautomotive.com
+CC: mary.johnson@elexionautomotive.com, robert.brown@elexionautomotive.com
+Subject: Re: Enhancing Cold-Weather Testing Protocols for Canada's ZEV Market
+Folder: sent | Status: Read
+
+Message Body:
+----------------------------------------
+Hi John,
+
+Thank you for the quick response. The fact that 70% of our plants are isolating these tests just underlines the importance of revising our protocols. Let's work together to implement changes that will ensure our EVs perform optimally in Canada's cold weather conditions.
+
+Best,
+Amanda
+============================================================
+
+================================================================================
+END OF EMAIL EXPORT
+================================================================================

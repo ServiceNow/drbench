@@ -1,0 +1,14 @@
+Company,Industry,Date,Conversion_Rate
+Name of the company the data is associated with,The industry the company is a part of,The month and year when the conversion rate was calculated,The conversion rate from test drive to purchase for the specified month and year
+CarWorks,Automotive,2024-11,31%
+CarWorks,Automotive,2024-10,30%
+AutoTech,Automotive,2024-10,32%
+Elexion Automotive,Automotive,2024-11,39%
+CarWorks,Automotive,2025-01,26%
+Elexion Automotive,Automotive,2025-01,41%
+Elexion Automotive,Automotive,2024-10,37%
+AutoTech,Automotive,2024-12,35%
+Elexion Automotive,Automotive,2024-12,38%
+AutoTech,Automotive,2025-01,30%
+CarWorks,Automotive,2024-12,32%
+AutoTech,Automotive,2024-11,33%

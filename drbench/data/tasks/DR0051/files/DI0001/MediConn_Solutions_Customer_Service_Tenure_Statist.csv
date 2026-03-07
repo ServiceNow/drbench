@@ -1,0 +1,8 @@
+Year,Average_Tenure_in_Years,Change_from_Previous_Year,Longest_Tenure_in_Years
+This represents the specific year for which the tenure data is being represented.,This is the average tenure of MediConn Solutions' customer service representatives for the given year. It is measured in years.,"This represents the change in average tenure from the previous year. Positive values indicate an increase, while negative values indicate a decrease.",This is the tenure of the longest-serving customer service representative at MediConn Solutions for the given year. It is measured in years.
+2020-12-31,2.1,0.1,4
+2019-12-31,2,0,3.8
+2023-12-31,2.6,0.1,5.5
+2022-12-31,2.5,0.2,5
+2021-12-31,2.3,0.2,4.5
+2024-12-31,2.8,0.2,6.2

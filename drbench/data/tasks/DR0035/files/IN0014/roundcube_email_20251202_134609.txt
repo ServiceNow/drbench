@@ -1,0 +1,136 @@
+================================================================================
+ROUNDCUBE EMAIL EXPORT
+================================================================================
+
+USERS:
+----------------------------------------
+• jason.wong
+  Name: Jason Wong
+  Email: jason.wong@leesmarket.com
+
+• linda.chen
+  Name: Linda Chen
+  Email: linda.chen@leesmarket.com
+
+• michael.kim
+  Name: Michael Kim
+  Email: michael.kim@leesmarket.com
+
+• susan.li
+  Name: Susan Li
+  Email: susan.li@leesmarket.com
+
+• david.park
+  Name: David Park
+  Email: david.park@leesmarket.com
+
+• sarah.jeong
+  Name: Sarah Jeong
+  Email: sarah.jeong@leesmarket.com
+
+EMAILS:
+================================================================================
+Email ID: email_001
+Date: 2025-01-01 09:00:00
+From: Jason Wong <jason.wong@leesmarket.com>
+To: linda.chen@leesmarket.com, michael.kim@leesmarket.com, susan.li@leesmarket.com, david.park@leesmarket.com, sarah.jeong@leesmarket.com
+Subject: Weekly Team Meeting Schedule
+Folder: sent | Status: Read
+
+Message Body:
+----------------------------------------
+Dear Team, just a reminder about our weekly team meeting on Fridays at 2 PM. Please prepare your weekly updates and any challenges you'd like to discuss. Best, Jason
+============================================================
+
+Email ID: email_002
+Date: 2025-01-03 14:15:00
+From: Susan Li <susan.li@leesmarket.com>
+To: jason.wong@leesmarket.com, linda.chen@leesmarket.com, michael.kim@leesmarket.com, david.park@leesmarket.com, sarah.jeong@leesmarket.com
+Subject: New POS System Training
+Folder: inbox | Status: Read
+
+Message Body:
+----------------------------------------
+Hello all, we will be implementing a new POS system in our stores. There will be a training session next Wednesday at 1 PM in the main conference room. Please ensure you or a representative from your team is present. Regards, Susan
+============================================================
+
+Email ID: email_003
+Date: 2025-01-07 10:35:00
+From: Linda Chen <linda.chen@leesmarket.com>
+To: jason.wong@leesmarket.com, susan.li@leesmarket.com, michael.kim@leesmarket.com, david.park@leesmarket.com, sarah.jeong@leesmarket.com
+Subject: Invitation: Retail Industry Networking Event
+Folder: inbox | Status: Read
+
+Message Body:
+----------------------------------------
+Dear Team, we have been invited to a networking event for the retail industry on January 20th. This is a great opportunity to meet other professionals in our field. Please let me know if you're interested in attending. Best, Linda
+============================================================
+
+Email ID: email_001
+Date: 2025-07-01 09:30:00
+From: Susan Li <susan.li@leesmarket.com>
+To: jason.wong@leesmarket.com
+CC: linda.chen@leesmarket.com, michael.kim@leesmarket.com, david.park@leesmarket.com, sarah.jeong@leesmarket.com
+Subject: June 2025 Cybersecurity Review
+Folder: inbox | Status: Read
+Attachments: 1 file(s)
+
+Message Body:
+----------------------------------------
+Hello Jason,
+
+I hope this email finds you well. As part of the regular monthly review, I have prepared the cybersecurity incident report for June 2025.
+
+Our internal records show that we had a total of 34 security incidents in June, with a median time of 16 hours from detection to resolution. While this is a slight improvement from the previous month, I believe we can do better.
+
+I will attach a detailed report to this email for your reference. Please review and let's discuss further steps in our upcoming meeting.
+
+Best,
+Susan
+============================================================
+
+Email ID: email_002
+Date: 2025-07-01 10:15:00
+From: Jason Wong <jason.wong@leesmarket.com>
+To: susan.li@leesmarket.com
+CC: linda.chen@leesmarket.com, michael.kim@leesmarket.com, david.park@leesmarket.com, sarah.jeong@leesmarket.com
+Subject: RE: June 2025 Cybersecurity Review
+Folder: inbox | Status: Read
+
+Message Body:
+----------------------------------------
+Hi Susan,
+
+Thanks for the report. The 16-hour median resolution time, although an improvement, is still too high. It's clear that our current in-house approach is stretched.
+
+I've been considering the adoption of managed security service providers (MSSPs). This could potentially help us leverage their expertise, reduce our resolution times, and allow us to focus more on strategic initiatives.
+
+I would appreciate your thoughts on this approach in our upcoming meeting.
+
+Best,
+Jason
+============================================================
+
+Email ID: email_003
+Date: 2025-07-01 11:00:00
+From: Susan Li <susan.li@leesmarket.com>
+To: jason.wong@leesmarket.com
+CC: linda.chen@leesmarket.com, michael.kim@leesmarket.com, david.park@leesmarket.com, sarah.jeong@leesmarket.com
+Subject: RE: June 2025 Cybersecurity Review
+Folder: inbox | Status: Read
+
+Message Body:
+----------------------------------------
+Hello Jason,
+
+I agree with your assessment. With our current resource constraints, outsourcing to MSSPs could indeed be a viable solution. It could potentially improve our threat management, compliance, and customer trust.
+
+Looking forward to discussing this further in our meeting.
+
+Best,
+Susan
+============================================================
+
+================================================================================
+END OF EMAIL EXPORT
+================================================================================

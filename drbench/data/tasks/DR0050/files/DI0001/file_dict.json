@@ -1,0 +1,81 @@
+{
+    "file_name": "service-team-analysis",
+    "file_title": "Customer Service Team Analysis - October 2024",
+    "introduction": "This presentation provides an in-depth analysis of our customer service team as of October 2024. We will explore team size, composition, and workload distribution.",
+    "subsections": [
+        {
+            "heading": "Customer Service Team Composition",
+            "content": "\u2022 Team consists of a mix of full-time and part-time employees\n\u2022 In 2023, a total of 50% of the customer service team was comprised of part-timers\n\u2022 Majority of the part-time employees work during peak hours\n\u2022 The team is overseen by a customer service manager with over 10 years of industry experience\n\u2022 Training programs are regularly conducted to improve service quality\n\u2022 The team is divided into sub-teams, each handling specific areas of customer service\n\u2022 The team collaborates with other departments to resolve complex customer issues",
+            "type": "distractor",
+            "justification": "This content provides information about the structure and functioning of the team but not the specific headcount in October 2024. It uses a focus on historical data and procedural information strategy."
+        },
+        {
+            "heading": "Customer Service Representatives Headcount",
+            "content": "\u2022 In 2022, the customer service team grew by 20%\n\u2022 As of January 2024, there were 22 full-time customer service representatives\n\u2022 The company plans to hire more representatives in the next fiscal year\n\u2022 The turnover rate in the customer service department is around 10% annually\n\u2022 Employee retention strategies have been implemented to reduce turnover\n\u2022 The company maintains a reserve list of potential hires to fill vacancies quickly",
+            "type": "distractor",
+            "justification": "This content gives historical data and plans for future hiring but does not mention the number of representatives in October 2024. It relies on adjacent business areas and historical context strategy."
+        },
+        {
+            "heading": "Workload Distribution Across Customer Service Team",
+            "content": "\u2022 Workload is distributed based on the complexity of customer issues\n\u2022 Peak hours workload is managed by a higher number of part-time representatives\n\u2022 Each representative handles an average of 150 customer interactions per week\n\u2022 The company uses a CRM tool to track and distribute workload\n\u2022 Annual leave and sick days are factored into workload distribution\n\u2022 Regular meetings are held to assess workload and make necessary adjustments\n\u2022 The company is looking into AI-based solutions to manage workload efficiently",
+            "type": "distractor",
+            "justification": "This content discusses workload management but does not provide the specific count of representatives in October 2024. It uses a focus on operational details and future plans strategy."
+        }
+    ],
+    "conclusion": "The current size of our customer service team aligns with our operational needs, ensuring efficient and high-quality service to our customers. Moving forward, we will continuously monitor and adjust our team size and composition to optimally respond to customer needs.",
+    "file_format": "pptx",
+    "file_path": ".llm_responses/generated_pptx_presentation.pptx",
+    "qa_type": "distractor",
+    "timestamp": "2025-12-02 15:46",
+    "image_queries": [
+        {
+            "slide_title": "Introduction",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "intentionally_clean",
+            "slide_type": "introduction"
+        },
+        {
+            "slide_title": "Customer Service Team Composition",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 7,
+            "total_chars": 521,
+            "probability": 0.25,
+            "theme": "Bold Crimson"
+        },
+        {
+            "slide_title": "Customer Service Representatives Headcount",
+            "has_image": true,
+            "image_query": "customer service team growth",
+            "generation_method": "strategic_placement",
+            "slide_type": "distractor",
+            "content_length": 6,
+            "total_chars": 418,
+            "forced": false,
+            "theme": "Bold Crimson"
+        },
+        {
+            "slide_title": "Workload Distribution Across Customer Service Team",
+            "has_image": true,
+            "image_query": "customer service team workload chart",
+            "generation_method": "strategic_placement",
+            "slide_type": "distractor",
+            "content_length": 7,
+            "total_chars": 498,
+            "forced": false,
+            "theme": "Bold Crimson"
+        },
+        {
+            "slide_title": "Conclusion",
+            "has_image": true,
+            "image_query": "business team collaboration",
+            "generation_method": "strategic_conclusion",
+            "slide_type": "conclusion",
+            "theme": "Bold Crimson"
+        }
+    ],
+    "app": "file_system"
+}

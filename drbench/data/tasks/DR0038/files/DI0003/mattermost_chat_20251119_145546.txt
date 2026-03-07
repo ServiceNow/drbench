@@ -1,0 +1,89 @@
+================================================================================
+MATTERMOST CHAT EXPORT
+================================================================================
+
+TEAMS:
+----------------------------------------
+• Social Media Team (social_media)
+  Description: N/A
+  Type: Open
+
+CHANNELS:
+----------------------------------------
+• #Brand Messaging (brand_messaging)
+  Team: corporate_communications
+  Purpose: To ensure consistent brand messaging that strengthens Lee’s Market’s reputation in North America
+  Type: Public
+
+• #Instagram Performance (instagram_performance)
+  Team: social_media
+  Purpose: To understand trends, follower growth, engagement rates, and quality of content on Instagram
+  Type: Public
+
+USERS:
+----------------------------------------
+• @andrew.park
+  Name: Andrew Park
+  Position: Public Relations Director
+  Email: andrew.park@leesmarket.com
+
+• @jennifer_kim
+  Name: Jennifer Kim
+  Position: Social Media Manager
+  Email: jennifer.kim@leesmarket.com
+
+• @michael_lee
+  Name: Michael Lee
+  Position: Brand Manager
+  Email: michael.lee@leesmarket.com
+
+MESSAGES:
+================================================================================
+[Unknown time] #social_media:instagram_performance
+@jennifer_kim:
+Hello team, I have some exciting news to share. Our main corporate Instagram account has been performing exceptionally well. We gained over 80,000 new followers in 2022 alone! This is a testament to our engaging content and successful marketing strategies. Let's keep up the good work!
+------------------------------------------------------------
+
+[2021-05-08 11:53:20] #corporate_communications:brand_messaging
+@andrew.park:
+Good morning team, I'd like to propose a meeting next week to discuss the upcoming promotional campaign for our new product line. Let's brainstorm some effective messaging ideas.
+------------------------------------------------------------
+
+[2021-05-08 11:55:00] #corporate_communications:brand_messaging
+@michael_lee:
+I agree, Andrew. We should also consider how we can highlight our commitment to high-quality products in this campaign.
+------------------------------------------------------------
+
+[2021-05-08 11:56:40] #social_media:instagram_performance
+@jennifer_kim:
+Hello team, after today's training session, let's have a quick catch-up to discuss the new software tool we are implementing for content scheduling.
+------------------------------------------------------------
+
+[2021-05-08 11:58:20] #social_media:instagram_performance
+@andrew.park:
+Great idea, Jennifer. I've heard good reviews about the software. I think it will help us streamline our content publishing process.
+------------------------------------------------------------
+
+[2021-05-08 12:00:00] #corporate_communications:brand_messaging
+@andrew.park:
+Could we also discuss the customer feedback we received from the last survey? There are some useful insights that could influence our brand messaging.
+------------------------------------------------------------
+
+[2021-05-08 12:01:40] #corporate_communications:brand_messaging
+@michael_lee:
+Absolutely, Andrew. It's important to incorporate customer feedback into our messaging. It shows that we value their opinions.
+------------------------------------------------------------
+
+[2021-05-08 12:03:20] #social_media:instagram_performance
+@jennifer_kim:
+Just a reminder, we have a performance review meeting scheduled for tomorrow. Please come prepared with your quarterly reports.
+------------------------------------------------------------
+
+[2021-05-08 12:05:00] #social_media:instagram_performance
+@andrew.park:
+Thanks for the reminder, Jennifer. I will have my reports ready.
+------------------------------------------------------------
+
+================================================================================
+END OF CHAT EXPORT
+================================================================================

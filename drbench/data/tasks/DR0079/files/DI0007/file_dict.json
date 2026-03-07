@@ -1,0 +1,81 @@
+{
+    "file_name": "employee-engagement-evolution",
+    "file_title": "Employee Engagement Evolution: Sales & Marketing",
+    "introduction": "This presentation provides an in-depth analysis of our sales and marketing teams' employee engagement scores for the first half of 2024. We will compare these findings to the previous year and discuss potential implications for our organization.",
+    "subsections": [
+        {
+            "heading": "Overview of Employee Engagement Metrics",
+            "content": "\u2022 Employee engagement is a measure of employees' commitment and connection to their work\n\u2022 It's typically assessed through regular surveys and direct feedback\n\u2022 High engagement levels correlate with increased productivity, reduced turnover, and improved customer satisfaction\n\u2022 Engagement metrics include job satisfaction, loyalty, advocacy, and personal accomplishment\n\u2022 Industry standard metrics such as eNPS (Employee Net Promoter Score) are also utilized\n\u2022 We use a sophisticated HR analytics dashboard to track and analyze these metrics\n\u2022 Employee engagement is a key focus area for our HR department to ensure sustainable growth",
+            "type": "distractor",
+            "justification": "This content discusses what employee engagement metrics are and how they're measured, but doesn't provide specific scores for Elexion."
+        },
+        {
+            "heading": "Comparison of 2023 and 2024 Engagement Scores",
+            "content": "\u2022 Annual engagement surveys are a valuable tool for year-on-year comparisons\n\u2022 Comparison of scores can identify trends and areas for improvement\n\u2022 We've implemented a new feedback system in 2024 to better capture employee sentiments\n\u2022 Engagement scores can be influenced by factors such as company growth, market conditions, and HR initiatives\n\u2022 It's important to view engagement scores in the context of our overall strategic goals\n\u2022 Detailed comparisons can help us understand the impact of our efforts on employee morale",
+            "type": "distractor",
+            "justification": "While this content discusses the process of comparing employee engagement scores between years, it doesn't provide specific scores for Elexion."
+        },
+        {
+            "heading": "Insights and Impact on Sales & Marketing Performance",
+            "content": "\u2022 Employee engagement is a critical factor in overall sales and marketing performance\n\u2022 Engaged employees are more likely to exceed their sales targets\n\u2022 High engagement levels can lead to improved customer satisfaction and loyalty\n\u2022 Our marketing team's creativity and innovation are closely tied to their engagement levels\n\u2022 We've seen a correlation between engagement scores and key performance indicators (KPIs)\n\u2022 Employee engagement forms a key part of our quarterly performance reviews",
+            "type": "distractor",
+            "justification": "This content talks about the general impact of employee engagement on sales and marketing, but doesn't provide specific data for Elexion."
+        }
+    ],
+    "conclusion": "The evolution in employee engagement scores is indicative of our team dynamics and their potential impact on performance. Moving forward, we should focus on maintaining high engagement levels and addressing areas of concern to ensure optimal productivity and satisfaction within our teams.",
+    "file_format": "pptx",
+    "file_path": ".llm_responses/generated_pptx_presentation.pptx",
+    "qa_type": "distractor",
+    "timestamp": "2025-11-20 03:42",
+    "image_queries": [
+        {
+            "slide_title": "Introduction",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "intentionally_clean",
+            "slide_type": "introduction"
+        },
+        {
+            "slide_title": "Overview of Employee Engagement Metrics",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 7,
+            "total_chars": 614,
+            "probability": 0.25,
+            "theme": "Classic Navy"
+        },
+        {
+            "slide_title": "Comparison of 2023 and 2024 Engagement Scores",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "failed",
+            "slide_type": "distractor",
+            "content_length": 6,
+            "total_chars": 507,
+            "error": "'str' object has no attribute 'choices'",
+            "theme": "Classic Navy"
+        },
+        {
+            "slide_title": "Insights and Impact on Sales & Marketing Performance",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "failed",
+            "slide_type": "distractor",
+            "content_length": 6,
+            "total_chars": 474,
+            "error": "'str' object has no attribute 'choices'",
+            "theme": "Classic Navy"
+        },
+        {
+            "slide_title": "Conclusion",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "strategic_clean_conclusion",
+            "slide_type": "conclusion",
+            "theme": "Classic Navy"
+        }
+    ],
+    "app": "file_system"
+}

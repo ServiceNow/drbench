@@ -1,0 +1,10 @@
+{
+    "insight_id": "DI0017",
+    "qa_type": "distractor",
+    "qa_index": 17,
+    "specific_question": "How many software updates did the IT team implement at MediConn Solutions in 2024?",
+    "answer": "According to MediConn Solutions' IT logs, 30 new software updates were implemented in the company's database throughout 2024.",
+    "justification": "",
+    "timestamp": "2025-12-02 15:18",
+    "dr_question": "By Q3 2025, how can MediConn Solutions' IT Service Management (ITSM) team manage security protocols, ensure regulatory compliance, and implement preventive measures against network and information system security risks, given the sensitivity of electronic medical data?"
+}

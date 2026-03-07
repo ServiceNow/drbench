@@ -1,0 +1,10 @@
+{
+    "insight_id": "IN0001",
+    "qa_type": "insight",
+    "qa_index": 1,
+    "specific_question": "What has been the monthly sales trend (in USD) for bakery products across all Lee's Market's U.S. stores from Q1 2025 to Q3 2025?",
+    "answer": "For bakery products across all Lee's Market's U.S. stores from Q1 2025 to Q3 2025, the monthly sales have been an estimated $5.5M USD per month, representing an average quarterly growth rate of approximately 5%.",
+    "justification": "Analyzing the monthly bakery sales trend provides a clear understanding of performance seasonality, customer preferences, and store-level variances. This helps identify whether dips are due to layout inefficiencies, limited assortment, or regional demand differences. Establishing this baseline is critical to setting realistic layout redesign targets for achieving the 15% growth goal by Q1 2026.",
+    "timestamp": "2025-11-20 19:08",
+    "dr_question": "As per the report by the U.S. Census Bureau's indication of a rise in food service sales since August 2024, how can Lee\u2019s Market optimize in-store layouts and product displays across its U.S. locations to increase bakery sales by 15% by the end of Q1 2026?"
+}

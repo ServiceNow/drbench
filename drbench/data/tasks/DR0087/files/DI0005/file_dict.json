@@ -1,0 +1,81 @@
+{
+    "file_name": "lees-market-demographic-analysis",
+    "file_title": "Demographic Analysis of Lee's Market Retail Workers",
+    "introduction": "Today, we will delve into the demographic profile of our retail employees, focusing on understanding our workforce better. This will aid in improving our recruitment, retention, and development strategies.",
+    "subsections": [
+        {
+            "heading": "Overview of Company's Workforce",
+            "content": "\u2022 Lee's Market employs over 5000 people across various departments\n\u2022 The retail segment constitutes about 60% of the total workforce\n\u2022 The company's head office in Richmond, BC employs about 500 people\n\u2022 The company has been steadily increasing its workforce by 5% annually for the past 5 years\n\u2022 The HR department is divided into recruiting, training, and benefits sub-departments\n\u2022 The company has a low employee turnover rate of only 6%",
+            "type": "distractor",
+            "justification": "While the slide discusses the workforce size and structure, it does not provide information on the average age of retail workers. The strategy is to focus on general workforce details."
+        },
+        {
+            "heading": "Age Distribution of Retail Employees",
+            "content": "\u2022 The company has a diverse workforce with employees ranging from fresh graduates to experienced professionals\n\u2022 The company focuses on hiring a mix of young and experienced professionals to create a balanced workforce\n\u2022 Lee's Market has an age-friendly work policy, which promotes the hiring of older workers\n\u2022 The average tenure of employees in the retail segment is around 7 years\n\u2022 The company has seen an increase in the hiring of fresh graduates in the past two years",
+            "type": "distractor",
+            "justification": "The slide includes details on age diversity and tenure but does not reveal the average age of retail workers. The distractor strategy is to share details about age-related policies and employee tenure."
+        },
+        {
+            "heading": "Implications for Employee Development Strategies",
+            "content": "\u2022 Lee's Market invests heavily in employee training and development programs\n\u2022 The company has a mentorship program for new hires to learn from experienced staff\n\u2022 The company encourages employees to attend industry conferences and seminars\n\u2022 The company offers opportunities for staff to gain additional qualifications\n\u2022 The company has a leadership development program to identify and train potential leaders\n\u2022 The company has a robust performance appraisal system that drives the development of employees",
+            "type": "distractor",
+            "justification": "The content discusses employee development strategies, but none of the points provide information about the average age of the company's retail employees. The distractor strategy is to focus on employee development initiatives."
+        }
+    ],
+    "conclusion": "Understanding our workforce age distribution provides valuable insight into potential development and succession strategies. We should consider these demographics when planning our future recruitment and training initiatives.",
+    "file_format": "pptx",
+    "file_path": ".llm_responses/generated_pptx_presentation.pptx",
+    "qa_type": "distractor",
+    "timestamp": "2025-11-20 14:56",
+    "image_queries": [
+        {
+            "slide_title": "Introduction",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "intentionally_clean",
+            "slide_type": "introduction"
+        },
+        {
+            "slide_title": "Overview of Company's Workforce",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 6,
+            "total_chars": 422,
+            "probability": 0.25,
+            "theme": "Classic Navy"
+        },
+        {
+            "slide_title": "Age Distribution of Retail Employees",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "failed",
+            "slide_type": "distractor",
+            "content_length": 5,
+            "total_chars": 459,
+            "error": "'str' object has no attribute 'choices'",
+            "theme": "Classic Navy"
+        },
+        {
+            "slide_title": "Implications for Employee Development Strategies",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 6,
+            "total_chars": 490,
+            "probability": 0.25,
+            "theme": "Classic Navy"
+        },
+        {
+            "slide_title": "Conclusion",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "strategic_clean_conclusion",
+            "slide_type": "conclusion",
+            "theme": "Classic Navy"
+        }
+    ],
+    "app": "file_system"
+}

@@ -1,0 +1,10 @@
+{
+    "insight_id": "DI0011",
+    "qa_type": "distractor",
+    "qa_index": 11,
+    "specific_question": "By what percentage did supply chain disruptions delay vehicle deliveries in 2025 at Elexion Automotive?",
+    "answer": "18% of vehicle deliveries experienced delays due to supply chain constraints in 2025 at Elexion Automotive.",
+    "justification": "Supply chain issues matter for production, not for cold-weather QA protocols, EV battery endurance, or reliability.",
+    "timestamp": "2025-11-20 15:46",
+    "dr_question": "Given that one in seven new vehicles sold in Canada in 2024 were zero-emission, how can Elexion Automotive\u2019s QA team enhance cold-weather testing protocols by Q4 2026 to improve EV battery endurance and reliability in the country\u2019s key ZEV markets?"
+}

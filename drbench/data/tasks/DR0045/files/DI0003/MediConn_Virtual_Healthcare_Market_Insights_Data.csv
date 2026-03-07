@@ -1,0 +1,11 @@
+Insight_Date,Product_Service,Country,Market_Share,Insight_Source
+The date when the insight was obtained.,"The specific product or service in question - in this case, prescription delivery.","The country where the insight is applicable - in this case, Canada.",The percentage of the virtual healthcare market that the product or service represents.,"The source from which the insight was obtained, such as market research, customer survey, etc."
+2024-01-01,Prescription Delivery,UK,0.1,Market Research
+2024-02-01,Telemedicine Consultation,UK,0.4,Customer Survey
+2022-01-01,Telemedicine Consultation,Canada,0.3,Customer Survey
+2023-01-01,Prescription Delivery,USA,0.15,Customer Survey
+2023-12-01,Medical Appointments Booking,USA,0.2,Customer Survey
+2024-03-01,Medical Appointments Booking,UK,0.15,Market Research
+2023-06-01,Telemedicine Consultation,USA,0.35,Market Research
+2024-04-01,Prescription Delivery,Canada,0.18,Market Research
+2022-04-01,Medical Appointments Booking,Canada,0.25,Market Research

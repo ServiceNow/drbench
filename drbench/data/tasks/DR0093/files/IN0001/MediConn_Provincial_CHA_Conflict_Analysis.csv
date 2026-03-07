@@ -1,0 +1,13 @@
+Date,Provinces_Covered,Provinces_in_Conflict,Conflict_Description
+The time at which the data was recorded. This can provide context for the information and help identify trends over time.,The number of provinces in which MediConn provides service. This information is necessary to understand the scale of MediConn's operations and the potential impact of regulatory discrepancies.,The number of provinces that have issued health billing policies that differ from the federal CHA interpretation. This number represents the immediate regulatory risk and indicates the number of provinces posing the greatest operational compliance challenges.,A brief description of the nature of the conflict between provincial and federal regulations. This information can provide context for the conflict and can be used to develop strategies to address it.
+2023-01-01,10,3,No additional provinces have issued conflicting health billing policies.
+2025-09-01,10,5,Five provinces have issued health billing policies that differ significantly from the federal CHA interpretation.
+2020-06-01,7,1,One province has issued a health billing policy that conflicts with the CHA interpretation.
+2021-01-01,7,1,No additional provinces have issued conflicting health billing policies.
+2023-06-01,10,4,One more province has issued a conflicting health billing policy.
+2024-01-01,10,4,No additional provinces have issued conflicting health billing policies.
+2022-01-01,9,2,No additional provinces have issued conflicting health billing policies.
+2020-01-01,6,0,No provinces have issued conflicting health billing policies.
+2021-06-01,8,2,One more province has issued a conflicting health billing policy.
+2022-06-01,9,3,One more province has issued a conflicting health billing policy.
+2024-06-01,10,5,One more province has issued a conflicting health billing policy.

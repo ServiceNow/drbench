@@ -1,0 +1,239 @@
+{
+    "file_name": "roundcube_email_20251119_225836",
+    "content": "{\"type\": \"user\", \"username\": \"rachel.lee\", \"first_name\": \"Rachel\", \"last_name\": \"Lee\", \"email\": \"rachel.lee@mediconn.com\", \"password\": \"rachel_2024\"}\n{\"type\": \"user\", \"username\": \"michael.johnson\", \"first_name\": \"Michael\", \"last_name\": \"Johnson\", \"email\": \"michael.johnson@mediconn.com\", \"password\": \"michael_2024\"}\n{\"type\": \"user\", \"username\": \"lisa.campbell\", \"first_name\": \"Lisa\", \"last_name\": \"Campbell\", \"email\": \"lisa.campbell@mediconn.com\", \"password\": \"lisa_2024\"}\n{\"type\": \"user\", \"username\": \"peter.murphy\", \"first_name\": \"Peter\", \"last_name\": \"Murphy\", \"email\": \"peter.murphy@mediconn.com\", \"password\": \"peter_2024\"}\n{\"type\": \"user\", \"username\": \"sarah.brown\", \"first_name\": \"Sarah\", \"last_name\": \"Brown\", \"email\": \"sarah.brown@mediconn.com\", \"password\": \"sarah_2024\"}\n{\"type\": \"user\", \"username\": \"james.miller\", \"first_name\": \"James\", \"last_name\": \"Miller\", \"email\": \"james.miller@mediconn.com\", \"password\": \"james_2024\"}\n{\"type\": \"user\", \"username\": \"karen.davis\", \"first_name\": \"Karen\", \"last_name\": \"Davis\", \"email\": \"karen.davis@mediconn.com\", \"password\": \"karen_2024\"}\n{\"type\": \"user\", \"username\": \"david.martin\", \"first_name\": \"David\", \"last_name\": \"Martin\", \"email\": \"david.martin@mediconn.com\", \"password\": \"david_2024\"}\n{\"type\": \"email\", \"id\": \"email_001\", \"subject\": \"Weekly Team Meeting Agenda\", \"from\": \"rachel.lee@mediconn.com\", \"from_name\": \"Rachel Lee\", \"to\": [\"michael.johnson@mediconn.com\", \"lisa.campbell@mediconn.com\", \"peter.murphy@mediconn.com\"], \"cc\": [], \"date\": \"2026-01-01 10:00:00\", \"body\": \"Hello Team,\\n\\nI hope you all had a wonderful holiday season. Since we're starting a new year, let's discuss our operations and set our goals for Q1. Our agenda for the meeting is as follows:\\n\\n1. Review of Q4 2025\\n2. Q1 2026 Goals & Objectives\\n3. Team Updates\\n4. Open Discussion\\n\\nPlease feel free to add any other topics you'd like to discuss.\\n\\nBest,\\nRachel\", \"folder\": \"sent\", \"read\": true, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_002\", \"subject\": \"Q4 Performance Reviews\", \"from\": \"michael.johnson@mediconn.com\", \"from_name\": \"Michael Johnson\", \"to\": [\"rachel.lee@mediconn.com\"], \"cc\": [], \"date\": \"2026-01-02 14:30:00\", \"body\": \"Hi Rachel,\\n\\nI wanted to notify you that I've completed the performance reviews for our team members. I'll send the summaries to you by the end of the day.\\n\\nBest,\\nMichael\", \"folder\": \"sent\", \"read\": true, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_003\", \"subject\": \"Customer Satisfaction Survey\", \"from\": \"lisa.campbell@mediconn.com\", \"from_name\": \"Lisa Campbell\", \"to\": [\"rachel.lee@mediconn.com\"], \"cc\": [], \"date\": \"2026-01-02 16:00:00\", \"body\": \"Hello Rachel,\\n\\nThe customer satisfaction survey for December has been completed. I will compile and analyze the results, and then present them at our next team meeting.\\n\\nBest,\\nLisa\", \"folder\": \"sent\", \"read\": false, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_004\", \"subject\": \"Team Building Event\", \"from\": \"peter.murphy@mediconn.com\", \"from_name\": \"Peter Murphy\", \"to\": [\"rachel.lee@mediconn.com\", \"michael.johnson@mediconn.com\", \"lisa.campbell@mediconn.com\"], \"cc\": [], \"date\": \"2026-01-03 09:00:00\", \"body\": \"Hello Everyone,\\n\\nI've been thinking about organizing a team building event for our department. I believe it's a great way to foster better relationships amongst the team and boost morale. Let's discuss this further in our next meeting.\\n\\nBest,\\nPeter\", \"folder\": \"sent\", \"read\": false, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_005\", \"subject\": \"Updated Compliance Training Schedule\", \"from\": \"rachel.lee@mediconn.com\", \"from_name\": \"Rachel Lee\", \"to\": [\"michael.johnson@mediconn.com\", \"lisa.campbell@mediconn.com\", \"peter.murphy@mediconn.com\"], \"cc\": [], \"date\": \"2026-01-03 12:00:00\", \"body\": \"Dear Team,\\n\\nPlease note that we have updated our compliance training schedule for Q1. It's important that everyone completes the necessary training modules in time. I'll be sending the schedule and further details by end of day.\\n\\nBest,\\nRachel\", \"folder\": \"sent\", \"read\": false, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_001\", \"subject\": \"Improving Patient Access to Virtual Services\", \"from\": \"rachel.lee@mediconn.com\", \"from_name\": \"Rachel Lee\", \"to\": [\"michael.johnson@mediconn.com\", \"lisa.campbell@mediconn.com\", \"peter.murphy@mediconn.com\", \"sarah.brown@mediconn.com\", \"james.miller@mediconn.com\", \"karen.davis@mediconn.com\", \"david.martin@mediconn.com\"], \"cc\": [], \"date\": \"2026-01-05 09:30:00\", \"body\": \"Dear team,\\n\\nI hope this email finds you well. As we dive into Q1 2026, one of our core objectives is to enhance patient access to our virtual consultations and prescription management services. The goal is to provide a seamless, satisfactory experience, reduce wait times, and improve patient retention.\\n\\nKindly share your thoughts, suggestions, and any relevant data that can help us achieve this goal.\\n\\nBest regards,\\nRachel\", \"folder\": \"sent\", \"read\": true, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_002\", \"subject\": \"Re: Improving Patient Access to Virtual Services\", \"from\": \"michael.johnson@mediconn.com\", \"from_name\": \"Michael Johnson\", \"to\": [\"rachel.lee@mediconn.com\"], \"cc\": [\"lisa.campbell@mediconn.com\", \"peter.murphy@mediconn.com\", \"sarah.brown@mediconn.com\", \"james.miller@mediconn.com\", \"karen.davis@mediconn.com\", \"david.martin@mediconn.com\"], \"date\": \"2026-01-05 10:15:00\", \"body\": \"Hi Rachel,\\n\\nI agree that improving patient access should be a priority. A good starting point would be to evaluate the effectiveness of our current tools in managing customer interactions. If I recall correctly, back in 2024, we used Zendesk for ticket management, RingCentral for phone systems, Salesforce for CRM, and Slack for internal team communication. These tools were integrated with our proprietary patient platform through API connections.\\n\\nMaybe we could explore how to optimize these tools further or consider new technologies that can help us provide a smoother online experience for our patients.\\n\\nRegards,\\nMichael\", \"folder\": \"sent\", \"read\": true, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_003\", \"subject\": \"Re: Improving Patient Access to Virtual Services\", \"from\": \"rachel.lee@mediconn.com\", \"from_name\": \"Rachel Lee\", \"to\": [\"michael.johnson@mediconn.com\"], \"cc\": [\"lisa.campbell@mediconn.com\", \"peter.murphy@mediconn.com\", \"sarah.brown@mediconn.com\", \"james.miller@mediconn.com\", \"karen.davis@mediconn.com\", \"david.martin@mediconn.com\"], \"date\": \"2026-01-05 11:00:00\", \"body\": \"Hi Michael,\\n\\nThank you for your input. You're right, revisiting our use of the software tools we implemented in 2024 might provide us with valuable insights into enhancing our patients' access to our services. I'll start a review of how we're currently using Zendesk, RingCentral, Salesforce, and Slack and see how we can optimize them further.\\n\\nIn the meantime, if anyone else has suggestions or insights, please don't hesitate to share.\\n\\nBest,\\nRachel\", \"folder\": \"sent\", \"read\": true, \"attachments\": []}",
+    "email_setup": [
+        {
+            "type": "user",
+            "username": "rachel.lee",
+            "first_name": "Rachel",
+            "last_name": "Lee",
+            "email": "rachel.lee@mediconn.com",
+            "password": "rachel_2024"
+        },
+        {
+            "type": "user",
+            "username": "michael.johnson",
+            "first_name": "Michael",
+            "last_name": "Johnson",
+            "email": "michael.johnson@mediconn.com",
+            "password": "michael_2024"
+        },
+        {
+            "type": "user",
+            "username": "lisa.campbell",
+            "first_name": "Lisa",
+            "last_name": "Campbell",
+            "email": "lisa.campbell@mediconn.com",
+            "password": "lisa_2024"
+        },
+        {
+            "type": "user",
+            "username": "peter.murphy",
+            "first_name": "Peter",
+            "last_name": "Murphy",
+            "email": "peter.murphy@mediconn.com",
+            "password": "peter_2024"
+        },
+        {
+            "type": "user",
+            "username": "sarah.brown",
+            "first_name": "Sarah",
+            "last_name": "Brown",
+            "email": "sarah.brown@mediconn.com",
+            "password": "sarah_2024"
+        },
+        {
+            "type": "user",
+            "username": "james.miller",
+            "first_name": "James",
+            "last_name": "Miller",
+            "email": "james.miller@mediconn.com",
+            "password": "james_2024"
+        },
+        {
+            "type": "user",
+            "username": "karen.davis",
+            "first_name": "Karen",
+            "last_name": "Davis",
+            "email": "karen.davis@mediconn.com",
+            "password": "karen_2024"
+        },
+        {
+            "type": "user",
+            "username": "david.martin",
+            "first_name": "David",
+            "last_name": "Martin",
+            "email": "david.martin@mediconn.com",
+            "password": "david_2024"
+        }
+    ],
+    "email_messages": [
+        {
+            "type": "email",
+            "id": "email_001",
+            "subject": "Weekly Team Meeting Agenda",
+            "from": "rachel.lee@mediconn.com",
+            "from_name": "Rachel Lee",
+            "to": [
+                "michael.johnson@mediconn.com",
+                "lisa.campbell@mediconn.com",
+                "peter.murphy@mediconn.com"
+            ],
+            "cc": [],
+            "date": "2026-01-01 10:00:00",
+            "body": "Hello Team,\n\nI hope you all had a wonderful holiday season. Since we're starting a new year, let's discuss our operations and set our goals for Q1. Our agenda for the meeting is as follows:\n\n1. Review of Q4 2025\n2. Q1 2026 Goals & Objectives\n3. Team Updates\n4. Open Discussion\n\nPlease feel free to add any other topics you'd like to discuss.\n\nBest,\nRachel",
+            "folder": "sent",
+            "read": true,
+            "attachments": [],
+            "tag": "distractor"
+        },
+        {
+            "type": "email",
+            "id": "email_002",
+            "subject": "Q4 Performance Reviews",
+            "from": "michael.johnson@mediconn.com",
+            "from_name": "Michael Johnson",
+            "to": [
+                "rachel.lee@mediconn.com"
+            ],
+            "cc": [],
+            "date": "2026-01-02 14:30:00",
+            "body": "Hi Rachel,\n\nI wanted to notify you that I've completed the performance reviews for our team members. I'll send the summaries to you by the end of the day.\n\nBest,\nMichael",
+            "folder": "sent",
+            "read": true,
+            "attachments": [],
+            "tag": "distractor"
+        },
+        {
+            "type": "email",
+            "id": "email_003",
+            "subject": "Customer Satisfaction Survey",
+            "from": "lisa.campbell@mediconn.com",
+            "from_name": "Lisa Campbell",
+            "to": [
+                "rachel.lee@mediconn.com"
+            ],
+            "cc": [],
+            "date": "2026-01-02 16:00:00",
+            "body": "Hello Rachel,\n\nThe customer satisfaction survey for December has been completed. I will compile and analyze the results, and then present them at our next team meeting.\n\nBest,\nLisa",
+            "folder": "sent",
+            "read": false,
+            "attachments": [],
+            "tag": "distractor"
+        },
+        {
+            "type": "email",
+            "id": "email_004",
+            "subject": "Team Building Event",
+            "from": "peter.murphy@mediconn.com",
+            "from_name": "Peter Murphy",
+            "to": [
+                "rachel.lee@mediconn.com",
+                "michael.johnson@mediconn.com",
+                "lisa.campbell@mediconn.com"
+            ],
+            "cc": [],
+            "date": "2026-01-03 09:00:00",
+            "body": "Hello Everyone,\n\nI've been thinking about organizing a team building event for our department. I believe it's a great way to foster better relationships amongst the team and boost morale. Let's discuss this further in our next meeting.\n\nBest,\nPeter",
+            "folder": "sent",
+            "read": false,
+            "attachments": [],
+            "tag": "distractor"
+        },
+        {
+            "type": "email",
+            "id": "email_005",
+            "subject": "Updated Compliance Training Schedule",
+            "from": "rachel.lee@mediconn.com",
+            "from_name": "Rachel Lee",
+            "to": [
+                "michael.johnson@mediconn.com",
+                "lisa.campbell@mediconn.com",
+                "peter.murphy@mediconn.com"
+            ],
+            "cc": [],
+            "date": "2026-01-03 12:00:00",
+            "body": "Dear Team,\n\nPlease note that we have updated our compliance training schedule for Q1. It's important that everyone completes the necessary training modules in time. I'll be sending the schedule and further details by end of day.\n\nBest,\nRachel",
+            "folder": "sent",
+            "read": false,
+            "attachments": [],
+            "tag": "distractor"
+        },
+        {
+            "type": "email",
+            "id": "email_001",
+            "subject": "Improving Patient Access to Virtual Services",
+            "from": "rachel.lee@mediconn.com",
+            "from_name": "Rachel Lee",
+            "to": [
+                "michael.johnson@mediconn.com",
+                "lisa.campbell@mediconn.com",
+                "peter.murphy@mediconn.com",
+                "sarah.brown@mediconn.com",
+                "james.miller@mediconn.com",
+                "karen.davis@mediconn.com",
+                "david.martin@mediconn.com"
+            ],
+            "cc": [],
+            "date": "2026-01-05 09:30:00",
+            "body": "Dear team,\n\nI hope this email finds you well. As we dive into Q1 2026, one of our core objectives is to enhance patient access to our virtual consultations and prescription management services. The goal is to provide a seamless, satisfactory experience, reduce wait times, and improve patient retention.\n\nKindly share your thoughts, suggestions, and any relevant data that can help us achieve this goal.\n\nBest regards,\nRachel",
+            "folder": "sent",
+            "read": true,
+            "attachments": [],
+            "tag": "insight"
+        },
+        {
+            "type": "email",
+            "id": "email_002",
+            "subject": "Re: Improving Patient Access to Virtual Services",
+            "from": "michael.johnson@mediconn.com",
+            "from_name": "Michael Johnson",
+            "to": [
+                "rachel.lee@mediconn.com"
+            ],
+            "cc": [
+                "lisa.campbell@mediconn.com",
+                "peter.murphy@mediconn.com",
+                "sarah.brown@mediconn.com",
+                "james.miller@mediconn.com",
+                "karen.davis@mediconn.com",
+                "david.martin@mediconn.com"
+            ],
+            "date": "2026-01-05 10:15:00",
+            "body": "Hi Rachel,\n\nI agree that improving patient access should be a priority. A good starting point would be to evaluate the effectiveness of our current tools in managing customer interactions. If I recall correctly, back in 2024, we used Zendesk for ticket management, RingCentral for phone systems, Salesforce for CRM, and Slack for internal team communication. These tools were integrated with our proprietary patient platform through API connections.\n\nMaybe we could explore how to optimize these tools further or consider new technologies that can help us provide a smoother online experience for our patients.\n\nRegards,\nMichael",
+            "folder": "sent",
+            "read": true,
+            "attachments": [],
+            "tag": "insight"
+        },
+        {
+            "type": "email",
+            "id": "email_003",
+            "subject": "Re: Improving Patient Access to Virtual Services",
+            "from": "rachel.lee@mediconn.com",
+            "from_name": "Rachel Lee",
+            "to": [
+                "michael.johnson@mediconn.com"
+            ],
+            "cc": [
+                "lisa.campbell@mediconn.com",
+                "peter.murphy@mediconn.com",
+                "sarah.brown@mediconn.com",
+                "james.miller@mediconn.com",
+                "karen.davis@mediconn.com",
+                "david.martin@mediconn.com"
+            ],
+            "date": "2026-01-05 11:00:00",
+            "body": "Hi Michael,\n\nThank you for your input. You're right, revisiting our use of the software tools we implemented in 2024 might provide us with valuable insights into enhancing our patients' access to our services. I'll start a review of how we're currently using Zendesk, RingCentral, Salesforce, and Slack and see how we can optimize them further.\n\nIn the meantime, if anyone else has suggestions or insights, please don't hesitate to share.\n\nBest,\nRachel",
+            "folder": "sent",
+            "read": true,
+            "attachments": [],
+            "tag": "insight"
+        }
+    ],
+    "file_format": "jsonl",
+    "file_path": ".llm_responses/generated_email_document.jsonl",
+    "qa_type": "distractor",
+    "timestamp": "2025-11-19 23:58",
+    "app": "email"
+}

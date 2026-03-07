@@ -1,0 +1,212 @@
+{
+    "file_name": "roundcube_email_20251119_215152",
+    "content": "{\"type\": \"user\", \"username\": \"andrew.park\", \"first_name\": \"Andrew\", \"last_name\": \"Park\", \"email\": \"andrew.park@leesmarket.com\", \"password\": \"prDirector_pwd\"}\n{\"type\": \"user\", \"username\": \"susan.lee\", \"first_name\": \"Susan\", \"last_name\": \"Lee\", \"email\": \"susan.lee@leesmarket.com\", \"password\": \"boardDirector_pwd\"}\n{\"type\": \"user\", \"username\": \"john.chen\", \"first_name\": \"John\", \"last_name\": \"Chen\", \"email\": \"john.chen@leesmarket.com\", \"password\": \"ethicsCommittee_pwd\"}\n{\"type\": \"user\", \"username\": \"linda.garcia\", \"first_name\": \"Linda\", \"last_name\": \"Garcia\", \"email\": \"linda.garcia@leesmarket.com\", \"password\": \"csrManager_pwd\"}\n{\"type\": \"user\", \"username\": \"david.johnson\", \"first_name\": \"David\", \"last_name\": \"Johnson\", \"email\": \"david.johnson@leesmarket.com\", \"password\": \"communicationsTeam_pwd\"}\n{\"type\": \"user\", \"username\": \"michael.miller\", \"first_name\": \"Michael\", \"last_name\": \"Miller\", \"email\": \"michael.miller@leesmarket.com\", \"password\": \"pressRelations_pwd\"}\n{\"type\": \"user\", \"username\": \"mary.williams\", \"first_name\": \"Mary\", \"last_name\": \"Williams\", \"email\": \"mary.williams@leesmarket.com\", \"password\": \"stakeholderRelations_pwd\"}\n{\"type\": \"email\", \"id\": \"email_001\", \"subject\": \"Weekly Team Meeting\", \"from\": \"andrew.park@leesmarket.com\", \"from_name\": \"Andrew Park\", \"to\": [\"david.johnson@leesmarket.com\", \"michael.miller@leesmarket.com\", \"mary.williams@leesmarket.com\"], \"cc\": [], \"date\": \"2025-01-01 09:00:00\", \"body\": \"Hello Team,\\n\\nOur weekly team meeting is scheduled for this Thursday at 2pm. Please prepare updates on your respective projects and have any relevant materials ready for discussion.\\n\\nBest,\\nAndrew\", \"folder\": \"sent\", \"read\": true, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_002\", \"subject\": \"Customer Feedback Survey Results\", \"from\": \"linda.garcia@leesmarket.com\", \"from_name\": \"Linda Garcia\", \"to\": [\"andrew.park@leesmarket.com\"], \"cc\": [], \"date\": \"2025-01-15 10:30:00\", \"body\": \"Hi Andrew,\\n\\nI'm pleased to share the results of our recent customer feedback survey. Overall, our customers are happy with our products and services. I've attached a detailed report for your reference.\\n\\nBest,\\nLinda\", \"folder\": \"inbox\", \"read\": true, \"attachments\": [\"Customer_Feedback_Survey_Results.pdf\"]}\n{\"type\": \"email\", \"id\": \"email_003\", \"subject\": \"Budget Planning Meeting\", \"from\": \"susan.lee@leesmarket.com\", \"from_name\": \"Susan Lee\", \"to\": [\"andrew.park@leesmarket.com\"], \"cc\": [], \"date\": \"2025-01-20 16:00:00\", \"body\": \"Andrew,\\n\\nWe are scheduling a budget planning meeting for next week. Could you please prepare a report on the PR department's projected expenses for the next quarter? I'd appreciate if you could send it to me by end of this week.\\n\\nThanks,\\nSusan\", \"folder\": \"inbox\", \"read\": true, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_004\", \"subject\": \"New Store Opening Announcement\", \"from\": \"andrew.park@leesmarket.com\", \"from_name\": \"Andrew Park\", \"to\": [\"john.chen@leesmarket.com\"], \"cc\": [\"david.johnson@leesmarket.com\", \"michael.miller@leesmarket.com\", \"mary.williams@leesmarket.com\"], \"date\": \"2025-02-01 11:00:00\", \"body\": \"Hi John,\\n\\nI wanted to let you know that we are planning to announce the opening of our new store in Vancouver next week. The press release is in the final stages of approval. I'll share it with you once it's ready.\\n\\nBest,\\nAndrew\", \"folder\": \"sent\", \"read\": true, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_001\", \"subject\": \"Ethical Governance System Review\", \"from\": \"john.chen@leesmarket.com\", \"from_name\": \"John Chen\", \"to\": [\"andrew.park@leesmarket.com\"], \"cc\": [\"susan.lee@leesmarket.com\", \"linda.garcia@leesmarket.com\", \"david.johnson@leesmarket.com\"], \"date\": \"2025-01-05 09:30:00\", \"body\": \"Dear Team,\\n\\nI hope this email finds you well. As part of our newly implemented Ethical Governance System (EGS), I wanted to share the dates for our upcoming quarterly reviews. The primary purpose of these reviews is to examine our performance in environmental, social, and ethical initiatives, and subsequently reduce any reputational risks associated with our corporate social responsibility communications.\\n\\nThe reviews will be conducted every three months, and a report of our findings will be shared with all stakeholders. I believe that this level of transparency will not only keep us accountable but also position Lee's Market as an ethical alternative to larger retailers.\\n\\nBest,\\nJohn Chen\", \"folder\": \"inbox\", \"read\": true, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_002\", \"subject\": \"Re: Ethical Governance System Review\", \"from\": \"andrew.park@leesmarket.com\", \"from_name\": \"Andrew Park\", \"to\": [\"john.chen@leesmarket.com\"], \"cc\": [\"susan.lee@leesmarket.com\", \"linda.garcia@leesmarket.com\", \"david.johnson@leesmarket.com\", \"michael.miller@leesmarket.com\", \"mary.williams@leesmarket.com\"], \"date\": \"2025-01-05 10:15:00\", \"body\": \"John,\\n\\nThank you for the update. I agree, this new EGS should help us significantly in reducing any potential reputational risks and further establish us as a trusted and ethical brand. Our communications team will ensure that the findings from these reviews are conveyed effectively to our stakeholders via our blog and direct emails.\\n\\nRegards,\\nAndrew Park\", \"folder\": \"inbox\", \"read\": true, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_003\", \"subject\": \"Re: Ethical Governance System Review\", \"from\": \"susan.lee@leesmarket.com\", \"from_name\": \"Susan Lee\", \"to\": [\"john.chen@leesmarket.com\", \"andrew.park@leesmarket.com\"], \"cc\": [\"linda.garcia@leesmarket.com\", \"david.johnson@leesmarket.com\", \"michael.miller@leesmarket.com\", \"mary.williams@leesmarket.com\"], \"date\": \"2025-01-05 11:05:00\", \"body\": \"John and Andrew,\\n\\nI fully support this initiative. By implementing this EGS, we are making a strong statement about Lee's Market's commitment to ethical business practices. This is a great step towards enhancing our corporate image and reducing any reputational risks associated with corporate social responsibility communication.\\n\\nBest,\\nSusan Lee\", \"folder\": \"inbox\", \"read\": true, \"attachments\": []}",
+    "email_setup": [
+        {
+            "type": "user",
+            "username": "andrew.park",
+            "first_name": "Andrew",
+            "last_name": "Park",
+            "email": "andrew.park@leesmarket.com",
+            "password": "prDirector_pwd"
+        },
+        {
+            "type": "user",
+            "username": "susan.lee",
+            "first_name": "Susan",
+            "last_name": "Lee",
+            "email": "susan.lee@leesmarket.com",
+            "password": "boardDirector_pwd"
+        },
+        {
+            "type": "user",
+            "username": "john.chen",
+            "first_name": "John",
+            "last_name": "Chen",
+            "email": "john.chen@leesmarket.com",
+            "password": "ethicsCommittee_pwd"
+        },
+        {
+            "type": "user",
+            "username": "linda.garcia",
+            "first_name": "Linda",
+            "last_name": "Garcia",
+            "email": "linda.garcia@leesmarket.com",
+            "password": "csrManager_pwd"
+        },
+        {
+            "type": "user",
+            "username": "david.johnson",
+            "first_name": "David",
+            "last_name": "Johnson",
+            "email": "david.johnson@leesmarket.com",
+            "password": "communicationsTeam_pwd"
+        },
+        {
+            "type": "user",
+            "username": "michael.miller",
+            "first_name": "Michael",
+            "last_name": "Miller",
+            "email": "michael.miller@leesmarket.com",
+            "password": "pressRelations_pwd"
+        },
+        {
+            "type": "user",
+            "username": "mary.williams",
+            "first_name": "Mary",
+            "last_name": "Williams",
+            "email": "mary.williams@leesmarket.com",
+            "password": "stakeholderRelations_pwd"
+        }
+    ],
+    "email_messages": [
+        {
+            "type": "email",
+            "id": "email_001",
+            "subject": "Weekly Team Meeting",
+            "from": "andrew.park@leesmarket.com",
+            "from_name": "Andrew Park",
+            "to": [
+                "david.johnson@leesmarket.com",
+                "michael.miller@leesmarket.com",
+                "mary.williams@leesmarket.com"
+            ],
+            "cc": [],
+            "date": "2025-01-01 09:00:00",
+            "body": "Hello Team,\n\nOur weekly team meeting is scheduled for this Thursday at 2pm. Please prepare updates on your respective projects and have any relevant materials ready for discussion.\n\nBest,\nAndrew",
+            "folder": "sent",
+            "read": true,
+            "attachments": [],
+            "tag": "distractor"
+        },
+        {
+            "type": "email",
+            "id": "email_002",
+            "subject": "Customer Feedback Survey Results",
+            "from": "linda.garcia@leesmarket.com",
+            "from_name": "Linda Garcia",
+            "to": [
+                "andrew.park@leesmarket.com"
+            ],
+            "cc": [],
+            "date": "2025-01-15 10:30:00",
+            "body": "Hi Andrew,\n\nI'm pleased to share the results of our recent customer feedback survey. Overall, our customers are happy with our products and services. I've attached a detailed report for your reference.\n\nBest,\nLinda",
+            "folder": "inbox",
+            "read": true,
+            "attachments": [
+                "Customer_Feedback_Survey_Results.pdf"
+            ],
+            "tag": "distractor"
+        },
+        {
+            "type": "email",
+            "id": "email_003",
+            "subject": "Budget Planning Meeting",
+            "from": "susan.lee@leesmarket.com",
+            "from_name": "Susan Lee",
+            "to": [
+                "andrew.park@leesmarket.com"
+            ],
+            "cc": [],
+            "date": "2025-01-20 16:00:00",
+            "body": "Andrew,\n\nWe are scheduling a budget planning meeting for next week. Could you please prepare a report on the PR department's projected expenses for the next quarter? I'd appreciate if you could send it to me by end of this week.\n\nThanks,\nSusan",
+            "folder": "inbox",
+            "read": true,
+            "attachments": [],
+            "tag": "distractor"
+        },
+        {
+            "type": "email",
+            "id": "email_004",
+            "subject": "New Store Opening Announcement",
+            "from": "andrew.park@leesmarket.com",
+            "from_name": "Andrew Park",
+            "to": [
+                "john.chen@leesmarket.com"
+            ],
+            "cc": [
+                "david.johnson@leesmarket.com",
+                "michael.miller@leesmarket.com",
+                "mary.williams@leesmarket.com"
+            ],
+            "date": "2025-02-01 11:00:00",
+            "body": "Hi John,\n\nI wanted to let you know that we are planning to announce the opening of our new store in Vancouver next week. The press release is in the final stages of approval. I'll share it with you once it's ready.\n\nBest,\nAndrew",
+            "folder": "sent",
+            "read": true,
+            "attachments": [],
+            "tag": "distractor"
+        },
+        {
+            "type": "email",
+            "id": "email_001",
+            "subject": "Ethical Governance System Review",
+            "from": "john.chen@leesmarket.com",
+            "from_name": "John Chen",
+            "to": [
+                "andrew.park@leesmarket.com"
+            ],
+            "cc": [
+                "susan.lee@leesmarket.com",
+                "linda.garcia@leesmarket.com",
+                "david.johnson@leesmarket.com"
+            ],
+            "date": "2025-01-05 09:30:00",
+            "body": "Dear Team,\n\nI hope this email finds you well. As part of our newly implemented Ethical Governance System (EGS), I wanted to share the dates for our upcoming quarterly reviews. The primary purpose of these reviews is to examine our performance in environmental, social, and ethical initiatives, and subsequently reduce any reputational risks associated with our corporate social responsibility communications.\n\nThe reviews will be conducted every three months, and a report of our findings will be shared with all stakeholders. I believe that this level of transparency will not only keep us accountable but also position Lee's Market as an ethical alternative to larger retailers.\n\nBest,\nJohn Chen",
+            "folder": "inbox",
+            "read": true,
+            "attachments": [],
+            "tag": "insight"
+        },
+        {
+            "type": "email",
+            "id": "email_002",
+            "subject": "Re: Ethical Governance System Review",
+            "from": "andrew.park@leesmarket.com",
+            "from_name": "Andrew Park",
+            "to": [
+                "john.chen@leesmarket.com"
+            ],
+            "cc": [
+                "susan.lee@leesmarket.com",
+                "linda.garcia@leesmarket.com",
+                "david.johnson@leesmarket.com",
+                "michael.miller@leesmarket.com",
+                "mary.williams@leesmarket.com"
+            ],
+            "date": "2025-01-05 10:15:00",
+            "body": "John,\n\nThank you for the update. I agree, this new EGS should help us significantly in reducing any potential reputational risks and further establish us as a trusted and ethical brand. Our communications team will ensure that the findings from these reviews are conveyed effectively to our stakeholders via our blog and direct emails.\n\nRegards,\nAndrew Park",
+            "folder": "inbox",
+            "read": true,
+            "attachments": [],
+            "tag": "insight"
+        },
+        {
+            "type": "email",
+            "id": "email_003",
+            "subject": "Re: Ethical Governance System Review",
+            "from": "susan.lee@leesmarket.com",
+            "from_name": "Susan Lee",
+            "to": [
+                "john.chen@leesmarket.com",
+                "andrew.park@leesmarket.com"
+            ],
+            "cc": [
+                "linda.garcia@leesmarket.com",
+                "david.johnson@leesmarket.com",
+                "michael.miller@leesmarket.com",
+                "mary.williams@leesmarket.com"
+            ],
+            "date": "2025-01-05 11:05:00",
+            "body": "John and Andrew,\n\nI fully support this initiative. By implementing this EGS, we are making a strong statement about Lee's Market's commitment to ethical business practices. This is a great step towards enhancing our corporate image and reducing any reputational risks associated with corporate social responsibility communication.\n\nBest,\nSusan Lee",
+            "folder": "inbox",
+            "read": true,
+            "attachments": [],
+            "tag": "insight"
+        }
+    ],
+    "file_format": "jsonl",
+    "file_path": ".llm_responses/generated_email_document.jsonl",
+    "qa_type": "insight",
+    "timestamp": "2025-11-19 22:51",
+    "app": "email"
+}

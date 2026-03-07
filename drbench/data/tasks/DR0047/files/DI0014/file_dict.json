@@ -1,0 +1,81 @@
+{
+    "file_name": "january-2025-app-update",
+    "file_title": "Virtual Health App: January 2025 Update",
+    "introduction": "This presentation provides an overview of the recent updates to our virtual health app in January 2025. We will focus on the added features and their potential impact on user experience.",
+    "subsections": [
+        {
+            "heading": "Overview of App Updates in Q1 2025",
+            "content": "\u2022 Introduced a new user interface improving overall user experience\n\u2022 Launched a new partnership with a leading EHR provider for better integration\n\u2022 Deployed robust data encryption mechanisms to enhance security\n\u2022 Implemented AI algorithms to better predict patient health trends\n\u2022 Added support for French and Spanish languages to cater to a wider audience\n\u2022 Instituted a new feedback system to improve customer service",
+            "type": "distractor",
+            "justification": "While related to app updates, this content doesn't reveal how many features were added in January 2025."
+        },
+        {
+            "heading": "Detailed Breakdown: January 2025 Feature Additions",
+            "content": "\u2022 New feature enabling patients to directly message their healthcare provider\n\u2022 Addition of a feature allowing users to book appointments more conveniently\n\u2022 Implemented an upgraded symptom checker based on AI technology\n\u2022 Launched an improved medication tracker for better adherence\n\u2022 Initiated a new feature for personalized health tips based on user data",
+            "type": "distractor",
+            "justification": "It describes the features added, but not their quantity, which is the DR Question."
+        },
+        {
+            "heading": "Potential Impact on User Engagement and Feedback",
+            "content": "\u2022 Expected increase in app usage due to improved UI/UX\n\u2022 Anticipated positive feedback from the integration with EHR provider\n\u2022 Strengthened trust from users due to enhanced data security\n\u2022 Predicted higher user engagement due to AI-driven personalized insights\n\u2022 Likely improvement in customer satisfaction due to new feedback system",
+            "type": "distractor",
+            "justification": "This content discusses potential user engagement and feedback, not the number of features added in January 2025."
+        }
+    ],
+    "conclusion": "The newly added features in January 2025 have the potential to enhance user engagement and satisfaction. We need to closely monitor user feedback and engagement metrics to measure the impact of these updates.",
+    "file_format": "pptx",
+    "file_path": ".llm_responses/generated_pptx_presentation.pptx",
+    "qa_type": "distractor",
+    "timestamp": "2025-12-02 15:33",
+    "image_queries": [
+        {
+            "slide_title": "Introduction",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "intentionally_clean",
+            "slide_type": "introduction"
+        },
+        {
+            "slide_title": "Overview of App Updates in Q1 2025",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 6,
+            "total_chars": 404,
+            "probability": 0.25,
+            "theme": "Forest Theme"
+        },
+        {
+            "slide_title": "Detailed Breakdown: January 2025 Feature Additions",
+            "has_image": true,
+            "image_query": "healthcare communication technology",
+            "generation_method": "strategic_placement",
+            "slide_type": "distractor",
+            "content_length": 5,
+            "total_chars": 343,
+            "forced": false,
+            "theme": "Forest Theme"
+        },
+        {
+            "slide_title": "Potential Impact on User Engagement and Feedback",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 5,
+            "total_chars": 320,
+            "probability": 0.45,
+            "theme": "Forest Theme"
+        },
+        {
+            "slide_title": "Conclusion",
+            "has_image": true,
+            "image_query": "business team collaboration strategies",
+            "generation_method": "strategic_conclusion",
+            "slide_type": "conclusion",
+            "theme": "Forest Theme"
+        }
+    ],
+    "app": "file_system"
+}

@@ -1,0 +1,13 @@
+Quarter,Year,Most_Frequent_Inquiry,Inquiry_Percentage,Desired_Decrease_Percentage
+The specific quarter in the year the data was collected,The specific year the data was collected,The most frequent reason patients contacted the MediConn Solutions' customer service department after their virtual visits,The percentage of inquiries that were related to the most frequent inquiry,The desired decrease in percentage of the most frequent inquiry in the following year
+Q2,2025,Appointment Scheduling,32,20
+Q1,2024,Appointment Scheduling,30,20
+Q3,2026,Insurance Coverage,25,15
+Q2,2026,Appointment Scheduling,30,20
+Q1,2025,Billing Confusion,21,0
+Q4,2025,Technical Issues,19,10
+Q3,2024,Billing Confusion,42,50
+Q4,2024,Technical Issues,20,15
+Q3,2025,Insurance Coverage,28,15
+Q1,2026,Billing Confusion,20,10
+Q2,2024,Insurance Coverage,35,30

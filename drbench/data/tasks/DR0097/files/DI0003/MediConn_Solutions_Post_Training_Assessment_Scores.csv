@@ -1,0 +1,11 @@
+Year,Company_Name,Department,Role,Average_Score
+The year in which the training took place.,The name of the company who conducted the training.,The department of the company for which the training was conducted.,The role for which the training was conducted.,The average score of the post-training assessment.
+2021,MediConn,Corporate Sales,Middle Management,78%
+2022,MediConn,Clinical Workflow,New Hires,80%
+2023,MediConn,IT Department,New Hires,85%
+2025,MediConn,Corporate Sales,New Hires,87%
+2025,MediConn,Corporate Sales,Middle Management,84%
+2025,MediConn,Clinical Workflow,New Hires,77%
+2025,MediConn,IT Department,Senior Staff,75%
+2024,MediConn,IT Department,Middle Management,80%
+2020,MediConn,Corporate Sales,Senior Staff,72%

@@ -1,0 +1,281 @@
+{
+    "file_name": "mattermost_chat_20251124_145939",
+    "content": "{\"type\": \"version\", \"version\": 1}\n{\"type\": \"team\", \"team\": {\"name\": \"marketing\", \"display_name\": \"Marketing Team\", \"type\": \"O\", \"header\": \"Marketing Team for Lee's Market\", \"purpose\": \"Discuss market trends, customer behavior, and competitor activity\"}}\n{\"type\": \"team\", \"team\": {\"name\": \"sales\", \"display_name\": \"Sales Team\", \"type\": \"O\", \"header\": \"Sales Team for Lee's Market\", \"purpose\": \"Discuss sales performance and strategies\"}}\n{\"type\": \"channel\", \"channel\": {\"team\": \"marketing\", \"name\": \"market_research\", \"display_name\": \"Market Research\", \"type\": \"O\", \"header\": \"Discussion and analysis of market trends\", \"purpose\": \"To share and analyze data on market trends\"}}\n{\"type\": \"channel\", \"channel\": {\"team\": \"sales\", \"name\": \"sales_performance\", \"display_name\": \"Sales Performance\", \"type\": \"O\", \"header\": \"Discussion and analysis of sales reports\", \"purpose\": \"To share and analyze data on sales performance\"}}\n{\"type\": \"user\", \"user\": {\"username\": \"sofia.patel\", \"email\": \"sofia.patel@leesmarket.com\", \"password\": \"sofia_market123\", \"nickname\": \"Sofia\", \"first_name\": \"Sofia\", \"last_name\": \"Patel\", \"position\": \"Market Research Analyst\", \"roles\": \"system_user\", \"locale\": \"en\", \"teams\": [{\"name\": \"marketing\", \"roles\": \"team_user\", \"channels\": [{\"name\": \"market_research\", \"roles\": \"channel_user\"}]}, {\"name\": \"sales\", \"roles\": \"team_user\", \"channels\": [{\"name\": \"sales_performance\", \"roles\": \"channel_user\"}]}]}}\n{\"type\": \"user\", \"user\": {\"username\": \"johnsmith\", \"email\": \"john.smith@leesmarket.com\", \"password\": \"john_market123\", \"nickname\": \"John\", \"first_name\": \"John\", \"last_name\": \"Smith\", \"position\": \"Sales Manager\", \"roles\": \"system_user\", \"locale\": \"en\", \"teams\": [{\"name\": \"sales\", \"roles\": \"team_user\", \"channels\": [{\"name\": \"sales_performance\", \"roles\": \"channel_user\"}]}]}}\n{\"type\": \"user\", \"user\": {\"username\": \"lucynguyen\", \"email\": \"lucy.nguyen@leesmarket.com\", \"password\": \"lucy_market123\", \"nickname\": \"Lucy\", \"first_name\": \"Lucy\", \"last_name\": \"Nguyen\", \"position\": \"Marketing Manager\", \"roles\": \"system_user\", \"locale\": \"en\", \"teams\": [{\"name\": \"marketing\", \"roles\": \"team_user\", \"channels\": [{\"name\": \"market_research\", \"roles\": \"channel_user\"}]}]}}\n{\"type\": \"post\", \"post\": {\"team\": \"marketing\", \"channel\": \"market_research\", \"user\": \"lucynguyen\", \"message\": \"Hey team, we have received some new customer feedback surveys. Let's analyze them to understand our customers better.\", \"created_at\": 1620500000000}}\n{\"type\": \"post\", \"post\": {\"team\": \"sales\", \"channel\": \"sales_performance\", \"user\": \"johnsmith\", \"message\": \"Good morning team, let's have our weekly sales meeting at 2 PM today. Please come prepared with your weekly sales numbers.\", \"created_at\": 1620501000000}}\n{\"type\": \"post\", \"post\": {\"team\": \"marketing\", \"channel\": \"market_research\", \"user\": \"sofia.patel\", \"message\": \"Lucy, I've reviewed the customer feedback surveys. It seems our customers are highly satisfied with our online shopping experience. We should continue to focus our efforts in this area.\", \"created_at\": 1620502000000}}\n{\"type\": \"post\", \"post\": {\"team\": \"sales\", \"channel\": \"sales_performance\", \"user\": \"johnsmith\", \"message\": \"Reminder team, we have a training session on the new CRM system next week. Please make sure to block your calendars.\", \"created_at\": 1620503000000}}\n{\"type\": \"post\", \"post\": {\"team\": \"marketing\", \"channel\": \"market_research\", \"user\": \"lucynguyen\", \"message\": \"Thanks Sofia! Let's use this insight to develop our marketing strategy for the next quarter.\", \"created_at\": 1620504000000}}\n{\"type\": \"post\", \"post\": {\"team\": \"sales\", \"channel\": \"sales_performance\", \"user\": \"sofia.patel\", \"message\": \"John, I'd appreciate a refresher on the CRM system. Looking forward to the training!\", \"created_at\": 1620505000000}}\n{\"type\": \"post\", \"post\": {\"team\": \"marketing\", \"channel\": \"market_research\", \"user\": \"lucynguyen\", \"message\": \"Team, there's an industry networking event next month. I think it would be beneficial for us to attend and learn about the latest market trends.\", \"created_at\": 1620506000000}}\n{\"type\": \"post\", \"post\": {\"team\": \"sales\", \"channel\": \"sales_performance\", \"user\": \"johnsmith\", \"message\": \"Hello team, I've just wrapped up the analysis of our 2024 sales reports. I can see some interesting trends emerging from our suburban stores, specifically in Surrey, British Columbia, and Bellevue. \", \"create_at\": 1620500000000}}\n{\"type\": \"post\", \"post\": {\"team\": \"sales\", \"channel\": \"sales_performance\", \"user\": \"johnsmith\", \"message\": \"Our premium bakery segment experienced a 12% sales increase compared to the previous year. The demand for our artisan breads and pastries has been growing consistently, which is encouraging.\", \"create_at\": 1620500000100}}\n{\"type\": \"post\", \"post\": {\"team\": \"sales\", \"channel\": \"sales_performance\", \"user\": \"johnsmith\", \"message\": \"Alongside bakery, our dairy segment has also shown promising growth. There's been a strong 9% increase in sales, particularly in our specialty cheese and yogurt lines.\", \"create_at\": 1620500000200}}\n{\"type\": \"post\", \"post\": {\"team\": \"sales\", \"channel\": \"sales_performance\", \"user\": \"johnsmith\", \"message\": \"These trends give us a good benchmark to gauge performance in our premium bakery and dairy segments. We should consider these factors while planning our future sales strategy.\", \"create_at\": 1620500000300}}\n{\"type\": \"post\", \"post\": {\"team\": \"sales\", \"channel\": \"sales_performance\", \"user\": \"sofia.patel\", \"message\": \"Thanks for sharing the insights, John. This will definitely help our market research. It's good to see the growth in these premium segments. We'll also look into other factors that might have contributed to this increase.\", \"create_at\": 1620500000400}}",
+    "chat_setup": {
+        "teams": [
+            {
+                "type": "team",
+                "team": {
+                    "name": "marketing",
+                    "display_name": "Marketing Team",
+                    "type": "O",
+                    "header": "Marketing Team for Lee's Market",
+                    "purpose": "Discuss market trends, customer behavior, and competitor activity"
+                }
+            },
+            {
+                "type": "team",
+                "team": {
+                    "name": "sales",
+                    "display_name": "Sales Team",
+                    "type": "O",
+                    "header": "Sales Team for Lee's Market",
+                    "purpose": "Discuss sales performance and strategies"
+                }
+            }
+        ],
+        "channels": [
+            {
+                "type": "channel",
+                "channel": {
+                    "team": "marketing",
+                    "name": "market_research",
+                    "display_name": "Market Research",
+                    "type": "O",
+                    "header": "Discussion and analysis of market trends",
+                    "purpose": "To share and analyze data on market trends"
+                }
+            },
+            {
+                "type": "channel",
+                "channel": {
+                    "team": "sales",
+                    "name": "sales_performance",
+                    "display_name": "Sales Performance",
+                    "type": "O",
+                    "header": "Discussion and analysis of sales reports",
+                    "purpose": "To share and analyze data on sales performance"
+                }
+            }
+        ],
+        "users": [
+            {
+                "type": "user",
+                "user": {
+                    "username": "sofia.patel",
+                    "email": "sofia.patel@leesmarket.com",
+                    "password": "sofia_market123",
+                    "nickname": "Sofia",
+                    "first_name": "Sofia",
+                    "last_name": "Patel",
+                    "position": "Market Research Analyst",
+                    "roles": "system_user",
+                    "locale": "en",
+                    "teams": [
+                        {
+                            "name": "marketing",
+                            "roles": "team_user",
+                            "channels": [
+                                {
+                                    "name": "market_research",
+                                    "roles": "channel_user"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "sales",
+                            "roles": "team_user",
+                            "channels": [
+                                {
+                                    "name": "sales_performance",
+                                    "roles": "channel_user"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "type": "user",
+                "user": {
+                    "username": "johnsmith",
+                    "email": "john.smith@leesmarket.com",
+                    "password": "john_market123",
+                    "nickname": "John",
+                    "first_name": "John",
+                    "last_name": "Smith",
+                    "position": "Sales Manager",
+                    "roles": "system_user",
+                    "locale": "en",
+                    "teams": [
+                        {
+                            "name": "sales",
+                            "roles": "team_user",
+                            "channels": [
+                                {
+                                    "name": "sales_performance",
+                                    "roles": "channel_user"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "type": "user",
+                "user": {
+                    "username": "lucynguyen",
+                    "email": "lucy.nguyen@leesmarket.com",
+                    "password": "lucy_market123",
+                    "nickname": "Lucy",
+                    "first_name": "Lucy",
+                    "last_name": "Nguyen",
+                    "position": "Marketing Manager",
+                    "roles": "system_user",
+                    "locale": "en",
+                    "teams": [
+                        {
+                            "name": "marketing",
+                            "roles": "team_user",
+                            "channels": [
+                                {
+                                    "name": "market_research",
+                                    "roles": "channel_user"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    "chat_messages": [
+        {
+            "type": "post",
+            "post": {
+                "team": "sales",
+                "channel": "sales_performance",
+                "user": "johnsmith",
+                "message": "Hello team, I've just wrapped up the analysis of our 2024 sales reports. I can see some interesting trends emerging from our suburban stores, specifically in Surrey, British Columbia, and Bellevue. ",
+                "create_at": 1620500000000
+            },
+            "tag": "insight"
+        },
+        {
+            "type": "post",
+            "post": {
+                "team": "sales",
+                "channel": "sales_performance",
+                "user": "johnsmith",
+                "message": "Our premium bakery segment experienced a 12% sales increase compared to the previous year. The demand for our artisan breads and pastries has been growing consistently, which is encouraging.",
+                "create_at": 1620500000100
+            },
+            "tag": "insight"
+        },
+        {
+            "type": "post",
+            "post": {
+                "team": "sales",
+                "channel": "sales_performance",
+                "user": "johnsmith",
+                "message": "Alongside bakery, our dairy segment has also shown promising growth. There's been a strong 9% increase in sales, particularly in our specialty cheese and yogurt lines.",
+                "create_at": 1620500000200
+            },
+            "tag": "insight"
+        },
+        {
+            "type": "post",
+            "post": {
+                "team": "sales",
+                "channel": "sales_performance",
+                "user": "johnsmith",
+                "message": "These trends give us a good benchmark to gauge performance in our premium bakery and dairy segments. We should consider these factors while planning our future sales strategy.",
+                "create_at": 1620500000300
+            },
+            "tag": "insight"
+        },
+        {
+            "type": "post",
+            "post": {
+                "team": "sales",
+                "channel": "sales_performance",
+                "user": "sofia.patel",
+                "message": "Thanks for sharing the insights, John. This will definitely help our market research. It's good to see the growth in these premium segments. We'll also look into other factors that might have contributed to this increase.",
+                "create_at": 1620500000400
+            },
+            "tag": "insight"
+        },
+        {
+            "type": "post",
+            "post": {
+                "team": "marketing",
+                "channel": "market_research",
+                "user": "lucynguyen",
+                "message": "Hey team, we have received some new customer feedback surveys. Let's analyze them to understand our customers better.",
+                "created_at": 1620500000000
+            },
+            "tag": "distractor"
+        },
+        {
+            "type": "post",
+            "post": {
+                "team": "sales",
+                "channel": "sales_performance",
+                "user": "johnsmith",
+                "message": "Good morning team, let's have our weekly sales meeting at 2 PM today. Please come prepared with your weekly sales numbers.",
+                "created_at": 1620501000000
+            },
+            "tag": "distractor"
+        },
+        {
+            "type": "post",
+            "post": {
+                "team": "marketing",
+                "channel": "market_research",
+                "user": "sofia.patel",
+                "message": "Lucy, I've reviewed the customer feedback surveys. It seems our customers are highly satisfied with our online shopping experience. We should continue to focus our efforts in this area.",
+                "created_at": 1620502000000
+            },
+            "tag": "distractor"
+        },
+        {
+            "type": "post",
+            "post": {
+                "team": "sales",
+                "channel": "sales_performance",
+                "user": "johnsmith",
+                "message": "Reminder team, we have a training session on the new CRM system next week. Please make sure to block your calendars.",
+                "created_at": 1620503000000
+            },
+            "tag": "distractor"
+        },
+        {
+            "type": "post",
+            "post": {
+                "team": "marketing",
+                "channel": "market_research",
+                "user": "lucynguyen",
+                "message": "Thanks Sofia! Let's use this insight to develop our marketing strategy for the next quarter.",
+                "created_at": 1620504000000
+            },
+            "tag": "distractor"
+        },
+        {
+            "type": "post",
+            "post": {
+                "team": "sales",
+                "channel": "sales_performance",
+                "user": "sofia.patel",
+                "message": "John, I'd appreciate a refresher on the CRM system. Looking forward to the training!",
+                "created_at": 1620505000000
+            },
+            "tag": "distractor"
+        },
+        {
+            "type": "post",
+            "post": {
+                "team": "marketing",
+                "channel": "market_research",
+                "user": "lucynguyen",
+                "message": "Team, there's an industry networking event next month. I think it would be beneficial for us to attend and learn about the latest market trends.",
+                "created_at": 1620506000000
+            },
+            "tag": "distractor"
+        }
+    ],
+    "file_format": "jsonl",
+    "file_path": ".llm_responses/generated_chat_document.jsonl",
+    "qa_type": "distractor",
+    "timestamp": "2025-11-24 15:59",
+    "app": "mattermost"
+}

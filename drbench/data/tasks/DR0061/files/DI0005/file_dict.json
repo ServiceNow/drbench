@@ -1,0 +1,81 @@
+{
+    "file_name": "insurance-partnership-impact",
+    "file_title": "Insurance Partnership Impact on Customer Experience",
+    "introduction": "This presentation aims to discuss the implications of our new insurance partnership secured by Emily Lee on our customers' experience. We will explore how this initiative aligns with Elexion's commitment to sustainability and customer-centricity.",
+    "subsections": [
+        {
+            "heading": "Overview of Elexion's Customer-Centric Approach",
+            "content": "\u2022 Elexion Automotive established a dedicated customer experience team in 2022\n\u2022 Since 2023, we've implemented comprehensive customer feedback loops\n\u2022 Our customer retention rate has improved by 12% over the past two years\n\u2022 We focus on building long-term relationships through after-sales service\n\u2022 Our user interface and experience team continuously improve vehicle technology based on user feedback\n\u2022 We prioritize customer needs in our product development process\n\u2022 In 2023, we launched a customer loyalty program that rewards repeat customers",
+            "type": "distractor",
+            "justification": "This content provides general information about Elexion's customer-centric approach but doesn't mention insurance partnerships or Emily Lee."
+        },
+        {
+            "heading": "Insurance Partnership: Key Features and Benefits",
+            "content": "\u2022 Our insurance partnerships provide a streamlined process for securing coverage\n\u2022 Customers can easily compare insurance options through our digital platform\n\u2022 The insurance packages cover a wide range of potential risks and scenarios\n\u2022 Customers can customize their insurance coverage to match their needs\n\u2022 We provide a dedicated support team to assist customers with insurance-related inquiries\n\u2022 Our partnerships with multiple providers ensure competitive rates",
+            "type": "distractor",
+            "justification": "This slide details the features and benefits of the insurance partnership, but doesn't mention Emily Lee or the specific benefits she secured."
+        },
+        {
+            "heading": "Impact of Insurance Partnership on Customer Satisfaction",
+            "content": "\u2022 Since the introduction of the insurance partnership, customer satisfaction scores have improved by 8%\n\u2022 We've seen a 10% decrease in post-purchase support tickets related to insurance\n\u2022 Customer feedback indicates appreciation for the convenience and savings the insurance partnerships offer\n\u2022 We've noticed an increase in repeat customers since the introduction of the insurance partnerships\n\u2022 Our Net Promoter Score (NPS) has seen a positive uptick in the months following the introduction of the insurance partnership",
+            "type": "distractor",
+            "justification": "This slide discusses the impact of the insurance partnership on customer satisfaction, but does not mention Emily Lee or the specific benefits she secured."
+        }
+    ],
+    "conclusion": "Our strategic insurance partnership not only enhances our customers' overall experience with Elexion Automotive but also reaffirms our commitment to sustainability. Moving forward, we must leverage this partnership to boost our market position and drive growth.",
+    "file_format": "pptx",
+    "file_path": ".llm_responses/generated_pptx_presentation.pptx",
+    "qa_type": "distractor",
+    "timestamp": "2025-12-02 17:41",
+    "image_queries": [
+        {
+            "slide_title": "Introduction",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "intentionally_clean",
+            "slide_type": "introduction"
+        },
+        {
+            "slide_title": "Overview of Elexion's Customer-Centric Approach",
+            "has_image": true,
+            "image_query": "customer experience team meeting",
+            "generation_method": "strategic_placement",
+            "slide_type": "distractor",
+            "content_length": 7,
+            "total_chars": 526,
+            "forced": false,
+            "theme": "Bold Crimson"
+        },
+        {
+            "slide_title": "Insurance Partnership: Key Features and Benefits",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 6,
+            "total_chars": 449,
+            "probability": 0.25,
+            "theme": "Bold Crimson"
+        },
+        {
+            "slide_title": "Impact of Insurance Partnership on Customer Satisfaction",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 5,
+            "total_chars": 508,
+            "probability": 0.25,
+            "theme": "Bold Crimson"
+        },
+        {
+            "slide_title": "Conclusion",
+            "has_image": true,
+            "image_query": "business partnership handshake",
+            "generation_method": "strategic_conclusion",
+            "slide_type": "conclusion",
+            "theme": "Bold Crimson"
+        }
+    ],
+    "app": "file_system"
+}

@@ -1,0 +1,11 @@
+date,company,staff_turnover_effect,temp_worker_ratio,service_errors
+The month and year when the observation about staff turnover and quality of customer service was made.,The name of the company for which the observation was made.,A description of how high staff turnover affected the quality of customer service.,The ratio of temporary workers to regular staff during the month when the observation was made.,The number of service errors recorded in the month when the observation was made.
+2024-07,Lee's Market,"Turnover resulted in less experienced staff, but not more errors.",0.3,50
+2024-08,Lee's Market,High turnover led to inconsistencies in service delivery.,0.5,90
+2025-01,Lee's Market,High turnover led to inconsistency in service quality.,0.4,80
+2024-12,Lee's Market,High turnover resulted in decreased service speed.,0.5,100
+2025-03,Lee's Market,"Constant hiring of temporary workers resulted in more staff lacking customer service experience, causing more service errors.",0.75,150
+2024-11,Lee's Market,Turnover did not significantly impact service quality.,0.3,50
+2024-09,Lee's Market,"Turnover led to increased training costs, but not service errors.",0.2,40
+2025-02,Lee's Market,Increased training for temporary workers improved service quality.,0.6,60
+2024-10,Lee's Market,High turnover led to decreased staff knowledge.,0.4,80

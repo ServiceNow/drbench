@@ -1,0 +1,234 @@
+{
+    "file_name": "roundcube_email_20251120_015536",
+    "content": "{\"type\": \"user\", \"username\": \"ethan.thompson\", \"first_name\": \"Ethan\", \"last_name\": \"Thompson\", \"email\": \"ethan.thompson@elexionauto.com\", \"password\": \"secure_password_123\"}\n{\"type\": \"user\", \"username\": \"sarah.jenkins\", \"first_name\": \"Sarah\", \"last_name\": \"Jenkins\", \"email\": \"sarah.jenkins@elexionauto.com\", \"password\": \"my_awesome_pwd\"}\n{\"type\": \"user\", \"username\": \"michael.sanchez\", \"first_name\": \"Michael\", \"last_name\": \"Sanchez\", \"email\": \"michael.sanchez@elexionauto.com\", \"password\": \"sanchez_pwd_007\"}\n{\"type\": \"user\", \"username\": \"linda.jones\", \"first_name\": \"Linda\", \"last_name\": \"Jones\", \"email\": \"linda.jones@elexionauto.com\", \"password\": \"linda_pwd_987\"}\n{\"type\": \"user\", \"username\": \"peter.williams\", \"first_name\": \"Peter\", \"last_name\": \"Williams\", \"email\": \"peter.williams@elexionauto.com\", \"password\": \"peter_pwd_456\"}\n{\"type\": \"user\", \"username\": \"karen.miller\", \"first_name\": \"Karen\", \"last_name\": \"Miller\", \"email\": \"karen.miller@elexionauto.com\", \"password\": \"karen_pwd_789\"}\n{\"type\": \"user\", \"username\": \"john.doe\", \"first_name\": \"John\", \"last_name\": \"Doe\", \"email\": \"john.doe@elexionauto.com\", \"password\": \"john_pwd_321\"}\n{\"type\": \"user\", \"username\": \"jane.doe\", \"first_name\": \"Jane\", \"last_name\": \"Doe\", \"email\": \"jane.doe@elexionauto.com\", \"password\": \"jane_pwd_654\"}\n{\"type\": \"email\", \"id\": \"email_001\", \"subject\": \"Monthly IT Department Meeting\", \"from\": \"ethan.thompson@elexionauto.com\", \"from_name\": \"Ethan Thompson\", \"to\": [\"sarah.jenkins@elexionauto.com\", \"michael.sanchez@elexionauto.com\"], \"cc\": [], \"date\": \"2025-12-01 10:00:00\", \"body\": \"Team, our monthly department meeting will take place this Friday at 2pm. Please prepare your updates ahead of time. If there are any specific topics you'd like to discuss, let me know. Thanks, Ethan\", \"folder\": \"inbox\", \"read\": true, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_002\", \"subject\": \"New Employee Onboarding\", \"from\": \"sarah.jenkins@elexionauto.com\", \"from_name\": \"Sarah Jenkins\", \"to\": [\"ethan.thompson@elexionauto.com\"], \"cc\": [\"linda.jones@elexionauto.com\"], \"date\": \"2025-12-02 13:30:00\", \"body\": \"Hi Ethan, we have a new hire starting next week in the IT department. Can you prepare an onboarding plan covering our systems and protocols? Thanks, Sarah\", \"folder\": \"inbox\", \"read\": false, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_003\", \"subject\": \"Budgeting for Q1 2026\", \"from\": \"michael.sanchez@elexionauto.com\", \"from_name\": \"Michael Sanchez\", \"to\": [\"ethan.thompson@elexionauto.com\"], \"cc\": [\"peter.williams@elexionauto.com\", \"karen.miller@elexionauto.com\"], \"date\": \"2025-12-07 15:45:00\", \"body\": \"Ethan, could you provide an estimate of the IT department's budget needs for Q1 2026? We're planning for the upcoming fiscal year. Thanks, Michael\", \"folder\": \"inbox\", \"read\": false, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_004\", \"subject\": \"IT Support Request\", \"from\": \"john.doe@elexionauto.com\", \"from_name\": \"John Doe\", \"to\": [\"ethan.thompson@elexionauto.com\"], \"cc\": [], \"date\": \"2025-12-08 11:30:00\", \"body\": \"Ethan, I'm having trouble with my email account. Can you or someone from your team assist me? Regards, John\", \"folder\": \"inbox\", \"read\": false, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_005\", \"subject\": \"Holiday Schedule Reminder\", \"from\": \"linda.jones@elexionauto.com\", \"from_name\": \"Linda Jones\", \"to\": [\"ethan.thompson@elexionauto.com\", \"sarah.jenkins@elexionauto.com\", \"michael.sanchez@elexionauto.com\", \"peter.williams@elexionauto.com\", \"karen.miller@elexionauto.com\", \"john.doe@elexionauto.com\", \"jane.doe@elexionauto.com\"], \"cc\": [], \"date\": \"2025-12-10 09:00:00\", \"body\": \"Team, just a reminder that our offices will be closed for the holidays from December 24th to January 2nd. Please plan your work accordingly. Happy holidays, Linda\", \"folder\": \"inbox\", \"read\": true, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_001\", \"subject\": \"Cybersecurity Status Report - 2025\", \"from\": \"ethan.thompson@elexionauto.com\", \"from_name\": \"Ethan Thompson\", \"to\": [\"sarah.jenkins@elexionauto.com\"], \"cc\": [\"michael.sanchez@elexionauto.com\", \"linda.jones@elexionauto.com\"], \"date\": \"2025-12-31 14:00:00\", \"body\": \"Hi Sarah,\\n\\nAs we wrap up the year, I wanted to share some key findings from our cybersecurity monitoring in 2025. We identified a rise in cyber threats this year, particularly in the form of email phishing attacks. Approximately 21% of all threats detected were email phishing attempts targeting our employees, a significant portion of our cyber threat landscape.\\n\\nWe are working on initiatives to further strengthen our defenses and train our staff to recognize and avoid such attempts. Your support in disseminating this information and encouraging adherence to cybersecurity best practices will be invaluable.\\n\\nBest,\\nEthan\", \"folder\": \"sent\", \"read\": true, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_002\", \"subject\": \"Re: Cybersecurity Status Report - 2025\", \"from\": \"sarah.jenkins@elexionauto.com\", \"from_name\": \"Sarah Jenkins\", \"to\": [\"ethan.thompson@elexionauto.com\"], \"cc\": [\"michael.sanchez@elexionauto.com\", \"linda.jones@elexionauto.com\"], \"date\": \"2026-01-01 09:30:00\", \"body\": \"Hello Ethan,\\n\\nThank you for the update. That's an alarming percentage of phishing attacks. I'll ensure this information is shared across the management team and we prioritize our employee training to prevent such occurrences. \\n\\nLet's start 2026 with a reinforced focus on cybersecurity. I look forward to your recommendations on improving our defenses.\\n\\nBest,\\nSarah\", \"folder\": \"inbox\", \"read\": true, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_003\", \"subject\": \"Re: Cybersecurity Status Report - 2025\", \"from\": \"michael.sanchez@elexionauto.com\", \"from_name\": \"Michael Sanchez\", \"to\": [\"ethan.thompson@elexionauto.com\"], \"cc\": [\"sarah.jenkins@elexionauto.com\", \"linda.jones@elexionauto.com\"], \"date\": \"2026-01-01 10:15:00\", \"body\": \"Hi Ethan,\\n\\nI echo Sarah's concerns. We should indeed double down on our cybersecurity efforts in response to these threats. I'll coordinate with you to ensure our technical teams are well equipped to handle these situations.\\n\\nCheers,\\nMichael\", \"folder\": \"inbox\", \"read\": true, \"attachments\": []}",
+    "email_setup": [
+        {
+            "type": "user",
+            "username": "ethan.thompson",
+            "first_name": "Ethan",
+            "last_name": "Thompson",
+            "email": "ethan.thompson@elexionauto.com",
+            "password": "secure_password_123"
+        },
+        {
+            "type": "user",
+            "username": "sarah.jenkins",
+            "first_name": "Sarah",
+            "last_name": "Jenkins",
+            "email": "sarah.jenkins@elexionauto.com",
+            "password": "my_awesome_pwd"
+        },
+        {
+            "type": "user",
+            "username": "michael.sanchez",
+            "first_name": "Michael",
+            "last_name": "Sanchez",
+            "email": "michael.sanchez@elexionauto.com",
+            "password": "sanchez_pwd_007"
+        },
+        {
+            "type": "user",
+            "username": "linda.jones",
+            "first_name": "Linda",
+            "last_name": "Jones",
+            "email": "linda.jones@elexionauto.com",
+            "password": "linda_pwd_987"
+        },
+        {
+            "type": "user",
+            "username": "peter.williams",
+            "first_name": "Peter",
+            "last_name": "Williams",
+            "email": "peter.williams@elexionauto.com",
+            "password": "peter_pwd_456"
+        },
+        {
+            "type": "user",
+            "username": "karen.miller",
+            "first_name": "Karen",
+            "last_name": "Miller",
+            "email": "karen.miller@elexionauto.com",
+            "password": "karen_pwd_789"
+        },
+        {
+            "type": "user",
+            "username": "john.doe",
+            "first_name": "John",
+            "last_name": "Doe",
+            "email": "john.doe@elexionauto.com",
+            "password": "john_pwd_321"
+        },
+        {
+            "type": "user",
+            "username": "jane.doe",
+            "first_name": "Jane",
+            "last_name": "Doe",
+            "email": "jane.doe@elexionauto.com",
+            "password": "jane_pwd_654"
+        }
+    ],
+    "email_messages": [
+        {
+            "type": "email",
+            "id": "email_001",
+            "subject": "Monthly IT Department Meeting",
+            "from": "ethan.thompson@elexionauto.com",
+            "from_name": "Ethan Thompson",
+            "to": [
+                "sarah.jenkins@elexionauto.com",
+                "michael.sanchez@elexionauto.com"
+            ],
+            "cc": [],
+            "date": "2025-12-01 10:00:00",
+            "body": "Team, our monthly department meeting will take place this Friday at 2pm. Please prepare your updates ahead of time. If there are any specific topics you'd like to discuss, let me know. Thanks, Ethan",
+            "folder": "inbox",
+            "read": true,
+            "attachments": [],
+            "tag": "distractor"
+        },
+        {
+            "type": "email",
+            "id": "email_002",
+            "subject": "New Employee Onboarding",
+            "from": "sarah.jenkins@elexionauto.com",
+            "from_name": "Sarah Jenkins",
+            "to": [
+                "ethan.thompson@elexionauto.com"
+            ],
+            "cc": [
+                "linda.jones@elexionauto.com"
+            ],
+            "date": "2025-12-02 13:30:00",
+            "body": "Hi Ethan, we have a new hire starting next week in the IT department. Can you prepare an onboarding plan covering our systems and protocols? Thanks, Sarah",
+            "folder": "inbox",
+            "read": false,
+            "attachments": [],
+            "tag": "distractor"
+        },
+        {
+            "type": "email",
+            "id": "email_003",
+            "subject": "Budgeting for Q1 2026",
+            "from": "michael.sanchez@elexionauto.com",
+            "from_name": "Michael Sanchez",
+            "to": [
+                "ethan.thompson@elexionauto.com"
+            ],
+            "cc": [
+                "peter.williams@elexionauto.com",
+                "karen.miller@elexionauto.com"
+            ],
+            "date": "2025-12-07 15:45:00",
+            "body": "Ethan, could you provide an estimate of the IT department's budget needs for Q1 2026? We're planning for the upcoming fiscal year. Thanks, Michael",
+            "folder": "inbox",
+            "read": false,
+            "attachments": [],
+            "tag": "distractor"
+        },
+        {
+            "type": "email",
+            "id": "email_004",
+            "subject": "IT Support Request",
+            "from": "john.doe@elexionauto.com",
+            "from_name": "John Doe",
+            "to": [
+                "ethan.thompson@elexionauto.com"
+            ],
+            "cc": [],
+            "date": "2025-12-08 11:30:00",
+            "body": "Ethan, I'm having trouble with my email account. Can you or someone from your team assist me? Regards, John",
+            "folder": "inbox",
+            "read": false,
+            "attachments": [],
+            "tag": "distractor"
+        },
+        {
+            "type": "email",
+            "id": "email_005",
+            "subject": "Holiday Schedule Reminder",
+            "from": "linda.jones@elexionauto.com",
+            "from_name": "Linda Jones",
+            "to": [
+                "ethan.thompson@elexionauto.com",
+                "sarah.jenkins@elexionauto.com",
+                "michael.sanchez@elexionauto.com",
+                "peter.williams@elexionauto.com",
+                "karen.miller@elexionauto.com",
+                "john.doe@elexionauto.com",
+                "jane.doe@elexionauto.com"
+            ],
+            "cc": [],
+            "date": "2025-12-10 09:00:00",
+            "body": "Team, just a reminder that our offices will be closed for the holidays from December 24th to January 2nd. Please plan your work accordingly. Happy holidays, Linda",
+            "folder": "inbox",
+            "read": true,
+            "attachments": [],
+            "tag": "distractor"
+        },
+        {
+            "type": "email",
+            "id": "email_001",
+            "subject": "Cybersecurity Status Report - 2025",
+            "from": "ethan.thompson@elexionauto.com",
+            "from_name": "Ethan Thompson",
+            "to": [
+                "sarah.jenkins@elexionauto.com"
+            ],
+            "cc": [
+                "michael.sanchez@elexionauto.com",
+                "linda.jones@elexionauto.com"
+            ],
+            "date": "2025-12-31 14:00:00",
+            "body": "Hi Sarah,\n\nAs we wrap up the year, I wanted to share some key findings from our cybersecurity monitoring in 2025. We identified a rise in cyber threats this year, particularly in the form of email phishing attacks. Approximately 21% of all threats detected were email phishing attempts targeting our employees, a significant portion of our cyber threat landscape.\n\nWe are working on initiatives to further strengthen our defenses and train our staff to recognize and avoid such attempts. Your support in disseminating this information and encouraging adherence to cybersecurity best practices will be invaluable.\n\nBest,\nEthan",
+            "folder": "sent",
+            "read": true,
+            "attachments": [],
+            "tag": "insight"
+        },
+        {
+            "type": "email",
+            "id": "email_002",
+            "subject": "Re: Cybersecurity Status Report - 2025",
+            "from": "sarah.jenkins@elexionauto.com",
+            "from_name": "Sarah Jenkins",
+            "to": [
+                "ethan.thompson@elexionauto.com"
+            ],
+            "cc": [
+                "michael.sanchez@elexionauto.com",
+                "linda.jones@elexionauto.com"
+            ],
+            "date": "2026-01-01 09:30:00",
+            "body": "Hello Ethan,\n\nThank you for the update. That's an alarming percentage of phishing attacks. I'll ensure this information is shared across the management team and we prioritize our employee training to prevent such occurrences. \n\nLet's start 2026 with a reinforced focus on cybersecurity. I look forward to your recommendations on improving our defenses.\n\nBest,\nSarah",
+            "folder": "inbox",
+            "read": true,
+            "attachments": [],
+            "tag": "insight"
+        },
+        {
+            "type": "email",
+            "id": "email_003",
+            "subject": "Re: Cybersecurity Status Report - 2025",
+            "from": "michael.sanchez@elexionauto.com",
+            "from_name": "Michael Sanchez",
+            "to": [
+                "ethan.thompson@elexionauto.com"
+            ],
+            "cc": [
+                "sarah.jenkins@elexionauto.com",
+                "linda.jones@elexionauto.com"
+            ],
+            "date": "2026-01-01 10:15:00",
+            "body": "Hi Ethan,\n\nI echo Sarah's concerns. We should indeed double down on our cybersecurity efforts in response to these threats. I'll coordinate with you to ensure our technical teams are well equipped to handle these situations.\n\nCheers,\nMichael",
+            "folder": "inbox",
+            "read": true,
+            "attachments": [],
+            "tag": "insight"
+        }
+    ],
+    "file_format": "jsonl",
+    "file_path": ".llm_responses/generated_email_document.jsonl",
+    "qa_type": "distractor",
+    "timestamp": "2025-11-20 02:55",
+    "app": "email"
+}

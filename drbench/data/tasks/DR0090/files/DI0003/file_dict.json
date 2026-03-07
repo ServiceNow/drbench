@@ -1,0 +1,82 @@
+{
+    "file_name": "office-supplies-budget-2024",
+    "file_title": "2024 Office Supplies Budget Overview",
+    "introduction": "This presentation will provide an overview of Lee's Market's budget allocation for office supplies in the year 2024. We will also discuss related budgetary implications and strategic planning.",
+    "subsections": [
+        {
+            "heading": "Analysis of Past Budget Trends",
+            "content": "\u2022 Review of budget allocation for marketing department in 2022\n\u2022 Increase in capital expenditure budget in 2023\n\u2022 Analysis of changes in labor budget from 2019 to 2023\n\u2022 Study of budget trends for the IT department for the past five years\n\u2022 Year-on-year comparison of the R&D budget allocation\n\u2022 Examination of trends in the budget allocation for store maintenance and renovations",
+            "type": "distractor",
+            "justification": "The content focuses on historical budget trends of other departments, not office supplies. This strategy uses historical data and different department data."
+        },
+        {
+            "heading": "2024 Office Supplies Budget Allocation",
+            "content": "\u2022 Overview of new vendors for office supplies in 2024\n\u2022 Introduction of eco-friendly office supplies in 2024\n\u2022 Discussion on the quality and efficiency of office supplies in 2024\n\u2022 Evaluation of the need for technological office supplies in 2024\n\u2022 Consideration of bulk purchasing of office supplies in 2024",
+            "type": "distractor",
+            "justification": "The content discusses the sourcing, quality, and type of office supplies in 2024, but not the budget. The strategy is to focus on related but non-essential factors."
+        },
+        {
+            "heading": "Impact on Operational Efficiency",
+            "content": "\u2022 Analysis of how updated IT systems have improved operational efficiency in 2024\n\u2022 Impact of employee training programs on operational efficiency in 2024\n\u2022 Role of improved supply chain management in enhancing operational efficiency\n\u2022 Study of the effect of new store layouts on operational efficiency\n\u2022 Examination of the role of customer service initiatives in improving operational efficiency",
+            "type": "distractor",
+            "justification": "This content discusses various factors affecting operational efficiency, but not office supplies budget. The strategy is to focus on tangential operational details."
+        }
+    ],
+    "conclusion": "Understanding our allocation towards office supplies helps us plan better and maintain operational efficiency. Let's utilize this data to optimize our future budget planning.",
+    "file_format": "pptx",
+    "file_path": ".llm_responses/generated_pptx_presentation.pptx",
+    "qa_type": "distractor",
+    "timestamp": "2025-11-20 16:07",
+    "image_queries": [
+        {
+            "slide_title": "Introduction",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "intentionally_clean",
+            "slide_type": "introduction"
+        },
+        {
+            "slide_title": "Analysis of Past Budget Trends",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "failed",
+            "slide_type": "distractor",
+            "content_length": 6,
+            "total_chars": 363,
+            "error": "'str' object has no attribute 'choices'",
+            "theme": "Classic Navy"
+        },
+        {
+            "slide_title": "2024 Office Supplies Budget Allocation",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "failed",
+            "slide_type": "distractor",
+            "content_length": 5,
+            "total_chars": 293,
+            "error": "'str' object has no attribute 'choices'",
+            "theme": "Classic Navy"
+        },
+        {
+            "slide_title": "Impact on Operational Efficiency",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 5,
+            "total_chars": 382,
+            "probability": 0.25,
+            "theme": "Classic Navy"
+        },
+        {
+            "slide_title": "Conclusion",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "conclusion_failed",
+            "slide_type": "conclusion",
+            "error": "'str' object has no attribute 'choices'",
+            "theme": "Classic Navy"
+        }
+    ],
+    "app": "file_system"
+}

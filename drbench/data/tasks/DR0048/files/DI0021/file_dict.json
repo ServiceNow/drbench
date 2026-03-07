@@ -1,0 +1,81 @@
+{
+    "file_name": "2024-IT-Training-Analysis",
+    "file_title": "IT Training Impact Analysis: 2024 Recap",
+    "introduction": "In this presentation, we will evaluate the frequency and effectiveness of our internal IT training sessions conducted in 2024. This analysis will provide insight into how our training efforts have been supporting our technological advancement in the virtual healthcare industry.",
+    "subsections": [
+        {
+            "heading": "2024 IT Training Overview",
+            "content": "\u2022 The IT department introduced 3 new software platforms in 2024\n\u2022 There was a 20% increase in IT budget allocation for training programs\n\u2022 IT department partnered with 2 external IT training vendors in 2024\n\u2022 The IT training curriculum was updated twice in 2024\n\u2022 The average number of IT training hours per employee increased by 10% in 2024\n\u2022 The IT department received an 85% satisfaction rate from employees on training programs",
+            "type": "distractor",
+            "justification": "The content provides overview of training programs but does not mention the number of sessions conducted. Strategy: Discusses procedural information."
+        },
+        {
+            "heading": "IT Training Impact on Efficiency",
+            "content": "\u2022 Post-training surveys reported a 30% increase in employee IT proficiency\n\u2022 There was a 15% reduction in IT-related queries to the help desk after the training\n\u2022 Employee productivity increased by 10% after the completion of IT training\n\u2022 The IT department reported a 25% decrease in system downtime after the training\n\u2022 The average time to resolve IT issues decreased by 20% post-training",
+            "type": "distractor",
+            "justification": "The content focuses on the impact of training on efficiency, not the number of trainings. Strategy: Includes operational details."
+        },
+        {
+            "heading": "IT Training Frequency & Future Plans",
+            "content": "\u2022 The company aims to increase IT training frequency by 15% in 2025\n\u2022 The IT department plans to introduce a continuous learning platform in Q2 of 2025\n\u2022 The company is considering a partnership with 3 new IT training vendors in 2025\n\u2022 There is a plan to increase the IT training budget by 20% in 2025\n\u2022 The company plans to conduct a skills gap analysis in Q3 of 2025 to inform future training plans",
+            "type": "distractor",
+            "justification": "The content focuses on future plans, not the number of training sessions conducted in 2024. Strategy: Discusses future trends and plans."
+        }
+    ],
+    "conclusion": "Our IT training sessions have played a significant role in enhancing our digital capabilities and service delivery in 2024. As we move forward, we need to continue investing in these sessions to maintain our competitive edge in the virtual healthcare market.",
+    "file_format": "pptx",
+    "file_path": ".llm_responses/generated_pptx_presentation.pptx",
+    "qa_type": "distractor",
+    "timestamp": "2025-12-02 15:20",
+    "image_queries": [
+        {
+            "slide_title": "Introduction",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "intentionally_clean",
+            "slide_type": "introduction"
+        },
+        {
+            "slide_title": "2024 IT Training Overview",
+            "has_image": true,
+            "image_query": "business technology training session",
+            "generation_method": "strategic_placement",
+            "slide_type": "distractor",
+            "content_length": 6,
+            "total_chars": 414,
+            "forced": false,
+            "theme": "Professional Green"
+        },
+        {
+            "slide_title": "IT Training Impact on Efficiency",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 5,
+            "total_chars": 376,
+            "probability": 0.25,
+            "theme": "Professional Green"
+        },
+        {
+            "slide_title": "IT Training Frequency & Future Plans",
+            "has_image": true,
+            "image_query": "business training session infographic",
+            "generation_method": "strategic_placement",
+            "slide_type": "distractor",
+            "content_length": 5,
+            "total_chars": 386,
+            "forced": false,
+            "theme": "Professional Green"
+        },
+        {
+            "slide_title": "Conclusion",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "strategic_clean_conclusion",
+            "slide_type": "conclusion",
+            "theme": "Professional Green"
+        }
+    ],
+    "app": "nextcloud"
+}

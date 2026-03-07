@@ -1,0 +1,55 @@
+{
+    "company_info": {
+        "name": "Elexion Automotive",
+        "industry": "Automotive -- Electric Vehicles",
+        "size": "Enterprise",
+        "founded_year": 2010,
+        "headquarters": "Austin, Texas, USA",
+        "description": "Elexion Automotive designs and manufactures premium and mid-range electric vehicles tailored for the North American market. With a focus on sustainability, user-centric technology, and cross-border compliance, Elexion aims to accelerate the transition to zero-emission transportation.",
+        "key_products_services": [
+            "Electric vehicles",
+            "Plug-in hybrid electric vehicles",
+            "Home charging stations"
+        ],
+        "target_markets": [
+            "Mid-income families in North America",
+            "Provincial and municipal governments"
+        ],
+        "annual_revenue": "$350M - $500M",
+        "employee_count": 1900,
+        "compliance_certifications": [
+            "EPA Greenhouse Gas Emissions Compliance",
+            "Motor Vehicle Safety Oversight Program",
+            "CARB Zero-Emission Vehicle (ZEV) Program",
+            "ISO 26262 – Road Vehicles Functional Safety"
+        ],
+        "market_position": "Elexion is an emerging force in the North American EV market, offering affordable and high-performance electric vehicles with regulatory-first design and localized production."
+    },
+    "persona": {
+        "role": "Advanced Technology Engineer",
+        "department": "Engineering and Technology",
+        "name": "Liam Chen",
+        "first_name": "Liam",
+        "last_name": "Chen",
+        "email": "liam.chen@elexion.com",
+        "seniority": "Junior",
+        "responsibilities": "Assist in the development and testing of new electric vehicle technologies, including advanced driver-assistance systems and vehicle-to-grid charging.",
+        "id": "EMP0003",
+        "domain": "research",
+        "justification": "As an advanced technology engineer, Liam contributes to the development of cutting-edge technologies that drive Elexion Automotive's innovation and growth in the electric vehicle space.",
+        "username": "liam.chen"
+    },
+    "url": {
+        "url": "https://www.here.com/learn/blog/how-ai-optimizes-electric-vehicles",
+        "domain": "Research",
+        "industry": "automotive -- electric vehicles",
+        "example_dr_questions": [
+            "What is the effect of the increase of EVs on the road when it comes to safety certifications?"
+        ],
+        "insights": [
+            "In May 2025 HERE reported that in 2023, one in five vehicles sold globally were electric. By 2035, EV volumes are forecast to top 71.6 million. EVs with added weight can pose risks to other road users, prompting regulatory bodies to adapt testing procedures to address unique safety challenges associated with EVs, such as fire hazards from lithium-ion batteries."
+        ],
+        "date": "2025-11-20"
+    },
+    "timestamp": "2025-10-30 00:00"
+}

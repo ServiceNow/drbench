@@ -1,0 +1,13 @@
+Company,Product_Category,Campaign_Type,Start_Quarter,End_Quarter,Uplift_Target_Percentage
+The name of the company that is setting the sales uplift target.,The product categories that are affected by tariffs and are the focus of the promotional campaigns.,"The type of promotional campaigns being run, such as discounts, loyalty bonuses, etc.",The start of the period for which the sales uplift target is set.,The end of the period for which the sales uplift target is set.,The percentage of sales uplift that is being targeted from the promotional campaigns on the tariff-affected product categories.
+Pacino's Pizza,Fast Food,Loyalty Bonuses,Q1 2023,Q4 2024,3%
+Healthy Hut,Health Foods,Loyalty Bonuses,Q2 2026,Q1 2027,4%
+Farm Fresh,Produce,Loyalty Bonuses,Q4 2025,Q3 2026,4%
+Juice Junction,Beverages,Loyalty Bonuses,Q4 2026,Q3 2027,2.5%
+Benny's Bakery,Bakery Goods,Discounts,Q2 2024,Q3 2025,4.5%
+Coffee Cat,Beverages,Loyalty Bonuses,Q1 2025,Q2 2026,5%
+Gourmet Galore,Gourmet Foods,Discounts,Q1 2026,Q4 2026,3.5%
+Ice Cream Island,Desserts,Discounts,Q3 2026,Q2 2027,3%
+Lee's Market,Groceries,Discounts,Q3 2025,Q4 2027,6.5%
+Kebab Kingdom,Fast Food,Discounts,Q1 2027,Q4 2027,2%
+Deli Delights,Deli Goods,Discounts,Q3 2025,Q2 2026,5.5%

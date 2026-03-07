@@ -1,0 +1,14 @@
+Period_Start,Period_End,Communication_Channel,Customer_Segment,Conversion_Rate_Increase,Promotion_Type
+The starting date of the period during which the data was collected,The ending date of the period during which the data was collected,"The medium through which the communication was made. This can be social media, live chat, or texting","The specific group of customers for whom the promotions were personalized. In this context, it refers to 'Centennial shoppers'",The increase in conversion rate attributed to the use of personalized messages sent through AI compared to standard promotions,"The type of promotion. In this case, personalized promotions through conversational AI"
+2024-07-01,2024-09-30,Social Media,Centennial shoppers,0.16,Conversational AI
+2024-07-01,2024-09-30,Texting,Centennial shoppers,0.19,Conversational AI
+2025-04-01,2025-06-30,"Social Media, Live Chat, Texting",Centennial shoppers,0.22,Conversational AI
+2024-10-01,2024-12-31,"Social Media, Live Chat, Texting",Centennial shoppers,0.21,Conversational AI
+2024-01-01,2024-03-31,Texting,Centennial shoppers,0.20,Conversational AI
+2024-04-01,2024-06-30,"Social Media, Live Chat, Texting",Centennial shoppers,0.20,Conversational AI
+2025-01-01,2025-03-31,Social Media,Centennial shoppers,0.15,Conversational AI
+2024-07-01,2024-09-30,Live Chat,Centennial shoppers,0.17,Conversational AI
+2024-01-01,2024-03-31,Live Chat,Centennial shoppers,0.18,Conversational AI
+2025-01-01,2025-03-31,Texting,Centennial shoppers,0.20,Conversational AI
+2025-01-01,2025-03-31,Live Chat,Centennial shoppers,0.18,Conversational AI
+2024-01-01,2024-03-31,Social Media,Centennial shoppers,0.15,Conversational AI

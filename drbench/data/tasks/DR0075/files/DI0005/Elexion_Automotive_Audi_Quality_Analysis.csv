@@ -1,0 +1,10 @@
+Audit_Period,Company_Name,Defect_Category,Defects_Per_100_Vehicles,Defect_Details
+The specific time period when the quality audit was conducted.,Name of the company that underwent the quality audit.,Category of the identified defects during the quality audit.,The average number of defects identified per 100 vehicles during the quality audit.,Detailed description of the defects identified during the quality audit including the aspects that required corrective actions.
+2023-01-01,Elexion Automotive,Brake System,3.2,Brake pad wear and brake fluid leaks
+2023-10-01,Elexion Automotive,Suspension System,3.9,Damaged shock absorbers and misaligned wheels
+2024-10-01,Elexion Automotive,Thermal Management System,5.7,Coolant irregularities and temperature sensor calibration issues
+2024-07-01,Elexion Automotive,Exhaust System,3.3,Muffler corrosion and exhaust leaks
+2023-04-01,Elexion Automotive,Engine System,4.5,Oil leaks and worn out spark plugs
+2023-07-01,Elexion Automotive,Electrical System,2.8,Battery drainage and faulty wiring
+2024-04-01,Elexion Automotive,Fuel System,2.5,Fuel injector failure and fuel pump issues
+2024-01-01,Elexion Automotive,Transmission System,4.2,Gearbox leaks and worn out clutch

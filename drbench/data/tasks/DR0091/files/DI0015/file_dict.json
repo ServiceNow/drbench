@@ -1,0 +1,244 @@
+{
+    "file_name": "roundcube_email_20251120_152825",
+    "content": "{\"type\": \"user\", \"username\": \"sophie.liu\", \"first_name\": \"Sophie\", \"last_name\": \"Liu\", \"email\": \"sophie.liu@leesmarket.com\", \"password\": \"sophie123\"}\n{\"type\": \"user\", \"username\": \"john.doe\", \"first_name\": \"John\", \"last_name\": \"Doe\", \"email\": \"john.doe@leesmarket.com\", \"password\": \"john123\"}\n{\"type\": \"user\", \"username\": \"mary.jane\", \"first_name\": \"Mary\", \"last_name\": \"Jane\", \"email\": \"mary.jane@leesmarket.com\", \"password\": \"mary123\"}\n{\"type\": \"user\", \"username\": \"peter.parker\", \"first_name\": \"Peter\", \"last_name\": \"Parker\", \"email\": \"peter.parker@leesmarket.com\", \"password\": \"peter123\"}\n{\"type\": \"user\", \"username\": \"steve.jobs\", \"first_name\": \"Steve\", \"last_name\": \"Jobs\", \"email\": \"steve.jobs@leesmarket.com\", \"password\": \"steve123\"}\n{\"type\": \"user\", \"username\": \"bill.gates\", \"first_name\": \"Bill\", \"last_name\": \"Gates\", \"email\": \"bill.gates@leesmarket.com\", \"password\": \"bill123\"}\n{\"type\": \"user\", \"username\": \"elon.musk\", \"first_name\": \"Elon\", \"last_name\": \"Musk\", \"email\": \"elon.musk@leesmarket.com\", \"password\": \"elon123\"}\n{\"type\": \"user\", \"username\": \"jeff.bezos\", \"first_name\": \"Jeff\", \"last_name\": \"Bezos\", \"email\": \"jeff.bezos@leesmarket.com\", \"password\": \"jeff123\"}\n{\"type\": \"email\", \"id\": \"email_001\", \"subject\": \"Weekly Staff Meeting - Agenda and Prep\", \"from\": \"sophie.liu@leesmarket.com\", \"from_name\": \"Sophie Liu\", \"to\": [\"john.doe@leesmarket.com\", \"mary.jane@leesmarket.com\", \"peter.parker@leesmarket.com\", \"steve.jobs@leesmarket.com\", \"bill.gates@leesmarket.com\", \"elon.musk@leesmarket.com\", \"jeff.bezos@leesmarket.com\"], \"cc\": [], \"date\": \"2022-05-10 09:30:00\", \"body\": \"Good Morning Team,\\n\\nJust a quick reminder that our weekly staff meeting is scheduled for tomorrow at 10 AM. Please review the attached agenda and come prepared to discuss your department updates.\\n\\nBest,\\nSophie\", \"folder\": \"sent\", \"read\": true, \"attachments\": [\"agenda.docx\"]}\n{\"type\": \"email\", \"id\": \"email_002\", \"subject\": \"New Employee Onboarding\", \"from\": \"john.doe@leesmarket.com\", \"from_name\": \"John Doe\", \"to\": [\"sophie.liu@leesmarket.com\"], \"cc\": [], \"date\": \"2022-05-11 14:15:00\", \"body\": \"Sophie,\\n\\nI'd like to introduce our new hire, Emily. She will be joining the customer service team next week. Could you please set up her onboarding schedule?\\n\\nThanks,\\nJohn\", \"folder\": \"inbox\", \"read\": true, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_003\", \"subject\": \"Re: New Employee Onboarding\", \"from\": \"sophie.liu@leesmarket.com\", \"from_name\": \"Sophie Liu\", \"to\": [\"john.doe@leesmarket.com\"], \"cc\": [], \"date\": \"2022-05-11 16:30:00\", \"body\": \"John,\\n\\nThanks for letting me know. I'll start working on Emily's onboarding schedule and share it with you soon.\\n\\nBest,\\nSophie\", \"folder\": \"sent\", \"read\": true, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_004\", \"subject\": \"Holiday Schedule\", \"from\": \"mary.jane@leesmarket.com\", \"from_name\": \"Mary Jane\", \"to\": [\"sophie.liu@leesmarket.com\", \"john.doe@leesmarket.com\", \"peter.parker@leesmarket.com\", \"steve.jobs@leesmarket.com\", \"bill.gates@leesmarket.com\", \"elon.musk@leesmarket.com\", \"jeff.bezos@leesmarket.com\"], \"cc\": [], \"date\": \"2022-05-12 10:00:00\", \"body\": \"Team,\\n\\nPlease note that the store will be closed on the upcoming public holiday. Kindly inform your teams and manage schedules accordingly.\\n\\nBest,\\nMary\", \"folder\": \"inbox\", \"read\": true, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_005\", \"subject\": \"Monthly Sales Report\", \"from\": \"steve.jobs@leesmarket.com\", \"from_name\": \"Steve Jobs\", \"to\": [\"sophie.liu@leesmarket.com\", \"john.doe@leesmarket.com\", \"mary.jane@leesmarket.com\", \"peter.parker@leesmarket.com\", \"bill.gates@leesmarket.com\", \"elon.musk@leesmarket.com\", \"jeff.bezos@leesmarket.com\"], \"cc\": [], \"date\": \"2022-05-12 15:00:00\", \"body\": \"Dear Team,\\n\\nPlease find attached the monthly sales report. Let's discuss the details in our next meeting.\\n\\nRegards,\\nSteve\", \"folder\": \"inbox\", \"read\": true, \"attachments\": [\"sales_report.pdf\"]}\n{\"type\": \"email\", \"id\": \"email_001\", \"subject\": \"CS Service Improvements for 2026\", \"from\": \"sophie.liu@leesmarket.com\", \"from_name\": \"Sophie Liu\", \"to\": [\"john.doe@leesmarket.com\", \"mary.jane@leesmarket.com\"], \"cc\": [\"peter.parker@leesmarket.com\"], \"date\": \"2026-01-02 09:00:00\", \"body\": \"Dear Team,\\n\\nAs we enter 2026, I believe we should consider improvements to our customer service strategy to further enhance our customer experience. This could include personalizing our communication and tailoring our services to make our customers feel more recognized and valued. I would appreciate your thoughts and ideas on this.\\n\\nBest Regards,\\nSophie Liu\", \"folder\": \"inbox\", \"read\": true, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_002\", \"subject\": \"Re: CS Service Improvements for 2026\", \"from\": \"john.doe@leesmarket.com\", \"from_name\": \"John Doe\", \"to\": [\"sophie.liu@leesmarket.com\", \"mary.jane@leesmarket.com\"], \"cc\": [\"peter.parker@leesmarket.com\"], \"date\": \"2026-01-02 11:30:00\", \"body\": \"Hi Sophie,\\n\\nOne area we could focus on is recognizing customer loyalty. Perhaps we could implement a system to acknowledge returning customers and reward them with exclusive benefits. We could also consider personalizing our product offerings based on their previous purchases.\\n\\nAdditionally, we might want to look into enhancing our digital communication. For instance, product updates and packaging redesigns could be communicated to customers through personalized emails. Just to note, we implemented 12 packaging redesigns across different private-label product lines in 2025, which could have been a great opportunity to engage with our customers.\\n\\nBest,\\nJohn\", \"folder\": \"inbox\", \"read\": true, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_003\", \"subject\": \"Re: CS Service Improvements for 2026\", \"from\": \"mary.jane@leesmarket.com\", \"from_name\": \"Mary Jane\", \"to\": [\"sophie.liu@leesmarket.com\", \"john.doe@leesmarket.com\"], \"cc\": [\"peter.parker@leesmarket.com\"], \"date\": \"2026-01-02 14:45:00\", \"body\": \"Sophie and John,\\n\\nI completely agree with both your points. Recognizing customer loyalty and personalizing our offerings would indeed make our customers feel valued. And John, your idea about digital communication is spot-on. Packaging redesigns could indeed be a great touchpoint to engage with our customers. Perhaps we could even solicit customer feedback on these redesigns to make them feel more involved.\\n\\nCheers,\\nMary\", \"folder\": \"inbox\", \"read\": true, \"attachments\": []}",
+    "email_setup": [
+        {
+            "type": "user",
+            "username": "sophie.liu",
+            "first_name": "Sophie",
+            "last_name": "Liu",
+            "email": "sophie.liu@leesmarket.com",
+            "password": "sophie123"
+        },
+        {
+            "type": "user",
+            "username": "john.doe",
+            "first_name": "John",
+            "last_name": "Doe",
+            "email": "john.doe@leesmarket.com",
+            "password": "john123"
+        },
+        {
+            "type": "user",
+            "username": "mary.jane",
+            "first_name": "Mary",
+            "last_name": "Jane",
+            "email": "mary.jane@leesmarket.com",
+            "password": "mary123"
+        },
+        {
+            "type": "user",
+            "username": "peter.parker",
+            "first_name": "Peter",
+            "last_name": "Parker",
+            "email": "peter.parker@leesmarket.com",
+            "password": "peter123"
+        },
+        {
+            "type": "user",
+            "username": "steve.jobs",
+            "first_name": "Steve",
+            "last_name": "Jobs",
+            "email": "steve.jobs@leesmarket.com",
+            "password": "steve123"
+        },
+        {
+            "type": "user",
+            "username": "bill.gates",
+            "first_name": "Bill",
+            "last_name": "Gates",
+            "email": "bill.gates@leesmarket.com",
+            "password": "bill123"
+        },
+        {
+            "type": "user",
+            "username": "elon.musk",
+            "first_name": "Elon",
+            "last_name": "Musk",
+            "email": "elon.musk@leesmarket.com",
+            "password": "elon123"
+        },
+        {
+            "type": "user",
+            "username": "jeff.bezos",
+            "first_name": "Jeff",
+            "last_name": "Bezos",
+            "email": "jeff.bezos@leesmarket.com",
+            "password": "jeff123"
+        }
+    ],
+    "email_messages": [
+        {
+            "type": "email",
+            "id": "email_001",
+            "subject": "Weekly Staff Meeting - Agenda and Prep",
+            "from": "sophie.liu@leesmarket.com",
+            "from_name": "Sophie Liu",
+            "to": [
+                "john.doe@leesmarket.com",
+                "mary.jane@leesmarket.com",
+                "peter.parker@leesmarket.com",
+                "steve.jobs@leesmarket.com",
+                "bill.gates@leesmarket.com",
+                "elon.musk@leesmarket.com",
+                "jeff.bezos@leesmarket.com"
+            ],
+            "cc": [],
+            "date": "2022-05-10 09:30:00",
+            "body": "Good Morning Team,\n\nJust a quick reminder that our weekly staff meeting is scheduled for tomorrow at 10 AM. Please review the attached agenda and come prepared to discuss your department updates.\n\nBest,\nSophie",
+            "folder": "sent",
+            "read": true,
+            "attachments": [
+                "agenda.docx"
+            ],
+            "tag": "distractor"
+        },
+        {
+            "type": "email",
+            "id": "email_002",
+            "subject": "New Employee Onboarding",
+            "from": "john.doe@leesmarket.com",
+            "from_name": "John Doe",
+            "to": [
+                "sophie.liu@leesmarket.com"
+            ],
+            "cc": [],
+            "date": "2022-05-11 14:15:00",
+            "body": "Sophie,\n\nI'd like to introduce our new hire, Emily. She will be joining the customer service team next week. Could you please set up her onboarding schedule?\n\nThanks,\nJohn",
+            "folder": "inbox",
+            "read": true,
+            "attachments": [],
+            "tag": "distractor"
+        },
+        {
+            "type": "email",
+            "id": "email_003",
+            "subject": "Re: New Employee Onboarding",
+            "from": "sophie.liu@leesmarket.com",
+            "from_name": "Sophie Liu",
+            "to": [
+                "john.doe@leesmarket.com"
+            ],
+            "cc": [],
+            "date": "2022-05-11 16:30:00",
+            "body": "John,\n\nThanks for letting me know. I'll start working on Emily's onboarding schedule and share it with you soon.\n\nBest,\nSophie",
+            "folder": "sent",
+            "read": true,
+            "attachments": [],
+            "tag": "distractor"
+        },
+        {
+            "type": "email",
+            "id": "email_004",
+            "subject": "Holiday Schedule",
+            "from": "mary.jane@leesmarket.com",
+            "from_name": "Mary Jane",
+            "to": [
+                "sophie.liu@leesmarket.com",
+                "john.doe@leesmarket.com",
+                "peter.parker@leesmarket.com",
+                "steve.jobs@leesmarket.com",
+                "bill.gates@leesmarket.com",
+                "elon.musk@leesmarket.com",
+                "jeff.bezos@leesmarket.com"
+            ],
+            "cc": [],
+            "date": "2022-05-12 10:00:00",
+            "body": "Team,\n\nPlease note that the store will be closed on the upcoming public holiday. Kindly inform your teams and manage schedules accordingly.\n\nBest,\nMary",
+            "folder": "inbox",
+            "read": true,
+            "attachments": [],
+            "tag": "distractor"
+        },
+        {
+            "type": "email",
+            "id": "email_005",
+            "subject": "Monthly Sales Report",
+            "from": "steve.jobs@leesmarket.com",
+            "from_name": "Steve Jobs",
+            "to": [
+                "sophie.liu@leesmarket.com",
+                "john.doe@leesmarket.com",
+                "mary.jane@leesmarket.com",
+                "peter.parker@leesmarket.com",
+                "bill.gates@leesmarket.com",
+                "elon.musk@leesmarket.com",
+                "jeff.bezos@leesmarket.com"
+            ],
+            "cc": [],
+            "date": "2022-05-12 15:00:00",
+            "body": "Dear Team,\n\nPlease find attached the monthly sales report. Let's discuss the details in our next meeting.\n\nRegards,\nSteve",
+            "folder": "inbox",
+            "read": true,
+            "attachments": [
+                "sales_report.pdf"
+            ],
+            "tag": "distractor"
+        },
+        {
+            "type": "email",
+            "id": "email_001",
+            "subject": "CS Service Improvements for 2026",
+            "from": "sophie.liu@leesmarket.com",
+            "from_name": "Sophie Liu",
+            "to": [
+                "john.doe@leesmarket.com",
+                "mary.jane@leesmarket.com"
+            ],
+            "cc": [
+                "peter.parker@leesmarket.com"
+            ],
+            "date": "2026-01-02 09:00:00",
+            "body": "Dear Team,\n\nAs we enter 2026, I believe we should consider improvements to our customer service strategy to further enhance our customer experience. This could include personalizing our communication and tailoring our services to make our customers feel more recognized and valued. I would appreciate your thoughts and ideas on this.\n\nBest Regards,\nSophie Liu",
+            "folder": "inbox",
+            "read": true,
+            "attachments": [],
+            "tag": "insight"
+        },
+        {
+            "type": "email",
+            "id": "email_002",
+            "subject": "Re: CS Service Improvements for 2026",
+            "from": "john.doe@leesmarket.com",
+            "from_name": "John Doe",
+            "to": [
+                "sophie.liu@leesmarket.com",
+                "mary.jane@leesmarket.com"
+            ],
+            "cc": [
+                "peter.parker@leesmarket.com"
+            ],
+            "date": "2026-01-02 11:30:00",
+            "body": "Hi Sophie,\n\nOne area we could focus on is recognizing customer loyalty. Perhaps we could implement a system to acknowledge returning customers and reward them with exclusive benefits. We could also consider personalizing our product offerings based on their previous purchases.\n\nAdditionally, we might want to look into enhancing our digital communication. For instance, product updates and packaging redesigns could be communicated to customers through personalized emails. Just to note, we implemented 12 packaging redesigns across different private-label product lines in 2025, which could have been a great opportunity to engage with our customers.\n\nBest,\nJohn",
+            "folder": "inbox",
+            "read": true,
+            "attachments": [],
+            "tag": "insight"
+        },
+        {
+            "type": "email",
+            "id": "email_003",
+            "subject": "Re: CS Service Improvements for 2026",
+            "from": "mary.jane@leesmarket.com",
+            "from_name": "Mary Jane",
+            "to": [
+                "sophie.liu@leesmarket.com",
+                "john.doe@leesmarket.com"
+            ],
+            "cc": [
+                "peter.parker@leesmarket.com"
+            ],
+            "date": "2026-01-02 14:45:00",
+            "body": "Sophie and John,\n\nI completely agree with both your points. Recognizing customer loyalty and personalizing our offerings would indeed make our customers feel valued. And John, your idea about digital communication is spot-on. Packaging redesigns could indeed be a great touchpoint to engage with our customers. Perhaps we could even solicit customer feedback on these redesigns to make them feel more involved.\n\nCheers,\nMary",
+            "folder": "inbox",
+            "read": true,
+            "attachments": [],
+            "tag": "insight"
+        }
+    ],
+    "file_format": "jsonl",
+    "file_path": ".llm_responses/generated_email_document.jsonl",
+    "qa_type": "distractor",
+    "timestamp": "2025-11-20 16:28",
+    "app": "email"
+}

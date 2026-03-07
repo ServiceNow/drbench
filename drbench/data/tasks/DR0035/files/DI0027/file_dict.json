@@ -1,0 +1,81 @@
+{
+    "file_name": "financial-audit-innovations",
+    "file_title": "Q1 2025 Financial Audit Innovations",
+    "introduction": "In the first quarter of 2025, our finance department introduced several key audit trail advancements. This presentation will focus on detailing these changes, particularly those introduced by Jason Wong.",
+    "subsections": [
+        {
+            "heading": "Overview of Q1 2025 Financial Audit Changes",
+            "content": "\u2022 The finance department implemented a new vendor invoice approval process in Q1 2025\n\u2022 Introduction of AI tools to streamline the auditing process and minimize human errors\n\u2022 The institution of mandatory periodic financial training for all department heads\n\u2022 Introduction of new financial software to enhance data security and integrity\n\u2022 Implementation of stricter control mechanisms to monitor financial transactions\n\u2022 The company initiated a new internal audit department to ensure compliance",
+            "type": "distractor",
+            "justification": "The content describes general changes in Q1 2025, not the specific audit trail addition by Jason Wong."
+        },
+        {
+            "heading": "Jason Wong's Audit Trail Addition: A Deep Dive",
+            "content": "\u2022 Jason Wong has over 15 years of experience in the finance sector\n\u2022 He led a team of 10 in the successful implementation of the new audit trail\n\u2022 Jason Wong has championed several digital transformation initiatives in the past\n\u2022 He is known for his analytical skills and attention to detail\n\u2022 Prior to joining Lee's Market, Wong worked for top-tier financial institutions\n\u2022 Wong has a Masters in Finance from Stanford University",
+            "type": "distractor",
+            "justification": "This content focuses on Jason Wong's background and credentials, not the specifics of his audit trail addition."
+        },
+        {
+            "heading": "Impact and Benefits of New Audit Trail",
+            "content": "\u2022 Improved financial transparency across all departments\n\u2022 Reduction in the time taken to complete audits by 20%\n\u2022 Increase in the accuracy of financial reports due to less manual data entry\n\u2022 Enhanced data security and fewer instances of financial fraud\n\u2022 Greater compliance with regional and national financial regulations\n\u2022 The new audit trail led to more efficient allocation of resources",
+            "type": "distractor",
+            "justification": "The content discusses the impact and benefits of the new audit trail, not the specifics of what the addition was."
+        }
+    ],
+    "conclusion": "The introduction of Jason Wong's audit trail addition has significantly improved our financial auditing capabilities. As we move forward, it's crucial for us to continue embracing such innovative changes to ensure financial transparency and efficiency.",
+    "file_format": "pptx",
+    "file_path": ".llm_responses/generated_pptx_presentation.pptx",
+    "qa_type": "distractor",
+    "timestamp": "2025-12-02 14:55",
+    "image_queries": [
+        {
+            "slide_title": "Introduction",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "intentionally_clean",
+            "slide_type": "introduction"
+        },
+        {
+            "slide_title": "Overview of Q1 2025 Financial Audit Changes",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 6,
+            "total_chars": 479,
+            "probability": 0.25,
+            "theme": "Classic Navy"
+        },
+        {
+            "slide_title": "Jason Wong's Audit Trail Addition: A Deep Dive",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 6,
+            "total_chars": 412,
+            "probability": 0.25,
+            "theme": "Classic Navy"
+        },
+        {
+            "slide_title": "Impact and Benefits of New Audit Trail",
+            "has_image": true,
+            "image_query": "financial transparency audit trail benefits",
+            "generation_method": "strategic_placement",
+            "slide_type": "distractor",
+            "content_length": 6,
+            "total_chars": 375,
+            "forced": false,
+            "theme": "Classic Navy"
+        },
+        {
+            "slide_title": "Conclusion",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "strategic_clean_conclusion",
+            "slide_type": "conclusion",
+            "theme": "Classic Navy"
+        }
+    ],
+    "app": "nextcloud"
+}

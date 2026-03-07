@@ -1,0 +1,12 @@
+Company_Name,Quarter,Program_Name,Retention_Rate,Previous_Quarter_Rate,Retention_Rate_Change
+The name of the company for which the data is presented.,The specific quarter in a year for which the customer retention rate is calculated.,The name of the specific program for which the customer retention rate is calculated.,The percentage of customers retained by the company's program in a specific quarter.,The percentage of customers retained by the company's program in the previous quarter.,The change in the percentage of customers retained by the company's program from the previous quarter to the current quarter.
+Elexion Automotive,Q4 2025,Extended Maintenance Program,0.94,0.92,0.02
+Elexion Automotive,Q2 2024,Extended Maintenance Program,0.81,0.75,0.06
+Elexion Automotive,Q1 2025,Extended Maintenance Program,0.88,0.89,-0.01
+Elexion Automotive,Q4 2024,Extended Maintenance Program,0.89,0.87,0.02
+Elexion Automotive,Q1 2024,Extended Maintenance Program,0.75,0.7,0.05
+Elexion Automotive,Q3 2024,Extended Maintenance Program,0.87,0.81,0.06
+Elexion Automotive,Q2 2026,Extended Maintenance Program,0.96,0.95,0.01
+Elexion Automotive,Q3 2025,Extended Maintenance Program,0.92,0.9,0.02
+Elexion Automotive,Q1 2026,Extended Maintenance Program,0.95,0.94,0.01
+Elexion Automotive,Q2 2025,Extended Maintenance Program,0.9,0.88,0.02

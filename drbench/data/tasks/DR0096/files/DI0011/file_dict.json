@@ -1,0 +1,82 @@
+{
+    "file_name": "IT-compensation-analysis",
+    "file_title": "IT Team Compensation Analysis 2025",
+    "introduction": "This presentation provides an overview of our IT team's compensation as of Q3 2025. Let's analyze the trends and factors impacting our team's average income.",
+    "subsections": [
+        {
+            "heading": "IT Compensation Trends in Retail Industry",
+            "content": "\u2022 Retail sector has seen a 7% average annual compensation increase for IT roles in the past 5 years\n\u2022 E-commerce boom has led to a surge in demand for IT professionals in retail\n\u2022 On average, IT professionals make up 12% of a retail company's workforce\n\u2022 Large retailers have been seen to offer stock options as part of compensation package for senior IT roles\n\u2022 The regulatory changes in the IT sector have led to an increase in compensation for cybersecurity roles",
+            "type": "distractor",
+            "justification": "This slide discusses industry-wide trends and doesn't provide specific information about Lee's Market's IT team income."
+        },
+        {
+            "heading": "IT Team's Compensation Structure at Lee's Market",
+            "content": "\u2022 The compensation model of Lee's Market includes a combination of base salary, bonuses, and benefits\n\u2022 Employee retention strategies include a competitive compensation package and opportunities for continuous learning\n\u2022 The company has a transparent salary grading system for all roles\n\u2022 Bonuses are tied to individual performance and company-wide profitability\n\u2022 The IT team's compensation structure is regularly reviewed and updated to remain competitive",
+            "type": "distractor",
+            "justification": "This slide discusses the general structure of compensation at Lee's Market but does not mention the average income of the IT team."
+        },
+        {
+            "heading": "Investment in IT: Correlation with Business Performance",
+            "content": "\u2022 An increase in IT investment has led to a 20% improvement in business process efficiency\n\u2022 IT investment is a critical factor in enhancing customer experience and retention\n\u2022 A 15% budget allocation increase for IT has been planned for the next fiscal year\n\u2022 Investments in cybersecurity have resulted in decreased data breach incidents\n\u2022 Digital transformation initiatives have been prioritized in the company's strategic plan",
+            "type": "distractor",
+            "justification": "This slide discusses the impact of IT investments on business performance, not the average income of the IT team at Lee's Market."
+        }
+    ],
+    "conclusion": "Understanding our IT team's compensation is key to maintaining a competitive and motivated workforce. Based on our analysis, we can strategize to ensure fair remuneration and improved performance.",
+    "file_format": "pptx",
+    "file_path": ".llm_responses/generated_pptx_presentation.pptx",
+    "qa_type": "distractor",
+    "timestamp": "2025-11-20 19:15",
+    "image_queries": [
+        {
+            "slide_title": "Introduction",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "intentionally_clean",
+            "slide_type": "introduction"
+        },
+        {
+            "slide_title": "IT Compensation Trends in Retail Industry",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "failed",
+            "slide_type": "distractor",
+            "content_length": 5,
+            "total_chars": 452,
+            "error": "'str' object has no attribute 'choices'",
+            "theme": "Elegant Teal"
+        },
+        {
+            "slide_title": "IT Team's Compensation Structure at Lee's Market",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 5,
+            "total_chars": 443,
+            "probability": 0.25,
+            "theme": "Elegant Teal"
+        },
+        {
+            "slide_title": "Investment in IT: Correlation with Business Performance",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 5,
+            "total_chars": 415,
+            "probability": 0.25,
+            "theme": "Elegant Teal"
+        },
+        {
+            "slide_title": "Conclusion",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "conclusion_failed",
+            "slide_type": "conclusion",
+            "error": "'str' object has no attribute 'choices'",
+            "theme": "Elegant Teal"
+        }
+    ],
+    "app": "file_system"
+}

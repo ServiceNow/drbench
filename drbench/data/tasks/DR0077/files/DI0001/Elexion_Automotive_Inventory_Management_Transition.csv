@@ -1,0 +1,13 @@
+company_name,transition_complete,completion_date,total_production_facilities,inventory_system_type
+"The name of the company. For example, 'Elexion Automotive'.","A boolean flag indicating if the company has completed its transition to fully automated inventory management. 'Yes' if the transition is complete, 'No' otherwise.","The date when the transition to fully automated inventory management was completed. For example, '2025-07-15'.","The total number of production facilities that the company has. For example, '60'.","The type of inventory management system implemented by the company. For example, 'Fully automated'."
+VehiCraft,Yes,2025-01-05,50,Semi-automated
+Elexion Automotive,Yes,2025-07-15,60,Fully automated
+DriveForce,Yes,2025-03-10,30,Fully automated
+AutoTech Inc.,No,2025-04-20,45,Semi-automated
+AutoDrive Systems,No,2025-04-07,42,Manual
+VehicleTech,Yes,2025-02-28,38,Fully automated
+MotoSys,No,2024-12-30,40,Manual
+CarTech Solutions,No,2025-03-25,48,Semi-automated
+CarSys,No,2025-03-14,46,Semi-automated
+DriveMatic,Yes,2025-01-30,55,Fully automated
+AutoMatic,Yes,2025-02-14,35,Fully automated

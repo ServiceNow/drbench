@@ -1,0 +1,171 @@
+================================================================================
+ROUNDCUBE EMAIL EXPORT
+================================================================================
+
+USERS:
+----------------------------------------
+• ryan.cooper
+  Name: Ryan Cooper
+  Email: ryan.cooper@mediconn.ca
+
+• sarah.brown
+  Name: Sarah Brown
+  Email: sarah.brown@mediconn.ca
+
+• james.miller
+  Name: James Miller
+  Email: james.miller@mediconn.ca
+
+• lisa.wilson
+  Name: Lisa Wilson
+  Email: lisa.wilson@mediconn.ca
+
+• paul.thompson
+  Name: Paul Thompson
+  Email: paul.thompson@mediconn.ca
+
+• julia.johnson
+  Name: Julia Johnson
+  Email: julia.johnson@mediconn.ca
+
+• mark.roberts
+  Name: Mark Roberts
+  Email: mark.roberts@mediconn.ca
+
+• jennifer.white
+  Name: Jennifer White
+  Email: jennifer.white@mediconn.ca
+
+EMAILS:
+================================================================================
+Email ID: email_001
+Date: 2022-09-01 09:00:00
+From: Ryan Cooper <ryan.cooper@mediconn.ca>
+To: sarah.brown@mediconn.ca, james.miller@mediconn.ca, lisa.wilson@mediconn.ca
+CC: mark.roberts@mediconn.ca
+Subject: System Maintenance Schedule
+Folder: sent | Status: Read
+
+Message Body:
+----------------------------------------
+Dear Team, There will be a scheduled system maintenance on September 5th from 12:00 AM to 3:00 AM. Please save all your work before the maintenance period. Best, Ryan
+============================================================
+
+Email ID: email_002
+Date: 2022-09-02 10:30:00
+From: Jennifer White <jennifer.white@mediconn.ca>
+To: mark.roberts@mediconn.ca
+Subject: Monthly Budget Report
+Folder: sent | Status: Read
+Attachments: 1 file(s)
+
+Message Body:
+----------------------------------------
+Mark, Please find attached the budget report for the past month. Let's discuss the details in our next meeting. Best, Jennifer
+============================================================
+
+Email ID: email_003
+Date: 2022-09-02 14:00:00
+From: Sarah Brown <sarah.brown@mediconn.ca>
+To: james.miller@mediconn.ca, lisa.wilson@mediconn.ca
+Subject: Marketing Team Meeting
+Folder: sent | Status: Read
+
+Message Body:
+----------------------------------------
+Hi James and Lisa, Can we meet next Tuesday at 10:00 AM to discuss our upcoming marketing campaigns? Best, Sarah
+============================================================
+
+Email ID: email_004
+Date: 2022-09-03 12:30:00
+From: Paul Thompson <paul.thompson@mediconn.ca>
+To: ryan.cooper@mediconn.ca
+CC: julia.johnson@mediconn.ca
+Subject: New Employee Onboarding
+Folder: sent | Status: Read
+
+Message Body:
+----------------------------------------
+Ryan, We have a new member joining the IT team next week. Could you prepare the necessary system access and workstation setup? Thanks, Paul
+============================================================
+
+Email ID: email_005
+Date: 2022-09-04 16:00:00
+From: Lisa Wilson <lisa.wilson@mediconn.ca>
+To: sarah.brown@mediconn.ca, james.miller@mediconn.ca
+CC: mark.roberts@mediconn.ca
+Subject: Customer Feedback Survey Results
+Folder: sent | Status: Read
+Attachments: 1 file(s)
+
+Message Body:
+----------------------------------------
+Team, Attached is the report on the latest customer feedback survey. Let's discuss how we can incorporate these insights into our strategies. Regards, Lisa
+============================================================
+
+Email ID: email_001
+Date: 2026-01-05 10:30:00
+From: Ryan Cooper <ryan.cooper@mediconn.ca>
+To: mark.roberts@mediconn.ca, jennifer.white@mediconn.ca
+CC: paul.thompson@mediconn.ca, julia.johnson@mediconn.ca
+Subject: Preparing for the CPPA Act
+Folder: sent | Status: Read
+
+Message Body:
+----------------------------------------
+Dear Team,
+
+As you are aware, the CPPA Act (Bill C-27) is awaiting parliamentary decision. If it comes into effect by Q2 2026, we need to have preparedness measures in place to ensure a smooth transition. I suggest we start assessing our current systems and protocols for data privacy and protection.
+
+I look forward to your inputs and suggestions.
+
+Best Regards,
+Ryan Cooper
+Senior Systems Administrator
+============================================================
+
+Email ID: email_002
+Date: 2026-01-05 11:45:00
+From: Jennifer White <jennifer.white@mediconn.ca>
+To: ryan.cooper@mediconn.ca, mark.roberts@mediconn.ca
+CC: paul.thompson@mediconn.ca, julia.johnson@mediconn.ca
+Subject: Re: Preparing for the CPPA Act
+Folder: sent | Status: Read
+
+Message Body:
+----------------------------------------
+Hi Ryan and team,
+
+I agree with Ryan's suggestion. We should also consider investing in training our staff on the new data privacy policies and protocols that will be implemented if the Act is passed. This will be essential for all departments, not just IT.
+
+During 2024, we hired three new staff members in the marketing department. We have to ensure they along with the rest of our employees are well versed in data privacy practices.
+
+Regards,
+Jennifer White
+CFO
+============================================================
+
+Email ID: email_003
+Date: 2026-01-05 12:00:00
+From: Mark Roberts <mark.roberts@mediconn.ca>
+To: ryan.cooper@mediconn.ca, jennifer.white@mediconn.ca
+CC: paul.thompson@mediconn.ca, julia.johnson@mediconn.ca
+Subject: Re: Preparing for the CPPA Act
+Folder: sent | Status: Read
+
+Message Body:
+----------------------------------------
+Ryan and team,
+
+I completely agree with both of you. It's crucial for us to start preparing for the potential impact of the CPPA Act. Jennifer, that's a great point about making sure all employees, new or old, are updated with any changes we make in our data privacy policies and practices.
+
+Let's start planning this out and ensure we're ready for whatever comes our way.
+
+Best,
+Mark Roberts
+CEO
+============================================================
+
+================================================================================
+END OF EMAIL EXPORT
+================================================================================

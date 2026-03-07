@@ -1,0 +1,163 @@
+================================================================================
+ROUNDCUBE EMAIL EXPORT
+================================================================================
+
+USERS:
+----------------------------------------
+• ethan.thompson
+  Name: Ethan Thompson
+  Email: ethan.thompson@elexionauto.com
+
+• sarah.jenkins
+  Name: Sarah Jenkins
+  Email: sarah.jenkins@elexionauto.com
+
+• michael.sanchez
+  Name: Michael Sanchez
+  Email: michael.sanchez@elexionauto.com
+
+• linda.jones
+  Name: Linda Jones
+  Email: linda.jones@elexionauto.com
+
+• peter.williams
+  Name: Peter Williams
+  Email: peter.williams@elexionauto.com
+
+• karen.miller
+  Name: Karen Miller
+  Email: karen.miller@elexionauto.com
+
+• john.doe
+  Name: John Doe
+  Email: john.doe@elexionauto.com
+
+• jane.doe
+  Name: Jane Doe
+  Email: jane.doe@elexionauto.com
+
+EMAILS:
+================================================================================
+Email ID: email_001
+Date: 2025-12-01 10:00:00
+From: Ethan Thompson <ethan.thompson@elexionauto.com>
+To: sarah.jenkins@elexionauto.com, michael.sanchez@elexionauto.com
+Subject: Monthly IT Department Meeting
+Folder: inbox | Status: Read
+
+Message Body:
+----------------------------------------
+Team, our monthly department meeting will take place this Friday at 2pm. Please prepare your updates ahead of time. If there are any specific topics you'd like to discuss, let me know. Thanks, Ethan
+============================================================
+
+Email ID: email_002
+Date: 2025-12-02 13:30:00
+From: Sarah Jenkins <sarah.jenkins@elexionauto.com>
+To: ethan.thompson@elexionauto.com
+CC: linda.jones@elexionauto.com
+Subject: New Employee Onboarding
+Folder: inbox | Status: Unread
+
+Message Body:
+----------------------------------------
+Hi Ethan, we have a new hire starting next week in the IT department. Can you prepare an onboarding plan covering our systems and protocols? Thanks, Sarah
+============================================================
+
+Email ID: email_003
+Date: 2025-12-07 15:45:00
+From: Michael Sanchez <michael.sanchez@elexionauto.com>
+To: ethan.thompson@elexionauto.com
+CC: peter.williams@elexionauto.com, karen.miller@elexionauto.com
+Subject: Budgeting for Q1 2026
+Folder: inbox | Status: Unread
+
+Message Body:
+----------------------------------------
+Ethan, could you provide an estimate of the IT department's budget needs for Q1 2026? We're planning for the upcoming fiscal year. Thanks, Michael
+============================================================
+
+Email ID: email_004
+Date: 2025-12-08 11:30:00
+From: John Doe <john.doe@elexionauto.com>
+To: ethan.thompson@elexionauto.com
+Subject: IT Support Request
+Folder: inbox | Status: Unread
+
+Message Body:
+----------------------------------------
+Ethan, I'm having trouble with my email account. Can you or someone from your team assist me? Regards, John
+============================================================
+
+Email ID: email_005
+Date: 2025-12-10 09:00:00
+From: Linda Jones <linda.jones@elexionauto.com>
+To: ethan.thompson@elexionauto.com, sarah.jenkins@elexionauto.com, michael.sanchez@elexionauto.com, peter.williams@elexionauto.com, karen.miller@elexionauto.com, john.doe@elexionauto.com, jane.doe@elexionauto.com
+Subject: Holiday Schedule Reminder
+Folder: inbox | Status: Read
+
+Message Body:
+----------------------------------------
+Team, just a reminder that our offices will be closed for the holidays from December 24th to January 2nd. Please plan your work accordingly. Happy holidays, Linda
+============================================================
+
+Email ID: email_001
+Date: 2025-12-31 14:00:00
+From: Ethan Thompson <ethan.thompson@elexionauto.com>
+To: sarah.jenkins@elexionauto.com
+CC: michael.sanchez@elexionauto.com, linda.jones@elexionauto.com
+Subject: Cybersecurity Status Report - 2025
+Folder: sent | Status: Read
+
+Message Body:
+----------------------------------------
+Hi Sarah,
+
+As we wrap up the year, I wanted to share some key findings from our cybersecurity monitoring in 2025. We identified a rise in cyber threats this year, particularly in the form of email phishing attacks. Approximately 21% of all threats detected were email phishing attempts targeting our employees, a significant portion of our cyber threat landscape.
+
+We are working on initiatives to further strengthen our defenses and train our staff to recognize and avoid such attempts. Your support in disseminating this information and encouraging adherence to cybersecurity best practices will be invaluable.
+
+Best,
+Ethan
+============================================================
+
+Email ID: email_002
+Date: 2026-01-01 09:30:00
+From: Sarah Jenkins <sarah.jenkins@elexionauto.com>
+To: ethan.thompson@elexionauto.com
+CC: michael.sanchez@elexionauto.com, linda.jones@elexionauto.com
+Subject: Re: Cybersecurity Status Report - 2025
+Folder: inbox | Status: Read
+
+Message Body:
+----------------------------------------
+Hello Ethan,
+
+Thank you for the update. That's an alarming percentage of phishing attacks. I'll ensure this information is shared across the management team and we prioritize our employee training to prevent such occurrences. 
+
+Let's start 2026 with a reinforced focus on cybersecurity. I look forward to your recommendations on improving our defenses.
+
+Best,
+Sarah
+============================================================
+
+Email ID: email_003
+Date: 2026-01-01 10:15:00
+From: Michael Sanchez <michael.sanchez@elexionauto.com>
+To: ethan.thompson@elexionauto.com
+CC: sarah.jenkins@elexionauto.com, linda.jones@elexionauto.com
+Subject: Re: Cybersecurity Status Report - 2025
+Folder: inbox | Status: Read
+
+Message Body:
+----------------------------------------
+Hi Ethan,
+
+I echo Sarah's concerns. We should indeed double down on our cybersecurity efforts in response to these threats. I'll coordinate with you to ensure our technical teams are well equipped to handle these situations.
+
+Cheers,
+Michael
+============================================================
+
+================================================================================
+END OF EMAIL EXPORT
+================================================================================

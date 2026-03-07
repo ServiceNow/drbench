@@ -1,0 +1,10 @@
+{
+    "insight_id": "DI0005",
+    "qa_type": "distractor",
+    "qa_index": 5,
+    "specific_question": "How many internal access attempts by new MediConn interns were logged on the firm's clinical communication system in Q1 2024?",
+    "answer": "According to internal logs, 42 internal access attempts by new MediConn interns were recorded on the virtual healthcare platform\u2019s clinical communication system between January 1 and March 31, 2024.",
+    "justification": "",
+    "timestamp": "2025-11-20 00:30",
+    "dr_question": "In 2026, how can MediConn Solutions defend its virtual healthcare platform against coordinated ransomware attacks facilitated by foreign nation-state cyber threat actors, ensuring uninterrupted access to clinical systems and patient safety?"
+}

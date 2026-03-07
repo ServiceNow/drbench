@@ -1,0 +1,10 @@
+{
+    "insight_id": "DI0008",
+    "qa_type": "distractor",
+    "qa_index": 8,
+    "specific_question": "Which audit log automation did Jason Wong complete in April 2025?",
+    "answer": "From April 2025 forward, all checkout and security terminal transaction logs were automatically archived for 6 months, reporting rapid audit retrieval.",
+    "justification": "",
+    "timestamp": "2025-12-02 14:48",
+    "dr_question": "Between Q1 2025 and Q4 2025, how can the adoption of managed security service providers (MSSPs) be leveraged by Jason Wong to address Lee's Market's internal cybersecurity resource constraints, and what measurable improvement in threat management, compliance, and customer trust can be achieved compared to maintaining traditional in-house approaches?"
+}

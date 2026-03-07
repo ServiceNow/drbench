@@ -1,0 +1,10 @@
+{
+    "insight_id": "DI0004",
+    "qa_type": "distractor",
+    "qa_index": 4,
+    "specific_question": "What was the store manager retention rate of Lee's Market as compared to the industry average of 72% in 2025?",
+    "answer": "Lee's Market achieved a 91% store manager retention rate in 2025, thus greater than the industry average of 72%, through competitive compensation and career development.",
+    "justification": "This data is not relevant because management retention supports operational stability, but does not measure product-level sales shifts from tariff impact. Lee's Market cannot use this data to gauge which product categories are experiencing a consumer spending slowdown or require adjusting promotion planning. This data is related to human resources (HR) performance, without any significant impact on product-level sales performance.",
+    "timestamp": "2025-11-21 13:03",
+    "dr_question": "Given the drop in Canadian retail sales brought on by US tariffs in 2025, what insights should Lee\u2019s Market derive from product-level sales trends across tariff-exposed and tariff-insulated categories to update sales forecasts by 2027?"
+}

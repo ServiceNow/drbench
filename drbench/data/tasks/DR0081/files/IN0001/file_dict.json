@@ -1,0 +1,211 @@
+{
+    "file_name": "roundcube_email_20251202_205207",
+    "content": "{\"type\": \"user\", \"username\": \"ryan.thompson\", \"first_name\": \"Ryan\", \"last_name\": \"Thompson\", \"email\": \"ryan.thompson@elexionautomotive.com\", \"password\": \"complex_pwd_123\"}\n{\"type\": \"user\", \"username\": \"julia.parker\", \"first_name\": \"Julia\", \"last_name\": \"Parker\", \"email\": \"julia.parker@elexionautomotive.com\", \"password\": \"parker_pwd_456\"}\n{\"type\": \"user\", \"username\": \"david.choi\", \"first_name\": \"David\", \"last_name\": \"Choi\", \"email\": \"david.choi@elexionautomotive.com\", \"password\": \"choi_pwd_789\"}\n{\"type\": \"user\", \"username\": \"brian.green\", \"first_name\": \"Brian\", \"last_name\": \"Green\", \"email\": \"brian.green@elexionautomotive.com\", \"password\": \"green_pwd_321\"}\n{\"type\": \"user\", \"username\": \"linda.johnson\", \"first_name\": \"Linda\", \"last_name\": \"Johnson\", \"email\": \"linda.johnson@elexionautomotive.com\", \"password\": \"johnson_pwd_654\"}\n{\"type\": \"user\", \"username\": \"michael.brown\", \"first_name\": \"Michael\", \"last_name\": \"Brown\", \"email\": \"michael.brown@elexionautomotive.com\", \"password\": \"brown_pwd_987\"}\n{\"type\": \"user\", \"username\": \"sarah.wilson\", \"first_name\": \"Sarah\", \"last_name\": \"Wilson\", \"email\": \"sarah.wilson@elexionautomotive.com\", \"password\": \"wilson_pwd_210\"}\n{\"type\": \"email\", \"id\": \"email_001\", \"subject\": \"Weekly Sales and Marketing Team Meeting\", \"from\": \"ryan.thompson@elexionautomotive.com\", \"from_name\": \"Ryan Thompson\", \"to\": [\"julia.parker@elexionautomotive.com\", \"david.choi@elexionautomotive.com\", \"brian.green@elexionautomotive.com\"], \"cc\": [], \"date\": \"2024-01-01 09:00:00\", \"body\": \"Dear team, the weekly Sales and Marketing meeting is scheduled for 10 am on Wednesday. The primary agenda is to discuss the Q1 marketing strategies and upcoming campaigns. Please prepare your updates. Best, Ryan.\", \"folder\": \"sent\", \"read\": true, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_002\", \"subject\": \"Update on Customer Feedback Survey\", \"from\": \"julia.parker@elexionautomotive.com\", \"from_name\": \"Julia Parker\", \"to\": [\"ryan.thompson@elexionautomotive.com\"], \"cc\": [], \"date\": \"2024-01-02 14:30:00\", \"body\": \"Hi Ryan, we have received initial responses from the customer feedback survey. I will provide a detailed analysis in our next meeting. Regards, Julia.\", \"folder\": \"sent\", \"read\": true, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_003\", \"subject\": \"New Compliance Training Session\", \"from\": \"linda.johnson@elexionautomotive.com\", \"from_name\": \"Linda Johnson\", \"to\": [\"ryan.thompson@elexionautomotive.com\", \"julia.parker@elexionautomotive.com\", \"david.choi@elexionautomotive.com\", \"brian.green@elexionautomotive.com\"], \"cc\": [], \"date\": \"2024-01-03 11:15:00\", \"body\": \"Dear team, there will be a compliance training session next week regarding cross-border regulations. Please confirm your participation. Thanks, Linda.\", \"folder\": \"sent\", \"read\": true, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_004\", \"subject\": \"Invitation: EV Industry Networking Event\", \"from\": \"michael.brown@elexionautomotive.com\", \"from_name\": \"Michael Brown\", \"to\": [\"ryan.thompson@elexionautomotive.com\"], \"cc\": [], \"date\": \"2024-01-04 15:30:00\", \"body\": \"Hi Ryan, I wanted to invite you to an industry networking event next month. It's a great opportunity to connect with other professionals in the EV industry. Let me know if you're interested, and I'll send more details. Best, Michael.\", \"folder\": \"sent\", \"read\": true, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_001\", \"subject\": \"Re: Battery Sourcing Optimization Strategy\", \"from\": \"ryan.thompson@elexionautomotive.com\", \"from_name\": \"Ryan Thompson\", \"to\": [\"julia.parker@elexionautomotive.com\"], \"cc\": [\"david.choi@elexionautomotive.com\", \"brian.green@elexionautomotive.com\", \"linda.johnson@elexionautomotive.com\", \"michael.brown@elexionautomotive.com\", \"sarah.wilson@elexionautomotive.com\"], \"date\": \"2025-05-30 10:15:00\", \"body\": \"Dear Julia, \\n\\n I hope this email finds you well. \\n\\n We are currently working on a battery sourcing optimization strategy in line with the findings from the 2024 IEA report. Part of this strategy involves the creation of a centralized database to track lithium-ion battery suppliers, lead times, and the availability of critical minerals across North America, Europe, and Asia. \\n\\n This database will be instrumental in helping us maintain cost efficiency and production resilience by Q1 2026. \\n\\n Best, \\n\\n Ryan\", \"folder\": \"sent\", \"read\": true, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_002\", \"subject\": \"Re: Battery Sourcing Optimization Strategy\", \"from\": \"julia.parker@elexionautomotive.com\", \"from_name\": \"Julia Parker\", \"to\": [\"ryan.thompson@elexionautomotive.com\"], \"cc\": [\"david.choi@elexionautomotive.com\", \"brian.green@elexionautomotive.com\", \"linda.johnson@elexionautomotive.com\", \"michael.brown@elexionautomotive.com\", \"sarah.wilson@elexionautomotive.com\"], \"date\": \"2025-06-30 11:30:00\", \"body\": \"Hi Ryan, \\n\\n Thanks for the update. It's great to hear that the database is up and running. This should help us make informed decisions on sourcing and procurement of lithium-ion batteries, and maintain a resilient supply chain. \\n\\n Best, \\n\\n Julia\", \"folder\": \"sent\", \"read\": true, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_003\", \"subject\": \"Re: Battery Sourcing Optimization Strategy\", \"from\": \"ryan.thompson@elexionautomotive.com\", \"from_name\": \"Ryan Thompson\", \"to\": [\"julia.parker@elexionautomotive.com\"], \"cc\": [\"david.choi@elexionautomotive.com\", \"brian.green@elexionautomotive.com\", \"linda.johnson@elexionautomotive.com\", \"michael.brown@elexionautomotive.com\", \"sarah.wilson@elexionautomotive.com\"], \"date\": \"2025-07-01 09:00:00\", \"body\": \"Hi Julia, \\n\\n Yes, the database has been successfully implemented and is fully operational as of June 30, 2025. We are now able to actively track our lithium-ion battery suppliers and critical mineral inventories. This will undoubtedly play a crucial role in our battery sourcing and procurement strategy. \\n\\n Best, \\n\\n Ryan\", \"folder\": \"sent\", \"read\": true, \"attachments\": []}",
+    "email_setup": [
+        {
+            "type": "user",
+            "username": "ryan.thompson",
+            "first_name": "Ryan",
+            "last_name": "Thompson",
+            "email": "ryan.thompson@elexionautomotive.com",
+            "password": "complex_pwd_123"
+        },
+        {
+            "type": "user",
+            "username": "julia.parker",
+            "first_name": "Julia",
+            "last_name": "Parker",
+            "email": "julia.parker@elexionautomotive.com",
+            "password": "parker_pwd_456"
+        },
+        {
+            "type": "user",
+            "username": "david.choi",
+            "first_name": "David",
+            "last_name": "Choi",
+            "email": "david.choi@elexionautomotive.com",
+            "password": "choi_pwd_789"
+        },
+        {
+            "type": "user",
+            "username": "brian.green",
+            "first_name": "Brian",
+            "last_name": "Green",
+            "email": "brian.green@elexionautomotive.com",
+            "password": "green_pwd_321"
+        },
+        {
+            "type": "user",
+            "username": "linda.johnson",
+            "first_name": "Linda",
+            "last_name": "Johnson",
+            "email": "linda.johnson@elexionautomotive.com",
+            "password": "johnson_pwd_654"
+        },
+        {
+            "type": "user",
+            "username": "michael.brown",
+            "first_name": "Michael",
+            "last_name": "Brown",
+            "email": "michael.brown@elexionautomotive.com",
+            "password": "brown_pwd_987"
+        },
+        {
+            "type": "user",
+            "username": "sarah.wilson",
+            "first_name": "Sarah",
+            "last_name": "Wilson",
+            "email": "sarah.wilson@elexionautomotive.com",
+            "password": "wilson_pwd_210"
+        }
+    ],
+    "email_messages": [
+        {
+            "type": "email",
+            "id": "email_001",
+            "subject": "Weekly Sales and Marketing Team Meeting",
+            "from": "ryan.thompson@elexionautomotive.com",
+            "from_name": "Ryan Thompson",
+            "to": [
+                "julia.parker@elexionautomotive.com",
+                "david.choi@elexionautomotive.com",
+                "brian.green@elexionautomotive.com"
+            ],
+            "cc": [],
+            "date": "2024-01-01 09:00:00",
+            "body": "Dear team, the weekly Sales and Marketing meeting is scheduled for 10 am on Wednesday. The primary agenda is to discuss the Q1 marketing strategies and upcoming campaigns. Please prepare your updates. Best, Ryan.",
+            "folder": "sent",
+            "read": true,
+            "attachments": [],
+            "tag": "distractor"
+        },
+        {
+            "type": "email",
+            "id": "email_002",
+            "subject": "Update on Customer Feedback Survey",
+            "from": "julia.parker@elexionautomotive.com",
+            "from_name": "Julia Parker",
+            "to": [
+                "ryan.thompson@elexionautomotive.com"
+            ],
+            "cc": [],
+            "date": "2024-01-02 14:30:00",
+            "body": "Hi Ryan, we have received initial responses from the customer feedback survey. I will provide a detailed analysis in our next meeting. Regards, Julia.",
+            "folder": "sent",
+            "read": true,
+            "attachments": [],
+            "tag": "distractor"
+        },
+        {
+            "type": "email",
+            "id": "email_003",
+            "subject": "New Compliance Training Session",
+            "from": "linda.johnson@elexionautomotive.com",
+            "from_name": "Linda Johnson",
+            "to": [
+                "ryan.thompson@elexionautomotive.com",
+                "julia.parker@elexionautomotive.com",
+                "david.choi@elexionautomotive.com",
+                "brian.green@elexionautomotive.com"
+            ],
+            "cc": [],
+            "date": "2024-01-03 11:15:00",
+            "body": "Dear team, there will be a compliance training session next week regarding cross-border regulations. Please confirm your participation. Thanks, Linda.",
+            "folder": "sent",
+            "read": true,
+            "attachments": [],
+            "tag": "distractor"
+        },
+        {
+            "type": "email",
+            "id": "email_004",
+            "subject": "Invitation: EV Industry Networking Event",
+            "from": "michael.brown@elexionautomotive.com",
+            "from_name": "Michael Brown",
+            "to": [
+                "ryan.thompson@elexionautomotive.com"
+            ],
+            "cc": [],
+            "date": "2024-01-04 15:30:00",
+            "body": "Hi Ryan, I wanted to invite you to an industry networking event next month. It's a great opportunity to connect with other professionals in the EV industry. Let me know if you're interested, and I'll send more details. Best, Michael.",
+            "folder": "sent",
+            "read": true,
+            "attachments": [],
+            "tag": "distractor"
+        },
+        {
+            "type": "email",
+            "id": "email_001",
+            "subject": "Re: Battery Sourcing Optimization Strategy",
+            "from": "ryan.thompson@elexionautomotive.com",
+            "from_name": "Ryan Thompson",
+            "to": [
+                "julia.parker@elexionautomotive.com"
+            ],
+            "cc": [
+                "david.choi@elexionautomotive.com",
+                "brian.green@elexionautomotive.com",
+                "linda.johnson@elexionautomotive.com",
+                "michael.brown@elexionautomotive.com",
+                "sarah.wilson@elexionautomotive.com"
+            ],
+            "date": "2025-05-30 10:15:00",
+            "body": "Dear Julia, \n\n I hope this email finds you well. \n\n We are currently working on a battery sourcing optimization strategy in line with the findings from the 2024 IEA report. Part of this strategy involves the creation of a centralized database to track lithium-ion battery suppliers, lead times, and the availability of critical minerals across North America, Europe, and Asia. \n\n This database will be instrumental in helping us maintain cost efficiency and production resilience by Q1 2026. \n\n Best, \n\n Ryan",
+            "folder": "sent",
+            "read": true,
+            "attachments": [],
+            "tag": "insight"
+        },
+        {
+            "type": "email",
+            "id": "email_002",
+            "subject": "Re: Battery Sourcing Optimization Strategy",
+            "from": "julia.parker@elexionautomotive.com",
+            "from_name": "Julia Parker",
+            "to": [
+                "ryan.thompson@elexionautomotive.com"
+            ],
+            "cc": [
+                "david.choi@elexionautomotive.com",
+                "brian.green@elexionautomotive.com",
+                "linda.johnson@elexionautomotive.com",
+                "michael.brown@elexionautomotive.com",
+                "sarah.wilson@elexionautomotive.com"
+            ],
+            "date": "2025-06-30 11:30:00",
+            "body": "Hi Ryan, \n\n Thanks for the update. It's great to hear that the database is up and running. This should help us make informed decisions on sourcing and procurement of lithium-ion batteries, and maintain a resilient supply chain. \n\n Best, \n\n Julia",
+            "folder": "sent",
+            "read": true,
+            "attachments": [],
+            "tag": "insight"
+        },
+        {
+            "type": "email",
+            "id": "email_003",
+            "subject": "Re: Battery Sourcing Optimization Strategy",
+            "from": "ryan.thompson@elexionautomotive.com",
+            "from_name": "Ryan Thompson",
+            "to": [
+                "julia.parker@elexionautomotive.com"
+            ],
+            "cc": [
+                "david.choi@elexionautomotive.com",
+                "brian.green@elexionautomotive.com",
+                "linda.johnson@elexionautomotive.com",
+                "michael.brown@elexionautomotive.com",
+                "sarah.wilson@elexionautomotive.com"
+            ],
+            "date": "2025-07-01 09:00:00",
+            "body": "Hi Julia, \n\n Yes, the database has been successfully implemented and is fully operational as of June 30, 2025. We are now able to actively track our lithium-ion battery suppliers and critical mineral inventories. This will undoubtedly play a crucial role in our battery sourcing and procurement strategy. \n\n Best, \n\n Ryan",
+            "folder": "sent",
+            "read": true,
+            "attachments": [],
+            "tag": "insight"
+        }
+    ],
+    "file_format": "jsonl",
+    "file_path": ".llm_responses/generated_email_document.jsonl",
+    "qa_type": "insight",
+    "timestamp": "2025-12-02 21:52",
+    "app": "email"
+}

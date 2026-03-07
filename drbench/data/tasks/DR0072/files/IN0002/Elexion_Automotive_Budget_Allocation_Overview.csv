@@ -1,0 +1,14 @@
+year,company_name,department,budget_percentage,percentage_difference
+The year for which the budget was approved,The name of the company that the budget is for,The department that the budget is allocated to,The percentage of the total budget allocated to the specified department,The difference in budget allocation for the specified department compared to the previous year
+2025,Elexion Automotive,R&D,0.1,0.02
+2026,Elexion Automotive,sales,0.25,0.05
+2026,Elexion Automotive,cybersecurity,0.04,0.02
+2025,Elexion Automotive,cybersecurity,0.02,0.01
+2026,Elexion Automotive,R&D,0.2,0.1
+2024,Elexion Automotive,cybersecurity,0.01,0
+2024,Elexion Automotive,R&D,0.08,0.02
+2025,Elexion Automotive,marketing,0.1,0
+2025,Elexion Automotive,sales,0.2,0.05
+2026,Elexion Automotive,marketing,0.15,0.05
+2024,Elexion Automotive,sales,0.15,0.05
+2024,Elexion Automotive,marketing,0.1,0

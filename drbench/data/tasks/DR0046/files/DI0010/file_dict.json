@@ -1,0 +1,8 @@
+{
+    "file_name": "MediConn_Solutions_Compliance_Certification_Data",
+    "file_format": "xlsx",
+    "file_path": "drbench/data/tasks/DR0046/files/DI0010/MediConn_Solutions_Compliance_Certification_Data.xlsx",
+    "csv_path": "drbench/data/tasks/DR0046/files/DI0010/MediConn_Solutions_Compliance_Certification_Data.csv",
+    "qa_type": "distractor",
+    "app": "file_system"
+}

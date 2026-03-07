@@ -1,0 +1,81 @@
+{
+    "file_name": "operations-team-analysis",
+    "file_title": "Operations Team Growth Analysis 2024",
+    "introduction": "This presentation will address the growth and development of our Operations Team in 2024. We will explore staffing levels, hiring trends, and operational efficiency.",
+    "subsections": [
+        {
+            "heading": "2024 Operational Efficiency Overview",
+            "content": "\u2022 Implemented new inventory management system to streamline product tracking\n\u2022 Increased average transaction speed by 12% through POS system upgrades\n\u2022 Reduced shipment errors by 18% due to improved supplier communication processes\n\u2022 Achieved an 8% reduction in overall operational expenses\n\u2022 Improved customer satisfaction metrics by 15% with enhanced in-store experience\n\u2022 Launched 4 new store locations in the Vancouver area to expand retail presence\n\u2022 Reduced energy consumption by 10% through implementation of green initiatives",
+            "type": "distractor",
+            "justification": "This content discusses operational efficiency in 2024 but doesn't provide information on hiring in the Operations team that year."
+        },
+        {
+            "heading": "Operations Team Hiring Trends",
+            "content": "\u2022 Introduced a new recruitment process using AI-based tools in 2023\n\u2022 Improved employee retention in the Operations team by 20% since 2022\n\u2022 Increased diversity in team composition by 15% through targeted hiring initiatives\n\u2022 Implemented a new onboarding process to speed up employee integration\n\u2022 Invested in training programs to upskill current operations staff\n\u2022 Introduced a new performance-based incentive program to attract talent",
+            "type": "distractor",
+            "justification": "The content discusses hiring trends in general but does not specify the number of hires in the Operations team in 2024."
+        },
+        {
+            "heading": "Staffing Levels: Operations Team",
+            "content": "\u2022 Introduced a flexible staffing model to adjust to peak retail seasons\n\u2022 Maintained an average staff-to-customer ratio of 1:20 in stores\n\u2022 Implemented a cross-training program to optimize staff utilization\n\u2022 Reduced staff turnover rate by 10% through improved work-life balance initiatives\n\u2022 Achieved a 20% increase in staff productivity metrics\n\u2022 Implemented a new scheduling system to improve shift management",
+            "type": "distractor",
+            "justification": "The slide discusses staffing levels and strategies but does not provide the exact number of people hired in 2024."
+        }
+    ],
+    "conclusion": "The Operations Team growth in 2024 was instrumental for our business operations. Moving forward, we need to continue monitoring and adjusting our hiring strategies to ensure optimal operational efficiency.",
+    "file_format": "pptx",
+    "file_path": ".llm_responses/generated_pptx_presentation.pptx",
+    "qa_type": "distractor",
+    "timestamp": "2025-11-20 16:08",
+    "image_queries": [
+        {
+            "slide_title": "Introduction",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "intentionally_clean",
+            "slide_type": "introduction"
+        },
+        {
+            "slide_title": "2024 Operational Efficiency Overview",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 7,
+            "total_chars": 513,
+            "probability": 0.25,
+            "theme": "Classic Navy"
+        },
+        {
+            "slide_title": "Operations Team Hiring Trends",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 6,
+            "total_chars": 419,
+            "probability": 0.25,
+            "theme": "Classic Navy"
+        },
+        {
+            "slide_title": "Staffing Levels: Operations Team",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "failed",
+            "slide_type": "distractor",
+            "content_length": 6,
+            "total_chars": 395,
+            "error": "'str' object has no attribute 'choices'",
+            "theme": "Classic Navy"
+        },
+        {
+            "slide_title": "Conclusion",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "strategic_clean_conclusion",
+            "slide_type": "conclusion",
+            "theme": "Classic Navy"
+        }
+    ],
+    "app": "nextcloud"
+}

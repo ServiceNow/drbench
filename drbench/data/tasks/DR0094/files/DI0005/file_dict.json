@@ -1,0 +1,81 @@
+{
+    "file_name": "mental-health-revenue",
+    "file_title": "MediConn's Mental Health Counseling Revenue Analysis",
+    "introduction": "This presentation provides an in-depth analysis of our revenue from mental health counseling in FY2026. The objective is to understand our performance in this significant area of our operations.",
+    "subsections": [
+        {
+            "heading": "Overview of MediConn's Mental Health Services",
+            "content": "\u2022 MediConn offers a variety of virtual mental health services including therapy, counseling, and psychiatric evaluations\n\u2022 Launched in 2015, our mental health services have been at the forefront of remote healthcare\n\u2022 We've partnered with 200+ healthcare providers across Canada to deliver these services\n\u2022 Our state-of-the-art platform ensures secure and confidential consultations\n\u2022 In 2020, we introduced a new AI-based tool to improve patient diagnosis and treatment plans\n\u2022 Our mental health services department is staffed with 50+ experienced healthcare professionals\n\u2022 We've been recognized by multiple industry awards for our innovative approach to mental health services",
+            "type": "distractor",
+            "justification": "While this slide gives an overview of the mental health services, it does not provide the specific revenue figures for FY2026."
+        },
+        {
+            "heading": "Financial Performance of Mental Health Counseling",
+            "content": "\u2022 The mental health counseling segment has consistently shown robust growth year-on-year\n\u2022 In 2021, we invested heavily in marketing and training for our counseling services\n\u2022 Our strategic partnerships have allowed us to expand our patient reach and increase revenues\n\u2022 We have a strong retention rate with 85% of patients continuing their counseling beyond the initial six months\n\u2022 Our pricing structure for mental health counseling is competitive, contributing positively to our financial performance\n\u2022 Revenue from mental health counseling forms a significant portion of our overall income\n\u2022 We anticipate further growth in this segment due to increasing awareness and acceptance of mental health issues",
+            "type": "distractor",
+            "justification": "This slide discusses the financial performance of mental health counseling but doesn't specify the revenue generated in FY2026."
+        },
+        {
+            "heading": "Comparative Analysis of Service Line Revenues",
+            "content": "\u2022 Our telemedicine consultations for physical health issues generate the highest revenue among our services\n\u2022 Revenue from mental health counseling has been catching up in recent years\n\u2022 Other services like diet and nutrition counseling, physical therapy, and post-operative care also contribute significantly to our revenue\n\u2022 Despite the impact of COVID-19, all our service lines showed resilience and growth\n\u2022 Our diverse service line portfolio reduces our dependence on any single source of revenue\n\u2022 We are continually exploring new services to add to our portfolio to increase revenue streams\n\u2022 Our strategic focus is on growing segments that have a high potential for revenue generation",
+            "type": "distractor",
+            "justification": "While this slide compares the revenues from different service lines, it doesn't provide the specific revenue for mental health counseling in FY2026."
+        }
+    ],
+    "conclusion": "In FY2026, our mental health counseling services have shown significant financial performance. Based on this analysis, we should strategize to leverage this growth and optimize our service offerings.",
+    "file_format": "pptx",
+    "file_path": ".llm_responses/generated_pptx_presentation.pptx",
+    "qa_type": "distractor",
+    "timestamp": "2025-11-20 18:34",
+    "image_queries": [
+        {
+            "slide_title": "Introduction",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "intentionally_clean",
+            "slide_type": "introduction"
+        },
+        {
+            "slide_title": "Overview of MediConn's Mental Health Services",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 7,
+            "total_chars": 659,
+            "probability": 0.25,
+            "theme": "Executive Purple"
+        },
+        {
+            "slide_title": "Financial Performance of Mental Health Counseling",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "failed",
+            "slide_type": "distractor",
+            "content_length": 7,
+            "total_chars": 687,
+            "error": "'str' object has no attribute 'choices'",
+            "theme": "Executive Purple"
+        },
+        {
+            "slide_title": "Comparative Analysis of Service Line Revenues",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "failed",
+            "slide_type": "distractor",
+            "content_length": 7,
+            "total_chars": 672,
+            "error": "'str' object has no attribute 'choices'",
+            "theme": "Executive Purple"
+        },
+        {
+            "slide_title": "Conclusion",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "strategic_clean_conclusion",
+            "slide_type": "conclusion",
+            "theme": "Executive Purple"
+        }
+    ],
+    "app": "file_system"
+}

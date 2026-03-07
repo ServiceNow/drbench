@@ -1,0 +1,21 @@
+# Q3 2025 Virtual Care Staff System Access Review
+
+## Introduction
+
+As part of our ongoing commitment to secure and compliant virtual healthcare services, we have completed our Q3 2025 review of system access permissions for all virtual care staff. The following report details the process undertaken, alongside any significant findings and recommendations. The review aligns with our best practices to ensure patient data privacy and system integrity. Please note that this review does not encompass other aspects of knowledge management.
+
+## Review Methodology and Compliance Standards
+
+Our review methodology is guided by a robust compliance framework, including the Health Insurance Portability and Accountability Act (HIPAA). The process involves routine checks on system access logs, user activity, and access control policies. We conducted our annual review of the methodology in June 2025, making minor adjustments to improve clarity and precision.
+
+## Significant Findings and Identified Risks
+
+In 2024, we identified an elevated risk of unauthorized access due to a lack of automated system access controls. We found that 12% of user accounts had redundant permissions, which poses a potential security risk. These findings led to significant changes in our access control policies.
+
+## Recommendations and Future Access Control Planning
+
+We recommend implementing multi-factor authentication for all user accounts by Q2 2026. Additionally, we plan to automate access control reviews and integrate them into our quarterly security audits. Our goal is to enhance our security measures and ensure continuous compliance with industry standards.
+
+## Conclusion
+
+Overall, the Q3 2025 review of system access permissions has been completed successfully, adhering to our highest standards of compliance and security. The findings and risks identified in this review will inform our future planning and policy modifications. It is recommended that all virtual care staff continue to abide by the access control guidelines to maintain system integrity. Further, a proactive approach towards regular training and awareness programs is suggested to mitigate potential future risks.

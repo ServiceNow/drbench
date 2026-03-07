@@ -1,0 +1,82 @@
+{
+    "file_name": "fy2025-engagement-analysis",
+    "file_title": "FY2025 Employee Engagement Analysis",
+    "introduction": "This presentation analyzes the results of the FY2025 employee engagement survey. We will focus on staff satisfaction index and its impact on MediConn's operations.",
+    "subsections": [
+        {
+            "heading": "Overview of FY2025 Employee Engagement Survey",
+            "content": "\u2022 The survey was launched in Q1 FY2025 and remained open for a month\n\u2022 Over 80% of MediConn employees participated in the survey\n\u2022 The survey consisted of 20 questions covering various aspects of work life\n\u2022 The survey used a Likert scale to measure responses\n\u2022 Results were analysed by an independent third party to ensure unbiased reporting\n\u2022 The survey results were compared to industry benchmarks to assess MediConn's performance\n\u2022 The data was segmented by department, role, and tenure to identify specific areas of improvement",
+            "type": "distractor",
+            "justification": "This content provides a general overview of the survey but does not reveal the staff satisfaction index score for FY2025."
+        },
+        {
+            "heading": "Breakdown of Staff Satisfaction Index",
+            "content": "\u2022 The Staff Satisfaction Index (SSI) covers multiple dimensions including work-life balance, recognition, and career growth\n\u2022 Each dimension is given equal weight in the overall SSI calculation\n\u2022 SSI scores can range from 0 (extremely dissatisfied) to 100 (extremely satisfied)\n\u2022 MediConn's SSI has seen an upward trend over the last five years\n\u2022 The SSI is a leading indicator of employee retention and productivity\n\u2022 The SSI is monitored on a quarterly basis by the HR department",
+            "type": "distractor",
+            "justification": "This content explains the concept of the Staff Satisfaction Index but does not disclose the actual score for FY2025."
+        },
+        {
+            "heading": "Implications of Engagement Survey Results",
+            "content": "\u2022 High staff satisfaction scores are correlated with lower turnover rates\n\u2022 Survey results will guide the development of new HR policies and programs\n\u2022 Departments with lower satisfaction scores will receive targeted interventions\n\u2022 Senior leadership is committed to enhancing staff satisfaction based on survey results\n\u2022 Continuous monitoring and improvement of staff satisfaction is a key strategic priority for MediConn\n\u2022 The next survey will incorporate any changes made as a result of the FY2025 findings",
+            "type": "distractor",
+            "justification": "This content discusses the implications of the survey results without revealing the specific staff satisfaction index score from the FY2025 engagement survey."
+        }
+    ],
+    "conclusion": "The results of the FY2025 engagement survey indicate areas of strength and opportunities for improvement in staff satisfaction. We will use these insights to formulate strategic initiatives aimed at enhancing employee engagement and productivity.",
+    "file_format": "pptx",
+    "file_path": ".llm_responses/generated_pptx_presentation.pptx",
+    "qa_type": "distractor",
+    "timestamp": "2025-11-20 16:47",
+    "image_queries": [
+        {
+            "slide_title": "Introduction",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "intentionally_clean",
+            "slide_type": "introduction"
+        },
+        {
+            "slide_title": "Overview of FY2025 Employee Engagement Survey",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 7,
+            "total_chars": 512,
+            "probability": 0.25,
+            "theme": "Professional Green"
+        },
+        {
+            "slide_title": "Breakdown of Staff Satisfaction Index",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "failed",
+            "slide_type": "distractor",
+            "content_length": 6,
+            "total_chars": 464,
+            "error": "'str' object has no attribute 'choices'",
+            "theme": "Professional Green"
+        },
+        {
+            "slide_title": "Implications of Engagement Survey Results",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 6,
+            "total_chars": 492,
+            "probability": 0.25,
+            "theme": "Professional Green"
+        },
+        {
+            "slide_title": "Conclusion",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "conclusion_failed",
+            "slide_type": "conclusion",
+            "error": "'str' object has no attribute 'choices'",
+            "theme": "Professional Green"
+        }
+    ],
+    "app": "file_system"
+}

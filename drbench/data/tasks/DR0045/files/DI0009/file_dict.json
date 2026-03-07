@@ -1,0 +1,81 @@
+{
+    "file_name": "platform-impact-assessment",
+    "file_title": "Platform Redesign Impact Assessment",
+    "introduction": "This presentation aims to provide an analytical overview of the impact of our recent platform redesign on attracting potential new patients. We'll explore key metrics, patient feedback, and industry trends.",
+    "subsections": [
+        {
+            "heading": "Industry Trends in Virtual Healthcare",
+            "content": "\u2022 In 2023, the virtual healthcare market saw a 25% growth compared to previous years\n\u2022 An increasing number of patients prefer virtual consultations for minor health issues\n\u2022 The virtual healthcare industry is projected to reach $5 billion by 2026\n\u2022 Telehealth initiatives have been widely adopted by rural communities\n\u2022 Regulatory changes have enabled more virtual healthcare services to be covered by insurance\n\u2022 The pandemic has accelerated the adoption of virtual healthcare services across Canada",
+            "type": "distractor",
+            "justification": "This content provides general industry trends and doesn't directly address the effectiveness of MediConn Solutions' platform redesign."
+        },
+        {
+            "heading": "Patient Feedback and Engagement Metrics",
+            "content": "\u2022 Average session duration on the platform has increased by 10% since 2022\n\u2022 The platform's net promoter score remained steady at 85% throughout 2023\n\u2022 There was a 30% increase in patient queries through the live chat feature in 2023\n\u2022 95% of patients rated the platform's user interface as 'easy to use'\n\u2022 In-app survey showed that most patients found the booking process straightforward\n\u2022 Majority of the patients appreciate the personalized care plans offered on the platform",
+            "type": "distractor",
+            "justification": "This slide presents patient feedback and engagement metrics that don't specifically address the platform redesign's impact on attracting potential new patients."
+        },
+        {
+            "heading": "New Patient Acquisition Post-Redesign",
+            "content": "\u2022 The company's overall patient base has grown by 30% in 2023\n\u2022 In 2023, the company saw a steady increase in the number of corporate clients\n\u2022 The platform's mobile app downloads increased by 20% post-redesign\n\u2022 The average rate of patient referrals has increased by 15% after the redesign\n\u2022 The company has expanded its service to three additional provinces since the redesign\n\u2022 There was a significant increase in engagement on the company's social media platforms post-redesign",
+            "type": "distractor",
+            "justification": "This content focuses on general patient acquisition post-redesign but doesn't specifically address the effectiveness of the redesign in attracting potential new patients."
+        }
+    ],
+    "conclusion": "Our platform redesign has shown a positive impact on attracting new patients, as reflected in our acquisition metrics. Moving forward, we should focus on enhancing user experience further and aligning our services with the evolving industry trends.",
+    "file_format": "pptx",
+    "file_path": ".llm_responses/generated_pptx_presentation.pptx",
+    "qa_type": "distractor",
+    "timestamp": "2025-11-19 23:14",
+    "image_queries": [
+        {
+            "slide_title": "Introduction",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "intentionally_clean",
+            "slide_type": "introduction"
+        },
+        {
+            "slide_title": "Industry Trends in Virtual Healthcare",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 6,
+            "total_chars": 484,
+            "probability": 0.25,
+            "theme": "Corporate Blue"
+        },
+        {
+            "slide_title": "Patient Feedback and Engagement Metrics",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "failed",
+            "slide_type": "distractor",
+            "content_length": 6,
+            "total_chars": 461,
+            "error": "'str' object has no attribute 'choices'",
+            "theme": "Corporate Blue"
+        },
+        {
+            "slide_title": "New Patient Acquisition Post-Redesign",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 6,
+            "total_chars": 464,
+            "probability": 0.25,
+            "theme": "Corporate Blue"
+        },
+        {
+            "slide_title": "Conclusion",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "strategic_clean_conclusion",
+            "slide_type": "conclusion",
+            "theme": "Corporate Blue"
+        }
+    ],
+    "app": "file_system"
+}

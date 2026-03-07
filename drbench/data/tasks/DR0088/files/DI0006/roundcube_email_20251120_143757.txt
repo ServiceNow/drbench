@@ -1,0 +1,149 @@
+================================================================================
+ROUNDCUBE EMAIL EXPORT
+================================================================================
+
+USERS:
+----------------------------------------
+• jordan.lee
+  Name: Jordan Lee
+  Email: jordan.lee@mediconnsolutions.com
+
+• karen.miller
+  Name: Karen Miller
+  Email: karen.miller@mediconnsolutions.com
+
+• michael.brown
+  Name: Michael Brown
+  Email: michael.brown@mediconnsolutions.com
+
+• susan.johnson
+  Name: Susan Johnson
+  Email: susan.johnson@mediconnsolutions.com
+
+• david.rodriguez
+  Name: David Rodriguez
+  Email: david.rodriguez@mediconnsolutions.com
+
+• linda.li
+  Name: Linda Li
+  Email: linda.li@mediconnsolutions.com
+
+• robert.hernandez
+  Name: Robert Hernandez
+  Email: robert.hernandez@mediconnsolutions.com
+
+EMAILS:
+================================================================================
+Email ID: email_001
+Date: 2022-09-12 09:00:00
+From: Jordan Lee <jordan.lee@mediconnsolutions.com>
+To: karen.miller@mediconnsolutions.com, michael.brown@mediconnsolutions.com
+CC: susan.johnson@mediconnsolutions.com
+Subject: Weekly Cybersecurity Team Meeting
+Folder: inbox | Status: Read
+
+Message Body:
+----------------------------------------
+Good morning team, our weekly cybersecurity meeting will be held in the main conference room this Wednesday at 10:00 am. Please prepare updates on your current projects. Thanks, Jordan
+============================================================
+
+Email ID: email_002
+Date: 2022-09-12 10:30:00
+From: Karen Miller <karen.miller@mediconnsolutions.com>
+To: jordan.lee@mediconnsolutions.com
+CC: michael.brown@mediconnsolutions.com
+Subject: Budget Review Meeting
+Folder: inbox | Status: Read
+
+Message Body:
+----------------------------------------
+Hi Jordan, the budget review meeting has been moved to next Monday at 2:00 pm. Please adjust your schedule accordingly. Regards, Karen
+============================================================
+
+Email ID: email_003
+Date: 2022-09-12 11:45:00
+From: Susan Johnson <susan.johnson@mediconnsolutions.com>
+To: jordan.lee@mediconnsolutions.com, karen.miller@mediconnsolutions.com, michael.brown@mediconnsolutions.com, david.rodriguez@mediconnsolutions.com, linda.li@mediconnsolutions.com, robert.hernandez@mediconnsolutions.com
+Subject: Holiday Schedule Reminder
+Folder: inbox | Status: Read
+
+Message Body:
+----------------------------------------
+Dear team, a friendly reminder that the office will be closed on Monday, October 10 in observance of Thanksgiving Day. Please plan your work accordingly. Best, Susan
+============================================================
+
+Email ID: email_004
+Date: 2022-09-12 13:30:00
+From: Linda Li <linda.li@mediconnsolutions.com>
+To: jordan.lee@mediconnsolutions.com, karen.miller@mediconnsolutions.com, michael.brown@mediconnsolutions.com, david.rodriguez@mediconnsolutions.com, susan.johnson@mediconnsolutions.com, robert.hernandez@mediconnsolutions.com
+Subject: New Employee Orientation
+Folder: inbox | Status: Read
+
+Message Body:
+----------------------------------------
+Hello everyone, we have 3 new team members joining us next week. I request you all to be present for the orientation and welcome them aboard. Thanks, Linda
+============================================================
+
+Email ID: email_001
+Date: 2026-06-01 09:00:00
+From: Jordan Lee <jordan.lee@mediconnsolutions.com>
+To: karen.miller@mediconnsolutions.com, michael.brown@mediconnsolutions.com
+CC: susan.johnson@mediconnsolutions.com, david.rodriguez@mediconnsolutions.com, linda.li@mediconnsolutions.com, robert.hernandez@mediconnsolutions.com
+Subject: AI Anomaly Detection Tool Integration
+Folder: sent | Status: Read
+
+Message Body:
+----------------------------------------
+Dear Team,
+
+In light of the recent call for proposals by CSCP to strengthen Canada's cyber resilience, we are considering integrating an AI anomaly detection tool into our existing infrastructure. This tool should help us to better address evolving cyber threats.
+
+As we start planning for this integration, it's crucial that we consider the potential impact on our existing services. Any disruptions to our critical healthcare services could not only harm our patients but also affect our market valuation, which as of Q3 2025 stands between $0.5-0.7 billion.
+
+Let's discuss this in our upcoming meeting.
+
+Best,
+Jordan
+============================================================
+
+Email ID: email_002
+Date: 2026-06-01 10:30:00
+From: Michael Brown <michael.brown@mediconnsolutions.com>
+To: jordan.lee@mediconnsolutions.com, karen.miller@mediconnsolutions.com
+CC: susan.johnson@mediconnsolutions.com, david.rodriguez@mediconnsolutions.com, linda.li@mediconnsolutions.com, robert.hernandez@mediconnsolutions.com
+Subject: Re: AI Anomaly Detection Tool Integration
+Folder: sent | Status: Read
+
+Message Body:
+----------------------------------------
+Jordan,
+
+Thank you for bringing this to our attention. I agree on maintaining the integrity of our existing services, and I believe we can achieve this through a phased implementation approach. We will discuss this further in our meeting.
+
+Best regards,
+Michael
+============================================================
+
+Email ID: email_003
+Date: 2026-06-01 11:00:00
+From: Karen Miller <karen.miller@mediconnsolutions.com>
+To: jordan.lee@mediconnsolutions.com, michael.brown@mediconnsolutions.com
+CC: susan.johnson@mediconnsolutions.com, david.rodriguez@mediconnsolutions.com, linda.li@mediconnsolutions.com, robert.hernandez@mediconnsolutions.com
+Subject: Re: AI Anomaly Detection Tool Integration
+Folder: inbox | Status: Read
+
+Message Body:
+----------------------------------------
+Jordan, Michael,
+
+I appreciate the heads up on this. Our market cap and reputation in the healthcare industry are indeed valuable assets that we need to protect. Let's ensure we take a cautious approach to this AI implementation.
+
+Looking forward to our discussion.
+
+Best,
+Karen
+============================================================
+
+================================================================================
+END OF EMAIL EXPORT
+================================================================================

@@ -1,0 +1,13 @@
+Company,Year,Department,Percentage_Women,Percentage_Men,Percentage_NonBinary,Quarterly_Variation
+The name of the company the data pertains to.,The year in which the gender composition data was evaluated.,The specific team or department within the company the data pertains to.,The percentage of women in the specific team or department for that year.,The percentage of men in the specific team or department for that year.,The percentage of non-binary employees in the specific team or department for that year.,An assessment of how the gender composition changed over the quarters of the year.
+MediConn Solutions,2022,Customer Service,58%,40%,2%,Stable throughout the year
+GlobalSoft,2024,Marketing,45%,52%,3%,Increase in non-binary representation in Q2 and Q3
+MediConn Solutions,2023,Customer Service,60%,38%,2%,Slight increase in women's representation in Q4
+TechCorp,2024,Engineering,32%,63%,5%,Stable throughout the year
+MediConn Solutions,2024,HR,80%,18%,2%,Increase in non-binary representation in Q4
+TechCorp,2023,Sales,35%,60%,5%,Stable throughout the year
+TechCorp,2023,Engineering,30%,65%,5%,Increased women's representation in Q3 and Q4
+GlobalSoft,2023,Sales,42%,56%,2%,Decrease in men's representation in Q4
+GlobalSoft,2024,Sales,40%,58%,2%,Stable throughout the year
+MediConn Solutions,2024,Customer Service,62%,36%,2%,Minimal variation across quarters
+MediConn Solutions,2024,Marketing,70%,28%,2%,Increase in women's representation in Q2 and Q3

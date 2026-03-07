@@ -1,0 +1,168 @@
+================================================================================
+ROUNDCUBE EMAIL EXPORT
+================================================================================
+
+USERS:
+----------------------------------------
+• emily.chen
+  Name: Emily Chen
+  Email: emily.chen@mediconnsolutions.com
+
+• john.doe
+  Name: John Doe
+  Email: john.doe@mediconnsolutions.com
+
+• sarah.jones
+  Name: Sarah Jones
+  Email: sarah.jones@mediconnsolutions.com
+
+• michael.brown
+  Name: Michael Brown
+  Email: michael.brown@mediconnsolutions.com
+
+• lucy.taylor
+  Name: Lucy Taylor
+  Email: lucy.taylor@mediconnsolutions.com
+
+• mark.wilson
+  Name: Mark Wilson
+  Email: mark.wilson@mediconnsolutions.com
+
+• rachel.thomas
+  Name: Rachel Thomas
+  Email: rachel.thomas@mediconnsolutions.com
+
+EMAILS:
+================================================================================
+Email ID: email_001
+Date: 2023-05-10 10:00:00
+From: John Doe <john.doe@mediconnsolutions.com>
+To: emily.chen@mediconnsolutions.com, sarah.jones@mediconnsolutions.com, michael.brown@mediconnsolutions.com, lucy.taylor@mediconnsolutions.com, mark.wilson@mediconnsolutions.com, rachel.thomas@mediconnsolutions.com
+Subject: Q2 Budget Planning Meeting
+Folder: inbox | Status: Read
+
+Message Body:
+----------------------------------------
+Dear Team,
+
+I hope this email finds you well. We will be having our Q2 budget planning meeting on May 20th at 11:00 AM. Please prepare the necessary data for your respective departments.
+
+Best regards,
+John Doe
+============================================================
+
+Email ID: email_002
+Date: 2023-06-01 09:30:00
+From: Lucy Taylor <lucy.taylor@mediconnsolutions.com>
+To: emily.chen@mediconnsolutions.com, john.doe@mediconnsolutions.com, sarah.jones@mediconnsolutions.com, michael.brown@mediconnsolutions.com, mark.wilson@mediconnsolutions.com, rachel.thomas@mediconnsolutions.com
+Subject: New HR Policy Updates
+Folder: inbox | Status: Read
+
+Message Body:
+----------------------------------------
+Hello Everyone,
+
+Please note that we have updated our HR policies. You can find the revised policies on our internal platform. Kindly make sure to familiarize yourself with these changes.
+
+Best,
+Lucy Taylor
+============================================================
+
+Email ID: email_003
+Date: 2023-06-15 13:30:00
+From: Michael Brown <michael.brown@mediconnsolutions.com>
+To: emily.chen@mediconnsolutions.com
+Subject: MediConn Solutions Employee Health Check
+Folder: inbox | Status: Read
+
+Message Body:
+----------------------------------------
+Hi Emily,
+
+Just a friendly reminder about the annual employee health check next week. Please schedule your appointment via the staff portal.
+
+Best,
+Michael Brown
+============================================================
+
+Email ID: email_004
+Date: 2023-06-20 10:00:00
+From: Emily Chen <emily.chen@mediconnsolutions.com>
+To: john.doe@mediconnsolutions.com, sarah.jones@mediconnsolutions.com, michael.brown@mediconnsolutions.com, lucy.taylor@mediconnsolutions.com, mark.wilson@mediconnsolutions.com, rachel.thomas@mediconnsolutions.com
+Subject: Upcoming Virtual Healthcare Webinar
+Folder: inbox | Status: Read
+
+Message Body:
+----------------------------------------
+Hello Team,
+
+I would like to inform you about an upcoming webinar on Virtual Healthcare. It might be interesting and beneficial for us. Please let me know if you wish to participate so I can arrange the necessary access.
+
+Regards,
+Emily Chen
+============================================================
+
+Email ID: email_001
+Date: 2025-07-01 09:30:00
+From: John Doe <john.doe@mediconnsolutions.com>
+To: emily.chen@mediconnsolutions.com, sarah.jones@mediconnsolutions.com
+CC: michael.brown@mediconnsolutions.com, lucy.taylor@mediconnsolutions.com, mark.wilson@mediconnsolutions.com, rachel.thomas@mediconnsolutions.com
+Subject: Q2 2025 Performance Analysis Results
+Folder: inbox | Status: Read
+Attachments: 1 file(s)
+
+Message Body:
+----------------------------------------
+Hello team,
+
+I am pleased to share the results of our Q2 performance analysis. We have seen significant improvements across several metrics, most notably, our healthcare provider retention rate has increased by 10%. This is a clear indication of the effectiveness of our recent initiatives aimed at improving provider satisfaction.
+
+The detailed report is attached. Please review and let me know if you have any questions or concerns.
+
+Best,
+John
+============================================================
+
+Email ID: email_002
+Date: 2025-07-01 10:45:00
+From: Emily Chen <emily.chen@mediconnsolutions.com>
+To: john.doe@mediconnsolutions.com
+CC: sarah.jones@mediconnsolutions.com, michael.brown@mediconnsolutions.com, lucy.taylor@mediconnsolutions.com, mark.wilson@mediconnsolutions.com, rachel.thomas@mediconnsolutions.com
+Subject: Re: Q2 2025 Performance Analysis Results
+Folder: inbox | Status: Read
+
+Message Body:
+----------------------------------------
+Hi John,
+
+Thank you for sharing the Q2 performance analysis. It's great to see such positive results, especially in terms of our healthcare provider retention rate. This increase is indeed a testament to the effectiveness of our recent initiatives.
+
+I believe this data will prove valuable in our ongoing efforts to improve patient trust, satisfaction, and retention as we continue to grow in the Canadian market.
+
+Best,
+Emily
+============================================================
+
+Email ID: email_003
+Date: 2025-07-01 11:20:00
+From: Sarah Jones <sarah.jones@mediconnsolutions.com>
+To: emily.chen@mediconnsolutions.com, john.doe@mediconnsolutions.com
+CC: michael.brown@mediconnsolutions.com, lucy.taylor@mediconnsolutions.com, mark.wilson@mediconnsolutions.com, rachel.thomas@mediconnsolutions.com
+Subject: Re: Q2 2025 Performance Analysis Results
+Folder: inbox | Status: Read
+
+Message Body:
+----------------------------------------
+Hello Emily and John,
+
+I completely agree with Emily's points. We should definitely leverage this positive trend in our strategic planning for enhancing patient experience in the telehealth space. A satisfied healthcare provider is likely to provide better care, thus increasing patient satisfaction and trust.
+
+Let's keep up the good work!
+
+Best,
+Sarah
+============================================================
+
+================================================================================
+END OF EMAIL EXPORT
+================================================================================

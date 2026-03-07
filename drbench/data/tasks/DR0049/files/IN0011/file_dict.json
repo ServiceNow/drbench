@@ -1,0 +1,81 @@
+{
+    "file_name": "patient-appointment-optimization",
+    "file_title": "Optimizing Patient Appointment Experience",
+    "introduction": "In light of recent feedback on our appointment booking process, we need to critically examine and identify the areas that require improvement. This presentation aims to evaluate whether our booking tool design or customer support processes are hindering patient experience.",
+    "subsections": [
+        {
+            "heading": "Analyzing Patient Feedback on Booking Tools",
+            "content": "\u2022 In Q4 2024, 11% of all booking attempts, equating to 5,200 users, discontinued their booking attempt at the coverage verification phase.\n\u2022 These users ceased their booking process specifically during provincial health card and supplemental insurance validation.\n\u2022 Interestingly, these users made no attempts to contact our support team, implying a potential confusion or frustration with the process.\n\u2022 This abandonment could indicate a lack of clarity or user-friendliness in our coverage verification step.\n\u2022 This data prompts us to consider the need for a more intuitive interface or additional help resources at this critical juncture in the booking process.\n\u2022 We need to investigate if this pattern is consistent across different periods or if it is a unique occurrence in Q4 2024.\n\u2022 Understanding the root cause of this issue is vital to improving our platform's usability and overall patient experience.",
+            "type": "insight",
+            "justification": "This content provides insight into when and why patients abandon the booking process, helping identify potential issues with the booking tool or customer support."
+        },
+        {
+            "heading": "Assessing Efficiency of Customer Support Processes",
+            "content": "\u2022 Our customer support team has a 95% satisfaction rate based on post-call surveys\n\u2022 Average call wait time in Q4 2021 was under 3 minutes\n\u2022 We implemented a new customer support training program in 2021, leading to a 10% improvement in call resolution times\n\u2022 Our customer support department received the 'Excellence in Service' award in 2023\n\u2022 We have successfully reduced the number of repeat calls by 15% in the last year\n\u2022 On average, customer support representatives resolve issues within the first call 90% of the time",
+            "type": "distractor",
+            "justification": "This content discusses the efficiency and success of the customer support team, not potential problems or barriers."
+        },
+        {
+            "heading": "Identifying Root Causes for Appointment Booking Issues",
+            "content": "\u2022 We have a dedicated team to monitor and address any technical issues with the booking tool\n\u2022 Our IT department conducts weekly system checks to ensure the functionality of the booking tool\n\u2022 Customer support team is trained to troubleshoot common booking tool problems\n\u2022 We regularly update our FAQs and support documents based on common issues reported\n\u2022 We have a strong feedback loop between the customer support and product development teams\n\u2022 Our product roadmap includes regular updates and improvements to the booking tool",
+            "type": "distractor",
+            "justification": "This content provides general information about how the company handles issues but does not identify specific problems or root causes."
+        }
+    ],
+    "conclusion": "We've identified key areas in our booking and support processes that require immediate attention. Moving forward, we will implement necessary changes to enhance our patients' overall experience and satisfaction.",
+    "file_format": "pptx",
+    "file_path": ".llm_responses/generated_pptx_presentation.pptx",
+    "qa_type": "insight",
+    "timestamp": "2025-12-02 17:17",
+    "image_queries": [
+        {
+            "slide_title": "Introduction",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "intentionally_clean",
+            "slide_type": "introduction"
+        },
+        {
+            "slide_title": "Analyzing Patient Feedback on Booking Tools",
+            "has_image": true,
+            "image_query": "patient feedback analysis infographic",
+            "generation_method": "strategic_placement",
+            "slide_type": "insight",
+            "content_length": 7,
+            "total_chars": 892,
+            "forced": false,
+            "theme": "Executive Purple"
+        },
+        {
+            "slide_title": "Assessing Efficiency of Customer Support Processes",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 6,
+            "total_chars": 508,
+            "probability": 0.25,
+            "theme": "Executive Purple"
+        },
+        {
+            "slide_title": "Identifying Root Causes for Appointment Booking Issues",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 6,
+            "total_chars": 514,
+            "probability": 0.25,
+            "theme": "Executive Purple"
+        },
+        {
+            "slide_title": "Conclusion",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "strategic_clean_conclusion",
+            "slide_type": "conclusion",
+            "theme": "Executive Purple"
+        }
+    ],
+    "app": "file_system"
+}

@@ -1,0 +1,13 @@
+Audit_Period,Auditor,Reviewed_Cycles,Adjusted_Permissions,Principle_Assured
+The period in which the biannual permission audits were conducted.,The individual who conducted the biannual permission audits.,The frequency at which the audits were reviewed.,The number of outdated permissions adjusted in each audit round.,The principle that was ensured during the audit process.
+Feb-Aug 2022,Jason Wong,Biannually,75,Least Privileged Principle
+Feb-Aug 2025,Jason Wong,Biannually,90,Least Privileged Principle
+Aug-Feb 2025,Emily Chen,Annually,75,Security Principle
+Aug-Feb 2024,Jason Wong,Biannually,80,Least Privileged Principle
+Aug-Feb 2023,Emily Chen,Annually,70,Security Principle
+Feb-Aug 2022,Emily Chen,Annually,65,Security Principle
+Feb-Aug 2023,Jason Wong,Biannually,75,Least Privileged Principle
+Aug-Feb 2024,Emily Chen,Annually,70,Security Principle
+Feb-Aug 2024,Emily Chen,Annually,70,Security Principle
+Feb-Aug 2024,Jason Wong,Biannually,80,Least Privileged Principle
+Aug-Feb 2025,Jason Wong,Biannually,85,Least Privileged Principle

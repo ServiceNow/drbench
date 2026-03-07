@@ -1,0 +1,81 @@
+{
+    "file_name": "recipe-sales-impact",
+    "file_title": "Impact of Recipe Inclusion on Online Sales",
+    "introduction": "This presentation aims to evaluate the correlation between the inclusion of recipes on our website and the online sales of specialized ingredients in our southern sales region. The findings will help shape our digital marketing and sales strategy.",
+    "subsections": [
+        {
+            "heading": "Southern Region Online Sales Overview",
+            "content": "\u2022 Southern region sales have grown by 20% year-on-year\n\u2022 Online grocery sales account for 35% of our total sales in the southern region\n\u2022 The southern region has the highest concentration of urban centers, contributing to increased online sales\n\u2022 Our partnership with local delivery services has expanded our reach in this region\n\u2022 The online customer base in the southern region is primarily aged between 25-44 years\n\u2022 Our online sales in the southern region have been boosted by our wide range of Asian grocery products",
+            "type": "distractor",
+            "justification": "This content focuses on overall sales data and doesn't provide information on the impact of recipes on specialized ingredient sales."
+        },
+        {
+            "heading": "Impact of Recipe Inclusion on Specialized Ingredient Sales",
+            "content": "\u2022 Our website features a dedicated recipe section aimed at promoting our products\n\u2022 We have collaborated with popular chefs to create exclusive recipes using our products\n\u2022 Customer engagement with our recipe section has been consistently high\n\u2022 We have seen an uptick in sales of products featured in our recipes\n\u2022 Our recipes cater to a wide range of cuisines, attracting a diverse customer base\n\u2022 We have optimized our website for easy access to recipes and related ingredients",
+            "type": "distractor",
+            "justification": "This content focuses on generalities and overall trends of recipe inclusion, avoiding any specific data on the southern region."
+        },
+        {
+            "heading": "Future Online Marketing Strategies",
+            "content": "\u2022 We plan to invest in targeted social media advertising to increase online sales\n\u2022 SEO optimization is a key part of our future online marketing strategy\n\u2022 We aim to collaborate with influential food bloggers to increase our brand visibility\n\u2022 Developing an app to streamline online shopping is part of our future strategy\n\u2022 We will explore partnerships with meal-kit services for better product placement\n\u2022 We will continue to expand our recipe section with more diverse cuisines",
+            "type": "distractor",
+            "justification": "This content focuses on future strategies and doesn't provide any data or information on the impact of recipes on specialized ingredient sales in the southern region."
+        }
+    ],
+    "conclusion": "In summary, recipe inclusion has positively impacted the online sales of specialized ingredients in the southern region. Going forward, we should consider expanding this strategy to other regions and product categories.",
+    "file_format": "pptx",
+    "file_path": ".llm_responses/generated_pptx_presentation.pptx",
+    "qa_type": "distractor",
+    "timestamp": "2025-11-19 01:40",
+    "image_queries": [
+        {
+            "slide_title": "Introduction",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "intentionally_clean",
+            "slide_type": "introduction"
+        },
+        {
+            "slide_title": "Southern Region Online Sales Overview",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "failed",
+            "slide_type": "distractor",
+            "content_length": 6,
+            "total_chars": 504,
+            "error": "'str' object has no attribute 'choices'",
+            "theme": "Executive Purple"
+        },
+        {
+            "slide_title": "Impact of Recipe Inclusion on Specialized Ingredient Sales",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 6,
+            "total_chars": 463,
+            "probability": 0.25,
+            "theme": "Executive Purple"
+        },
+        {
+            "slide_title": "Future Online Marketing Strategies",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 6,
+            "total_chars": 464,
+            "probability": 0.25,
+            "theme": "Executive Purple"
+        },
+        {
+            "slide_title": "Conclusion",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "strategic_clean_conclusion",
+            "slide_type": "conclusion",
+            "theme": "Executive Purple"
+        }
+    ],
+    "app": "file_system"
+}

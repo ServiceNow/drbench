@@ -1,0 +1,14 @@
+Date,Distinct_Charging_Station_Models_Tested,CCS_Protocol_Versions_Tested,Level2_Charger_Configurations_Tested,Planned_Charging_Scenarios_Next_Year
+The date when the data was reported or updated.,The number of distinct charging station models tested by Elexion Automotive's quality assurance team.,The number of Combined Charging System (CCS) protocol versions tested by Elexion Automotive's quality assurance team.,The number of Level 2 charger configurations tested by Elexion Automotive's quality assurance team.,The number of charging scenarios that Elexion Automotive's quality assurance team plans to test in the following year.
+2024-05-31,65,8,14,85
+2024-10-31,78,13,19,110
+2024-03-31,60,6,12,75
+2024-11-30,80,14,20,115
+2024-01-31,55,4,10,65
+2024-09-30,75,12,18,105
+2024-08-31,73,11,17,100
+2024-07-31,70,10,16,95
+2024-06-30,68,9,15,90
+2024-02-29,58,5,11,70
+2024-04-30,63,7,13,80
+2024-12-31,87,15,22,120

@@ -1,0 +1,13 @@
+Division_Name,Form_Update_Status,Update_Date,Total_Divisions,Updated_Divisions
+This column represents the name of the business division within Lee's Market.,"This column indicates whether the division has received and incorporated the new knowledge-sharing forms into their workflows. 'True' means they have received and incorporated the forms, 'False' means they have not.",This column represents the date when the division incorporated the new knowledge-sharing forms into their workflows.,This column represents the total number of business divisions within Lee's Market.,This column represents the number of divisions that have incorporated the new knowledge-sharing forms into their workflows.
+Division 1,True,2025-05-01,5,1
+Division 2,True,2026-06-01,5,2
+Division 1,True,2026-05-01,5,1
+Division 2,True,2025-06-01,5,2
+Division 4,True,2026-08-01,5,4
+Division 3,True,2025-07-01,5,3
+Division 3,True,2026-07-01,5,3
+Division 5,True,2026-09-01,5,5
+Division 5,True,2025-11-01,5,5
+Division 5,False,,5,0
+Division 4,True,2025-10-01,5,4

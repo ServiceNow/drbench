@@ -1,0 +1,29 @@
+{
+    "file_name": "feedback-collection-practices",
+    "file_title": "Customer Feedback Collection Practices at Lee's Market",
+    "introduction": "This document provides an overview of our current strategies for gathering customer feedback at Lee's Market. Our focus is on both online and in-person methods, with particular emphasis on frequency and effectiveness. As we strive to improve our services and meet customer expectations, understanding our feedback collection practices is critical.",
+    "subsections": [
+        {
+            "heading": "In-Store Customer Feedback Mechanisms",
+            "content": "Lee's Market has installed feedback kiosks at key points in our stores, such as the exit and the customer service desk. These kiosks, which were first introduced in Q3 of 2023, allow customers to rate their shopping experience on a scale of 1-5. We also implemented a 'Suggestion Box' near the checkout counters, encouraging customers to offer ideas for improving their shopping experience.",
+            "type": "distractor",
+            "justification": "Discusses feedback mechanisms but not frequency of in-person surveys."
+        },
+        {
+            "heading": "Online Customer Feedback Channels",
+            "content": "To bolster our digital footprint, we introduced a post-purchase survey on our ecommerce platform in January 2024. We also encourage customers to leave reviews and ratings on products purchased online. Additionally, social media has been a valuable channel for us to gather informal feedback, with a 20% increase in customer comments on our posts in the past year.",
+            "type": "distractor",
+            "justification": "Focuses on online feedback channels, not in-person survey frequency."
+        },
+        {
+            "heading": "Analysis of In-Person Survey Frequency",
+            "content": "The decision to conduct in-person surveys at Lee's Market is influenced by a range of factors including seasonal trends, product launches, and store footfall. For instance, surveys were more frequent during the launch of our in-house brand in 2023. The data collected from these surveys is analyzed by our Market Research Department for strategic planning.",
+            "type": "distractor",
+            "justification": "Talks about factors influencing survey frequency, not specific frequency of surveys."
+        }
+    ],
+    "conclusion": "Understanding our customer feedback practices is vital to improving our services and customer satisfaction. Our in-person surveys are a key part of our feedback collection, complemented by online methods. The data presented provides a foundation for future improvements in our feedback collection process. It is recommended to review these practices regularly to ensure their effectiveness.",
+    "file_format": "docx",
+    "file_path": ".llm_responses/generated_docx_document.docx",
+    "app": "file_system"
+}

@@ -1,0 +1,8 @@
+{
+    "file_name": "Lees_Market_IT_Complaints_Record",
+    "file_format": "xlsx",
+    "file_path": "drbench/data/tasks/DR0023/files/DI0005/Lees_Market_IT_Complaints_Record.xlsx",
+    "csv_path": "drbench/data/tasks/DR0023/files/DI0005/Lees_Market_IT_Complaints_Record.csv",
+    "qa_type": "distractor",
+    "app": "file_system"
+}

@@ -1,0 +1,10 @@
+{
+    "insight_id": "DI0025",
+    "qa_type": "distractor",
+    "qa_index": 25,
+    "specific_question": "How many automated notifications did the CRM system of Elexion Automotive send to sales representatives from February to November during 2024?",
+    "answer": "Between February and November 2024, Elexion Automotive CRM system sent 19,255 automated email notifications to sales representatives about lead activities.",
+    "justification": "",
+    "timestamp": "2025-11-20 01:33",
+    "dr_question": "By the end of 2025, how can Elexion Automotive use data generated through its customer relationship management system to analyze customer behavior online and identify patterns that drive sales?"
+}

@@ -1,0 +1,263 @@
+{
+    "file_name": "mattermost_chat_20251202_132610",
+    "content": "{\"type\": \"version\", \"version\": 1}\n{\"type\": \"team\", \"team\": {\"name\": \"ops_and_training\", \"display_name\": \"Operations and Training\", \"type\": \"O\", \"header\": \"Team handling operations and training at Lee's Market\", \"purpose\": \"Manage and streamline operations and staff training\"}}\n{\"type\": \"team\", \"team\": {\"name\": \"knowledge_management\", \"display_name\": \"Knowledge Management\", \"type\": \"O\", \"header\": \"Team for managing internal knowledge systems\", \"purpose\": \"Organize and update knowledge databases and SOPs\"}}\n{\"type\": \"channel\", \"channel\": {\"team\": \"ops_and_training\", \"name\": \"sop_updates\", \"display_name\": \"SOP Updates\", \"type\": \"O\", \"header\": \"Channel for SOP updates and discussions\", \"purpose\": \"Discuss and update SOPs for store and warehouse operations\"}}\n{\"type\": \"channel\", \"channel\": {\"team\": \"knowledge_management\", \"name\": \"system_upgrades\", \"display_name\": \"System Upgrades\", \"type\": \"O\", \"header\": \"Channel for knowledge system upgrades\", \"purpose\": \"Discuss and coordinate system upgrades\"}}\n{\"type\": \"user\", \"user\": {\"username\": \"sophie_tran\", \"email\": \"stran@leesmarket.com\", \"password\": \"sophie123\", \"nickname\": \"Sophie\", \"first_name\": \"Sophie\", \"last_name\": \"Tran\", \"position\": \"Knowledge Management Coordinator\", \"roles\": \"system_user\", \"locale\": \"en\", \"teams\": [{\"name\": \"ops_and_training\", \"roles\": \"team_user\", \"channels\": [{\"name\": \"sop_updates\", \"roles\": \"channel_user\"}]}, {\"name\": \"knowledge_management\", \"roles\": \"team_user\", \"channels\": [{\"name\": \"system_upgrades\", \"roles\": \"channel_user\"}]}]}}\n{\"type\": \"user\", \"user\": {\"username\": \"john_doe\", \"email\": \"jdoe@leesmarket.com\", \"password\": \"john123\", \"nickname\": \"John\", \"first_name\": \"John\", \"last_name\": \"Doe\", \"position\": \"IT Specialist\", \"roles\": \"system_user\", \"locale\": \"en\", \"teams\": [{\"name\": \"knowledge_management\", \"roles\": \"team_user\", \"channels\": [{\"name\": \"system_upgrades\", \"roles\": \"channel_user\"}]}]}}\n{\"type\": \"user\", \"user\": {\"username\": \"jane_smith\", \"email\": \"jsmith@leesmarket.com\", \"password\": \"jane123\", \"nickname\": \"Jane\", \"first_name\": \"Jane\", \"last_name\": \"Smith\", \"position\": \"Operations Manager\", \"roles\": \"system_user\", \"locale\": \"en\", \"teams\": [{\"name\": \"ops_and_training\", \"roles\": \"team_user\", \"channels\": [{\"name\": \"sop_updates\", \"roles\": \"channel_user\"}]}]}}\n{\"type\": \"user\", \"user\": {\"username\": \"sophie.tran\", \"nickname\": \"sophie.tran\", \"first_name\": \"Sophie\", \"last_name\": \"Tran\", \"roles\": [\"member\"], \"position\": \"Knowledge Management Coordinator\", \"email\": \"sophie.tran@leesmarket.com\", \"locale\": \"en\", \"teams\": [{\"name\": \"ops_and_training\", \"roles\": \"team_user\", \"channels\": [{\"name\": \"sop_updates\", \"roles\": \"channel_user\"}]}, {\"name\": \"knowledge_management\", \"roles\": \"team_user\", \"channels\": [{\"name\": \"system_upgrades\", \"roles\": \"channel_user\"}]}]}}\n{\"type\": \"post\", \"post\": {\"team\": \"ops_and_training\", \"channel\": \"sop_updates\", \"user\": \"jane_smith\", \"message\": \"Morning team, let's ensure we're all up to speed with the new SOP for in-store hygiene. It's a top priority.\", \"created_at\": 1620500000000}}\n{\"type\": \"post\", \"post\": {\"team\": \"ops_and_training\", \"channel\": \"sop_updates\", \"user\": \"sophie_tran\", \"message\": \"Thanks Jane, I'll organize a training session for all staff members this week.\", \"created_at\": 1620500600000}}\n{\"type\": \"post\", \"post\": {\"team\": \"knowledge_management\", \"channel\": \"system_upgrades\", \"user\": \"john_doe\", \"message\": \"We're experiencing a minor glitch in the inventory system. Should be resolved in the next few hours.\", \"created_at\": 1620501200000}}\n{\"type\": \"post\", \"post\": {\"team\": \"knowledge_management\", \"channel\": \"system_upgrades\", \"user\": \"sophie_tran\", \"message\": \"Thanks for the update, John. Please keep us posted.\", \"created_at\": 1620501800000}}\n{\"type\": \"post\", \"post\": {\"team\": \"ops_and_training\", \"channel\": \"sop_updates\", \"user\": \"jane_smith\", \"message\": \"Just a reminder for everyone to review the updated customer service SOPs before our meeting tomorrow.\", \"created_at\": 1620502400000}}\n{\"type\": \"post\", \"post\": {\"team\": \"knowledge_management\", \"channel\": \"system_upgrades\", \"user\": \"john_doe\", \"message\": \"The inventory system issue has been resolved. Everything's back to normal now.\", \"created_at\": 1620503000000}}\n{\"type\": \"post\", \"post\": {\"team\": \"knowledge_management\", \"channel\": \"system_upgrades\", \"user\": \"sophie_tran\", \"message\": \"Hello team, as part of our Knowledge Management System report for September 2025, I've noticed an interesting trend. We've been working closely with the IT department to streamline and improve our database. As of now, around 12% of the IT staff is directly involved in developing and upgrading the knowledge management database. This collaboration has been instrumental in ensuring the efficiency and relevancy of our system.\", \"create_at\": 1620500000000}}",
+    "chat_setup": {
+        "teams": [
+            {
+                "type": "team",
+                "team": {
+                    "name": "ops_and_training",
+                    "display_name": "Operations and Training",
+                    "type": "O",
+                    "header": "Team handling operations and training at Lee's Market",
+                    "purpose": "Manage and streamline operations and staff training"
+                }
+            },
+            {
+                "type": "team",
+                "team": {
+                    "name": "knowledge_management",
+                    "display_name": "Knowledge Management",
+                    "type": "O",
+                    "header": "Team for managing internal knowledge systems",
+                    "purpose": "Organize and update knowledge databases and SOPs"
+                }
+            }
+        ],
+        "channels": [
+            {
+                "type": "channel",
+                "channel": {
+                    "team": "ops_and_training",
+                    "name": "sop_updates",
+                    "display_name": "SOP Updates",
+                    "type": "O",
+                    "header": "Channel for SOP updates and discussions",
+                    "purpose": "Discuss and update SOPs for store and warehouse operations"
+                }
+            },
+            {
+                "type": "channel",
+                "channel": {
+                    "team": "knowledge_management",
+                    "name": "system_upgrades",
+                    "display_name": "System Upgrades",
+                    "type": "O",
+                    "header": "Channel for knowledge system upgrades",
+                    "purpose": "Discuss and coordinate system upgrades"
+                }
+            }
+        ],
+        "users": [
+            {
+                "type": "user",
+                "user": {
+                    "username": "sophie_tran",
+                    "email": "stran@leesmarket.com",
+                    "password": "sophie123",
+                    "nickname": "Sophie",
+                    "first_name": "Sophie",
+                    "last_name": "Tran",
+                    "position": "Knowledge Management Coordinator",
+                    "roles": "system_user",
+                    "locale": "en",
+                    "teams": [
+                        {
+                            "name": "ops_and_training",
+                            "roles": "team_user",
+                            "channels": [
+                                {
+                                    "name": "sop_updates",
+                                    "roles": "channel_user"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "knowledge_management",
+                            "roles": "team_user",
+                            "channels": [
+                                {
+                                    "name": "system_upgrades",
+                                    "roles": "channel_user"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "type": "user",
+                "user": {
+                    "username": "john_doe",
+                    "email": "jdoe@leesmarket.com",
+                    "password": "john123",
+                    "nickname": "John",
+                    "first_name": "John",
+                    "last_name": "Doe",
+                    "position": "IT Specialist",
+                    "roles": "system_user",
+                    "locale": "en",
+                    "teams": [
+                        {
+                            "name": "knowledge_management",
+                            "roles": "team_user",
+                            "channels": [
+                                {
+                                    "name": "system_upgrades",
+                                    "roles": "channel_user"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "type": "user",
+                "user": {
+                    "username": "jane_smith",
+                    "email": "jsmith@leesmarket.com",
+                    "password": "jane123",
+                    "nickname": "Jane",
+                    "first_name": "Jane",
+                    "last_name": "Smith",
+                    "position": "Operations Manager",
+                    "roles": "system_user",
+                    "locale": "en",
+                    "teams": [
+                        {
+                            "name": "ops_and_training",
+                            "roles": "team_user",
+                            "channels": [
+                                {
+                                    "name": "sop_updates",
+                                    "roles": "channel_user"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "type": "user",
+                "user": {
+                    "username": "sophie.tran",
+                    "nickname": "sophie.tran",
+                    "first_name": "Sophie",
+                    "last_name": "Tran",
+                    "roles": [
+                        "member"
+                    ],
+                    "position": "Knowledge Management Coordinator",
+                    "email": "sophie.tran@leesmarket.com",
+                    "locale": "en",
+                    "teams": [
+                        {
+                            "name": "ops_and_training",
+                            "roles": "team_user",
+                            "channels": [
+                                {
+                                    "name": "sop_updates",
+                                    "roles": "channel_user"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "knowledge_management",
+                            "roles": "team_user",
+                            "channels": [
+                                {
+                                    "name": "system_upgrades",
+                                    "roles": "channel_user"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    "chat_messages": [
+        {
+            "type": "post",
+            "post": {
+                "team": "knowledge_management",
+                "channel": "system_upgrades",
+                "user": "sophie_tran",
+                "message": "Hello team, as part of our Knowledge Management System report for September 2025, I've noticed an interesting trend. We've been working closely with the IT department to streamline and improve our database. As of now, around 12% of the IT staff is directly involved in developing and upgrading the knowledge management database. This collaboration has been instrumental in ensuring the efficiency and relevancy of our system.",
+                "create_at": 1620500000000
+            },
+            "tag": "insight"
+        },
+        {
+            "type": "post",
+            "post": {
+                "team": "ops_and_training",
+                "channel": "sop_updates",
+                "user": "jane_smith",
+                "message": "Morning team, let's ensure we're all up to speed with the new SOP for in-store hygiene. It's a top priority.",
+                "created_at": 1620500000000
+            },
+            "tag": "distractor"
+        },
+        {
+            "type": "post",
+            "post": {
+                "team": "ops_and_training",
+                "channel": "sop_updates",
+                "user": "sophie_tran",
+                "message": "Thanks Jane, I'll organize a training session for all staff members this week.",
+                "created_at": 1620500600000
+            },
+            "tag": "distractor"
+        },
+        {
+            "type": "post",
+            "post": {
+                "team": "knowledge_management",
+                "channel": "system_upgrades",
+                "user": "john_doe",
+                "message": "We're experiencing a minor glitch in the inventory system. Should be resolved in the next few hours.",
+                "created_at": 1620501200000
+            },
+            "tag": "distractor"
+        },
+        {
+            "type": "post",
+            "post": {
+                "team": "knowledge_management",
+                "channel": "system_upgrades",
+                "user": "sophie_tran",
+                "message": "Thanks for the update, John. Please keep us posted.",
+                "created_at": 1620501800000
+            },
+            "tag": "distractor"
+        },
+        {
+            "type": "post",
+            "post": {
+                "team": "ops_and_training",
+                "channel": "sop_updates",
+                "user": "jane_smith",
+                "message": "Just a reminder for everyone to review the updated customer service SOPs before our meeting tomorrow.",
+                "created_at": 1620502400000
+            },
+            "tag": "distractor"
+        },
+        {
+            "type": "post",
+            "post": {
+                "team": "knowledge_management",
+                "channel": "system_upgrades",
+                "user": "john_doe",
+                "message": "The inventory system issue has been resolved. Everything's back to normal now.",
+                "created_at": 1620503000000
+            },
+            "tag": "distractor"
+        }
+    ],
+    "file_format": "jsonl",
+    "file_path": ".llm_responses/generated_chat_document.jsonl",
+    "qa_type": "distractor",
+    "timestamp": "2025-12-02 14:26",
+    "app": "mattermost"
+}

@@ -1,0 +1,168 @@
+================================================================================
+ROUNDCUBE EMAIL EXPORT
+================================================================================
+
+USERS:
+----------------------------------------
+• ryan.thompson
+  Name: Ryan Thompson
+  Email: ryan.thompson@elexionautomotive.com
+
+• linda.perez
+  Name: Linda Perez
+  Email: linda.perez@elexionautomotive.com
+
+• michael.jones
+  Name: Michael Jones
+  Email: michael.jones@elexionautomotive.com
+
+• sarah.williams
+  Name: Sarah Williams
+  Email: sarah.williams@elexionautomotive.com
+
+• john.davis
+  Name: John Davis
+  Email: john.davis@elexionautomotive.com
+
+• karen.johnson
+  Name: Karen Johnson
+  Email: karen.johnson@elexionautomotive.com
+
+• paul.miller
+  Name: Paul Miller
+  Email: paul.miller@elexionautomotive.com
+
+EMAILS:
+================================================================================
+Email ID: email_001
+Date: 2024-03-02 09:00:00
+From: Ryan Thompson <ryan.thompson@elexionautomotive.com>
+To: michael.jones@elexionautomotive.com
+CC: sarah.williams@elexionautomotive.com
+Subject: Q2 Sales Target Review
+Folder: sent | Status: Read
+
+Message Body:
+----------------------------------------
+Hi Michael, 
+
+I have been reviewing our sales targets for Q2. It appears that we need to revisit our strategy to meet the goals. Please let me know a suitable time for a meeting to discuss this in further detail. 
+
+Best, 
+Ryan
+============================================================
+
+Email ID: email_003
+Date: 2024-03-03 11:00:00
+From: Michael Jones <michael.jones@elexionautomotive.com>
+To: ryan.thompson@elexionautomotive.com
+CC: sarah.williams@elexionautomotive.com
+Subject: Re: Q2 Sales Target Review
+Folder: sent | Status: Read
+
+Message Body:
+----------------------------------------
+Hi Ryan, 
+
+Agreed, we need to revise our strategy. I'm available tomorrow after 2 PM, or anytime on Friday. Let's involve Sarah as well. 
+
+Best, 
+Michael
+============================================================
+
+Email ID: email_002
+Date: 2024-03-05 15:00:00
+From: Paul Miller <paul.miller@elexionautomotive.com>
+To: ryan.thompson@elexionautomotive.com, michael.jones@elexionautomotive.com, sarah.williams@elexionautomotive.com
+Subject: Upcoming Regulatory Compliance Training
+Folder: inbox | Status: Unread
+
+Message Body:
+----------------------------------------
+Team, 
+
+Just a reminder about the upcoming regulatory compliance training next week. Attendance is mandatory as we need to update our knowledge on the latest regulations in our industry. Please confirm your participation. 
+
+Best, 
+Paul
+============================================================
+
+Email ID: email_004
+Date: 2024-03-06 12:30:00
+From: Karen Johnson <karen.johnson@elexionautomotive.com>
+To: ryan.thompson@elexionautomotive.com, michael.jones@elexionautomotive.com
+CC: john.davis@elexionautomotive.com, linda.perez@elexionautomotive.com
+Subject: Inventory Update
+Folder: inbox | Status: Unread
+
+Message Body:
+----------------------------------------
+Team, 
+
+Just wanted to give you an update on our current inventory levels. We have sufficient stock for the upcoming quarter based on our current sales forecasts. However, I will keep monitoring the situation closely. 
+
+Best, 
+Karen
+============================================================
+
+Email ID: email_001
+Date: 2024-12-10 15:30:00
+From: Ryan Thompson <ryan.thompson@elexionautomotive.com>
+To: linda.perez@elexionautomotive.com, john.davis@elexionautomotive.com
+CC: michael.jones@elexionautomotive.com, sarah.williams@elexionautomotive.com, karen.johnson@elexionautomotive.com, paul.miller@elexionautomotive.com
+Subject: Trends in Electric Vehicles: Impact on Global Production and Delivery Dynamics
+Folder: sent | Status: Read
+
+Message Body:
+----------------------------------------
+Team,
+
+I hope this email finds you well. I am analyzing the 2024 report 'Trends in electric cars' on iea.org. The report highlights important developments in battery technology and EV supply chains which are likely to impact global production and delivery dynamics by Q2 2026.
+
+To make informed decisions, I would appreciate if each department could share their perspective on how these developments might impact our operations. Specifically, I'm seeking insights on projected delivery delays and potential challenges in our supply regions.
+
+Best,
+Ryan Thompson
+============================================================
+
+Email ID: email_002
+Date: 2024-12-12 10:15:00
+From: John Davis <john.davis@elexionautomotive.com>
+To: ryan.thompson@elexionautomotive.com
+CC: linda.perez@elexionautomotive.com, michael.jones@elexionautomotive.com, sarah.williams@elexionautomotive.com, karen.johnson@elexionautomotive.com, paul.miller@elexionautomotive.com
+Subject: Re: Trends in Electric Vehicles: Impact on Global Production and Delivery Dynamics
+Folder: sent | Status: Read
+
+Message Body:
+----------------------------------------
+Ryan,
+
+Thanks for reaching out. From a supply chain perspective, we are closely monitoring these developments. The report's emphasis on advancements in solid-state battery technology could potentially reduce our dependency on specific raw materials, which would streamline our supply chain. However, we are also seeing an increase in demand for these batteries which could put pressure on the supply.
+
+As for delivery delays, our internal projections for Q2 2026 indicate that the Northeast US could potentially experience the highest delays, with shipments expected to face up to 12 days of delay due to port congestion and limited local battery inventory.
+
+Best,
+John Davis
+============================================================
+
+Email ID: email_003
+Date: 2024-12-13 11:30:00
+From: Linda Perez <linda.perez@elexionautomotive.com>
+To: ryan.thompson@elexionautomotive.com, john.davis@elexionautomotive.com
+CC: michael.jones@elexionautomotive.com, sarah.williams@elexionautomotive.com, karen.johnson@elexionautomotive.com, paul.miller@elexionautomotive.com
+Subject: Re: Trends in Electric Vehicles: Impact on Global Production and Delivery Dynamics
+Folder: sent | Status: Read
+
+Message Body:
+----------------------------------------
+Ryan and John,
+
+John's projections align with our current logistics data. The Northeast US region is indeed a concern due to the mentioned factors. We are working on strategies to mitigate these potential delays and will keep the team updated.
+
+Best,
+Linda Perez
+============================================================
+
+================================================================================
+END OF EMAIL EXPORT
+================================================================================

@@ -1,0 +1,202 @@
+{
+    "file_name": "roundcube_email_20251120_024339",
+    "content": "{\"type\": \"user\", \"username\": \"ryan.thompson\", \"first_name\": \"Ryan\", \"last_name\": \"Thompson\", \"email\": \"ryan.thompson@elexionautomotive.com\", \"password\": \"competitive_intel_2024\"}\n{\"type\": \"user\", \"username\": \"karen.jones\", \"first_name\": \"Karen\", \"last_name\": \"Jones\", \"email\": \"karen.jones@elexionautomotive.com\", \"password\": \"quality_control_2024\"}\n{\"type\": \"user\", \"username\": \"michael.sanchez\", \"first_name\": \"Michael\", \"last_name\": \"Sanchez\", \"email\": \"michael.sanchez@elexionautomotive.com\", \"password\": \"technical_support_2024\"}\n{\"type\": \"user\", \"username\": \"sarah.morgan\", \"first_name\": \"Sarah\", \"last_name\": \"Morgan\", \"email\": \"sarah.morgan@elexionautomotive.com\", \"password\": \"marketing_director_2024\"}\n{\"type\": \"user\", \"username\": \"david.brown\", \"first_name\": \"David\", \"last_name\": \"Brown\", \"email\": \"david.brown@elexionautomotive.com\", \"password\": \"sales_representative_2024\"}\n{\"type\": \"user\", \"username\": \"linda.johnson\", \"first_name\": \"Linda\", \"last_name\": \"Johnson\", \"email\": \"linda.johnson@elexionautomotive.com\", \"password\": \"product_manager_2024\"}\n{\"type\": \"user\", \"username\": \"james.williams\", \"first_name\": \"James\", \"last_name\": \"Williams\", \"email\": \"james.williams@elexionautomotive.com\", \"password\": \"customer_service_2024\"}\n{\"type\": \"email\", \"id\": \"email_001\", \"subject\": \"Quarterly Sales Team Meeting\", \"from\": \"ryan.thompson@elexionautomotive.com\", \"from_name\": \"Ryan Thompson\", \"to\": [\"david.brown@elexionautomotive.com\"], \"cc\": [\"sarah.morgan@elexionautomotive.com\"], \"date\": \"2024-03-01 10:00:00\", \"body\": \"Hello David, \\n\\nI hope this email finds you well. Our quarterly sales meeting has been scheduled for next Tuesday at 2 PM in the main conference room. We will be discussing sales strategies and targets for the next quarter. Please come prepared with your team's performance overview and projections for the next quarter. \\n\\nBest regards, \\nRyan\", \"folder\": \"inbox\", \"read\": true, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_002\", \"subject\": \"New Customer Service Protocol\", \"from\": \"james.williams@elexionautomotive.com\", \"from_name\": \"James Williams\", \"to\": [\"ryan.thompson@elexionautomotive.com\"], \"cc\": [], \"date\": \"2024-03-05 11:30:00\", \"body\": \"Hi Ryan, \\n\\nJust wanted to keep you in the loop about the new customer service protocols we are implementing. We are focusing on improving our response time and customer satisfaction ratings. I will be sharing more detailed information during our next team meeting. \\n\\nBest, \\nJames\", \"folder\": \"inbox\", \"read\": true, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_003\", \"subject\": \"Elexion Automotive Employee Engagement Survey\", \"from\": \"karen.jones@elexionautomotive.com\", \"from_name\": \"Karen Jones\", \"to\": [\"ryan.thompson@elexionautomotive.com\"], \"cc\": [], \"date\": \"2024-03-15 09:00:00\", \"body\": \"Dear Ryan, \\n\\nAs part of our ongoing efforts to improve the work environment at Elexion, we are conducting an employee engagement survey. We would appreciate it if you could take a few minutes to complete the survey. Your feedback is essential to us. \\n\\nBest, \\nKaren\", \"folder\": \"inbox\", \"read\": true, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_004\", \"subject\": \"EV Charging Infrastructure Seminar\", \"from\": \"michael.sanchez@elexionautomotive.com\", \"from_name\": \"Michael Sanchez\", \"to\": [\"ryan.thompson@elexionautomotive.com\"], \"cc\": [\"linda.johnson@elexionautomotive.com\"], \"date\": \"2024-03-20 14:00:00\", \"body\": \"Hi Ryan, \\n\\nWe are planning to attend a seminar on the upcoming trends in EV charging infrastructure next week. I believe this will be beneficial for our team to understand the latest technologies in the market. Let me know if you would like to join us. \\n\\nBest, \\nMichael\", \"folder\": \"inbox\", \"read\": true, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_001\", \"subject\": \"Q1 2024 Recall Numbers and Impact on Market Positioning\", \"from\": \"karen.jones@elexionautomotive.com\", \"from_name\": \"Karen Jones\", \"to\": [\"ryan.thompson@elexionautomotive.com\"], \"cc\": [\"david.brown@elexionautomotive.com\", \"linda.johnson@elexionautomotive.com\"], \"date\": \"2024-04-05 09:30:00\", \"body\": \"Ryan, \\n\\nFollowing up on your request for the Q1 2024 recall numbers. We recalled 2,300 EcoDrive X2 vehicles due to a faulty battery sensor. We've managed to rectify the issue and all vehicles are back on the road. \\n\\nThis incident may have affected our market positioning and I think we should assess the impact, especially in comparison to competitor strategies. \\n\\nBest, \\nKaren\", \"folder\": \"sent\", \"read\": true, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_002\", \"subject\": \"Re: Q1 2024 Recall Numbers and Impact on Market Positioning\", \"from\": \"ryan.thompson@elexionautomotive.com\", \"from_name\": \"Ryan Thompson\", \"to\": [\"karen.jones@elexionautomotive.com\", \"david.brown@elexionautomotive.com\", \"linda.johnson@elexionautomotive.com\"], \"cc\": [\"sarah.morgan@elexionautomotive.com\"], \"date\": \"2024-04-05 10:15:00\", \"body\": \"Karen, \\n\\nThanks for the update. It's critical to understand how this recall might have influenced our market positioning. I'll also correlate this with the 2024 'Trends in electric cars' report on iea.org to see the broader market perspective. \\n\\nDavid, Linda - can we have a quick discussion later today to brainstorm potential strategies to regain any lost ground? \\n\\nBest, \\nRyan\", \"folder\": \"sent\", \"read\": true, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_003\", \"subject\": \"Re: Q1 2024 Recall Numbers and Impact on Market Positioning\", \"from\": \"sarah.morgan@elexionautomotive.com\", \"from_name\": \"Sarah Morgan\", \"to\": [\"ryan.thompson@elexionautomotive.com\", \"karen.jones@elexionautomotive.com\", \"david.brown@elexionautomotive.com\", \"linda.johnson@elexionautomotive.com\"], \"cc\": [], \"date\": \"2024-04-05 10:30:00\", \"body\": \"Team, \\n\\nI've received the marketing data for Q1 2024. There is a slight dip in the customer trust index post the recall announcement. It's vital that we align our marketing strategies to address customer concerns and regain their trust. I'll join the brainstorming session to discuss how we can leverage our commitment to quality and safety in our messaging. \\n\\nBest, \\nSarah\", \"folder\": \"inbox\", \"read\": false, \"attachments\": []}",
+    "email_setup": [
+        {
+            "type": "user",
+            "username": "ryan.thompson",
+            "first_name": "Ryan",
+            "last_name": "Thompson",
+            "email": "ryan.thompson@elexionautomotive.com",
+            "password": "competitive_intel_2024"
+        },
+        {
+            "type": "user",
+            "username": "karen.jones",
+            "first_name": "Karen",
+            "last_name": "Jones",
+            "email": "karen.jones@elexionautomotive.com",
+            "password": "quality_control_2024"
+        },
+        {
+            "type": "user",
+            "username": "michael.sanchez",
+            "first_name": "Michael",
+            "last_name": "Sanchez",
+            "email": "michael.sanchez@elexionautomotive.com",
+            "password": "technical_support_2024"
+        },
+        {
+            "type": "user",
+            "username": "sarah.morgan",
+            "first_name": "Sarah",
+            "last_name": "Morgan",
+            "email": "sarah.morgan@elexionautomotive.com",
+            "password": "marketing_director_2024"
+        },
+        {
+            "type": "user",
+            "username": "david.brown",
+            "first_name": "David",
+            "last_name": "Brown",
+            "email": "david.brown@elexionautomotive.com",
+            "password": "sales_representative_2024"
+        },
+        {
+            "type": "user",
+            "username": "linda.johnson",
+            "first_name": "Linda",
+            "last_name": "Johnson",
+            "email": "linda.johnson@elexionautomotive.com",
+            "password": "product_manager_2024"
+        },
+        {
+            "type": "user",
+            "username": "james.williams",
+            "first_name": "James",
+            "last_name": "Williams",
+            "email": "james.williams@elexionautomotive.com",
+            "password": "customer_service_2024"
+        }
+    ],
+    "email_messages": [
+        {
+            "type": "email",
+            "id": "email_001",
+            "subject": "Quarterly Sales Team Meeting",
+            "from": "ryan.thompson@elexionautomotive.com",
+            "from_name": "Ryan Thompson",
+            "to": [
+                "david.brown@elexionautomotive.com"
+            ],
+            "cc": [
+                "sarah.morgan@elexionautomotive.com"
+            ],
+            "date": "2024-03-01 10:00:00",
+            "body": "Hello David, \n\nI hope this email finds you well. Our quarterly sales meeting has been scheduled for next Tuesday at 2 PM in the main conference room. We will be discussing sales strategies and targets for the next quarter. Please come prepared with your team's performance overview and projections for the next quarter. \n\nBest regards, \nRyan",
+            "folder": "inbox",
+            "read": true,
+            "attachments": [],
+            "tag": "distractor"
+        },
+        {
+            "type": "email",
+            "id": "email_002",
+            "subject": "New Customer Service Protocol",
+            "from": "james.williams@elexionautomotive.com",
+            "from_name": "James Williams",
+            "to": [
+                "ryan.thompson@elexionautomotive.com"
+            ],
+            "cc": [],
+            "date": "2024-03-05 11:30:00",
+            "body": "Hi Ryan, \n\nJust wanted to keep you in the loop about the new customer service protocols we are implementing. We are focusing on improving our response time and customer satisfaction ratings. I will be sharing more detailed information during our next team meeting. \n\nBest, \nJames",
+            "folder": "inbox",
+            "read": true,
+            "attachments": [],
+            "tag": "distractor"
+        },
+        {
+            "type": "email",
+            "id": "email_003",
+            "subject": "Elexion Automotive Employee Engagement Survey",
+            "from": "karen.jones@elexionautomotive.com",
+            "from_name": "Karen Jones",
+            "to": [
+                "ryan.thompson@elexionautomotive.com"
+            ],
+            "cc": [],
+            "date": "2024-03-15 09:00:00",
+            "body": "Dear Ryan, \n\nAs part of our ongoing efforts to improve the work environment at Elexion, we are conducting an employee engagement survey. We would appreciate it if you could take a few minutes to complete the survey. Your feedback is essential to us. \n\nBest, \nKaren",
+            "folder": "inbox",
+            "read": true,
+            "attachments": [],
+            "tag": "distractor"
+        },
+        {
+            "type": "email",
+            "id": "email_004",
+            "subject": "EV Charging Infrastructure Seminar",
+            "from": "michael.sanchez@elexionautomotive.com",
+            "from_name": "Michael Sanchez",
+            "to": [
+                "ryan.thompson@elexionautomotive.com"
+            ],
+            "cc": [
+                "linda.johnson@elexionautomotive.com"
+            ],
+            "date": "2024-03-20 14:00:00",
+            "body": "Hi Ryan, \n\nWe are planning to attend a seminar on the upcoming trends in EV charging infrastructure next week. I believe this will be beneficial for our team to understand the latest technologies in the market. Let me know if you would like to join us. \n\nBest, \nMichael",
+            "folder": "inbox",
+            "read": true,
+            "attachments": [],
+            "tag": "distractor"
+        },
+        {
+            "type": "email",
+            "id": "email_001",
+            "subject": "Q1 2024 Recall Numbers and Impact on Market Positioning",
+            "from": "karen.jones@elexionautomotive.com",
+            "from_name": "Karen Jones",
+            "to": [
+                "ryan.thompson@elexionautomotive.com"
+            ],
+            "cc": [
+                "david.brown@elexionautomotive.com",
+                "linda.johnson@elexionautomotive.com"
+            ],
+            "date": "2024-04-05 09:30:00",
+            "body": "Ryan, \n\nFollowing up on your request for the Q1 2024 recall numbers. We recalled 2,300 EcoDrive X2 vehicles due to a faulty battery sensor. We've managed to rectify the issue and all vehicles are back on the road. \n\nThis incident may have affected our market positioning and I think we should assess the impact, especially in comparison to competitor strategies. \n\nBest, \nKaren",
+            "folder": "sent",
+            "read": true,
+            "attachments": [],
+            "tag": "insight"
+        },
+        {
+            "type": "email",
+            "id": "email_002",
+            "subject": "Re: Q1 2024 Recall Numbers and Impact on Market Positioning",
+            "from": "ryan.thompson@elexionautomotive.com",
+            "from_name": "Ryan Thompson",
+            "to": [
+                "karen.jones@elexionautomotive.com",
+                "david.brown@elexionautomotive.com",
+                "linda.johnson@elexionautomotive.com"
+            ],
+            "cc": [
+                "sarah.morgan@elexionautomotive.com"
+            ],
+            "date": "2024-04-05 10:15:00",
+            "body": "Karen, \n\nThanks for the update. It's critical to understand how this recall might have influenced our market positioning. I'll also correlate this with the 2024 'Trends in electric cars' report on iea.org to see the broader market perspective. \n\nDavid, Linda - can we have a quick discussion later today to brainstorm potential strategies to regain any lost ground? \n\nBest, \nRyan",
+            "folder": "sent",
+            "read": true,
+            "attachments": [],
+            "tag": "insight"
+        },
+        {
+            "type": "email",
+            "id": "email_003",
+            "subject": "Re: Q1 2024 Recall Numbers and Impact on Market Positioning",
+            "from": "sarah.morgan@elexionautomotive.com",
+            "from_name": "Sarah Morgan",
+            "to": [
+                "ryan.thompson@elexionautomotive.com",
+                "karen.jones@elexionautomotive.com",
+                "david.brown@elexionautomotive.com",
+                "linda.johnson@elexionautomotive.com"
+            ],
+            "cc": [],
+            "date": "2024-04-05 10:30:00",
+            "body": "Team, \n\nI've received the marketing data for Q1 2024. There is a slight dip in the customer trust index post the recall announcement. It's vital that we align our marketing strategies to address customer concerns and regain their trust. I'll join the brainstorming session to discuss how we can leverage our commitment to quality and safety in our messaging. \n\nBest, \nSarah",
+            "folder": "inbox",
+            "read": false,
+            "attachments": [],
+            "tag": "insight"
+        }
+    ],
+    "file_format": "jsonl",
+    "file_path": ".llm_responses/generated_email_document.jsonl",
+    "qa_type": "distractor",
+    "timestamp": "2025-11-20 03:43",
+    "app": "email"
+}

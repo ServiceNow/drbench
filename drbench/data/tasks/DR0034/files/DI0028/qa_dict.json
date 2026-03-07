@@ -1,0 +1,10 @@
+{
+    "insight_id": "DI0028",
+    "qa_type": "distractor",
+    "qa_index": 28,
+    "specific_question": "How did Jason Wong manage Lee's Market's March 2025 backup rotation schedule?",
+    "answer": "Jason Wong moved hourly backup to redundant cloud system on March 7, 2025, reducing recovery time by 60% in tests.",
+    "justification": "",
+    "timestamp": "2025-11-19 02:57",
+    "dr_question": "How can Jason Wong, given Lee's Markets' limited IT resources in 2025, strengthen employee cybersecurity training to reduce risk of retail cyberattacks that lead to operation disruptions and financial loss by Q3 2027?"
+}

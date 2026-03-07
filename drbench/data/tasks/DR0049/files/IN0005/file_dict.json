@@ -1,0 +1,81 @@
+{
+    "file_name": "patient-booking-optimization",
+    "file_title": "Optimizing Patient Booking Experience",
+    "introduction": "Our commitment to providing accessible healthcare has been challenged by recent feedback on our booking processes. This presentation will explore the potential issues and identify improvement strategies.",
+    "subsections": [
+        {
+            "heading": "Analyzing MediConn's Current Booking System",
+            "content": "\u2022 Our Q4 2024 data shows that customers face an average delay of 12 minutes to reach a customer service representative during peak hours.\n\u2022 In some instances, this wait time escalates to as high as 25 minutes, potentially causing frustration and impacting our customer satisfaction ratings.\n\u2022 These delays are most pronounced during peak hours, which run from 9 AM to 12 PM EST.\n\u2022 High wait times might be indicative of convoluted customer service processes that need streamlining or the lack of efficient patient-facing care management tools.\n\u2022 The report from PatientEngagementHIT highlights that 60% of patients struggle with poor online booking tools and complex call center procedures.\n\u2022 We need to explore whether the root cause lies in our booking platform's design or in the customer support processes.\n\u2022 The goal should be to reduce wait times and improve the patient experience by simplifying processes or enhancing our digital tools.",
+            "type": "insight",
+            "justification": "This content combines the provided insight with external market context to identify potential issues in MediConn's booking system and suggest areas for improvement."
+        },
+        {
+            "heading": "Evaluating Customer Support Interaction Processes",
+            "content": "\u2022 MediConn's customer support department is made up of 50 representatives\n\u2022 The department is divided into two shifts to provide 24/7 support\n\u2022 The customer support team utilizes CRM software, CareSupport, to manage calls\n\u2022 Representatives undergo quarterly training for soft skills and technical knowledge\n\u2022 The average call duration is approximately 4 minutes\n\u2022 The customer support department resolved over 10,000 tickets in 2021\n\u2022 The department has a first-call resolution rate of 78%\n\u2022 The customer support team also handles email and live chat inquiries",
+            "type": "distractor",
+            "justification": "Although this content provides details about customer support, it doesn't identify if the support processes are convoluted or not, hence doesn't answer the DR Question."
+        },
+        {
+            "heading": "Identifying Root Causes of Patient Booking Struggles",
+            "content": "\u2022 In 2021, 3% of all calls were related to booking struggles\n\u2022 The majority of booking struggles were reported by patients over the age of 60\n\u2022 Most commonly, booking struggles were due to internet connectivity issues\n\u2022 Phone booking requests are handled by a dedicated team of 10 representatives\n\u2022 The company conducts bi-annual surveys to understand patient experiences\n\u2022 MediConn offers a user guide and tutorial videos to assist with online booking\n\u2022 Less than 1% of patients reported struggles with the corporate booking feature\n\u2022 The Customer Support department has a protocol for escalating complex booking issues",
+            "type": "distractor",
+            "justification": "This content discusses patient booking struggles, but does not determine if the root cause is poor booking tool design or convoluted customer support processes."
+        }
+    ],
+    "conclusion": "By identifying the weaknesses in our booking system and customer support processes, we can implement targeted improvements. This will ultimately enhance patient experience and drive higher customer retention.",
+    "file_format": "pptx",
+    "file_path": ".llm_responses/generated_pptx_presentation.pptx",
+    "qa_type": "insight",
+    "timestamp": "2025-12-02 17:15",
+    "image_queries": [
+        {
+            "slide_title": "Introduction",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "intentionally_clean",
+            "slide_type": "introduction"
+        },
+        {
+            "slide_title": "Analyzing MediConn's Current Booking System",
+            "has_image": true,
+            "image_query": "customer service delay graph",
+            "generation_method": "strategic_placement",
+            "slide_type": "insight",
+            "content_length": 7,
+            "total_chars": 924,
+            "forced": false,
+            "theme": "Classic Navy"
+        },
+        {
+            "slide_title": "Evaluating Customer Support Interaction Processes",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 7,
+            "total_chars": 469,
+            "probability": 0.25,
+            "theme": "Classic Navy"
+        },
+        {
+            "slide_title": "Identifying Root Causes of Patient Booking Struggles",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 7,
+            "total_chars": 513,
+            "probability": 0.25,
+            "theme": "Classic Navy"
+        },
+        {
+            "slide_title": "Conclusion",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "strategic_clean_conclusion",
+            "slide_type": "conclusion",
+            "theme": "Classic Navy"
+        }
+    ],
+    "app": "nextcloud"
+}

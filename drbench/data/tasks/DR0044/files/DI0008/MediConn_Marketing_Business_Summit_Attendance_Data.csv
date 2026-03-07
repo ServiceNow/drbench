@@ -1,0 +1,13 @@
+event_name,organizer,event_date,number_of_attendees,attendee_departments
+The name of the event organized by the company,The team or department within the company that organized the event,The date when the event took place,The number of people who attended the event,The departments within the company from which attendees came
+Sales Strategy Conference,MediConn Solutions Sales Department,2021-09-01,110,"Sales, Marketing, HR, Finance, IT"
+Leadership Development Program,MediConn Solutions HR Department,2021-12-15,60,"HR, Marketing, Sales, Finance, IT"
+Product Management Training,MediConn Solutions Product Department,2021-08-01,85,"Product, Marketing, Sales, HR, IT"
+Digital Strategy Workshop,MediConn Solutions IT Department,2022-05-01,80,"IT, Marketing, Sales"
+Data Analysis Bootcamp,MediConn Solutions Data Department,2022-03-15,70,"Data, IT, Marketing, Sales"
+Annual Marketing and Business Solutions Summit,MediConn Solutions Marketing Team,2022-06-15,120,"Marketing, Sales, HR, Finance, IT"
+Content Creation Seminar,MediConn Solutions Marketing Team,2022-04-20,90,"Marketing, Sales, HR"
+Innovation and Creativity Workshop,MediConn Solutions R&D Department,2021-11-10,75,"R&D, Marketing, Sales, IT"
+Financial Planning Seminar,MediConn Solutions Finance Department,2021-10-05,80,"Finance, Marketing, Sales, HR"
+Corporate Social Responsibility Webinar,MediConn Solutions Corporate Affairs Department,2022-01-05,50,"Corporate Affairs, Marketing, Sales, HR"
+Customer Service Training,MediConn Solutions HR Department,2022-02-10,100,"HR, Sales, Customer Service"

@@ -1,0 +1,10 @@
+{
+    "insight_id": "DI0006",
+    "qa_type": "distractor",
+    "qa_index": 6,
+    "specific_question": "How many cloud vendors does MediConn use for data storage and backup services?",
+    "answer": "MediConn uses two primary cloud vendors.",
+    "justification": "While related to IT infrastructure, the number of cloud vendors does not specifically impact clinician workflow or consultation-level cost management.",
+    "timestamp": "2025-11-21 12:55",
+    "dr_question": "How can MediConn streamline its IT workflows in Q4 2025 to boost clinician efficiency and manage per-consultation costs, given that virtual healthcare expansion has improved access but increased overall expenses?"
+}

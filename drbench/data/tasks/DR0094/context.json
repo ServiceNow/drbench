@@ -1,0 +1,28 @@
+{
+    "company_info": {
+        "name": "MediConn Solutions (Vancouver, Canada, $50M - $100M, 250 employees)",
+        "industry": "Virtual/Remote Healthcare",
+        "description": "A company in the Virtual/Remote Healthcare industry",
+        "size": "medium",
+        "employee_count": "100-500",
+        "annual_revenue": "Not specified"
+    },
+    "persona": {
+        "name": "Daniel Kim",
+        "first_name": "Daniel",
+        "last_name": "Kim",
+        "username": "daniel.kim",
+        "email": "daniel.kim@mediconnsolutions.com",
+        "role": "Information Security Manager",
+        "role_description": "Manages cybersecurity program for healthcare data protection, oversees security compliance audits, and leads security awareness training initiatives"
+    },
+    "url": {
+        "url": "https://www.deloitte.com/us/en/insights/industry/health-care/life-sciences-and-health-care-industry-outlooks/2025-global-health-care-executive-outlook.html",
+        "domain": "Cybersecurity",
+        "industry": "virtual/remote healthcare",
+        "example_dr_questions": [],
+        "insights": [],
+        "date": "2025-11-21"
+    },
+    "timestamp": "2025-10-24 00:00"
+}

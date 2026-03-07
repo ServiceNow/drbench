@@ -1,0 +1,10 @@
+{
+    "insight_id": "IN0002",
+    "qa_type": "insight",
+    "qa_index": 2,
+    "specific_question": "What percentage of MediConn APIs are compatible with Canada Health Infoway's shared infrastructure by October 2025?",
+    "answer": "63% of MediConn's APIs are compatible with Infoway infrastructure by October 2025.",
+    "justification": "Early integration efforts prioritise core data domains, resulting in partial but substantial compliance with Infoway interoperability standards.",
+    "timestamp": "2025-11-21 13:28",
+    "dr_question": "Which IT modernization efforts should MediConn emphasize to stay aligned with national virtual care standards and shared digital health infrastructure by 2026?"
+}

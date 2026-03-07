@@ -1,0 +1,10 @@
+{
+    "insight_id": "DI0020",
+    "qa_type": "distractor",
+    "qa_index": 20,
+    "specific_question": "What customer service software tools did MediConn use in 2024?",
+    "answer": "In 2024, MediConn used Zendesk for ticket management, RingCentral for phone systems, Salesforce for CRM, and Slack for internal team communication. These tools were integrated with MediConn's proprietary patient platform through API connections.",
+    "justification": "",
+    "timestamp": "2025-11-19 23:57",
+    "dr_question": "The article published on TechTarget in January 2024 cited the MGMA's findings, showing that patient communication technology addresses digital front door issues like poor booking systems. How might MediConn Solutions enhance patient access to virtual consultations and prescription management services in Q1 2026 to reduce wait times and boost satisfaction and retention?"
+}

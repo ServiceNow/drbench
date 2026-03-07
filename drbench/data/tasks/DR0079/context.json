@@ -1,0 +1,57 @@
+{
+    "company_info": {
+        "name": "Elexion Automotive",
+        "industry": "Automotive -- Electric Vehicles",
+        "size": "Enterprise",
+        "founded_year": 2010,
+        "headquarters": "Austin, Texas, USA",
+        "description": "Elexion Automotive designs and manufactures premium and mid-range electric vehicles tailored for the North American market. With a focus on sustainability, user-centric technology, and cross-border compliance, Elexion aims to accelerate the transition to zero-emission transportation.",
+        "key_products_services": [
+            "Electric vehicles",
+            "Plug-in hybrid electric vehicles",
+            "Home charging stations"
+        ],
+        "target_markets": [
+            "Mid-income families in North America",
+            "Provincial and municipal governments"
+        ],
+        "annual_revenue": "$350M - $500M",
+        "employee_count": 1900,
+        "compliance_certifications": [
+            "EPA Greenhouse Gas Emissions Compliance",
+            "Motor Vehicle Safety Oversight Program",
+            "CARB Zero-Emission Vehicle (ZEV) Program",
+            "ISO 26262 – Road Vehicles Functional Safety"
+        ],
+        "market_position": "Elexion is an emerging force in the North American EV market, offering affordable and high-performance electric vehicles with regulatory-first design and localized production."
+    },
+    "persona": {
+        "role": "Competitive Intelligence Manager",
+        "department": "Sales and Marketing",
+        "name": "Ryan Thompson",
+        "first_name": "Ryan",
+        "last_name": "Thompson",
+        "email": "ryan.thompson@elexion.com",
+        "seniority": "Senior",
+        "responsibilities": "Leads the development of competitive intelligence strategies, analyzes market data to identify competitor trends, and collaborates with cross-functional teams to inform business decisions.",
+        "id": "MNG0002",
+        "domain": "market_analysis",
+        "justification": "As a Competitive Intelligence Manager at Elexion Automotive, Ryan's expertise in market analysis and competitive intelligence enables the company to stay ahead of the competition and make informed business decisions.",
+        "username": "ryan.thompson"
+    },
+    "url": {
+        "url": "https://www.iea.org/reports/global-ev-outlook-2024/trends-in-electric-cars",
+        "domain": "Market Analysis",
+        "industry": "automotive -- electric vehicles",
+        "example_dr_questions": [
+            "According to the 2024 report “Trends in Electric Cars” on iea.org, how are China’s EV production and export strategies reshaping global competition by the end of 2023?",
+            "As of the end of 2023, how were pricing and competitive strategies among leading automakers influencing EV market positioning in North America?"
+        ],
+        "insights": [
+            "According to the 2024 article on iea.org entitled \"Trends in electric cars,\" China produced over 60% of global electric cars in 2023, driven by strong domestic demand and growing exports to Europe. Its dominance in battery production and cost efficiency is intensifying global competition and pressuring automakers in other regions to adjust their EV strategies.",
+            "According to the 2024 IEA report “Trends in electric cars,” such major automakers, including Tesla, reduced EV prices; for example, the Model Y fell by approximately USD 15,000 between mid-2022 and early 2024, showing how pricing strategies are reshaping North American market positioning ahead of 2026."
+        ],
+        "date": "2025-11-20"
+    },
+    "timestamp": "2025-10-30 00:00"
+}

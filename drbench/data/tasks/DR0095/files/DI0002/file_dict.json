@@ -1,0 +1,81 @@
+{
+    "file_name": "grocery-associates-wage-analysis",
+    "file_title": "Annual Wage Analysis: Grocery Associates",
+    "introduction": "In this presentation, we will discuss the wage structure for our grocery associates. Specifically, we will focus on the average annual wage in the year 2025.",
+    "subsections": [
+        {
+            "heading": "Labor Costs and Revenue: A Comparative Analysis",
+            "content": "\u2022 In 2024, Lee's Market labor costs constituted 15% of total revenue\n\u2022 The retail industry average for labor costs in relation to revenue was 20% in 2025\n\u2022 Lee's Market saw a 3% decrease in labor costs as a percentage of revenue from 2024 to 2025\n\u2022 Revenue per employee in 2025 was approximately $100,000\n\u2022 The company's revenue growth rate was 5% in 2025",
+            "type": "distractor",
+            "justification": "The slide discusses labor costs and revenue, but does not specify the average wage for grocery associates. The distractor strategy focuses on related financial metrics."
+        },
+        {
+            "heading": "Average Annual Wage for Grocery Associates in 2025",
+            "content": "\u2022 The retail industry average wage for grocery associates was $30,000 in 2025\n\u2022 Lee's Market implemented a new wage structure in 2025\n\u2022 The company offered competitive benefits to supplement the wages of grocery associates\n\u2022 The wage for grocery associates varied across different provinces in Canada\n\u2022 Wage rates were evaluated annually based on performance and market trends",
+            "type": "distractor",
+            "justification": "The slide discusses wages in general but doesn't specify the average wage at Lee's Market in 2025, focusing instead on the industry average and wage structure."
+        },
+        {
+            "heading": "Impact of Wage Changes on Employee Retention",
+            "content": "\u2022 Lee's Market saw a 2% increase in employee retention rate in 2025\n\u2022 Wage changes were communicated transparently to all employees\n\u2022 The company offered various non-monetary benefits to increase employee satisfaction\n\u2022 Employee turnover rate decreased by 1.5% in 2025\n\u2022 A comprehensive employee satisfaction survey was conducted in Q3 of 2025\n\u2022 The company's competitive wage and benefits package was a key factor in retaining employees",
+            "type": "distractor",
+            "justification": "Although the slide discusses wage impacts on retention, it doesn't provide specific information about the average wage of grocery associates in 2025."
+        }
+    ],
+    "conclusion": "Understanding the average annual wage for our grocery associates is key to managing labor costs and improving retention. We must continue to monitor these trends and adjust our compensation strategies accordingly.",
+    "file_format": "pptx",
+    "file_path": ".llm_responses/generated_pptx_presentation.pptx",
+    "qa_type": "distractor",
+    "timestamp": "2025-11-20 18:56",
+    "image_queries": [
+        {
+            "slide_title": "Introduction",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "intentionally_clean",
+            "slide_type": "introduction"
+        },
+        {
+            "slide_title": "Labor Costs and Revenue: A Comparative Analysis",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "failed",
+            "slide_type": "distractor",
+            "content_length": 5,
+            "total_chars": 341,
+            "error": "'str' object has no attribute 'choices'",
+            "theme": "Bold Crimson"
+        },
+        {
+            "slide_title": "Average Annual Wage for Grocery Associates in 2025",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 5,
+            "total_chars": 362,
+            "probability": 0.25,
+            "theme": "Bold Crimson"
+        },
+        {
+            "slide_title": "Impact of Wage Changes on Employee Retention",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 6,
+            "total_chars": 420,
+            "probability": 0.25,
+            "theme": "Bold Crimson"
+        },
+        {
+            "slide_title": "Conclusion",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "strategic_clean_conclusion",
+            "slide_type": "conclusion",
+            "theme": "Bold Crimson"
+        }
+    ],
+    "app": "file_system"
+}

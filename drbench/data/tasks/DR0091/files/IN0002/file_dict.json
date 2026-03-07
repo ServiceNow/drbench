@@ -1,0 +1,230 @@
+{
+    "file_name": "roundcube_email_20251120_151724",
+    "content": "{\"type\": \"user\", \"username\": \"sophie.liu\", \"first_name\": \"Sophie\", \"last_name\": \"Liu\", \"email\": \"sophie.liu@leesmarket.com\", \"password\": \"sophie_pwd\"}\n{\"type\": \"user\", \"username\": \"john.doe\", \"first_name\": \"John\", \"last_name\": \"Doe\", \"email\": \"john.doe@leesmarket.com\", \"password\": \"john_pwd\"}\n{\"type\": \"user\", \"username\": \"mary.johnson\", \"first_name\": \"Mary\", \"last_name\": \"Johnson\", \"email\": \"mary.johnson@leesmarket.com\", \"password\": \"mary_pwd\"}\n{\"type\": \"user\", \"username\": \"mark.davis\", \"first_name\": \"Mark\", \"last_name\": \"Davis\", \"email\": \"mark.davis@leesmarket.com\", \"password\": \"mark_pwd\"}\n{\"type\": \"user\", \"username\": \"jane.williams\", \"first_name\": \"Jane\", \"last_name\": \"Williams\", \"email\": \"jane.williams@leesmarket.com\", \"password\": \"jane_pwd\"}\n{\"type\": \"user\", \"username\": \"paul.martin\", \"first_name\": \"Paul\", \"last_name\": \"Martin\", \"email\": \"paul.martin@leesmarket.com\", \"password\": \"paul_pwd\"}\n{\"type\": \"user\", \"username\": \"linda.brown\", \"first_name\": \"Linda\", \"last_name\": \"Brown\", \"email\": \"linda.brown@leesmarket.com\", \"password\": \"linda_pwd\"}\n{\"type\": \"user\", \"username\": \"david.jones\", \"first_name\": \"David\", \"last_name\": \"Jones\", \"email\": \"david.jones@leesmarket.com\", \"password\": \"david_pwd\"}\n{\"type\": \"email\", \"id\": \"email_001\", \"subject\": \"Weekly Team Meeting - Rescheduling\", \"from\": \"sophie.liu@leesmarket.com\", \"from_name\": \"Sophie Liu\", \"to\": [\"john.doe@leesmarket.com\", \"mary.johnson@leesmarket.com\", \"mark.davis@leesmarket.com\", \"jane.williams@leesmarket.com\", \"paul.martin@leesmarket.com\", \"linda.brown@leesmarket.com\", \"david.jones@leesmarket.com\"], \"cc\": [], \"date\": \"2022-07-15 09:15:00\", \"body\": \"Dear team, due to an unexpected schedule change, our weekly team meeting will be moved from Tuesday to Thursday. The time remains the same. Any issues, let me know.\", \"folder\": \"sent\", \"read\": true, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_002\", \"subject\": \"End of Year Employee Performance Review Preparation\", \"from\": \"john.doe@leesmarket.com\", \"from_name\": \"John Doe\", \"to\": [\"sophie.liu@leesmarket.com\"], \"cc\": [], \"date\": \"2022-07-15 10:30:00\", \"body\": \"Hello Sophie, It's that time of the year again. I would appreciate if you could start preparing the performance review reports for your team.\", \"folder\": \"inbox\", \"read\": true, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_003\", \"subject\": \"New Health and Safety Policy Updates\", \"from\": \"mary.johnson@leesmarket.com\", \"from_name\": \"Mary Johnson\", \"to\": [\"sophie.liu@leesmarket.com\"], \"cc\": [], \"date\": \"2022-07-15 11:45:00\", \"body\": \"Hi Sophie, We have recently updated our health and safety policies. I will be sharing the new policy document soon. Please ensure your team understands and adheres to these new rules.\", \"folder\": \"inbox\", \"read\": true, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_004\", \"subject\": \"Marketing Event Participation\", \"from\": \"mark.davis@leesmarket.com\", \"from_name\": \"Mark Davis\", \"to\": [\"sophie.liu@leesmarket.com\"], \"cc\": [], \"date\": \"2022-07-15 13:30:00\", \"body\": \"Sophie, There is a local marketing event happening next month. I think it would be great if we could have some representation from the Customer Service team. Could you spare a couple of team members for this?\", \"folder\": \"inbox\", \"read\": true, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_005\", \"subject\": \"Request for Additional Resources\", \"from\": \"sophie.liu@leesmarket.com\", \"from_name\": \"Sophie Liu\", \"to\": [\"linda.brown@leesmarket.com\"], \"cc\": [\"john.doe@leesmarket.com\"], \"date\": \"2022-07-15 14:45:00\", \"body\": \"Dear Linda, I would like to request two additional team members for our department. The increase in customer queries has been significant over the last few months, and we need more hands on deck.\", \"folder\": \"sent\", \"read\": true, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_001\", \"subject\": \"Customer Service Improvements for 2026\", \"from\": \"john.doe@leesmarket.com\", \"from_name\": \"John Doe\", \"to\": [\"sophie.liu@leesmarket.com\"], \"cc\": [\"mary.johnson@leesmarket.com\", \"mark.davis@leesmarket.com\"], \"date\": \"2026-01-05 09:30:00\", \"body\": \"Dear Sophie,\\n\\nI hope this email finds you well. As we move into 2026, we are exploring ways to enhance our customer service experience, specifically focusing on making our customers feel more recognized and valued during interactions.\\n\\nOne area we've seen success is with our 'Recognized Customer' self-service portal. I believe enhancing this feature could be a good starting point.\\n\\nBest,\\nJohn\", \"folder\": \"inbox\", \"read\": true, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_002\", \"subject\": \"Re: Customer Service Improvements for 2026\", \"from\": \"sophie.liu@leesmarket.com\", \"from_name\": \"Sophie Liu\", \"to\": [\"john.doe@leesmarket.com\"], \"cc\": [\"mary.johnson@leesmarket.com\", \"mark.davis@leesmarket.com\"], \"date\": \"2026-01-06 10:45:00\", \"body\": \"Hi John,\\n\\nThanks for your email. I agree that the 'Recognized Customer' self-service portal is a promising area for improvement. Do we have any data on how this feature is currently performing in terms of customer resolution?\\n\\nBest,\\nSophie\", \"folder\": \"inbox\", \"read\": true, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_003\", \"subject\": \"Re: Customer Service Improvements for 2026\", \"from\": \"john.doe@leesmarket.com\", \"from_name\": \"John Doe\", \"to\": [\"sophie.liu@leesmarket.com\"], \"cc\": [\"mary.johnson@leesmarket.com\", \"mark.davis@leesmarket.com\"], \"date\": \"2026-01-06 14:25:00\", \"body\": \"Hi Sophie,\\n\\nGood question. I checked with our Data Analytics team and learned that our First Contact Resolution (FCR) rate for customers who authenticated and used the personalized self-service portal, referencing their last 3 interactions, was 88% in H2 2025. This is 12 percentage points higher than the average FCR for all channels combined.\\n\\nIt appears that customers appreciate not having to start from scratch every time they need support. This drives efficiency by keeping high-FCR volume out of the live agent queues. Going forward, enhancing this personalized portal should be a priority.\\n\\nBest,\\nJohn\", \"folder\": \"inbox\", \"read\": true, \"attachments\": []}",
+    "email_setup": [
+        {
+            "type": "user",
+            "username": "sophie.liu",
+            "first_name": "Sophie",
+            "last_name": "Liu",
+            "email": "sophie.liu@leesmarket.com",
+            "password": "sophie_pwd"
+        },
+        {
+            "type": "user",
+            "username": "john.doe",
+            "first_name": "John",
+            "last_name": "Doe",
+            "email": "john.doe@leesmarket.com",
+            "password": "john_pwd"
+        },
+        {
+            "type": "user",
+            "username": "mary.johnson",
+            "first_name": "Mary",
+            "last_name": "Johnson",
+            "email": "mary.johnson@leesmarket.com",
+            "password": "mary_pwd"
+        },
+        {
+            "type": "user",
+            "username": "mark.davis",
+            "first_name": "Mark",
+            "last_name": "Davis",
+            "email": "mark.davis@leesmarket.com",
+            "password": "mark_pwd"
+        },
+        {
+            "type": "user",
+            "username": "jane.williams",
+            "first_name": "Jane",
+            "last_name": "Williams",
+            "email": "jane.williams@leesmarket.com",
+            "password": "jane_pwd"
+        },
+        {
+            "type": "user",
+            "username": "paul.martin",
+            "first_name": "Paul",
+            "last_name": "Martin",
+            "email": "paul.martin@leesmarket.com",
+            "password": "paul_pwd"
+        },
+        {
+            "type": "user",
+            "username": "linda.brown",
+            "first_name": "Linda",
+            "last_name": "Brown",
+            "email": "linda.brown@leesmarket.com",
+            "password": "linda_pwd"
+        },
+        {
+            "type": "user",
+            "username": "david.jones",
+            "first_name": "David",
+            "last_name": "Jones",
+            "email": "david.jones@leesmarket.com",
+            "password": "david_pwd"
+        }
+    ],
+    "email_messages": [
+        {
+            "type": "email",
+            "id": "email_001",
+            "subject": "Weekly Team Meeting - Rescheduling",
+            "from": "sophie.liu@leesmarket.com",
+            "from_name": "Sophie Liu",
+            "to": [
+                "john.doe@leesmarket.com",
+                "mary.johnson@leesmarket.com",
+                "mark.davis@leesmarket.com",
+                "jane.williams@leesmarket.com",
+                "paul.martin@leesmarket.com",
+                "linda.brown@leesmarket.com",
+                "david.jones@leesmarket.com"
+            ],
+            "cc": [],
+            "date": "2022-07-15 09:15:00",
+            "body": "Dear team, due to an unexpected schedule change, our weekly team meeting will be moved from Tuesday to Thursday. The time remains the same. Any issues, let me know.",
+            "folder": "sent",
+            "read": true,
+            "attachments": [],
+            "tag": "distractor"
+        },
+        {
+            "type": "email",
+            "id": "email_002",
+            "subject": "End of Year Employee Performance Review Preparation",
+            "from": "john.doe@leesmarket.com",
+            "from_name": "John Doe",
+            "to": [
+                "sophie.liu@leesmarket.com"
+            ],
+            "cc": [],
+            "date": "2022-07-15 10:30:00",
+            "body": "Hello Sophie, It's that time of the year again. I would appreciate if you could start preparing the performance review reports for your team.",
+            "folder": "inbox",
+            "read": true,
+            "attachments": [],
+            "tag": "distractor"
+        },
+        {
+            "type": "email",
+            "id": "email_003",
+            "subject": "New Health and Safety Policy Updates",
+            "from": "mary.johnson@leesmarket.com",
+            "from_name": "Mary Johnson",
+            "to": [
+                "sophie.liu@leesmarket.com"
+            ],
+            "cc": [],
+            "date": "2022-07-15 11:45:00",
+            "body": "Hi Sophie, We have recently updated our health and safety policies. I will be sharing the new policy document soon. Please ensure your team understands and adheres to these new rules.",
+            "folder": "inbox",
+            "read": true,
+            "attachments": [],
+            "tag": "distractor"
+        },
+        {
+            "type": "email",
+            "id": "email_004",
+            "subject": "Marketing Event Participation",
+            "from": "mark.davis@leesmarket.com",
+            "from_name": "Mark Davis",
+            "to": [
+                "sophie.liu@leesmarket.com"
+            ],
+            "cc": [],
+            "date": "2022-07-15 13:30:00",
+            "body": "Sophie, There is a local marketing event happening next month. I think it would be great if we could have some representation from the Customer Service team. Could you spare a couple of team members for this?",
+            "folder": "inbox",
+            "read": true,
+            "attachments": [],
+            "tag": "distractor"
+        },
+        {
+            "type": "email",
+            "id": "email_005",
+            "subject": "Request for Additional Resources",
+            "from": "sophie.liu@leesmarket.com",
+            "from_name": "Sophie Liu",
+            "to": [
+                "linda.brown@leesmarket.com"
+            ],
+            "cc": [
+                "john.doe@leesmarket.com"
+            ],
+            "date": "2022-07-15 14:45:00",
+            "body": "Dear Linda, I would like to request two additional team members for our department. The increase in customer queries has been significant over the last few months, and we need more hands on deck.",
+            "folder": "sent",
+            "read": true,
+            "attachments": [],
+            "tag": "distractor"
+        },
+        {
+            "type": "email",
+            "id": "email_001",
+            "subject": "Customer Service Improvements for 2026",
+            "from": "john.doe@leesmarket.com",
+            "from_name": "John Doe",
+            "to": [
+                "sophie.liu@leesmarket.com"
+            ],
+            "cc": [
+                "mary.johnson@leesmarket.com",
+                "mark.davis@leesmarket.com"
+            ],
+            "date": "2026-01-05 09:30:00",
+            "body": "Dear Sophie,\n\nI hope this email finds you well. As we move into 2026, we are exploring ways to enhance our customer service experience, specifically focusing on making our customers feel more recognized and valued during interactions.\n\nOne area we've seen success is with our 'Recognized Customer' self-service portal. I believe enhancing this feature could be a good starting point.\n\nBest,\nJohn",
+            "folder": "inbox",
+            "read": true,
+            "attachments": [],
+            "tag": "insight"
+        },
+        {
+            "type": "email",
+            "id": "email_002",
+            "subject": "Re: Customer Service Improvements for 2026",
+            "from": "sophie.liu@leesmarket.com",
+            "from_name": "Sophie Liu",
+            "to": [
+                "john.doe@leesmarket.com"
+            ],
+            "cc": [
+                "mary.johnson@leesmarket.com",
+                "mark.davis@leesmarket.com"
+            ],
+            "date": "2026-01-06 10:45:00",
+            "body": "Hi John,\n\nThanks for your email. I agree that the 'Recognized Customer' self-service portal is a promising area for improvement. Do we have any data on how this feature is currently performing in terms of customer resolution?\n\nBest,\nSophie",
+            "folder": "inbox",
+            "read": true,
+            "attachments": [],
+            "tag": "insight"
+        },
+        {
+            "type": "email",
+            "id": "email_003",
+            "subject": "Re: Customer Service Improvements for 2026",
+            "from": "john.doe@leesmarket.com",
+            "from_name": "John Doe",
+            "to": [
+                "sophie.liu@leesmarket.com"
+            ],
+            "cc": [
+                "mary.johnson@leesmarket.com",
+                "mark.davis@leesmarket.com"
+            ],
+            "date": "2026-01-06 14:25:00",
+            "body": "Hi Sophie,\n\nGood question. I checked with our Data Analytics team and learned that our First Contact Resolution (FCR) rate for customers who authenticated and used the personalized self-service portal, referencing their last 3 interactions, was 88% in H2 2025. This is 12 percentage points higher than the average FCR for all channels combined.\n\nIt appears that customers appreciate not having to start from scratch every time they need support. This drives efficiency by keeping high-FCR volume out of the live agent queues. Going forward, enhancing this personalized portal should be a priority.\n\nBest,\nJohn",
+            "folder": "inbox",
+            "read": true,
+            "attachments": [],
+            "tag": "insight"
+        }
+    ],
+    "file_format": "jsonl",
+    "file_path": ".llm_responses/generated_email_document.jsonl",
+    "qa_type": "insight",
+    "timestamp": "2025-11-20 16:17",
+    "app": "email"
+}

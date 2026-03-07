@@ -1,0 +1,12 @@
+year,feature,percentage_of_vehicles,feature_relevance
+The year in which the vehicles were offered by Elexion Automotive,The specific feature offered in the vehicles by Elexion Automotive,The percentage of vehicles that offered the specified feature in the respective year,A brief description on how the feature is related or unrelated to other aspects of the vehicle
+2025,Lane keeping assist,0.6,Safety features are unrelated to vehicle's aesthetic options or entertainment features.
+2025,Heated steering wheel,0.5,Comfort features are unrelated to vehicle performance or safety options.
+2025,360-degree camera,0.7,Safety features are unrelated to vehicle's performance or fuel efficiency.
+2025,biometric authentication,0.15,"Vehicle security features are unrelated to battery testing protocols, EV battery endurance, or reliability."
+2021,Voice recognition,0.6,Voice control options are unrelated to vehicle performance or durability.
+2023,Automatic emergency braking,0.7,Safety features are unrelated to vehicle's aesthetic options or seating comfort.
+2020,Bluetooth connectivity,0.95,Wireless connectivity options are unrelated to vehicle safety features or fuel efficiency.
+2025,Head-up display,0.55,Display features are unrelated to vehicle's fuel efficiency or performance.
+2022,Adaptive cruise control,0.8,Cruise control features are unrelated to vehicle interior comfort features or entertainment options.
+2024,Wireless device charging,0.85,Charging options are unrelated to vehicle safety features or performance.

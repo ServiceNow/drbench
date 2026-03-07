@@ -1,0 +1,81 @@
+{
+    "file_name": "patent-landscape-q4",
+    "file_title": "EV Technology Patents Landscape Q4 2025",
+    "introduction": "A comprehensive look into the volume of EV technology patents filed by major manufacturers in Q4 2025 and its implications for Elexion Automotive. This presentation will aid in our strategic planning and competitive positioning.",
+    "subsections": [
+        {
+            "heading": "Overview of Competitive Patent Landscape",
+            "content": "\u2022 In-depth analysis of the overall patent landscape in the EV industry\n\u2022 Trends in patent filings across major markets (US, EU, China) in the past decade\n\u2022 Breakdown of patent filings per EV technology category (battery, design, infotainment)\n\u2022 Discussion on the increase of patent filings in emerging markets\n\u2022 Overview of patent infringement cases in the EV industry\n\u2022 Insight into the patent protection strategies employed by leading manufacturers",
+            "type": "distractor",
+            "justification": "This slide presents general trends and historical data, not the specific number of patents filed in Q4 2025."
+        },
+        {
+            "heading": "Analysis of Major Manufacturers' Patent Filings",
+            "content": "\u2022 Breakdown of patent filings by top manufacturers over the past 3 years\n\u2022 Analysis of the focus areas in technology for different manufacturers\n\u2022 Examination of the rate of successful patent applications per manufacturer\n\u2022 Insights into the geographical distribution of patent filings by manufacturers\n\u2022 Overview of litigation and legal battles over patent rights between manufacturers",
+            "type": "distractor",
+            "justification": "This slide offers a general analysis of patent filings by manufacturers, not specific to Q4 2025."
+        },
+        {
+            "heading": "Implications for Elexion's Technology Development",
+            "content": "\u2022 Overview of how patents influence Elexion's R&D direction\n\u2022 Analysis of Elexion's patent portfolio and filing trends\n\u2022 Discussion on how competitive patent landscape affects Elexion's product roadmap\n\u2022 Examination of Elexion's past responses to competitive patent filings\n\u2022 Insights into Elexion's future plans for technology development based on patent landscape",
+            "type": "distractor",
+            "justification": "This slide discusses Elexion's responses and strategies, but not the specific number of patents filed in Q4 2025."
+        }
+    ],
+    "conclusion": "The number of patents filed by competitors indicates a steep investment in tech research and development. As Elexion, we should consider bolstering our own R&D initiatives to remain competitive in the market.",
+    "file_format": "pptx",
+    "file_path": ".llm_responses/generated_pptx_presentation.pptx",
+    "qa_type": "distractor",
+    "timestamp": "2025-12-02 22:09",
+    "image_queries": [
+        {
+            "slide_title": "Introduction",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "intentionally_clean",
+            "slide_type": "introduction"
+        },
+        {
+            "slide_title": "Overview of Competitive Patent Landscape",
+            "has_image": true,
+            "image_query": "electric vehicle patent analysis chart",
+            "generation_method": "strategic_placement",
+            "slide_type": "distractor",
+            "content_length": 6,
+            "total_chars": 433,
+            "forced": false,
+            "theme": "Modern Orange"
+        },
+        {
+            "slide_title": "Analysis of Major Manufacturers' Patent Filings",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 5,
+            "total_chars": 372,
+            "probability": 0.25,
+            "theme": "Modern Orange"
+        },
+        {
+            "slide_title": "Implications for Elexion's Technology Development",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 5,
+            "total_chars": 351,
+            "probability": 0.25,
+            "theme": "Modern Orange"
+        },
+        {
+            "slide_title": "Conclusion",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "strategic_clean_conclusion",
+            "slide_type": "conclusion",
+            "theme": "Modern Orange"
+        }
+    ],
+    "app": "nextcloud"
+}

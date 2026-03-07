@@ -1,0 +1,82 @@
+{
+    "file_name": "fy2025-marketing-budget",
+    "file_title": "FY2025 Marketing Budget Forecast",
+    "introduction": "In this presentation, we will discuss the projected budget allocation for our internal marketing department for the fiscal year 2025. This information will guide our strategic planning and resource allocation.",
+    "subsections": [
+        {
+            "heading": "Marketing Department's Historical Budget Trend",
+            "content": "\u2022 In 2019, the marketing budget experienced a 15% increase from the previous year\n\u2022 The marketing budget for FY2020 was $2.1 million CAD, focusing primarily on digital campaigns\n\u2022 The budget allocated for brand development in FY2021 saw a 25% increase\n\u2022 In FY2022, 30% of the budget was allocated for website redevelopment and SEO\n\u2022 The marketing budget for FY2023 was $2.8 million CAD, with a surge in social media advertising\n\u2022 FY2024 saw the implementation of a new, budget-friendly marketing automation tool",
+            "type": "distractor",
+            "justification": "Although it provides historical data, it does not deliver any information about the FY2025 marketing budget."
+        },
+        {
+            "heading": "FY2025 Marketing Budget Projection",
+            "content": "\u2022 The company is considering an increase in the budget for digital campaigns\n\u2022 The budget for traditional advertising might experience a decrease\n\u2022 MediConn is exploring collaborations with influencers to boost brand awareness\n\u2022 There may be an increased budget allocation for content development and SEO\n\u2022 The company is planning to invest in a new customer relationship management (CRM) system\n\u2022 A portion of the budget might be allocated for staff training in new marketing tools and techniques",
+            "type": "distractor",
+            "justification": "This slide discusses potential budget allocations but doesn't reveal the total budget for FY2025."
+        },
+        {
+            "heading": "Implications of the Proposed Budget on Marketing Strategy",
+            "content": "\u2022 A higher digital campaign budget may allow for increased reach on social media platforms\n\u2022 Decreased traditional advertising budget may impact visibility among older demographics\n\u2022 Collaborations with influencers could enhance brand reputation and user engagement\n\u2022 Increased investment in content development could improve organic search rankings\n\u2022 Implementing a new CRM system could enhance customer relationship management\n\u2022 Training staff on new tools and techniques could improve efficiency and effectiveness",
+            "type": "distractor",
+            "justification": "This slide discusses the potential impact of budget changes, but doesn't specify the FY2025 budget."
+        }
+    ],
+    "conclusion": "The projected budget for FY2025 will play a significant role in shaping our marketing initiatives. We must strategically allocate resources to ensure effective execution of our marketing strategies.",
+    "file_format": "pptx",
+    "file_path": ".llm_responses/generated_pptx_presentation.pptx",
+    "qa_type": "distractor",
+    "timestamp": "2025-11-20 16:42",
+    "image_queries": [
+        {
+            "slide_title": "Introduction",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "intentionally_clean",
+            "slide_type": "introduction"
+        },
+        {
+            "slide_title": "Marketing Department's Historical Budget Trend",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "failed",
+            "slide_type": "distractor",
+            "content_length": 6,
+            "total_chars": 494,
+            "error": "'str' object has no attribute 'choices'",
+            "theme": "Classic Navy"
+        },
+        {
+            "slide_title": "FY2025 Marketing Budget Projection",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 6,
+            "total_chars": 480,
+            "probability": 0.25,
+            "theme": "Classic Navy"
+        },
+        {
+            "slide_title": "Implications of the Proposed Budget on Marketing Strategy",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 6,
+            "total_chars": 499,
+            "probability": 0.25,
+            "theme": "Classic Navy"
+        },
+        {
+            "slide_title": "Conclusion",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "conclusion_failed",
+            "slide_type": "conclusion",
+            "error": "'str' object has no attribute 'choices'",
+            "theme": "Classic Navy"
+        }
+    ],
+    "app": "file_system"
+}

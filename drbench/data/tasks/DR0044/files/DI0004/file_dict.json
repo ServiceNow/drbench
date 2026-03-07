@@ -1,0 +1,81 @@
+{
+    "file_name": "competitor-ad-spend",
+    "file_title": "Competitor Advertising Spend Analysis",
+    "introduction": "As we strategize to expand our market presence, understanding our competitors' advertising spend is crucial. This analysis will help us make informed budgeting decisions.",
+    "subsections": [
+        {
+            "heading": "Overview of Virtual Healthcare Market",
+            "content": "\u2022 Virtual healthcare market is expected to grow by 20% annually through 2028\n\u2022 In 2024, 35% of Canadians used virtual healthcare services\n\u2022 Mobile apps constitute 60% of virtual healthcare platforms\n\u2022 The COVID-19 pandemic accelerated the adoption of virtual healthcare by 3 years\n\u2022 The elderly population represents the fastest-growing user segment\n\u2022 Consumer satisfaction with virtual healthcare has increased by 25% since 2020\n\u2022 70% of routine check-ups could potentially be done virtually by 2030",
+            "type": "distractor",
+            "justification": "This content provides general market trends and statistics, but no information about competitors' advertising spend."
+        },
+        {
+            "heading": "Competitive Landscape in Virtual Healthcare",
+            "content": "\u2022 There are over 500 virtual healthcare providers in Canada\n\u2022 Top 5 providers hold 60% market share\n\u2022 MediConn Solutions is currently 4th in market share\n\u2022 The market is highly fragmented beyond the top 5\n\u2022 Regulatory compliance is a major differentiator for providers\n\u2022 Customer service and ease of use are key competitive factors\n\u2022 New entrants are disrupting the market with innovative offerings",
+            "type": "distractor",
+            "justification": "This content describes the competitive landscape but does not provide details on advertising spend."
+        },
+        {
+            "heading": "Advertising Spend of Key Competitors",
+            "content": "\u2022 Most competitors use a mix of digital and traditional advertising\n\u2022 Social media is the most popular advertising platform for this industry\n\u2022 Influencer marketing is gaining popularity among competitors\n\u2022 Some competitors have begun using AI to optimize their ad campaigns\n\u2022 Larger competitors tend to have larger advertising budgets\n\u2022 Advertising strategies vary widely in this industry",
+            "type": "distractor",
+            "justification": "This content describes competitors' advertising strategies, but does not provide specific spend amounts."
+        }
+    ],
+    "conclusion": "Insights from our competitors' advertising spend provide a benchmark for our own investment. With this knowledge, we can refine our marketing strategy to effectively reach our target audience.",
+    "file_format": "pptx",
+    "file_path": ".llm_responses/generated_pptx_presentation.pptx",
+    "qa_type": "distractor",
+    "timestamp": "2025-11-19 23:19",
+    "image_queries": [
+        {
+            "slide_title": "Introduction",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "intentionally_clean",
+            "slide_type": "introduction"
+        },
+        {
+            "slide_title": "Overview of Virtual Healthcare Market",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "failed",
+            "slide_type": "distractor",
+            "content_length": 7,
+            "total_chars": 480,
+            "error": "'str' object has no attribute 'choices'",
+            "theme": "Professional Green"
+        },
+        {
+            "slide_title": "Competitive Landscape in Virtual Healthcare",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 7,
+            "total_chars": 378,
+            "probability": 0.25,
+            "theme": "Professional Green"
+        },
+        {
+            "slide_title": "Advertising Spend of Key Competitors",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 6,
+            "total_chars": 372,
+            "probability": 0.25,
+            "theme": "Professional Green"
+        },
+        {
+            "slide_title": "Conclusion",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "strategic_clean_conclusion",
+            "slide_type": "conclusion",
+            "theme": "Professional Green"
+        }
+    ],
+    "app": "nextcloud"
+}

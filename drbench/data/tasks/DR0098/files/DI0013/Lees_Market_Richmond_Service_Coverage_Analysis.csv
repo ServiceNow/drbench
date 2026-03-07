@@ -1,0 +1,12 @@
+store_id,store_location,service_type,availability,availability_date,service_coverage_percentage
+Unique identifier of a Lee's Market's store,Geographical location of the Lee's Market's store,Type of services provided by Lee's Market's store,Indicates whether the service is available or not at the store,Date of the service availability status,Percentage of the stores that provide the service
+LM001,New York,Same-day home delivery,True,2025-06-01,90
+LM009,Dallas,Same-day home delivery,False,2025-06-01,50
+LM007,San Antonio,Same-day home delivery,True,2025-05-01,60
+LM002,Los Angeles,In-store pickup,True,2025-05-01,85
+LM005,Phoenix,Same-day home delivery,False,2025-06-01,70
+LM006,Philadelphia,In-store pickup,True,2025-05-01,65
+LM004,Houston,In-store pickup,False,2025-06-01,75
+LM010,San Jose,In-store pickup,True,2025-05-01,45
+LM008,San Diego,In-store pickup,False,2025-06-01,55
+LM003,Chicago,Same-day home delivery,True,2025-05-01,80

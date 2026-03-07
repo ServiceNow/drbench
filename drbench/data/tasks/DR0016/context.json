@@ -1,0 +1,51 @@
+{
+    "company_info": {
+        "name": "Lee's Market",
+        "industry": "Retail",
+        "size": "Enterprise",
+        "founded_year": 2003,
+        "headquarters": "Richmond, British Columbia, Canada",
+        "description": "Lee's Market is a regional Asian supermarket chain specializing in high-quality Asian groceries and household items. With a growing footprint in urban centers across the U.S. and Canada, Lee's Market blends traditional flavors with modern retail experiences, offering in-store, online, and delivery services.",
+        "key_products_services": [
+            "Fresh produce, meats, and seafood",
+            "Asian household items",
+            "Bakery and prepared foods",
+            "Online grocery shopping and delivery"
+        ],
+        "target_markets": [
+            "Asian communities in the U.S. and Canada",
+            "Urban centers with diverse populations"
+        ],
+        "annual_revenue": "$500M - $600M",
+        "employee_count": 5000,
+        "compliance_certifications": [
+            "FDA and CFIA Food Safety Compliance",
+            "HACCP Food Safety Compliance",
+            "USDA Import Inspection Regulations"
+        ],
+        "market_position": "Lee's Market is a rising regional player bridging cultural authenticity and modern retail innovation in the Asian grocery sector. It is carving a niche between mainstream retailers like Walmart and ethnic-focused giants like H-Mart."
+    },
+    "persona": {
+        "role": "Regulatory Affairs Manager",
+        "department": "Operations",
+        "name": "Emily Patel",
+        "first_name": "Emily",
+        "last_name": "Patel",
+        "email": "emily.patel@leesmarket.com",
+        "seniority": "Executive",
+        "responsibilities": "Monitor regulatory changes, develop strategies for compliance, and collaborate with cross-functional teams to implement compliance initiatives.",
+        "id": "MNG0003",
+        "domain": "compliance",
+        "justification": "As a regulatory affairs manager, Emily is responsible for staying up-to-date on changing regulatory requirements, developing compliance strategies, and ensuring Lee's Market remains compliant with relevant laws and regulations.",
+        "username": "emily.patel"
+    },
+    "url": {
+        "url": "https://www.grocerydive.com/spons/grocers-talk-fsma-204-compliance-food-safety-and-the-future-of-grocery/722810/",
+        "domain": "Compliance",
+        "industry": "retail",
+        "example_dr_questions": [],
+        "insights": [],
+        "date": "2025-12-02"
+    },
+    "timestamp": "2025-10-30 00:00"
+}

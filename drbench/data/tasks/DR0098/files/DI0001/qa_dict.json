@@ -1,0 +1,10 @@
+{
+    "insight_id": "DI0001",
+    "qa_type": "distractor",
+    "qa_index": 1,
+    "specific_question": "What percentage of transactions were processed by self-checkout kiosks across Lee's Market's stores in Q1 2025?",
+    "answer": "Approximately 48% of transactions were processed by self-checkout kiosks across Lee's Market's stores in Q1 2025.",
+    "justification": "This data is not relevant because it focuses on checkout technology deployment, which improves transaction efficiency, but doesn't reveal product-level sales shifts from tariff-driven spending slowdown. Lee's Market cannot use this data to gauge which product categories are experiencing tariff-related sales declines or require promotion planning. This data is related to transaction infrastructure and does not affect product-level sales performance analysis under economic pressure.",
+    "timestamp": "2025-11-21 13:02",
+    "dr_question": "Given the drop in Canadian retail sales brought on by US tariffs in 2025, what insights should Lee\u2019s Market derive from product-level sales trends across tariff-exposed and tariff-insulated categories to update sales forecasts by 2027?"
+}

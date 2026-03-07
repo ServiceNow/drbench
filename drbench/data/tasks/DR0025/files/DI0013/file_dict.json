@@ -1,0 +1,81 @@
+{
+    "file_name": "refunds-quality-review",
+    "file_title": "Customer Refunds and Product Quality Review",
+    "introduction": "As we strive to provide exceptional value to our customers, it's crucial that we examine the quality of our products. This presentation will delve into the frequency and reasons for customer refunds due to spoilt or damaged goods.",
+    "subsections": [
+        {
+            "heading": "Overview of Customer Refunds",
+            "content": "\u2022 In 2023, Lee's Market revised its customer refunds policy to better align with industry standards\n\u2022 A new department was created in 2021 to handle customer refund requests\n\u2022 The average processing time for a refund is 3-5 business days\n\u2022 In 2023, customer refunds accounted for approximately 1% of total sales\n\u2022 Lee's Market's refund policy extends to both in-store and online purchases\n\u2022 The company has seen a 10% reduction in refund requests since implementing its new policy",
+            "type": "distractor",
+            "justification": "Slide content focuses on general refund operations and historical data, not on goods-related refunds as per the DR Question"
+        },
+        {
+            "heading": "Detailed Analysis of Goods-Related Refunds",
+            "content": "\u2022 The majority of refund requests are due to customer dissatisfaction, not product quality\n\u2022 Lee's Market has stringent systems in place to ensure product quality and minimize the need for refunds\n\u2022 As part of the company's commitment to quality, all goods are inspected before being put on the shelves\n\u2022 The company has invested in advanced storage facilities to maintain the freshness of goods\n\u2022 Training programs are in place to ensure staff understand the importance of product quality",
+            "type": "distractor",
+            "justification": "Content discusses quality control measures and staff training, not specifics about refund frequency due to spoilt goods"
+        },
+        {
+            "heading": "Impact of Refunds on Customer Satisfaction",
+            "content": "\u2022 Customer satisfaction surveys indicate that most customers are satisfied with the refund process\n\u2022 In 2023, Lee's Market introduced an online refund request form to simplify the process for customers\n\u2022 The company's customer service team is trained to handle refund requests in a courteous and professional manner\n\u2022 A dedicated customer service hotline was launched in 2022 to handle refund-related inquiries\n\u2022 Customer satisfaction scores have improved by 15% since the introduction of the new refund policy",
+            "type": "distractor",
+            "justification": "Slide content discusses customer satisfaction and the refund process, not the frequency of refunds due to spoilt goods"
+        }
+    ],
+    "conclusion": "Our goal should be to reduce the number of refunds related to spoilt or damaged goods. Let's continue focusing on improving our quality control process and engage with suppliers to minimize these incidents.",
+    "file_format": "pptx",
+    "file_path": ".llm_responses/generated_pptx_presentation.pptx",
+    "qa_type": "distractor",
+    "timestamp": "2025-11-19 02:03",
+    "image_queries": [
+        {
+            "slide_title": "Introduction",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "intentionally_clean",
+            "slide_type": "introduction"
+        },
+        {
+            "slide_title": "Overview of Customer Refunds",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "failed",
+            "slide_type": "distractor",
+            "content_length": 6,
+            "total_chars": 463,
+            "error": "'str' object has no attribute 'choices'",
+            "theme": "Forest Theme"
+        },
+        {
+            "slide_title": "Detailed Analysis of Goods-Related Refunds",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 5,
+            "total_chars": 475,
+            "probability": 0.25,
+            "theme": "Forest Theme"
+        },
+        {
+            "slide_title": "Impact of Refunds on Customer Satisfaction",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 5,
+            "total_chars": 496,
+            "probability": 0.25,
+            "theme": "Forest Theme"
+        },
+        {
+            "slide_title": "Conclusion",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "strategic_clean_conclusion",
+            "slide_type": "conclusion",
+            "theme": "Forest Theme"
+        }
+    ],
+    "app": "file_system"
+}

@@ -1,0 +1,81 @@
+{
+    "file_name": "industry-event-insights",
+    "file_title": "Industry Events: Market Intelligence Insights",
+    "introduction": "This presentation analyses the recent industry events attended by our team and the strategic market intelligence gathered from them. Our focus will be on understanding the evolving trends and potential opportunities in the electric vehicle industry.",
+    "subsections": [
+        {
+            "heading": "Overview of Attended Industry Events",
+            "content": "\u2022 Elexion has attended 15 key industry events in the past year\n\u2022 Participated in the International Electric Vehicle Symposium in March 2025\n\u2022 Joined the World EV Show in Toronto, May 2025, showcasing our latest EV model\n\u2022 Attended the Silicon Valley Auto Show, June 2025, focused on technology integration\n\u2022 Participated in the LA Auto Show in November 2024, where we launched our new SUV model\n\u2022 Planning to attend the Beijing International Automotive Exhibition in April 2026",
+            "type": "distractor",
+            "justification": "The content discusses various industry events but does not mention the specific event Emily Lee attended for market intelligence. The distractor strategy used focuses on general industry participation."
+        },
+        {
+            "heading": "Key Market Insights from Event Participation",
+            "content": "\u2022 Identified a growing trend towards autonomous driving technologies\n\u2022 Noted a 30% increase in customer interest in vehicle-to-grid (V2G) technology\n\u2022 Discovered a rising demand for luxury EVs with extended mileage\n\u2022 Observed a trend of integrating AI-based functionalities in EVs\n\u2022 Uncovered a competitive strategy focusing on fast-charging solutions\n\u2022 Found an increasing trend in cross-border collaborations for EV manufacturing",
+            "type": "distractor",
+            "justification": "The content discusses general market insights from various events, but does not specify which insights Emily Lee gathered from her event. The distractor strategy focuses on general insights."
+        },
+        {
+            "heading": "Future Industry Events and Strategic Planning",
+            "content": "\u2022 Targeting the Geneva International Motor Show in March 2026 for revealing our next EV model\n\u2022 Planning to attend the Battery Show North America in September 2026 for technological advancements\n\u2022 Evaluating the participation in the Tokyo Motor Show in October 2026 to explore Asian markets\n\u2022 Considering the Auto Shanghai 2027 for expanding our presence in China\n\u2022 Identifying potential partners for collaboration at the Frankfurt Motor Show in September 2026",
+            "type": "distractor",
+            "justification": "This content outlines future industry events and strategic planning but does not provide information on the event Emily Lee attended. The distractor strategy focuses on future plans."
+        }
+    ],
+    "conclusion": "Attending industry events has proven to be a valuable strategy for gathering market intelligence. Moving forward, we should prioritize these opportunities to stay abreast of technological advancements and market trends in the electric vehicle industry.",
+    "file_format": "pptx",
+    "file_path": ".llm_responses/generated_pptx_presentation.pptx",
+    "qa_type": "distractor",
+    "timestamp": "2025-12-02 17:43",
+    "image_queries": [
+        {
+            "slide_title": "Introduction",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "intentionally_clean",
+            "slide_type": "introduction"
+        },
+        {
+            "slide_title": "Overview of Attended Industry Events",
+            "has_image": true,
+            "image_query": "industry events networking",
+            "generation_method": "strategic_placement",
+            "slide_type": "distractor",
+            "content_length": 6,
+            "total_chars": 460,
+            "forced": false,
+            "theme": "Forest Theme"
+        },
+        {
+            "slide_title": "Key Market Insights from Event Participation",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 6,
+            "total_chars": 414,
+            "probability": 0.25,
+            "theme": "Forest Theme"
+        },
+        {
+            "slide_title": "Future Industry Events and Strategic Planning",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 5,
+            "total_chars": 446,
+            "probability": 0.25,
+            "theme": "Forest Theme"
+        },
+        {
+            "slide_title": "Conclusion",
+            "has_image": true,
+            "image_query": "industry event networking",
+            "generation_method": "strategic_conclusion",
+            "slide_type": "conclusion",
+            "theme": "Forest Theme"
+        }
+    ],
+    "app": "file_system"
+}

@@ -1,0 +1,81 @@
+{
+    "file_name": "CS-training-analysis-q3",
+    "file_title": "Customer Service Training Analysis Q3 2024",
+    "introduction": "This presentation provides a comprehensive review of our customer service training initiatives in Q3 2024. We will delve into the details of continuing education hours completed by each representative.",
+    "subsections": [
+        {
+            "heading": "Overview of Customer Service Training Programs",
+            "content": "\u2022 Initial training for customer service representatives spans over 6 weeks\n\u2022 Training modules include areas such as data privacy, communication skills, and technical know-how\n\u2022 Advanced training covers areas such as conflict resolution and crisis management\n\u2022 We also conduct periodic training sessions on new features and updates\n\u2022 Training methods include online courses, webinars, and interactive sessions\n\u2022 Our trainers come with extensive experience in healthcare and customer service\n\u2022 We measure training effectiveness through assessments and feedback surveys.",
+            "type": "distractor",
+            "justification": "This content provides an overview of the training programs but doesn't specify the continuing education hours completed by representatives between July and September 2024."
+        },
+        {
+            "heading": "Breakdown of Continuing Education Hours",
+            "content": "\u2022 Our customer service team completes an average of 40 hours of continuing education annually\n\u2022 Mandatory training modules require approximately 20 hours per year\n\u2022 Voluntary courses, webinars, and workshops make up the remaining continuing education hours\n\u2022 The average completion rate for voluntary courses is 75%\n\u2022 Most continuing education courses are completed during the slow business periods\n\u2022 Our ongoing goal is to increase the average continuing education hours by 10% annually.",
+            "type": "distractor",
+            "justification": "This content provides an overall breakdown of continuing education hours, but not the specific hours completed by each representative from July to September 2024."
+        },
+        {
+            "heading": "Impact of Training on Customer Satisfaction",
+            "content": "\u2022 A 10% increase in training hours correlates with a 5% increase in customer satisfaction\n\u2022 Customer complaints reduced by 15% post the introduction of advanced training\n\u2022 Customer representatives with over 50 hours of training have higher customer satisfaction ratings\n\u2022 Our Net Promoter Score increased by 10 points after the implementation of the new training curriculum\n\u2022 Feedback from customers indicates appreciation for the knowledgeable and professional service\n\u2022 There is a positive correlation between continuing education hours and customer retention.",
+            "type": "distractor",
+            "justification": "This content discusses the impact of training on customer satisfaction but does not provide information on the continuing education hours completed by each representative from July to September 2024."
+        }
+    ],
+    "conclusion": "The Q3 2024 analysis indicates a positive trend in continuing education among our customer service representatives. We should continue our investment in training programs to enhance customer satisfaction and service quality.",
+    "file_format": "pptx",
+    "file_path": ".llm_responses/generated_pptx_presentation.pptx",
+    "qa_type": "distractor",
+    "timestamp": "2025-12-02 15:56",
+    "image_queries": [
+        {
+            "slide_title": "Introduction",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "intentionally_clean",
+            "slide_type": "introduction"
+        },
+        {
+            "slide_title": "Overview of Customer Service Training Programs",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 7,
+            "total_chars": 547,
+            "probability": 0.25,
+            "theme": "Elegant Teal"
+        },
+        {
+            "slide_title": "Breakdown of Continuing Education Hours",
+            "has_image": true,
+            "image_query": "business training workshop photo",
+            "generation_method": "strategic_placement",
+            "slide_type": "distractor",
+            "content_length": 6,
+            "total_chars": 471,
+            "forced": false,
+            "theme": "Elegant Teal"
+        },
+        {
+            "slide_title": "Impact of Training on Customer Satisfaction",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 6,
+            "total_chars": 545,
+            "probability": 0.25,
+            "theme": "Elegant Teal"
+        },
+        {
+            "slide_title": "Conclusion",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "strategic_clean_conclusion",
+            "slide_type": "conclusion",
+            "theme": "Elegant Teal"
+        }
+    ],
+    "app": "file_system"
+}

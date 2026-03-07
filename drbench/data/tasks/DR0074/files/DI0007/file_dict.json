@@ -1,0 +1,81 @@
+{
+    "file_name": "charging-infrastructure-investment",
+    "file_title": "Elexion's Charging Infrastructure Investment Analysis",
+    "introduction": "This presentation provides a detailed review of Elexion Automotive's investment in charging infrastructure partnerships and installations across North America in 2024. The insights will aid in understanding our strategic financial positioning and future planning.",
+    "subsections": [
+        {
+            "heading": "EV Market Trends and Charging Infrastructure",
+            "content": "\u2022 The global EV market is projected to grow at a compound annual growth rate (CAGR) of 26% through 2026\n\u2022 In 2024, the total number of EV charging stations in the US exceeded 100,000\n\u2022 Public charging infrastructure remains a challenge, with less than one public charger for every ten EVs on the road in 2024\n\u2022 The North American EV market is expected to reach $180 billion by 2027\n\u2022 In 2023, the US government approved a $7.5 billion investment in EV charging infrastructure\n\u2022 Elexion's home charging solution, Elexion Charge, was launched in 2019",
+            "type": "distractor",
+            "justification": "These points discuss industry trends and Elexion\u2019s product launch, but not Elexion\u2019s specific investments in charging infrastructure in 2024."
+        },
+        {
+            "heading": "Elexion's 2024 Charging Infrastructure Investments",
+            "content": "\u2022 Elexion\u2019s \u2018Charge Ahead\u2019 program aimed to accelerate the deployment of charging infrastructure\n\u2022 In Q2 2024, Elexion expanded its charging network to 3 new states\n\u2022 The company increased its charging stations by 30% in 2024\n\u2022 Elexion\u2019s R&D team developed a new fast-charging technology in 2024\n\u2022 The 'Charge Ahead' program was primarily funded through a mix of private investments and public grants",
+            "type": "distractor",
+            "justification": "These points discuss Elexion\u2019s charging infrastructure initiatives and growth, but do not specify the total investment amount in 2024."
+        },
+        {
+            "heading": "Partnerships and Collaborations for Charging Infrastructure",
+            "content": "\u2022 Elexion partnered with GridPower in 2023 to enhance its charging technology\n\u2022 In 2024, Elexion collaborated with CityCharge to install EV charging stations in urban areas\n\u2022 Elexion joined the Charge America coalition to advocate for more investment in charging infrastructure\n\u2022 The collaboration with state governments assisted in the expansion of Elexion\u2019s charging network\n\u2022 Discussions with European charging manufacturer, LightningCharge, began in late 2024",
+            "type": "distractor",
+            "justification": "These points mention partnerships and collaborations, but do not disclose the specific financial investments involved in these activities in 2024."
+        }
+    ],
+    "conclusion": "Elexion's strategic investments in charging infrastructure and partnerships in 2024 reflected our commitment to driving the transition to zero-emission transportation. Moving forward, we will continue to evaluate and seize opportunities that align with our sustainability vision and the evolving EV market trends.",
+    "file_format": "pptx",
+    "file_path": ".llm_responses/generated_pptx_presentation.pptx",
+    "qa_type": "distractor",
+    "timestamp": "2025-11-20 03:12",
+    "image_queries": [
+        {
+            "slide_title": "Introduction",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "intentionally_clean",
+            "slide_type": "introduction"
+        },
+        {
+            "slide_title": "EV Market Trends and Charging Infrastructure",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "failed",
+            "slide_type": "distractor",
+            "content_length": 6,
+            "total_chars": 531,
+            "error": "'str' object has no attribute 'choices'",
+            "theme": "Classic Navy"
+        },
+        {
+            "slide_title": "Elexion's 2024 Charging Infrastructure Investments",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 5,
+            "total_chars": 386,
+            "probability": 0.25,
+            "theme": "Classic Navy"
+        },
+        {
+            "slide_title": "Partnerships and Collaborations for Charging Infrastructure",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 5,
+            "total_chars": 449,
+            "probability": 0.25,
+            "theme": "Classic Navy"
+        },
+        {
+            "slide_title": "Conclusion",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "strategic_clean_conclusion",
+            "slide_type": "conclusion",
+            "theme": "Classic Navy"
+        }
+    ],
+    "app": "file_system"
+}

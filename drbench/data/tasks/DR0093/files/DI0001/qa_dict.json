@@ -1,0 +1,10 @@
+{
+    "insight_id": "DI0001",
+    "qa_type": "distractor",
+    "qa_index": 1,
+    "specific_question": "What was the percentage increase in MediConn's video conferencing infrastructure to support concurrent consultations after upgrading it in Q1 2025?",
+    "answer": "MediConn Solutions upgraded its video infrastructure in Q1 2025 to support 15,000 concurrent consultations, noting a 50% increase.",
+    "justification": "This data is not relevant because it focuses on MediConn's technical capacity that addresses scalability, but doesn't inform any CHA compliance strategy or provincial regulatory variations. MediConn cannot use this data to determine what strategic adjustments are needed to address legal precedents about billing for medically necessary care by non-physician providers. This data is related to IT infrastructure scaling, not regulatory compliance risk mitigation.",
+    "timestamp": "2025-11-20 18:00",
+    "dr_question": "In response to the federal government\u2019s 2025 interpretation of the Canada Health Act, what should MediConn Solutions do to address compliance risks from legal precedents or provincial variations by Q4 2028?"
+}

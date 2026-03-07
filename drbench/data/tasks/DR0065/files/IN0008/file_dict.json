@@ -1,0 +1,81 @@
+{
+    "file_name": "direct-sales-transition",
+    "file_title": "Direct Sales Transition: Driving Elexion's Future",
+    "introduction": "As we consider a strategic shift from dealership franchising to direct-to-customer, it's crucial we understand potential benefits and key steps to drive sales and higher margins. This presentation will provide insights on how this transition could shape Elexion's future in 2027.",
+    "subsections": [
+        {
+            "heading": "Current State of Elexion's Sales Operations",
+            "content": "\u2022 Our sales process currently involves a 42-day journey from initial customer contact to final sale closure.\n\u2022 This period, as recorded in January 2025, is representative of the average time it takes for our dealership network to finalize a sale.\n\u2022 Our sales operations through the dealer network require this considerable time investment, potentially impacting customer satisfaction and sales efficiency.\n\u2022 A shift to a direct sales model could potentially reduce this period, streamlining our sales process and enhancing customer experience.\n\u2022 Considering the reported extra costs added by dealerships, a direct model could also provide financial advantages by eliminating middleman markups.\n\u2022 This strategic shift might provide us with a competitive edge, especially considering the significant annual revenues of top dealership groups in America.",
+            "type": "insight",
+            "justification": "These points detail current operations, indicate potential improvements and set the stage for assessing the benefits of a transition to direct sales."
+        },
+        {
+            "heading": "Potential Impact of Direct Sales on Margins",
+            "content": "\u2022 Dealership markup varies from $500 to $2,000 per vehicle\n\u2022 Top 10% of dealerships account for 40% of total sales\n\u2022 In 2025, dealership commission was reduced by 10%\n\u2022 Annual dealership operating costs average $1.5M per location\n\u2022 Dealerships also offer post-sales services and accessories\n\u2022 Direct sales could alter the dynamics of after-sales services and warranty claims",
+            "type": "distractor",
+            "justification": "This slide provides information on the current cost structure of Elexion's dealership model, but not the impact of a potential shift to direct sales."
+        },
+        {
+            "heading": "Leveraging Direct Sales for Enhanced Customer Experience",
+            "content": "\u2022 Elexion's Net Promoter Score (NPS) has been above 70 since 2023\n\u2022 60% of customer complaints relate to dealerships, not the product\n\u2022 In 2025, a pilot program was launched to test direct sales for fleet customers\n\u2022 Elexion's customer service team handles over 10,000 queries per month\n\u2022 Elexion's website traffic has increased by 25% YOY since 2024",
+            "type": "distractor",
+            "justification": "This slide discusses Elexion's current customer experience and pilot programs, but doesn't address how direct sales could enhance the customer experience."
+        }
+    ],
+    "conclusion": "Transitioning to a direct-to-customer model could significantly increase our margins and improve customer experience. As we move forward, we must align our operations and strategies to leverage this potential advantage effectively.",
+    "file_format": "pptx",
+    "file_path": ".llm_responses/generated_pptx_presentation.pptx",
+    "qa_type": "insight",
+    "timestamp": "2025-11-20 01:38",
+    "image_queries": [
+        {
+            "slide_title": "Introduction",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "intentionally_clean",
+            "slide_type": "introduction"
+        },
+        {
+            "slide_title": "Current State of Elexion's Sales Operations",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "failed",
+            "slide_type": "insight",
+            "content_length": 6,
+            "total_chars": 833,
+            "error": "'str' object has no attribute 'choices'",
+            "theme": "Forest Theme"
+        },
+        {
+            "slide_title": "Potential Impact of Direct Sales on Margins",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 6,
+            "total_chars": 357,
+            "probability": 0.25,
+            "theme": "Forest Theme"
+        },
+        {
+            "slide_title": "Leveraging Direct Sales for Enhanced Customer Experience",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 5,
+            "total_chars": 336,
+            "probability": 0.45,
+            "theme": "Forest Theme"
+        },
+        {
+            "slide_title": "Conclusion",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "strategic_clean_conclusion",
+            "slide_type": "conclusion",
+            "theme": "Forest Theme"
+        }
+    ],
+    "app": "nextcloud"
+}

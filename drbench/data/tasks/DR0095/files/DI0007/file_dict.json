@@ -1,0 +1,29 @@
+{
+    "file_name": "2025-marketing-expenditure-analysis",
+    "file_title": "2025 Annual Marketing Expenditure Analysis",
+    "introduction": "This document intends to provide a comprehensive review of Lee's Market's marketing activities for the fiscal year 2025. As part of our ongoing efforts for financial transparency and strategic planning, we explore the total annual marketing expenditure, its allocation, and the return on investment. The information herein is essential for our future budgeting and strategic marketing decisions.",
+    "subsections": [
+        {
+            "heading": "Breakdown of Marketing Channels",
+            "content": "In 2025, Lee's Market utilized a variety of marketing channels to connect with customers. Traditional avenues such as print advertising and direct mail accounted for 20% of our marketing efforts, while digital channels, including social media, email marketing, and online advertising, made up the remaining 80%. This split reflects a strategic shift toward digital platforms, following broader industry trends.",
+            "type": "distractor",
+            "justification": "Details marketing channel distribution, not total marketing expenditure."
+        },
+        {
+            "heading": "Marketing Expenditure Trends",
+            "content": "Over the last five years, we have seen a gradual increase in our marketing expenditure. This is largely due to our increased investment in digital marketing and the associated costs that come with it. However, despite the increase in total expenditure, our percentage of revenue allocated to marketing has remained relatively stable.",
+            "type": "distractor",
+            "justification": "Explains expenditure trends, but not specific 2025 marketing budget."
+        },
+        {
+            "heading": "ROI Analysis of 2025 Marketing Campaigns",
+            "content": "The marketing campaigns executed in 2025 generated a significant return on investment. Our Spring Sale campaign, for instance, resulted in a 35% increase in sales for the duration of the promotion, while our Holiday campaign led to a 50% boost in online traffic. This success is a testament to the effectiveness of our marketing strategies.",
+            "type": "distractor",
+            "justification": "Describes campaign results, not the total marketing expenditure in 2025."
+        }
+    ],
+    "conclusion": "The analysis of the 2025 marketing expenditure provides valuable insights into our financial management and marketing strategies. Understanding where and how our marketing budget was allocated, along with the return on those investments, allows us to make informed decisions for future campaigns. It is recommended to continue monitoring and evaluating our marketing expenditures to optimize our budget allocation and increase ROI.",
+    "file_format": "docx",
+    "file_path": ".llm_responses/generated_docx_document.docx",
+    "app": "file_system"
+}

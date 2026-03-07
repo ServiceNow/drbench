@@ -1,0 +1,81 @@
+{
+    "file_name": "maintenance-summary-report",
+    "file_title": "Plant Maintenance Summary Report",
+    "introduction": "This presentation provides an overview of the plant maintenance activities at Elexion Automotive. We will look at the number of work orders closed, emphasizing efficiency and productivity.",
+    "subsections": [
+        {
+            "heading": "Maintenance Work Order Overview",
+            "content": "\u2022 Elexion Automotive has a robust process for managing maintenance work orders\n\u2022 The system is designed to streamline requests, prioritization, and assignment of tasks\n\u2022 Our maintenance department is comprised of 75 skilled professionals\n\u2022 We've seen a 10% increase in the overall volume of work orders over the last two years\n\u2022 The average time to complete a work order is 3-5 days\n\u2022 On average, each technician completes 15-20 work orders per month",
+            "type": "distractor",
+            "justification": "The content provides a general overview of the maintenance work order system, not specific data on closed work orders."
+        },
+        {
+            "heading": "Breakdown of Closed Work Orders",
+            "content": "\u2022 Our maintenance work orders cover a wide range of tasks, from equipment repairs to routine inspections\n\u2022 Approximately 60% of work orders are for preventative maintenance\n\u2022 The remaining 40% are typically for repairs or upgrades\n\u2022 The most common issues requiring maintenance are related to production machinery\n\u2022 We've invested heavily in training programs to reduce the frequency of these issues\n\u2022 Our goal is to continue reducing the number of repair-related work orders",
+            "type": "distractor",
+            "justification": "The content discusses the types of work orders and the company's goals, but doesn't specify the number of closed orders."
+        },
+        {
+            "heading": "Impact on Plant Productivity",
+            "content": "\u2022 Effective maintenance management is crucial to maintaining high levels of plant productivity\n\u2022 We've seen a direct correlation between reduced maintenance times and increased productivity\n\u2022 Our predictive maintenance strategies have helped to reduce downtime by 15% in the last year\n\u2022 We've also noticed a decrease in equipment failures and production stoppages\n\u2022 Our goal is to continue streamlining our maintenance processes to further increase productivity",
+            "type": "distractor",
+            "justification": "The content discusses the impact of maintenance on productivity, not the number of closed work orders."
+        }
+    ],
+    "conclusion": "Efficient closing of maintenance work orders has a significant impact on plant productivity. To ensure continued efficiency, we should focus on predictive maintenance and continuous improvement of our processes.",
+    "file_format": "pptx",
+    "file_path": ".llm_responses/generated_pptx_presentation.pptx",
+    "qa_type": "distractor",
+    "timestamp": "2025-12-03 00:00",
+    "image_queries": [
+        {
+            "slide_title": "Introduction",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "intentionally_clean",
+            "slide_type": "introduction"
+        },
+        {
+            "slide_title": "Maintenance Work Order Overview",
+            "has_image": true,
+            "image_query": "automotive maintenance work order management",
+            "generation_method": "strategic_placement",
+            "slide_type": "distractor",
+            "content_length": 6,
+            "total_chars": 433,
+            "forced": false,
+            "theme": "Forest Theme"
+        },
+        {
+            "slide_title": "Breakdown of Closed Work Orders",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 6,
+            "total_chars": 458,
+            "probability": 0.25,
+            "theme": "Forest Theme"
+        },
+        {
+            "slide_title": "Impact on Plant Productivity",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 5,
+            "total_chars": 447,
+            "probability": 0.25,
+            "theme": "Forest Theme"
+        },
+        {
+            "slide_title": "Conclusion",
+            "has_image": true,
+            "image_query": "industrial maintenance team collaboration",
+            "generation_method": "strategic_conclusion",
+            "slide_type": "conclusion",
+            "theme": "Forest Theme"
+        }
+    ],
+    "app": "file_system"
+}

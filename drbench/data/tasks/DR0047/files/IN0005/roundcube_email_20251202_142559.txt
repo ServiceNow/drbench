@@ -1,0 +1,172 @@
+================================================================================
+ROUNDCUBE EMAIL EXPORT
+================================================================================
+
+USERS:
+----------------------------------------
+• emily.patel
+  Name: Emily Patel
+  Email: emily.patel@mediconn.com
+
+• lucas.anderson
+  Name: Lucas Anderson
+  Email: lucas.anderson@mediconn.com
+
+• sarah.jones
+  Name: Sarah Jones
+  Email: sarah.jones@mediconn.com
+
+• mark.brown
+  Name: Mark Brown
+  Email: mark.brown@mediconn.com
+
+• elizabeth.martin
+  Name: Elizabeth Martin
+  Email: elizabeth.martin@mediconn.com
+
+• joe.wilson
+  Name: Joe Wilson
+  Email: joe.wilson@mediconn.com
+
+• linda.taylor
+  Name: Linda Taylor
+  Email: linda.taylor@mediconn.com
+
+EMAILS:
+================================================================================
+Email ID: email_001
+Date: 2022-09-21 09:45:00
+From: Emily Patel <emily.patel@mediconn.com>
+To: lucas.anderson@mediconn.com, sarah.jones@mediconn.com, mark.brown@mediconn.com, elizabeth.martin@mediconn.com, joe.wilson@mediconn.com, linda.taylor@mediconn.com
+Subject: Team Meeting Schedule for Next Week
+Folder: sent | Status: Read
+
+Message Body:
+----------------------------------------
+Hello Team, 
+
+Just a quick note to inform you all that our weekly team meeting will be held on Tuesday next week instead of Monday due to the public holiday. Please make a note of this change in your calendars. We will discuss the usual operational updates and any challenges you faced in the past week. Let's also use this opportunity to share any ideas that you think can improve our workflow.
+
+Best, 
+Emily
+============================================================
+
+Email ID: email_002
+Date: 2022-09-22 14:25:00
+From: Mark Brown <mark.brown@mediconn.com>
+To: emily.patel@mediconn.com
+CC: lucas.anderson@mediconn.com
+Subject: Q3 Project Status Update
+Folder: inbox | Status: Unread
+
+Message Body:
+----------------------------------------
+Hi Emily, 
+
+I wanted to share a quick update on our Q3 projects. All are progressing as per the schedule and should be completed within the set timeline. I'll share a detailed report on each project's status during our next meeting.
+
+Best, 
+Mark
+============================================================
+
+Email ID: email_003
+Date: 2022-09-23 16:00:00
+From: Sarah Jones <sarah.jones@mediconn.com>
+To: emily.patel@mediconn.com
+Subject: Customer Satisfaction Survey Results
+Folder: inbox | Status: Unread
+Attachments: 1 file(s)
+
+Message Body:
+----------------------------------------
+Hi Emily, 
+
+We have just received the results from last month's customer satisfaction survey. The overall feedback is positive, and customers appreciate the user-friendly interface of our platform. However, there are a few areas of improvement suggested as well, which I have detailed in the attached report.
+
+Best, 
+Sarah
+============================================================
+
+Email ID: email_004
+Date: 2022-09-24 11:15:00
+From: Emily Patel <emily.patel@mediconn.com>
+To: lucas.anderson@mediconn.com, mark.brown@mediconn.com, elizabeth.martin@mediconn.com, joe.wilson@mediconn.com
+Subject: IT Training Session Next Week
+Folder: sent | Status: Read
+
+Message Body:
+----------------------------------------
+Hi Team, 
+
+We have scheduled an IT training session for next Wednesday. The session will be led by an external expert and will cover the latest best practices in IT service management. I believe this will be a valuable opportunity for all of us to enhance our skills. Please confirm your availability for this session.
+
+Best, 
+Emily
+============================================================
+
+Email ID: email_001
+Date: 2025-07-01 09:00:00
+From: Sarah Jones <sarah.jones@mediconn.com>
+To: emily.patel@mediconn.com
+CC: lucas.anderson@mediconn.com, mark.brown@mediconn.com, elizabeth.martin@mediconn.com, joe.wilson@mediconn.com, linda.taylor@mediconn.com
+Subject: Q2 2025 - Customer Satisfaction Survey Results
+Folder: inbox | Status: Read
+Attachments: 1 file(s)
+
+Message Body:
+----------------------------------------
+Dear Team,
+
+I am writing to share the results of the Customer Satisfaction Survey we conducted for Q2 2025. Overall, we received good feedback on our IT Service Desk's performance. However, we need to address an important issue.
+
+A significant number of customers have reported long wait times for service ticket resolution. This was the most frequently documented complaint in the survey. The customers are seeking quicker resolution to their issues.
+
+Let's discuss how we can improve this aspect of our service in the next team meeting.
+
+Best,
+Sarah Jones
+============================================================
+
+Email ID: email_002
+Date: 2025-07-01 09:30:00
+From: Emily Patel <emily.patel@mediconn.com>
+To: sarah.jones@mediconn.com
+CC: lucas.anderson@mediconn.com, mark.brown@mediconn.com, elizabeth.martin@mediconn.com, joe.wilson@mediconn.com, linda.taylor@mediconn.com
+Subject: Re: Q2 2025 - Customer Satisfaction Survey Results
+Folder: inbox | Status: Read
+
+Message Body:
+----------------------------------------
+Dear Sarah,
+
+Thank you for sharing the survey results. This insight into our customers' complaints about the long wait times for service ticket resolution is crucial.
+
+I will schedule a meeting for us to discuss possible solutions and improvements. We must maintain our high standards of service, especially as we continue to support remote care and mobile health apps. The use of AI-integrated IT Service Management (ITSM) might be a solution we could explore towards this.
+
+Best,
+Emily Patel
+============================================================
+
+Email ID: email_003
+Date: 2025-07-01 10:00:00
+From: Mark Brown <mark.brown@mediconn.com>
+To: emily.patel@mediconn.com, sarah.jones@mediconn.com
+CC: lucas.anderson@mediconn.com, elizabeth.martin@mediconn.com, joe.wilson@mediconn.com, linda.taylor@mediconn.com
+Subject: Re: Q2 2025 - Customer Satisfaction Survey Results
+Folder: inbox | Status: Read
+
+Message Body:
+----------------------------------------
+Dear Emily and Sarah,
+
+I agree with Emily. The integration of AI in our IT Service Management could greatly help in reducing the wait times for service ticket resolution. I believe we could automate certain processes, thereby increasing efficiency and customer satisfaction.
+
+Looking forward to discussing this in our meeting.
+
+Best,
+Mark Brown
+============================================================
+
+================================================================================
+END OF EMAIL EXPORT
+================================================================================

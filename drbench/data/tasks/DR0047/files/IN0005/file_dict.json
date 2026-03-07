@@ -1,0 +1,220 @@
+{
+    "file_name": "roundcube_email_20251202_142559",
+    "content": "{\"type\": \"user\", \"username\": \"emily.patel\", \"first_name\": \"Emily\", \"last_name\": \"Patel\", \"email\": \"emily.patel@mediconn.com\", \"password\": \"emily_ITdesk123\"}\n{\"type\": \"user\", \"username\": \"lucas.anderson\", \"first_name\": \"Lucas\", \"last_name\": \"Anderson\", \"email\": \"lucas.anderson@mediconn.com\", \"password\": \"lucas_careAgent678\"}\n{\"type\": \"user\", \"username\": \"sarah.jones\", \"first_name\": \"Sarah\", \"last_name\": \"Jones\", \"email\": \"sarah.jones@mediconn.com\", \"password\": \"sarah_serviceRep456\"}\n{\"type\": \"user\", \"username\": \"mark.brown\", \"first_name\": \"Mark\", \"last_name\": \"Brown\", \"email\": \"mark.brown@mediconn.com\", \"password\": \"mark_techlead789\"}\n{\"type\": \"user\", \"username\": \"elizabeth.martin\", \"first_name\": \"Elizabeth\", \"last_name\": \"Martin\", \"email\": \"elizabeth.martin@mediconn.com\", \"password\": \"elizabeth_helpdesk321\"}\n{\"type\": \"user\", \"username\": \"joe.wilson\", \"first_name\": \"Joe\", \"last_name\": \"Wilson\", \"email\": \"joe.wilson@mediconn.com\", \"password\": \"joe_ITsupport234\"}\n{\"type\": \"user\", \"username\": \"linda.taylor\", \"first_name\": \"Linda\", \"last_name\": \"Taylor\", \"email\": \"linda.taylor@mediconn.com\", \"password\": \"linda_serviceRep567\"}\n{\"type\": \"email\", \"id\": \"email_001\", \"subject\": \"Team Meeting Schedule for Next Week\", \"from\": \"emily.patel@mediconn.com\", \"from_name\": \"Emily Patel\", \"to\": [\"lucas.anderson@mediconn.com\", \"sarah.jones@mediconn.com\", \"mark.brown@mediconn.com\", \"elizabeth.martin@mediconn.com\", \"joe.wilson@mediconn.com\", \"linda.taylor@mediconn.com\"], \"cc\": [], \"date\": \"2022-09-21 09:45:00\", \"body\": \"Hello Team, \\n\\nJust a quick note to inform you all that our weekly team meeting will be held on Tuesday next week instead of Monday due to the public holiday. Please make a note of this change in your calendars. We will discuss the usual operational updates and any challenges you faced in the past week. Let's also use this opportunity to share any ideas that you think can improve our workflow.\\n\\nBest, \\nEmily\", \"folder\": \"sent\", \"read\": true, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_002\", \"subject\": \"Q3 Project Status Update\", \"from\": \"mark.brown@mediconn.com\", \"from_name\": \"Mark Brown\", \"to\": [\"emily.patel@mediconn.com\"], \"cc\": [\"lucas.anderson@mediconn.com\"], \"date\": \"2022-09-22 14:25:00\", \"body\": \"Hi Emily, \\n\\nI wanted to share a quick update on our Q3 projects. All are progressing as per the schedule and should be completed within the set timeline. I'll share a detailed report on each project's status during our next meeting.\\n\\nBest, \\nMark\", \"folder\": \"inbox\", \"read\": false, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_003\", \"subject\": \"Customer Satisfaction Survey Results\", \"from\": \"sarah.jones@mediconn.com\", \"from_name\": \"Sarah Jones\", \"to\": [\"emily.patel@mediconn.com\"], \"cc\": [], \"date\": \"2022-09-23 16:00:00\", \"body\": \"Hi Emily, \\n\\nWe have just received the results from last month's customer satisfaction survey. The overall feedback is positive, and customers appreciate the user-friendly interface of our platform. However, there are a few areas of improvement suggested as well, which I have detailed in the attached report.\\n\\nBest, \\nSarah\", \"folder\": \"inbox\", \"read\": false, \"attachments\": [\"Customer_Satisfaction_Survey_Results.pdf\"]}\n{\"type\": \"email\", \"id\": \"email_004\", \"subject\": \"IT Training Session Next Week\", \"from\": \"emily.patel@mediconn.com\", \"from_name\": \"Emily Patel\", \"to\": [\"lucas.anderson@mediconn.com\", \"mark.brown@mediconn.com\", \"elizabeth.martin@mediconn.com\", \"joe.wilson@mediconn.com\"], \"cc\": [], \"date\": \"2022-09-24 11:15:00\", \"body\": \"Hi Team, \\n\\nWe have scheduled an IT training session for next Wednesday. The session will be led by an external expert and will cover the latest best practices in IT service management. I believe this will be a valuable opportunity for all of us to enhance our skills. Please confirm your availability for this session.\\n\\nBest, \\nEmily\", \"folder\": \"sent\", \"read\": true, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_001\", \"subject\": \"Q2 2025 - Customer Satisfaction Survey Results\", \"from\": \"sarah.jones@mediconn.com\", \"from_name\": \"Sarah Jones\", \"to\": [\"emily.patel@mediconn.com\"], \"cc\": [\"lucas.anderson@mediconn.com\", \"mark.brown@mediconn.com\", \"elizabeth.martin@mediconn.com\", \"joe.wilson@mediconn.com\", \"linda.taylor@mediconn.com\"], \"date\": \"2025-07-01 09:00:00\", \"body\": \"Dear Team,\\n\\nI am writing to share the results of the Customer Satisfaction Survey we conducted for Q2 2025. Overall, we received good feedback on our IT Service Desk's performance. However, we need to address an important issue.\\n\\nA significant number of customers have reported long wait times for service ticket resolution. This was the most frequently documented complaint in the survey. The customers are seeking quicker resolution to their issues.\\n\\nLet's discuss how we can improve this aspect of our service in the next team meeting.\\n\\nBest,\\nSarah Jones\", \"folder\": \"inbox\", \"read\": true, \"attachments\": [\"Customer_Satisfaction_Survey_Q2_2025.pdf\"]}\n{\"type\": \"email\", \"id\": \"email_002\", \"subject\": \"Re: Q2 2025 - Customer Satisfaction Survey Results\", \"from\": \"emily.patel@mediconn.com\", \"from_name\": \"Emily Patel\", \"to\": [\"sarah.jones@mediconn.com\"], \"cc\": [\"lucas.anderson@mediconn.com\", \"mark.brown@mediconn.com\", \"elizabeth.martin@mediconn.com\", \"joe.wilson@mediconn.com\", \"linda.taylor@mediconn.com\"], \"date\": \"2025-07-01 09:30:00\", \"body\": \"Dear Sarah,\\n\\nThank you for sharing the survey results. This insight into our customers' complaints about the long wait times for service ticket resolution is crucial.\\n\\nI will schedule a meeting for us to discuss possible solutions and improvements. We must maintain our high standards of service, especially as we continue to support remote care and mobile health apps. The use of AI-integrated IT Service Management (ITSM) might be a solution we could explore towards this.\\n\\nBest,\\nEmily Patel\", \"folder\": \"inbox\", \"read\": true, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_003\", \"subject\": \"Re: Q2 2025 - Customer Satisfaction Survey Results\", \"from\": \"mark.brown@mediconn.com\", \"from_name\": \"Mark Brown\", \"to\": [\"emily.patel@mediconn.com\", \"sarah.jones@mediconn.com\"], \"cc\": [\"lucas.anderson@mediconn.com\", \"elizabeth.martin@mediconn.com\", \"joe.wilson@mediconn.com\", \"linda.taylor@mediconn.com\"], \"date\": \"2025-07-01 10:00:00\", \"body\": \"Dear Emily and Sarah,\\n\\nI agree with Emily. The integration of AI in our IT Service Management could greatly help in reducing the wait times for service ticket resolution. I believe we could automate certain processes, thereby increasing efficiency and customer satisfaction.\\n\\nLooking forward to discussing this in our meeting.\\n\\nBest,\\nMark Brown\", \"folder\": \"inbox\", \"read\": true, \"attachments\": []}",
+    "email_setup": [
+        {
+            "type": "user",
+            "username": "emily.patel",
+            "first_name": "Emily",
+            "last_name": "Patel",
+            "email": "emily.patel@mediconn.com",
+            "password": "emily_ITdesk123"
+        },
+        {
+            "type": "user",
+            "username": "lucas.anderson",
+            "first_name": "Lucas",
+            "last_name": "Anderson",
+            "email": "lucas.anderson@mediconn.com",
+            "password": "lucas_careAgent678"
+        },
+        {
+            "type": "user",
+            "username": "sarah.jones",
+            "first_name": "Sarah",
+            "last_name": "Jones",
+            "email": "sarah.jones@mediconn.com",
+            "password": "sarah_serviceRep456"
+        },
+        {
+            "type": "user",
+            "username": "mark.brown",
+            "first_name": "Mark",
+            "last_name": "Brown",
+            "email": "mark.brown@mediconn.com",
+            "password": "mark_techlead789"
+        },
+        {
+            "type": "user",
+            "username": "elizabeth.martin",
+            "first_name": "Elizabeth",
+            "last_name": "Martin",
+            "email": "elizabeth.martin@mediconn.com",
+            "password": "elizabeth_helpdesk321"
+        },
+        {
+            "type": "user",
+            "username": "joe.wilson",
+            "first_name": "Joe",
+            "last_name": "Wilson",
+            "email": "joe.wilson@mediconn.com",
+            "password": "joe_ITsupport234"
+        },
+        {
+            "type": "user",
+            "username": "linda.taylor",
+            "first_name": "Linda",
+            "last_name": "Taylor",
+            "email": "linda.taylor@mediconn.com",
+            "password": "linda_serviceRep567"
+        }
+    ],
+    "email_messages": [
+        {
+            "type": "email",
+            "id": "email_001",
+            "subject": "Team Meeting Schedule for Next Week",
+            "from": "emily.patel@mediconn.com",
+            "from_name": "Emily Patel",
+            "to": [
+                "lucas.anderson@mediconn.com",
+                "sarah.jones@mediconn.com",
+                "mark.brown@mediconn.com",
+                "elizabeth.martin@mediconn.com",
+                "joe.wilson@mediconn.com",
+                "linda.taylor@mediconn.com"
+            ],
+            "cc": [],
+            "date": "2022-09-21 09:45:00",
+            "body": "Hello Team, \n\nJust a quick note to inform you all that our weekly team meeting will be held on Tuesday next week instead of Monday due to the public holiday. Please make a note of this change in your calendars. We will discuss the usual operational updates and any challenges you faced in the past week. Let's also use this opportunity to share any ideas that you think can improve our workflow.\n\nBest, \nEmily",
+            "folder": "sent",
+            "read": true,
+            "attachments": [],
+            "tag": "distractor"
+        },
+        {
+            "type": "email",
+            "id": "email_002",
+            "subject": "Q3 Project Status Update",
+            "from": "mark.brown@mediconn.com",
+            "from_name": "Mark Brown",
+            "to": [
+                "emily.patel@mediconn.com"
+            ],
+            "cc": [
+                "lucas.anderson@mediconn.com"
+            ],
+            "date": "2022-09-22 14:25:00",
+            "body": "Hi Emily, \n\nI wanted to share a quick update on our Q3 projects. All are progressing as per the schedule and should be completed within the set timeline. I'll share a detailed report on each project's status during our next meeting.\n\nBest, \nMark",
+            "folder": "inbox",
+            "read": false,
+            "attachments": [],
+            "tag": "distractor"
+        },
+        {
+            "type": "email",
+            "id": "email_003",
+            "subject": "Customer Satisfaction Survey Results",
+            "from": "sarah.jones@mediconn.com",
+            "from_name": "Sarah Jones",
+            "to": [
+                "emily.patel@mediconn.com"
+            ],
+            "cc": [],
+            "date": "2022-09-23 16:00:00",
+            "body": "Hi Emily, \n\nWe have just received the results from last month's customer satisfaction survey. The overall feedback is positive, and customers appreciate the user-friendly interface of our platform. However, there are a few areas of improvement suggested as well, which I have detailed in the attached report.\n\nBest, \nSarah",
+            "folder": "inbox",
+            "read": false,
+            "attachments": [
+                "Customer_Satisfaction_Survey_Results.pdf"
+            ],
+            "tag": "distractor"
+        },
+        {
+            "type": "email",
+            "id": "email_004",
+            "subject": "IT Training Session Next Week",
+            "from": "emily.patel@mediconn.com",
+            "from_name": "Emily Patel",
+            "to": [
+                "lucas.anderson@mediconn.com",
+                "mark.brown@mediconn.com",
+                "elizabeth.martin@mediconn.com",
+                "joe.wilson@mediconn.com"
+            ],
+            "cc": [],
+            "date": "2022-09-24 11:15:00",
+            "body": "Hi Team, \n\nWe have scheduled an IT training session for next Wednesday. The session will be led by an external expert and will cover the latest best practices in IT service management. I believe this will be a valuable opportunity for all of us to enhance our skills. Please confirm your availability for this session.\n\nBest, \nEmily",
+            "folder": "sent",
+            "read": true,
+            "attachments": [],
+            "tag": "distractor"
+        },
+        {
+            "type": "email",
+            "id": "email_001",
+            "subject": "Q2 2025 - Customer Satisfaction Survey Results",
+            "from": "sarah.jones@mediconn.com",
+            "from_name": "Sarah Jones",
+            "to": [
+                "emily.patel@mediconn.com"
+            ],
+            "cc": [
+                "lucas.anderson@mediconn.com",
+                "mark.brown@mediconn.com",
+                "elizabeth.martin@mediconn.com",
+                "joe.wilson@mediconn.com",
+                "linda.taylor@mediconn.com"
+            ],
+            "date": "2025-07-01 09:00:00",
+            "body": "Dear Team,\n\nI am writing to share the results of the Customer Satisfaction Survey we conducted for Q2 2025. Overall, we received good feedback on our IT Service Desk's performance. However, we need to address an important issue.\n\nA significant number of customers have reported long wait times for service ticket resolution. This was the most frequently documented complaint in the survey. The customers are seeking quicker resolution to their issues.\n\nLet's discuss how we can improve this aspect of our service in the next team meeting.\n\nBest,\nSarah Jones",
+            "folder": "inbox",
+            "read": true,
+            "attachments": [
+                "Customer_Satisfaction_Survey_Q2_2025.pdf"
+            ],
+            "tag": "insight"
+        },
+        {
+            "type": "email",
+            "id": "email_002",
+            "subject": "Re: Q2 2025 - Customer Satisfaction Survey Results",
+            "from": "emily.patel@mediconn.com",
+            "from_name": "Emily Patel",
+            "to": [
+                "sarah.jones@mediconn.com"
+            ],
+            "cc": [
+                "lucas.anderson@mediconn.com",
+                "mark.brown@mediconn.com",
+                "elizabeth.martin@mediconn.com",
+                "joe.wilson@mediconn.com",
+                "linda.taylor@mediconn.com"
+            ],
+            "date": "2025-07-01 09:30:00",
+            "body": "Dear Sarah,\n\nThank you for sharing the survey results. This insight into our customers' complaints about the long wait times for service ticket resolution is crucial.\n\nI will schedule a meeting for us to discuss possible solutions and improvements. We must maintain our high standards of service, especially as we continue to support remote care and mobile health apps. The use of AI-integrated IT Service Management (ITSM) might be a solution we could explore towards this.\n\nBest,\nEmily Patel",
+            "folder": "inbox",
+            "read": true,
+            "attachments": [],
+            "tag": "insight"
+        },
+        {
+            "type": "email",
+            "id": "email_003",
+            "subject": "Re: Q2 2025 - Customer Satisfaction Survey Results",
+            "from": "mark.brown@mediconn.com",
+            "from_name": "Mark Brown",
+            "to": [
+                "emily.patel@mediconn.com",
+                "sarah.jones@mediconn.com"
+            ],
+            "cc": [
+                "lucas.anderson@mediconn.com",
+                "elizabeth.martin@mediconn.com",
+                "joe.wilson@mediconn.com",
+                "linda.taylor@mediconn.com"
+            ],
+            "date": "2025-07-01 10:00:00",
+            "body": "Dear Emily and Sarah,\n\nI agree with Emily. The integration of AI in our IT Service Management could greatly help in reducing the wait times for service ticket resolution. I believe we could automate certain processes, thereby increasing efficiency and customer satisfaction.\n\nLooking forward to discussing this in our meeting.\n\nBest,\nMark Brown",
+            "folder": "inbox",
+            "read": true,
+            "attachments": [],
+            "tag": "insight"
+        }
+    ],
+    "file_format": "jsonl",
+    "file_path": ".llm_responses/generated_email_document.jsonl",
+    "qa_type": "insight",
+    "timestamp": "2025-12-02 15:25",
+    "app": "email"
+}

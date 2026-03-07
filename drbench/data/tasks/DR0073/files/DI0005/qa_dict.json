@@ -1,0 +1,10 @@
+{
+    "insight_id": "DI0005",
+    "qa_type": "distractor",
+    "qa_index": 5,
+    "specific_question": "What temperature range did Ethan's quality assurance team use for Elexion Automotive's 2025 vehicle models in the 2024 environmental chamber test?",
+    "answer": "Ethan's quality assurance team tested Elexion Automotive's 2025 vehicles in the environmental chamber from -40 degrees Fahrenheit to 150 degrees Fahrenheit in May 2024, validating that all systems function in extreme weather conditions.",
+    "justification": "",
+    "timestamp": "2025-11-20 03:18",
+    "dr_question": "How can Elexion Automotive's control interface design strategy for 2026 EV models prioritize physical buttons and switches by Q3 2025 to reduce the 30% higher control/display problem rate for EVs and achieve PP100 scores below the 266 EV average?"
+}

@@ -1,0 +1,184 @@
+{
+    "file_name": "roundcube_email_20251119_215800",
+    "content": "{\"type\": \"user\", \"username\": \"liam.patel\", \"first_name\": \"Liam\", \"last_name\": \"Patel\", \"email\": \"liam.patel@mediconnsolutions.com\", \"password\": \"liam1234\"}\n{\"type\": \"user\", \"username\": \"michelle.ross\", \"first_name\": \"Michelle\", \"last_name\": \"Ross\", \"email\": \"michelle.ross@mediconnsolutions.com\", \"password\": \"michelle1234\"}\n{\"type\": \"user\", \"username\": \"daniel.kim\", \"first_name\": \"Daniel\", \"last_name\": \"Kim\", \"email\": \"daniel.kim@mediconnsolutions.com\", \"password\": \"daniel1234\"}\n{\"type\": \"user\", \"username\": \"sarah.hughes\", \"first_name\": \"Sarah\", \"last_name\": \"Hughes\", \"email\": \"sarah.hughes@mediconnsolutions.com\", \"password\": \"sarah1234\"}\n{\"type\": \"user\", \"username\": \"michael.lee\", \"first_name\": \"Michael\", \"last_name\": \"Lee\", \"email\": \"michael.lee@mediconnsolutions.com\", \"password\": \"michael1234\"}\n{\"type\": \"user\", \"username\": \"emma.johnson\", \"first_name\": \"Emma\", \"last_name\": \"Johnson\", \"email\": \"emma.johnson@mediconnsolutions.com\", \"password\": \"emma1234\"}\n{\"type\": \"email\", \"id\": \"email_001\", \"subject\": \"Weekly Sales Team Meeting\", \"from\": \"liam.patel@mediconnsolutions.com\", \"from_name\": \"Liam Patel\", \"to\": [\"michelle.ross@mediconnsolutions.com\", \"daniel.kim@mediconnsolutions.com\", \"sarah.hughes@mediconnsolutions.com\", \"michael.lee@mediconnsolutions.com\", \"emma.johnson@mediconnsolutions.com\"], \"cc\": [], \"date\": \"2025-03-05 10:00:00\", \"body\": \"Hello team,\\n\\nJust a reminder that our weekly sales meeting will be held tomorrow at 2pm ET. In this meeting, we will be discussing our sales performance for the past week, as well as strategies to reach our Q1 targets.\\n\\nLooking forward to seeing you all there.\\n\\nBest,\\n\\nLiam\", \"folder\": \"sent\", \"read\": true, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_002\", \"subject\": \"Q1 Budget Planning\", \"from\": \"michelle.ross@mediconnsolutions.com\", \"from_name\": \"Michelle Ross\", \"to\": [\"liam.patel@mediconnsolutions.com\"], \"cc\": [], \"date\": \"2025-03-06 09:00:00\", \"body\": \"Hi Liam,\\n\\nI hope this email finds you well. I'm in the process of finalizing the budget for Q1 and wanted to confirm our plans for sales team training sessions. Could you please let me know the estimated costs for these sessions? It would be great if you could get back to me by end of day today.\\n\\nBest regards,\\n\\nMichelle\", \"folder\": \"inbox\", \"read\": true, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_003\", \"subject\": \"New Employee Onboarding\", \"from\": \"emma.johnson@mediconnsolutions.com\", \"from_name\": \"Emma Johnson\", \"to\": [\"liam.patel@mediconnsolutions.com\"], \"cc\": [\"sarah.hughes@mediconnsolutions.com\"], \"date\": \"2025-03-07 11:30:00\", \"body\": \"Hi Liam,\\n\\nI wanted to inform you that we have a new Business Development Representative joining our team next week. I was hoping you could take some time to walk them through our sales process and introduce them to the rest of the team. I've CC'd Sarah on this email as well since she will be coordinating the onboarding process.\\n\\nThanks in advance,\\n\\nEmma\", \"folder\": \"inbox\", \"read\": false, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_001\", \"subject\": \"Potential CRM Implementation for MediConn Solutions\", \"from\": \"liam.patel@mediconnsolutions.com\", \"from_name\": \"Liam Patel\", \"to\": [\"michelle.ross@mediconnsolutions.com\"], \"cc\": [\"daniel.kim@mediconnsolutions.com\", \"sarah.hughes@mediconnsolutions.com\", \"michael.lee@mediconnsolutions.com\", \"emma.johnson@mediconnsolutions.com\"], \"date\": \"2025-04-02 09:30:00\", \"body\": \"Hello Team,\\n\\nI hope this email finds you well. I've been conducting some research on the potential impact of implementing a CRM system for MediConn Solutions. I believe this could significantly increase our efficiency and improve our patient relationships.\\n\\nIn order to provide a comprehensive analysis, I'd appreciate if you could provide data on our current patient engagement and conversion rates, specifically the number of contacts made before a new account is created.\\n\\nThanks,\\nLiam\", \"folder\": \"sent\", \"read\": true, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_002\", \"subject\": \"Re: Potential CRM Implementation for MediConn Solutions\", \"from\": \"michelle.ross@mediconnsolutions.com\", \"from_name\": \"Michelle Ross\", \"to\": [\"liam.patel@mediconnsolutions.com\"], \"cc\": [\"daniel.kim@mediconnsolutions.com\", \"sarah.hughes@mediconnsolutions.com\", \"michael.lee@mediconnsolutions.com\", \"emma.johnson@mediconnsolutions.com\"], \"date\": \"2025-04-03 11:45:00\", \"body\": \"Hi Liam,\\n\\nThanks for bringing this up. I've pulled up the data from our sales department and it shows that approximately 60% of new patient accounts are created after the third contact by our sales representatives.\\n\\nI hope this information helps in your research.\\n\\nBest,\\nMichelle\", \"folder\": \"sent\", \"read\": true, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_003\", \"subject\": \"Re: Potential CRM Implementation for MediConn Solutions\", \"from\": \"liam.patel@mediconnsolutions.com\", \"from_name\": \"Liam Patel\", \"to\": [\"michelle.ross@mediconnsolutions.com\"], \"cc\": [\"daniel.kim@mediconnsolutions.com\", \"sarah.hughes@mediconnsolutions.com\", \"michael.lee@mediconnsolutions.com\", \"emma.johnson@mediconnsolutions.com\"], \"date\": \"2025-04-03 12:10:00\", \"body\": \"Hi Michelle,\\n\\nThank you for the quick response. This insight is indeed valuable and will greatly assist in the analysis for implementing a CRM system. I'm confident that with this information, we can develop a strong case for leveraging CRM to improve patient engagement and conversion rates.\\n\\nI will keep you updated on the progress.\\n\\nBest,\\nLiam\", \"folder\": \"sent\", \"read\": true, \"attachments\": []}",
+    "email_setup": [
+        {
+            "type": "user",
+            "username": "liam.patel",
+            "first_name": "Liam",
+            "last_name": "Patel",
+            "email": "liam.patel@mediconnsolutions.com",
+            "password": "liam1234"
+        },
+        {
+            "type": "user",
+            "username": "michelle.ross",
+            "first_name": "Michelle",
+            "last_name": "Ross",
+            "email": "michelle.ross@mediconnsolutions.com",
+            "password": "michelle1234"
+        },
+        {
+            "type": "user",
+            "username": "daniel.kim",
+            "first_name": "Daniel",
+            "last_name": "Kim",
+            "email": "daniel.kim@mediconnsolutions.com",
+            "password": "daniel1234"
+        },
+        {
+            "type": "user",
+            "username": "sarah.hughes",
+            "first_name": "Sarah",
+            "last_name": "Hughes",
+            "email": "sarah.hughes@mediconnsolutions.com",
+            "password": "sarah1234"
+        },
+        {
+            "type": "user",
+            "username": "michael.lee",
+            "first_name": "Michael",
+            "last_name": "Lee",
+            "email": "michael.lee@mediconnsolutions.com",
+            "password": "michael1234"
+        },
+        {
+            "type": "user",
+            "username": "emma.johnson",
+            "first_name": "Emma",
+            "last_name": "Johnson",
+            "email": "emma.johnson@mediconnsolutions.com",
+            "password": "emma1234"
+        }
+    ],
+    "email_messages": [
+        {
+            "type": "email",
+            "id": "email_001",
+            "subject": "Weekly Sales Team Meeting",
+            "from": "liam.patel@mediconnsolutions.com",
+            "from_name": "Liam Patel",
+            "to": [
+                "michelle.ross@mediconnsolutions.com",
+                "daniel.kim@mediconnsolutions.com",
+                "sarah.hughes@mediconnsolutions.com",
+                "michael.lee@mediconnsolutions.com",
+                "emma.johnson@mediconnsolutions.com"
+            ],
+            "cc": [],
+            "date": "2025-03-05 10:00:00",
+            "body": "Hello team,\n\nJust a reminder that our weekly sales meeting will be held tomorrow at 2pm ET. In this meeting, we will be discussing our sales performance for the past week, as well as strategies to reach our Q1 targets.\n\nLooking forward to seeing you all there.\n\nBest,\n\nLiam",
+            "folder": "sent",
+            "read": true,
+            "attachments": [],
+            "tag": "distractor"
+        },
+        {
+            "type": "email",
+            "id": "email_002",
+            "subject": "Q1 Budget Planning",
+            "from": "michelle.ross@mediconnsolutions.com",
+            "from_name": "Michelle Ross",
+            "to": [
+                "liam.patel@mediconnsolutions.com"
+            ],
+            "cc": [],
+            "date": "2025-03-06 09:00:00",
+            "body": "Hi Liam,\n\nI hope this email finds you well. I'm in the process of finalizing the budget for Q1 and wanted to confirm our plans for sales team training sessions. Could you please let me know the estimated costs for these sessions? It would be great if you could get back to me by end of day today.\n\nBest regards,\n\nMichelle",
+            "folder": "inbox",
+            "read": true,
+            "attachments": [],
+            "tag": "distractor"
+        },
+        {
+            "type": "email",
+            "id": "email_003",
+            "subject": "New Employee Onboarding",
+            "from": "emma.johnson@mediconnsolutions.com",
+            "from_name": "Emma Johnson",
+            "to": [
+                "liam.patel@mediconnsolutions.com"
+            ],
+            "cc": [
+                "sarah.hughes@mediconnsolutions.com"
+            ],
+            "date": "2025-03-07 11:30:00",
+            "body": "Hi Liam,\n\nI wanted to inform you that we have a new Business Development Representative joining our team next week. I was hoping you could take some time to walk them through our sales process and introduce them to the rest of the team. I've CC'd Sarah on this email as well since she will be coordinating the onboarding process.\n\nThanks in advance,\n\nEmma",
+            "folder": "inbox",
+            "read": false,
+            "attachments": [],
+            "tag": "distractor"
+        },
+        {
+            "type": "email",
+            "id": "email_001",
+            "subject": "Potential CRM Implementation for MediConn Solutions",
+            "from": "liam.patel@mediconnsolutions.com",
+            "from_name": "Liam Patel",
+            "to": [
+                "michelle.ross@mediconnsolutions.com"
+            ],
+            "cc": [
+                "daniel.kim@mediconnsolutions.com",
+                "sarah.hughes@mediconnsolutions.com",
+                "michael.lee@mediconnsolutions.com",
+                "emma.johnson@mediconnsolutions.com"
+            ],
+            "date": "2025-04-02 09:30:00",
+            "body": "Hello Team,\n\nI hope this email finds you well. I've been conducting some research on the potential impact of implementing a CRM system for MediConn Solutions. I believe this could significantly increase our efficiency and improve our patient relationships.\n\nIn order to provide a comprehensive analysis, I'd appreciate if you could provide data on our current patient engagement and conversion rates, specifically the number of contacts made before a new account is created.\n\nThanks,\nLiam",
+            "folder": "sent",
+            "read": true,
+            "attachments": [],
+            "tag": "insight"
+        },
+        {
+            "type": "email",
+            "id": "email_002",
+            "subject": "Re: Potential CRM Implementation for MediConn Solutions",
+            "from": "michelle.ross@mediconnsolutions.com",
+            "from_name": "Michelle Ross",
+            "to": [
+                "liam.patel@mediconnsolutions.com"
+            ],
+            "cc": [
+                "daniel.kim@mediconnsolutions.com",
+                "sarah.hughes@mediconnsolutions.com",
+                "michael.lee@mediconnsolutions.com",
+                "emma.johnson@mediconnsolutions.com"
+            ],
+            "date": "2025-04-03 11:45:00",
+            "body": "Hi Liam,\n\nThanks for bringing this up. I've pulled up the data from our sales department and it shows that approximately 60% of new patient accounts are created after the third contact by our sales representatives.\n\nI hope this information helps in your research.\n\nBest,\nMichelle",
+            "folder": "sent",
+            "read": true,
+            "attachments": [],
+            "tag": "insight"
+        },
+        {
+            "type": "email",
+            "id": "email_003",
+            "subject": "Re: Potential CRM Implementation for MediConn Solutions",
+            "from": "liam.patel@mediconnsolutions.com",
+            "from_name": "Liam Patel",
+            "to": [
+                "michelle.ross@mediconnsolutions.com"
+            ],
+            "cc": [
+                "daniel.kim@mediconnsolutions.com",
+                "sarah.hughes@mediconnsolutions.com",
+                "michael.lee@mediconnsolutions.com",
+                "emma.johnson@mediconnsolutions.com"
+            ],
+            "date": "2025-04-03 12:10:00",
+            "body": "Hi Michelle,\n\nThank you for the quick response. This insight is indeed valuable and will greatly assist in the analysis for implementing a CRM system. I'm confident that with this information, we can develop a strong case for leveraging CRM to improve patient engagement and conversion rates.\n\nI will keep you updated on the progress.\n\nBest,\nLiam",
+            "folder": "sent",
+            "read": true,
+            "attachments": [],
+            "tag": "insight"
+        }
+    ],
+    "file_format": "jsonl",
+    "file_path": ".llm_responses/generated_email_document.jsonl",
+    "qa_type": "distractor",
+    "timestamp": "2025-11-19 22:58",
+    "app": "email"
+}

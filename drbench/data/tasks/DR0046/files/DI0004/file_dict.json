@@ -1,0 +1,81 @@
+{
+    "file_name": "it-recognition-overview",
+    "file_title": "IT Department Recognition Overview, March 2025",
+    "introduction": "This presentation provides an overview of the internal recognition received by our IT department in March 2025. It also contextualizes these achievements within the broader scope of our company's objectives and industry trends.",
+    "subsections": [
+        {
+            "heading": "IT Department: Key Contributions in Q1 2025",
+            "content": "\u2022 The IT department developed a new version of our patient portal, enhancing user experience\n\u2022 Launched an AI-backed chatbot to assist patients with common inquiries\n\u2022 Implemented a cybersecurity upgrade to protect patient data, meeting the latest HIPAA guidelines\n\u2022 Facilitated the integration of third-party healthcare apps into our platform\n\u2022 Conducted successful load testing to ensure platform stability under heavy traffic\n\u2022 Trained the customer service team on new IT tools to expedite query resolution.",
+            "type": "distractor",
+            "justification": "Content provides general IT department activities in Q1 2025, not specific achievements in March."
+        },
+        {
+            "heading": "Recognizing Excellence: IT Department Awards in March",
+            "content": "\u2022 Our IT department was nominated for the \u2018Tech Innovation of the Year\u2019 award\n\u2022 The department was shortlisted for the 'Best Use of AI in Healthcare' award\n\u2022 MediConn\u2019s IT security team was appreciated for their effort in a cybersecurity event\n\u2022 The IT department received a commendation for improving the overall platform UX\n\u2022 The team's work on app integrations was recognized in the 'Best App Ecosystem' category.",
+            "type": "distractor",
+            "justification": "Content lists several recognitions received, but does not reveal any internal recognition in March 2025."
+        },
+        {
+            "heading": "Impacts and Implications of IT Achievements",
+            "content": "\u2022 Our new patient portal has resulted in a 20% increase in user engagement\n\u2022 The introduction of the AI chatbot has reduced customer service response time by 35%\n\u2022 The cybersecurity upgrade has resulted in zero data breaches in Q1\n\u2022 The integration of third-party apps has expanded our services and increased patient satisfaction\n\u2022 The load testing ensured a smooth user experience during peak usage hours\n\u2022 The IT tools training has resulted in a 15% reduction in average call handling time.",
+            "type": "distractor",
+            "justification": "Content provides the impacts of IT achievements, not specific internal recognition in March 2025."
+        }
+    ],
+    "conclusion": "The recognition received by our IT department in March 2025 underscores the critical role they play in our business operations. Moving forward, let's ensure these achievements are leveraged to drive continuous improvement and enhance our virtual healthcare services.",
+    "file_format": "pptx",
+    "file_path": ".llm_responses/generated_pptx_presentation.pptx",
+    "qa_type": "distractor",
+    "timestamp": "2025-11-19 23:37",
+    "image_queries": [
+        {
+            "slide_title": "Introduction",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "intentionally_clean",
+            "slide_type": "introduction"
+        },
+        {
+            "slide_title": "IT Department: Key Contributions in Q1 2025",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "failed",
+            "slide_type": "distractor",
+            "content_length": 6,
+            "total_chars": 493,
+            "error": "'str' object has no attribute 'choices'",
+            "theme": "Classic Navy"
+        },
+        {
+            "slide_title": "Recognizing Excellence: IT Department Awards in March",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "failed",
+            "slide_type": "distractor",
+            "content_length": 5,
+            "total_chars": 402,
+            "error": "'str' object has no attribute 'choices'",
+            "theme": "Classic Navy"
+        },
+        {
+            "slide_title": "Impacts and Implications of IT Achievements",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "failed",
+            "slide_type": "distractor",
+            "content_length": 6,
+            "total_chars": 475,
+            "error": "'str' object has no attribute 'choices'",
+            "theme": "Classic Navy"
+        },
+        {
+            "slide_title": "Conclusion",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "strategic_clean_conclusion",
+            "slide_type": "conclusion",
+            "theme": "Classic Navy"
+        }
+    ],
+    "app": "file_system"
+}

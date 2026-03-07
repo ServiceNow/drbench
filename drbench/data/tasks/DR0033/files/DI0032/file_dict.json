@@ -1,0 +1,81 @@
+{
+    "file_name": "staff-english-proficiency",
+    "file_title": "Seasonal Staff English Proficiency Analysis",
+    "introduction": "In this presentation, we will discuss the English proficiency trends among our seasonal staff over the past year. This data is crucial to understand as it impacts our customer service and overall business performance.",
+    "subsections": [
+        {
+            "heading": "Seasonal Staff Recruitment Trends",
+            "content": "\u2022 Increased focus on recruiting from local communities to foster a sense of familiarity in stores\n\u2022 Augmented reality simulations used in interviews to assess candidates' customer service skills\n\u2022 In 2025, 40% of seasonal staff were recruited through digital channels, reflecting a shift in recruitment strategy\n\u2022 Partnership with local universities for work-study programs led to a 20% increase in applications\n\u2022 Implemented a new recruitment software in July 2025 to streamline the hiring process\n\u2022 Seasonal staff turnover rate decreased by 5% in 2025 compared to 2024\n\u2022 The average time to hire for seasonal staff reduced from 14 days in 2024 to 10 days in 2025",
+            "type": "distractor",
+            "justification": "While these trends provide context on staff recruitment, they don't address English test failures or performance changes."
+        },
+        {
+            "heading": "English Proficiency Test Performance",
+            "content": "\u2022 Introduced new language training programs for staff in January 2025\n\u2022 Improved English proficiency test by introducing AI-graded essays in February 2025\n\u2022 Noticed a 15% increase in test pass rates for full-time employees in Q2 2025\n\u2022 Launched a partnership with an online language learning platform in April 2025\n\u2022 Periodic language proficiency assessments were introduced for all staff in June 2025\n\u2022 Conducted a company-wide English language proficiency survey in July 2025\n\u2022 Introduced a new language support policy for non-native English speakers in August 2025",
+            "type": "distractor",
+            "justification": "These points relate to English proficiency but don't specifically address seasonal staff test failures between December 2024 and September 2025."
+        },
+        {
+            "heading": "Impact on Customer Service Metrics",
+            "content": "\u2022 Customer satisfaction scores increased by 10% from Q1 to Q3 2025\n\u2022 Noticed a 5% decrease in customer complaints related to staff communication in 2025\n\u2022 Average checkout time reduced by 2 minutes in 2025 due to improved communication skills\n\u2022 Online reviews indicating 'friendly staff' increased by 25% in 2025\n\u2022 Staff upselling success rate increased by 15% in Q2 2025\n\u2022 Return shoppers proportion increased by 8% in 2025, possibly due to improved customer service\n\u2022 Launched a new customer feedback system in May 2025 to better gauge customer satisfaction",
+            "type": "distractor",
+            "justification": "While these metrics are influenced by staff performance, they don't specifically address the English test failure rates of seasonal staff."
+        }
+    ],
+    "conclusion": "Our analysis shows a need for improved English language training for our seasonal staff to enhance customer service. Moving forward, we recommend implementing a more comprehensive language training program during onboarding.",
+    "file_format": "pptx",
+    "file_path": ".llm_responses/generated_pptx_presentation.pptx",
+    "qa_type": "distractor",
+    "timestamp": "2025-11-19 12:17",
+    "image_queries": [
+        {
+            "slide_title": "Introduction",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "intentionally_clean",
+            "slide_type": "introduction"
+        },
+        {
+            "slide_title": "Seasonal Staff Recruitment Trends",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 7,
+            "total_chars": 644,
+            "probability": 0.25,
+            "theme": "Bold Crimson"
+        },
+        {
+            "slide_title": "English Proficiency Test Performance",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 7,
+            "total_chars": 547,
+            "probability": 0.25,
+            "theme": "Bold Crimson"
+        },
+        {
+            "slide_title": "Impact on Customer Service Metrics",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "failed",
+            "slide_type": "distractor",
+            "content_length": 7,
+            "total_chars": 539,
+            "error": "'str' object has no attribute 'choices'",
+            "theme": "Bold Crimson"
+        },
+        {
+            "slide_title": "Conclusion",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "strategic_clean_conclusion",
+            "slide_type": "conclusion",
+            "theme": "Bold Crimson"
+        }
+    ],
+    "app": "file_system"
+}

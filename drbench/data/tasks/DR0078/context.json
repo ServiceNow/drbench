@@ -1,0 +1,57 @@
+{
+    "company_info": {
+        "name": "Elexion Automotive",
+        "industry": "Automotive -- Electric Vehicles",
+        "size": "Enterprise",
+        "founded_year": 2010,
+        "headquarters": "Austin, Texas, USA",
+        "description": "Elexion Automotive designs and manufactures premium and mid-range electric vehicles tailored for the North American market. With a focus on sustainability, user-centric technology, and cross-border compliance, Elexion aims to accelerate the transition to zero-emission transportation.",
+        "key_products_services": [
+            "Electric vehicles",
+            "Plug-in hybrid electric vehicles",
+            "Home charging stations"
+        ],
+        "target_markets": [
+            "Mid-income families in North America",
+            "Provincial and municipal governments"
+        ],
+        "annual_revenue": "$350M - $500M",
+        "employee_count": 1900,
+        "compliance_certifications": [
+            "EPA Greenhouse Gas Emissions Compliance",
+            "Motor Vehicle Safety Oversight Program",
+            "CARB Zero-Emission Vehicle (ZEV) Program",
+            "ISO 26262 – Road Vehicles Functional Safety"
+        ],
+        "market_position": "Elexion is an emerging force in the North American EV market, offering affordable and high-performance electric vehicles with regulatory-first design and localized production."
+    },
+    "persona": {
+        "role": "Asset Lifecycle Manager",
+        "department": "Asset Management",
+        "name": "Olivia Martinez",
+        "first_name": "Olivia",
+        "last_name": "Martinez",
+        "email": "olivia.martinez@elexionautomotive.com",
+        "seniority": "Mid",
+        "responsibilities": "Oversees the lifecycle management of Elexion’s physical and digital assets, including electric vehicle components, manufacturing equipment, and software licenses. Coordinates asset acquisition, utilization, maintenance, and disposal to optimize operational efficiency and cost-effectiveness.",
+        "id": "ASM0001",
+        "domain": "asset_management",
+        "justification": "As Elexion Automotive expands its production and technological capabilities, managing both tangible and intangible assets effectively is essential. Olivia ensures that assets are tracked, maintained, and depreciated properly, supporting sustainability goals and financial accountability across operations.",
+        "username": "olivia.martinez"
+    },
+    "url": {
+        "url": "https://www.rtinsights.com/enhancing-digital-twins-with-digital-engineering-capabilities/",
+        "domain": "Asset Management",
+        "industry": "automotive -- electric vehicles",
+        "example_dr_questions": [
+            "How can digital engineering enhance collaboration and data integration in EV manufacturing in 2026?",
+            "How can virtual testing and simulation through digital twins help EV manufacturers lower risks and costs in 2025?"
+        ],
+        "insights": [
+            "The RTInsights article, published September 2024, notes that digital engineering improves teamwork across design, production, and maintenance by using shared digital models. These engineering systems also collect data from IoT sensors, production lines, and enterprise platforms, creating a unified product view that supports faster, more informed decisions across the EV lifecycle.",
+            "According to the reference article (RTInsights 2024), using digital twins for virtual simulations allows EV manufacturers to spot potential risks before they occur. Addressing these risks early in design and production reduces costs from reworks, material waste, and unexpected downtime."
+        ],
+        "date": "2025-12-02"
+    },
+    "timestamp": "2025-10-30 00:00"
+}

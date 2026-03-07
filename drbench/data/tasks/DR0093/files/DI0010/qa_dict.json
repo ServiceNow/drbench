@@ -1,0 +1,10 @@
+{
+    "insight_id": "DI0010",
+    "qa_type": "distractor",
+    "qa_index": 10,
+    "specific_question": "What was the patient satisfaction rate achieved by MediConn in 2024?",
+    "answer": "MediConn achieved a 91% patient satisfaction rate in 2024, with many patients rating their services as \"excellent\" or \"very good.\"",
+    "justification": "This data is not relevant because MediConn's current satisfaction shows service quality, but doesn't address future compliance risks. MediConn cannot use satisfaction scores to identify strategic adjustments needed to tackle CHA interpretation or provincial regulatory variations. This data is related to quality of care measurement, not regulatory risk assessment.",
+    "timestamp": "2025-11-20 18:03",
+    "dr_question": "In response to the federal government\u2019s 2025 interpretation of the Canada Health Act, what should MediConn Solutions do to address compliance risks from legal precedents or provincial variations by Q4 2028?"
+}

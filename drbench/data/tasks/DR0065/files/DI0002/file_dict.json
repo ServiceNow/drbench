@@ -1,0 +1,82 @@
+{
+    "file_name": "sales-training-impact",
+    "file_title": "Sales Training Impact on Proficiency",
+    "introduction": "Today, we'll examine the impact of our recent training program on the proficiency of our sales team. Specifically, we'll address how much the training has reduced time-to-proficiency for our representatives.",
+    "subsections": [
+        {
+            "heading": "Elexion's Sales Training Program Overview",
+            "content": "\u2022 The Sales Training Program was initiated in Q2 of 2023\n\u2022 It includes in-depth modules on Elexion's electric vehicle technology and cross-border compliance regulations\n\u2022 The program was developed in collaboration with our Product and Legal teams\n\u2022 The training incorporates a blend of in-person and online learning methodologies\n\u2022 It also focuses on improving customer interaction skills and product presentation techniques\n\u2022 Post-training, sales representatives are required to complete a comprehensive assessment\n\u2022 The program is updated quarterly to include the latest product developments and market trends",
+            "type": "distractor",
+            "justification": "This slide provides general information about the sales training program, but does not indicate how it reduced time-to-proficiency."
+        },
+        {
+            "heading": "Change in Time-to-Proficiency Post Training",
+            "content": "\u2022 The sales training program has seen a significant increase in the percentage of employees passing the post-training assessment in the first attempt\n\u2022 The average score on the post-training assessment has increased by 15%\n\u2022 The percentage of sales representatives achieving their quarterly targets on time has risen\n\u2022 There has been a decrease in the number of customer complaints regarding product knowledge\n\u2022 Sales representatives' understanding of cross-border compliance regulations has improved\n\u2022 The rate of return customers has increased since the implementation of the sales training program",
+            "type": "distractor",
+            "justification": "This slide discusses various improvements post-training but does not mention how much the time-to-proficiency was reduced."
+        },
+        {
+            "heading": "Implications on Sales Performance and Revenue",
+            "content": "\u2022 Elexion's market share in the electric vehicle sector has grown by 7% since the introduction of the training program\n\u2022 There has been a 12% increase in the average sales per representative\n\u2022 Customer satisfaction ratings have increased by 18%, leading to an increase in repeat business\n\u2022 The attrition rate among sales representatives has decreased\n\u2022 There has been a significant increase in the number of cross-border sales\n\u2022 Elexion's overall revenue has seen a steady growth trend since the implementation of the sales training program",
+            "type": "distractor",
+            "justification": "While this slide discusses the impact on sales and revenue, it does not provide the specific information about reduction in time-to-proficiency."
+        }
+    ],
+    "conclusion": "Our new training program has significantly reduced the time-to-proficiency for our sales team, translating into improved sales performance. Moving forward, we must leverage this success and continue enhancing our training programs to foster even higher levels of proficiency.",
+    "file_format": "pptx",
+    "file_path": ".llm_responses/generated_pptx_presentation.pptx",
+    "qa_type": "distractor",
+    "timestamp": "2025-11-20 01:40",
+    "image_queries": [
+        {
+            "slide_title": "Introduction",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "intentionally_clean",
+            "slide_type": "introduction"
+        },
+        {
+            "slide_title": "Elexion's Sales Training Program Overview",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "failed",
+            "slide_type": "distractor",
+            "content_length": 7,
+            "total_chars": 591,
+            "error": "'str' object has no attribute 'choices'",
+            "theme": "Corporate Blue"
+        },
+        {
+            "slide_title": "Change in Time-to-Proficiency Post Training",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 6,
+            "total_chars": 583,
+            "probability": 0.25,
+            "theme": "Corporate Blue"
+        },
+        {
+            "slide_title": "Implications on Sales Performance and Revenue",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 6,
+            "total_chars": 523,
+            "probability": 0.25,
+            "theme": "Corporate Blue"
+        },
+        {
+            "slide_title": "Conclusion",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "conclusion_failed",
+            "slide_type": "conclusion",
+            "error": "'str' object has no attribute 'choices'",
+            "theme": "Corporate Blue"
+        }
+    ],
+    "app": "nextcloud"
+}

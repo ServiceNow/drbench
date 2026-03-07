@@ -1,0 +1,81 @@
+{
+    "file_name": "server-room-security",
+    "file_title": "Enhancing Server Room Security: May 2025",
+    "introduction": "As we continue to elevate security measures, we've implemented crucial biometric upgrades for our server room. This presentation will detail the upgrades deployed in May 2025 by Jason Wong and the IT & Security team.",
+    "subsections": [
+        {
+            "heading": "Evolution of Lee's Market Server Room Security",
+            "content": "\u2022 Established in 2010, the IT & Security department began with basic password protection\n\u2022 In 2015, the team introduced 2-factor authentication for server room access\n\u2022 In 2018, CCTV cameras were added to monitor physical access to the server room\n\u2022 In 2020, the department implemented a system of unique keycards for each employee\n\u2022 In 2022, Lee's Market initiated regular security audits and vulnerability assessments\n\u2022 2024 saw the introduction of a dedicated cybersecurity team within the department",
+            "type": "distractor",
+            "justification": "This slide discusses the timeline of security improvements but does not reference the May 2025 biometric upgrades."
+        },
+        {
+            "heading": "Biometric Upgrades: An Overview",
+            "content": "\u2022 Biometric systems offer a high level of security compared to traditional methods\n\u2022 These systems can include fingerprint scanning, facial recognition, iris scanning, and voice recognition\n\u2022 Biometric systems can be used to restrict physical access to locations or digital access to information\n\u2022 Many businesses use biometric systems to enhance security and streamline access control\n\u2022 Biometrics can be integrated with other security measures for a multi-layered approach\n\u2022 Ongoing maintenance and updates are crucial to ensure the effectiveness of biometric systems",
+            "type": "distractor",
+            "justification": "This slide provides a general overview of biometric systems but does not mention the specific upgrades implemented in May 2025."
+        },
+        {
+            "heading": "Implications and Benefits of the May 2025 Upgrades",
+            "content": "\u2022 Improved security measures can help protect against internal and external threats\n\u2022 Enhanced security can boost customer trust and corporate reputation\n\u2022 Regular upgrades reflect a commitment to data protection and privacy\n\u2022 Security upgrades can potentially lead to lower insurance costs\n\u2022 These measures can reduce the risk of data breaches and associated financial losses\n\u2022 Upgraded security can also improve regulatory compliance",
+            "type": "distractor",
+            "justification": "This slide outlines the potential benefits of security upgrades but does not specify the biometric upgrades deployed in May 2025."
+        }
+    ],
+    "conclusion": "The biometric upgrades we've implemented significantly enhance our server room security, aligning with our commitment to data protection. Moving forward, we'll continue to identify and implement advanced security measures to safeguard our systems.",
+    "file_format": "pptx",
+    "file_path": ".llm_responses/generated_pptx_presentation.pptx",
+    "qa_type": "distractor",
+    "timestamp": "2025-11-19 02:47",
+    "image_queries": [
+        {
+            "slide_title": "Introduction",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "intentionally_clean",
+            "slide_type": "introduction"
+        },
+        {
+            "slide_title": "Evolution of Lee's Market Server Room Security",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "failed",
+            "slide_type": "distractor",
+            "content_length": 6,
+            "total_chars": 486,
+            "error": "'str' object has no attribute 'choices'",
+            "theme": "Forest Theme"
+        },
+        {
+            "slide_title": "Biometric Upgrades: An Overview",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 6,
+            "total_chars": 552,
+            "probability": 0.25,
+            "theme": "Forest Theme"
+        },
+        {
+            "slide_title": "Implications and Benefits of the May 2025 Upgrades",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 6,
+            "total_chars": 418,
+            "probability": 0.25,
+            "theme": "Forest Theme"
+        },
+        {
+            "slide_title": "Conclusion",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "strategic_clean_conclusion",
+            "slide_type": "conclusion",
+            "theme": "Forest Theme"
+        }
+    ],
+    "app": "file_system"
+}

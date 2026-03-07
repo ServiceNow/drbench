@@ -1,0 +1,10 @@
+{
+    "insight_id": "DI0007",
+    "qa_type": "distractor",
+    "qa_index": 7,
+    "specific_question": "What was the reduction in IT operational costs after Lee's Market completed a $3.5 million cloud infrastructure migration in 2025?",
+    "answer": "Lee's Market reduced IT operational costs by 24% after completing a $3.5 million cloud infrastructure migration in 2025.",
+    "justification": "This data is not relevant because it focuses on IT infrastructure reliability, which supports operations, but doesn't directly affect product sales or promotion planning. Lee's Market cannot use this data to gauge which products are experiencing a demand slowdown. This data is related to backend technology, not tariff-impacted sales analysis.",
+    "timestamp": "2025-11-21 13:04",
+    "dr_question": "Given the drop in Canadian retail sales brought on by US tariffs in 2025, what insights should Lee\u2019s Market derive from product-level sales trends across tariff-exposed and tariff-insulated categories to update sales forecasts by 2027?"
+}

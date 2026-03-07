@@ -1,0 +1,176 @@
+{
+    "file_name": "roundcube_email_20251120_022721",
+    "content": "{\"type\": \"user\", \"username\": \"olivia.martinez\", \"first_name\": \"Olivia\", \"last_name\": \"Martinez\", \"email\": \"olivia.martinez@elexionautomotive.com\", \"password\": \"secure_elexion_pwd\"}\n{\"type\": \"user\", \"username\": \"john.baker\", \"first_name\": \"John\", \"last_name\": \"Baker\", \"email\": \"john.baker@elexionautomotive.com\", \"password\": \"secure_elexion_pwd\"}\n{\"type\": \"user\", \"username\": \"emily.jones\", \"first_name\": \"Emily\", \"last_name\": \"Jones\", \"email\": \"emily.jones@elexionautomotive.com\", \"password\": \"secure_elexion_pwd\"}\n{\"type\": \"user\", \"username\": \"david.williams\", \"first_name\": \"David\", \"last_name\": \"Williams\", \"email\": \"david.williams@elexionautomotive.com\", \"password\": \"secure_elexion_pwd\"}\n{\"type\": \"user\", \"username\": \"linda.brown\", \"first_name\": \"Linda\", \"last_name\": \"Brown\", \"email\": \"linda.brown@elexionautomotive.com\", \"password\": \"secure_elexion_pwd\"}\n{\"type\": \"user\", \"username\": \"steven.miller\", \"first_name\": \"Steven\", \"last_name\": \"Miller\", \"email\": \"steven.miller@elexionautomotive.com\", \"password\": \"secure_elexion_pwd\"}\n{\"type\": \"email\", \"id\": \"email_001\", \"subject\": \"Asset Management Department Meeting\", \"from\": \"olivia.martinez@elexionautomotive.com\", \"from_name\": \"Olivia Martinez\", \"to\": [\"john.baker@elexionautomotive.com\", \"emily.jones@elexionautomotive.com\", \"david.williams@elexionautomotive.com\"], \"cc\": [\"linda.brown@elexionautomotive.com\"], \"date\": \"2023-02-10 10:30:00\", \"body\": \"Dear Team,\\n\\nI hope this email finds you well. Just wanted to remind everyone about our department meeting scheduled for next Wednesday at 2 PM. We will be discussing the quarterly budget, updates on our ongoing projects, and any challenges we might be facing.\\n\\nPlease make sure to review the meeting agenda and prepare any necessary materials ahead of time.\\n\\nBest,\\nOlivia\", \"folder\": \"sent\", \"read\": true, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_002\", \"subject\": \"New Software Implementation\", \"from\": \"steven.miller@elexionautomotive.com\", \"from_name\": \"Steven Miller\", \"to\": [\"olivia.martinez@elexionautomotive.com\"], \"cc\": [], \"date\": \"2023-02-11 09:15:00\", \"body\": \"Hi Olivia,\\n\\nOur IT team is planning to implement a new software solution for asset tracking and management. We believe this will greatly improve our efficiency in managing both physical and digital assets.\\n\\nWe will be providing training sessions for everyone in the coming weeks. More details will follow soon.\\n\\nBest,\\nSteven\", \"folder\": \"inbox\", \"read\": true, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_003\", \"subject\": \"Re: New Software Implementation\", \"from\": \"olivia.martinez@elexionautomotive.com\", \"from_name\": \"Olivia Martinez\", \"to\": [\"steven.miller@elexionautomotive.com\"], \"cc\": [], \"date\": \"2023-02-11 10:00:00\", \"body\": \"Hi Steven,\\n\\nThanks for the heads up. I'll inform my team about the upcoming changes. We're looking forward to the training sessions and using the new software to further improve our asset management processes.\\n\\nBest,\\nOlivia\", \"folder\": \"sent\", \"read\": true, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_001\", \"subject\": \"Digital Engineering Workshops Q3 and Q4 Report\", \"from\": \"john.baker@elexionautomotive.com\", \"from_name\": \"John Baker\", \"to\": [\"olivia.martinez@elexionautomotive.com\"], \"cc\": [\"emily.jones@elexionautomotive.com\", \"david.williams@elexionautomotive.com\"], \"date\": \"2025-01-10 16:30:00\", \"body\": \"Dear Olivia,\\n\\nI trust this email finds you well. I am writing to share the final report on the internal workshops conducted by you in the last two quarters of 2024.\\n\\nAccording to the training logs, you conducted 9 workshops on lifecycle documentation standards. The feedback from the staff was overwhelmingly positive, and we have seen an improvement in the adherence to documentation standards.\\n\\nLet's continue this momentum in the new year. Please let me know if there's any support needed from my end.\\n\\nBest regards,\\nJohn\", \"folder\": \"inbox\", \"read\": true, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_002\", \"subject\": \"Re: Digital Engineering Workshops Q3 and Q4 Report\", \"from\": \"olivia.martinez@elexionautomotive.com\", \"from_name\": \"Olivia Martinez\", \"to\": [\"john.baker@elexionautomotive.com\"], \"cc\": [\"emily.jones@elexionautomotive.com\", \"david.williams@elexionautomotive.com\"], \"date\": \"2025-01-11 10:15:00\", \"body\": \"Hello John,\\n\\nThank you for your email and the acknowledgement.\\n\\nI am glad to know that the workshops were beneficial. It is crucial that we maintain our focus on utilizing digital engineering methodologies in the coming years. This will help us optimize EV battery performance and lifecycle management as we integrate digital twins into our processes.\\n\\nLooking forward to another productive year.\\n\\nKind regards,\\nOlivia\", \"folder\": \"inbox\", \"read\": true, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_003\", \"subject\": \"Re: Digital Engineering Workshops Q3 and Q4 Report\", \"from\": \"john.baker@elexionautomotive.com\", \"from_name\": \"John Baker\", \"to\": [\"olivia.martinez@elexionautomotive.com\"], \"cc\": [\"emily.jones@elexionautomotive.com\", \"david.williams@elexionautomotive.com\"], \"date\": \"2025-01-11 12:30:00\", \"body\": \"Hi Olivia,\\n\\nAbsolutely, the integration of digital twins will be a game-changer for our asset lifecycle management, particularly for EV batteries. The training you're providing will be instrumental in making sure our staff are up-to-speed with these advancements.\\n\\nLet's touch base next week to discuss our training plans for Q1 2025.\\n\\nBest,\\nJohn\", \"folder\": \"inbox\", \"read\": true, \"attachments\": []}",
+    "email_setup": [
+        {
+            "type": "user",
+            "username": "olivia.martinez",
+            "first_name": "Olivia",
+            "last_name": "Martinez",
+            "email": "olivia.martinez@elexionautomotive.com",
+            "password": "secure_elexion_pwd"
+        },
+        {
+            "type": "user",
+            "username": "john.baker",
+            "first_name": "John",
+            "last_name": "Baker",
+            "email": "john.baker@elexionautomotive.com",
+            "password": "secure_elexion_pwd"
+        },
+        {
+            "type": "user",
+            "username": "emily.jones",
+            "first_name": "Emily",
+            "last_name": "Jones",
+            "email": "emily.jones@elexionautomotive.com",
+            "password": "secure_elexion_pwd"
+        },
+        {
+            "type": "user",
+            "username": "david.williams",
+            "first_name": "David",
+            "last_name": "Williams",
+            "email": "david.williams@elexionautomotive.com",
+            "password": "secure_elexion_pwd"
+        },
+        {
+            "type": "user",
+            "username": "linda.brown",
+            "first_name": "Linda",
+            "last_name": "Brown",
+            "email": "linda.brown@elexionautomotive.com",
+            "password": "secure_elexion_pwd"
+        },
+        {
+            "type": "user",
+            "username": "steven.miller",
+            "first_name": "Steven",
+            "last_name": "Miller",
+            "email": "steven.miller@elexionautomotive.com",
+            "password": "secure_elexion_pwd"
+        }
+    ],
+    "email_messages": [
+        {
+            "type": "email",
+            "id": "email_001",
+            "subject": "Asset Management Department Meeting",
+            "from": "olivia.martinez@elexionautomotive.com",
+            "from_name": "Olivia Martinez",
+            "to": [
+                "john.baker@elexionautomotive.com",
+                "emily.jones@elexionautomotive.com",
+                "david.williams@elexionautomotive.com"
+            ],
+            "cc": [
+                "linda.brown@elexionautomotive.com"
+            ],
+            "date": "2023-02-10 10:30:00",
+            "body": "Dear Team,\n\nI hope this email finds you well. Just wanted to remind everyone about our department meeting scheduled for next Wednesday at 2 PM. We will be discussing the quarterly budget, updates on our ongoing projects, and any challenges we might be facing.\n\nPlease make sure to review the meeting agenda and prepare any necessary materials ahead of time.\n\nBest,\nOlivia",
+            "folder": "sent",
+            "read": true,
+            "attachments": [],
+            "tag": "distractor"
+        },
+        {
+            "type": "email",
+            "id": "email_002",
+            "subject": "New Software Implementation",
+            "from": "steven.miller@elexionautomotive.com",
+            "from_name": "Steven Miller",
+            "to": [
+                "olivia.martinez@elexionautomotive.com"
+            ],
+            "cc": [],
+            "date": "2023-02-11 09:15:00",
+            "body": "Hi Olivia,\n\nOur IT team is planning to implement a new software solution for asset tracking and management. We believe this will greatly improve our efficiency in managing both physical and digital assets.\n\nWe will be providing training sessions for everyone in the coming weeks. More details will follow soon.\n\nBest,\nSteven",
+            "folder": "inbox",
+            "read": true,
+            "attachments": [],
+            "tag": "distractor"
+        },
+        {
+            "type": "email",
+            "id": "email_003",
+            "subject": "Re: New Software Implementation",
+            "from": "olivia.martinez@elexionautomotive.com",
+            "from_name": "Olivia Martinez",
+            "to": [
+                "steven.miller@elexionautomotive.com"
+            ],
+            "cc": [],
+            "date": "2023-02-11 10:00:00",
+            "body": "Hi Steven,\n\nThanks for the heads up. I'll inform my team about the upcoming changes. We're looking forward to the training sessions and using the new software to further improve our asset management processes.\n\nBest,\nOlivia",
+            "folder": "sent",
+            "read": true,
+            "attachments": [],
+            "tag": "distractor"
+        },
+        {
+            "type": "email",
+            "id": "email_001",
+            "subject": "Digital Engineering Workshops Q3 and Q4 Report",
+            "from": "john.baker@elexionautomotive.com",
+            "from_name": "John Baker",
+            "to": [
+                "olivia.martinez@elexionautomotive.com"
+            ],
+            "cc": [
+                "emily.jones@elexionautomotive.com",
+                "david.williams@elexionautomotive.com"
+            ],
+            "date": "2025-01-10 16:30:00",
+            "body": "Dear Olivia,\n\nI trust this email finds you well. I am writing to share the final report on the internal workshops conducted by you in the last two quarters of 2024.\n\nAccording to the training logs, you conducted 9 workshops on lifecycle documentation standards. The feedback from the staff was overwhelmingly positive, and we have seen an improvement in the adherence to documentation standards.\n\nLet's continue this momentum in the new year. Please let me know if there's any support needed from my end.\n\nBest regards,\nJohn",
+            "folder": "inbox",
+            "read": true,
+            "attachments": [],
+            "tag": "insight"
+        },
+        {
+            "type": "email",
+            "id": "email_002",
+            "subject": "Re: Digital Engineering Workshops Q3 and Q4 Report",
+            "from": "olivia.martinez@elexionautomotive.com",
+            "from_name": "Olivia Martinez",
+            "to": [
+                "john.baker@elexionautomotive.com"
+            ],
+            "cc": [
+                "emily.jones@elexionautomotive.com",
+                "david.williams@elexionautomotive.com"
+            ],
+            "date": "2025-01-11 10:15:00",
+            "body": "Hello John,\n\nThank you for your email and the acknowledgement.\n\nI am glad to know that the workshops were beneficial. It is crucial that we maintain our focus on utilizing digital engineering methodologies in the coming years. This will help us optimize EV battery performance and lifecycle management as we integrate digital twins into our processes.\n\nLooking forward to another productive year.\n\nKind regards,\nOlivia",
+            "folder": "inbox",
+            "read": true,
+            "attachments": [],
+            "tag": "insight"
+        },
+        {
+            "type": "email",
+            "id": "email_003",
+            "subject": "Re: Digital Engineering Workshops Q3 and Q4 Report",
+            "from": "john.baker@elexionautomotive.com",
+            "from_name": "John Baker",
+            "to": [
+                "olivia.martinez@elexionautomotive.com"
+            ],
+            "cc": [
+                "emily.jones@elexionautomotive.com",
+                "david.williams@elexionautomotive.com"
+            ],
+            "date": "2025-01-11 12:30:00",
+            "body": "Hi Olivia,\n\nAbsolutely, the integration of digital twins will be a game-changer for our asset lifecycle management, particularly for EV batteries. The training you're providing will be instrumental in making sure our staff are up-to-speed with these advancements.\n\nLet's touch base next week to discuss our training plans for Q1 2025.\n\nBest,\nJohn",
+            "folder": "inbox",
+            "read": true,
+            "attachments": [],
+            "tag": "insight"
+        }
+    ],
+    "file_format": "jsonl",
+    "file_path": ".llm_responses/generated_email_document.jsonl",
+    "qa_type": "distractor",
+    "timestamp": "2025-11-20 03:27",
+    "app": "email"
+}

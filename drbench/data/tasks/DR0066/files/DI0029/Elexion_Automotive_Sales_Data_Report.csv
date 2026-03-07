@@ -1,0 +1,12 @@
+year,quarter,lead_source,product_type,average_units_sold
+The year in which the sales data is recorded,The financial quarter of the year in which the sales data is recorded,The source from which the lead was obtained,"The type of product sold - in this case, electric vehicles",The average number of units sold per month
+2022,Q2,online advertising,electric vehicles,33
+2021,Q1,trade show,electric vehicles,27
+2024,Q2,trade show,electric vehicles,33
+2023,Q1,online advertising,electric vehicles,32
+2024,Q4,word-of-mouth,electric vehicles,34
+2022,Q4,trade show,electric vehicles,29
+2020,Q2,online advertising,electric vehicles,21
+2021,Q3,word-of-mouth,electric vehicles,30
+2024,Q3,online advertising,electric vehicles,32
+2023,Q3,word-of-mouth,electric vehicles,31

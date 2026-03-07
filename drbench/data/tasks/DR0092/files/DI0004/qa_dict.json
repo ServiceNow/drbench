@@ -1,0 +1,10 @@
+{
+    "insight_id": "DI0004",
+    "qa_type": "distractor",
+    "qa_index": 4,
+    "specific_question": "How many new technical hires did MediConn's IT engineering team onboard during FY2025?",
+    "answer": "The IT division hired 12 new software engineers to support product development and infrastructure scaling.",
+    "justification": "While internal, these staffing changes pertain to product development and not to Indigenous healthcare data governance or compliance integration efforts.",
+    "timestamp": "2025-11-20 16:42",
+    "dr_question": "What additional compliance controls should be integrated into MediConn\u2019s platform by Q2 2026 to ensure secure authentication and patient verification for Indigenous patients in low-connectivity environments?"
+}

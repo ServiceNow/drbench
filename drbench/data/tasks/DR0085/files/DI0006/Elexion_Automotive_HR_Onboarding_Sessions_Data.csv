@@ -1,0 +1,13 @@
+Quarter,Session_Count,Year,Department
+The specific quarter of the year for which the onboarding sessions count is recorded.,The number of HR onboarding sessions held during the specific quarter of the year.,The year during which the onboarding sessions were held.,"The department for which the onboarding sessions were held. For this specific insight, it would be 'HR'."
+Q3,8,2021,HR
+Q3,7,2020,HR
+Q3,7,2022,HR
+Q4,5,2021,HR
+Q1,4,2021,HR
+Q4,4,2020,HR
+Q4,6,2022,HR
+Q2,3,2021,HR
+Q2,9,2022,HR
+Q2,2,2020,HR
+Q1,5,2022,HR

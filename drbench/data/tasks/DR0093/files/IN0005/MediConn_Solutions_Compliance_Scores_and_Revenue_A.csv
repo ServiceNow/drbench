@@ -1,0 +1,12 @@
+Year,Province,Compliance_Score,Revenue_Growth_Rate,Correlation_r_Value
+"The year of the data point, in this case it would be 2022.",The name of the province for which the compliance score and revenue growth rate is being reported.,"The provincial compliance score for MediConn, indicating the level of adherence to regulatory guidelines.",The growth rate of regional revenue for the specific province in the given year.,The correlation (r-value) between the provincial compliance scores and the regional revenue growth rates.
+2021,British Columbia,84.7,11.2,0.6
+2022,Alberta,86.8,11,0.64
+2021,Alberta,86.3,9.7,0.59
+2022,Ontario,88.5,12.3,0.67
+2022,Manitoba,86.1,11.8,0.63
+2021,Ontario,85.2,10.5,0.61
+2021,Quebec,87.1,10.8,0.62
+2022,British Columbia,85.2,11.5,0.65
+2022,Quebec,87.6,12,0.66
+2022,Nova Scotia,85.3,11.6,0.62

@@ -1,0 +1,81 @@
+{
+    "file_name": "customer-engagement-q1-2025",
+    "file_title": "Q1 2025 Customer Engagement Metrics",
+    "introduction": "This presentation will delve into our Q1 2025 customer engagement metrics, focusing on customer surveys. The insights will help us understand our customers' in-store experiences across all Lee's Market locations.",
+    "subsections": [
+        {
+            "heading": "Overview of Customer Engagement Channels",
+            "content": "\u2022 Lee's Market utilizes both online and offline channels to engage with customers\n\u2022 Our retail stores offer a traditional shopping experience with a modern twist\n\u2022 Lee's Market's online platform is user-friendly and offers a wide range of products\n\u2022 We provide home delivery services to cater to the needs of our busy customers\n\u2022 Social media channels are used to connect with younger demographics and share promotional content\n\u2022 Monthly newsletters are sent to all registered customers to keep them updated on new products and offers\n\u2022 We also organize in-store events to directly interact with our customers and gather their feedback",
+            "type": "distractor",
+            "justification": "This information provides an overview of customer engagement channels but does not specify the number of in-store surveys collected."
+        },
+        {
+            "heading": "Q1 2025 In-Store Customer Survey Data",
+            "content": "\u2022 The survey was conducted across all our store locations\n\u2022 The survey focused on customer satisfaction, product quality, and store cleanliness\n\u2022 We used a 5-point Likert scale for most questions in the survey\n\u2022 The survey data is currently being analyzed by our data science team\n\u2022 Preliminary findings suggest that customers are satisfied with our product range\n\u2022 The survey data will be used to improve our services and offerings\n\u2022 We plan to conduct similar surveys in the future to gather continuous customer feedback",
+            "type": "distractor",
+            "justification": "The slide provides details about the survey data but does not reveal the total number of surveys collected."
+        },
+        {
+            "heading": "Impact of Customer Feedback on Operational Efficiency",
+            "content": "\u2022 Feedback from customers helps us identify areas of improvement\n\u2022 We have seen a significant improvement in store operations based on past feedback\n\u2022 Customer feedback also aids in optimizing our product range\n\u2022 It helps us understand customer preferences and shopping behaviors\n\u2022 We have implemented changes in store layout based on customer feedback\n\u2022 Our delivery services have also improved thanks to constructive customer feedback\n\u2022 Overall, customer feedback has a direct and positive impact on our operational efficiency",
+            "type": "distractor",
+            "justification": "The content discusses the impact of customer feedback on operations but does not mention the number of surveys collected in Q1 2025."
+        }
+    ],
+    "conclusion": "Our Q1 2025 customer surveys have provided invaluable insights into our in-store customer experiences. Utilizing this data, we can enhance our operational efficiency and continue to improve customer satisfaction.",
+    "file_format": "pptx",
+    "file_path": ".llm_responses/generated_pptx_presentation.pptx",
+    "qa_type": "distractor",
+    "timestamp": "2025-11-19 02:22",
+    "image_queries": [
+        {
+            "slide_title": "Introduction",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "intentionally_clean",
+            "slide_type": "introduction"
+        },
+        {
+            "slide_title": "Overview of Customer Engagement Channels",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 7,
+            "total_chars": 615,
+            "probability": 0.25,
+            "theme": "Classic Navy"
+        },
+        {
+            "slide_title": "Q1 2025 In-Store Customer Survey Data",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 7,
+            "total_chars": 502,
+            "probability": 0.25,
+            "theme": "Classic Navy"
+        },
+        {
+            "slide_title": "Impact of Customer Feedback on Operational Efficiency",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "failed",
+            "slide_type": "distractor",
+            "content_length": 7,
+            "total_chars": 508,
+            "error": "'str' object has no attribute 'choices'",
+            "theme": "Classic Navy"
+        },
+        {
+            "slide_title": "Conclusion",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "strategic_clean_conclusion",
+            "slide_type": "conclusion",
+            "theme": "Classic Navy"
+        }
+    ],
+    "app": "nextcloud"
+}

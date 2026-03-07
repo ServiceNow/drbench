@@ -1,0 +1,13 @@
+Year,Production_Volume,YoY_Production_Change,Trend_Category
+The year in which the production output was recorded,The total production volume of Elexion in the specified year,The year-over-year change in total production output from the previous year,"The category of the trend, such as 'manufacturing scale-up' or 'regulatory compliance'"
+2023,90000,5.88%,manufacturing scale-up
+2024,98000,8.88%,manufacturing scale-up
+2020,75000,15%,manufacturing scale-up
+2021,80000,6.67%,manufacturing scale-up
+2022,85000,6.25%,manufacturing scale-up
+2028,130000,4%,regulatory compliance
+2027,125000,2.46%,regulatory compliance
+2026,122000,1.67%,regulatory compliance
+2025,120000,22%,manufacturing scale-up
+2029,135000,3.85%,regulatory compliance
+2030,140000,3.70%,regulatory compliance

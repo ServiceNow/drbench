@@ -1,0 +1,81 @@
+{
+    "file_name": "warehouse-sop-overview",
+    "file_title": "SOP Compliance and Warehouse Operations",
+    "introduction": "In our pursuit for operational excellence, understanding the typical number of SOP documents in our warehouses is critical. This presentation explores SOP compliance within our warehouses in British Columbia as of October 2025.",
+    "subsections": [
+        {
+            "heading": "Overview of Warehouse Operational Standards",
+            "content": "\u2022 Operational standards represent the best practices in warehouse management\n\u2022 In 2023, there was a significant shift towards digital SOPs across the industry\n\u2022 Warehouse operational standards often include safety procedures, equipment usage, and inventory management\n\u2022 Continuous training is essential for maintaining the efficacy of operational standards\n\u2022 Operational standards must be regularly reviewed and updated to ensure they remain relevant",
+            "type": "distractor",
+            "justification": "This content discusses the concept and importance of warehouse operational standards, but doesn't provide specifics on how many SOP documents are used in BC warehouses."
+        },
+        {
+            "heading": "Average SOP Documents in BC Warehouses",
+            "content": "\u2022 SOP documents are critical tools for ensuring consistent operations\n\u2022 Digital SOPs have become increasingly popular in BC warehouses since 2020\n\u2022 The number of SOP documents can vary based on the size and complexity of warehouse operations\n\u2022 Some BC warehouses have begun integrating SOP documents into mobile applications for easy access\n\u2022 The trend of SOP document usage in BC warehouses has been on the rise since 2018",
+            "type": "distractor",
+            "justification": "This content discusses the trends and importance of SOP documents in BC warehouses, but doesn't specify the average number used."
+        },
+        {
+            "heading": "Implications of SOP Compliance on Operational Efficiency",
+            "content": "\u2022 Proper SOP compliance can significantly improve operational efficiency\n\u2022 Non-compliance with SOPs can result in operational inconsistencies and potential safety risks\n\u2022 Compliance monitoring should be a regular part of warehouse management\n\u2022 Training programs play a crucial role in ensuring SOP compliance\n\u2022 Technology can be leveraged to track and improve SOP compliance in warehouses",
+            "type": "distractor",
+            "justification": "This content discusses the implications of SOP compliance on operational efficiency, but doesn't provide information on the average number of SOP documents in BC warehouses."
+        }
+    ],
+    "conclusion": "Understanding the number of SOPs in our warehouses can assist in identifying areas for improvement and standardization. Let's ensure we leverage this insight to enhance our operational efficiency and maintain our commitment to quality service.",
+    "file_format": "pptx",
+    "file_path": ".llm_responses/generated_pptx_presentation.pptx",
+    "qa_type": "distractor",
+    "timestamp": "2025-12-02 14:29",
+    "image_queries": [
+        {
+            "slide_title": "Introduction",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "intentionally_clean",
+            "slide_type": "introduction"
+        },
+        {
+            "slide_title": "Overview of Warehouse Operational Standards",
+            "has_image": true,
+            "image_query": "warehouse operational standards infographic",
+            "generation_method": "strategic_placement",
+            "slide_type": "distractor",
+            "content_length": 5,
+            "total_chars": 436,
+            "forced": false,
+            "theme": "Classic Navy"
+        },
+        {
+            "slide_title": "Average SOP Documents in BC Warehouses",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 5,
+            "total_chars": 409,
+            "probability": 0.25,
+            "theme": "Classic Navy"
+        },
+        {
+            "slide_title": "Implications of SOP Compliance on Operational Efficiency",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 5,
+            "total_chars": 374,
+            "probability": 0.25,
+            "theme": "Classic Navy"
+        },
+        {
+            "slide_title": "Conclusion",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "strategic_clean_conclusion",
+            "slide_type": "conclusion",
+            "theme": "Classic Navy"
+        }
+    ],
+    "app": "nextcloud"
+}

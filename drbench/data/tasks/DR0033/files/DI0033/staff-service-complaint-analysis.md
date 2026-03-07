@@ -1,0 +1,21 @@
+# Seasonal Staff Service Complaint Analysis
+
+## Introduction
+
+As part of our continuous commitment to service quality at Lee's Market, we have conducted an analysis of customer service complaints from November 2024 to October 2025. This report focuses on identifying incidents where new or seasonal staff may have been a contributing factor. The insights herein will guide our approach to staff training and development, and help reduce future grievances.
+
+## Staff Training and Development Initiatives
+
+In Q1 2025, Lee's Market has conducted a company-wide training program aimed at further improving customer service. The training focused on product knowledge, handling customer inquiries, and using our computerized inventory system. The human resources department reported a 15% increase in overall staff competency post-training.
+
+## Seasonal Staffing Levels and Turnover Rates
+
+During the festive seasons of 2024 and 2025, Lee's Market increased its seasonal staff by 20%. With a turnover rate of 18%, which is higher than our annual average of 15%, we've recognized the need for better retention strategies for our seasonal workforce.
+
+## Analysis of Service Complaints Involving New Staff
+
+In 2025, our company has implemented a new tracking system for all service complaints. This system allows us to categorize complaints based on various factors, including staff seniority. However, we noticed that the majority of complaints are related to product availability and pricing, not service issues.
+
+## Conclusion
+
+The data reveals a correlation between service complaints and the role of new or seasonal staff. This underscores the need for enhanced training and support for these employees. We recommend a review and enhancement of our current training programs. Moreover, strategies to reduce turnover rates among seasonal staff may also help mitigate such service complaints.

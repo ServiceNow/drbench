@@ -1,0 +1,82 @@
+{
+    "file_name": "sustainability-review-2024",
+    "file_title": "Sustainability Initiatives: Bag Usage Review 2024",
+    "introduction": "In this presentation, we will examine Lee's Market sustainability initiatives, particularly focusing on the use of reusable shopping bags throughout 2024. This will aid us in evaluating our impact on the environment and overall customer experiences.",
+    "subsections": [
+        {
+            "heading": "Sustainability Initiatives Overview",
+            "content": "\u2022 Dedicated a portion of our marketing budget to raise awareness about our sustainability efforts in 2024\n\u2022 Implemented energy-efficient refrigeration units across 60% of our stores by Q4 2024\n\u2022 Partnered with local farmers to source 30% of our produce organically\n\u2022 Established a recycling program for packaging materials across all stores\n\u2022 Launched a pilot 'zero waste' program in three of our flagship stores\n\u2022 Invested in solar power for our distribution centers, with an aim to be 50% solar-powered by 2025",
+            "type": "distractor",
+            "justification": "Details company-wide sustainability efforts not specifically tied to reusable bag distribution. It's a holistic view vs. the specific DR question."
+        },
+        {
+            "heading": "Reusable Bag Distribution Analysis",
+            "content": "\u2022 Implemented a buy-one-get-one promotional campaign for reusable bags in Q2 2024\n\u2022 Expanded bag designs to reflect seasonal themes and cultural events\n\u2022 Increased the durability of our reusable bags in 2024\n\u2022 Conducted a cost-benefit analysis of reusable bag production\n\u2022 Analyzed impact of reusable bag sales on overall store revenue\n\u2022 Developed partnerships with local artists for limited-edition bag designs",
+            "type": "distractor",
+            "justification": "Details bag distribution strategies, designs, and impacts, but doesn't confirm if bags were offered throughout the year."
+        },
+        {
+            "heading": "Customer Feedback on Reusable Bags",
+            "content": "\u2022 Conducted quarterly customer surveys to gather feedback on bag designs\n\u2022 60% of surveyed customers appreciated the cultural designs on our bags\n\u2022 Received suggestions for more size options for reusable bags\n\u2022 Customer complaints decreased by 10% after improving bag durability\n\u2022 Analyzed social media sentiment regarding our reusable bags\n\u2022 Initiated a customer reward program tied to reusable bag use",
+            "type": "distractor",
+            "justification": "Focuses on customer feedback and sentiment, not the availability of reusable bags throughout the year."
+        }
+    ],
+    "conclusion": "Our 2024 sustainability review reveals an alignment between our environmental responsibility and improved customer satisfaction. Moving forward, we should continue to emphasize and expand our sustainability initiatives to further enhance our brand reputation and customer loyalty.",
+    "file_format": "pptx",
+    "file_path": ".llm_responses/generated_pptx_presentation.pptx",
+    "qa_type": "distractor",
+    "timestamp": "2025-11-19 02:10",
+    "image_queries": [
+        {
+            "slide_title": "Introduction",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "intentionally_clean",
+            "slide_type": "introduction"
+        },
+        {
+            "slide_title": "Sustainability Initiatives Overview",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "failed",
+            "slide_type": "distractor",
+            "content_length": 6,
+            "total_chars": 495,
+            "error": "'str' object has no attribute 'choices'",
+            "theme": "Modern Orange"
+        },
+        {
+            "slide_title": "Reusable Bag Distribution Analysis",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "failed",
+            "slide_type": "distractor",
+            "content_length": 6,
+            "total_chars": 394,
+            "error": "'str' object has no attribute 'choices'",
+            "theme": "Modern Orange"
+        },
+        {
+            "slide_title": "Customer Feedback on Reusable Bags",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "failed",
+            "slide_type": "distractor",
+            "content_length": 6,
+            "total_chars": 386,
+            "error": "'str' object has no attribute 'choices'",
+            "theme": "Modern Orange"
+        },
+        {
+            "slide_title": "Conclusion",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "conclusion_failed",
+            "slide_type": "conclusion",
+            "error": "'str' object has no attribute 'choices'",
+            "theme": "Modern Orange"
+        }
+    ],
+    "app": "file_system"
+}

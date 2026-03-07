@@ -1,0 +1,11 @@
+partnership_date,company_name,partner_type,partner_origin,number_of_partners
+The date at which the partnership status is recorded,The name of the company that the partnership information pertains to,The type of partner the company is partnered with,The country of origin of the partner,The number of partners the company has in the specific partner type and partner origin
+2025-01-01,MediConn Solutions,Technology Partners,Canada,2
+2025-09-30,MediConn Solutions,Social Media Healthcare Influencers,Canada,2
+2022-06-15,MediConn Solutions,Supply Chain Partners,Germany,1
+2025-05-05,MediConn Solutions,Supply Chain Partners,USA,3
+2023-07-23,MediConn Solutions,Research Partners,UK,4
+2020-01-01,MediConn Solutions,Technology Partners,USA,5
+2021-04-12,MediConn Solutions,Social Media Healthcare Influencers,USA,3
+2025-07-07,MediConn Solutions,Research Partners,Germany,2
+2024-02-03,MediConn Solutions,Social Media Healthcare Influencers,Australia,1

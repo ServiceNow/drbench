@@ -1,0 +1,10 @@
+{
+    "insight_id": "DI0003",
+    "qa_type": "distractor",
+    "qa_index": 3,
+    "specific_question": "What is MediConn's internal marketing department budget for FY2025?",
+    "answer": "The internal marketing budget for FY2025 was $3.2 million CAD, covering advertising, digital campaigns, and brand development.",
+    "justification": "Marketing expenditure is an internal financial metric unrelated to MediConn's compliance modernization or Indigenous data reporting standards.",
+    "timestamp": "2025-11-20 16:42",
+    "dr_question": "What additional compliance controls should be integrated into MediConn\u2019s platform by Q2 2026 to ensure secure authentication and patient verification for Indigenous patients in low-connectivity environments?"
+}

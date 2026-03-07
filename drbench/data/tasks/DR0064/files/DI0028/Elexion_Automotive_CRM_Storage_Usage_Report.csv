@@ -1,0 +1,12 @@
+Date,CRM_System,Data_Storage_Usage(TB),Company_Name,Industry
+The date at which the data storage usage of the Elexion CRM system was measured.,The specific CRM system whose data storage usage is being measured.,The data storage usage of the Elexion CRM system measured in terabytes.,The name of the company that uses the CRM system.,The industry in which the company operates.
+2025-04-01,Elexion Automotive,2,Elexion,Automotive
+2025-09-01,Elexion Automotive,2.1,Elexion,Automotive
+2025-07-01,Elexion Healthcare,1.6,Elexion,Healthcare
+2025-05-01,Elexion Automotive,2,Elexion,Automotive
+2025-08-01,Elexion Finance,1.7,Elexion,Finance
+2025-03-01,Elexion Automotive,2,Elexion,Automotive
+2025-01-01,Elexion Automotive,1.8,Elexion,Automotive
+2025-06-01,Elexion Healthcare,1.5,Elexion,Healthcare
+2025-09-01,Elexion Finance,1.8,Elexion,Finance
+2025-02-01,Elexion Automotive,1.9,Elexion,Automotive

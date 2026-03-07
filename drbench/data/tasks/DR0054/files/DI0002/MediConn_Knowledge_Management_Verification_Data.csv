@@ -1,0 +1,12 @@
+year,department,documents_verified,verification_status,verification_lead
+The year in which the verification of departmental procedure documents was performed.,"The department for which the procedure documents were verified. This could be HR, Operations, or any other department within the company.",The number of departmental procedure documents that were verified by the knowledge management lead.,"The status of verification, represented as a string. This could be 'completed', 'in-progress', 'not started', etc.",The name of the knowledge management lead who was responsible for verifying the departmental procedure documents.
+2022,Operations,12,completed,James Brown
+2023,Operations,15,completed,James Brown
+2023,HR,20,completed,Jane Smith
+2020,Finance,20,completed,John Doe
+2021,Operations,10,completed,James Brown
+2024,Finance,30,completed,John Doe
+2021,HR,15,completed,Jane Smith
+2022,HR,18,completed,Jane Smith
+2023,Finance,25,completed,John Doe
+2024,HR and Operations,42,completed,MediConn’s knowledge management lead

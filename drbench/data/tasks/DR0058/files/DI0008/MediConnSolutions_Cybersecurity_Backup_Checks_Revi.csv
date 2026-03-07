@@ -1,0 +1,13 @@
+Quarter,Cybersecurity_Specialist,Company,Platform,Backup_Checks_Completed,Date_Range
+The specific quarter and year when the internal system backup checks were completed,The cybersecurity specialist responsible for completing the internal system backup checks,The company for which the internal system backup checks were performed,The specific platform for which the internal system backup checks were performed,The number of internal system backup checks completed in the specified quarter,The specific date range within the specified quarter when the internal system backup checks were completed
+Q1 2027,Jane Smith,TechCorp,Virtual Healthcare,2,"January 1 - March 31, 2027"
+Q4 2025,John Doe,TechCorp,Cloud Storage,4,"October 1 - December 31, 2025"
+Q3 2025,John Doe,MediConn,Virtual Healthcare,6,"July 1 - September 30, 2025"
+Q2 2026,John Doe,TechCorp,Virtual Healthcare,5,"April 1 - June 30, 2026"
+Q2 2027,John Doe,MediConn,Data Server,5,"April 1 - June 30, 2027"
+Q3 2026,Jane Smith,TechCorp,Data Server,3,"July 1 - September 30, 2026"
+Q2 2025,John Doe,MediConn,Virtual Healthcare,5,"April 1 - June 30, 2025"
+Q3 2025,Jane Smith,MediConn,Data Server,3,"July 1 - September 30, 2025"
+Q4 2026,John Doe,MediConn,Cloud Storage,4,"October 1 - December 31, 2026"
+Q1 2025,Jane Smith,TechCorp,Cloud Storage,4,"January 1 - March 31, 2025"
+Q1 2026,Jane Smith,MediConn,Data Server,2,"January 1 - March 31, 2026"

@@ -1,0 +1,10 @@
+{
+    "insight_id": "DI0011",
+    "qa_type": "distractor",
+    "qa_index": 11,
+    "specific_question": "What printer access controls did Jason Wong implement for Lee's Market in February 2025?",
+    "answer": "With access controls set in February, print jobs could only be triggered by staff at their device, reducing print waste by 45% and supporting confidentiality.",
+    "justification": "",
+    "timestamp": "2025-12-02 14:49",
+    "dr_question": "Between Q1 2025 and Q4 2025, how can the adoption of managed security service providers (MSSPs) be leveraged by Jason Wong to address Lee's Market's internal cybersecurity resource constraints, and what measurable improvement in threat management, compliance, and customer trust can be achieved compared to maintaining traditional in-house approaches?"
+}

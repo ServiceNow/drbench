@@ -1,0 +1,10 @@
+{
+    "insight_id": "DI0012",
+    "qa_type": "distractor",
+    "qa_index": 12,
+    "specific_question": "What reduction in carbon footprint (in %) was achieved by Lee's Market in 2024?",
+    "answer": "Lee's Market reduced its carbon footprint by 26% in 2024 by increasing its focus on renewable energy, efficient logistics, and refrigeration upgrades.",
+    "justification": "This data is not relevant because it focuses on environmental performance, which addresses sustainability, but doesn't measure the impact of tariffs on sales projections and promotion planning. Lee's Market cannot use this data to gauge which products are experiencing a slowdown or to plan promotions. This data is an environmental metric and does not affect the product sales impact analysis.",
+    "timestamp": "2025-11-21 13:07",
+    "dr_question": "Given the drop in Canadian retail sales brought on by US tariffs in 2025, what insights should Lee\u2019s Market derive from product-level sales trends across tariff-exposed and tariff-insulated categories to update sales forecasts by 2027?"
+}

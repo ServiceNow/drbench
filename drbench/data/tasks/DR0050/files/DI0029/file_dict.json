@@ -1,0 +1,29 @@
+{
+    "file_name": "virtual-consultation-standards",
+    "file_title": "Virtual Consultation Documentation Standards",
+    "introduction": "As MediConn Solutions continues to evolve its virtual healthcare services, it is critical to stay informed about our documentation practices. This document provides an overview of our current format for patient records following a consultation, as well as related procedures and considerations. The emphasis is on ensuring transparency, compliance, and patient satisfaction.",
+    "subsections": [
+        {
+            "heading": "Procedure for Post-Consultation Documentation",
+            "content": "Upon the conclusion of a virtual consultation, MediConn Solutions has a team of dedicated professionals who review and finalize consultation details. These are transcribed by healthcare documentation specialists and forwarded to the respective department for further processing. The entire process from consultation end to document completion usually takes between 24 to 48 hours.",
+            "type": "distractor",
+            "justification": "The content discusses the process of documentation but doesn't specify the documentation format sent to patients."
+        },
+        {
+            "heading": "Format and Content of Patient Records",
+            "content": "MediConn Solutions places a high value on the accuracy and integrity of patient records. These records are structured in a standardized way, with sections for personal information, medical history, consultation notes, and treatment plans. The records are maintained electronically in a secure system, accessible only by authorized personnel.",
+            "type": "distractor",
+            "justification": "The content focuses on internal patient record management, not the format of documents sent to patients post-consultation."
+        },
+        {
+            "heading": "Patient Data Privacy and Compliance",
+            "content": "At MediConn Solutions, we adhere strictly to all federal regulations regarding patient data privacy. Our digital platforms use advanced encryption technologies to protect patient data during transfer and storage. We also conduct regular audits to ensure we meet or exceed all compliance standards.",
+            "type": "distractor",
+            "justification": "The content discusses data privacy and compliance but does not specify the format of post-consultation patient documentation."
+        }
+    ],
+    "conclusion": "Understanding our current practices for post-consultation documentation is vital for continuous improvement and patient satisfaction. It is essential to keep our documentation format and content up-to-date, maintaining a balance between comprehensive information and user-friendliness. As we move forward, we must continue to prioritize data privacy and compliance. Regular reviews and updates of these procedures are recommended.",
+    "file_format": "docx",
+    "file_path": ".llm_responses/generated_docx_document.docx",
+    "app": "nextcloud"
+}

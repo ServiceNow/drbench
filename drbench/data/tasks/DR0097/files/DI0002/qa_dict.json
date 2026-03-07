@@ -1,0 +1,10 @@
+{
+    "insight_id": "DI0002",
+    "qa_type": "distractor",
+    "qa_index": 2,
+    "specific_question": "What percentage of MediConn's revenue in 2025 came from its corporate clients versus individual patients?",
+    "answer": "Approximately 40% of revenue came from corporate clients, while 60% came from individual patients.",
+    "justification": "The source of revenue does not impact the analysis of IT operational efficiency or the per-consultation technical costs that need to be optimized.",
+    "timestamp": "2025-11-21 12:53",
+    "dr_question": "How can MediConn streamline its IT workflows in Q4 2025 to boost clinician efficiency and manage per-consultation costs, given that virtual healthcare expansion has improved access but increased overall expenses?"
+}

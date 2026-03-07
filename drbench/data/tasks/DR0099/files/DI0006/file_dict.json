@@ -1,0 +1,206 @@
+{
+    "file_name": "roundcube_email_20251121_122350",
+    "content": "{\"type\": \"user\", \"username\": \"rachel.kim\", \"first_name\": \"Rachel\", \"last_name\": \"Kim\", \"email\": \"rachel.kim@elexionauto.com\", \"password\": \"rachel_kim_pwd\"}\n{\"type\": \"user\", \"username\": \"michael.johnson\", \"first_name\": \"Michael\", \"last_name\": \"Johnson\", \"email\": \"michael.johnson@elexionauto.com\", \"password\": \"michael_johnson_pwd\"}\n{\"type\": \"user\", \"username\": \"james.baker\", \"first_name\": \"James\", \"last_name\": \"Baker\", \"email\": \"james.baker@elexionauto.com\", \"password\": \"james_baker_pwd\"}\n{\"type\": \"user\", \"username\": \"emma.sanchez\", \"first_name\": \"Emma\", \"last_name\": \"Sanchez\", \"email\": \"emma.sanchez@elexionauto.com\", \"password\": \"emma_sanchez_pwd\"}\n{\"type\": \"user\", \"username\": \"linda.hughes\", \"first_name\": \"Linda\", \"last_name\": \"Hughes\", \"email\": \"linda.hughes@elexionauto.com\", \"password\": \"linda_hughes_pwd\"}\n{\"type\": \"user\", \"username\": \"john.wilson\", \"first_name\": \"John\", \"last_name\": \"Wilson\", \"email\": \"john.wilson@elexionauto.com\", \"password\": \"john_wilson_pwd\"}\n{\"type\": \"user\", \"username\": \"susan.thomas\", \"first_name\": \"Susan\", \"last_name\": \"Thomas\", \"email\": \"susan.thomas@elexionauto.com\", \"password\": \"susan_thomas_pwd\"}\n{\"type\": \"email\", \"id\": \"email_001\", \"subject\": \"Weekly Team Meeting\", \"from\": \"rachel.kim@elexionauto.com\", \"from_name\": \"Rachel Kim\", \"to\": [\"michael.johnson@elexionauto.com\", \"james.baker@elexionauto.com\", \"emma.sanchez@elexionauto.com\", \"linda.hughes@elexionauto.com\", \"john.wilson@elexionauto.com\", \"susan.thomas@elexionauto.com\"], \"cc\": [], \"date\": \"2022-09-15 10:00:00\", \"body\": \"Good Morning Team,\\n\\nJust a reminder that our weekly team meeting is scheduled for tomorrow at 2 PM in the conference room. Please come prepared to discuss your current projects and any potential obstacles you foresee.\\n\\nBest,\\nRachel\", \"folder\": \"sent\", \"read\": true, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_002\", \"subject\": \"New EV Model Launch\", \"from\": \"michael.johnson@elexionauto.com\", \"from_name\": \"Michael Johnson\", \"to\": [\"rachel.kim@elexionauto.com\"], \"cc\": [\"emma.sanchez@elexionauto.com\"], \"date\": \"2022-09-16 14:00:00\", \"body\": \"Hi Rachel,\\n\\nJust wanted to give you a heads up that we're gearing up for the launch of our new EV model next month. Let's make sure all the necessary compliance checks are in place.\\n\\nThanks,\\nMichael\", \"folder\": \"sent\", \"read\": true, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_003\", \"subject\": \"Upcoming Networking Event\", \"from\": \"james.baker@elexionauto.com\", \"from_name\": \"James Baker\", \"to\": [\"rachel.kim@elexionauto.com\"], \"cc\": [\"michael.johnson@elexionauto.com\"], \"date\": \"2022-09-17 09:30:00\", \"body\": \"Hi Rachel,\\n\\nThere is an upcoming networking event for the electric vehicle industry next month. It would be a great opportunity for us to connect with other industry leaders and learn about the latest trends. Let me know your thoughts.\\n\\nBest,\\nJames\", \"folder\": \"sent\", \"read\": true, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_004\", \"subject\": \"Annual Performance Review Schedule\", \"from\": \"john.wilson@elexionauto.com\", \"from_name\": \"John Wilson\", \"to\": [\"rachel.kim@elexionauto.com\"], \"cc\": [], \"date\": \"2022-09-18 11:00:00\", \"body\": \"Hi Rachel,\\n\\nThe schedule for the annual performance reviews has been finalized. Your review is scheduled for next Tuesday at 10 AM. Please prepare a summary of your accomplishments over the past year.\\n\\nBest,\\nJohn\", \"folder\": \"sent\", \"read\": true, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_001\", \"subject\": \"Compliance Documentation Update: Canada\\u2019s ZEV mandate\", \"from\": \"rachel.kim@elexionauto.com\", \"from_name\": \"Rachel Kim\", \"to\": [\"michael.johnson@elexionauto.com\"], \"cc\": [\"john.wilson@elexionauto.com\", \"linda.hughes@elexionauto.com\"], \"date\": \"2026-01-10 09:30:00\", \"body\": \"Dear Michael, \\n\\nI hope this email finds you well. As we are gearing up for the changes in Canada\\u2019s revised ZEV mandate, I've been working on updating our compliance documentation framework. \\n\\nOne of the most significant changes in the mandate involves supply-chain investment credits. To ensure compliance, we need to verify and record these credits accurately. I am writing to you to ask for the percentage of our vehicle components that were sourced domestically within North America in 2025. This data will help us in our documentation process. \\n\\nThank you in advance for your assistance. \\n\\nBest, \\nRachel\", \"folder\": \"sent\", \"read\": true, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_002\", \"subject\": \"Re: Compliance Documentation Update: Canada\\u2019s ZEV mandate\", \"from\": \"michael.johnson@elexionauto.com\", \"from_name\": \"Michael Johnson\", \"to\": [\"rachel.kim@elexionauto.com\"], \"cc\": [\"john.wilson@elexionauto.com\", \"linda.hughes@elexionauto.com\"], \"date\": \"2026-01-10 11:45:00\", \"body\": \"Hi Rachel, \\n\\nThank you for your email. I've checked with our supply chain team and I can confirm that 68 percent of component value in Elexion vehicles was sourced from North American suppliers in 2025. Hope this helps in your documentation process. \\n\\nLet's keep in close touch as you continue to refine our compliance framework. \\n\\nBest, \\nMichael\", \"folder\": \"sent\", \"read\": true, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_003\", \"subject\": \"Re: Compliance Documentation Update: Canada\\u2019s ZEV mandate\", \"from\": \"rachel.kim@elexionauto.com\", \"from_name\": \"Rachel Kim\", \"to\": [\"michael.johnson@elexionauto.com\"], \"cc\": [\"john.wilson@elexionauto.com\", \"linda.hughes@elexionauto.com\"], \"date\": \"2026-01-10 12:05:00\", \"body\": \"Hi Michael, \\n\\nThank you for your quick response. This information is indeed very helpful. It not only helps us comply with the new mandate but also supports our commitment to supply-chain localization. I'll incorporate this data into our documentation immediately. \\n\\nI appreciate your support and I'll keep you posted on any further updates. \\n\\nBest, \\nRachel\", \"folder\": \"sent\", \"read\": true, \"attachments\": []}",
+    "email_setup": [
+        {
+            "type": "user",
+            "username": "rachel.kim",
+            "first_name": "Rachel",
+            "last_name": "Kim",
+            "email": "rachel.kim@elexionauto.com",
+            "password": "rachel_kim_pwd"
+        },
+        {
+            "type": "user",
+            "username": "michael.johnson",
+            "first_name": "Michael",
+            "last_name": "Johnson",
+            "email": "michael.johnson@elexionauto.com",
+            "password": "michael_johnson_pwd"
+        },
+        {
+            "type": "user",
+            "username": "james.baker",
+            "first_name": "James",
+            "last_name": "Baker",
+            "email": "james.baker@elexionauto.com",
+            "password": "james_baker_pwd"
+        },
+        {
+            "type": "user",
+            "username": "emma.sanchez",
+            "first_name": "Emma",
+            "last_name": "Sanchez",
+            "email": "emma.sanchez@elexionauto.com",
+            "password": "emma_sanchez_pwd"
+        },
+        {
+            "type": "user",
+            "username": "linda.hughes",
+            "first_name": "Linda",
+            "last_name": "Hughes",
+            "email": "linda.hughes@elexionauto.com",
+            "password": "linda_hughes_pwd"
+        },
+        {
+            "type": "user",
+            "username": "john.wilson",
+            "first_name": "John",
+            "last_name": "Wilson",
+            "email": "john.wilson@elexionauto.com",
+            "password": "john_wilson_pwd"
+        },
+        {
+            "type": "user",
+            "username": "susan.thomas",
+            "first_name": "Susan",
+            "last_name": "Thomas",
+            "email": "susan.thomas@elexionauto.com",
+            "password": "susan_thomas_pwd"
+        }
+    ],
+    "email_messages": [
+        {
+            "type": "email",
+            "id": "email_001",
+            "subject": "Weekly Team Meeting",
+            "from": "rachel.kim@elexionauto.com",
+            "from_name": "Rachel Kim",
+            "to": [
+                "michael.johnson@elexionauto.com",
+                "james.baker@elexionauto.com",
+                "emma.sanchez@elexionauto.com",
+                "linda.hughes@elexionauto.com",
+                "john.wilson@elexionauto.com",
+                "susan.thomas@elexionauto.com"
+            ],
+            "cc": [],
+            "date": "2022-09-15 10:00:00",
+            "body": "Good Morning Team,\n\nJust a reminder that our weekly team meeting is scheduled for tomorrow at 2 PM in the conference room. Please come prepared to discuss your current projects and any potential obstacles you foresee.\n\nBest,\nRachel",
+            "folder": "sent",
+            "read": true,
+            "attachments": [],
+            "tag": "distractor"
+        },
+        {
+            "type": "email",
+            "id": "email_002",
+            "subject": "New EV Model Launch",
+            "from": "michael.johnson@elexionauto.com",
+            "from_name": "Michael Johnson",
+            "to": [
+                "rachel.kim@elexionauto.com"
+            ],
+            "cc": [
+                "emma.sanchez@elexionauto.com"
+            ],
+            "date": "2022-09-16 14:00:00",
+            "body": "Hi Rachel,\n\nJust wanted to give you a heads up that we're gearing up for the launch of our new EV model next month. Let's make sure all the necessary compliance checks are in place.\n\nThanks,\nMichael",
+            "folder": "sent",
+            "read": true,
+            "attachments": [],
+            "tag": "distractor"
+        },
+        {
+            "type": "email",
+            "id": "email_003",
+            "subject": "Upcoming Networking Event",
+            "from": "james.baker@elexionauto.com",
+            "from_name": "James Baker",
+            "to": [
+                "rachel.kim@elexionauto.com"
+            ],
+            "cc": [
+                "michael.johnson@elexionauto.com"
+            ],
+            "date": "2022-09-17 09:30:00",
+            "body": "Hi Rachel,\n\nThere is an upcoming networking event for the electric vehicle industry next month. It would be a great opportunity for us to connect with other industry leaders and learn about the latest trends. Let me know your thoughts.\n\nBest,\nJames",
+            "folder": "sent",
+            "read": true,
+            "attachments": [],
+            "tag": "distractor"
+        },
+        {
+            "type": "email",
+            "id": "email_004",
+            "subject": "Annual Performance Review Schedule",
+            "from": "john.wilson@elexionauto.com",
+            "from_name": "John Wilson",
+            "to": [
+                "rachel.kim@elexionauto.com"
+            ],
+            "cc": [],
+            "date": "2022-09-18 11:00:00",
+            "body": "Hi Rachel,\n\nThe schedule for the annual performance reviews has been finalized. Your review is scheduled for next Tuesday at 10 AM. Please prepare a summary of your accomplishments over the past year.\n\nBest,\nJohn",
+            "folder": "sent",
+            "read": true,
+            "attachments": [],
+            "tag": "distractor"
+        },
+        {
+            "type": "email",
+            "id": "email_001",
+            "subject": "Compliance Documentation Update: Canada\u2019s ZEV mandate",
+            "from": "rachel.kim@elexionauto.com",
+            "from_name": "Rachel Kim",
+            "to": [
+                "michael.johnson@elexionauto.com"
+            ],
+            "cc": [
+                "john.wilson@elexionauto.com",
+                "linda.hughes@elexionauto.com"
+            ],
+            "date": "2026-01-10 09:30:00",
+            "body": "Dear Michael, \n\nI hope this email finds you well. As we are gearing up for the changes in Canada\u2019s revised ZEV mandate, I've been working on updating our compliance documentation framework. \n\nOne of the most significant changes in the mandate involves supply-chain investment credits. To ensure compliance, we need to verify and record these credits accurately. I am writing to you to ask for the percentage of our vehicle components that were sourced domestically within North America in 2025. This data will help us in our documentation process. \n\nThank you in advance for your assistance. \n\nBest, \nRachel",
+            "folder": "sent",
+            "read": true,
+            "attachments": [],
+            "tag": "insight"
+        },
+        {
+            "type": "email",
+            "id": "email_002",
+            "subject": "Re: Compliance Documentation Update: Canada\u2019s ZEV mandate",
+            "from": "michael.johnson@elexionauto.com",
+            "from_name": "Michael Johnson",
+            "to": [
+                "rachel.kim@elexionauto.com"
+            ],
+            "cc": [
+                "john.wilson@elexionauto.com",
+                "linda.hughes@elexionauto.com"
+            ],
+            "date": "2026-01-10 11:45:00",
+            "body": "Hi Rachel, \n\nThank you for your email. I've checked with our supply chain team and I can confirm that 68 percent of component value in Elexion vehicles was sourced from North American suppliers in 2025. Hope this helps in your documentation process. \n\nLet's keep in close touch as you continue to refine our compliance framework. \n\nBest, \nMichael",
+            "folder": "sent",
+            "read": true,
+            "attachments": [],
+            "tag": "insight"
+        },
+        {
+            "type": "email",
+            "id": "email_003",
+            "subject": "Re: Compliance Documentation Update: Canada\u2019s ZEV mandate",
+            "from": "rachel.kim@elexionauto.com",
+            "from_name": "Rachel Kim",
+            "to": [
+                "michael.johnson@elexionauto.com"
+            ],
+            "cc": [
+                "john.wilson@elexionauto.com",
+                "linda.hughes@elexionauto.com"
+            ],
+            "date": "2026-01-10 12:05:00",
+            "body": "Hi Michael, \n\nThank you for your quick response. This information is indeed very helpful. It not only helps us comply with the new mandate but also supports our commitment to supply-chain localization. I'll incorporate this data into our documentation immediately. \n\nI appreciate your support and I'll keep you posted on any further updates. \n\nBest, \nRachel",
+            "folder": "sent",
+            "read": true,
+            "attachments": [],
+            "tag": "insight"
+        }
+    ],
+    "file_format": "jsonl",
+    "file_path": ".llm_responses/generated_email_document.jsonl",
+    "qa_type": "distractor",
+    "timestamp": "2025-11-21 13:23",
+    "app": "email"
+}

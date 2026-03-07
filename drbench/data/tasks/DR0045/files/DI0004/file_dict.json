@@ -1,0 +1,81 @@
+{
+    "file_name": "mental-health-growth",
+    "file_title": "Mental Health Services Growth Analysis",
+    "introduction": "This presentation will provide an overview of our mental health service line, highlighting its current status and future growth trajectory. Our aim is to inform strategic decision-making and resource allocation in this key segment.",
+    "subsections": [
+        {
+            "heading": "Overview of Current Mental Health Services",
+            "content": "\u2022 MediConn Solutions offers a wide range of mental health services, including counseling, psychiatry, and crisis intervention\n\u2022 Our platform utilizes advanced technology to connect patients with licensed healthcare professionals\n\u2022 We maintain strict adherence to privacy and data security standards to ensure patient confidentiality\n\u2022 MediConn's mental health services are available 24/7, providing accessibility for individuals in need at any time\n\u2022 In 2023, we expanded our mental health services to include specialized support for veterans and first responders",
+            "type": "distractor",
+            "justification": "While this provides an overview of the services, it doesn't provide information about the growth trajectory of these services."
+        },
+        {
+            "heading": "Market Trends Influencing Mental Health Sector",
+            "content": "\u2022 The COVID-19 pandemic has accelerated the demand for virtual mental health services\n\u2022 Increasing awareness and destigmatization of mental health issues has led to higher demand for services\n\u2022 Advances in technology are enabling more effective virtual therapy sessions\n\u2022 Regulatory changes are increasingly supporting reimbursement for virtual mental health services\n\u2022 The rise of personalized care is steering the industry towards more individualized treatment plans",
+            "type": "distractor",
+            "justification": "This content discusses general market trends but does not directly address the specific growth trajectory of MediConn's mental health services."
+        },
+        {
+            "heading": "Projected Growth of Mental Health Services",
+            "content": "\u2022 Predictions indicate strong growth in demand for virtual mental health services in the next decade\n\u2022 The global digital mental health market is expected to reach $20 billion by 2027\n\u2022 The trend of integrating mental health services into primary care is projected to continue\n\u2022 We anticipate increased adoption of our services by businesses as part of their employee wellness programs\n\u2022 Development of AI and machine learning technologies could shape the future of virtual mental health services",
+            "type": "distractor",
+            "justification": "These points predict general growth of the service sector but do not specifically answer the DR Question about MediConn's mental health service line's growth."
+        }
+    ],
+    "conclusion": "Our mental health service line is poised for substantial growth, influenced by current market trends. As we move forward, our focus should be on leveraging these opportunities and addressing potential challenges to maximize our growth potential.",
+    "file_format": "pptx",
+    "file_path": ".llm_responses/generated_pptx_presentation.pptx",
+    "qa_type": "distractor",
+    "timestamp": "2025-11-19 23:12",
+    "image_queries": [
+        {
+            "slide_title": "Introduction",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "intentionally_clean",
+            "slide_type": "introduction"
+        },
+        {
+            "slide_title": "Overview of Current Mental Health Services",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 5,
+            "total_chars": 549,
+            "probability": 0.25,
+            "theme": "Bold Crimson"
+        },
+        {
+            "slide_title": "Market Trends Influencing Mental Health Sector",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 5,
+            "total_chars": 454,
+            "probability": 0.25,
+            "theme": "Bold Crimson"
+        },
+        {
+            "slide_title": "Projected Growth of Mental Health Services",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "failed",
+            "slide_type": "distractor",
+            "content_length": 5,
+            "total_chars": 482,
+            "error": "'str' object has no attribute 'choices'",
+            "theme": "Bold Crimson"
+        },
+        {
+            "slide_title": "Conclusion",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "strategic_clean_conclusion",
+            "slide_type": "conclusion",
+            "theme": "Bold Crimson"
+        }
+    ],
+    "app": "file_system"
+}

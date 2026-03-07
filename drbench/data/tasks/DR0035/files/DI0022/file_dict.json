@@ -1,0 +1,81 @@
+{
+    "file_name": "cybersecurity-competitions-impact",
+    "file_title": "Cybersecurity Competitions: Facilitation and Impact",
+    "introduction": "In this presentation, we will explore how our IT Director, Jason Wong, implemented internal cyber competitions in May 2025, and the resultant effects on our company's cybersecurity posture. Given our increasing reliance on digital platforms, it's crucial to understand the importance of such initiatives.",
+    "subsections": [
+        {
+            "heading": "Cybersecurity Landscape at Lee's Market",
+            "content": "\u2022 Lee's Market follows a stringent cybersecurity protocol to protect sensitive customer and business data\n\u2022 In 2023, a new firewall system was introduced to enhance network security\n\u2022 Regular audits are conducted to ensure compliance with Payment Card Industry Data Security Standard (PCI DSS)\n\u2022 Lee's Market has a dedicated cybersecurity team that monitors potential threats 24/7\n\u2022 The cybersecurity team has successfully mitigated over 500 potential data breaches in 2024\n\u2022 Introduced a new password management system in 2024 to increase employee access security",
+            "type": "distractor",
+            "justification": "This slide discusses general cybersecurity measures at Lee's Market but does not mention internal cyber competitions or Jason Wong's role."
+        },
+        {
+            "heading": "Overview of Internal Cyber Competitions",
+            "content": "\u2022 Internal cyber competitions aim to educate employees about potential cyber threats\n\u2022 The format of the competition often involves a Capture The Flag (CTF) model\n\u2022 Employees from all departments are encouraged to participate in the competition\n\u2022 The competitions are designed to be engaging and fun, while also being educational\n\u2022 Rewards are often provided to the winners of these competitions\n\u2022 The competitions are held periodically throughout the year\n\u2022 The initiative was first introduced in early 2022.",
+            "type": "distractor",
+            "justification": "This content overviews the competitions without mentioning Jason Wong or the May 2025 event."
+        },
+        {
+            "heading": "Impact of Cyber Competitions on Security",
+            "content": "\u2022 The competitions have increased awareness about cyber threats among employees\n\u2022 There has been a 20% reduction in successful phishing attacks since the introduction of the competitions\n\u2022 Employees have become more vigilant in identifying and reporting potential risks\n\u2022 The competitions have fostered a culture of security within the organization\n\u2022 Improved employee morale and team spirit have been observed as an added benefit.",
+            "type": "distractor",
+            "justification": "This slide discusses the impacts of the competitions but does not mention Jason Wong or the specific impact of the May 2025 event."
+        }
+    ],
+    "conclusion": "Our internal cyber competitions, facilitated by Jason Wong, have significantly enhanced our cybersecurity capabilities. Moving forward, we should consider expanding these initiatives to maintain our robust defense against potential threats.",
+    "file_format": "pptx",
+    "file_path": ".llm_responses/generated_pptx_presentation.pptx",
+    "qa_type": "distractor",
+    "timestamp": "2025-12-02 14:53",
+    "image_queries": [
+        {
+            "slide_title": "Introduction",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "intentionally_clean",
+            "slide_type": "introduction"
+        },
+        {
+            "slide_title": "Cybersecurity Landscape at Lee's Market",
+            "has_image": true,
+            "image_query": "cybersecurity strategy meeting",
+            "generation_method": "strategic_placement",
+            "slide_type": "distractor",
+            "content_length": 6,
+            "total_chars": 547,
+            "forced": false,
+            "theme": "Elegant Teal"
+        },
+        {
+            "slide_title": "Overview of Internal Cyber Competitions",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 7,
+            "total_chars": 489,
+            "probability": 0.25,
+            "theme": "Elegant Teal"
+        },
+        {
+            "slide_title": "Impact of Cyber Competitions on Security",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 5,
+            "total_chars": 417,
+            "probability": 0.25,
+            "theme": "Elegant Teal"
+        },
+        {
+            "slide_title": "Conclusion",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "strategic_clean_conclusion",
+            "slide_type": "conclusion",
+            "theme": "Elegant Teal"
+        }
+    ],
+    "app": "file_system"
+}

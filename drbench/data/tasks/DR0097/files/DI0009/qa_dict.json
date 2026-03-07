@@ -1,0 +1,10 @@
+{
+    "insight_id": "DI0009",
+    "qa_type": "distractor",
+    "qa_index": 9,
+    "specific_question": "What was the median age of patients using MediConn's platforms in Q3 2025?",
+    "answer": "The median patient age was 39 years.",
+    "justification": "Age demographics do not determine the process efficiency or IT infrastructure requirements for virtual consults.",
+    "timestamp": "2025-11-21 12:56",
+    "dr_question": "How can MediConn streamline its IT workflows in Q4 2025 to boost clinician efficiency and manage per-consultation costs, given that virtual healthcare expansion has improved access but increased overall expenses?"
+}

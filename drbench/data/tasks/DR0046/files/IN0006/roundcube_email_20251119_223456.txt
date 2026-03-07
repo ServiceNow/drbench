@@ -1,0 +1,187 @@
+================================================================================
+ROUNDCUBE EMAIL EXPORT
+================================================================================
+
+USERS:
+----------------------------------------
+• emily.patel
+  Name: Emily Patel
+  Email: emily.patel@mediconn.ca
+
+• david.jones
+  Name: David Jones
+  Email: david.jones@mediconn.ca
+
+• linda.brown
+  Name: Linda Brown
+  Email: linda.brown@mediconn.ca
+
+• steve.martin
+  Name: Steve Martin
+  Email: steve.martin@mediconn.ca
+
+• sarah.johnson
+  Name: Sarah Johnson
+  Email: sarah.johnson@mediconn.ca
+
+• michael.thomas
+  Name: Michael Thomas
+  Email: michael.thomas@mediconn.ca
+
+• julia.roberts
+  Name: Julia Roberts
+  Email: julia.roberts@mediconn.ca
+
+• kevin.williams
+  Name: Kevin Williams
+  Email: kevin.williams@mediconn.ca
+
+EMAILS:
+================================================================================
+Email ID: email_001
+Date: 2022-10-13 08:30:00
+From: Emily Patel <emily.patel@mediconn.ca>
+To: david.jones@mediconn.ca, linda.brown@mediconn.ca, steve.martin@mediconn.ca
+CC: sarah.johnson@mediconn.ca
+Subject: Weekly Team Meeting Agenda
+Folder: sent | Status: Read
+
+Message Body:
+----------------------------------------
+Good morning everyone,
+
+Please find attached the agenda for our weekly team meeting scheduled for this Friday. We'll be discussing the standard dashboard reports, any outstanding IT service requests, and the upcoming server maintenance schedule.
+
+Best,
+Emily
+============================================================
+
+Email ID: email_002
+Date: 2022-10-13 10:00:00
+From: Steve Martin <steve.martin@mediconn.ca>
+To: emily.patel@mediconn.ca
+Subject: Server Maintenance Schedule
+Folder: inbox | Status: Unread
+
+Message Body:
+----------------------------------------
+Hi Emily,
+
+I've forwarded the proposed server maintenance schedule to the entire team. Please let me know if any adjustments need to be made.
+
+Best,
+Steve
+============================================================
+
+Email ID: email_003
+Date: 2022-10-13 11:30:00
+From: Linda Brown <linda.brown@mediconn.ca>
+To: emily.patel@mediconn.ca
+Subject: Customer Feedback Survey
+Folder: inbox | Status: Unread
+
+Message Body:
+----------------------------------------
+Hi Emily,
+
+I've completed the analysis of the latest customer feedback survey. It seems like our customers are satisfied with the performance and reliability of our platforms. I will share the full report in our team meeting.
+
+Regards,
+Linda
+============================================================
+
+Email ID: email_004
+Date: 2022-10-13 14:00:00
+From: David Jones <david.jones@mediconn.ca>
+To: emily.patel@mediconn.ca
+CC: sarah.johnson@mediconn.ca
+Subject: New Policy Implementation
+Folder: inbox | Status: Unread
+
+Message Body:
+----------------------------------------
+Hi Emily and Sarah,
+
+A new IT policy about data privacy and protection has been drafted and will be implemented soon. I will share the document in the next team meeting for everyone's understanding and compliance.
+
+Best,
+David
+============================================================
+
+Email ID: email_005
+Date: 2022-10-13 15:30:00
+From: Julia Roberts <julia.roberts@mediconn.ca>
+To: emily.patel@mediconn.ca
+Subject: Healthcare Tech Conference
+Folder: inbox | Status: Unread
+
+Message Body:
+----------------------------------------
+Dear Emily,
+
+I wanted to let you know about the upcoming Healthcare Tech Conference next month. This could be a great networking and learning opportunity for our team. Please let me know if you or any of your team members are interested in attending.
+
+Regards,
+Julia
+============================================================
+
+Email ID: email_001
+Date: 2026-09-15 09:30:00
+From: Sarah Johnson <sarah.johnson@mediconn.ca>
+To: emily.patel@mediconn.ca
+Subject: Feedback on IT Service Desk Efficiency
+Folder: inbox | Status: Read
+
+Message Body:
+----------------------------------------
+Dear Emily,
+
+As part of our ongoing efforts to improve the efficiency and effectiveness of our IT Service Desk, we recently conducted an internal survey among our team. The results were quite revealing. A significant 90% of our team members reported that a substantial amount of their time is being spent on addressing common questions. This repetitive task is consuming valuable time that could be utilized for resolving more complex issues.
+
+Considering our aim to provide top-notch IT services, I strongly believe that we need to address this issue. I am keen to discuss potential solutions in our upcoming meeting.
+
+Best Regards,
+Sarah Johnson
+============================================================
+
+Email ID: email_002
+Date: 2026-09-15 10:15:00
+From: Emily Patel <emily.patel@mediconn.ca>
+To: sarah.johnson@mediconn.ca, michael.thomas@mediconn.ca
+Subject: Re: Feedback on IT Service Desk Efficiency
+Folder: inbox | Status: Read
+
+Message Body:
+----------------------------------------
+Dear Sarah,
+
+Thank you for sharing the survey results. It is indeed concerning that our team is spending a significant amount of time on repetitive tasks. As we move towards becoming a more tech-advanced organization, it is essential that we leverage AI technology to streamline our operations.
+
+I'm including Michael, our AI integration lead, in this conversation as he can guide us on how AI can be used in our ITSM to handle common queries, thereby freeing up our team to focus on more complex issues.
+
+Best,
+Emily
+============================================================
+
+Email ID: email_003
+Date: 2026-09-15 11:00:00
+From: Michael Thomas <michael.thomas@mediconn.ca>
+To: emily.patel@mediconn.ca, sarah.johnson@mediconn.ca
+Subject: Re: Feedback on IT Service Desk Efficiency
+Folder: inbox | Status: Read
+
+Message Body:
+----------------------------------------
+Hi Emily and Sarah,
+
+Thank you for including me in this conversation. AI technology indeed has the potential to handle common queries and tasks. An AI-integrated ITSM system would enable us to automate responses to frequently asked questions, thus reducing the workload on our team members and allowing them to focus on more complex and critical issues.
+
+I propose setting up a meeting next week to discuss this in more detail and explore potential AI solutions that we can incorporate into our ITSM.
+
+Best,
+Michael
+============================================================
+
+================================================================================
+END OF EMAIL EXPORT
+================================================================================

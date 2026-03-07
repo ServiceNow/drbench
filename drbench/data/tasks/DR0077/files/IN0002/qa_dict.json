@@ -1,0 +1,10 @@
+{
+    "insight_id": "IN0002",
+    "qa_type": "insight",
+    "qa_index": 2,
+    "specific_question": "How many key operational metrics will Elexion Automotive collect from each of its production lines using IoT sensors and digital twins in Q1 2026?",
+    "answer": "Internal Elexion Automotive analytics projections indicate that each production line will collect approximately 1,500 real-time metrics from IoT sensors and digital twins, covering equipment performance, cycle times, and anomaly detection.",
+    "justification": "",
+    "timestamp": "2025-11-20 03:29",
+    "dr_question": "How can Elexion Automotive use real-time data from IoT sensors embedded in vehicles and manufacturing equipment, combined with digital engineering-enabled digital twins, to enhance predictive maintenance and minimize downtime in production lines by the end of 2025?"
+}

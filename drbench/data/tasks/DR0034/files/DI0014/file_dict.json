@@ -1,0 +1,81 @@
+{
+    "file_name": "june-2025-security-update",
+    "file_title": "Securing Staff Devices: June 2025 Update",
+    "introduction": "Our presentation today will delve into the recent information security measures taken for Lee's Market staff devices. We'll focus on the encryption protocol implemented in June 2025.",
+    "subsections": [
+        {
+            "heading": "Overview of Staff Device Security",
+            "content": "\u2022 Implementation of Two-Factor Authentication (2FA) for all staff devices in 2024\n\u2022 Launch of a new VPN service for remote access in Q3 2025\n\u2022 Adoption of biometric authentication for corporate smartphones in Q1 2025\n\u2022 Regular security audits conducted by internal IT team\n\u2022 Rollout of mandatory monthly security training for all staff\n\u2022 Inclusion of a remote wipe feature for all staff devices to protect data in case of loss/theft",
+            "type": "distractor",
+            "justification": "Content discusses broader device security measures but doesn't specify the encryption protocol for new staff devices in June 2025."
+        },
+        {
+            "heading": "Encryption Protocol Selected for June 2025",
+            "content": "\u2022 Adoption of an industry-standard encryption protocol to protect sensitive data\n\u2022 Implementation process handled by the Information Security team\n\u2022 Regular review of encryption protocol to ensure it meets evolving security needs\n\u2022 Protocol selected after thorough assessment of various options\n\u2022 Protocol designed to work seamlessly across various device types\n\u2022 New protocol does not significantly impact device performance",
+            "type": "distractor",
+            "justification": "Slide provides general information about the encryption protocol selection process but doesn't mention which protocol was chosen."
+        },
+        {
+            "heading": "Implications for Staff Training and Compliance",
+            "content": "\u2022 Introduction of new training modules to familiarize staff with the new protocol\n\u2022 Mandatory completion of training for all staff by end of Q3 2025\n\u2022 Protocol compliance to be monitored on a quarterly basis\n\u2022 Non-compliance to be addressed with strict disciplinary actions\n\u2022 Continuous improvement of training modules based on staff feedback\n\u2022 Provision for one-on-one training sessions for staff needing additional assistance",
+            "type": "distractor",
+            "justification": "Slide discusses training and compliance related to the new protocol but doesn't reveal the actual protocol."
+        }
+    ],
+    "conclusion": "The newly implemented encryption protocol represents a significant step forward in our device security. As next steps, we'll be focusing on staff training and ensuring compliance with these new measures.",
+    "file_format": "pptx",
+    "file_path": ".llm_responses/generated_pptx_presentation.pptx",
+    "qa_type": "distractor",
+    "timestamp": "2025-11-19 02:51",
+    "image_queries": [
+        {
+            "slide_title": "Introduction",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "intentionally_clean",
+            "slide_type": "introduction"
+        },
+        {
+            "slide_title": "Overview of Staff Device Security",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "failed",
+            "slide_type": "distractor",
+            "content_length": 6,
+            "total_chars": 415,
+            "error": "'str' object has no attribute 'choices'",
+            "theme": "Executive Purple"
+        },
+        {
+            "slide_title": "Encryption Protocol Selected for June 2025",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 6,
+            "total_chars": 408,
+            "probability": 0.25,
+            "theme": "Executive Purple"
+        },
+        {
+            "slide_title": "Implications for Staff Training and Compliance",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 6,
+            "total_chars": 410,
+            "probability": 0.25,
+            "theme": "Executive Purple"
+        },
+        {
+            "slide_title": "Conclusion",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "strategic_clean_conclusion",
+            "slide_type": "conclusion",
+            "theme": "Executive Purple"
+        }
+    ],
+    "app": "file_system"
+}

@@ -1,0 +1,21 @@
+# Enhancing Customer Engagement Strategy 2025
+
+## Introduction
+
+In light of the recent downturn in Canadian retail sales, Lee's Market needs to reassess its on-floor customer engagement initiatives. As a committed Sales Associate, I have observed our current practices and identified potential areas of improvement. This document proposes innovative, implementable strategies designed to stimulate customer engagement and drive sales growth for the remainder of 2025.
+
+## Innovative Customer Engagement Initiatives
+
+We have been exploring new technologies to enhance the shopping experience. In 2024, we implemented a pilot program for a mobile app, which allowed customers to easily locate products within the store. Although the app was well-received, it did not significantly impact overall sales or customer engagement rates.
+
+## Analysis of Current Customer Engagement Practices
+
+The period from June to August 2025 saw a decline in sales performance for most of our top seasonal products. Specifically, 80% of these high-demand SKUs did not meet the sales performance of the same timeframe in 2024. This downturn underscores the need for a concentrated effort to boost customer engagement, particularly around these underperforming products. Increasing on-floor visibility and personalized recommendations for these products may prove beneficial in driving sales recovery.
+
+## Measuring and Evaluating Engagement Success
+
+Our team regularly measures customer engagement through a variety of metrics. These include dwell time, repeat visitation rates, and customer satisfaction scores. In 2024, we found a correlation between high repeat visitation rates and our seasonal sales, suggesting that our promotional events are effective in attracting repeat customers.
+
+## Conclusion
+
+Implementing new customer engagement strategies is key to counteracting recent retail sales declines. By refining our current practices, introducing innovative engagement initiatives, and regularly evaluating these strategies, we can improve our customer interactions and drive sales growth. I recommend a thorough review of these proposals and swift action to enhance our on-floor customer engagement. Let's navigate this challenging phase together by ensuring Lee's Market continues to deliver an outstanding shopping experience.

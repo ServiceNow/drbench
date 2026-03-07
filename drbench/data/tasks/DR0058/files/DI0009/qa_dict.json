@@ -1,0 +1,10 @@
+{
+    "insight_id": "DI0009",
+    "qa_type": "distractor",
+    "qa_index": 9,
+    "specific_question": "In Q4 2024, how many internal secure coding reviews did the cybersecurity specialist perform for MediConn\u2019s development team?",
+    "answer": "The cybersecurity specialist performed 12 internal secure coding reviews for MediConn\u2019s development team between October 1 and December 31, 2024.",
+    "justification": "",
+    "timestamp": "2025-11-20 00:47",
+    "dr_question": "In 2026, since a ransomware attack would not be just an IT issue but a risk to every function of MediConn Solutions, what specific architectural and procedural controls would a cybersecurity specialist need to design and implement to minimize the blast radius and ensure MediConn\u2019s clinical continuity during an extended loss of services from one of their third-party providers?"
+}

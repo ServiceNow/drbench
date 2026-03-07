@@ -1,0 +1,232 @@
+{
+    "file_name": "roundcube_email_20251120_020421",
+    "content": "{\"type\": \"user\", \"username\": \"ethan.thompson\", \"first_name\": \"Ethan\", \"last_name\": \"Thompson\", \"email\": \"ethan.thompson@elexionautomotive.com\", \"password\": \"ethan_secure_pwd\"}\n{\"type\": \"user\", \"username\": \"rachel.morgan\", \"first_name\": \"Rachel\", \"last_name\": \"Morgan\", \"email\": \"rachel.morgan@elexionautomotive.com\", \"password\": \"rachel_pwd\"}\n{\"type\": \"user\", \"username\": \"james.lee\", \"first_name\": \"James\", \"last_name\": \"Lee\", \"email\": \"james.lee@elexionautomotive.com\", \"password\": \"james_pwd\"}\n{\"type\": \"user\", \"username\": \"sarah.williams\", \"first_name\": \"Sarah\", \"last_name\": \"Williams\", \"email\": \"sarah.williams@elexionautomotive.com\", \"password\": \"sarah_pwd\"}\n{\"type\": \"user\", \"username\": \"kevin.jones\", \"first_name\": \"Kevin\", \"last_name\": \"Jones\", \"email\": \"kevin.jones@elexionautomotive.com\", \"password\": \"kevin_pwd\"}\n{\"type\": \"user\", \"username\": \"linda.brown\", \"first_name\": \"Linda\", \"last_name\": \"Brown\", \"email\": \"linda.brown@elexionautomotive.com\", \"password\": \"linda_pwd\"}\n{\"type\": \"user\", \"username\": \"david.garcia\", \"first_name\": \"David\", \"last_name\": \"Garcia\", \"email\": \"david.garcia@elexionautomotive.com\", \"password\": \"david_pwd\"}\n{\"type\": \"user\", \"username\": \"jennifer.rodriguez\", \"first_name\": \"Jennifer\", \"last_name\": \"Rodriguez\", \"email\": \"jennifer.rodriguez@elexionautomotive.com\", \"password\": \"jennifer_pwd\"}\n{\"type\": \"email\", \"id\": \"email_001\", \"subject\": \"Upcoming IT Department Meeting\", \"from\": \"ethan.thompson@elexionautomotive.com\", \"from_name\": \"Ethan Thompson\", \"to\": [\"rachel.morgan@elexionautomotive.com\", \"james.lee@elexionautomotive.com\", \"sarah.williams@elexionautomotive.com\"], \"cc\": [], \"date\": \"2025-12-01 09:30:00\", \"body\": \"Team,\\n\\nJust a reminder about our monthly IT department meeting scheduled for next Tuesday at 2 PM. We will be discussing our ongoing projects and any departmental updates. Please prepare any necessary reports or presentations.\\n\\nBest,\\nEthan\", \"folder\": \"inbox\", \"read\": true, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_002\", \"subject\": \"New Employee Onboarding Schedule\", \"from\": \"sarah.williams@elexionautomotive.com\", \"from_name\": \"Sarah Williams\", \"to\": [\"ethan.thompson@elexionautomotive.com\"], \"cc\": [], \"date\": \"2025-12-02 10:05:00\", \"body\": \"Ethan,\\n\\nWe have two new hires joining our department next week. Could you please prepare a cybersecurity training schedule for them? We want to ensure they understand our protocols from day one.\\n\\nThanks,\\nSarah\", \"folder\": \"inbox\", \"read\": true, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_003\", \"subject\": \"Annual Performance Review\", \"from\": \"james.lee@elexionautomotive.com\", \"from_name\": \"James Lee\", \"to\": [\"ethan.thompson@elexionautomotive.com\"], \"cc\": [], \"date\": \"2025-12-03 14:15:00\", \"body\": \"Ethan,\\n\\nIt's time for our annual performance reviews. Can we schedule a time next week to discuss your achievements and goals for the upcoming year? Let me know what works best for you.\\n\\nBest,\\nJames\", \"folder\": \"inbox\", \"read\": true, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_004\", \"subject\": \"IT Budget for Next Quarter\", \"from\": \"rachel.morgan@elexionautomotive.com\", \"from_name\": \"Rachel Morgan\", \"to\": [\"ethan.thompson@elexionautomotive.com\"], \"cc\": [\"james.lee@elexionautomotive.com\"], \"date\": \"2025-12-04 13:30:00\", \"body\": \"Ethan,\\n\\nCould you please provide a rough estimate of our cybersecurity needs for next quarter? We're working on the IT budget and want to ensure we allocate sufficient resources for your department.\\n\\nThanks,\\nRachel\", \"folder\": \"inbox\", \"read\": true, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_005\", \"subject\": \"Company-wide Cybersecurity Awareness Training\", \"from\": \"ethan.thompson@elexionautomotive.com\", \"from_name\": \"Ethan Thompson\", \"to\": [\"rachel.morgan@elexionautomotive.com\", \"james.lee@elexionautomotive.com\", \"sarah.williams@elexionautomotive.com\", \"kevin.jones@elexionautomotive.com\", \"linda.brown@elexionautomotive.com\", \"david.garcia@elexionautomotive.com\", \"jennifer.rodriguez@elexionautomotive.com\"], \"cc\": [], \"date\": \"2025-12-05 10:00:00\", \"body\": \"All,\\n\\nNext week, we will be conducting a company-wide cybersecurity awareness training. The session will cover basic cybersecurity best practices and company-specific protocols. Please ensure that your teams are available to attend.\\n\\nBest,\\nEthan\", \"folder\": \"inbox\", \"read\": true, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_001\", \"subject\": \"Re: Upcoming Cybersecurity Strategy Meeting\", \"from\": \"rachel.morgan@elexionautomotive.com\", \"from_name\": \"Rachel Morgan\", \"to\": [\"ethan.thompson@elexionautomotive.com\"], \"cc\": [\"james.lee@elexionautomotive.com\", \"sarah.williams@elexionautomotive.com\"], \"date\": \"2025-12-15 09:30:00\", \"body\": \"Hi Ethan,\\n\\nThank you for providing the details for the upcoming cybersecurity strategy meeting in January. I understand that the focus will be on remote cybersecurity attacks, and I've recently read an article from Help Net Security that discusses the same.\\n\\nI think it would be beneficial for us to discuss the key insights from that article and align our strategies accordingly for Q1 of 2026.\\n\\nLooking forward to the meeting.\\n\\nBest,\\nRachel\", \"folder\": \"inbox\", \"read\": true, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_002\", \"subject\": \"Re: Upcoming Cybersecurity Strategy Meeting\", \"from\": \"ethan.thompson@elexionautomotive.com\", \"from_name\": \"Ethan Thompson\", \"to\": [\"rachel.morgan@elexionautomotive.com\"], \"cc\": [\"james.lee@elexionautomotive.com\", \"sarah.williams@elexionautomotive.com\"], \"date\": \"2025-12-15 10:05:00\", \"body\": \"Hi Rachel,\\n\\nThanks for sharing your thoughts. I agree that the article from Help Net Security gives us a good perspective on the current landscape of remote cybersecurity threats.\\n\\nHowever, one thing we should bear in mind is that not all attacks are remote. In fact, since Elexion's founding in 2010, roughly 12% of all cybersecurity attacks we have faced were from physical access attacks. These mainly involved the exploitation of diagnostic ports (OBD-II) in various models.\\n\\nI think it's crucial that we don't overlook these types of attacks in our discussions. Looking forward to further discussing this in the meeting.\\n\\nBest,\\nEthan\", \"folder\": \"inbox\", \"read\": true, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_003\", \"subject\": \"Re: Upcoming Cybersecurity Strategy Meeting\", \"from\": \"rachel.morgan@elexionautomotive.com\", \"from_name\": \"Rachel Morgan\", \"to\": [\"ethan.thompson@elexionautomotive.com\"], \"cc\": [\"james.lee@elexionautomotive.com\", \"sarah.williams@elexionautomotive.com\"], \"date\": \"2025-12-15 10:30:00\", \"body\": \"Hi Ethan,\\n\\nThat's a good point. It's easy to overlook physical access attacks in the age of remote threats. The statistic you shared certainly puts things into perspective. We should definitely consider strategies to protect against both remote and physical access attacks.\\n\\nThank you for bringing this to our attention. We'll make sure to discuss this in our meeting.\\n\\nBest,\\nRachel\", \"folder\": \"inbox\", \"read\": true, \"attachments\": []}",
+    "email_setup": [
+        {
+            "type": "user",
+            "username": "ethan.thompson",
+            "first_name": "Ethan",
+            "last_name": "Thompson",
+            "email": "ethan.thompson@elexionautomotive.com",
+            "password": "ethan_secure_pwd"
+        },
+        {
+            "type": "user",
+            "username": "rachel.morgan",
+            "first_name": "Rachel",
+            "last_name": "Morgan",
+            "email": "rachel.morgan@elexionautomotive.com",
+            "password": "rachel_pwd"
+        },
+        {
+            "type": "user",
+            "username": "james.lee",
+            "first_name": "James",
+            "last_name": "Lee",
+            "email": "james.lee@elexionautomotive.com",
+            "password": "james_pwd"
+        },
+        {
+            "type": "user",
+            "username": "sarah.williams",
+            "first_name": "Sarah",
+            "last_name": "Williams",
+            "email": "sarah.williams@elexionautomotive.com",
+            "password": "sarah_pwd"
+        },
+        {
+            "type": "user",
+            "username": "kevin.jones",
+            "first_name": "Kevin",
+            "last_name": "Jones",
+            "email": "kevin.jones@elexionautomotive.com",
+            "password": "kevin_pwd"
+        },
+        {
+            "type": "user",
+            "username": "linda.brown",
+            "first_name": "Linda",
+            "last_name": "Brown",
+            "email": "linda.brown@elexionautomotive.com",
+            "password": "linda_pwd"
+        },
+        {
+            "type": "user",
+            "username": "david.garcia",
+            "first_name": "David",
+            "last_name": "Garcia",
+            "email": "david.garcia@elexionautomotive.com",
+            "password": "david_pwd"
+        },
+        {
+            "type": "user",
+            "username": "jennifer.rodriguez",
+            "first_name": "Jennifer",
+            "last_name": "Rodriguez",
+            "email": "jennifer.rodriguez@elexionautomotive.com",
+            "password": "jennifer_pwd"
+        }
+    ],
+    "email_messages": [
+        {
+            "type": "email",
+            "id": "email_001",
+            "subject": "Upcoming IT Department Meeting",
+            "from": "ethan.thompson@elexionautomotive.com",
+            "from_name": "Ethan Thompson",
+            "to": [
+                "rachel.morgan@elexionautomotive.com",
+                "james.lee@elexionautomotive.com",
+                "sarah.williams@elexionautomotive.com"
+            ],
+            "cc": [],
+            "date": "2025-12-01 09:30:00",
+            "body": "Team,\n\nJust a reminder about our monthly IT department meeting scheduled for next Tuesday at 2 PM. We will be discussing our ongoing projects and any departmental updates. Please prepare any necessary reports or presentations.\n\nBest,\nEthan",
+            "folder": "inbox",
+            "read": true,
+            "attachments": [],
+            "tag": "distractor"
+        },
+        {
+            "type": "email",
+            "id": "email_002",
+            "subject": "New Employee Onboarding Schedule",
+            "from": "sarah.williams@elexionautomotive.com",
+            "from_name": "Sarah Williams",
+            "to": [
+                "ethan.thompson@elexionautomotive.com"
+            ],
+            "cc": [],
+            "date": "2025-12-02 10:05:00",
+            "body": "Ethan,\n\nWe have two new hires joining our department next week. Could you please prepare a cybersecurity training schedule for them? We want to ensure they understand our protocols from day one.\n\nThanks,\nSarah",
+            "folder": "inbox",
+            "read": true,
+            "attachments": [],
+            "tag": "distractor"
+        },
+        {
+            "type": "email",
+            "id": "email_003",
+            "subject": "Annual Performance Review",
+            "from": "james.lee@elexionautomotive.com",
+            "from_name": "James Lee",
+            "to": [
+                "ethan.thompson@elexionautomotive.com"
+            ],
+            "cc": [],
+            "date": "2025-12-03 14:15:00",
+            "body": "Ethan,\n\nIt's time for our annual performance reviews. Can we schedule a time next week to discuss your achievements and goals for the upcoming year? Let me know what works best for you.\n\nBest,\nJames",
+            "folder": "inbox",
+            "read": true,
+            "attachments": [],
+            "tag": "distractor"
+        },
+        {
+            "type": "email",
+            "id": "email_004",
+            "subject": "IT Budget for Next Quarter",
+            "from": "rachel.morgan@elexionautomotive.com",
+            "from_name": "Rachel Morgan",
+            "to": [
+                "ethan.thompson@elexionautomotive.com"
+            ],
+            "cc": [
+                "james.lee@elexionautomotive.com"
+            ],
+            "date": "2025-12-04 13:30:00",
+            "body": "Ethan,\n\nCould you please provide a rough estimate of our cybersecurity needs for next quarter? We're working on the IT budget and want to ensure we allocate sufficient resources for your department.\n\nThanks,\nRachel",
+            "folder": "inbox",
+            "read": true,
+            "attachments": [],
+            "tag": "distractor"
+        },
+        {
+            "type": "email",
+            "id": "email_005",
+            "subject": "Company-wide Cybersecurity Awareness Training",
+            "from": "ethan.thompson@elexionautomotive.com",
+            "from_name": "Ethan Thompson",
+            "to": [
+                "rachel.morgan@elexionautomotive.com",
+                "james.lee@elexionautomotive.com",
+                "sarah.williams@elexionautomotive.com",
+                "kevin.jones@elexionautomotive.com",
+                "linda.brown@elexionautomotive.com",
+                "david.garcia@elexionautomotive.com",
+                "jennifer.rodriguez@elexionautomotive.com"
+            ],
+            "cc": [],
+            "date": "2025-12-05 10:00:00",
+            "body": "All,\n\nNext week, we will be conducting a company-wide cybersecurity awareness training. The session will cover basic cybersecurity best practices and company-specific protocols. Please ensure that your teams are available to attend.\n\nBest,\nEthan",
+            "folder": "inbox",
+            "read": true,
+            "attachments": [],
+            "tag": "distractor"
+        },
+        {
+            "type": "email",
+            "id": "email_001",
+            "subject": "Re: Upcoming Cybersecurity Strategy Meeting",
+            "from": "rachel.morgan@elexionautomotive.com",
+            "from_name": "Rachel Morgan",
+            "to": [
+                "ethan.thompson@elexionautomotive.com"
+            ],
+            "cc": [
+                "james.lee@elexionautomotive.com",
+                "sarah.williams@elexionautomotive.com"
+            ],
+            "date": "2025-12-15 09:30:00",
+            "body": "Hi Ethan,\n\nThank you for providing the details for the upcoming cybersecurity strategy meeting in January. I understand that the focus will be on remote cybersecurity attacks, and I've recently read an article from Help Net Security that discusses the same.\n\nI think it would be beneficial for us to discuss the key insights from that article and align our strategies accordingly for Q1 of 2026.\n\nLooking forward to the meeting.\n\nBest,\nRachel",
+            "folder": "inbox",
+            "read": true,
+            "attachments": [],
+            "tag": "insight"
+        },
+        {
+            "type": "email",
+            "id": "email_002",
+            "subject": "Re: Upcoming Cybersecurity Strategy Meeting",
+            "from": "ethan.thompson@elexionautomotive.com",
+            "from_name": "Ethan Thompson",
+            "to": [
+                "rachel.morgan@elexionautomotive.com"
+            ],
+            "cc": [
+                "james.lee@elexionautomotive.com",
+                "sarah.williams@elexionautomotive.com"
+            ],
+            "date": "2025-12-15 10:05:00",
+            "body": "Hi Rachel,\n\nThanks for sharing your thoughts. I agree that the article from Help Net Security gives us a good perspective on the current landscape of remote cybersecurity threats.\n\nHowever, one thing we should bear in mind is that not all attacks are remote. In fact, since Elexion's founding in 2010, roughly 12% of all cybersecurity attacks we have faced were from physical access attacks. These mainly involved the exploitation of diagnostic ports (OBD-II) in various models.\n\nI think it's crucial that we don't overlook these types of attacks in our discussions. Looking forward to further discussing this in the meeting.\n\nBest,\nEthan",
+            "folder": "inbox",
+            "read": true,
+            "attachments": [],
+            "tag": "insight"
+        },
+        {
+            "type": "email",
+            "id": "email_003",
+            "subject": "Re: Upcoming Cybersecurity Strategy Meeting",
+            "from": "rachel.morgan@elexionautomotive.com",
+            "from_name": "Rachel Morgan",
+            "to": [
+                "ethan.thompson@elexionautomotive.com"
+            ],
+            "cc": [
+                "james.lee@elexionautomotive.com",
+                "sarah.williams@elexionautomotive.com"
+            ],
+            "date": "2025-12-15 10:30:00",
+            "body": "Hi Ethan,\n\nThat's a good point. It's easy to overlook physical access attacks in the age of remote threats. The statistic you shared certainly puts things into perspective. We should definitely consider strategies to protect against both remote and physical access attacks.\n\nThank you for bringing this to our attention. We'll make sure to discuss this in our meeting.\n\nBest,\nRachel",
+            "folder": "inbox",
+            "read": true,
+            "attachments": [],
+            "tag": "insight"
+        }
+    ],
+    "file_format": "jsonl",
+    "file_path": ".llm_responses/generated_email_document.jsonl",
+    "qa_type": "distractor",
+    "timestamp": "2025-11-20 03:04",
+    "app": "email"
+}

@@ -1,0 +1,81 @@
+{
+    "file_name": "crm-investment-analysis",
+    "file_title": "CRM Software Investment Analysis",
+    "introduction": "Today, we will be discussing our investment in CRM software, focusing on the current costs and its alignment with our strategic goals. This analysis will provide a benchmark to evaluate the return on this significant expenditure.",
+    "subsections": [
+        {
+            "heading": "CRM Software: Market Overview",
+            "content": "\u2022 The CRM software market is expected to grow at a CAGR of 14.2% from 2021 to 2026\n\u2022 Top CRM software providers in the market include Salesforce, Microsoft Dynamics, and Zoho\n\u2022 CRM software helps streamline customer data management and improve customer relationships\n\u2022 Adoption of AI in CRM is a growing trend providing predictive analysis for businesses\n\u2022 CRM software is being increasingly used in healthcare for patient management\n\u2022 Mobile CRM and social CRM are emerging trends in the CRM software market\n\u2022 Healthcare industry is one of the major end-users of CRM software",
+            "type": "distractor",
+            "justification": "This slide provides a general overview of the CRM software market but does not give specific details on the cost of CRM software for MediConn Solutions."
+        },
+        {
+            "heading": "CRM Software Expenditure: MediConn Solutions",
+            "content": "\u2022 MediConn Solutions started using CRM software in 2020 to improve patient management\n\u2022 The IT department manages the implementation and maintenance of the CRM system\n\u2022 The CRM system has helped improve patient satisfaction by 20% since implementation\n\u2022 The CRM software is integrated with other systems like EHR for seamless operations\n\u2022 Annual maintenance of the CRM software is considered as a part of the IT budget\n\u2022 Training of staff on using the CRM software is conducted regularly\n\u2022 The CRM system has increased efficiency in patient management by 30%",
+            "type": "distractor",
+            "justification": "This slide talks about the benefits and usage of CRM software at MediConn Solutions but does not provide information on the cost of CRM software."
+        },
+        {
+            "heading": "Strategic Alignment of CRM Investment",
+            "content": "\u2022 CRM investment is aligned with MediConn's strategic goals of improving patient management\n\u2022 CRM software aids in achieving the goal of providing accessible and cost-effective care\n\u2022 It supports the company's digital transformation goals\n\u2022 Investment in CRM software is part of the broader IT spending\n\u2022 The return on investment from CRM software is measured in terms of improved patient satisfaction and operational efficiency\n\u2022 Future investments in CRM will focus on integrating AI and machine learning capabilities\n\u2022 CRM investment is reviewed annually by the finance and IT departments",
+            "type": "distractor",
+            "justification": "Although this slide discusses the strategic alignment of CRM investment, it does not provide information on the current cost of CRM software for MediConn Solutions."
+        }
+    ],
+    "conclusion": "In conclusion, while our CRM software costs are significant, they align well with our strategic objectives. Moving forward, we should continue to monitor these costs and their impact on our operations.",
+    "file_format": "pptx",
+    "file_path": ".llm_responses/generated_pptx_presentation.pptx",
+    "qa_type": "distractor",
+    "timestamp": "2025-12-02 15:04",
+    "image_queries": [
+        {
+            "slide_title": "Introduction",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "intentionally_clean",
+            "slide_type": "introduction"
+        },
+        {
+            "slide_title": "CRM Software: Market Overview",
+            "has_image": true,
+            "image_query": "CRM software market growth graph",
+            "generation_method": "strategic_placement",
+            "slide_type": "distractor",
+            "content_length": 7,
+            "total_chars": 556,
+            "forced": false,
+            "theme": "Bold Crimson"
+        },
+        {
+            "slide_title": "CRM Software Expenditure: MediConn Solutions",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 7,
+            "total_chars": 538,
+            "probability": 0.25,
+            "theme": "Bold Crimson"
+        },
+        {
+            "slide_title": "Strategic Alignment of CRM Investment",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 7,
+            "total_chars": 571,
+            "probability": 0.25,
+            "theme": "Bold Crimson"
+        },
+        {
+            "slide_title": "Conclusion",
+            "has_image": true,
+            "image_query": "business strategy meeting conclusion",
+            "generation_method": "strategic_conclusion",
+            "slide_type": "conclusion",
+            "theme": "Bold Crimson"
+        }
+    ],
+    "app": "file_system"
+}

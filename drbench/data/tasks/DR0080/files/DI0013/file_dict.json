@@ -1,0 +1,8 @@
+{
+    "file_name": "Elexion_Automotive_EV_Battery_Inventory_Shifts_Dat",
+    "file_format": "xlsx",
+    "file_path": "drbench/data/tasks/DR0080/files/DI0013/Elexion_Automotive_EV_Battery_Inventory_Shifts_Dat.xlsx",
+    "csv_path": "drbench/data/tasks/DR0080/files/DI0013/Elexion_Automotive_EV_Battery_Inventory_Shifts_Dat.csv",
+    "qa_type": "distractor",
+    "app": "file_system"
+}

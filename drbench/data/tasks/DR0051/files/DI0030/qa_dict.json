@@ -1,0 +1,10 @@
+{
+    "insight_id": "DI0030",
+    "qa_type": "distractor",
+    "qa_index": 30,
+    "specific_question": "What percentage of patients abandoned their booking attempts on MediConn's platform between January and December 2019?",
+    "answer": "Between January and December 2019, 52% of patients abandoned their booking attempts before completing an appointment reservation. The customer service team tracked that 58% of these abandonments occurred during the payment information entry phase. The remaining 32% abandoned during the availability selection step. Follow-up surveys revealed that 61% of abandoners did not attempt to rebook through alternative channels.",
+    "justification": "",
+    "timestamp": "2025-11-20 00:01",
+    "dr_question": "The article published on TechTarget in January 2024 cited the MGMA's findings, showing that patient communication technology addresses digital front door issues like poor booking systems. How might MediConn Solutions enhance patient access to virtual consultations and prescription management services in Q1 2026 to reduce wait times and boost satisfaction and retention?"
+}

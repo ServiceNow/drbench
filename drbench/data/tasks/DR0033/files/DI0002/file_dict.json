@@ -1,0 +1,81 @@
+{
+    "file_name": "IT-Security-Community-Engagement",
+    "file_title": "IT & Security Department's Community Engagement",
+    "introduction": "This presentation details the community engagement efforts of our IT & Security Department in 2025. Specifically, we will focus on our collaboration with the local food bank.",
+    "subsections": [
+        {
+            "heading": "Overview of Lee's Market's Corporate Social Responsibility",
+            "content": "\u2022 Lee's Market has been committed to corporate social responsibility (CSR) since its inception in 1985\n\u2022 Each year, the company dedicates approximately 5% of its profits to various CSR initiatives\n\u2022 In 2020, Lee's Market launched a company-wide sustainability campaign to reduce its carbon footprint\n\u2022 Lee's Market has sponsored over 20 local cultural events in the past five years as part of its commitment to preserving Asian traditions\n\u2022 Employee volunteering is a key pillar of Lee's Market's CSR strategy, with each department encouraged to participate in local initiatives\n\u2022 In 2022, Lee's Market was recognized as one of the top 100 companies for corporate social responsibility by Forbes",
+            "type": "distractor",
+            "justification": "While it provides an overview of Lee's Market's CSR initiatives, it does not specify the volunteer hours of the IT & Security department in 2025."
+        },
+        {
+            "heading": "IT & Security Department's Community Engagement",
+            "content": "\u2022 The IT & Security department has been an active participant in Lee's Market's CSR initiatives since 2015\n\u2022 The department has partnered with local educational institutions to promote IT literacy\n\u2022 In 2023, the department launched a mentorship program for students interested in cybersecurity\n\u2022 The department organizes an annual hackathon to raise funds for local charities\n\u2022 The IT & Security department has also been involved in initiatives aimed at increasing women's representation in tech\n\u2022 In 2024, the department received an award for its commitment to community engagement",
+            "type": "distractor",
+            "justification": "It discusses the IT & Security department's community engagement but doesn't mention specifics about their volunteer work with the foodbank in 2025."
+        },
+        {
+            "heading": "Impact and Insights from the Food Bank Collaboration",
+            "content": "\u2022 The collaboration with the local food bank has been an integral part of Lee's Market's CSR efforts since 2020\n\u2022 Employees across all departments have reported increased morale and team cohesion as a result of participating in the food bank initiative\n\u2022 The initiative has helped the food bank serve an additional 10,000 meals annually\n\u2022 Lee's Market's partnership with the food bank has been recognized by local media, enhancing the company's public image\n\u2022 The company plans to expand its partnership with the food bank to other cities in the future\n\u2022 In 2024, Lee's Market was named 'Corporate Partner of the Year' by the food bank",
+            "type": "distractor",
+            "justification": "This slide focuses on the general impact of the food bank collaboration, not the specific volunteer hours of the IT & Security department in 2025."
+        }
+    ],
+    "conclusion": "Our IT & Security team\u2019s commitment to volunteering has strengthened our corporate social responsibility efforts. Moving forward, we will explore more opportunities for team-building activities that also benefit our community.",
+    "file_format": "pptx",
+    "file_path": ".llm_responses/generated_pptx_presentation.pptx",
+    "qa_type": "distractor",
+    "timestamp": "2025-11-19 10:43",
+    "image_queries": [
+        {
+            "slide_title": "Introduction",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "intentionally_clean",
+            "slide_type": "introduction"
+        },
+        {
+            "slide_title": "Overview of Lee's Market's Corporate Social Responsibility",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "failed",
+            "slide_type": "distractor",
+            "content_length": 6,
+            "total_chars": 678,
+            "error": "'str' object has no attribute 'choices'",
+            "theme": "Bold Crimson"
+        },
+        {
+            "slide_title": "IT & Security Department's Community Engagement",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 6,
+            "total_chars": 565,
+            "probability": 0.25,
+            "theme": "Bold Crimson"
+        },
+        {
+            "slide_title": "Impact and Insights from the Food Bank Collaboration",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 6,
+            "total_chars": 618,
+            "probability": 0.25,
+            "theme": "Bold Crimson"
+        },
+        {
+            "slide_title": "Conclusion",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "strategic_clean_conclusion",
+            "slide_type": "conclusion",
+            "theme": "Bold Crimson"
+        }
+    ],
+    "app": "nextcloud"
+}

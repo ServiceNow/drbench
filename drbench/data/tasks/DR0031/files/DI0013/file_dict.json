@@ -1,0 +1,81 @@
+{
+    "file_name": "beverage-restocking-efficiency",
+    "file_title": "Efficiency Analysis: Beverage Aisle Restocking",
+    "introduction": "This presentation dives into our recent employee efficiency analysis, focusing on in-store operations related to beverage aisle restocking. It aims to provide insights into the time taken and identify opportunities for optimization.",
+    "subsections": [
+        {
+            "heading": "Overview of In-store Operations Efficiency",
+            "content": "\u2022 Lee's Market introduced a new POS system in August 2024, which increased checkout speed by 15%\n\u2022 Our inventory turnover ratio improved by 8% from Q2 to Q3 2024\n\u2022 A new store layout introduced in July 2024 reduced customer shopping time by 10%\n\u2022 Employee turnover rate dropped by 5% in Q3 2024, improving overall operational efficiency\n\u2022 We implemented a new training program for employees in June 2024, leading to a 20% increase in customer service ratings\n\u2022 Our online order fulfillment speed increased by 25% in the last quarter",
+            "type": "distractor",
+            "justification": "The content discusses overall operational efficiency improvements but doesn't provide specific information about beverage aisle restocking time."
+        },
+        {
+            "heading": "Detailed Analysis: Beverage Aisle Restocking Time",
+            "content": "\u2022 Employee efficiency in restocking the produce aisle improved by 10% from Q2 to Q3 2024\n\u2022 The meat aisle saw a decrease in restocking efficiency by 5% in September 2024\n\u2022 In Q3 2024, our fastest restocking time was in the dairy aisle\n\u2022 We introduced a new shelf arrangement system in the snack aisle in September 2024\n\u2022 Our slowest restocking time in Q3 2024 was in the canned goods aisle\n\u2022 The bakery aisle restocking efficiency remained stable from Q2 to Q3 2024",
+            "type": "distractor",
+            "justification": "The content provides specific efficiency data for other aisles but doesn't provide information about the beverage aisle restocking time."
+        },
+        {
+            "heading": "Implications and Opportunities for Improvement",
+            "content": "\u2022 Implementing a new shelf arrangement system could improve efficiency in the meat and canned goods aisles\n\u2022 Cross-training employees could help reduce overall restocking times\n\u2022 Using a centralized inventory management system might improve restocking efficiency in all aisles\n\u2022 Consider implementing a faster, more automated restocking process for high turnover items\n\u2022 More frequent restocking of perishable items could reduce waste and improve inventory turnover\n\u2022 A new training program might improve restocking efficiency in the bakery aisle",
+            "type": "distractor",
+            "justification": "The content discusses potential improvements in restocking process but doesn't provide specific data on the beverage aisle restocking time."
+        }
+    ],
+    "conclusion": "Understanding the time taken in restocking the beverage aisle provides insights into our in-store operations efficiency. Moving forward, we should leverage these findings to optimize our processes, ultimately improving our services and customer experience.",
+    "file_format": "pptx",
+    "file_path": ".llm_responses/generated_pptx_presentation.pptx",
+    "qa_type": "distractor",
+    "timestamp": "2025-12-02 14:20",
+    "image_queries": [
+        {
+            "slide_title": "Introduction",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "intentionally_clean",
+            "slide_type": "introduction"
+        },
+        {
+            "slide_title": "Overview of In-store Operations Efficiency",
+            "has_image": true,
+            "image_query": "retail store checkout operation",
+            "generation_method": "strategic_placement",
+            "slide_type": "distractor",
+            "content_length": 6,
+            "total_chars": 515,
+            "forced": false,
+            "theme": "Bold Crimson"
+        },
+        {
+            "slide_title": "Detailed Analysis: Beverage Aisle Restocking Time",
+            "has_image": true,
+            "image_query": "grocery store restocking efficiency",
+            "generation_method": "strategic_placement",
+            "slide_type": "distractor",
+            "content_length": 6,
+            "total_chars": 448,
+            "forced": false,
+            "theme": "Bold Crimson"
+        },
+        {
+            "slide_title": "Implications and Opportunities for Improvement",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 6,
+            "total_chars": 529,
+            "probability": 0.25,
+            "theme": "Bold Crimson"
+        },
+        {
+            "slide_title": "Conclusion",
+            "has_image": true,
+            "image_query": "retail inventory management analysis",
+            "generation_method": "strategic_conclusion",
+            "slide_type": "conclusion",
+            "theme": "Bold Crimson"
+        }
+    ],
+    "app": "nextcloud"
+}

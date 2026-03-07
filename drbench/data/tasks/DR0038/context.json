@@ -1,0 +1,55 @@
+{
+    "company_info": {
+        "name": "Lee's Market",
+        "industry": "Retail",
+        "size": "Enterprise",
+        "founded_year": 2003,
+        "headquarters": "Richmond, British Columbia, Canada",
+        "description": "Lee's Market is a regional Asian supermarket chain specializing in high-quality Asian groceries and household items. With a growing footprint in urban centers across the U.S. and Canada, Lee's Market blends traditional flavors with modern retail experiences, offering in-store, online, and delivery services.",
+        "key_products_services": [
+            "Fresh produce, meats, and seafood",
+            "Asian household items",
+            "Bakery and prepared foods",
+            "Online grocery shopping and delivery"
+        ],
+        "target_markets": [
+            "Asian communities in the U.S. and Canada",
+            "Urban centers with diverse populations"
+        ],
+        "annual_revenue": "$500M - $600M",
+        "employee_count": 5000,
+        "compliance_certifications": [
+            "FDA and CFIA Food Safety Compliance",
+            "HACCP Food Safety Compliance",
+            "USDA Import Inspection Regulations"
+        ],
+        "market_position": "Lee's Market is a rising regional player bridging cultural authenticity and modern retail innovation in the Asian grocery sector. It is carving a niche between mainstream retailers like Walmart and ethnic-focused giants like H-Mart."
+    },
+    "persona": {
+        "role": "Public Relations Director",
+        "department": "Corporate Communications",
+        "name": "Andrew Park",
+        "first_name": "Andrew",
+        "last_name": "Park",
+        "email": "andrew.park@leesmarket.com",
+        "seniority": "Executive",
+        "responsibilities": "Leads all public relations and corporate communication initiatives, manages media relations, and oversees crisis communication planning. Ensures consistent brand messaging across press releases, community events, and digital platforms to strengthen Lee’s Market’s reputation in North America.",
+        "id": "PRM0001",
+        "domain": "public_relations",
+        "justification": "As the face of Lee’s Market’s brand reputation, Andrew’s role is essential in managing public perception, promoting cultural authenticity, and building community trust across diverse audiences in Canada and the U.S.",
+        "username": "andrew.park"
+    },
+    "url": {
+        "url": "https://www.sunrisegeek.com/post/case-study-walmart-csr-strategy",
+        "domain": "Public Relations",
+        "industry": "retail",
+        "example_dr_questions": [
+            "What measurable goals has a major retailer set for environmental efforts involving their supply chain partners, and what is the timeline for achieving these targets?"
+        ],
+        "insights": [
+            "From the \"Case Study: Walmart CSR Strategy\" published on October 4, 2024, Walmart's \"Gigaton Project\", which aims to work with suppliers to reduce greenhouse gas emissions by 1 billion metric tons by 2030."
+        ],
+        "date": "2025-11-19"
+    },
+    "timestamp": "2025-10-30 00:00"
+}

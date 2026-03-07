@@ -1,0 +1,175 @@
+{
+    "file_name": "roundcube_email_20251120_022308",
+    "content": "{\"type\": \"user\", \"username\": \"olivia.martinez\", \"first_name\": \"Olivia\", \"last_name\": \"Martinez\", \"email\": \"olivia.martinez@elexionautomotive.com\", \"password\": \"olivia_alm_pwd\"}\n{\"type\": \"user\", \"username\": \"michael.jones\", \"first_name\": \"Michael\", \"last_name\": \"Jones\", \"email\": \"michael.jones@elexionautomotive.com\", \"password\": \"michael_j_pwd\"}\n{\"type\": \"user\", \"username\": \"nancy.williams\", \"first_name\": \"Nancy\", \"last_name\": \"Williams\", \"email\": \"nancy.williams@elexionautomotive.com\", \"password\": \"nancy_w_pwd\"}\n{\"type\": \"user\", \"username\": \"peter.jenkins\", \"first_name\": \"Peter\", \"last_name\": \"Jenkins\", \"email\": \"peter.jenkins@elexionautomotive.com\", \"password\": \"peter_j_pwd\"}\n{\"type\": \"user\", \"username\": \"susan.lee\", \"first_name\": \"Susan\", \"last_name\": \"Lee\", \"email\": \"susan.lee@elexionautomotive.com\", \"password\": \"susan_l_pwd\"}\n{\"type\": \"user\", \"username\": \"david.robinson\", \"first_name\": \"David\", \"last_name\": \"Robinson\", \"email\": \"david.robinson@elexionautomotive.com\", \"password\": \"david_r_pwd\"}\n{\"type\": \"email\", \"id\": \"email_001\", \"subject\": \"Project Apollo: Weekly Update (Week 12)\", \"from\": \"olivia.martinez@elexionautomotive.com\", \"from_name\": \"Olivia Martinez\", \"to\": [\"michael.jones@elexionautomotive.com\", \"nancy.williams@elexionautomotive.com\", \"peter.jenkins@elexionautomotive.com\"], \"cc\": [\"david.robinson@elexionautomotive.com\"], \"date\": \"2024-01-20 08:30:00\", \"body\": \"Hello Team,\\n\\nI hope this email finds you well. I am writing to update you on the progress of Project Apollo. We have managed to successfully complete the acquisition and installation of the new manufacturing equipment. This is a significant milestone and I would like to appreciate everyone\\u2019s effort.\\n\\nNext week, we will focus on training our team on the utilization and maintenance of the new equipment. I will send out a detailed training schedule by the end of this week.\\n\\nBest Regards,\\nOlivia\", \"folder\": \"sent\", \"read\": true, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_002\", \"subject\": \"Internal Audit: Asset Management Department\", \"from\": \"susan.lee@elexionautomotive.com\", \"from_name\": \"Susan Lee\", \"to\": [\"olivia.martinez@elexionautomotive.com\"], \"cc\": [], \"date\": \"2024-01-21 11:15:00\", \"body\": \"Dear Olivia,\\n\\nI hope this email finds you well. As part of our ongoing internal audit process, we will be conducting an audit of the Asset Management department next week. We will be examining the department's processes, particularly with regards to asset acquisition and disposal. We kindly request your availability during this process.\\n\\nWe will send the detailed audit schedule by the end of this week. Let me know if you have any questions.\\n\\nRegards,\\nSusan Lee\", \"folder\": \"inbox\", \"read\": true, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_003\", \"subject\": \"Invitation: Sustainability Summit 2024\", \"from\": \"david.robinson@elexionautomotive.com\", \"from_name\": \"David Robinson\", \"to\": [\"olivia.martinez@elexionautomotive.com\", \"michael.jones@elexionautomotive.com\", \"nancy.williams@elexionautomotive.com\", \"peter.jenkins@elexionautomotive.com\", \"susan.lee@elexionautomotive.com\"], \"cc\": [], \"date\": \"2024-01-22 14:00:00\", \"body\": \"Dear Team,\\n\\nI am excited to announce that Elexion Automotive has been invited to participate in the upcoming Sustainability Summit 2024. This is a great opportunity for us to share our experiences and learn from industry peers about sustainable practices in the automotive industry.\\n\\nThe summit will take place on February 20th to 22nd. We are allowed to send a delegation of 5 members. If you are interested in attending, please let me know by the end of this week.\\n\\nBest,\\nDavid Robinson\", \"folder\": \"inbox\", \"read\": true, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_001\", \"subject\": \"Integration of Digital Engineering Methodologies with Digital Twins\", \"from\": \"michael.jones@elexionautomotive.com\", \"from_name\": \"Michael Jones\", \"to\": [\"olivia.martinez@elexionautomotive.com\"], \"cc\": [\"nancy.williams@elexionautomotive.com\"], \"date\": \"2025-05-10 11:30:00\", \"body\": \"Dear Olivia, \\n\\nIn order to optimize EV battery performance and lifecycle management, it is crucial that we leverage the integration of digital engineering methodologies with digital twins. The deployment of digital twins in our operations can greatly enhance our predictive maintenance capabilities and increase equipment longevity. \\n\\nI understand that your team has been busy implementing the asset management platform. Can you provide an update on the status of this project and its features? \\n\\nBest, \\nMichael Jones\", \"folder\": \"inbox\", \"read\": true, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_002\", \"subject\": \"Re: Integration of Digital Engineering Methodologies with Digital Twins\", \"from\": \"olivia.martinez@elexionautomotive.com\", \"from_name\": \"Olivia Martinez\", \"to\": [\"michael.jones@elexionautomotive.com\"], \"cc\": [\"nancy.williams@elexionautomotive.com\"], \"date\": \"2025-05-12 09:15:00\", \"body\": \"Dear Michael, \\n\\nThank you for your interest in our asset management platform. I'm pleased to report that we have successfully enabled automated warranty renewal alerts for our production-line assets. As of now, the system sends out reminders for 146 critical production equipment. This will greatly help in maintaining the efficiency and longevity of our assets. \\n\\nI believe this feature, along with other enhancements, will significantly contribute to our goal of optimizing EV battery performance and lifecycle management. \\n\\nBest, \\nOlivia\", \"folder\": \"inbox\", \"read\": true, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_003\", \"subject\": \"Re: Integration of Digital Engineering Methodologies with Digital Twins\", \"from\": \"nancy.williams@elexionautomotive.com\", \"from_name\": \"Nancy Williams\", \"to\": [\"michael.jones@elexionautomotive.com\", \"olivia.martinez@elexionautomotive.com\"], \"date\": \"2025-05-13 12:45:00\", \"body\": \"Dear Michael and Olivia, \\n\\nI am thrilled to hear about the progress on the asset management platform. The automated warranty renewal alerts will be instrumental in maintaining regulatory compliance across North American markets. \\n\\nThe integration of these digital asset management strategies will certainly position us well to achieve our Q2 2026 goals. \\n\\nBest, \\nNancy\", \"folder\": \"inbox\", \"read\": true, \"attachments\": []}",
+    "email_setup": [
+        {
+            "type": "user",
+            "username": "olivia.martinez",
+            "first_name": "Olivia",
+            "last_name": "Martinez",
+            "email": "olivia.martinez@elexionautomotive.com",
+            "password": "olivia_alm_pwd"
+        },
+        {
+            "type": "user",
+            "username": "michael.jones",
+            "first_name": "Michael",
+            "last_name": "Jones",
+            "email": "michael.jones@elexionautomotive.com",
+            "password": "michael_j_pwd"
+        },
+        {
+            "type": "user",
+            "username": "nancy.williams",
+            "first_name": "Nancy",
+            "last_name": "Williams",
+            "email": "nancy.williams@elexionautomotive.com",
+            "password": "nancy_w_pwd"
+        },
+        {
+            "type": "user",
+            "username": "peter.jenkins",
+            "first_name": "Peter",
+            "last_name": "Jenkins",
+            "email": "peter.jenkins@elexionautomotive.com",
+            "password": "peter_j_pwd"
+        },
+        {
+            "type": "user",
+            "username": "susan.lee",
+            "first_name": "Susan",
+            "last_name": "Lee",
+            "email": "susan.lee@elexionautomotive.com",
+            "password": "susan_l_pwd"
+        },
+        {
+            "type": "user",
+            "username": "david.robinson",
+            "first_name": "David",
+            "last_name": "Robinson",
+            "email": "david.robinson@elexionautomotive.com",
+            "password": "david_r_pwd"
+        }
+    ],
+    "email_messages": [
+        {
+            "type": "email",
+            "id": "email_001",
+            "subject": "Project Apollo: Weekly Update (Week 12)",
+            "from": "olivia.martinez@elexionautomotive.com",
+            "from_name": "Olivia Martinez",
+            "to": [
+                "michael.jones@elexionautomotive.com",
+                "nancy.williams@elexionautomotive.com",
+                "peter.jenkins@elexionautomotive.com"
+            ],
+            "cc": [
+                "david.robinson@elexionautomotive.com"
+            ],
+            "date": "2024-01-20 08:30:00",
+            "body": "Hello Team,\n\nI hope this email finds you well. I am writing to update you on the progress of Project Apollo. We have managed to successfully complete the acquisition and installation of the new manufacturing equipment. This is a significant milestone and I would like to appreciate everyone\u2019s effort.\n\nNext week, we will focus on training our team on the utilization and maintenance of the new equipment. I will send out a detailed training schedule by the end of this week.\n\nBest Regards,\nOlivia",
+            "folder": "sent",
+            "read": true,
+            "attachments": [],
+            "tag": "distractor"
+        },
+        {
+            "type": "email",
+            "id": "email_002",
+            "subject": "Internal Audit: Asset Management Department",
+            "from": "susan.lee@elexionautomotive.com",
+            "from_name": "Susan Lee",
+            "to": [
+                "olivia.martinez@elexionautomotive.com"
+            ],
+            "cc": [],
+            "date": "2024-01-21 11:15:00",
+            "body": "Dear Olivia,\n\nI hope this email finds you well. As part of our ongoing internal audit process, we will be conducting an audit of the Asset Management department next week. We will be examining the department's processes, particularly with regards to asset acquisition and disposal. We kindly request your availability during this process.\n\nWe will send the detailed audit schedule by the end of this week. Let me know if you have any questions.\n\nRegards,\nSusan Lee",
+            "folder": "inbox",
+            "read": true,
+            "attachments": [],
+            "tag": "distractor"
+        },
+        {
+            "type": "email",
+            "id": "email_003",
+            "subject": "Invitation: Sustainability Summit 2024",
+            "from": "david.robinson@elexionautomotive.com",
+            "from_name": "David Robinson",
+            "to": [
+                "olivia.martinez@elexionautomotive.com",
+                "michael.jones@elexionautomotive.com",
+                "nancy.williams@elexionautomotive.com",
+                "peter.jenkins@elexionautomotive.com",
+                "susan.lee@elexionautomotive.com"
+            ],
+            "cc": [],
+            "date": "2024-01-22 14:00:00",
+            "body": "Dear Team,\n\nI am excited to announce that Elexion Automotive has been invited to participate in the upcoming Sustainability Summit 2024. This is a great opportunity for us to share our experiences and learn from industry peers about sustainable practices in the automotive industry.\n\nThe summit will take place on February 20th to 22nd. We are allowed to send a delegation of 5 members. If you are interested in attending, please let me know by the end of this week.\n\nBest,\nDavid Robinson",
+            "folder": "inbox",
+            "read": true,
+            "attachments": [],
+            "tag": "distractor"
+        },
+        {
+            "type": "email",
+            "id": "email_001",
+            "subject": "Integration of Digital Engineering Methodologies with Digital Twins",
+            "from": "michael.jones@elexionautomotive.com",
+            "from_name": "Michael Jones",
+            "to": [
+                "olivia.martinez@elexionautomotive.com"
+            ],
+            "cc": [
+                "nancy.williams@elexionautomotive.com"
+            ],
+            "date": "2025-05-10 11:30:00",
+            "body": "Dear Olivia, \n\nIn order to optimize EV battery performance and lifecycle management, it is crucial that we leverage the integration of digital engineering methodologies with digital twins. The deployment of digital twins in our operations can greatly enhance our predictive maintenance capabilities and increase equipment longevity. \n\nI understand that your team has been busy implementing the asset management platform. Can you provide an update on the status of this project and its features? \n\nBest, \nMichael Jones",
+            "folder": "inbox",
+            "read": true,
+            "attachments": [],
+            "tag": "insight"
+        },
+        {
+            "type": "email",
+            "id": "email_002",
+            "subject": "Re: Integration of Digital Engineering Methodologies with Digital Twins",
+            "from": "olivia.martinez@elexionautomotive.com",
+            "from_name": "Olivia Martinez",
+            "to": [
+                "michael.jones@elexionautomotive.com"
+            ],
+            "cc": [
+                "nancy.williams@elexionautomotive.com"
+            ],
+            "date": "2025-05-12 09:15:00",
+            "body": "Dear Michael, \n\nThank you for your interest in our asset management platform. I'm pleased to report that we have successfully enabled automated warranty renewal alerts for our production-line assets. As of now, the system sends out reminders for 146 critical production equipment. This will greatly help in maintaining the efficiency and longevity of our assets. \n\nI believe this feature, along with other enhancements, will significantly contribute to our goal of optimizing EV battery performance and lifecycle management. \n\nBest, \nOlivia",
+            "folder": "inbox",
+            "read": true,
+            "attachments": [],
+            "tag": "insight"
+        },
+        {
+            "type": "email",
+            "id": "email_003",
+            "subject": "Re: Integration of Digital Engineering Methodologies with Digital Twins",
+            "from": "nancy.williams@elexionautomotive.com",
+            "from_name": "Nancy Williams",
+            "to": [
+                "michael.jones@elexionautomotive.com",
+                "olivia.martinez@elexionautomotive.com"
+            ],
+            "date": "2025-05-13 12:45:00",
+            "body": "Dear Michael and Olivia, \n\nI am thrilled to hear about the progress on the asset management platform. The automated warranty renewal alerts will be instrumental in maintaining regulatory compliance across North American markets. \n\nThe integration of these digital asset management strategies will certainly position us well to achieve our Q2 2026 goals. \n\nBest, \nNancy",
+            "folder": "inbox",
+            "read": true,
+            "attachments": [],
+            "tag": "insight"
+        }
+    ],
+    "file_format": "jsonl",
+    "file_path": ".llm_responses/generated_email_document.jsonl",
+    "qa_type": "distractor",
+    "timestamp": "2025-11-20 03:23",
+    "app": "email"
+}

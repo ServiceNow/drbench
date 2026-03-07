@@ -1,0 +1,10 @@
+{
+    "insight_id": "DI0001",
+    "qa_type": "distractor",
+    "qa_index": 1,
+    "specific_question": "In 2025, what percentage of Lee's Market staff employed for 3 years or more did not complete their annual cybersecurity training module before receiving a second reminder email?",
+    "answer": "Per employee training compliance logs for 2025, 29% of Lee's Market staff employed for 3 years or more did not complete their annual cybersecurity training module before receiving a second reminder email.",
+    "justification": "",
+    "timestamp": "2025-11-19 10:42",
+    "dr_question": "How can Lee's Market, guided by information security manager Jason Wong, design and implement a cybersecurity awareness and training program by the end of 2025 that mitigates security risk from high employee turnover and seasonal hiring while minimizing incidents caused by human error and supporting the company's growth in both US and Canadian markets?"
+}

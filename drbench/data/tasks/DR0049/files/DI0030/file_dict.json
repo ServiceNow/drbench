@@ -1,0 +1,245 @@
+{
+    "file_name": "roundcube_email_20251202_162939",
+    "content": "{\"type\": \"user\", \"username\": \"rachel.lee\", \"first_name\": \"Rachel\", \"last_name\": \"Lee\", \"email\": \"rachel.lee@mediconnsolutions.com\", \"password\": \"rachel_cs_director\"}\n{\"type\": \"user\", \"username\": \"james.morgan\", \"first_name\": \"James\", \"last_name\": \"Morgan\", \"email\": \"james.morgan@mediconnsolutions.com\", \"password\": \"james_data_analyst\"}\n{\"type\": \"user\", \"username\": \"susan.parker\", \"first_name\": \"Susan\", \"last_name\": \"Parker\", \"email\": \"susan.parker@mediconnsolutions.com\", \"password\": \"susan_support_manager\"}\n{\"type\": \"user\", \"username\": \"david.jones\", \"first_name\": \"David\", \"last_name\": \"Jones\", \"email\": \"david.jones@mediconnsolutions.com\", \"password\": \"david_healthcare_prof\"}\n{\"type\": \"user\", \"username\": \"mary.johnson\", \"first_name\": \"Mary\", \"last_name\": \"Johnson\", \"email\": \"mary.johnson@mediconnsolutions.com\", \"password\": \"mary_exec_asst\"}\n{\"type\": \"user\", \"username\": \"peter.brown\", \"first_name\": \"Peter\", \"last_name\": \"Brown\", \"email\": \"peter.brown@mediconnsolutions.com\", \"password\": \"peter_it_manager\"}\n{\"type\": \"user\", \"username\": \"linda.taylor\", \"first_name\": \"Linda\", \"last_name\": \"Taylor\", \"email\": \"linda.taylor@mediconnsolutions.com\", \"password\": \"linda_support_staff\"}\n{\"type\": \"user\", \"username\": \"robert.wilson\", \"first_name\": \"Robert\", \"last_name\": \"Wilson\", \"email\": \"robert.wilson@mediconnsolutions.com\", \"password\": \"robert_support_staff\"}\n{\"type\": \"email\", \"id\": \"email_001\", \"subject\": \"Team Meeting - Agenda\", \"from\": \"rachel.lee@mediconnsolutions.com\", \"from_name\": \"Rachel Lee\", \"to\": [\"susan.parker@mediconnsolutions.com\", \"linda.taylor@mediconnsolutions.com\", \"robert.wilson@mediconnsolutions.com\"], \"cc\": [\"mary.johnson@mediconnsolutions.com\"], \"date\": \"2022-11-01 09:00:00\", \"body\": \"Dear Team, \\n\\nPlease find the agenda for our upcoming team meeting attached. Let me know if you have any additions. \\n\\nBest, \\nRachel\", \"folder\": \"sent\", \"read\": true, \"attachments\": [\"Meeting_Agenda.pdf\"]}\n{\"type\": \"email\", \"id\": \"email_002\", \"subject\": \"Annual Budget Planning\", \"from\": \"james.morgan@mediconnsolutions.com\", \"from_name\": \"James Morgan\", \"to\": [\"rachel.lee@mediconnsolutions.com\"], \"cc\": [], \"date\": \"2022-11-02 10:30:00\", \"body\": \"Hi Rachel, \\n\\nCan we schedule a call to discuss the budget allocation for the next fiscal year? I have some data that I think will be helpful. \\n\\nBest, \\nJames\", \"folder\": \"inbox\", \"read\": false, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_003\", \"subject\": \"Customer Satisfaction Survey - Q4\", \"from\": \"susan.parker@mediconnsolutions.com\", \"from_name\": \"Susan Parker\", \"to\": [\"rachel.lee@mediconnsolutions.com\"], \"cc\": [], \"date\": \"2022-11-03 11:45:00\", \"body\": \"Rachel, \\n\\nThe results from the Q4 customer satisfaction survey are in. I've attached the report for your review. \\n\\nBest, \\nSusan\", \"folder\": \"inbox\", \"read\": false, \"attachments\": [\"Q4_Customer_Satisfaction_Report.pdf\"]}\n{\"type\": \"email\", \"id\": \"email_004\", \"subject\": \"Policy Update Notification\", \"from\": \"mary.johnson@mediconnsolutions.com\", \"from_name\": \"Mary Johnson\", \"to\": [\"rachel.lee@mediconnsolutions.com\", \"susan.parker@mediconnsolutions.com\", \"james.morgan@mediconnsolutions.com\", \"david.jones@mediconnsolutions.com\", \"peter.brown@mediconnsolutions.com\", \"linda.taylor@mediconnsolutions.com\", \"robert.wilson@mediconnsolutions.com\"], \"cc\": [], \"date\": \"2022-11-04 14:15:00\", \"body\": \"Dear Team, \\n\\nPlease review the attached document outlining the updated company policies. Let me know if you have any questions. \\n\\nBest, \\nMary\", \"folder\": \"sent\", \"read\": true, \"attachments\": [\"Company_Policies_Update.pdf\"]}\n{\"type\": \"email\", \"id\": \"email_005\", \"subject\": \"New Tech Implementation Training\", \"from\": \"peter.brown@mediconnsolutions.com\", \"from_name\": \"Peter Brown\", \"to\": [\"rachel.lee@mediconnsolutions.com\", \"susan.parker@mediconnsolutions.com\", \"james.morgan@mediconnsolutions.com\", \"david.jones@mediconnsolutions.com\", \"linda.taylor@mediconnsolutions.com\", \"robert.wilson@mediconnsolutions.com\"], \"cc\": [\"mary.johnson@mediconnsolutions.com\"], \"date\": \"2022-11-05 15:30:00\", \"body\": \"Team, \\n\\nI will be running a training session on our new tech implementation next Tuesday. Please make sure to block off your calendar. \\n\\nBest, \\nPeter\", \"folder\": \"sent\", \"read\": true, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_001\", \"subject\": \"Customer Experience Assessment\", \"from\": \"rachel.lee@mediconnsolutions.com\", \"from_name\": \"Rachel Lee\", \"to\": [\"james.morgan@mediconnsolutions.com\", \"susan.parker@mediconnsolutions.com\"], \"cc\": [\"mary.johnson@mediconnsolutions.com\"], \"date\": \"2024-12-15 10:30:00\", \"body\": \"Hi James and Susan,\\n\\nAs you might be aware, our recent patient experience report indicated that a significant portion of our patients are having difficulties with making appointments online and through our call centers. I'm writing to request your help in understanding whether the root cause is related to the functionality of our online booking tool or our call center processes.\\n\\nJames, could you please analyze our customer support data to determine the percentage of post-consultation inquiries that require staff to manually verify the consultation results for customers?\\n\\nSusan, I would appreciate your insights on the nature of the most common complaints received and what steps we could take to streamline our call center processes.\\n\\nLet's meet next week to discuss our findings and possible solutions.\\n\\nThanks,\\nRachel\", \"folder\": \"sent\", \"read\": true, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_002\", \"subject\": \"RE: Customer Experience Assessment\", \"from\": \"james.morgan@mediconnsolutions.com\", \"from_name\": \"James Morgan\", \"to\": [\"rachel.lee@mediconnsolutions.com\"], \"cc\": [\"susan.parker@mediconnsolutions.com\", \"mary.johnson@mediconnsolutions.com\"], \"date\": \"2024-12-17 15:45:00\", \"body\": \"Hello Rachel,\\n\\nI have completed the analysis of our customer support data. The Q4 2024 data shows that 45% of post-consultation inquiries are verified by support staff on the first contact with the customer. This indicates that a large portion of our customers are requiring additional support after their consultation.\\n\\nThis could be an indicator of issues with our online booking tool, as customers may not be able to easily view or understand their consultation results. We may need to consider improving the user interface or providing clearer instructions.\\n\\nRegards,\\nJames\", \"folder\": \"sent\", \"read\": true, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_003\", \"subject\": \"RE: Customer Experience Assessment\", \"from\": \"susan.parker@mediconnsolutions.com\", \"from_name\": \"Susan Parker\", \"to\": [\"rachel.lee@mediconnsolutions.com\"], \"cc\": [\"james.morgan@mediconnsolutions.com\", \"mary.johnson@mediconnsolutions.com\"], \"date\": \"2024-12-18 09:30:00\", \"body\": \"Good morning Rachel,\\n\\nBased on the feedback we've received, it appears that the main complaints revolve around difficulties in navigating our booking system, and not necessarily the call center processes. The call center staff has been instrumental in assisting customers with booking issues, but this isn't a sustainable or efficient solution in the long run.\\n\\nI suggest we focus on improving the user interface and simplifying the booking process to reduce the number of post-consultation inquiries that our staff needs to handle.\\n\\nBest,\\nSusan\", \"folder\": \"inbox\", \"read\": true, \"attachments\": []}",
+    "email_setup": [
+        {
+            "type": "user",
+            "username": "rachel.lee",
+            "first_name": "Rachel",
+            "last_name": "Lee",
+            "email": "rachel.lee@mediconnsolutions.com",
+            "password": "rachel_cs_director"
+        },
+        {
+            "type": "user",
+            "username": "james.morgan",
+            "first_name": "James",
+            "last_name": "Morgan",
+            "email": "james.morgan@mediconnsolutions.com",
+            "password": "james_data_analyst"
+        },
+        {
+            "type": "user",
+            "username": "susan.parker",
+            "first_name": "Susan",
+            "last_name": "Parker",
+            "email": "susan.parker@mediconnsolutions.com",
+            "password": "susan_support_manager"
+        },
+        {
+            "type": "user",
+            "username": "david.jones",
+            "first_name": "David",
+            "last_name": "Jones",
+            "email": "david.jones@mediconnsolutions.com",
+            "password": "david_healthcare_prof"
+        },
+        {
+            "type": "user",
+            "username": "mary.johnson",
+            "first_name": "Mary",
+            "last_name": "Johnson",
+            "email": "mary.johnson@mediconnsolutions.com",
+            "password": "mary_exec_asst"
+        },
+        {
+            "type": "user",
+            "username": "peter.brown",
+            "first_name": "Peter",
+            "last_name": "Brown",
+            "email": "peter.brown@mediconnsolutions.com",
+            "password": "peter_it_manager"
+        },
+        {
+            "type": "user",
+            "username": "linda.taylor",
+            "first_name": "Linda",
+            "last_name": "Taylor",
+            "email": "linda.taylor@mediconnsolutions.com",
+            "password": "linda_support_staff"
+        },
+        {
+            "type": "user",
+            "username": "robert.wilson",
+            "first_name": "Robert",
+            "last_name": "Wilson",
+            "email": "robert.wilson@mediconnsolutions.com",
+            "password": "robert_support_staff"
+        }
+    ],
+    "email_messages": [
+        {
+            "type": "email",
+            "id": "email_001",
+            "subject": "Team Meeting - Agenda",
+            "from": "rachel.lee@mediconnsolutions.com",
+            "from_name": "Rachel Lee",
+            "to": [
+                "susan.parker@mediconnsolutions.com",
+                "linda.taylor@mediconnsolutions.com",
+                "robert.wilson@mediconnsolutions.com"
+            ],
+            "cc": [
+                "mary.johnson@mediconnsolutions.com"
+            ],
+            "date": "2022-11-01 09:00:00",
+            "body": "Dear Team, \n\nPlease find the agenda for our upcoming team meeting attached. Let me know if you have any additions. \n\nBest, \nRachel",
+            "folder": "sent",
+            "read": true,
+            "attachments": [
+                "Meeting_Agenda.pdf"
+            ],
+            "tag": "distractor"
+        },
+        {
+            "type": "email",
+            "id": "email_002",
+            "subject": "Annual Budget Planning",
+            "from": "james.morgan@mediconnsolutions.com",
+            "from_name": "James Morgan",
+            "to": [
+                "rachel.lee@mediconnsolutions.com"
+            ],
+            "cc": [],
+            "date": "2022-11-02 10:30:00",
+            "body": "Hi Rachel, \n\nCan we schedule a call to discuss the budget allocation for the next fiscal year? I have some data that I think will be helpful. \n\nBest, \nJames",
+            "folder": "inbox",
+            "read": false,
+            "attachments": [],
+            "tag": "distractor"
+        },
+        {
+            "type": "email",
+            "id": "email_003",
+            "subject": "Customer Satisfaction Survey - Q4",
+            "from": "susan.parker@mediconnsolutions.com",
+            "from_name": "Susan Parker",
+            "to": [
+                "rachel.lee@mediconnsolutions.com"
+            ],
+            "cc": [],
+            "date": "2022-11-03 11:45:00",
+            "body": "Rachel, \n\nThe results from the Q4 customer satisfaction survey are in. I've attached the report for your review. \n\nBest, \nSusan",
+            "folder": "inbox",
+            "read": false,
+            "attachments": [
+                "Q4_Customer_Satisfaction_Report.pdf"
+            ],
+            "tag": "distractor"
+        },
+        {
+            "type": "email",
+            "id": "email_004",
+            "subject": "Policy Update Notification",
+            "from": "mary.johnson@mediconnsolutions.com",
+            "from_name": "Mary Johnson",
+            "to": [
+                "rachel.lee@mediconnsolutions.com",
+                "susan.parker@mediconnsolutions.com",
+                "james.morgan@mediconnsolutions.com",
+                "david.jones@mediconnsolutions.com",
+                "peter.brown@mediconnsolutions.com",
+                "linda.taylor@mediconnsolutions.com",
+                "robert.wilson@mediconnsolutions.com"
+            ],
+            "cc": [],
+            "date": "2022-11-04 14:15:00",
+            "body": "Dear Team, \n\nPlease review the attached document outlining the updated company policies. Let me know if you have any questions. \n\nBest, \nMary",
+            "folder": "sent",
+            "read": true,
+            "attachments": [
+                "Company_Policies_Update.pdf"
+            ],
+            "tag": "distractor"
+        },
+        {
+            "type": "email",
+            "id": "email_005",
+            "subject": "New Tech Implementation Training",
+            "from": "peter.brown@mediconnsolutions.com",
+            "from_name": "Peter Brown",
+            "to": [
+                "rachel.lee@mediconnsolutions.com",
+                "susan.parker@mediconnsolutions.com",
+                "james.morgan@mediconnsolutions.com",
+                "david.jones@mediconnsolutions.com",
+                "linda.taylor@mediconnsolutions.com",
+                "robert.wilson@mediconnsolutions.com"
+            ],
+            "cc": [
+                "mary.johnson@mediconnsolutions.com"
+            ],
+            "date": "2022-11-05 15:30:00",
+            "body": "Team, \n\nI will be running a training session on our new tech implementation next Tuesday. Please make sure to block off your calendar. \n\nBest, \nPeter",
+            "folder": "sent",
+            "read": true,
+            "attachments": [],
+            "tag": "distractor"
+        },
+        {
+            "type": "email",
+            "id": "email_001",
+            "subject": "Customer Experience Assessment",
+            "from": "rachel.lee@mediconnsolutions.com",
+            "from_name": "Rachel Lee",
+            "to": [
+                "james.morgan@mediconnsolutions.com",
+                "susan.parker@mediconnsolutions.com"
+            ],
+            "cc": [
+                "mary.johnson@mediconnsolutions.com"
+            ],
+            "date": "2024-12-15 10:30:00",
+            "body": "Hi James and Susan,\n\nAs you might be aware, our recent patient experience report indicated that a significant portion of our patients are having difficulties with making appointments online and through our call centers. I'm writing to request your help in understanding whether the root cause is related to the functionality of our online booking tool or our call center processes.\n\nJames, could you please analyze our customer support data to determine the percentage of post-consultation inquiries that require staff to manually verify the consultation results for customers?\n\nSusan, I would appreciate your insights on the nature of the most common complaints received and what steps we could take to streamline our call center processes.\n\nLet's meet next week to discuss our findings and possible solutions.\n\nThanks,\nRachel",
+            "folder": "sent",
+            "read": true,
+            "attachments": [],
+            "tag": "insight"
+        },
+        {
+            "type": "email",
+            "id": "email_002",
+            "subject": "RE: Customer Experience Assessment",
+            "from": "james.morgan@mediconnsolutions.com",
+            "from_name": "James Morgan",
+            "to": [
+                "rachel.lee@mediconnsolutions.com"
+            ],
+            "cc": [
+                "susan.parker@mediconnsolutions.com",
+                "mary.johnson@mediconnsolutions.com"
+            ],
+            "date": "2024-12-17 15:45:00",
+            "body": "Hello Rachel,\n\nI have completed the analysis of our customer support data. The Q4 2024 data shows that 45% of post-consultation inquiries are verified by support staff on the first contact with the customer. This indicates that a large portion of our customers are requiring additional support after their consultation.\n\nThis could be an indicator of issues with our online booking tool, as customers may not be able to easily view or understand their consultation results. We may need to consider improving the user interface or providing clearer instructions.\n\nRegards,\nJames",
+            "folder": "sent",
+            "read": true,
+            "attachments": [],
+            "tag": "insight"
+        },
+        {
+            "type": "email",
+            "id": "email_003",
+            "subject": "RE: Customer Experience Assessment",
+            "from": "susan.parker@mediconnsolutions.com",
+            "from_name": "Susan Parker",
+            "to": [
+                "rachel.lee@mediconnsolutions.com"
+            ],
+            "cc": [
+                "james.morgan@mediconnsolutions.com",
+                "mary.johnson@mediconnsolutions.com"
+            ],
+            "date": "2024-12-18 09:30:00",
+            "body": "Good morning Rachel,\n\nBased on the feedback we've received, it appears that the main complaints revolve around difficulties in navigating our booking system, and not necessarily the call center processes. The call center staff has been instrumental in assisting customers with booking issues, but this isn't a sustainable or efficient solution in the long run.\n\nI suggest we focus on improving the user interface and simplifying the booking process to reduce the number of post-consultation inquiries that our staff needs to handle.\n\nBest,\nSusan",
+            "folder": "inbox",
+            "read": true,
+            "attachments": [],
+            "tag": "insight"
+        }
+    ],
+    "file_format": "jsonl",
+    "file_path": ".llm_responses/generated_email_document.jsonl",
+    "qa_type": "distractor",
+    "timestamp": "2025-12-02 17:29",
+    "app": "email"
+}

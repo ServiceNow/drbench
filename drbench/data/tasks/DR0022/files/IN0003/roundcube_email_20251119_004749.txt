@@ -1,0 +1,148 @@
+================================================================================
+ROUNDCUBE EMAIL EXPORT
+================================================================================
+
+USERS:
+----------------------------------------
+• kevin.wong
+  Name: Kevin Wong
+  Email: kevin.wong@leesmarket.com
+
+• linda.chen
+  Name: Linda Chen
+  Email: linda.chen@leesmarket.com
+
+• michael.park
+  Name: Michael Park
+  Email: michael.park@leesmarket.com
+
+• jessica.kim
+  Name: Jessica Kim
+  Email: jessica.kim@leesmarket.com
+
+• peter.nguyen
+  Name: Peter Nguyen
+  Email: peter.nguyen@leesmarket.com
+
+• sarah.lee
+  Name: Sarah Lee
+  Email: sarah.lee@leesmarket.com
+
+• david.liu
+  Name: David Liu
+  Email: david.liu@leesmarket.com
+
+EMAILS:
+================================================================================
+Email ID: email_001
+Date: 2023-05-10 08:30:00
+From: Kevin Wong <kevin.wong@leesmarket.com>
+To: linda.chen@leesmarket.com, michael.park@leesmarket.com, jessica.kim@leesmarket.com, peter.nguyen@leesmarket.com, sarah.lee@leesmarket.com, david.liu@leesmarket.com
+Subject: Weekly IT Department Meeting
+Folder: inbox | Status: Read
+
+Message Body:
+----------------------------------------
+Dear team, our weekly department meeting is scheduled for Friday, May 12th at 10:00 AM in the boardroom. We will be discussing the current status of ongoing projects. Let's prepare to share updates on our respective tasks. Best, Kevin
+============================================================
+
+Email ID: email_002
+Date: 2023-05-15 14:00:00
+From: Linda Chen <linda.chen@leesmarket.com>
+To: kevin.wong@leesmarket.com
+Subject: Q2 Budget Review
+Folder: inbox | Status: Read
+Attachments: 1 file(s)
+
+Message Body:
+----------------------------------------
+Hi Kevin, I've finished reviewing the Q2 budget for IT operations. There are a few areas where we could possibly optimize spending. Let's set up a time to discuss. Best, Linda
+============================================================
+
+Email ID: email_003
+Date: 2023-05-18 10:30:00
+From: Michael Park <michael.park@leesmarket.com>
+To: kevin.wong@leesmarket.com
+Subject: POS Terminal Software Update
+Folder: inbox | Status: Read
+
+Message Body:
+----------------------------------------
+Kevin, The POS terminal software update has been successfully deployed across all stores. I will monitor the system performance over the next few days to ensure stability. Best, Michael
+============================================================
+
+Email ID: email_004
+Date: 2023-05-20 09:00:00
+From: Kevin Wong <kevin.wong@leesmarket.com>
+To: peter.nguyen@leesmarket.com, sarah.lee@leesmarket.com
+Subject: New Employee Onboarding
+Folder: inbox | Status: Read
+
+Message Body:
+----------------------------------------
+Peter, Sarah, we have a new hire joining the IT department next week. Let's put together an onboarding schedule to get them up to speed with our systems and processes. Best, Kevin
+============================================================
+
+Email ID: email_001
+Date: 2025-10-30 10:30:00
+From: David Liu <david.liu@leesmarket.com>
+To: kevin.wong@leesmarket.com
+CC: linda.chen@leesmarket.com
+Subject: Service Desk Email Volume Analysis
+Folder: inbox | Status: Read
+Attachments: 1 file(s)
+
+Message Body:
+----------------------------------------
+Hi Kevin,
+
+As per your request, I've analyzed our service desk email volumes over the past few months. It appears that we're experiencing peaks on Monday mornings and Friday afternoons, typically within two hours after system updates.
+
+I've attached a detailed report for your review. Let's discuss potential strategies to manage these spikes more effectively.
+
+Best,
+David
+============================================================
+
+Email ID: email_002
+Date: 2025-10-30 11:15:00
+From: Kevin Wong <kevin.wong@leesmarket.com>
+To: david.liu@leesmarket.com
+CC: linda.chen@leesmarket.com
+Subject: Re: Service Desk Email Volume Analysis
+Folder: inbox | Status: Read
+
+Message Body:
+----------------------------------------
+Thanks for the analysis, David.
+
+The peaks on Monday morning and Friday afternoon make sense as these are usually our busiest times. It's also interesting to note the correlation with system updates. I'll bring up these findings in our next operations meeting and propose workflow improvements to manage the spikes.
+
+Thanks again for your hard work on this.
+
+Best,
+Kevin
+============================================================
+
+Email ID: email_003
+Date: 2025-10-30 12:00:00
+From: Linda Chen <linda.chen@leesmarket.com>
+To: kevin.wong@leesmarket.com, david.liu@leesmarket.com
+Subject: Re: Service Desk Email Volume Analysis
+Folder: inbox | Status: Read
+
+Message Body:
+----------------------------------------
+Hi Kevin and David,
+
+Great to see the insights from the analysis. Identifying these spikes will definitely help us plan workflow improvements. Maybe we can also look at enhancing our communication around system updates, possibly providing more guidance to help reduce queries during these periods.
+
+We'll discuss it further in the operations meeting.
+
+Best,
+Linda
+============================================================
+
+================================================================================
+END OF EMAIL EXPORT
+================================================================================

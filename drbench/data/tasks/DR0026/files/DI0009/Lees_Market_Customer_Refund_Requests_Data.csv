@@ -1,0 +1,13 @@
+Year,Quarter,Refund_Reason,Refund_Count,Store_Name
+The year when the refund requests were made,The quarter of the year when the refund requests were made,"The reason for the refund request. In this case, incorrect pricing",The number of refund requests made for the reason specified,"The name of the store where the refund requests were made. In this case, Lee's Market"
+2021,Q1,Incorrect Pricing,10,Lee's Market
+2022,Q2,Incorrect Pricing,35,Lee's Market
+2022,Q3,Incorrect Pricing,40,Lee's Market
+2022,Q4,Incorrect Pricing,45,Lee's Market
+2021,Q4,Incorrect Pricing,25,Lee's Market
+2023,Q2,Incorrect Pricing,55,Lee's Market
+2021,Q2,Incorrect Pricing,15,Lee's Market
+2022,Q1,Incorrect Pricing,30,Lee's Market
+2024,Q4,Incorrect Pricing,95,Lee's Market
+2021,Q3,Incorrect Pricing,20,Lee's Market
+2023,Q1,Incorrect Pricing,50,Lee's Market

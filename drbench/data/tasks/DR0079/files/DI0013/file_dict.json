@@ -1,0 +1,81 @@
+{
+    "file_name": "sales-response-analysis",
+    "file_title": "Q2 2024 Sales Response Analysis",
+    "introduction": "This presentation will explore our sales team's performance in terms of customer inquiry response times during Q2 2024, a period marked by competitor EV launches. We will examine the measures taken, challenges faced, and opportunities for improvement.",
+    "subsections": [
+        {
+            "heading": "Competitor EV Launches Overview",
+            "content": "\u2022 Tesla introduced Model Z in April 2024, focusing on the luxury EV market segment\n\u2022 Rivian released R2X, their second all-electric SUV, in May 2024, targeting outdoor enthusiasts\n\u2022 GM released an upgraded version of the Bolt in June 2024, emphasizing affordability\n\u2022 Ford announced an all-electric version of their popular F-150 truck, expected in Q3 2024\n\u2022 Lucid Motors expanded their Air lineup with a new Sedan model in June 2024\n\u2022 Volkswagen introduced ID.4 GTX, a performance-focused variant of their ID.4 model in May 2024",
+            "type": "distractor",
+            "justification": "While this content provides an overview of competitors' EV launches, it does not discuss Elexion's customer response times."
+        },
+        {
+            "heading": "Customer Inquiry Response Time Analysis",
+            "content": "\u2022 Average response time for all EV companies is 12 hours\n\u2022 Top performers in customer response are Tesla and BMW, with an average response time of 10 hours\n\u2022 The industry saw an overall 5% increase in response time from Q1 to Q2 2024\n\u2022 Elexion's customer support team size increased by 20% in Q2 2024\n\u2022 The highest volume of inquiries comes in the first week following a new vehicle launch\n\u2022 Elexion's customer inquiry response time tends to be longer during weekends and public holidays",
+            "type": "distractor",
+            "justification": "This slide discusses general response times but does not specifically address Elexion's response times after competitor EV launches."
+        },
+        {
+            "heading": "Strategies for Improvement",
+            "content": "\u2022 Implement a new CRM system to automate and streamline customer inquiries\n\u2022 Increase customer support team size to handle increased volume during product launches\n\u2022 Develop an FAQ section on the website to address common customer inquiries\n\u2022 Provide regular training to the customer support team on new product features\n\u2022 Introducing a live chat feature on the website for immediate customer assistance\n\u2022 Implementing a 24/7 customer support service to improve response times",
+            "type": "distractor",
+            "justification": "This slide suggests strategies for improving response times generally but does not focus on the response time after competitor EV launches."
+        }
+    ],
+    "conclusion": "Our ability to respond promptly to customer inquiries greatly affects our market position, especially during competitive product launches. Moving forward, we need to streamline our response processes and invest in training to ensure we maintain our competitive edge.",
+    "file_format": "pptx",
+    "file_path": ".llm_responses/generated_pptx_presentation.pptx",
+    "qa_type": "distractor",
+    "timestamp": "2025-11-20 03:44",
+    "image_queries": [
+        {
+            "slide_title": "Introduction",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "intentionally_clean",
+            "slide_type": "introduction"
+        },
+        {
+            "slide_title": "Competitor EV Launches Overview",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 6,
+            "total_chars": 512,
+            "probability": 0.25,
+            "theme": "Modern Orange"
+        },
+        {
+            "slide_title": "Customer Inquiry Response Time Analysis",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "failed",
+            "slide_type": "distractor",
+            "content_length": 6,
+            "total_chars": 470,
+            "error": "'str' object has no attribute 'choices'",
+            "theme": "Modern Orange"
+        },
+        {
+            "slide_title": "Strategies for Improvement",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "failed",
+            "slide_type": "distractor",
+            "content_length": 6,
+            "total_chars": 459,
+            "error": "'str' object has no attribute 'choices'",
+            "theme": "Modern Orange"
+        },
+        {
+            "slide_title": "Conclusion",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "strategic_clean_conclusion",
+            "slide_type": "conclusion",
+            "theme": "Modern Orange"
+        }
+    ],
+    "app": "file_system"
+}

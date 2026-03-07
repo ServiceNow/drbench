@@ -1,0 +1,10 @@
+{
+    "insight_id": "DI0003",
+    "qa_type": "distractor",
+    "qa_index": 3,
+    "specific_question": "How many API authentication log entries did the cybersecurity specialist at MediConn manually review on July 15, 2025?",
+    "answer": "On July 15, 2025, the cybersecurity specialist manually reviewed 180 API authentication log entries across MediConn\u2019s virtual healthcare platform as part of a high-level spot check to verify that no third-party integrations were using expired or duplicated access tokens.",
+    "justification": "",
+    "timestamp": "2025-11-20 00:36",
+    "dr_question": "By Q4 2025, how can MediConn Solutions integrate the HHS Cybersecurity Performance Goals (CPGs) into its virtual healthcare platform to ensure compliance for both internal systems and third-party vendors, while effectively mitigating emerging cyber threats?"
+}

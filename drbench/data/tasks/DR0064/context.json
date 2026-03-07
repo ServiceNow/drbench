@@ -1,0 +1,57 @@
+{
+    "company_info": {
+        "name": "Elexion Automotive",
+        "industry": "Automotive -- Electric Vehicles",
+        "size": "Enterprise",
+        "founded_year": 2010,
+        "headquarters": "Austin, Texas, USA",
+        "description": "Elexion Automotive designs and manufactures premium and mid-range electric vehicles tailored for the North American market. With a focus on sustainability, user-centric technology, and cross-border compliance, Elexion aims to accelerate the transition to zero-emission transportation.",
+        "key_products_services": [
+            "Electric vehicles",
+            "Plug-in hybrid electric vehicles",
+            "Home charging stations"
+        ],
+        "target_markets": [
+            "Mid-income families in North America",
+            "Provincial and municipal governments"
+        ],
+        "annual_revenue": "$350M - $500M",
+        "employee_count": 1900,
+        "compliance_certifications": [
+            "EPA Greenhouse Gas Emissions Compliance",
+            "Motor Vehicle Safety Oversight Program",
+            "CARB Zero-Emission Vehicle (ZEV) Program",
+            "ISO 26262 – Road Vehicles Functional Safety"
+        ],
+        "market_position": "Elexion is an emerging force in the North American EV market, offering affordable and high-performance electric vehicles with regulatory-first design and localized production."
+    },
+    "persona": {
+        "role": "Director of Sales Operations",
+        "department": "Sales",
+        "name": "Amanda Lee",
+        "first_name": "Amanda",
+        "last_name": "Lee",
+        "email": "amanda.lee@elexionautomotive.com",
+        "seniority": "Senior",
+        "responsibilities": "Develop and implement sales processes, manage CRM systems, and analyze sales data to inform business decisions.",
+        "id": "MNG0003",
+        "domain": "sales",
+        "justification": "As the director of sales operations, Amanda is responsible for ensuring the sales team has the necessary tools and processes to succeed. Researching sales processes helps her identify opportunities to improve collaboration between CRM and service platforms, reducing friction and driving revenue growth.",
+        "username": "amanda.lee"
+    },
+    "url": {
+        "url": "https://theweek.com/us/1024416/tesla-vs-car-dealerships",
+        "domain": "Sales",
+        "industry": "automotive -- electric vehicles",
+        "example_dr_questions": [
+            "What is the potential increase in average revenue per customer that Elexion Automotive could achieve if dealer markups were eliminated through direct-to-customer sales based on their competitor's experiences?",
+            "When and why did organized dealer opposition begin a state-by-state campaign to prevent Tesla's direct-to-customer sales model?"
+        ],
+        "insights": [
+            "Based on Tesla's direct-to-customer sales, which have been operational since 2013 showcased in the Event article, increased profitability by avoiding dealer markups. The article further noted that this profitability ranges from a few hundred dollars to $20,000 or more.",
+            "Auto dealers launched a state-by-state campaign in 2014 to block Tesla's direct sales entry in the U.S., arguing that direct sales and service were prohibited by existing law."
+        ],
+        "date": "2025-11-19"
+    },
+    "timestamp": "2025-10-30 00:00"
+}

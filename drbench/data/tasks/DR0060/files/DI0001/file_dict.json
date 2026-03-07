@@ -1,0 +1,81 @@
+{
+    "file_name": "cybersecurity-analysis-2025",
+    "file_title": "MediConn Cybersecurity Analysis: Q1-Q3 2025",
+    "introduction": "This presentation provides a thorough analysis of our cybersecurity measures and practices, focusing particularly on our vulnerability scans conducted between January and September 2025.",
+    "subsections": [
+        {
+            "heading": "Cybersecurity Landscape in Virtual Healthcare",
+            "content": "\u2022 Rapid digitalization has increased the potential attack surface for cyber threats in the healthcare sector\n\u2022 In 2024, the healthcare sector was the most targeted industry for cyber threats\n\u2022 The advent of the Internet of Medical Things (IoMT) has introduced new vulnerabilities\n\u2022 Regulatory compliance, such as HIPAA and PIPEDA, are becoming more stringent\n\u2022 Cybersecurity insurance is becoming a necessity for virtual healthcare providers\n\u2022 Traditional security measures such as firewalls and antivirus software are no longer sufficient\n\u2022 Investment in cybersecurity is projected to increase by 15% in 2026",
+            "type": "distractor",
+            "justification": "The slide discusses trends and issues in the cybersecurity landscape, but does not provide information on the number of vulnerability scans MediConn conducted in 2025."
+        },
+        {
+            "heading": "Vulnerability Scans: Q1-Q3 2025 Overview",
+            "content": "\u2022 Vulnerability scans are an essential part of our cybersecurity strategy\n\u2022 We use a combination of automated and manual scans to ensure comprehensive coverage\n\u2022 Our scans are designed to identify weaknesses in our network, systems, and applications\n\u2022 We prioritize remediation efforts based on the severity of the vulnerabilities identified\n\u2022 Our vulnerability scanning processes are compliant with industry standards and regulations\n\u2022 In addition to scheduled scans, we conduct ad-hoc scans in response to specific threats or incidents\n\u2022 Our cybersecurity team regularly reviews and updates our scanning tools and methodologies",
+            "type": "distractor",
+            "justification": "This slide discusses the process and importance of vulnerability scans, but does not reveal how many scans were conducted during the specified period."
+        },
+        {
+            "heading": "Improvements & Recommendations for Cybersecurity",
+            "content": "\u2022 We recommend implementing a Security Information and Event Management (SIEM) system\n\u2022 Regular security awareness training for all staff is crucial\n\u2022 We should consider adopting a zero-trust security model\n\u2022 An Incident Response Plan (IRP) needs to be developed and regularly updated\n\u2022 Implementing multi-factor authentication can significantly reduce the risk of unauthorized access\n\u2022 Regular audits of our cybersecurity practices and systems are necessary\n\u2022 We should explore the use of Artificial Intelligence (AI) in threat detection and response",
+            "type": "distractor",
+            "justification": "Though this slide discusses improvements and recommendations for cybersecurity, it doesn't provide specific data on the number of vulnerability scans conducted in 2025."
+        }
+    ],
+    "conclusion": "The data analyzed shows our robust commitment to cybersecurity. Moving forward, we recommend increased frequency of vulnerability scans and continued investment in high-quality cybersecurity measures.",
+    "file_format": "pptx",
+    "file_path": ".llm_responses/generated_pptx_presentation.pptx",
+    "qa_type": "distractor",
+    "timestamp": "2025-11-20 00:29",
+    "image_queries": [
+        {
+            "slide_title": "Introduction",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "intentionally_clean",
+            "slide_type": "introduction"
+        },
+        {
+            "slide_title": "Cybersecurity Landscape in Virtual Healthcare",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "failed",
+            "slide_type": "distractor",
+            "content_length": 7,
+            "total_chars": 589,
+            "error": "'str' object has no attribute 'choices'",
+            "theme": "Professional Green"
+        },
+        {
+            "slide_title": "Vulnerability Scans: Q1-Q3 2025 Overview",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "failed",
+            "slide_type": "distractor",
+            "content_length": 7,
+            "total_chars": 609,
+            "error": "'str' object has no attribute 'choices'",
+            "theme": "Professional Green"
+        },
+        {
+            "slide_title": "Improvements & Recommendations for Cybersecurity",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 7,
+            "total_chars": 531,
+            "probability": 0.25,
+            "theme": "Professional Green"
+        },
+        {
+            "slide_title": "Conclusion",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "strategic_clean_conclusion",
+            "slide_type": "conclusion",
+            "theme": "Professional Green"
+        }
+    ],
+    "app": "file_system"
+}

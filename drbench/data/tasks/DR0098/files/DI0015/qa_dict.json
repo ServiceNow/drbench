@@ -1,0 +1,10 @@
+{
+    "insight_id": "DI0015",
+    "qa_type": "distractor",
+    "qa_index": 15,
+    "specific_question": "What was the increase (in %) in Lee's Market's aided brand awareness among Asian-Canadian households from 2024 to 2025?",
+    "answer": "Lee's Market increased its aided brand awareness among Asian-Canadian households from 61% in 2024 to 68% in 2025, thus noting a 7% increase.",
+    "justification": "This data is not relevant because it focuses on brand recognition, which measures market presence, but doesn't show product-level sales performance under tariff pressure. Lee's Market cannot use this data to gauge which product categories are experiencing tariff-driven sales declines or to readjust short-term sales projections and promotion planning. This data is a brand equity metric that does not affect product sales impact analysis.",
+    "timestamp": "2025-11-21 13:08",
+    "dr_question": "Given the drop in Canadian retail sales brought on by US tariffs in 2025, what insights should Lee\u2019s Market derive from product-level sales trends across tariff-exposed and tariff-insulated categories to update sales forecasts by 2027?"
+}

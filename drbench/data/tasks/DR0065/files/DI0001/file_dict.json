@@ -1,0 +1,82 @@
+{
+    "file_name": "crm-sales-productivity",
+    "file_title": "CRM Impact on Sales Productivity",
+    "introduction": "This presentation highlights the impact of our new CRM system on sales team productivity. We will explore related metrics and trends that have emerged since its implementation.",
+    "subsections": [
+        {
+            "heading": "Overview of CRM Implementation Process",
+            "content": "\u2022 The CRM implementation process was initiated on January 3, 2024\n\u2022 The vendor selected was Globex CRM solutions, a leader in the industry\n\u2022 The implementation team was composed of members from IT, Sales, and Marketing departments\n\u2022 A phased implementation approach was taken to minimize disruptions\n\u2022 User training sessions were conducted from January 20 to February 5, 2024\n\u2022 Data migration from the old system to the new CRM was completed by January 25, 2024\n\u2022 The new CRM system was officially launched on February 8, 2024\n\u2022 Post-implementation support was provided by the IT department and the vendor",
+            "type": "distractor",
+            "justification": "While this slide outlines the CRM implementation process, it does not provide data on how it affected sales team productivity."
+        },
+        {
+            "heading": "Sales Team Productivity Metrics Post-Implementation",
+            "content": "\u2022 The sales team consists of 120 members, spread across North America\n\u2022 The average number of client interactions per sales rep increased by 30% after CRM implementation\n\u2022 The response time to client inquiries improved by 25%\n\u2022 The sales team reduced the time spent on administrative tasks by 20%\n\u2022 The number of leads generated increased by 15% in March 2024 compared to the same month the previous year\n\u2022 The sales team achieved 110% of their Q1 2024 target\n\u2022 The customer retention rate improved by 18% in Q1 2024 compared to Q1 2023",
+            "type": "distractor",
+            "justification": "The slide presents general productivity metrics post-implementation, but not the specific percentage increase in productivity due to the CRM."
+        },
+        {
+            "heading": "CRM System's Role in Sales Performance",
+            "content": "\u2022 The new CRM system provides real-time access to customer data\n\u2022 It features artificial intelligence to predict sales trends and customer behavior\n\u2022 The system has improved data accuracy and reduced manual data entry errors\n\u2022 The CRM system has enhanced the sales team's ability to track and manage leads\n\u2022 It has improved the sales team's collaboration and communication\n\u2022 The system has facilitated better reporting and decision-making\n\u2022 It has streamlined sales processes and reduced administrative overhead",
+            "type": "distractor",
+            "justification": "This slide discusses the benefits and features of the CRM system, but not how it specifically increased sales team productivity."
+        }
+    ],
+    "conclusion": "The CRM system has significantly improved sales team productivity. We will continue to leverage this tool to drive performance and achieve our sales goals.",
+    "file_format": "pptx",
+    "file_path": ".llm_responses/generated_pptx_presentation.pptx",
+    "qa_type": "distractor",
+    "timestamp": "2025-11-20 01:40",
+    "image_queries": [
+        {
+            "slide_title": "Introduction",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "intentionally_clean",
+            "slide_type": "introduction"
+        },
+        {
+            "slide_title": "Overview of CRM Implementation Process",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "failed",
+            "slide_type": "distractor",
+            "content_length": 7,
+            "total_chars": 506,
+            "error": "'str' object has no attribute 'choices'",
+            "theme": "Classic Navy"
+        },
+        {
+            "slide_title": "Sales Team Productivity Metrics Post-Implementation",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 7,
+            "total_chars": 516,
+            "probability": 0.25,
+            "theme": "Classic Navy"
+        },
+        {
+            "slide_title": "CRM System's Role in Sales Performance",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "failed",
+            "slide_type": "distractor",
+            "content_length": 7,
+            "total_chars": 491,
+            "error": "'str' object has no attribute 'choices'",
+            "theme": "Classic Navy"
+        },
+        {
+            "slide_title": "Conclusion",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "conclusion_failed",
+            "slide_type": "conclusion",
+            "error": "'str' object has no attribute 'choices'",
+            "theme": "Classic Navy"
+        }
+    ],
+    "app": "nextcloud"
+}

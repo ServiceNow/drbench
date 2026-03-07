@@ -1,0 +1,82 @@
+{
+    "file_name": "employee-satisfaction-survey",
+    "file_title": "Employee Development & Satisfaction Survey Q4 2024",
+    "introduction": "This presentation will provide insights into our marketing team's engagement with the new certification training program. It will highlight their motivations for participation and areas for improvement in our employee development initiatives.",
+    "subsections": [
+        {
+            "heading": "Overview of Employee Certification Training Participation",
+            "content": "\u2022 The certification training program was initiated in Q1 2024\n\u2022 As of Q4 2024, 68% of the overall workforce have enrolled in the program\n\u2022 32% of enrolled employees are from the operations team\n\u2022 14% of participants have completed the program and received certification\n\u2022 The average completion time for the program is 4.5 months\n\u2022 Participants have shown a 10% improvement in task efficiency post certification\n\u2022 The HR team is planning to introduce advanced levels in the certification program in Q1 2025",
+            "type": "distractor",
+            "justification": "The content provides overall program participation data and doesn't answer the DR Question focusing on copywriters' motivations."
+        },
+        {
+            "heading": "Motivations for Engaging in Professional Development",
+            "content": "\u2022 90% of employees engage in professional development for improved job performance\n\u2022 70% of employees seek professional development to adapt to changing job roles\n\u2022 Professional development has been linked to a 15% increase in employee retention\n\u2022 60% of employees feel professional development improves job satisfaction\n\u2022 The customer service team has shown the highest interest in professional development programs\n\u2022 Employee performance reviews indicate a positive correlation between professional development and job efficiency",
+            "type": "distractor",
+            "justification": "This slide discusses general motivations for professional development, not specific reasons cited by the copywriting team."
+        },
+        {
+            "heading": "Addressing Training Deficiencies & Career Advancement Concerns",
+            "content": "\u2022 In 2023, a 5-step career development plan was introduced for all employees\n\u2022 The HR team conducts career advancement workshops on a quarterly basis\n\u2022 An employee mentorship program was initiated in Q2 2024 to address training deficiencies\n\u2022 80% of employees have reported improved clarity on their career path since the introduction of the 5-step plan\n\u2022 The company has seen a 10% increase in internal promotions since the 5-step plan implementation\n\u2022 A 'Training Need Analysis' is conducted annually to identify and address training gaps",
+            "type": "distractor",
+            "justification": "The content focuses on the company's efforts to tackle training deficiencies and career concerns, not the specific concerns of the copywriting team."
+        }
+    ],
+    "conclusion": "Understanding our team's drive for career advancement and need for comprehensive training is key to refining our employee development program. Let's use this insight to create a more robust, career-enhancing training environment for our marketing team.",
+    "file_format": "pptx",
+    "file_path": ".llm_responses/generated_pptx_presentation.pptx",
+    "qa_type": "distractor",
+    "timestamp": "2025-11-19 02:37",
+    "image_queries": [
+        {
+            "slide_title": "Introduction",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "intentionally_clean",
+            "slide_type": "introduction"
+        },
+        {
+            "slide_title": "Overview of Employee Certification Training Participation",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "failed",
+            "slide_type": "distractor",
+            "content_length": 7,
+            "total_chars": 486,
+            "error": "'str' object has no attribute 'choices'",
+            "theme": "Elegant Teal"
+        },
+        {
+            "slide_title": "Motivations for Engaging in Professional Development",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 6,
+            "total_chars": 514,
+            "probability": 0.25,
+            "theme": "Elegant Teal"
+        },
+        {
+            "slide_title": "Addressing Training Deficiencies & Career Advancement Concerns",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 6,
+            "total_chars": 523,
+            "probability": 0.25,
+            "theme": "Elegant Teal"
+        },
+        {
+            "slide_title": "Conclusion",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "conclusion_failed",
+            "slide_type": "conclusion",
+            "error": "'str' object has no attribute 'choices'",
+            "theme": "Elegant Teal"
+        }
+    ],
+    "app": "file_system"
+}

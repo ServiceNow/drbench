@@ -1,0 +1,81 @@
+{
+    "file_name": "march-2025-workforce-report",
+    "file_title": "Workforce Dynamics: March 2025 Report",
+    "introduction": "This presentation will examine the changes in our workforce during March 2025. We will focus on employment adjustments and their impact on Lee's Market.",
+    "subsections": [
+        {
+            "heading": "Overview of Workforce Changes",
+            "content": "\u2022 Lee's Market expanded its workforce by 15% in 2024\n\u2022 20% of hires were for the logistics department to improve supply chain efficiency\n\u2022 We implemented a new employee training program in Q1 of 2025\n\u2022 Average employee tenure at Lee's Market is 5 years\n\u2022 Employee turnover rate saw a 2% increase in Q4 of 2024\n\u2022 We boosted our focus on employee benefits and wellness in 2025",
+            "type": "distractor",
+            "justification": "These points provide an overview of overall workforce changes but do not specify job losses in March 2025."
+        },
+        {
+            "heading": "Analysis of Job Losses in March",
+            "content": "\u2022 Total job losses in the retail industry increased by 3% in Q1 2025\n\u2022 Unemployment rates in British Columbia were higher in Q1 2025 compared to the prior year\n\u2022 The grocery sector was less impacted by job losses compared to other retail sectors\n\u2022 Job losses were higher in companies with over 10,000 employees\n\u2022 Online retail companies saw a decrease in job losses in March 2025",
+            "type": "distractor",
+            "justification": "These points discuss job losses in a broader context, but do not provide specifics about Lee's Market in March 2025."
+        },
+        {
+            "heading": "Impact on Operational Efficiency",
+            "content": "\u2022 Our investment in automation led to a 10% increase in operational efficiency in 2024\n\u2022 The new inventory management system reduced stock discrepancies by 5% in Q1 2025\n\u2022 We improved our order fulfillment rate by 7% in March 2025\n\u2022 Customer satisfaction scores related to product availability increased by 8% in Q1 2025\n\u2022 Our new delivery partnership reduced shipping times by 15% in March 2025",
+            "type": "distractor",
+            "justification": "These points discuss operational efficiency but do not address job losses in Lee's Market in March 2025."
+        }
+    ],
+    "conclusion": "The workforce adjustment in March has affected our operations, and it is necessary to strategically plan for future staffing needs. Let's discuss and explore potential strategies to mitigate these impacts moving forward.",
+    "file_format": "pptx",
+    "file_path": ".llm_responses/generated_pptx_presentation.pptx",
+    "qa_type": "distractor",
+    "timestamp": "2025-11-20 14:56",
+    "image_queries": [
+        {
+            "slide_title": "Introduction",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "intentionally_clean",
+            "slide_type": "introduction"
+        },
+        {
+            "slide_title": "Overview of Workforce Changes",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "failed",
+            "slide_type": "distractor",
+            "content_length": 6,
+            "total_chars": 357,
+            "error": "'str' object has no attribute 'choices'",
+            "theme": "Classic Navy"
+        },
+        {
+            "slide_title": "Analysis of Job Losses in March",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 5,
+            "total_chars": 365,
+            "probability": 0.25,
+            "theme": "Classic Navy"
+        },
+        {
+            "slide_title": "Impact on Operational Efficiency",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 5,
+            "total_chars": 381,
+            "probability": 0.25,
+            "theme": "Classic Navy"
+        },
+        {
+            "slide_title": "Conclusion",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "strategic_clean_conclusion",
+            "slide_type": "conclusion",
+            "theme": "Classic Navy"
+        }
+    ],
+    "app": "file_system"
+}

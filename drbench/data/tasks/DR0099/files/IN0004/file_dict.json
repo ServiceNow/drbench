@@ -1,0 +1,82 @@
+{
+    "file_name": "zev-compliance-update",
+    "file_title": "Compliance Framework Update for ZEV Mandate",
+    "introduction": "As we continue to expand our operations, we must align our compliance documentation with the revised Zero Emission Vehicle (ZEV) mandate in Canada. This presentation outlines our proposed strategy to verify and record supply-chain investment credits by 2026.",
+    "subsections": [
+        {
+            "heading": "Understanding Canada's Revised ZEV Mandate",
+            "content": "\u2022 As of Q1 2026, Elexion Automotive has successfully automated 72% of its supply-chain compliance data capture.\n\u2022 The current framework leverages digital traceability systems such as ERP and supplier portals for documentation.\n\u2022 The high level of automation reduces the necessity for manual documentation, saving time and resources.\n\u2022 However, there's still 28% of the process that remains manual, indicating room for further integration.\n\u2022 The remaining integration effort will involve a combination of APIs and supplier onboarding to achieve audit-grade unified reporting.\n\u2022 The automation share is a key determinant of the effort needed to update the compliance documentation framework for the revised ZEV mandate.\n\u2022 An efficient automation strategy will facilitate verification and recording of supply-chain investment credits under Canada's new regulations.",
+            "type": "insight",
+            "justification": "This content outlines Elexion's current automation status and future steps required for compliance with Canada's revised ZEV mandate."
+        },
+        {
+            "heading": "Implications on Elexion Automotive's Supply Chain",
+            "content": "\u2022 Outline of Elexion's current global supply chain structure\n\u2022 Description of Elexion's vehicle production process\n\u2022 Analysis of Elexion's supply chain efficiency metrics\n\u2022 Overview of Elexion's supplier relationship management strategies\n\u2022 Discussion on potential effects of trade tariffs on Elexion's supply chain",
+            "type": "distractor",
+            "justification": "The slide details Elexion's supply chain but does not discuss how Canada's ZEV mandate affects investment credits within it."
+        },
+        {
+            "heading": "Proposed Compliance Documentation Framework",
+            "content": "\u2022 Overview of Elexion's current compliance documentation process\n\u2022 Examination of best practices for compliance documentation in the auto industry\n\u2022 Description of Elexion's internal audit process for compliance\n\u2022 Breakdown of resources allocated to Elexion's compliance department\n\u2022 Analysis of recent compliance issues Elexion has faced",
+            "type": "distractor",
+            "justification": "The content discusses Elexion's overall compliance processes but does not focus on updating the framework for the specific issue of verifying and recording investment credits under Canada's ZEV mandate."
+        }
+    ],
+    "conclusion": "Implementing these changes will ensure Elexion Automotive remains compliant with the updated ZEV mandate in Canada. Moving forward, we must consistently review and update our documentation framework to reflect any further regulatory changes.",
+    "file_format": "pptx",
+    "file_path": ".llm_responses/generated_pptx_presentation.pptx",
+    "qa_type": "insight",
+    "timestamp": "2025-11-21 13:20",
+    "image_queries": [
+        {
+            "slide_title": "Introduction",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "intentionally_clean",
+            "slide_type": "introduction"
+        },
+        {
+            "slide_title": "Understanding Canada's Revised ZEV Mandate",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "insight",
+            "content_length": 7,
+            "total_chars": 842,
+            "probability": 0.25,
+            "theme": "Professional Green"
+        },
+        {
+            "slide_title": "Implications on Elexion Automotive's Supply Chain",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "failed",
+            "slide_type": "distractor",
+            "content_length": 5,
+            "total_chars": 301,
+            "error": "'str' object has no attribute 'choices'",
+            "theme": "Professional Green"
+        },
+        {
+            "slide_title": "Proposed Compliance Documentation Framework",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 5,
+            "total_chars": 324,
+            "probability": 0.45,
+            "theme": "Professional Green"
+        },
+        {
+            "slide_title": "Conclusion",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "conclusion_failed",
+            "slide_type": "conclusion",
+            "error": "'str' object has no attribute 'choices'",
+            "theme": "Professional Green"
+        }
+    ],
+    "app": "file_system"
+}

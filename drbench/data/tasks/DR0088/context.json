@@ -1,0 +1,28 @@
+{
+    "company_info": {
+        "name": "MediConn Solutions (Vancouver, Canada, $50M - $100M, 250 employees)",
+        "industry": "Virtual/Remote Healthcare",
+        "description": "A company in the Virtual/Remote Healthcare industry",
+        "size": "medium",
+        "employee_count": "100-500",
+        "annual_revenue": "Not specified"
+    },
+    "persona": {
+        "name": "Jordan Lee",
+        "first_name": "Jordan",
+        "last_name": "Lee",
+        "username": "jordan.lee",
+        "email": "jordan.lee@mediconnsolutions.com",
+        "role": "Cybersecurity Analyst",
+        "role_description": "Monitors security alerts and incidents, assists in vulnerability assessments, and supports implementation of security controls for patient data protection"
+    },
+    "url": {
+        "url": "https://www.canada.ca/en/public-safety-canada/news/2025/08/government-of-canada-launches-cyber-security-cooperation-program-2025.html",
+        "domain": "Cybersecurity",
+        "industry": "virtual/remote healthcare",
+        "example_dr_questions": [],
+        "insights": [],
+        "date": "2025-11-21"
+    },
+    "timestamp": "2025-10-24 00:00"
+}

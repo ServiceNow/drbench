@@ -1,0 +1,81 @@
+{
+    "file_name": "api-development-progress",
+    "file_title": "MediConn's API Development Progress 2025",
+    "introduction": "Today, we'll be reviewing the API development progress achieved by our team up until Q3 2025. This information will provide us valuable insights into our ongoing tech initiatives.",
+    "subsections": [
+        {
+            "heading": "API Development Roadmap Overview",
+            "content": "\u2022 The roadmap began with a comprehensive industry study in 2024\n\u2022 It was decided to adopt a hybrid model of in-house and outsourced API development\n\u2022 The roadmap has been designed to align with regulatory changes in the healthcare industry\n\u2022 A phased approach was adopted for developing APIs, focusing first on core functionalities\n\u2022 A dedicated team was established in 2024 to oversee the roadmap\n\u2022 The roadmap aims to strengthen our competitive position in the virtual healthcare industry\n\u2022 The roadmap is periodically reviewed and updated to reflect changes in the business or technology landscape",
+            "type": "distractor",
+            "justification": "The content provides an overview of the API development roadmap and does not provide information on the number of APIs developed internally by Q3 2025."
+        },
+        {
+            "heading": "Internal API Development Progress",
+            "content": "\u2022 The development process is guided by Agile methodologies\n\u2022 Regular sprint reviews are conducted to evaluate progress\n\u2022 There is a strong emphasis on security best practices during development\n\u2022 The team has adopted a DevOps culture to improve collaboration between development and operations teams\n\u2022 The development team has regular training sessions to keep up with latest industry trends\n\u2022 The team has demonstrated a strong commitment to comply with healthcare data privacy regulations\n\u2022 A robust testing and quality assurance process is in place to ensure the reliability of the APIs",
+            "type": "distractor",
+            "justification": "The content describes process and methodologies of development, but doesn't provide information on the number of APIs developed by Q3 2025."
+        },
+        {
+            "heading": "Impact on Virtual Healthcare Services",
+            "content": "\u2022 The APIs are expected to streamline our service delivery\n\u2022 Integration with third-party services will be easier with these APIs\n\u2022 The APIs will help to improve the user experience for our patients\n\u2022 The APIs will provide a foundation for future service expansion\n\u2022 The digital transformation of our services is a key objective of the API development\n\u2022 The APIs will support the implementation of advanced data analytics\n\u2022 The APIs are designed to be scalable, supporting our growth strategy",
+            "type": "distractor",
+            "justification": "This content discusses the potential impact of APIs on the company's services, but not the number of APIs developed by Q3 2025."
+        }
+    ],
+    "conclusion": "As shown, our team has made significant strides in API development this year. Moving forward, let's continue to leverage these advancements to enhance our remote healthcare services.",
+    "file_format": "pptx",
+    "file_path": ".llm_responses/generated_pptx_presentation.pptx",
+    "qa_type": "distractor",
+    "timestamp": "2025-11-21 13:31",
+    "image_queries": [
+        {
+            "slide_title": "Introduction",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "intentionally_clean",
+            "slide_type": "introduction"
+        },
+        {
+            "slide_title": "API Development Roadmap Overview",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "failed",
+            "slide_type": "distractor",
+            "content_length": 7,
+            "total_chars": 580,
+            "error": "'str' object has no attribute 'choices'",
+            "theme": "Executive Purple"
+        },
+        {
+            "slide_title": "Internal API Development Progress",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 7,
+            "total_chars": 569,
+            "probability": 0.25,
+            "theme": "Executive Purple"
+        },
+        {
+            "slide_title": "Impact on Virtual Healthcare Services",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 7,
+            "total_chars": 472,
+            "probability": 0.25,
+            "theme": "Executive Purple"
+        },
+        {
+            "slide_title": "Conclusion",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "strategic_clean_conclusion",
+            "slide_type": "conclusion",
+            "theme": "Executive Purple"
+        }
+    ],
+    "app": "nextcloud"
+}

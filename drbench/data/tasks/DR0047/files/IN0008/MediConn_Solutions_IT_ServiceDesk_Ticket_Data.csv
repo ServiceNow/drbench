@@ -1,0 +1,12 @@
+Company,Month,Total_Tickets,Routine_Service_Requests
+The company at which the tickets were handled,The month and year in which the tickets were handled,The total number of service tickets handled by the IT Service Desk in that month,The percentage of the total service tickets that were routine service requests
+TechNova Corp,2025-08,1950,0.16
+TechNova Corp,2023-07,1500,0.18
+MediConn Solutions,2025-03,2250,0.2
+MediConn Solutions,2025-08,2350,0.22
+MediConn Solutions,2025-01,2100,0.18
+TechNova Corp,2025-02,1800,0.16
+TechNova Corp,2025-05,1900,0.17
+MediConn Solutions,2025-07,2300,0.21
+MediConn Solutions,2024-06,2100,0.2
+MediConn Solutions,2025-04,2200,0.19

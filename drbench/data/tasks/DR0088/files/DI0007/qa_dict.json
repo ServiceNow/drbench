@@ -1,0 +1,10 @@
+{
+    "insight_id": "DI0007",
+    "qa_type": "distractor",
+    "qa_index": 7,
+    "specific_question": "In how many languages are MediConn services available?",
+    "answer": "21",
+    "justification": "Language availability for the services is also irrelevant to the cybersecurity research or in analyzing the integration of the new AI anomaly detection tools in the security architecture of the company.",
+    "timestamp": "2025-11-20 15:27",
+    "dr_question": "In alignment with Canada\u2019s new call for proposals to strengthen the country\u2019s cyber resilience and address evolving cyber threats under the 2025 Cyber Security Cooperation Program (CSCP), what are some considerations to keep in mind while integrating a new AI anomaly detection tool into MediConn's existing infrastructure by Q3 2026 without disrupting critical healthcare services?"
+}

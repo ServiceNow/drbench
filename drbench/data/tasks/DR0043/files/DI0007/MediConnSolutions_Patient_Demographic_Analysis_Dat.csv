@@ -1,0 +1,12 @@
+Year,Company_Name,Age_Range_Start,Age_Range_End,Number_of_Clients
+The year when the patient demographic analysis was performed,The name of the company which the patient demographic analysis is about,The start of the age range in the patient demographic analysis,The end of the age range in the patient demographic analysis,The number of clients in the specified age range in the patient demographic analysis
+2025,MediConn Solutions,20,30,800
+2020,HealthCare Corp,20,30,500
+2024,MediConn Solutions,20,30,900
+2021,MediConn Solutions,20,30,700
+2023,GlobalHealth Inc,30,40,600
+2024,MediConn Solutions,40,50,700
+2022,MediConn Solutions,40,50,800
+2024,MediConn Solutions,30,40,1000
+2025,GlobalHealth Inc,40,50,900
+2025,HealthCare Corp,30,40,600

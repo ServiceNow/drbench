@@ -1,0 +1,81 @@
+{
+    "file_name": "IT-innovation-update",
+    "file_title": "Innovation in IT: June 2025 Update",
+    "introduction": "In our continuous pursuit for excellence, our IT department has piloted a new innovation in June 2025. This presentation will highlight the details of this innovation and its potential impact on our services.",
+    "subsections": [
+        {
+            "heading": "Overview of IT Innovations in Healthcare",
+            "content": "\u2022 Implementation of artificial intelligence in telemedicine platforms to predict patient health outcomes\n\u2022 Utilization of blockchain technology for secure and tamper-proof patient data storage\n\u2022 Emergence of IoT devices for remote patient monitoring and personalized care\n\u2022 Use of cloud computing to enhance data accessibility and interoperability\n\u2022 Rise in the use of augmented and virtual reality for patient education and training of medical professionals\n\u2022 Deployment of machine learning algorithms for efficient patient triage and diagnosis",
+            "type": "distractor",
+            "justification": "These points discuss general IT innovations in healthcare but do not mention any specific innovation piloted by MediConn Solutions in June 2025."
+        },
+        {
+            "heading": "Details of MediConn's Recent IT Pilot",
+            "content": "\u2022 Conducted a pilot program on AI-enabled chatbots for 24/7 patient support\n\u2022 150 patients participated in the initial trial phase\n\u2022 Launched the pilot in partnership with a leading AI development company\n\u2022 The pilot program aimed to reduce response time for patient queries\n\u2022 IT and customer service departments collaborated for the pilot's execution\n\u2022 Based on the pilot, plans are underway to refine the chatbot's machine learning algorithms",
+            "type": "distractor",
+            "justification": "This slide discusses a recent IT pilot by MediConn, but it's about an AI chatbot trial, not the digital consent forms innovation in the DR Question."
+        },
+        {
+            "heading": "Potential Impact and Future Plans",
+            "content": "\u2022 AI-chatbot program expected to reduce response time by 30%\n\u2022 Future plans include integrating the chatbot with the main telemedicine platform\n\u2022 Anticipate an increase in patient satisfaction rates due to the chatbot's 24/7 availability\n\u2022 Plan to extend the chatbot service to other languages for better patient inclusivity\n\u2022 Future consideration to integrate the chatbot with EHR for personalized patient advice\n\u2022 Evaluating the need for further IT investments based on the pilot's outcomes",
+            "type": "distractor",
+            "justification": "This slide focuses on the potential impact and future plans related to the AI chatbot, not the digital consent forms innovation in the DR Question."
+        }
+    ],
+    "conclusion": "The pilot project has shown massive potential to revolutionize our digital healthcare delivery. Moving forward, we will be working on scaling this innovation across all services to ensure seamless and effective care for our patients.",
+    "file_format": "pptx",
+    "file_path": ".llm_responses/generated_pptx_presentation.pptx",
+    "qa_type": "distractor",
+    "timestamp": "2025-11-19 23:38",
+    "image_queries": [
+        {
+            "slide_title": "Introduction",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "intentionally_clean",
+            "slide_type": "introduction"
+        },
+        {
+            "slide_title": "Overview of IT Innovations in Healthcare",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "failed",
+            "slide_type": "distractor",
+            "content_length": 6,
+            "total_chars": 528,
+            "error": "'str' object has no attribute 'choices'",
+            "theme": "Professional Green"
+        },
+        {
+            "slide_title": "Details of MediConn's Recent IT Pilot",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 6,
+            "total_chars": 427,
+            "probability": 0.25,
+            "theme": "Professional Green"
+        },
+        {
+            "slide_title": "Potential Impact and Future Plans",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 6,
+            "total_chars": 475,
+            "probability": 0.25,
+            "theme": "Professional Green"
+        },
+        {
+            "slide_title": "Conclusion",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "strategic_clean_conclusion",
+            "slide_type": "conclusion",
+            "theme": "Professional Green"
+        }
+    ],
+    "app": "file_system"
+}

@@ -1,0 +1,13 @@
+Inquiry_Type,Year,Inquiry_Percentage,Report_Source,Report_Date
+"The category or subject of the customer service inquiry. In this case, it would be 'Home Charger Installation'.","The year when the customer service inquiries were made. In this case, it would be '2024'.","The percentage of total customer service inquiries that the particular type of inquiry represents. In this case, it would be '28%'.","The department or source that provided the data. In this case, it would be 'Sales and Marketing Department'.","The date when the report was generated. In this case, it would be 'January 2025'."
+Battery Replacement,2024,0.1,Battery Department,2025-01-15
+Vehicle Delivery,2023,0.15,Logistics Department,2025-02-20
+Warranty Questions,2023,0.25,Customer Services,2025-02-05
+Vehicle Maintenance,2024,0.22,Maintenance Department,2025-01-20
+Lease Options,2023,0.2,Financial Services,2025-02-15
+Software Updates,2024,0.15,Software Department,2025-01-10
+Home Charger Installation,2024,0.28,Sales and Marketing Department,2025-01-01
+Registration Process,2023,0.3,Sales and Marketing Department,2025-02-01
+New Model Queries,2024,0.15,Sales and Marketing Department,2025-01-25
+Pricing Inquiries,2023,0.1,Sales and Marketing Department,2025-02-10
+Vehicle Accessories,2024,0.05,Accessories Department,2025-01-30

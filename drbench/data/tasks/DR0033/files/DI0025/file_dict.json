@@ -1,0 +1,81 @@
+{
+    "file_name": "wongs-team-building-impact",
+    "file_title": "Staff Engagement: Wong's Team-Building Impact",
+    "introduction": "Today, we will analyze the influence of Jason Wong's team-building approach on staff participation in Lee's Market's annual picnic in 2025. This exploration will provide insights into how effective team-building strategies can improve employee engagement and satisfaction.",
+    "subsections": [
+        {
+            "heading": "Overview of Staff Engagement Initiatives",
+            "content": "\u2022 Introduction of health and wellness programs in 2024 to improve employee wellbeing\n\u2022 Launched a new company-wide mentoring program in 2023 to foster career development\n\u2022 Initiated monthly departmental town hall meetings in 2022 to improve communication\n\u2022 Implemented a peer recognition system in 2021 to celebrate individual contributions\n\u2022 Started an annual diversity and inclusion training in 2020 to foster a more inclusive workplace environment\n\u2022 Introduced flexible work schedule options in 2019 to improve work-life balance",
+            "type": "distractor",
+            "justification": "This slide focuses on past initiatives unrelated to the 2025 staff picnic or Jason Wong's team-building strategy."
+        },
+        {
+            "heading": "Wong's Team-Building Strategy and Implementation",
+            "content": "\u2022 Developed a new team-building curriculum for new hires in Q3 of 2025\n\u2022 Introduced a monthly team-building workshop for all departments in Q2 of 2025\n\u2022 Implemented a new system for measuring team collaboration metrics in Q1 of 2025\n\u2022 Spearheaded an inter-departmental project exchange program in 2024\n\u2022 Facilitated a series of team-building exercises during the company retreat in 2023\n\u2022 Launched a team-building mobile application for remote employees in 2022",
+            "type": "distractor",
+            "justification": "This slide focuses on Wong's other team-building initiatives, not the specific strategy used for the 2025 staff picnic."
+        },
+        {
+            "heading": "Impact on Staff Picnic Attendance",
+            "content": "\u2022 Incorporated picnic-themed sales campaign during Q2 of 2025\n\u2022 Cross-promoted picnic event in monthly newsletter throughout 2025\n\u2022 Collaborated with local vendors to provide unique food and beverage selections at the picnic\n\u2022 Utilized social media to promote the event and create anticipation\n\u2022 Organized a series of pre-picnic activities to boost employee interest\n\u2022 Employed a digital sign-up system to streamline the picnic registration process",
+            "type": "distractor",
+            "justification": "This slide discusses promotional strategies and event planning, not how Wong's team-building strategy increased picnic attendance."
+        }
+    ],
+    "conclusion": "Jason Wong's team-building approach significantly boosted staff attendance at Lee's Market's annual picnic, demonstrating the value of effective engagement strategies. Moving forward, we recommend analyzing other internal events to assess the broad effectiveness of these strategies.",
+    "file_format": "pptx",
+    "file_path": ".llm_responses/generated_pptx_presentation.pptx",
+    "qa_type": "distractor",
+    "timestamp": "2025-11-19 12:14",
+    "image_queries": [
+        {
+            "slide_title": "Introduction",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "intentionally_clean",
+            "slide_type": "introduction"
+        },
+        {
+            "slide_title": "Overview of Staff Engagement Initiatives",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "failed",
+            "slide_type": "distractor",
+            "content_length": 6,
+            "total_chars": 514,
+            "error": "'str' object has no attribute 'choices'",
+            "theme": "Executive Purple"
+        },
+        {
+            "slide_title": "Wong's Team-Building Strategy and Implementation",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 6,
+            "total_chars": 444,
+            "probability": 0.25,
+            "theme": "Executive Purple"
+        },
+        {
+            "slide_title": "Impact on Staff Picnic Attendance",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 6,
+            "total_chars": 431,
+            "probability": 0.25,
+            "theme": "Executive Purple"
+        },
+        {
+            "slide_title": "Conclusion",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "strategic_clean_conclusion",
+            "slide_type": "conclusion",
+            "theme": "Executive Purple"
+        }
+    ],
+    "app": "nextcloud"
+}

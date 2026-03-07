@@ -1,0 +1,51 @@
+{
+    "company_info": {
+        "name": "Elexion Automotive",
+        "industry": "Automotive -- Electric Vehicles",
+        "size": "Enterprise",
+        "founded_year": 2010,
+        "headquarters": "Austin, Texas, USA",
+        "description": "Elexion Automotive designs and manufactures premium and mid-range electric vehicles tailored for the North American market. With a focus on sustainability, user-centric technology, and cross-border compliance, Elexion aims to accelerate the transition to zero-emission transportation.",
+        "key_products_services": [
+            "Electric vehicles",
+            "Plug-in hybrid electric vehicles",
+            "Home charging stations"
+        ],
+        "target_markets": [
+            "Mid-income families in North America",
+            "Provincial and municipal governments"
+        ],
+        "annual_revenue": "$350M - $500M",
+        "employee_count": 1900,
+        "compliance_certifications": [
+            "EPA Greenhouse Gas Emissions Compliance",
+            "Motor Vehicle Safety Oversight Program",
+            "CARB Zero-Emission Vehicle (ZEV) Program",
+            "ISO 26262 – Road Vehicles Functional Safety"
+        ],
+        "market_position": "Elexion is an emerging force in the North American EV market, offering affordable and high-performance electric vehicles with regulatory-first design and localized production."
+    },
+    "persona": {
+        "role": "Customer Service Team Lead",
+        "department": "Customer Experience",
+        "name": "Ryan Thompson",
+        "first_name": "Ryan",
+        "last_name": "Thompson",
+        "email": "ryan.thompson@elexionautomotive.com",
+        "seniority": "Mid",
+        "responsibilities": "Lead a team of customer service representatives, monitor performance metrics, and implement strategies to enhance customer experience and satisfaction.",
+        "id": "EMP0002",
+        "domain": "csm",
+        "justification": "Ryan's leadership role enables him to develop and implement proactive support strategies, analyze customer feedback, and optimize customer service processes to drive business growth.",
+        "username": "ryan.thompson"
+    },
+    "url": {
+        "url": "https://theevreport.com/enhancing-ev-trust-through-aftersales-support",
+        "domain": "CSM",
+        "industry": "automotive -- electric vehicles",
+        "example_dr_questions": [],
+        "insights": [],
+        "date": "2025-12-02"
+    },
+    "timestamp": "2025-10-30 00:00"
+}

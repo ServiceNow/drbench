@@ -1,0 +1,10 @@
+{
+    "insight_id": "DI0003",
+    "qa_type": "distractor",
+    "qa_index": 3,
+    "specific_question": "What was the reduction in wait times (in minutes) achieved by MediConn after it deployed an AI-powered chatbot in late 2024 that handles 60% of initial patient inquiries?",
+    "answer": "MediConn deployed an AI-powered chatbot in late 2024 that reduced wait times by 12 minutes by concurrently handling 60% of initial patient inquiries.",
+    "justification": "This data is not relevant because it focuses on MediConn's AI-powered chatbot that improves efficiency, but doesn't inform compliance strategy for CHA interpretation. MediConn cannot use this data to determine what adjustments are required to tackle legal precedents or provincial variations in billing regulations for medically necessary care. This data is related to customer service automation, not regulatory compliance planning.",
+    "timestamp": "2025-11-20 18:01",
+    "dr_question": "In response to the federal government\u2019s 2025 interpretation of the Canada Health Act, what should MediConn Solutions do to address compliance risks from legal precedents or provincial variations by Q4 2028?"
+}

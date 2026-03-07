@@ -1,0 +1,81 @@
+{
+    "file_name": "customer-service-growth-2025",
+    "file_title": "Customer Service Growth Analysis 2025",
+    "introduction": "Today, we will delve into the expansion of our customer service team during 2025. The focus will be on the growth metrics from Q1 to Q4.",
+    "subsections": [
+        {
+            "heading": "Q1-Q4 2025: Staffing Trends and Impacts",
+            "content": "\u2022 Implemented new hiring process in Q2, reducing the average time to hire by 15%\n\u2022 Recruited 35 new employees across different departments in Q3\n\u2022 Introduced remote work option in Q4, impacting 40% of the workforce\n\u2022 Implemented a 360-degree feedback system in Q1 to enhance employee performance\n\u2022 Increased focus on diversity hiring, with 30% more diverse hires in Q4 compared to Q1\n\u2022 Launched an employee wellness program in Q2, resulting in a 20% decrease in sick leaves",
+            "type": "distractor",
+            "justification": "Discusses general staffing trends and HR strategies, not specifically about customer service team growth."
+        },
+        {
+            "heading": "Detailed Breakdown: Customer Service Team Growth",
+            "content": "\u2022 Introduced training programs for customer service representatives in Q2\n\u2022 Upgraded customer service software in Q3, improving response time by 10%\n\u2022 Set up a new customer service center in Ontario in Q4\n\u2022 Implemented a performance-based incentive plan for customer service employees in Q1\n\u2022 Decreased average call handling time by 5% in Q3 through process improvements",
+            "type": "distractor",
+            "justification": "Details customer service improvements and infrastructure, not specific team growth numbers."
+        },
+        {
+            "heading": "Correlation: Customer Service Expansion and Customer Satisfaction",
+            "content": "\u2022 Customer satisfaction scores increased by 15% in Q3\n\u2022 Noticed a 20% decrease in customer complaints in Q4\n\u2022 Introduced a new customer feedback system in Q1, leading to improved product features\n\u2022 Increased customer retention rate by 10% in Q2\n\u2022 25% more positive reviews on online platforms in Q4 compared to Q1",
+            "type": "distractor",
+            "justification": "Talks about customer satisfaction and feedback, not the specific growth of the customer service team."
+        }
+    ],
+    "conclusion": "The significant growth in our customer service team has directly contributed to enhanced customer satisfaction. Moving forward, we need to maintain this momentum to continue delivering superior virtual healthcare services.",
+    "file_format": "pptx",
+    "file_path": ".llm_responses/generated_pptx_presentation.pptx",
+    "qa_type": "distractor",
+    "timestamp": "2025-12-02 15:57",
+    "image_queries": [
+        {
+            "slide_title": "Introduction",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "intentionally_clean",
+            "slide_type": "introduction"
+        },
+        {
+            "slide_title": "Q1-Q4 2025: Staffing Trends and Impacts",
+            "has_image": true,
+            "image_query": "recruitment team discussing hiring strategies",
+            "generation_method": "strategic_placement",
+            "slide_type": "distractor",
+            "content_length": 6,
+            "total_chars": 456,
+            "forced": false,
+            "theme": "Modern Orange"
+        },
+        {
+            "slide_title": "Detailed Breakdown: Customer Service Team Growth",
+            "has_image": true,
+            "image_query": "customer service training workshop",
+            "generation_method": "strategic_placement",
+            "slide_type": "distractor",
+            "content_length": 5,
+            "total_chars": 356,
+            "forced": false,
+            "theme": "Modern Orange"
+        },
+        {
+            "slide_title": "Correlation: Customer Service Expansion and Customer Satisfaction",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 5,
+            "total_chars": 299,
+            "probability": 0.45,
+            "theme": "Modern Orange"
+        },
+        {
+            "slide_title": "Conclusion",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "strategic_clean_conclusion",
+            "slide_type": "conclusion",
+            "theme": "Modern Orange"
+        }
+    ],
+    "app": "nextcloud"
+}

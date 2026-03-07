@@ -1,0 +1,81 @@
+{
+    "file_name": "cybersecurity-Q1-2025-review",
+    "file_title": "Cybersecurity Measures: Q1 2025 Review",
+    "introduction": "This presentation will provide an overview of our cybersecurity efforts in Q1 2025, focusing on penetration testing conducted on our virtual healthcare platform. It's crucial to understand these activities to ensure the safety of our digital services.",
+    "subsections": [
+        {
+            "heading": "Overview of Q1 2025 Cybersecurity Activities",
+            "content": "\u2022 Revised and updated MediConn's cybersecurity policies and guidelines\n\u2022 Implemented a new two-factor authentication process for all employees\n\u2022 Launched a cybersecurity awareness program, resulting in a 20% increase in employee training\n\u2022 Activated a secure encrypted storage system for patient data\n\u2022 Introduced a new security incident response protocol\n\u2022 Conducted a company-wide cybersecurity risk assessment",
+            "type": "distractor",
+            "justification": "This content discusses general activities and does not mention the number of penetration tests. The strategy is to focus on procedural information."
+        },
+        {
+            "heading": "Penetration Testing Results and Findings",
+            "content": "\u2022 Discovered a minor vulnerability in the patient login process, which was promptly patched\n\u2022 Found that the data encryption process was robust and secure\n\u2022 Identified a need for improved server security protocols\n\u2022 No significant breaches or intrusions were detected in the testing process\n\u2022 Ensured the compliance of the system with the latest healthcare data security standards\n\u2022 Penetration testing showed that the system could manage high traffic volumes without compromising security",
+            "type": "distractor",
+            "justification": "This slide discusses testing results, but not the total number of tests conducted. The strategy here is to focus on the outcomes and findings of the tests."
+        },
+        {
+            "heading": "Improvement Measures and Next Steps",
+            "content": "\u2022 Plan to conduct regular cybersecurity training for all employees in Q2 2025\n\u2022 Aim to implement a more robust incident response protocol in Q3 2025\n\u2022 Intend to upgrade our encryption algorithms by the end of 2025\n\u2022 Preparing for an external cybersecurity audit in Q4 2025\n\u2022 Plan to collaborate with a third-party cybersecurity firm for advanced threat detection in the future\n\u2022 Intend to conduct a comprehensive IT infrastructure review in the next fiscal year",
+            "type": "distractor",
+            "justification": "This content talks about future plans, not the number of penetration tests conducted in Q1 2025. The strategy used here is to focus on future actions."
+        }
+    ],
+    "conclusion": "Our rigorous penetration testing ensures the security and reliability of our virtual healthcare platform. Moving forward, we will implement identified improvements and continue to prioritize our cybersecurity efforts.",
+    "file_format": "pptx",
+    "file_path": ".llm_responses/generated_pptx_presentation.pptx",
+    "qa_type": "distractor",
+    "timestamp": "2025-11-20 00:36",
+    "image_queries": [
+        {
+            "slide_title": "Introduction",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "intentionally_clean",
+            "slide_type": "introduction"
+        },
+        {
+            "slide_title": "Overview of Q1 2025 Cybersecurity Activities",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "failed",
+            "slide_type": "distractor",
+            "content_length": 6,
+            "total_chars": 395,
+            "error": "'str' object has no attribute 'choices'",
+            "theme": "Bold Crimson"
+        },
+        {
+            "slide_title": "Penetration Testing Results and Findings",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "failed",
+            "slide_type": "distractor",
+            "content_length": 6,
+            "total_chars": 472,
+            "error": "'str' object has no attribute 'choices'",
+            "theme": "Bold Crimson"
+        },
+        {
+            "slide_title": "Improvement Measures and Next Steps",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 6,
+            "total_chars": 444,
+            "probability": 0.25,
+            "theme": "Bold Crimson"
+        },
+        {
+            "slide_title": "Conclusion",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "strategic_clean_conclusion",
+            "slide_type": "conclusion",
+            "theme": "Bold Crimson"
+        }
+    ],
+    "app": "file_system"
+}

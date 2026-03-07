@@ -1,0 +1,29 @@
+{
+    "file_name": "cyber-comfort-survey-analysis",
+    "file_title": "Staff Cyber Comfort Survey Analysis 2025",
+    "introduction": "As part of our continuous commitment to ensuring a secure digital environment, we conducted an internal survey in April 2025 to gauge staff's comfort level with our cyber security protocols. The following document provides a detailed analysis of the survey results, highlighting key insights and areas of concern. The objective is to inform our ongoing efforts to enhance our cyber security measures and improve staff training programs.",
+    "subsections": [
+        {
+            "heading": "Overview of Survey Participation and Demographics",
+            "content": "In 2024, we conducted a similar survey to gauge staff comfort with the new checkout system. With a participation rate of 83%, a majority of respondents were from our in-store teams, while 30% identified as part of the online retail department. The participation was evenly distributed among staff of varying years of experience.",
+            "type": "distractor",
+            "justification": "Provides historical context and demographic information, not related to the cyber comfort survey of 2025."
+        },
+        {
+            "heading": "Key Findings from Cyber Comfort Survey",
+            "content": "In a previous internal survey conducted in September 2024, we found that 68% of staff were comfortable with our inventory management system. Respondents highlighted the intuitive user interface and comprehensive training provided as key factors for their comfort. The least comfortable group was our warehouse team, citing limited access to training resources.",
+            "type": "distractor",
+            "justification": "Discuss key findings from a different survey, not Jason Wong's cyber comfort survey."
+        },
+        {
+            "heading": "Implications for Future Cybersecurity Training Programs",
+            "content": "Based on the general feedback from our various internal surveys, we have identified the need for more frequent, comprehensive training programs. Our goal is to increase staff comfort with all our digital tools by 20% by the end of 2026. We are currently considering partnerships with external training providers to achieve this goal.",
+            "type": "distractor",
+            "justification": "Outlines future training plans unrelated to the specific cyber comfort survey conducted by Jason Wong."
+        }
+    ],
+    "conclusion": "The analysis of the Cyber Comfort Survey 2025 has provided valuable insights into our staff's understanding and comfort with our cybersecurity protocols. It is clear that while we have made significant strides, there are areas that require further attention. Based on these findings, we recommend a review and update of our training programs to address the identified gaps. Continued monitoring and regular surveys will be essential to track progress and evolve our strategies accordingly.",
+    "file_format": "pdf",
+    "file_path": ".llm_responses/generated_pdf_document.pdf",
+    "app": "file_system"
+}

@@ -1,0 +1,252 @@
+{
+    "file_name": "mattermost_chat_20251119_011804",
+    "content": "{\"type\": \"version\", \"version\": 1}\n{\"type\": \"team\", \"team\": {\"name\": \"customerservice\", \"display_name\": \"Customer Service\", \"type\": \"O\", \"header\": \"Team dedicated to managing and improving customer service operations.\", \"purpose\": \"Discussion and coordination of customer service strategies and improvements.\"}}\n{\"type\": \"team\", \"team\": {\"name\": \"marketing\", \"display_name\": \"Marketing\", \"type\": \"O\", \"header\": \"Team focused on marketing strategies and branding consistency.\", \"purpose\": \"Discussion, development, and implementation of marketing strategies and branding.\"}}\n{\"type\": \"channel\", \"channel\": {\"team\": \"customerservice\", \"name\": \"service_standards\", \"display_name\": \"Service Standards\", \"type\": \"O\", \"header\": \"Discussion and development of customer service standards and policies.\", \"purpose\": \"To establish and maintain high customer service standards.\"}}\n{\"type\": \"channel\", \"channel\": {\"team\": \"marketing\", \"name\": \"branding\", \"display_name\": \"Branding\", \"type\": \"O\", \"header\": \"Discussions related to brand consistency and visual design.\", \"purpose\": \"To ensure brand consistency across all marketing platforms.\"}}\n{\"type\": \"user\", \"user\": {\"username\": \"dthompson\", \"email\": \"david.thompson@leesmarket.com\", \"password\": \"david_t_pass\", \"nickname\": \"Dave\", \"first_name\": \"David\", \"last_name\": \"Thompson\", \"position\": \"Customer Service Manager\", \"roles\": \"system_user\", \"locale\": \"en\", \"teams\": [{\"name\": \"customerservice\", \"roles\": \"team_user\", \"channels\": [{\"name\": \"service_standards\", \"roles\": \"channel_user\"}]}, {\"name\": \"marketing\", \"roles\": \"team_user\", \"channels\": [{\"name\": \"branding\", \"roles\": \"channel_user\"}]}]}}\n{\"type\": \"user\", \"user\": {\"username\": \"mwilliams\", \"email\": \"michelle.williams@leesmarket.com\", \"password\": \"michelle_w_pass\", \"nickname\": \"Michelle\", \"first_name\": \"Michelle\", \"last_name\": \"Williams\", \"position\": \"Marketing Manager\", \"roles\": \"system_user\", \"locale\": \"en\", \"teams\": [{\"name\": \"marketing\", \"roles\": \"team_user\", \"channels\": [{\"name\": \"branding\", \"roles\": \"channel_user\"}]}]}}\n{\"type\": \"user\", \"user\": {\"username\": \"jsmith\", \"email\": \"john.smith@leesmarket.com\", \"password\": \"john_s_pass\", \"nickname\": \"John\", \"first_name\": \"John\", \"last_name\": \"Smith\", \"position\": \"Customer Service Representative\", \"roles\": \"system_user\", \"locale\": \"en\", \"teams\": [{\"name\": \"customerservice\", \"roles\": \"team_user\", \"channels\": [{\"name\": \"service_standards\", \"roles\": \"channel_user\"}]}]}}\n{\"type\": \"user\", \"user\": {\"username\": \"david.thompson\", \"nickname\": \"david.thompson\", \"first_name\": \"David\", \"last_name\": \"Thompson\", \"roles\": [\"member\"], \"position\": \"Customer Service Manager\", \"email\": \"dthompson@leesmarket.com\", \"locale\": \"en\", \"teams\": [{\"name\": \"customerservice\", \"roles\": \"team_user\", \"channels\": [{\"name\": \"service_standards\", \"roles\": \"channel_user\"}]}, {\"name\": \"marketing\", \"roles\": \"team_user\", \"channels\": [{\"name\": \"branding\", \"roles\": \"channel_user\"}]}]}}\n{\"type\": \"post\", \"post\": {\"team\": \"customerservice\", \"channel\": \"service_standards\", \"user\": \"dthompson\", \"message\": \"Team, I've scheduled a meeting for us to discuss the recent customer feedback we've received. It's set for next Tuesday at 3pm. Please come prepared with any insights or suggestions.\", \"created_at\": 1620500000000}}\n{\"type\": \"post\", \"post\": {\"team\": \"customerservice\", \"channel\": \"service_standards\", \"user\": \"jsmith\", \"message\": \"Thanks, Dave. I've noticed a few recurring issues with delivery times that I'd like to address in the meeting.\", \"created_at\": 1620510000000}}\n{\"type\": \"post\", \"post\": {\"team\": \"marketing\", \"channel\": \"branding\", \"user\": \"mwilliams\", \"message\": \"Quick reminder that the deadline for the new product launch marketing plan is next Friday. Let's ensure we have a comprehensive strategy ready.\", \"created_at\": 1620520000000}}\n{\"type\": \"post\", \"post\": {\"team\": \"customerservice\", \"channel\": \"service_standards\", \"user\": \"dthompson\", \"message\": \"John, that's a valid concern. Let's also start compiling a list of potential solutions to improve our delivery times.\", \"created_at\": 1620530000000}}\n{\"type\": \"post\", \"post\": {\"team\": \"marketing\", \"channel\": \"branding\", \"user\": \"mwilliams\", \"message\": \"Dave, once your team has the customer feedback compiled, could you share it with us? It would be useful in shaping our marketing strategies.\", \"created_at\": 1620540000000}}\n{\"type\": \"post\", \"post\": {\"team\": \"marketing\", \"channel\": \"branding\", \"user\": \"mwilliams\", \"message\": \"Team, I'm pleased to share that our efforts to improve visual consistency using design apps have been successful. We've created uniform templates and visuals for our live chat banners, and text campaigns. This has not only ensured brand consistency but also reduced our design turnaround times by 15%. Let's keep up the good work!\", \"create_at\": 1620500000000}}",
+    "chat_setup": {
+        "teams": [
+            {
+                "type": "team",
+                "team": {
+                    "name": "customerservice",
+                    "display_name": "Customer Service",
+                    "type": "O",
+                    "header": "Team dedicated to managing and improving customer service operations.",
+                    "purpose": "Discussion and coordination of customer service strategies and improvements."
+                }
+            },
+            {
+                "type": "team",
+                "team": {
+                    "name": "marketing",
+                    "display_name": "Marketing",
+                    "type": "O",
+                    "header": "Team focused on marketing strategies and branding consistency.",
+                    "purpose": "Discussion, development, and implementation of marketing strategies and branding."
+                }
+            }
+        ],
+        "channels": [
+            {
+                "type": "channel",
+                "channel": {
+                    "team": "customerservice",
+                    "name": "service_standards",
+                    "display_name": "Service Standards",
+                    "type": "O",
+                    "header": "Discussion and development of customer service standards and policies.",
+                    "purpose": "To establish and maintain high customer service standards."
+                }
+            },
+            {
+                "type": "channel",
+                "channel": {
+                    "team": "marketing",
+                    "name": "branding",
+                    "display_name": "Branding",
+                    "type": "O",
+                    "header": "Discussions related to brand consistency and visual design.",
+                    "purpose": "To ensure brand consistency across all marketing platforms."
+                }
+            }
+        ],
+        "users": [
+            {
+                "type": "user",
+                "user": {
+                    "username": "dthompson",
+                    "email": "david.thompson@leesmarket.com",
+                    "password": "david_t_pass",
+                    "nickname": "Dave",
+                    "first_name": "David",
+                    "last_name": "Thompson",
+                    "position": "Customer Service Manager",
+                    "roles": "system_user",
+                    "locale": "en",
+                    "teams": [
+                        {
+                            "name": "customerservice",
+                            "roles": "team_user",
+                            "channels": [
+                                {
+                                    "name": "service_standards",
+                                    "roles": "channel_user"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "marketing",
+                            "roles": "team_user",
+                            "channels": [
+                                {
+                                    "name": "branding",
+                                    "roles": "channel_user"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "type": "user",
+                "user": {
+                    "username": "mwilliams",
+                    "email": "michelle.williams@leesmarket.com",
+                    "password": "michelle_w_pass",
+                    "nickname": "Michelle",
+                    "first_name": "Michelle",
+                    "last_name": "Williams",
+                    "position": "Marketing Manager",
+                    "roles": "system_user",
+                    "locale": "en",
+                    "teams": [
+                        {
+                            "name": "marketing",
+                            "roles": "team_user",
+                            "channels": [
+                                {
+                                    "name": "branding",
+                                    "roles": "channel_user"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "type": "user",
+                "user": {
+                    "username": "jsmith",
+                    "email": "john.smith@leesmarket.com",
+                    "password": "john_s_pass",
+                    "nickname": "John",
+                    "first_name": "John",
+                    "last_name": "Smith",
+                    "position": "Customer Service Representative",
+                    "roles": "system_user",
+                    "locale": "en",
+                    "teams": [
+                        {
+                            "name": "customerservice",
+                            "roles": "team_user",
+                            "channels": [
+                                {
+                                    "name": "service_standards",
+                                    "roles": "channel_user"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "type": "user",
+                "user": {
+                    "username": "david.thompson",
+                    "nickname": "david.thompson",
+                    "first_name": "David",
+                    "last_name": "Thompson",
+                    "roles": [
+                        "member"
+                    ],
+                    "position": "Customer Service Manager",
+                    "email": "dthompson@leesmarket.com",
+                    "locale": "en",
+                    "teams": [
+                        {
+                            "name": "customerservice",
+                            "roles": "team_user",
+                            "channels": [
+                                {
+                                    "name": "service_standards",
+                                    "roles": "channel_user"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "marketing",
+                            "roles": "team_user",
+                            "channels": [
+                                {
+                                    "name": "branding",
+                                    "roles": "channel_user"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    "chat_messages": [
+        {
+            "type": "post",
+            "post": {
+                "team": "marketing",
+                "channel": "branding",
+                "user": "mwilliams",
+                "message": "Team, I'm pleased to share that our efforts to improve visual consistency using design apps have been successful. We've created uniform templates and visuals for our live chat banners, and text campaigns. This has not only ensured brand consistency but also reduced our design turnaround times by 15%. Let's keep up the good work!",
+                "create_at": 1620500000000
+            },
+            "tag": "insight"
+        },
+        {
+            "type": "post",
+            "post": {
+                "team": "customerservice",
+                "channel": "service_standards",
+                "user": "dthompson",
+                "message": "Team, I've scheduled a meeting for us to discuss the recent customer feedback we've received. It's set for next Tuesday at 3pm. Please come prepared with any insights or suggestions.",
+                "created_at": 1620500000000
+            },
+            "tag": "distractor"
+        },
+        {
+            "type": "post",
+            "post": {
+                "team": "customerservice",
+                "channel": "service_standards",
+                "user": "jsmith",
+                "message": "Thanks, Dave. I've noticed a few recurring issues with delivery times that I'd like to address in the meeting.",
+                "created_at": 1620510000000
+            },
+            "tag": "distractor"
+        },
+        {
+            "type": "post",
+            "post": {
+                "team": "marketing",
+                "channel": "branding",
+                "user": "mwilliams",
+                "message": "Quick reminder that the deadline for the new product launch marketing plan is next Friday. Let's ensure we have a comprehensive strategy ready.",
+                "created_at": 1620520000000
+            },
+            "tag": "distractor"
+        },
+        {
+            "type": "post",
+            "post": {
+                "team": "customerservice",
+                "channel": "service_standards",
+                "user": "dthompson",
+                "message": "John, that's a valid concern. Let's also start compiling a list of potential solutions to improve our delivery times.",
+                "created_at": 1620530000000
+            },
+            "tag": "distractor"
+        },
+        {
+            "type": "post",
+            "post": {
+                "team": "marketing",
+                "channel": "branding",
+                "user": "mwilliams",
+                "message": "Dave, once your team has the customer feedback compiled, could you share it with us? It would be useful in shaping our marketing strategies.",
+                "created_at": 1620540000000
+            },
+            "tag": "distractor"
+        }
+    ],
+    "file_format": "jsonl",
+    "file_path": ".llm_responses/generated_chat_document.jsonl",
+    "qa_type": "distractor",
+    "timestamp": "2025-11-19 02:18",
+    "app": "mattermost"
+}

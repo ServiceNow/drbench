@@ -1,0 +1,10 @@
+{
+    "insight_id": "IN0005",
+    "qa_type": "insight",
+    "qa_index": 5,
+    "specific_question": "What average quarterly deviation (in %) from projected sales growth (set before tariffs) is expected by Lee's Market across major categories of products sold from 2025 to 2027?",
+    "answer": "The average quarterly deviation (in %) from projected sales growth (set before tariffs) across major categories of products sold by Lee's Market between 2025-2027 is expected to be approximately -2.5%.",
+    "justification": "This data is relevant because it focuses on average quarterly deviation from projected sales growth, thus quantifying the magnitude of slowdown impacting planning accuracy. It reveals short-term volatility and category-level sensitivity. Lee's Market can use this data to adjust quarterly sales targets by category and region, and to feed into forecast refinement models for improving demand planning accuracy through 2027.",
+    "timestamp": "2025-11-21 13:01",
+    "dr_question": "Given the drop in Canadian retail sales brought on by US tariffs in 2025, what insights should Lee\u2019s Market derive from product-level sales trends across tariff-exposed and tariff-insulated categories to update sales forecasts by 2027?"
+}

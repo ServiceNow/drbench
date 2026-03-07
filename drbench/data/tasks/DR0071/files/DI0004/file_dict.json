@@ -1,0 +1,81 @@
+{
+    "file_name": "vehicle-security-assessment",
+    "file_title": "Vehicle Security Assessment: Diagnostic Port Vulnerabilities",
+    "introduction": "Given the evolving landscape of vehicle security, it's vital we understand the risks posed to our electric vehicles. Today, we'll delve into the physical access attacks via diagnostic ports (OBD-II) experienced in 2025.",
+    "subsections": [
+        {
+            "heading": "Vehicle Cybersecurity Landscape in 2025",
+            "content": "\u2022 An estimated 90% of new vehicles in 2025 are connected, increasing the overall cybersecurity risk\n\u2022 Major automakers, including Elexion, have established dedicated cybersecurity divisions\n\u2022 Cybersecurity investments in the automotive sector have reached an all-time high of $1.5 billion in 2025\n\u2022 The most common attacks include ransomware, data theft, and manipulation of vehicle control systems\n\u2022 Regulatory bodies are pressing for stricter cybersecurity measures in connected vehicles\n\u2022 Partnership between automakers and cybersecurity firms have increased by 30% since 2020\n\u2022 The average cost of a car cybersecurity breach is estimated to be $3.6 million",
+            "type": "distractor",
+            "justification": "Provides general industry trends and statistics, but does not address OBD-II physical access attacks on Elexion vehicles."
+        },
+        {
+            "heading": "Incidents of OBD-II Physical Access Attacks",
+            "content": "\u2022 OBD-II physical access attacks have been on the rise globally, with a 15% increase in reported incidents since 2020\n\u2022 These types of attacks allow for unauthorized control of vehicle systems\n\u2022 Auto manufacturers are exploring hardware and software solutions to mitigate these attacks\n\u2022 A significant number of these attacks are targeted at commercial fleets\n\u2022 The automotive industry is lobbying for stricter penalties for OBD-II port attacks\n\u2022 The average financial loss due to an OBD-II physical access attack is estimated to be $2.2 million\n\u2022 In 2024, a high-profile OBD-II attack led to a 10% drop in the affected automaker's share price",
+            "type": "distractor",
+            "justification": "Focuses on general industry statistics and incidents, but does not mention specific OBD-II attacks on Elexion vehicles in 2025."
+        },
+        {
+            "heading": "Impact and Mitigation Strategies for OBD-II Vulnerabilities",
+            "content": "\u2022 OBD-II vulnerabilities can lead to theft of sensitive data and unauthorized control of vehicle systems\n\u2022 Manufacturers are employing encryption and secure coding practices to protect OBD-II ports\n\u2022 Industry-wide adoption of a standardized security framework for OBD-II ports is being discussed\n\u2022 Mitigation strategies include periodic security audits, vulnerability assessments, and penetration testing\n\u2022 Industry collaboration and information sharing are key to addressing OBD-II vulnerabilities\n\u2022 Automotive cybersecurity insurance is becoming increasingly important as a risk management tool\n\u2022 Third-party cybersecurity firms are providing specialized services to secure OBD-II ports",
+            "type": "distractor",
+            "justification": "Discusses mitigation strategies and impacts of OBD-II vulnerabilities, but does not provide the number of Elexion vehicles affected in 2025."
+        }
+    ],
+    "conclusion": "It is clear that vehicle security, particularly concerning diagnostic port vulnerabilities, is a key area for our attention. Moving forward, we need to continue investing in robust security measures to ensure the safety and trust of our customers.",
+    "file_format": "pptx",
+    "file_path": ".llm_responses/generated_pptx_presentation.pptx",
+    "qa_type": "distractor",
+    "timestamp": "2025-11-20 02:59",
+    "image_queries": [
+        {
+            "slide_title": "Introduction",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "intentionally_clean",
+            "slide_type": "introduction"
+        },
+        {
+            "slide_title": "Vehicle Cybersecurity Landscape in 2025",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 7,
+            "total_chars": 640,
+            "probability": 0.25,
+            "theme": "Classic Navy"
+        },
+        {
+            "slide_title": "Incidents of OBD-II Physical Access Attacks",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 7,
+            "total_chars": 623,
+            "probability": 0.25,
+            "theme": "Classic Navy"
+        },
+        {
+            "slide_title": "Impact and Mitigation Strategies for OBD-II Vulnerabilities",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "failed",
+            "slide_type": "distractor",
+            "content_length": 7,
+            "total_chars": 668,
+            "error": "'str' object has no attribute 'choices'",
+            "theme": "Classic Navy"
+        },
+        {
+            "slide_title": "Conclusion",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "strategic_clean_conclusion",
+            "slide_type": "conclusion",
+            "theme": "Classic Navy"
+        }
+    ],
+    "app": "file_system"
+}

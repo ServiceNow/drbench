@@ -1,0 +1,10 @@
+{
+    "insight_id": "DI0011",
+    "qa_type": "distractor",
+    "qa_index": 11,
+    "specific_question": "What percentage of MediConn's developers participated in cloud certification programs in 2025?",
+    "answer": "65% of developers completed cloud certifications in 2025.",
+    "justification": "Skills development is important for the CTO but does not directly define which implementation priorities to set for virtual care standards.",
+    "timestamp": "2025-11-21 13:33",
+    "dr_question": "Which IT modernization efforts should MediConn emphasize to stay aligned with national virtual care standards and shared digital health infrastructure by 2026?"
+}

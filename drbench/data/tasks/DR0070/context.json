@@ -1,0 +1,57 @@
+{
+    "company_info": {
+        "name": "Elexion Automotive",
+        "industry": "Automotive -- Electric Vehicles",
+        "size": "Enterprise",
+        "founded_year": 2010,
+        "headquarters": "Austin, Texas, USA",
+        "description": "Elexion Automotive designs and manufactures premium and mid-range electric vehicles tailored for the North American market. With a focus on sustainability, user-centric technology, and cross-border compliance, Elexion aims to accelerate the transition to zero-emission transportation.",
+        "key_products_services": [
+            "Electric vehicles",
+            "Plug-in hybrid electric vehicles",
+            "Home charging stations"
+        ],
+        "target_markets": [
+            "Mid-income families in North America",
+            "Provincial and municipal governments"
+        ],
+        "annual_revenue": "$350M - $500M",
+        "employee_count": 1900,
+        "compliance_certifications": [
+            "EPA Greenhouse Gas Emissions Compliance",
+            "Motor Vehicle Safety Oversight Program",
+            "CARB Zero-Emission Vehicle (ZEV) Program",
+            "ISO 26262 – Road Vehicles Functional Safety"
+        ],
+        "market_position": "Elexion is an emerging force in the North American EV market, offering affordable and high-performance electric vehicles with regulatory-first design and localized production."
+    },
+    "persona": {
+        "role": "Cybersecurity Specialist",
+        "department": "Information Technology",
+        "name": "Ethan Thompson",
+        "first_name": "Ethan",
+        "last_name": "Thompson",
+        "email": "ethan.thompson@elexionautomotive.com",
+        "seniority": "Mid",
+        "responsibilities": "Responsible for implementing and maintaining cybersecurity measures to protect the company's data and systems, conducting penetration testing and vulnerability assessments, and staying up-to-date with emerging threats and technologies.",
+        "id": "EMP0004",
+        "domain": "cybersecurity",
+        "justification": "As a leading manufacturer of electric vehicles, Elexion Automotive relies heavily on complex software and connectivity systems, making cybersecurity a critical aspect of the business to protect customer data, prevent hacking, and maintain the integrity of vehicle systems.",
+        "username": "ethan.thompson"
+    },
+    "url": {
+        "url": "https://www.helpnetsecurity.com/2025/04/04/cybersecurity-risks-cars/",
+        "domain": "Cybersecurity",
+        "industry": "automotive -- electric vehicles",
+        "example_dr_questions": [
+            "What is a recent example of a discovery within the automotive industry that Elexion Automotives can use to develop strategies to protect its consumers from remote cybersecurity attacks in 2026?",
+            "What preventative measures are considered \"best practice\" within the scope of remote cybersecurity attacks and the automotive industry in 2025?"
+        ],
+        "insights": [
+            "According to the Help Net Security article, in 2024, a group of researchers helped Kia identify an exploit in their web portal that permitted the researchers to redistribute access to the internet-connected components of any Kia vehicle built after 2013. Similarly, they discovered that some Subaru models were also susceptible to being remotely traced and hijacked.",
+            "As highlighted in the 2025 Help Net Security Article, automotive companies and cybersecurity professionals should focus on educating consumers about data security and how they can insulate themselves from potential remote attacks. Some examples of preventative measures include discussing the significance of keeping software up to date, using protected Wi-Fi connections, and confirming that vehicles are equipped with integrated security measures."
+        ],
+        "date": "2025-11-20"
+    },
+    "timestamp": "2025-10-30 00:00"
+}

@@ -1,0 +1,21 @@
+# Energy Efficiency Improvement Report 2025
+
+## Introduction
+
+This document is designed to provide an overview of our efforts to improve energy efficiency across Lee's Market's stores. Our major initiative was the replacement of traditional lighting systems with LED technology in 22 stores during 2025. The report will discuss the overall impact of the project, including a detailed analysis of the energy cost reduction. This is an integral part of our commitment to sustainability and operational efficiency.
+
+## Overview of Energy Efficiency Initiatives
+
+Lee's Market has always prioritized energy efficiency in its business operations. In 2020, the company partnered with a local environmental non-profit to audit energy use across its 22 store locations. This partnership resulted in several changes, including the installation of motion sensors in storage areas to minimize unnecessary electricity usage. Also, the company has been diligent in maintaining optimal temperature control in all stores to further reduce energy consumption.
+
+## Detailed Analysis of LED Retrofit Project
+
+The LED Retrofit Project was a major undertaking for Lee's Market. It involved multiple departments, including the Operations and Facilities teams, and was implemented over six months, starting in January 2025. The project required the careful selection of LED lighting systems which had to meet both cost and illuminance criteria. The Facilities team was responsible for overseeing the installation process across all store locations.
+
+## Impact on Operational Expenses and Sustainability
+
+The LED Retrofit Project has had a significant impact on the operational expenses of Lee's Market. The company has seen a notable reduction in maintenance costs due to the longer lifespan of LED lights. Additionally, the use of LED technology has enhanced the company's sustainability profile, contributing to its commitment to reducing its carbon footprint. The project has been well-received by both staff and customers, promoting a greener shopping experience.
+
+## Conclusion
+
+The LED lighting retrofit project has resulted in a significant reduction in energy costs, contributing to our sustainability goals and improving operational efficiency. The successful execution of this project underscores the benefits of investing in energy-efficient technologies. Moving forward, we should continue exploring similar initiatives to further reduce our carbon footprint and operational expenses. Detailed recommendations for future projects will be presented in the subsequent report.

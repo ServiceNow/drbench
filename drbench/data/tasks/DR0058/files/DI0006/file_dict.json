@@ -1,0 +1,215 @@
+{
+    "file_name": "mattermost_chat_20251119_234651",
+    "content": "{\"type\": \"version\", \"version\": 1}\n{\"type\": \"team\", \"team\": {\"name\": \"virtual_healthcare\", \"display_name\": \"Virtual Healthcare\", \"type\": \"O\", \"header\": \"Team focusing on the development and maintenance of virtual healthcare services\", \"purpose\": \"To develop and maintain secure, compliant, and user-friendly digital healthcare platforms\"}}\n{\"type\": \"team\", \"team\": {\"name\": \"cybersecurity\", \"display_name\": \"Cybersecurity\", \"type\": \"O\", \"header\": \"Team dedicated to securing MediConn's digital assets\", \"purpose\": \"To implement secure architectures, conduct vulnerability assessments, and promote secure coding practices\"}}\n{\"type\": \"channel\", \"channel\": {\"team\": \"virtual_healthcare\", \"name\": \"platform_development\", \"display_name\": \"Platform Development\", \"type\": \"O\", \"header\": \"Discussion and updates on the development of virtual healthcare platforms\", \"purpose\": \"To facilitate collaboration among team members involved in platform development\"}}\n{\"type\": \"channel\", \"channel\": {\"team\": \"cybersecurity\", \"name\": \"security_testing\", \"display_name\": \"Security Testing\", \"type\": \"O\", \"header\": \"Discussion and updates on security testing activities\", \"purpose\": \"To share updates and results of security tests, including phishing tests\"}}\n{\"type\": \"user\", \"user\": {\"username\": \"brian.smith\", \"email\": \"brian.smith@mediconn.com\", \"password\": \"secure_password123\", \"nickname\": \"Brian\", \"first_name\": \"Brian\", \"last_name\": \"Smith\", \"position\": \"Cybersecurity Specialist\", \"roles\": \"system_user\", \"locale\": \"en\", \"teams\": [{\"name\": \"virtual_healthcare\", \"roles\": \"team_user\", \"channels\": [{\"name\": \"platform_development\", \"roles\": \"channel_user\"}]}, {\"name\": \"cybersecurity\", \"roles\": \"team_user\", \"channels\": [{\"name\": \"security_testing\", \"roles\": \"channel_user\"}]}]}}\n{\"type\": \"user\", \"user\": {\"username\": \"jane_doe\", \"email\": \"jane.doe@mediconn.com\", \"password\": \"jane_doe_pwd\", \"nickname\": \"Jane\", \"first_name\": \"Jane\", \"last_name\": \"Doe\", \"position\": \"Platform Developer\", \"roles\": \"system_user\", \"locale\": \"en\", \"teams\": [{\"name\": \"virtual_healthcare\", \"roles\": \"team_user\", \"channels\": [{\"name\": \"platform_development\", \"roles\": \"channel_user\"}]}]}}\n{\"type\": \"user\", \"user\": {\"username\": \"john_doe\", \"email\": \"john.doe@mediconn.com\", \"password\": \"john_doe_pwd\", \"nickname\": \"John\", \"first_name\": \"John\", \"last_name\": \"Doe\", \"position\": \"IT Manager\", \"roles\": \"system_user\", \"locale\": \"en\", \"teams\": [{\"name\": \"cybersecurity\", \"roles\": \"team_user\", \"channels\": [{\"name\": \"security_testing\", \"roles\": \"channel_user\"}]}]}}\n{\"type\": \"post\", \"post\": {\"team\": \"virtual_healthcare\", \"channel\": \"platform_development\", \"user\": \"jane_doe\", \"message\": \"Hey team, I think we need to improve the UI/UX of our platform. I've received some feedback from users stating it's not as intuitive as it could be. Let's discuss this in our next meeting.\", \"created_at\": 1620500000000}}\n{\"type\": \"post\", \"post\": {\"team\": \"virtual_healthcare\", \"channel\": \"platform_development\", \"user\": \"brian.smith\", \"message\": \"Great point, Jane. There's always room for improvement. Let's get the team's input and discuss potential changes in the next meeting.\", \"created_at\": 1620500100000}}\n{\"type\": \"post\", \"post\": {\"team\": \"cybersecurity\", \"channel\": \"security_testing\", \"user\": \"john_doe\", \"message\": \"Brian, I was thinking we might need to review our firewall settings. I've noticed a few suspicious activities lately which we should take a closer look at.\", \"created_at\": 1620500200000}}\n{\"type\": \"post\", \"post\": {\"team\": \"cybersecurity\", \"channel\": \"security_testing\", \"user\": \"brian.smith\", \"message\": \"Alright, John. I'll look into it right away. Let's ensure our systems are as secure as possible.\", \"created_at\": 1620500300000}}\n{\"type\": \"post\", \"post\": {\"team\": \"virtual_healthcare\", \"channel\": \"platform_development\", \"user\": \"jane_doe\", \"message\": \"Could we also discuss the new feature requests from clients in the next meeting? I believe adding them might significantly improve user experience and satisfaction.\", \"created_at\": 1620500400000}}\n{\"type\": \"post\", \"post\": {\"team\": \"cybersecurity\", \"channel\": \"security_testing\", \"user\": \"brian.smith\", \"message\": \"Team, as part of our Q1 2025 cybersecurity initiatives, we conducted a series of mock phishing tests to assess our employees' readiness and response to potential threats. I'm glad to report that we successfully carried out 3 mock phishing tests between January 1 and March 31, 2025. The results will help us identify areas of improvement and tailor our cybersecurity training programs accordingly.\", \"create_at\": 1620500000000}}",
+    "chat_setup": {
+        "teams": [
+            {
+                "type": "team",
+                "team": {
+                    "name": "virtual_healthcare",
+                    "display_name": "Virtual Healthcare",
+                    "type": "O",
+                    "header": "Team focusing on the development and maintenance of virtual healthcare services",
+                    "purpose": "To develop and maintain secure, compliant, and user-friendly digital healthcare platforms"
+                }
+            },
+            {
+                "type": "team",
+                "team": {
+                    "name": "cybersecurity",
+                    "display_name": "Cybersecurity",
+                    "type": "O",
+                    "header": "Team dedicated to securing MediConn's digital assets",
+                    "purpose": "To implement secure architectures, conduct vulnerability assessments, and promote secure coding practices"
+                }
+            }
+        ],
+        "channels": [
+            {
+                "type": "channel",
+                "channel": {
+                    "team": "virtual_healthcare",
+                    "name": "platform_development",
+                    "display_name": "Platform Development",
+                    "type": "O",
+                    "header": "Discussion and updates on the development of virtual healthcare platforms",
+                    "purpose": "To facilitate collaboration among team members involved in platform development"
+                }
+            },
+            {
+                "type": "channel",
+                "channel": {
+                    "team": "cybersecurity",
+                    "name": "security_testing",
+                    "display_name": "Security Testing",
+                    "type": "O",
+                    "header": "Discussion and updates on security testing activities",
+                    "purpose": "To share updates and results of security tests, including phishing tests"
+                }
+            }
+        ],
+        "users": [
+            {
+                "type": "user",
+                "user": {
+                    "username": "brian.smith",
+                    "email": "brian.smith@mediconn.com",
+                    "password": "secure_password123",
+                    "nickname": "Brian",
+                    "first_name": "Brian",
+                    "last_name": "Smith",
+                    "position": "Cybersecurity Specialist",
+                    "roles": "system_user",
+                    "locale": "en",
+                    "teams": [
+                        {
+                            "name": "virtual_healthcare",
+                            "roles": "team_user",
+                            "channels": [
+                                {
+                                    "name": "platform_development",
+                                    "roles": "channel_user"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "cybersecurity",
+                            "roles": "team_user",
+                            "channels": [
+                                {
+                                    "name": "security_testing",
+                                    "roles": "channel_user"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "type": "user",
+                "user": {
+                    "username": "jane_doe",
+                    "email": "jane.doe@mediconn.com",
+                    "password": "jane_doe_pwd",
+                    "nickname": "Jane",
+                    "first_name": "Jane",
+                    "last_name": "Doe",
+                    "position": "Platform Developer",
+                    "roles": "system_user",
+                    "locale": "en",
+                    "teams": [
+                        {
+                            "name": "virtual_healthcare",
+                            "roles": "team_user",
+                            "channels": [
+                                {
+                                    "name": "platform_development",
+                                    "roles": "channel_user"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "type": "user",
+                "user": {
+                    "username": "john_doe",
+                    "email": "john.doe@mediconn.com",
+                    "password": "john_doe_pwd",
+                    "nickname": "John",
+                    "first_name": "John",
+                    "last_name": "Doe",
+                    "position": "IT Manager",
+                    "roles": "system_user",
+                    "locale": "en",
+                    "teams": [
+                        {
+                            "name": "cybersecurity",
+                            "roles": "team_user",
+                            "channels": [
+                                {
+                                    "name": "security_testing",
+                                    "roles": "channel_user"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    "chat_messages": [
+        {
+            "type": "post",
+            "post": {
+                "team": "cybersecurity",
+                "channel": "security_testing",
+                "user": "brian.smith",
+                "message": "Team, as part of our Q1 2025 cybersecurity initiatives, we conducted a series of mock phishing tests to assess our employees' readiness and response to potential threats. I'm glad to report that we successfully carried out 3 mock phishing tests between January 1 and March 31, 2025. The results will help us identify areas of improvement and tailor our cybersecurity training programs accordingly.",
+                "create_at": 1620500000000
+            },
+            "tag": "insight"
+        },
+        {
+            "type": "post",
+            "post": {
+                "team": "virtual_healthcare",
+                "channel": "platform_development",
+                "user": "jane_doe",
+                "message": "Hey team, I think we need to improve the UI/UX of our platform. I've received some feedback from users stating it's not as intuitive as it could be. Let's discuss this in our next meeting.",
+                "created_at": 1620500000000
+            },
+            "tag": "distractor"
+        },
+        {
+            "type": "post",
+            "post": {
+                "team": "virtual_healthcare",
+                "channel": "platform_development",
+                "user": "brian.smith",
+                "message": "Great point, Jane. There's always room for improvement. Let's get the team's input and discuss potential changes in the next meeting.",
+                "created_at": 1620500100000
+            },
+            "tag": "distractor"
+        },
+        {
+            "type": "post",
+            "post": {
+                "team": "cybersecurity",
+                "channel": "security_testing",
+                "user": "john_doe",
+                "message": "Brian, I was thinking we might need to review our firewall settings. I've noticed a few suspicious activities lately which we should take a closer look at.",
+                "created_at": 1620500200000
+            },
+            "tag": "distractor"
+        },
+        {
+            "type": "post",
+            "post": {
+                "team": "cybersecurity",
+                "channel": "security_testing",
+                "user": "brian.smith",
+                "message": "Alright, John. I'll look into it right away. Let's ensure our systems are as secure as possible.",
+                "created_at": 1620500300000
+            },
+            "tag": "distractor"
+        },
+        {
+            "type": "post",
+            "post": {
+                "team": "virtual_healthcare",
+                "channel": "platform_development",
+                "user": "jane_doe",
+                "message": "Could we also discuss the new feature requests from clients in the next meeting? I believe adding them might significantly improve user experience and satisfaction.",
+                "created_at": 1620500400000
+            },
+            "tag": "distractor"
+        }
+    ],
+    "file_format": "jsonl",
+    "file_path": ".llm_responses/generated_chat_document.jsonl",
+    "qa_type": "distractor",
+    "timestamp": "2025-11-20 00:46",
+    "app": "mattermost"
+}

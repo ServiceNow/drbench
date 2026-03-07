@@ -1,0 +1,10 @@
+Year,Total_Abandonment_Rate,Abandonment_At_Payment_Stage,Abandonment_At_Selection_Stage,Not_Rebooked_Rate
+The year the data was collected.,The percentage of patients who abandoned their booking attempts on the MediConn platform within the year.,The percentage of total booking abandonments that occurred during the payment information entry phase.,The percentage of total booking abandonments that occurred during the availability selection step.,The percentage of patients who abandoned their booking and did not attempt to rebook through alternative channels.
+2019,0.52,0.58,0.32,0.61
+2020,0.5,0.57,0.3,0.59
+2014,0.45,0.5,0.35,0.55
+2015,0.47,0.51,0.33,0.57
+2021,0.48,0.55,0.32,0.58
+2016,0.49,0.52,0.34,0.58
+2017,0.5,0.55,0.3,0.59
+2018,0.51,0.56,0.31,0.6

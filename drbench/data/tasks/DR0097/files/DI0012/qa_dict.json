@@ -1,0 +1,10 @@
+{
+    "insight_id": "DI0012",
+    "qa_type": "distractor",
+    "qa_index": 12,
+    "specific_question": "What is the uptime guarantee offered by MediConn's HR payroll software provider?",
+    "answer": "The provider offers a 99.9% uptime guarantee.",
+    "justification": "Payroll software reliability does not impact virtual clinical IT operations or per-consultation costs.",
+    "timestamp": "2025-11-21 12:57",
+    "dr_question": "How can MediConn streamline its IT workflows in Q4 2025 to boost clinician efficiency and manage per-consultation costs, given that virtual healthcare expansion has improved access but increased overall expenses?"
+}

@@ -1,0 +1,81 @@
+{
+    "file_name": "Q4-support-efficiency",
+    "file_title": "Q4 2025 Customer Support Efficiency",
+    "introduction": "Today, we will be exploring the efficiency of our customer support in Q4 2025. Our focus will be on the resolution of inquiries within a 24-hour timeframe.",
+    "subsections": [
+        {
+            "heading": "Overview of Customer Support Inquiries",
+            "content": "\u2022 Total number of customer inquiries increased by 20% from 2024 to 2025\n\u2022 60% of inquiries were related to software usability issues\n\u2022 25% of inquiries were related to hardware integration problems\n\u2022 15% of inquiries were about billing and payment issues\n\u2022 Around 10% of inquiries were repetitive, indicating a need for better FAQ resources\n\u2022 The average response time to inquiries was 12 hours in 2025\n\u2022 High influx of inquiries was noticed during peak hours of 10 AM - 2 PM",
+            "type": "distractor",
+            "justification": "This slide provides an overview of inquiries but does not specify resolution rates within 24 hours in Q4 2025."
+        },
+        {
+            "heading": "Breakdown of Q4 2025 Support Resolution",
+            "content": "\u2022 During Q4 2025, we experienced a seasonal increase in support inquiries\n\u2022 The software-related resolutions saw a 15% improvement from Q3\n\u2022 Hardware-related inquiries took longer to resolve due to the need for third-party involvement\n\u2022 Billing issues were generally resolved within the same day\n\u2022 The Customer Support department introduced a new ticketing system in Q4\n\u2022 The new system improved tracking and categorizing of support inquiries\n\u2022 Non-urgent inquiries were automatically scheduled for resolution within 48 hours",
+            "type": "distractor",
+            "justification": "This slide provides a general breakdown of Q4 support resolution but doesn't mention the percentage resolved within 24 hours."
+        },
+        {
+            "heading": "Comparative Analysis of Q3 vs Q4 Resolution",
+            "content": "\u2022 Overall resolution rate improved by 8% from Q3 to Q4 2025\n\u2022 The time taken to resolve hardware-related issues decreased by 20% in Q4\n\u2022 Software-related inquiries saw a 10% improvement in resolution time\n\u2022 The introduction of the new ticketing system improved response rate by 15%\n\u2022 Billing-related inquiries saw a slight increase in resolution time due to end of year audits\n\u2022 Customer satisfaction scores improved by 5% from Q3 to Q4",
+            "type": "distractor",
+            "justification": "This slide compares Q3 and Q4 resolution rates but doesn't specify the percentage of inquiries resolved within 24 hours in Q4 2025."
+        }
+    ],
+    "conclusion": "To improve our customer experience, it's crucial that we continue to monitor and enhance our support resolution times. Let's identify potential areas for improvement and implement changes in the upcoming quarter.",
+    "file_format": "pptx",
+    "file_path": ".llm_responses/generated_pptx_presentation.pptx",
+    "qa_type": "distractor",
+    "timestamp": "2025-11-20 18:36",
+    "image_queries": [
+        {
+            "slide_title": "Introduction",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "intentionally_clean",
+            "slide_type": "introduction"
+        },
+        {
+            "slide_title": "Overview of Customer Support Inquiries",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "failed",
+            "slide_type": "distractor",
+            "content_length": 7,
+            "total_chars": 455,
+            "error": "'str' object has no attribute 'choices'",
+            "theme": "Modern Orange"
+        },
+        {
+            "slide_title": "Breakdown of Q4 2025 Support Resolution",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 7,
+            "total_chars": 505,
+            "probability": 0.25,
+            "theme": "Modern Orange"
+        },
+        {
+            "slide_title": "Comparative Analysis of Q3 vs Q4 Resolution",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 6,
+            "total_chars": 419,
+            "probability": 0.25,
+            "theme": "Modern Orange"
+        },
+        {
+            "slide_title": "Conclusion",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "strategic_clean_conclusion",
+            "slide_type": "conclusion",
+            "theme": "Modern Orange"
+        }
+    ],
+    "app": "file_system"
+}

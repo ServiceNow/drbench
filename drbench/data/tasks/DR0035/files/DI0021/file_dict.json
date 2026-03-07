@@ -1,0 +1,81 @@
+{
+    "file_name": "office-security-review",
+    "file_title": "Office 365 Security Enhancements Review",
+    "introduction": "This presentation will provide an overview of the recent security enhancements in our Office 365 system. We will focus particularly on the conditional access policies implemented by our team.",
+    "subsections": [
+        {
+            "heading": "Office 365 Security Overview",
+            "content": "\u2022 Office 365 is equipped with advanced security features to protect against cyber threats\n\u2022 The security measures include data loss prevention, threat intelligence, and advanced threat protection\n\u2022 Lee's Market has been utilizing Office 365 security measures since its implementation in 2020\n\u2022 Employee training on security measures has been conducted twice annually\n\u2022 The IT department conducts regular audits to ensure all security features are functioning optimally\n\u2022 Security updates are regularly installed and maintained by IT\n\u2022 In 2024, the IT department detected and blocked 350 potential phishing attempts",
+            "type": "distractor",
+            "justification": "This slide provides an overview of Office 365 security but doesn't specify Jason Wong's action in March 2025."
+        },
+        {
+            "heading": "Conditional Access Policies Implementation",
+            "content": "\u2022 Conditional Access is a tool used by Office 365 to provide extra security\n\u2022 It allows administrators to control who has access to company data\n\u2022 The implementation of Conditional Access Policies began in Q4 of 2023\n\u2022 Training on Conditional Access Policies was provided to all system administrators\n\u2022 Various policies have been implemented, including device compliance, sign-in risk, and location\n\u2022 Since implementation, there's been a 15% decrease in unauthorized access attempts\n\u2022 The IT department reviews Conditional Access Policies quarterly",
+            "type": "distractor",
+            "justification": "This slide discusses the implementation of Conditional Access Policies but does not mention Jason Wong's specific action in March 2025."
+        },
+        {
+            "heading": "March 2025: Jason Wong's Policy Activation",
+            "content": "\u2022 Jason Wong is a senior system administrator with Lee's Market\n\u2022 He has been responsible for several policy implementations since joining in 2023\n\u2022 In March 2025, Jason was working on various projects related to system security\n\u2022 Jason attended a Cybersecurity conference in early March 2025\n\u2022 Post the conference, Jason implemented new strategies to enhance system security\n\u2022 Jason's actions have always aligned with the company's goal of ensuring maximum data security",
+            "type": "distractor",
+            "justification": "This slide is about Jason Wong's role and activities in March 2025, but it does not specify the exact policy he activated."
+        }
+    ],
+    "conclusion": "As we have seen, Jason Wong's policy activation significantly improved our security posture in March 2025. Moving forward, we should continue to monitor and adjust our policies based on the evolving cyber threat landscape.",
+    "file_format": "pptx",
+    "file_path": ".llm_responses/generated_pptx_presentation.pptx",
+    "qa_type": "distractor",
+    "timestamp": "2025-12-02 14:53",
+    "image_queries": [
+        {
+            "slide_title": "Introduction",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "intentionally_clean",
+            "slide_type": "introduction"
+        },
+        {
+            "slide_title": "Office 365 Security Overview",
+            "has_image": true,
+            "image_query": "Office 365 security features infographic",
+            "generation_method": "strategic_placement",
+            "slide_type": "distractor",
+            "content_length": 7,
+            "total_chars": 594,
+            "forced": false,
+            "theme": "Modern Orange"
+        },
+        {
+            "slide_title": "Conditional Access Policies Implementation",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 7,
+            "total_chars": 528,
+            "probability": 0.25,
+            "theme": "Modern Orange"
+        },
+        {
+            "slide_title": "March 2025: Jason Wong's Policy Activation",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 6,
+            "total_chars": 454,
+            "probability": 0.25,
+            "theme": "Modern Orange"
+        },
+        {
+            "slide_title": "Conclusion",
+            "has_image": true,
+            "image_query": "business security assessment team",
+            "generation_method": "strategic_conclusion",
+            "slide_type": "conclusion",
+            "theme": "Modern Orange"
+        }
+    ],
+    "app": "file_system"
+}

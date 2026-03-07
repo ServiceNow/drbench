@@ -1,0 +1,10 @@
+{
+    "insight_id": "DI0003",
+    "qa_type": "distractor",
+    "qa_index": 3,
+    "specific_question": "What is the average score on post-training assessments for new corporate sales hires at MediConn in 2025?",
+    "answer": "The average score for new corporate sales hires at MediConn was 87%.",
+    "justification": "Sales training outcomes do not affect internal IT or clinical workflow processes.",
+    "timestamp": "2025-11-21 12:54",
+    "dr_question": "How can MediConn streamline its IT workflows in Q4 2025 to boost clinician efficiency and manage per-consultation costs, given that virtual healthcare expansion has improved access but increased overall expenses?"
+}

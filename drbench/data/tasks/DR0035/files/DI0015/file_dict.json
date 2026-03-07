@@ -1,0 +1,81 @@
+{
+    "file_name": "remote-software-analysis",
+    "file_title": "Remote Software Implementation Analysis",
+    "introduction": "In this presentation, we will discuss our recent technological advancements, specifically focusing on the implementation of remote desktop software within our organization.",
+    "subsections": [
+        {
+            "heading": "Overview of Technological Advancements",
+            "content": "\u2022 Introduction of RFID technology to streamline inventory management in 2022\n\u2022 Adoption of AI-driven customer service chatbots in 2023\n\u2022 Implementation of a cloud-based point of sale system in 2024\n\u2022 Launch of a mobile app for seamless in-store and online shopping experience in 2024\n\u2022 Upgrades to the e-commerce platform for enhanced performance and security in early 2025\n\u2022 Introduction of IoT enabled devices for real-time tracking of in-store customer behavior in late 2025.",
+            "type": "distractor",
+            "justification": "Details technological advancements but not specific to the remote desktop software Jason Wong piloted."
+        },
+        {
+            "heading": "Highlight: Remote Desktop Software Pilot",
+            "content": "\u2022 Development of a comprehensive IT support strategy in anticipation of the pilot\n\u2022 Training provided to the IT team prior to the launch of the pilot\n\u2022 Careful selection of a diverse set of test users for the pilot\n\u2022 Establishment of metrics to evaluate the effectiveness of the software\n\u2022 Regular feedback sessions held with test users to gather insights\n\u2022 Post-pilot evaluation and adjustments made before the full-scale roll-out.",
+            "type": "distractor",
+            "justification": "Details the process of the pilot but doesn't mention the actual software used."
+        },
+        {
+            "heading": "Impact of Remote Software on Operations",
+            "content": "\u2022 Increased efficiency in IT support with shorter resolution times\n\u2022 Reduction in operational costs associated with in-person support\n\u2022 Improved employee satisfaction due to quicker and more convenient support\n\u2022 Enhanced security measures implemented alongside the software\n\u2022 Positive impact on the company's overall digital transformation journey\n\u2022 Increased capacity for IT team to tackle more strategic initiatives.",
+            "type": "distractor",
+            "justification": "Talks about the impact of the software but doesn't reveal the name of the software."
+        }
+    ],
+    "conclusion": "As we continue to adapt to the digital age, the successful implementation of remote desktop software has significantly improved our operational efficiency. Moving forward, we should leverage this technology to further streamline our processes and enhance customer experience.",
+    "file_format": "pptx",
+    "file_path": ".llm_responses/generated_pptx_presentation.pptx",
+    "qa_type": "distractor",
+    "timestamp": "2025-12-02 14:51",
+    "image_queries": [
+        {
+            "slide_title": "Introduction",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "intentionally_clean",
+            "slide_type": "introduction"
+        },
+        {
+            "slide_title": "Overview of Technological Advancements",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 6,
+            "total_chars": 461,
+            "probability": 0.25,
+            "theme": "Forest Theme"
+        },
+        {
+            "slide_title": "Highlight: Remote Desktop Software Pilot",
+            "has_image": true,
+            "image_query": "IT support strategy meeting",
+            "generation_method": "strategic_placement",
+            "slide_type": "distractor",
+            "content_length": 6,
+            "total_chars": 415,
+            "forced": false,
+            "theme": "Forest Theme"
+        },
+        {
+            "slide_title": "Impact of Remote Software on Operations",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 6,
+            "total_chars": 401,
+            "probability": 0.25,
+            "theme": "Forest Theme"
+        },
+        {
+            "slide_title": "Conclusion",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "strategic_clean_conclusion",
+            "slide_type": "conclusion",
+            "theme": "Forest Theme"
+        }
+    ],
+    "app": "nextcloud"
+}

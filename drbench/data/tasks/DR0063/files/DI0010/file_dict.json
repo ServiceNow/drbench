@@ -1,0 +1,81 @@
+{
+    "file_name": "Q2-2025-Delivery-Performance",
+    "file_title": "Elexion Q2 2025 Online Delivery Performance",
+    "introduction": "This presentation aims to evaluate our Q2 2025 online delivery performance, with a specific focus on average delivery time. It provides a comprehensive understanding of our delivery system's efficiency and areas of improvement.",
+    "subsections": [
+        {
+            "heading": "Analysis of Q2 2025 Online Sales",
+            "content": "\u2022 Q2 2025 saw a 12% increase in online vehicle orders compared to Q1\n\u2022 The most popular model ordered online was the Elexion E3 sedan\n\u2022 65% of online orders came from repeat customers\n\u2022 The average online buyer age demographic was 35-50\n\u2022 There was a 16% decrease in online order cancellations compared to Q1",
+            "type": "distractor",
+            "justification": "The content focuses on order statistics and demographics, not delivery times."
+        },
+        {
+            "heading": "Evaluation of Q2 2025 Delivery Process Efficiency",
+            "content": "\u2022 Introduced a new tracking system for better order visibility\n\u2022 Implemented a more efficient packaging process reducing packing time by 15%\n\u2022 Enhanced customer communication with real-time delivery updates\n\u2022 Invested in training drivers to improve customer service during delivery\n\u2022 Ensured all delivery vehicles are electric, aligning with company's sustainability goals",
+            "type": "distractor",
+            "justification": "The content discusses improvements made to the delivery process, but does not mention delivery times."
+        },
+        {
+            "heading": "Overview of Q2 2025 Average Vehicle Delivery Time",
+            "content": "\u2022 Discussed the importance of reducing delivery times for customer satisfaction\n\u2022 Highlighted the role of efficient production and logistics in timely delivery\n\u2022 Reviewed the impact of regional differences on delivery times\n\u2022 Analyzed how weather conditions can affect delivery times\n\u2022 Presented initiatives to optimize delivery routes",
+            "type": "distractor",
+            "justification": "The content discusses factors affecting delivery time, but does not provide the actual average delivery time."
+        }
+    ],
+    "conclusion": "The Q2 2025 performance assessment shows room for enhancement in our delivery process efficiency. As we move forward, it is crucial to devise strategies to reduce average delivery time, thereby improving customer satisfaction and sales.",
+    "file_format": "pptx",
+    "file_path": ".llm_responses/generated_pptx_presentation.pptx",
+    "qa_type": "distractor",
+    "timestamp": "2025-12-02 18:40",
+    "image_queries": [
+        {
+            "slide_title": "Introduction",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "intentionally_clean",
+            "slide_type": "introduction"
+        },
+        {
+            "slide_title": "Analysis of Q2 2025 Online Sales",
+            "has_image": true,
+            "image_query": "online sales growth chart 2025",
+            "generation_method": "strategic_placement",
+            "slide_type": "distractor",
+            "content_length": 5,
+            "total_chars": 294,
+            "forced": false,
+            "theme": "Elegant Teal"
+        },
+        {
+            "slide_title": "Evaluation of Q2 2025 Delivery Process Efficiency",
+            "has_image": true,
+            "image_query": "business process efficiency tracking system",
+            "generation_method": "strategic_placement",
+            "slide_type": "distractor",
+            "content_length": 5,
+            "total_chars": 358,
+            "forced": false,
+            "theme": "Elegant Teal"
+        },
+        {
+            "slide_title": "Overview of Q2 2025 Average Vehicle Delivery Time",
+            "has_image": true,
+            "image_query": "vehicle delivery timeline infographic",
+            "generation_method": "strategic_placement",
+            "slide_type": "distractor",
+            "content_length": 5,
+            "total_chars": 321,
+            "forced": false,
+            "theme": "Elegant Teal"
+        },
+        {
+            "slide_title": "Conclusion",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "strategic_clean_conclusion",
+            "slide_type": "conclusion",
+            "theme": "Elegant Teal"
+        }
+    ],
+    "app": "file_system"
+}

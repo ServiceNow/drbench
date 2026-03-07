@@ -1,0 +1,12 @@
+inquiry_id,date,store_location,inquiry_type,handled_by,inquiry_count
+A unique identifier for each customer inquiry,The date when the customer inquiry was made,The location of the Lee's Market outlet where the inquiry was made,"The category of the customer's inquiry. In this case, 'allergen information'",The staff member who handled the customer's inquiry,The total number of inquiries of this type made on the specific date at the specific store location
+1,2025-02-28,Lee's Market - Location A,allergen information,Staff Member 1,1200
+5,2025-02-25,Lee's Market - Location A,price inquiry,Staff Member 1,400
+8,2025-02-28,Lee's Market - Location A,store hours,Staff Member 4,700
+10,2025-02-28,Lee's Market - Location C,return policy,Staff Member 2,900
+2,2025-02-01,Lee's Market - Location A,product availability,Staff Member 2,100
+3,2025-02-15,Lee's Market - Location B,store hours,Staff Member 3,200
+9,2025-02-28,Lee's Market - Location B,price inquiry,Staff Member 1,800
+6,2025-02-26,Lee's Market - Location B,return policy,Staff Member 2,500
+7,2025-02-27,Lee's Market - Location C,product availability,Staff Member 3,600
+4,2025-02-20,Lee's Market - Location C,allergen information,Staff Member 4,300

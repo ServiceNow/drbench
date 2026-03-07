@@ -1,0 +1,13 @@
+company_name,certification,year_achieved,renewal_date,audit_status
+The name of the company.,The name of the certification that the company's IT department has achieved.,The year when the certification was achieved.,The date when the certification was last renewed.,The status of the most recent audit on the company's IT and data security systems. This can be used to verify the certification.
+SafeNet Systems,ISO 27001,2020,2020-12-15,Successful
+MediConn Solutions,ISO 27001,2022,2022-09-01,Successful
+TechNova Corp,ISO 27001,2022,2022-01-05,Successful
+MediConn Solutions,ISO 27001,2020,2020-09-01,Successful
+MediConn Solutions,ISO 27001,2023,2023-09-01,Successful
+CloudNet Solutions,ISO 27001,2023,2023-08-11,Successful
+MediConn Solutions,ISO 27001,2025,2025-09-01,Successful
+MediConn Solutions,ISO 27001,2024,2024-09-01,Successful
+DataFlow Systems,ISO 27001,2021,2021-07-10,Successful
+CyberSecure Corp,ISO 27001,2024,2024-06-20,Successful
+MediConn Solutions,ISO 27001,2021,2021-09-01,Successful

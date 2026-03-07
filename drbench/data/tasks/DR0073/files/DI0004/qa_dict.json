@@ -1,0 +1,10 @@
+{
+    "insight_id": "DI0004",
+    "qa_type": "distractor",
+    "qa_index": 4,
+    "specific_question": "What interior noise level did Elexion Automotive achieve at 70 mph highway speed during Ethan's quality assurance team's Q2 2024 testing?",
+    "answer": "During the Q2 2024 testing, Ethan and his quality assurance team measured that Elexion Automotive electric vehicles achieved a noise level of 55 dB at 70 mph.",
+    "justification": "",
+    "timestamp": "2025-11-20 03:17",
+    "dr_question": "How can Elexion Automotive's control interface design strategy for 2026 EV models prioritize physical buttons and switches by Q3 2025 to reduce the 30% higher control/display problem rate for EVs and achieve PP100 scores below the 266 EV average?"
+}

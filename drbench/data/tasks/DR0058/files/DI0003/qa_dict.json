@@ -1,0 +1,10 @@
+{
+    "insight_id": "DI0003",
+    "qa_type": "distractor",
+    "qa_index": 3,
+    "specific_question": "Between June 1 and June 28, 2024, how many internal reports did the cybersecurity specialist generate on system configuration changes for MediConn\u2019s IT team?",
+    "answer": "Data from the IT department show that the cybersecurity specialist generated 6 internal reports on configuration changes between June 1 and June 28, 2024.",
+    "justification": "",
+    "timestamp": "2025-11-20 00:44",
+    "dr_question": "In 2026, since a ransomware attack would not be just an IT issue but a risk to every function of MediConn Solutions, what specific architectural and procedural controls would a cybersecurity specialist need to design and implement to minimize the blast radius and ensure MediConn\u2019s clinical continuity during an extended loss of services from one of their third-party providers?"
+}

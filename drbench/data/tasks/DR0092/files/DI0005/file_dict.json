@@ -1,0 +1,247 @@
+{
+    "file_name": "roundcube_email_20251120_154450",
+    "content": "{\"type\": \"user\", \"username\": \"emma.martinez\", \"first_name\": \"Emma\", \"last_name\": \"Martinez\", \"email\": \"emma.martinez@mediconn.com\", \"password\": \"securepassword123\"}\n{\"type\": \"user\", \"username\": \"john.doe\", \"first_name\": \"John\", \"last_name\": \"Doe\", \"email\": \"john.doe@mediconn.com\", \"password\": \"password1234\"}\n{\"type\": \"user\", \"username\": \"sarah.jones\", \"first_name\": \"Sarah\", \"last_name\": \"Jones\", \"email\": \"sarah.jones@mediconn.com\", \"password\": \"password5678\"}\n{\"type\": \"user\", \"username\": \"michael.brown\", \"first_name\": \"Michael\", \"last_name\": \"Brown\", \"email\": \"michael.brown@mediconn.com\", \"password\": \"password9012\"}\n{\"type\": \"user\", \"username\": \"lisa.taylor\", \"first_name\": \"Lisa\", \"last_name\": \"Taylor\", \"email\": \"lisa.taylor@mediconn.com\", \"password\": \"password3456\"}\n{\"type\": \"user\", \"username\": \"peter.clark\", \"first_name\": \"Peter\", \"last_name\": \"Clark\", \"email\": \"peter.clark@mediconn.com\", \"password\": \"password7890\"}\n{\"type\": \"user\", \"username\": \"susan.johnson\", \"first_name\": \"Susan\", \"last_name\": \"Johnson\", \"email\": \"susan.johnson@mediconn.com\", \"password\": \"password2345\"}\n{\"type\": \"user\", \"username\": \"robert.miller\", \"first_name\": \"Robert\", \"last_name\": \"Miller\", \"email\": \"robert.miller@mediconn.com\", \"password\": \"password6789\"}\n{\"type\": \"email\", \"id\": \"email_001\", \"subject\": \"Monthly Team Meeting Schedule\", \"from\": \"emma.martinez@mediconn.com\", \"from_name\": \"Emma Martinez\", \"to\": [\"john.doe@mediconn.com\", \"sarah.jones@mediconn.com\", \"michael.brown@mediconn.com\", \"lisa.taylor@mediconn.com\", \"peter.clark@mediconn.com\", \"susan.johnson@mediconn.com\", \"robert.miller@mediconn.com\"], \"cc\": [], \"date\": \"2026-01-05 09:00:00\", \"body\": \"Dear Team,\\n\\nHere is the schedule for our monthly team meetings for the first quarter of 2026. Please mark your calendars and let me know if you have any conflicts.\\n\\nJanuary 18th - 10:00 AM\\nFebruary 15th - 10:00 AM\\nMarch 15th - 10:00 AM\\n\\nBest,\\nEmma\", \"folder\": \"sent\", \"read\": true, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_002\", \"subject\": \"Project Alpha: Status Update\", \"from\": \"john.doe@mediconn.com\", \"from_name\": \"John Doe\", \"to\": [\"emma.martinez@mediconn.com\"], \"cc\": [], \"date\": \"2026-01-10 14:30:00\", \"body\": \"Hi Emma,\\n\\nJust wanted to give you a quick update on Project Alpha. The development team has completed the initial design phase and we are now moving into the testing phase. I'll keep you posted on our progress.\\n\\nBest,\\nJohn\", \"folder\": \"inbox\", \"read\": true, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_003\", \"subject\": \"2026 Budget Planning\", \"from\": \"sarah.jones@mediconn.com\", \"from_name\": \"Sarah Jones\", \"to\": [\"emma.martinez@mediconn.com\"], \"cc\": [\"john.doe@mediconn.com\", \"michael.brown@mediconn.com\"], \"date\": \"2026-01-15 11:20:00\", \"body\": \"Hello Emma,\\n\\nI'm preparing the budget for 2026 and need your input on the estimated costs for the compliance department. Could you send me your projections by the end of next week?\\n\\nBest,\\nSarah\", \"folder\": \"inbox\", \"read\": true, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_004\", \"subject\": \"Customer Satisfaction Survey Results\", \"from\": \"lisa.taylor@mediconn.com\", \"from_name\": \"Lisa Taylor\", \"to\": [\"emma.martinez@mediconn.com\"], \"cc\": [], \"date\": \"2026-01-20 16:45:00\", \"body\": \"Hi Emma,\\n\\nThe results from our latest customer satisfaction survey are in. I've attached the report for your review. Let me know if you have any questions or comments.\\n\\nBest,\\nLisa\", \"folder\": \"inbox\", \"read\": true, \"attachments\": [\"Customer_Satisfaction_Survey_Results.pdf\"]}\n{\"type\": \"email\", \"id\": \"email_005\", \"subject\": \"New Employee Onboarding\", \"from\": \"peter.clark@mediconn.com\", \"from_name\": \"Peter Clark\", \"to\": [\"emma.martinez@mediconn.com\"], \"cc\": [\"susan.johnson@mediconn.com\"], \"date\": \"2026-01-25 10:15:00\", \"body\": \"Good Morning Emma,\\n\\nWe have a new hire starting next week in the compliance department. Could you prepare an onboarding plan and schedule a meeting to go over the compliance protocols and procedures?\\n\\nBest,\\nPeter\", \"folder\": \"inbox\", \"read\": true, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_001\", \"subject\": \"Re: Compliance Controls for Indigenous Patients in Low-Connectivity Environments\", \"from\": \"emma.martinez@mediconn.com\", \"from_name\": \"Emma Martinez\", \"to\": [\"john.doe@mediconn.com\", \"sarah.jones@mediconn.com\"], \"cc\": [\"michael.brown@mediconn.com\", \"lisa.taylor@mediconn.com\", \"peter.clark@mediconn.com\", \"susan.johnson@mediconn.com\", \"robert.miller@mediconn.com\"], \"date\": \"2026-01-15 10:30:00\", \"body\": \"Team,\\n\\nAs part of our initiative to enhance the virtual healthcare experience for Indigenous patients in low-connectivity environments, I've been examining our current compliance controls regarding secure authentication and patient verification.\\n\\nWhile our internal CX reports show an average satisfaction score of 4.7 out of 5 across all patient interactions, I believe there are several areas we can improve to ensure a higher level of security and satisfaction specifically for our Indigenous patients in low-connectivity environments.\\n\\nI will be drafting a proposal for additional compliance controls and will share it with you all for feedback and insight soon.\\n\\nBest,\\nEmma\", \"folder\": \"inbox\", \"read\": true, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_002\", \"subject\": \"Re: Compliance Controls for Indigenous Patients in Low-Connectivity Environments\", \"from\": \"john.doe@mediconn.com\", \"from_name\": \"John Doe\", \"to\": [\"emma.martinez@mediconn.com\"], \"cc\": [\"sarah.jones@mediconn.com\", \"michael.brown@mediconn.com\", \"lisa.taylor@mediconn.com\", \"peter.clark@mediconn.com\", \"susan.johnson@mediconn.com\", \"robert.miller@mediconn.com\"], \"date\": \"2026-01-15 12:15:00\", \"body\": \"Emma,\\n\\nThank you for your initiative on this. Looking forward to your proposal and happy to provide feedback.\\n\\nI think you're spot on that while our overall patient satisfaction score is high, we could improve the experience for our Indigenous patients in low-connectivity environments.\\n\\nRegards,\\nJohn\", \"folder\": \"inbox\", \"read\": false, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_003\", \"subject\": \"Re: Compliance Controls for Indigenous Patients in Low-Connectivity Environments\", \"from\": \"sarah.jones@mediconn.com\", \"from_name\": \"Sarah Jones\", \"to\": [\"emma.martinez@mediconn.com\", \"john.doe@mediconn.com\"], \"cc\": [\"michael.brown@mediconn.com\", \"lisa.taylor@mediconn.com\", \"peter.clark@mediconn.com\", \"susan.johnson@mediconn.com\", \"robert.miller@mediconn.com\"], \"date\": \"2026-01-15 14:30:00\", \"body\": \"Emma and team,\\n\\nI agree with John. Any proposal that can improve the user experience and ensure security for our Indigenous patients, especially in low-connectivity environments, should be considered. Looking forward to seeing your proposal, Emma.\\n\\nBest,\\nSarah\", \"folder\": \"inbox\", \"read\": false, \"attachments\": []}",
+    "email_setup": [
+        {
+            "type": "user",
+            "username": "emma.martinez",
+            "first_name": "Emma",
+            "last_name": "Martinez",
+            "email": "emma.martinez@mediconn.com",
+            "password": "securepassword123"
+        },
+        {
+            "type": "user",
+            "username": "john.doe",
+            "first_name": "John",
+            "last_name": "Doe",
+            "email": "john.doe@mediconn.com",
+            "password": "password1234"
+        },
+        {
+            "type": "user",
+            "username": "sarah.jones",
+            "first_name": "Sarah",
+            "last_name": "Jones",
+            "email": "sarah.jones@mediconn.com",
+            "password": "password5678"
+        },
+        {
+            "type": "user",
+            "username": "michael.brown",
+            "first_name": "Michael",
+            "last_name": "Brown",
+            "email": "michael.brown@mediconn.com",
+            "password": "password9012"
+        },
+        {
+            "type": "user",
+            "username": "lisa.taylor",
+            "first_name": "Lisa",
+            "last_name": "Taylor",
+            "email": "lisa.taylor@mediconn.com",
+            "password": "password3456"
+        },
+        {
+            "type": "user",
+            "username": "peter.clark",
+            "first_name": "Peter",
+            "last_name": "Clark",
+            "email": "peter.clark@mediconn.com",
+            "password": "password7890"
+        },
+        {
+            "type": "user",
+            "username": "susan.johnson",
+            "first_name": "Susan",
+            "last_name": "Johnson",
+            "email": "susan.johnson@mediconn.com",
+            "password": "password2345"
+        },
+        {
+            "type": "user",
+            "username": "robert.miller",
+            "first_name": "Robert",
+            "last_name": "Miller",
+            "email": "robert.miller@mediconn.com",
+            "password": "password6789"
+        }
+    ],
+    "email_messages": [
+        {
+            "type": "email",
+            "id": "email_001",
+            "subject": "Monthly Team Meeting Schedule",
+            "from": "emma.martinez@mediconn.com",
+            "from_name": "Emma Martinez",
+            "to": [
+                "john.doe@mediconn.com",
+                "sarah.jones@mediconn.com",
+                "michael.brown@mediconn.com",
+                "lisa.taylor@mediconn.com",
+                "peter.clark@mediconn.com",
+                "susan.johnson@mediconn.com",
+                "robert.miller@mediconn.com"
+            ],
+            "cc": [],
+            "date": "2026-01-05 09:00:00",
+            "body": "Dear Team,\n\nHere is the schedule for our monthly team meetings for the first quarter of 2026. Please mark your calendars and let me know if you have any conflicts.\n\nJanuary 18th - 10:00 AM\nFebruary 15th - 10:00 AM\nMarch 15th - 10:00 AM\n\nBest,\nEmma",
+            "folder": "sent",
+            "read": true,
+            "attachments": [],
+            "tag": "distractor"
+        },
+        {
+            "type": "email",
+            "id": "email_002",
+            "subject": "Project Alpha: Status Update",
+            "from": "john.doe@mediconn.com",
+            "from_name": "John Doe",
+            "to": [
+                "emma.martinez@mediconn.com"
+            ],
+            "cc": [],
+            "date": "2026-01-10 14:30:00",
+            "body": "Hi Emma,\n\nJust wanted to give you a quick update on Project Alpha. The development team has completed the initial design phase and we are now moving into the testing phase. I'll keep you posted on our progress.\n\nBest,\nJohn",
+            "folder": "inbox",
+            "read": true,
+            "attachments": [],
+            "tag": "distractor"
+        },
+        {
+            "type": "email",
+            "id": "email_003",
+            "subject": "2026 Budget Planning",
+            "from": "sarah.jones@mediconn.com",
+            "from_name": "Sarah Jones",
+            "to": [
+                "emma.martinez@mediconn.com"
+            ],
+            "cc": [
+                "john.doe@mediconn.com",
+                "michael.brown@mediconn.com"
+            ],
+            "date": "2026-01-15 11:20:00",
+            "body": "Hello Emma,\n\nI'm preparing the budget for 2026 and need your input on the estimated costs for the compliance department. Could you send me your projections by the end of next week?\n\nBest,\nSarah",
+            "folder": "inbox",
+            "read": true,
+            "attachments": [],
+            "tag": "distractor"
+        },
+        {
+            "type": "email",
+            "id": "email_004",
+            "subject": "Customer Satisfaction Survey Results",
+            "from": "lisa.taylor@mediconn.com",
+            "from_name": "Lisa Taylor",
+            "to": [
+                "emma.martinez@mediconn.com"
+            ],
+            "cc": [],
+            "date": "2026-01-20 16:45:00",
+            "body": "Hi Emma,\n\nThe results from our latest customer satisfaction survey are in. I've attached the report for your review. Let me know if you have any questions or comments.\n\nBest,\nLisa",
+            "folder": "inbox",
+            "read": true,
+            "attachments": [
+                "Customer_Satisfaction_Survey_Results.pdf"
+            ],
+            "tag": "distractor"
+        },
+        {
+            "type": "email",
+            "id": "email_005",
+            "subject": "New Employee Onboarding",
+            "from": "peter.clark@mediconn.com",
+            "from_name": "Peter Clark",
+            "to": [
+                "emma.martinez@mediconn.com"
+            ],
+            "cc": [
+                "susan.johnson@mediconn.com"
+            ],
+            "date": "2026-01-25 10:15:00",
+            "body": "Good Morning Emma,\n\nWe have a new hire starting next week in the compliance department. Could you prepare an onboarding plan and schedule a meeting to go over the compliance protocols and procedures?\n\nBest,\nPeter",
+            "folder": "inbox",
+            "read": true,
+            "attachments": [],
+            "tag": "distractor"
+        },
+        {
+            "type": "email",
+            "id": "email_001",
+            "subject": "Re: Compliance Controls for Indigenous Patients in Low-Connectivity Environments",
+            "from": "emma.martinez@mediconn.com",
+            "from_name": "Emma Martinez",
+            "to": [
+                "john.doe@mediconn.com",
+                "sarah.jones@mediconn.com"
+            ],
+            "cc": [
+                "michael.brown@mediconn.com",
+                "lisa.taylor@mediconn.com",
+                "peter.clark@mediconn.com",
+                "susan.johnson@mediconn.com",
+                "robert.miller@mediconn.com"
+            ],
+            "date": "2026-01-15 10:30:00",
+            "body": "Team,\n\nAs part of our initiative to enhance the virtual healthcare experience for Indigenous patients in low-connectivity environments, I've been examining our current compliance controls regarding secure authentication and patient verification.\n\nWhile our internal CX reports show an average satisfaction score of 4.7 out of 5 across all patient interactions, I believe there are several areas we can improve to ensure a higher level of security and satisfaction specifically for our Indigenous patients in low-connectivity environments.\n\nI will be drafting a proposal for additional compliance controls and will share it with you all for feedback and insight soon.\n\nBest,\nEmma",
+            "folder": "inbox",
+            "read": true,
+            "attachments": [],
+            "tag": "insight"
+        },
+        {
+            "type": "email",
+            "id": "email_002",
+            "subject": "Re: Compliance Controls for Indigenous Patients in Low-Connectivity Environments",
+            "from": "john.doe@mediconn.com",
+            "from_name": "John Doe",
+            "to": [
+                "emma.martinez@mediconn.com"
+            ],
+            "cc": [
+                "sarah.jones@mediconn.com",
+                "michael.brown@mediconn.com",
+                "lisa.taylor@mediconn.com",
+                "peter.clark@mediconn.com",
+                "susan.johnson@mediconn.com",
+                "robert.miller@mediconn.com"
+            ],
+            "date": "2026-01-15 12:15:00",
+            "body": "Emma,\n\nThank you for your initiative on this. Looking forward to your proposal and happy to provide feedback.\n\nI think you're spot on that while our overall patient satisfaction score is high, we could improve the experience for our Indigenous patients in low-connectivity environments.\n\nRegards,\nJohn",
+            "folder": "inbox",
+            "read": false,
+            "attachments": [],
+            "tag": "insight"
+        },
+        {
+            "type": "email",
+            "id": "email_003",
+            "subject": "Re: Compliance Controls for Indigenous Patients in Low-Connectivity Environments",
+            "from": "sarah.jones@mediconn.com",
+            "from_name": "Sarah Jones",
+            "to": [
+                "emma.martinez@mediconn.com",
+                "john.doe@mediconn.com"
+            ],
+            "cc": [
+                "michael.brown@mediconn.com",
+                "lisa.taylor@mediconn.com",
+                "peter.clark@mediconn.com",
+                "susan.johnson@mediconn.com",
+                "robert.miller@mediconn.com"
+            ],
+            "date": "2026-01-15 14:30:00",
+            "body": "Emma and team,\n\nI agree with John. Any proposal that can improve the user experience and ensure security for our Indigenous patients, especially in low-connectivity environments, should be considered. Looking forward to seeing your proposal, Emma.\n\nBest,\nSarah",
+            "folder": "inbox",
+            "read": false,
+            "attachments": [],
+            "tag": "insight"
+        }
+    ],
+    "file_format": "jsonl",
+    "file_path": ".llm_responses/generated_email_document.jsonl",
+    "qa_type": "distractor",
+    "timestamp": "2025-11-20 16:44",
+    "app": "email"
+}

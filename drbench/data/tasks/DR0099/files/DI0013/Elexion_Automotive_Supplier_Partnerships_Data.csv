@@ -1,0 +1,13 @@
+Company,Partnership_Start_Year,Partnership_End_Year,Number_of_Partnerships,Partnership_Details
+The name of the company involved in the supplier partnership,The year when the partnership with the supplier was established or renewed,The year when the partnership with the supplier ended or is due to expire,The number of supplier partnerships that the company formed or renewed within the specified period,Additional details or notes about the supplier partnership
+CompE,2018,2020,5,Renewed five partnerships in the finance sector
+CompG,2016,2018,3,Renewed three partnerships in the manufacturing sector
+CompB,2018,2021,6,Established new partnerships with suppliers in the energy sector
+CompC,2017,2019,2,Renewed two partnerships with suppliers in the IT sector
+Elexion,2020,2022,12,Renewed partnerships in the energy sector
+CompA,2019,2020,3,Renewed three partnerships in the manufacturing sector
+CompD,2019,2021,7,Formed new partnerships in the healthcare sector
+CompH,2015,2017,2,Formed new partnerships in the healthcare sector
+Elexion,2022,2023,10,Formed new partnerships in the automotive sector
+CompF,2017,2018,4,Established new partnerships in the IT sector
+Elexion,2024,2025,14,Supplier partnership counts are not directly related to Elexion's compliance documentation frameworks.

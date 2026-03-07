@@ -1,0 +1,10 @@
+{
+    "insight_id": "IN0005",
+    "qa_type": "insight",
+    "qa_index": 5,
+    "specific_question": "What is the current average EV battery inventory level across Elexion\u2019s North American distribution centers?",
+    "answer": "As of October 2025, Elexion internal logistics tracking indicates that an average of 78% of planned battery inventory is in stock across all distribution centers, with the lowest levels at the Midwest and Northeast hubs.",
+    "justification": "",
+    "timestamp": "2025-12-02 22:05",
+    "dr_question": "Based on the 2024 report \"Trends in electric cars\" on iea.org, which developments in battery technology and EV supply chains are likely to impact global production and delivery dynamics by Q2 2026?"
+}

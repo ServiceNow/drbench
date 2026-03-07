@@ -1,0 +1,10 @@
+{
+    "insight_id": "DI0007",
+    "qa_type": "distractor",
+    "qa_index": 7,
+    "specific_question": "What was the average checkout time for customers at Lee's Market in Q3 2025, a KPI shared by Jason Wong in his monthly dashboard?",
+    "answer": "In Q3 2025, the average checkout time as shared by Jason Wong in his monthly dashboard held steady at 4.2 minutes, with express lanes and self-checkout helping reduce peak time wait for customers at Lee's Market.",
+    "justification": "",
+    "timestamp": "2025-11-19 10:44",
+    "dr_question": "How can Lee's Market, guided by information security manager Jason Wong, design and implement a cybersecurity awareness and training program by the end of 2025 that mitigates security risk from high employee turnover and seasonal hiring while minimizing incidents caused by human error and supporting the company's growth in both US and Canadian markets?"
+}

@@ -1,0 +1,81 @@
+{
+    "file_name": "durability-test-analysis",
+    "file_title": "2025 Prototype Durability Test Analysis",
+    "introduction": "As we prepare for the launch of our 2025 model, it's crucial to understand the findings from our recent durability tests. This presentation focuses on the suspension component failures detected during these tests.",
+    "subsections": [
+        {
+            "heading": "Overview of 2025 Model Durability Test",
+            "content": "\u2022 The durability test was conducted over a period of 120 days\n\u2022 A total of 15 prototypes of the 2025 model were put through the test\n\u2022 The test simulated a variety of driving conditions, from urban traffic to rough terrains\n\u2022 The prototypes were driven for an average of 18 hours per day during the test\n\u2022 Sophisticated tracking technology was used to monitor all aspects of the vehicles' performance\n\u2022 The test was carried out in a controlled environment to ensure consistent results\n\u2022 An independent third-party agency was used to verify the integrity of the testing process",
+            "type": "distractor",
+            "justification": "While it provides an overview of the testing process, it does not give specific information about the suspension component failures."
+        },
+        {
+            "heading": "Suspension Component Failures Analysis",
+            "content": "\u2022 The suspension components were sourced from a reputable supplier\n\u2022 All components were thoroughly inspected prior to installation\n\u2022 The components were designed for maximum durability and performance\n\u2022 The testing process included regular checks on the suspension system\n\u2022 Despite rigorous quality control measures, failures can occur in any complex mechanical system\n\u2022 A detailed failure analysis will be carried out to determine the exact cause of the failures\n\u2022 Recommendations will be made to prevent similar failures in future models",
+            "type": "distractor",
+            "justification": "The content discusses the suspension components and analysis process, but doesn't provide the number of failures detected during the durability test."
+        },
+        {
+            "heading": "Impact on Production Timeline and Costs",
+            "content": "\u2022 Any component failure can potentially delay the production timeline\n\u2022 A delay in production can result in increased costs\n\u2022 The company has contingency plans in place to mitigate such risks\n\u2022 The cost of replacing faulty components is factored into the overall production budget\n\u2022 The company is committed to delivering high-quality products, even if it means incurring additional costs\n\u2022 The impact on the production timeline and costs will be thoroughly assessed\n\u2022 Measures will be taken to minimize any negative impact on the production timeline and costs",
+            "type": "distractor",
+            "justification": "The content talks about the potential impact of component failures, but doesn't state the specific impact of the suspension failures detected during the 2025 model's durability test."
+        }
+    ],
+    "conclusion": "Our analysis reveals certain challenges in the suspension components of our 2025 model. Moving forward, we need to prioritize these concerns during the redesign phase to ensure a successful and punctual launch.",
+    "file_format": "pptx",
+    "file_path": ".llm_responses/generated_pptx_presentation.pptx",
+    "qa_type": "distractor",
+    "timestamp": "2025-12-02 19:03",
+    "image_queries": [
+        {
+            "slide_title": "Introduction",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "intentionally_clean",
+            "slide_type": "introduction"
+        },
+        {
+            "slide_title": "Overview of 2025 Model Durability Test",
+            "has_image": true,
+            "image_query": "durability testing prototypes lab",
+            "generation_method": "strategic_placement",
+            "slide_type": "distractor",
+            "content_length": 7,
+            "total_chars": 556,
+            "forced": false,
+            "theme": "Corporate Blue"
+        },
+        {
+            "slide_title": "Suspension Component Failures Analysis",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 7,
+            "total_chars": 520,
+            "probability": 0.25,
+            "theme": "Corporate Blue"
+        },
+        {
+            "slide_title": "Impact on Production Timeline and Costs",
+            "has_image": true,
+            "image_query": "production timeline graph with costs",
+            "generation_method": "strategic_placement",
+            "slide_type": "distractor",
+            "content_length": 7,
+            "total_chars": 540,
+            "forced": false,
+            "theme": "Corporate Blue"
+        },
+        {
+            "slide_title": "Conclusion",
+            "has_image": true,
+            "image_query": "automotive suspension analysis report",
+            "generation_method": "strategic_conclusion",
+            "slide_type": "conclusion",
+            "theme": "Corporate Blue"
+        }
+    ],
+    "app": "nextcloud"
+}

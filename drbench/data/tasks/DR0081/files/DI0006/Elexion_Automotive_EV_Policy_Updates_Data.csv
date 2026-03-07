@@ -1,0 +1,12 @@
+Company,Policy_Area,Number_of_Updates,Start_Date,End_Date
+"The name of the company that recorded the policy update, in this case, Elexion Automotive","The specific area of policy the update pertains to, such as 'EV subsidies', 'safety standards', or 'import duties'",The total number of updates recorded in the specified policy area during the specified time period,The start date of the period during which the updates were recorded,The end date of the period during which the updates were recorded
+Elexion Automotive,EV subsidies,4,2024-11-01,2024-12-31
+Elexion Automotive,safety standards,2,2025-08-01,2025-08-31
+Elexion Automotive,"EV subsidies, safety standards, and import duties",26,2025-01-01,2025-09-30
+Elexion Automotive,EV subsidies,2,2025-09-01,2025-09-30
+Elexion Automotive,import duties,5,2025-01-01,2025-02-28
+Elexion Automotive,safety standards,10,2024-10-01,2024-11-30
+Elexion Automotive,safety standards,8,2025-03-01,2025-04-30
+Elexion Automotive,import duties,7,2024-08-01,2024-09-30
+Elexion Automotive,import duties,3,2025-07-01,2025-07-31
+Elexion Automotive,EV subsidies,6,2025-05-01,2025-06-30

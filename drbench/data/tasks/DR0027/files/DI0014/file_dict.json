@@ -1,0 +1,82 @@
+{
+    "file_name": "customer-feedback-utilization",
+    "file_title": "Q2 2024 Customer Feedback Utilization",
+    "introduction": "This presentation explores our Q2 2024 strategy on leveraging customer feedback to enhance our online customer service. We will also review its impact on our response time and overall customer satisfaction.",
+    "subsections": [
+        {
+            "heading": "Overview of Q2 2024 Customer Feedback",
+            "content": "\u2022 In Q2 2024, Lee\u2019s Market received over 2,000 customer feedback forms per week\n\u2022 65% of the feedback was related to in-store shopping experiences\n\u2022 The feedback ranged across various store departments, including produce, bakery, and seafood\n\u2022 30% of responses pointed towards product quality and pricing\n\u2022 Feedback forms were presented in multiple languages, including English, Mandarin, Korean and Vietnamese\n\u2022 Over 70% of the customers used the digital feedback form available on the website",
+            "type": "distractor",
+            "justification": "Details customer feedback but doesn't specify how it was used to reduce response time for online inquiries. Focuses on general feedback statistics."
+        },
+        {
+            "heading": "Implementation of Feedback in Customer Service",
+            "content": "\u2022 The customer service team held weekly meetings to review and analyze feedback\n\u2022 Feedback was categorized into different themes for clearer understanding\n\u2022 Efforts were made to improve in-store experiences based on feedback\n\u2022 The customer service team underwent training to handle feedback more effectively\n\u2022 Customer service prioritized feedback that had the highest frequency",
+            "type": "distractor",
+            "justification": "Details the customer service team's handling of feedback but doesn't mention how it impacted online customer inquiry response time. Focuses on procedural information."
+        },
+        {
+            "heading": "Impact on Online Customer Inquiry Response Time",
+            "content": "\u2022 The average response time for online inquiries was 24 hours in Q2 2024\n\u2022 There was a 10% increase in online customer inquiries in Q2 2024 compared to Q1 2024\n\u2022 Lee\u2019s Market hired additional customer service staff to handle the increased volume of inquiries\n\u2022 The company integrated a new AI chatbot to assist with handling customer inquiries\n\u2022 The new chatbot was responsible for handling 15% of all online inquiries",
+            "type": "distractor",
+            "justification": "Discusses changes to the online inquiry process but doesn't link these changes to customer feedback forms. Focuses on operational details."
+        }
+    ],
+    "conclusion": "Through strategic use of customer feedback, we managed to significantly reduce our online inquiry response time. Moving forward, we must continue to leverage this feedback to improve our services and maintain customer satisfaction.",
+    "file_format": "pptx",
+    "file_path": ".llm_responses/generated_pptx_presentation.pptx",
+    "qa_type": "distractor",
+    "timestamp": "2025-11-19 02:17",
+    "image_queries": [
+        {
+            "slide_title": "Introduction",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "intentionally_clean",
+            "slide_type": "introduction"
+        },
+        {
+            "slide_title": "Overview of Q2 2024 Customer Feedback",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 6,
+            "total_chars": 477,
+            "probability": 0.25,
+            "theme": "Bold Crimson"
+        },
+        {
+            "slide_title": "Implementation of Feedback in Customer Service",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "failed",
+            "slide_type": "distractor",
+            "content_length": 5,
+            "total_chars": 364,
+            "error": "'str' object has no attribute 'choices'",
+            "theme": "Bold Crimson"
+        },
+        {
+            "slide_title": "Impact on Online Customer Inquiry Response Time",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 5,
+            "total_chars": 404,
+            "probability": 0.25,
+            "theme": "Bold Crimson"
+        },
+        {
+            "slide_title": "Conclusion",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "conclusion_failed",
+            "slide_type": "conclusion",
+            "error": "'str' object has no attribute 'choices'",
+            "theme": "Bold Crimson"
+        }
+    ],
+    "app": "file_system"
+}

@@ -1,0 +1,10 @@
+{
+    "insight_id": "DI0001",
+    "qa_type": "distractor",
+    "qa_index": 1,
+    "specific_question": "By July 15, 2025, had Elexion Automotive completed its transition to fully automated inventory management across all production facilities?",
+    "answer": "Yes. Internal operations records confirm that by July 15, 2025, Elexion Automotive had finalized its shift to a fully automated inventory management system across all of its 60 production plants.",
+    "justification": "",
+    "timestamp": "2025-11-20 03:31",
+    "dr_question": "How can Elexion Automotive use real-time data from IoT sensors embedded in vehicles and manufacturing equipment, combined with digital engineering-enabled digital twins, to enhance predictive maintenance and minimize downtime in production lines by the end of 2025?"
+}

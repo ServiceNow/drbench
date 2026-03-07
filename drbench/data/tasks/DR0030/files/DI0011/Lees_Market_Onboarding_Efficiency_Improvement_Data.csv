@@ -1,0 +1,12 @@
+department,change_introduced_by,change_introduced_in,change_description,onboarding_time_saved
+"The department where the new employee onboarding process took place. In this case, it is the marketing department.","The team or department that introduced the change improving the onboarding process. Here, it is the Knowledge Management (KM) team.","The quarter and year when the change was introduced. For this insight, it is Q4 2024.","Brief description of the change that was introduced. In this case, it is the revision of training materials.","The average time saved in hours on the onboarding process as a result of the change. Here, it is 2 hours."
+Sales,KM Team,2024-07-01,Revised sales pitch training,1.7
+Sales,HR Department,2024-03-01,Improved onboarding orientation,1
+Marketing,HR Department,2024-05-01,Enhanced cultural integration activities,1.3
+IT,HR Department,2024-08-01,Improved IT systems training,1.4
+Marketing,KM Team,2024-10-01,Revised training materials,2
+Finance,KM Team,2024-09-01,Updated finance software tutorials,1.9
+HR,HR Department,2024-02-01,Revised HR policy briefings,1.8
+IT,KM Team,2024-06-01,Introduction of new onboarding software,1.5
+Operations,KM Team,2024-04-01,Updated operations manual,1.6
+Finance,HR Department,2024-01-01,Streamlined paperwork process,1.2

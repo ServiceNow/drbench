@@ -1,0 +1,15 @@
+Report_Period,Company_Name,Complete_Verification_Percentage,Data_Details,Compliance_Scope
+"The specific quarter and year when the data was reported, i.e., Q4 2025.","The name of the company, i.e., Elexion Automotive.",The percentage of the company's supplier investment records that include full verification data required for ZEV credit eligibility during the report period.,"Specific details about the data, i.e., the type of verification data included in the records.",Scope of the work required for the company to meet verification standards based on the current compliance gap.
+2022-12-31,Elexion Automotive,60,"Proof-of-origin, emissions certificates, investment receipts",Supplier remediation and documentation work
+2023-03-31,Bolt Motors,80,"Emissions certificates, purchase orders, investment receipts",Supplier remediation and documentation work
+2024-09-30,Dynamo Drives,77,"Proof-of-origin, emissions certificates, purchase orders",Supplier remediation and audit work
+2023-09-30,Dynamo Drives,75,"Proof-of-origin, emissions certificates, purchase orders",Supplier remediation and audit work
+2024-03-31,Bolt Motors,82,"Emissions certificates, purchase orders, investment receipts",Supplier remediation and documentation work
+2023-12-31,Elexion Automotive,63,"Proof-of-origin, emissions certificates, investment receipts",Supplier remediation and documentation work
+2022-03-31,Bolt Motors,75,"Emissions certificates, purchase orders, investment receipts",Supplier remediation and documentation work
+2024-06-30,Charge Cars,87,"Proof-of-origin, purchase orders, investment receipts",Supplier audit and documentation work
+2022-06-30,Charge Cars,80,"Proof-of-origin, purchase orders, investment receipts",Supplier audit and documentation work
+2025-12-31,Elexion Automotive,65,"Proof-of-origin, emissions certificates, investment receipts",Supplier remediation and documentation work
+2022-09-30,Dynamo Drives,70,"Proof-of-origin, emissions certificates, purchase orders",Supplier remediation and audit work
+2023-06-30,Charge Cars,85,"Proof-of-origin, purchase orders, investment receipts",Supplier audit and documentation work
+2024-12-31,Elexion Automotive,64,"Proof-of-origin, emissions certificates, investment receipts",Supplier remediation and documentation work

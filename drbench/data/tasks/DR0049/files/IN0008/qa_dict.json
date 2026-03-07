@@ -1,0 +1,10 @@
+{
+    "insight_id": "IN0008",
+    "qa_type": "insight",
+    "qa_index": 8,
+    "specific_question": "In Q4 2024, what is MediConn's customer service team size and capacity utilization rate?",
+    "answer": "In Q4 2024, the customer service team consists of 12 full-time representatives, with current capacity maxed out at 95%, leaving little room to handle volume spikes.",
+    "justification": "",
+    "timestamp": "2025-12-02 17:16",
+    "dr_question": "A 2022 patient experience report found that six in 10 patients identified poor online booking tools and convoluted call centers as barriers to making appointments. When individual patients or corporate employees struggle to book appointments on MediConn Solutions' platform, how can I determine whether the root cause is poot booking tool design or convoluted customer support processes?"
+}

@@ -1,0 +1,81 @@
+{
+    "file_name": "crm-integrity-2024",
+    "file_title": "CRM Integrity in 2024 Q4 Sales Operations",
+    "introduction": "Today, we'll examine the steps MediConn Solutions took to maintain CRM data integrity during our Q4 2024 sales operations. This analysis will provide insights into our data management practices and their impact on our operational efficiency.",
+    "subsections": [
+        {
+            "heading": "Overview of 2024 Q4 Sales Operations",
+            "content": "\u2022 MediConn Solutions experienced a 7% increase in active users for Q4 2024\n\u2022 The customer retention rate remained stable at 91% throughout the quarter\n\u2022 The sales team expanded by 12%, including professionals from various healthcare backgrounds\n\u2022 We introduced two new virtual healthcare services, contributing to a 9% increase in our service portfolio\n\u2022 Our average response time to customer queries decreased by 13%\n\u2022 The customer satisfaction index improved by 8% compared to Q3 2024",
+            "type": "distractor",
+            "justification": "The content focuses on sales performance metrics and doesn't provide information about CRM data integrity."
+        },
+        {
+            "heading": "CRM Data Management Strategies",
+            "content": "\u2022 In 2024, we implemented a new CRM software with enhanced AI capabilities\n\u2022 Our data storage shifted to a hybrid cloud model for improved security and accessibility\n\u2022 The sales team received extensive training on CRM data entry and management\n\u2022 We introduced a monthly report to monitor the quality of CRM data entry\n\u2022 The CRM system was integrated with our customer service platform to streamline operations\n\u2022 We conducted bi-weekly meetings to discuss CRM data management issues and find solutions\n\u2022 A dedicated IT team was established to handle CRM related queries and troubleshooting",
+            "type": "distractor",
+            "justification": "This slide outlines CRM strategies and infrastructure, but it doesn't discuss data integrity during Q4 2024 sales operations."
+        },
+        {
+            "heading": "Impact on CRM Data Integrity",
+            "content": "\u2022 The new CRM software improved data security by 15%\n\u2022 The hybrid cloud model for data storage reduced data loss incidents by 20%\n\u2022 The integration of CRM with customer service platform resulted in a 10% increase in data completeness\n\u2022 The CRM training resulted in a 12% decrease in data entry errors\n\u2022 The dedicated IT team resolved 95% of CRM related issues within 24 hours\n\u2022 Bi-weekly meetings helped to enhance the overall CRM data quality",
+            "type": "distractor",
+            "justification": "The content talks about general impacts on CRM data integrity, but it doesn't address the specific integrity measures during Q4 2024 sales operations."
+        }
+    ],
+    "conclusion": "Our strategic approach to CRM data management significantly contributed to our data integrity during Q4 2024. Moving forward, we should continue to refine these strategies to further enhance our operational efficiency and data accuracy.",
+    "file_format": "pptx",
+    "file_path": ".llm_responses/generated_pptx_presentation.pptx",
+    "qa_type": "distractor",
+    "timestamp": "2025-11-20 00:26",
+    "image_queries": [
+        {
+            "slide_title": "Introduction",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "intentionally_clean",
+            "slide_type": "introduction"
+        },
+        {
+            "slide_title": "Overview of 2024 Q4 Sales Operations",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "failed",
+            "slide_type": "distractor",
+            "content_length": 6,
+            "total_chars": 469,
+            "error": "'str' object has no attribute 'choices'",
+            "theme": "Elegant Teal"
+        },
+        {
+            "slide_title": "CRM Data Management Strategies",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 7,
+            "total_chars": 568,
+            "probability": 0.25,
+            "theme": "Elegant Teal"
+        },
+        {
+            "slide_title": "Impact on CRM Data Integrity",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "failed",
+            "slide_type": "distractor",
+            "content_length": 6,
+            "total_chars": 426,
+            "error": "'str' object has no attribute 'choices'",
+            "theme": "Elegant Teal"
+        },
+        {
+            "slide_title": "Conclusion",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "strategic_clean_conclusion",
+            "slide_type": "conclusion",
+            "theme": "Elegant Teal"
+        }
+    ],
+    "app": "file_system"
+}

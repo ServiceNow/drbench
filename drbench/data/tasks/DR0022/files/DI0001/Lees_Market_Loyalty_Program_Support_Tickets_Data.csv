@@ -1,0 +1,11 @@
+Month_Year,Program_Feature,Error_Type,Ticket_Count
+The specific month and year when the support tickets were created,The specific feature of the loyalty program that generated the support tickets,Type of error encountered by the users. In this context it is related to access or login errors,The number of IT support tickets generated due to the specific error
+2025-06,Exclusive Member Sales,Access/Login,28
+2025-08,Discount on Next Purchase,Access/Login,20
+2025-02,Birthday Gift Voucher,Access/Login,25
+2025-09,Free Bubble Tea with $50 Purchase,Access/Login,42
+2025-01,Points on Every Purchase,Access/Login,15
+2025-07,Free Shipping on $100 Purchase,Access/Login,30
+2025-03,Free Bubble Tea with $50 Purchase,Access/Login,40
+2025-04,Points on Every Purchase,Access/Login,38
+2025-05,Birthday Gift Voucher,Access/Login,33

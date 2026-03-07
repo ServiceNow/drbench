@@ -1,0 +1,274 @@
+{
+    "file_name": "mattermost_chat_20251119_225607",
+    "content": "{\"type\": \"version\", \"version\": 1}\n{\"type\": \"team\", \"team\": {\"name\": \"customer_support\", \"display_name\": \"Customer Support\", \"type\": \"O\", \"header\": \"Team managing all customer support operations\", \"purpose\": \"To provide excellent service to our customers and resolve their issues\"}}\n{\"type\": \"team\", \"team\": {\"name\": \"policy_updates\", \"display_name\": \"Policy Updates\", \"type\": \"O\", \"header\": \"Team dedicated to policy creation and updates\", \"purpose\": \"To ensure our policies are up-to-date and compliant with regulations\"}}\n{\"type\": \"channel\", \"channel\": {\"team\": \"customer_support\", \"name\": \"escalation_protocols\", \"display_name\": \"Escalation Protocols\", \"type\": \"O\", \"header\": \"Discuss and improve our escalation protocols\", \"purpose\": \"To ensure customer complaints are handled efficiently\"}}\n{\"type\": \"channel\", \"channel\": {\"team\": \"policy_updates\", \"name\": \"policy_creation\", \"display_name\": \"Policy Creation\", \"type\": \"O\", \"header\": \"Brainstorm and finalize new policy drafts\", \"purpose\": \"To create new policies addressing emerging needs and standards\"}}\n{\"type\": \"user\", \"user\": {\"username\": \"rachel_lee\", \"email\": \"rachel.lee@mediconn.com\", \"password\": \"password123\", \"nickname\": \"Rachel\", \"first_name\": \"Rachel\", \"last_name\": \"Lee\", \"position\": \"Director of Customer Service\", \"roles\": \"system_admin\", \"locale\": \"en\", \"teams\": [{\"name\": \"customer_support\", \"roles\": \"team_admin\", \"channels\": [{\"name\": \"escalation_protocols\", \"roles\": \"channel_admin\"}]}, {\"name\": \"policy_updates\", \"roles\": \"team_admin\", \"channels\": [{\"name\": \"policy_creation\", \"roles\": \"channel_admin\"}]}]}}\n{\"type\": \"user\", \"user\": {\"username\": \"john_smith\", \"email\": \"john.smith@mediconn.com\", \"password\": \"password123\", \"nickname\": \"John\", \"first_name\": \"John\", \"last_name\": \"Smith\", \"position\": \"Customer Support Manager\", \"roles\": \"system_user\", \"locale\": \"en\", \"teams\": [{\"name\": \"customer_support\", \"roles\": \"team_user\", \"channels\": [{\"name\": \"escalation_protocols\", \"roles\": \"channel_user\"}]}]}}\n{\"type\": \"user\", \"user\": {\"username\": \"mary_jones\", \"email\": \"mary.jones@mediconn.com\", \"password\": \"password123\", \"nickname\": \"Mary\", \"first_name\": \"Mary\", \"last_name\": \"Jones\", \"position\": \"Policy Analyst\", \"roles\": \"system_user\", \"locale\": \"en\", \"teams\": [{\"name\": \"policy_updates\", \"roles\": \"team_user\", \"channels\": [{\"name\": \"policy_creation\", \"roles\": \"channel_user\"}]}]}}\n{\"type\": \"user\", \"user\": {\"username\": \"rachel.lee\", \"nickname\": \"rachel.lee\", \"first_name\": \"Rachel\", \"last_name\": \"Lee\", \"roles\": [\"member\"], \"position\": \"Director of Customer Service\", \"email\": \"rlee@mediconnsolutions.com\", \"locale\": \"en\", \"teams\": [{\"name\": \"customer_support\", \"roles\": \"team_user\", \"channels\": [{\"name\": \"escalation_protocols\", \"roles\": \"channel_user\"}]}, {\"name\": \"policy_updates\", \"roles\": \"team_user\", \"channels\": [{\"name\": \"policy_creation\", \"roles\": \"channel_user\"}]}]}}\n{\"type\": \"post\", \"post\": {\"team\": \"customer_support\", \"channel\": \"escalation_protocols\", \"user\": \"john_smith\", \"message\": \"Just a quick reminder to everyone about our next team meeting. It's this Friday at 3pm. We'll be discussing some recent customer feedback.\", \"created_at\": 1620500000000}}\n{\"type\": \"post\", \"post\": {\"team\": \"policy_updates\", \"channel\": \"policy_creation\", \"user\": \"mary_jones\", \"message\": \"Hi everyone, I'm working on a draft for a new privacy policy. I could use some feedback before we finalize it. Please take a look when you have a moment.\", \"created_at\": 1620505000000}}\n{\"type\": \"post\", \"post\": {\"team\": \"customer_support\", \"channel\": \"escalation_protocols\", \"user\": \"rachel_lee\", \"message\": \"Thanks for the update, John. I've been looking at some of the customer satisfaction surveys and it seems like we're doing well overall but there's always room for improvement.\", \"created_at\": 1620510000000}}\n{\"type\": \"post\", \"post\": {\"team\": \"policy_updates\", \"channel\": \"policy_creation\", \"user\": \"rachel_lee\", \"message\": \"Mary, I've reviewed the draft you shared. I have a few suggestions that I think might help clarify some points. Let's set up a meeting to discuss.\", \"created_at\": 1620515000000}}\n{\"type\": \"post\", \"post\": {\"team\": \"customer_support\", \"channel\": \"escalation_protocols\", \"user\": \"john_smith\", \"message\": \"That's great to hear, Rachel. I've also noticed an improvement in our response times. Let's keep up the good work!\", \"created_at\": 1620520000000}}\n{\"type\": \"post\", \"post\": {\"team\": \"customer_support\", \"channel\": \"escalation_protocols\", \"user\": \"rachel_lee\", \"message\": \"Great job everyone! Let's continue to focus on providing the best service possible. Remember, every interaction counts.\", \"created_at\": 1620525000000}}\n{\"type\": \"post\", \"post\": {\"team\": \"policy_updates\", \"channel\": \"policy_creation\", \"user\": \"mary_jones\", \"message\": \"Rachel, I appreciate the feedback. Let's meet tomorrow at 2pm to discuss the privacy policy in detail.\", \"created_at\": 1620530000000}}\n{\"type\": \"post\", \"post\": {\"team\": \"policy_updates\", \"channel\": \"policy_creation\", \"user\": \"rachel_lee\", \"message\": \"Good morning team, I've completed the annual policy review for 2024. We've updated 8 existing customer service policies including privacy handling procedures, complaint escalation protocols, and refund authorization guidelines. In addition, we have also created 3 new policies addressing AI chatbot oversight, social media response standards, and crisis communication. Let's ensure to implement these updates effectively across the customer support team.\", \"create_at\": 1620500000000}}",
+    "chat_setup": {
+        "teams": [
+            {
+                "type": "team",
+                "team": {
+                    "name": "customer_support",
+                    "display_name": "Customer Support",
+                    "type": "O",
+                    "header": "Team managing all customer support operations",
+                    "purpose": "To provide excellent service to our customers and resolve their issues"
+                }
+            },
+            {
+                "type": "team",
+                "team": {
+                    "name": "policy_updates",
+                    "display_name": "Policy Updates",
+                    "type": "O",
+                    "header": "Team dedicated to policy creation and updates",
+                    "purpose": "To ensure our policies are up-to-date and compliant with regulations"
+                }
+            }
+        ],
+        "channels": [
+            {
+                "type": "channel",
+                "channel": {
+                    "team": "customer_support",
+                    "name": "escalation_protocols",
+                    "display_name": "Escalation Protocols",
+                    "type": "O",
+                    "header": "Discuss and improve our escalation protocols",
+                    "purpose": "To ensure customer complaints are handled efficiently"
+                }
+            },
+            {
+                "type": "channel",
+                "channel": {
+                    "team": "policy_updates",
+                    "name": "policy_creation",
+                    "display_name": "Policy Creation",
+                    "type": "O",
+                    "header": "Brainstorm and finalize new policy drafts",
+                    "purpose": "To create new policies addressing emerging needs and standards"
+                }
+            }
+        ],
+        "users": [
+            {
+                "type": "user",
+                "user": {
+                    "username": "rachel_lee",
+                    "email": "rachel.lee@mediconn.com",
+                    "password": "password123",
+                    "nickname": "Rachel",
+                    "first_name": "Rachel",
+                    "last_name": "Lee",
+                    "position": "Director of Customer Service",
+                    "roles": "system_admin",
+                    "locale": "en",
+                    "teams": [
+                        {
+                            "name": "customer_support",
+                            "roles": "team_admin",
+                            "channels": [
+                                {
+                                    "name": "escalation_protocols",
+                                    "roles": "channel_admin"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "policy_updates",
+                            "roles": "team_admin",
+                            "channels": [
+                                {
+                                    "name": "policy_creation",
+                                    "roles": "channel_admin"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "type": "user",
+                "user": {
+                    "username": "john_smith",
+                    "email": "john.smith@mediconn.com",
+                    "password": "password123",
+                    "nickname": "John",
+                    "first_name": "John",
+                    "last_name": "Smith",
+                    "position": "Customer Support Manager",
+                    "roles": "system_user",
+                    "locale": "en",
+                    "teams": [
+                        {
+                            "name": "customer_support",
+                            "roles": "team_user",
+                            "channels": [
+                                {
+                                    "name": "escalation_protocols",
+                                    "roles": "channel_user"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "type": "user",
+                "user": {
+                    "username": "mary_jones",
+                    "email": "mary.jones@mediconn.com",
+                    "password": "password123",
+                    "nickname": "Mary",
+                    "first_name": "Mary",
+                    "last_name": "Jones",
+                    "position": "Policy Analyst",
+                    "roles": "system_user",
+                    "locale": "en",
+                    "teams": [
+                        {
+                            "name": "policy_updates",
+                            "roles": "team_user",
+                            "channels": [
+                                {
+                                    "name": "policy_creation",
+                                    "roles": "channel_user"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "type": "user",
+                "user": {
+                    "username": "rachel.lee",
+                    "nickname": "rachel.lee",
+                    "first_name": "Rachel",
+                    "last_name": "Lee",
+                    "roles": [
+                        "member"
+                    ],
+                    "position": "Director of Customer Service",
+                    "email": "rlee@mediconnsolutions.com",
+                    "locale": "en",
+                    "teams": [
+                        {
+                            "name": "customer_support",
+                            "roles": "team_user",
+                            "channels": [
+                                {
+                                    "name": "escalation_protocols",
+                                    "roles": "channel_user"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "policy_updates",
+                            "roles": "team_user",
+                            "channels": [
+                                {
+                                    "name": "policy_creation",
+                                    "roles": "channel_user"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    "chat_messages": [
+        {
+            "type": "post",
+            "post": {
+                "team": "policy_updates",
+                "channel": "policy_creation",
+                "user": "rachel_lee",
+                "message": "Good morning team, I've completed the annual policy review for 2024. We've updated 8 existing customer service policies including privacy handling procedures, complaint escalation protocols, and refund authorization guidelines. In addition, we have also created 3 new policies addressing AI chatbot oversight, social media response standards, and crisis communication. Let's ensure to implement these updates effectively across the customer support team.",
+                "create_at": 1620500000000
+            },
+            "tag": "insight"
+        },
+        {
+            "type": "post",
+            "post": {
+                "team": "customer_support",
+                "channel": "escalation_protocols",
+                "user": "john_smith",
+                "message": "Just a quick reminder to everyone about our next team meeting. It's this Friday at 3pm. We'll be discussing some recent customer feedback.",
+                "created_at": 1620500000000
+            },
+            "tag": "distractor"
+        },
+        {
+            "type": "post",
+            "post": {
+                "team": "policy_updates",
+                "channel": "policy_creation",
+                "user": "mary_jones",
+                "message": "Hi everyone, I'm working on a draft for a new privacy policy. I could use some feedback before we finalize it. Please take a look when you have a moment.",
+                "created_at": 1620505000000
+            },
+            "tag": "distractor"
+        },
+        {
+            "type": "post",
+            "post": {
+                "team": "customer_support",
+                "channel": "escalation_protocols",
+                "user": "rachel_lee",
+                "message": "Thanks for the update, John. I've been looking at some of the customer satisfaction surveys and it seems like we're doing well overall but there's always room for improvement.",
+                "created_at": 1620510000000
+            },
+            "tag": "distractor"
+        },
+        {
+            "type": "post",
+            "post": {
+                "team": "policy_updates",
+                "channel": "policy_creation",
+                "user": "rachel_lee",
+                "message": "Mary, I've reviewed the draft you shared. I have a few suggestions that I think might help clarify some points. Let's set up a meeting to discuss.",
+                "created_at": 1620515000000
+            },
+            "tag": "distractor"
+        },
+        {
+            "type": "post",
+            "post": {
+                "team": "customer_support",
+                "channel": "escalation_protocols",
+                "user": "john_smith",
+                "message": "That's great to hear, Rachel. I've also noticed an improvement in our response times. Let's keep up the good work!",
+                "created_at": 1620520000000
+            },
+            "tag": "distractor"
+        },
+        {
+            "type": "post",
+            "post": {
+                "team": "customer_support",
+                "channel": "escalation_protocols",
+                "user": "rachel_lee",
+                "message": "Great job everyone! Let's continue to focus on providing the best service possible. Remember, every interaction counts.",
+                "created_at": 1620525000000
+            },
+            "tag": "distractor"
+        },
+        {
+            "type": "post",
+            "post": {
+                "team": "policy_updates",
+                "channel": "policy_creation",
+                "user": "mary_jones",
+                "message": "Rachel, I appreciate the feedback. Let's meet tomorrow at 2pm to discuss the privacy policy in detail.",
+                "created_at": 1620530000000
+            },
+            "tag": "distractor"
+        }
+    ],
+    "file_format": "jsonl",
+    "file_path": ".llm_responses/generated_chat_document.jsonl",
+    "qa_type": "distractor",
+    "timestamp": "2025-11-19 23:56",
+    "app": "mattermost"
+}

@@ -1,0 +1,245 @@
+{
+    "file_name": "roundcube_email_20251120_150645",
+    "content": "{\"type\": \"user\", \"username\": \"grace.kim\", \"first_name\": \"Grace\", \"last_name\": \"Kim\", \"email\": \"grace.kim@leesmarket.com\", \"password\": \"gkim_pwd2025\"}\n{\"type\": \"user\", \"username\": \"james.lee\", \"first_name\": \"James\", \"last_name\": \"Lee\", \"email\": \"james.lee@leesmarket.com\", \"password\": \"jlee_pwd2025\"}\n{\"type\": \"user\", \"username\": \"susan.park\", \"first_name\": \"Susan\", \"last_name\": \"Park\", \"email\": \"susan.park@leesmarket.com\", \"password\": \"spark_pwd2025\"}\n{\"type\": \"user\", \"username\": \"michael.chen\", \"first_name\": \"Michael\", \"last_name\": \"Chen\", \"email\": \"michael.chen@leesmarket.com\", \"password\": \"mchen_pwd2025\"}\n{\"type\": \"user\", \"username\": \"linda.williams\", \"first_name\": \"Linda\", \"last_name\": \"Williams\", \"email\": \"linda.williams@leesmarket.com\", \"password\": \"lwilliams_pwd2025\"}\n{\"type\": \"user\", \"username\": \"robert.johnson\", \"first_name\": \"Robert\", \"last_name\": \"Johnson\", \"email\": \"robert.johnson@leesmarket.com\", \"password\": \"rjohnson_pwd2025\"}\n{\"type\": \"user\", \"username\": \"patricia.jones\", \"first_name\": \"Patricia\", \"last_name\": \"Jones\", \"email\": \"patricia.jones@leesmarket.com\", \"password\": \"pjones_pwd2025\"}\n{\"type\": \"user\", \"username\": \"david.brown\", \"first_name\": \"David\", \"last_name\": \"Brown\", \"email\": \"david.brown@leesmarket.com\", \"password\": \"dbrown_pwd2025\"}\n{\"type\": \"email\", \"id\": \"email_001\", \"subject\": \"Weekly Sales Team Meeting Schedule\", \"from\": \"grace.kim@leesmarket.com\", \"from_name\": \"Grace Kim\", \"to\": [\"james.lee@leesmarket.com\", \"susan.park@leesmarket.com\", \"michael.chen@leesmarket.com\"], \"cc\": [], \"date\": \"2026-01-03 09:00:00\", \"body\": \"Dear team, Please remember our weekly sales meeting is scheduled for every Monday at 2pm. Looking forward to your reports and updates. Regards, Grace.\", \"folder\": \"inbox\", \"read\": true, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_002\", \"subject\": \"Updated Store Layout Project Status\", \"from\": \"linda.williams@leesmarket.com\", \"from_name\": \"Linda Williams\", \"to\": [\"grace.kim@leesmarket.com\"], \"cc\": [\"james.lee@leesmarket.com\"], \"date\": \"2026-01-07 14:30:00\", \"body\": \"Hi Grace, The new store layout project is progressing well and on track to completion by end of Q1. I'll keep you updated with any changes. Best, Linda.\", \"folder\": \"inbox\", \"read\": true, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_003\", \"subject\": \"Yearly Budget Planning Session\", \"from\": \"david.brown@leesmarket.com\", \"from_name\": \"David Brown\", \"to\": [\"grace.kim@leesmarket.com\", \"robert.johnson@leesmarket.com\"], \"cc\": [], \"date\": \"2026-01-08 08:00:00\", \"body\": \"Grace and Robert, Let's schedule a time next week to discuss the yearly budget planning. I will send a meeting invite soon. Thanks, David.\", \"folder\": \"inbox\", \"read\": true, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_004\", \"subject\": \"Customer Satisfaction Survey Results\", \"from\": \"susan.park@leesmarket.com\", \"from_name\": \"Susan Park\", \"to\": [\"grace.kim@leesmarket.com\"], \"cc\": [], \"date\": \"2026-01-10 11:00:00\", \"body\": \"Hi Grace, The results from our recent customer satisfaction survey are in. Overall, we are seeing positive feedback on our store cleanliness and customer service. Regards, Susan.\", \"folder\": \"inbox\", \"read\": true, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_005\", \"subject\": \"New HR Policy Update\", \"from\": \"patricia.jones@leesmarket.com\", \"from_name\": \"Patricia Jones\", \"to\": [\"grace.kim@leesmarket.com\", \"james.lee@leesmarket.com\", \"susan.park@leesmarket.com\", \"michael.chen@leesmarket.com\", \"linda.williams@leesmarket.com\", \"robert.johnson@leesmarket.com\", \"david.brown@leesmarket.com\"], \"cc\": [], \"date\": \"2026-01-15 10:30:00\", \"body\": \"Hello everyone, We have a new HR policy update regarding annual leave. Please review it and let me know if you have any questions. Thanks, Patricia.\", \"folder\": \"inbox\", \"read\": true, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_001\", \"subject\": \"Strategic Planning for Q1 2026 - Online Sales Targets\", \"from\": \"grace.kim@leesmarket.com\", \"from_name\": \"Grace Kim\", \"to\": [\"james.lee@leesmarket.com\", \"susan.park@leesmarket.com\", \"michael.chen@leesmarket.com\"], \"cc\": [\"linda.williams@leesmarket.com\", \"robert.johnson@leesmarket.com\", \"patricia.jones@leesmarket.com\", \"david.brown@leesmarket.com\"], \"date\": \"2025-12-01 09:00:00\", \"body\": \"Dear Team,\\n\\nAs we approach the end of the year, it's time to start thinking about our strategic goals for Q1 2026. One of our primary objectives is to boost our online sales by 20% by targeting younger consumers aged between 18\\u201335. I believe this demographic presents a significant opportunity for us to differentiate Lee's Market from other dominant players in the Canadian retail market.\\n\\nLet's start brainstorming strategies to achieve this. Looking forward to hearing your thoughts.\\n\\nBest,\\nGrace\", \"folder\": \"sent\", \"read\": true, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_002\", \"subject\": \"Re: Strategic Planning for Q1 2026 - Online Sales Targets\", \"from\": \"susan.park@leesmarket.com\", \"from_name\": \"Susan Park\", \"to\": [\"grace.kim@leesmarket.com\", \"james.lee@leesmarket.com\", \"michael.chen@leesmarket.com\"], \"cc\": [\"linda.williams@leesmarket.com\", \"robert.johnson@leesmarket.com\", \"patricia.jones@leesmarket.com\", \"david.brown@leesmarket.com\"], \"date\": \"2025-12-01 10:30:00\", \"body\": \"Grace and Team,\\n\\nI concur with the goal and target demographic. I propose that we use our warehouse locations as a unique selling point. Our four warehouses in British Columbia enable us to provide faster delivery to our customers in this region, which could be appealing to the younger, more tech-savvy consumers who value speed and convenience.\\n\\nThis could be a good angle for our marketing campaigns. What do you think?\\n\\nBest,\\nSusan\", \"folder\": \"inbox\", \"read\": true, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_003\", \"subject\": \"Re: Strategic Planning for Q1 2026 - Online Sales Targets\", \"from\": \"james.lee@leesmarket.com\", \"from_name\": \"James Lee\", \"to\": [\"grace.kim@leesmarket.com\", \"susan.park@leesmarket.com\", \"michael.chen@leesmarket.com\"], \"cc\": [\"linda.williams@leesmarket.com\", \"robert.johnson@leesmarket.com\", \"patricia.jones@leesmarket.com\", \"david.brown@leesmarket.com\"], \"date\": \"2025-12-01 11:15:00\", \"body\": \"Grace, Susan, and Team,\\n\\nI like Susan's idea. It's important to highlight our operational strengths, and our warehouse locations can indeed be a key differentiator. After all, the number of warehouses is directly related to our ability to manage inventory and ensure quick deliveries.\\n\\nLet's incorporate this into our strategy and marketing messages.\\n\\nBest,\\nJames\", \"folder\": \"inbox\", \"read\": true, \"attachments\": []}",
+    "email_setup": [
+        {
+            "type": "user",
+            "username": "grace.kim",
+            "first_name": "Grace",
+            "last_name": "Kim",
+            "email": "grace.kim@leesmarket.com",
+            "password": "gkim_pwd2025"
+        },
+        {
+            "type": "user",
+            "username": "james.lee",
+            "first_name": "James",
+            "last_name": "Lee",
+            "email": "james.lee@leesmarket.com",
+            "password": "jlee_pwd2025"
+        },
+        {
+            "type": "user",
+            "username": "susan.park",
+            "first_name": "Susan",
+            "last_name": "Park",
+            "email": "susan.park@leesmarket.com",
+            "password": "spark_pwd2025"
+        },
+        {
+            "type": "user",
+            "username": "michael.chen",
+            "first_name": "Michael",
+            "last_name": "Chen",
+            "email": "michael.chen@leesmarket.com",
+            "password": "mchen_pwd2025"
+        },
+        {
+            "type": "user",
+            "username": "linda.williams",
+            "first_name": "Linda",
+            "last_name": "Williams",
+            "email": "linda.williams@leesmarket.com",
+            "password": "lwilliams_pwd2025"
+        },
+        {
+            "type": "user",
+            "username": "robert.johnson",
+            "first_name": "Robert",
+            "last_name": "Johnson",
+            "email": "robert.johnson@leesmarket.com",
+            "password": "rjohnson_pwd2025"
+        },
+        {
+            "type": "user",
+            "username": "patricia.jones",
+            "first_name": "Patricia",
+            "last_name": "Jones",
+            "email": "patricia.jones@leesmarket.com",
+            "password": "pjones_pwd2025"
+        },
+        {
+            "type": "user",
+            "username": "david.brown",
+            "first_name": "David",
+            "last_name": "Brown",
+            "email": "david.brown@leesmarket.com",
+            "password": "dbrown_pwd2025"
+        }
+    ],
+    "email_messages": [
+        {
+            "type": "email",
+            "id": "email_001",
+            "subject": "Weekly Sales Team Meeting Schedule",
+            "from": "grace.kim@leesmarket.com",
+            "from_name": "Grace Kim",
+            "to": [
+                "james.lee@leesmarket.com",
+                "susan.park@leesmarket.com",
+                "michael.chen@leesmarket.com"
+            ],
+            "cc": [],
+            "date": "2026-01-03 09:00:00",
+            "body": "Dear team, Please remember our weekly sales meeting is scheduled for every Monday at 2pm. Looking forward to your reports and updates. Regards, Grace.",
+            "folder": "inbox",
+            "read": true,
+            "attachments": [],
+            "tag": "distractor"
+        },
+        {
+            "type": "email",
+            "id": "email_002",
+            "subject": "Updated Store Layout Project Status",
+            "from": "linda.williams@leesmarket.com",
+            "from_name": "Linda Williams",
+            "to": [
+                "grace.kim@leesmarket.com"
+            ],
+            "cc": [
+                "james.lee@leesmarket.com"
+            ],
+            "date": "2026-01-07 14:30:00",
+            "body": "Hi Grace, The new store layout project is progressing well and on track to completion by end of Q1. I'll keep you updated with any changes. Best, Linda.",
+            "folder": "inbox",
+            "read": true,
+            "attachments": [],
+            "tag": "distractor"
+        },
+        {
+            "type": "email",
+            "id": "email_003",
+            "subject": "Yearly Budget Planning Session",
+            "from": "david.brown@leesmarket.com",
+            "from_name": "David Brown",
+            "to": [
+                "grace.kim@leesmarket.com",
+                "robert.johnson@leesmarket.com"
+            ],
+            "cc": [],
+            "date": "2026-01-08 08:00:00",
+            "body": "Grace and Robert, Let's schedule a time next week to discuss the yearly budget planning. I will send a meeting invite soon. Thanks, David.",
+            "folder": "inbox",
+            "read": true,
+            "attachments": [],
+            "tag": "distractor"
+        },
+        {
+            "type": "email",
+            "id": "email_004",
+            "subject": "Customer Satisfaction Survey Results",
+            "from": "susan.park@leesmarket.com",
+            "from_name": "Susan Park",
+            "to": [
+                "grace.kim@leesmarket.com"
+            ],
+            "cc": [],
+            "date": "2026-01-10 11:00:00",
+            "body": "Hi Grace, The results from our recent customer satisfaction survey are in. Overall, we are seeing positive feedback on our store cleanliness and customer service. Regards, Susan.",
+            "folder": "inbox",
+            "read": true,
+            "attachments": [],
+            "tag": "distractor"
+        },
+        {
+            "type": "email",
+            "id": "email_005",
+            "subject": "New HR Policy Update",
+            "from": "patricia.jones@leesmarket.com",
+            "from_name": "Patricia Jones",
+            "to": [
+                "grace.kim@leesmarket.com",
+                "james.lee@leesmarket.com",
+                "susan.park@leesmarket.com",
+                "michael.chen@leesmarket.com",
+                "linda.williams@leesmarket.com",
+                "robert.johnson@leesmarket.com",
+                "david.brown@leesmarket.com"
+            ],
+            "cc": [],
+            "date": "2026-01-15 10:30:00",
+            "body": "Hello everyone, We have a new HR policy update regarding annual leave. Please review it and let me know if you have any questions. Thanks, Patricia.",
+            "folder": "inbox",
+            "read": true,
+            "attachments": [],
+            "tag": "distractor"
+        },
+        {
+            "type": "email",
+            "id": "email_001",
+            "subject": "Strategic Planning for Q1 2026 - Online Sales Targets",
+            "from": "grace.kim@leesmarket.com",
+            "from_name": "Grace Kim",
+            "to": [
+                "james.lee@leesmarket.com",
+                "susan.park@leesmarket.com",
+                "michael.chen@leesmarket.com"
+            ],
+            "cc": [
+                "linda.williams@leesmarket.com",
+                "robert.johnson@leesmarket.com",
+                "patricia.jones@leesmarket.com",
+                "david.brown@leesmarket.com"
+            ],
+            "date": "2025-12-01 09:00:00",
+            "body": "Dear Team,\n\nAs we approach the end of the year, it's time to start thinking about our strategic goals for Q1 2026. One of our primary objectives is to boost our online sales by 20% by targeting younger consumers aged between 18\u201335. I believe this demographic presents a significant opportunity for us to differentiate Lee's Market from other dominant players in the Canadian retail market.\n\nLet's start brainstorming strategies to achieve this. Looking forward to hearing your thoughts.\n\nBest,\nGrace",
+            "folder": "sent",
+            "read": true,
+            "attachments": [],
+            "tag": "insight"
+        },
+        {
+            "type": "email",
+            "id": "email_002",
+            "subject": "Re: Strategic Planning for Q1 2026 - Online Sales Targets",
+            "from": "susan.park@leesmarket.com",
+            "from_name": "Susan Park",
+            "to": [
+                "grace.kim@leesmarket.com",
+                "james.lee@leesmarket.com",
+                "michael.chen@leesmarket.com"
+            ],
+            "cc": [
+                "linda.williams@leesmarket.com",
+                "robert.johnson@leesmarket.com",
+                "patricia.jones@leesmarket.com",
+                "david.brown@leesmarket.com"
+            ],
+            "date": "2025-12-01 10:30:00",
+            "body": "Grace and Team,\n\nI concur with the goal and target demographic. I propose that we use our warehouse locations as a unique selling point. Our four warehouses in British Columbia enable us to provide faster delivery to our customers in this region, which could be appealing to the younger, more tech-savvy consumers who value speed and convenience.\n\nThis could be a good angle for our marketing campaigns. What do you think?\n\nBest,\nSusan",
+            "folder": "inbox",
+            "read": true,
+            "attachments": [],
+            "tag": "insight"
+        },
+        {
+            "type": "email",
+            "id": "email_003",
+            "subject": "Re: Strategic Planning for Q1 2026 - Online Sales Targets",
+            "from": "james.lee@leesmarket.com",
+            "from_name": "James Lee",
+            "to": [
+                "grace.kim@leesmarket.com",
+                "susan.park@leesmarket.com",
+                "michael.chen@leesmarket.com"
+            ],
+            "cc": [
+                "linda.williams@leesmarket.com",
+                "robert.johnson@leesmarket.com",
+                "patricia.jones@leesmarket.com",
+                "david.brown@leesmarket.com"
+            ],
+            "date": "2025-12-01 11:15:00",
+            "body": "Grace, Susan, and Team,\n\nI like Susan's idea. It's important to highlight our operational strengths, and our warehouse locations can indeed be a key differentiator. After all, the number of warehouses is directly related to our ability to manage inventory and ensure quick deliveries.\n\nLet's incorporate this into our strategy and marketing messages.\n\nBest,\nJames",
+            "folder": "inbox",
+            "read": true,
+            "attachments": [],
+            "tag": "insight"
+        }
+    ],
+    "file_format": "jsonl",
+    "file_path": ".llm_responses/generated_email_document.jsonl",
+    "qa_type": "distractor",
+    "timestamp": "2025-11-20 16:06",
+    "app": "email"
+}

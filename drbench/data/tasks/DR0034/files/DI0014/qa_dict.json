@@ -1,0 +1,10 @@
+{
+    "insight_id": "DI0014",
+    "qa_type": "distractor",
+    "qa_index": 14,
+    "specific_question": "What encryption protocol did Information Security Manager, Jason Wong, select for new Lee's Market staff devices in June 2025?",
+    "answer": "In June 2025, Jason Wong deployed AES-256 encryption on 45 new iPads distributed to managers for secure store management.",
+    "justification": "",
+    "timestamp": "2025-11-19 02:50",
+    "dr_question": "How can Jason Wong, given Lee's Markets' limited IT resources in 2025, strengthen employee cybersecurity training to reduce risk of retail cyberattacks that lead to operation disruptions and financial loss by Q3 2027?"
+}

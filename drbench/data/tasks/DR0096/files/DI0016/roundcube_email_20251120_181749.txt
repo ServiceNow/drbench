@@ -1,0 +1,153 @@
+================================================================================
+ROUNDCUBE EMAIL EXPORT
+================================================================================
+
+USERS:
+----------------------------------------
+• maria.gonzalez
+  Name: Maria Gonzalez
+  Email: maria.gonzalez@leesmarket.com
+
+• john.lee
+  Name: John Lee
+  Email: john.lee@leesmarket.com
+
+• anne.davis
+  Name: Anne Davis
+  Email: anne.davis@leesmarket.com
+
+• peter.martin
+  Name: Peter Martin
+  Email: peter.martin@leesmarket.com
+
+• susan.brown
+  Name: Susan Brown
+  Email: susan.brown@leesmarket.com
+
+• michael.green
+  Name: Michael Green
+  Email: michael.green@leesmarket.com
+
+EMAILS:
+================================================================================
+Email ID: email_001
+Date: 2026-01-05 09:30:00
+From: Maria Gonzalez <maria.gonzalez@leesmarket.com>
+To: john.lee@leesmarket.com
+CC: susan.brown@leesmarket.com
+Subject: New Employee Onboarding
+Folder: sent | Status: Read
+
+Message Body:
+----------------------------------------
+Hello John,
+
+I hope this email finds you well. I wanted to discuss the onboarding of the new sales team members starting next week. Could you please arrange a meeting to discuss training schedules, role expectations, and initial assignments? 
+
+I look forward to hearing from you. 
+
+Best Regards, 
+Maria
+============================================================
+
+Email ID: email_001
+Date: 2026-01-07 10:30:00
+From: Anne Davis <anne.davis@leesmarket.com>
+To: maria.gonzalez@leesmarket.com, john.lee@leesmarket.com
+CC: peter.martin@leesmarket.com, susan.brown@leesmarket.com, michael.green@leesmarket.com
+Subject: U.S. Bakery Sales Performance Review
+Folder: inbox | Status: Read
+Attachments: 1 file(s)
+
+Message Body:
+----------------------------------------
+Dear Team,
+
+Following the U.S. Census Bureau's report indicating a rise in food service sales, we should consider optimizing our in-store layouts and product displays to increase bakery sales. A recent analysis of our U.S. stores' performance shows that we have room for improvement, particularly in the bakery department.
+
+Please review the attached report and let's discuss how we can achieve a 15% increase in bakery sales by the end of Q1 2026.
+
+Best,
+Anne
+============================================================
+
+Email ID: email_002
+Date: 2026-01-07 11:45:00
+From: Maria Gonzalez <maria.gonzalez@leesmarket.com>
+To: anne.davis@leesmarket.com
+CC: john.lee@leesmarket.com, peter.martin@leesmarket.com, susan.brown@leesmarket.com, michael.green@leesmarket.com
+Subject: Re: U.S. Bakery Sales Performance Review
+Folder: inbox | Status: Read
+
+Message Body:
+----------------------------------------
+Hi Anne,
+
+Thank you for sharing the report. I agree with your suggestion to optimize our bakery displays and in-store layouts. Our New Jersey store had success with a dedicated display for Bento lunchboxes in Q1 2025, with around 15,000 units sold. However, this success did not translate to an increase in bakery sales.
+
+This indicates that while product placement and dedicated displays do drive sales, they need to be strategically aligned with our goals. I suggest we position high-margin bakery items in high-traffic areas and create attractive displays to draw customer attention.
+
+Best,
+Maria
+============================================================
+
+Email ID: email_003
+Date: 2026-01-07 13:20:00
+From: John Lee <john.lee@leesmarket.com>
+To: anne.davis@leesmarket.com, maria.gonzalez@leesmarket.com
+CC: peter.martin@leesmarket.com, susan.brown@leesmarket.com, michael.green@leesmarket.com
+Subject: Re: U.S. Bakery Sales Performance Review
+Folder: inbox | Status: Read
+
+Message Body:
+----------------------------------------
+Hi Anne and Maria,
+
+Thank you for the insights. Maria, your observations about the New Jersey store's Bento lunchbox sales are very valuable. It's clear that strategic product placement and displays are crucial to increase sales in specific categories.
+
+Let's integrate these insights into our overall strategy for optimizing our in-store layouts and product displays. I suggest we start with a pilot project in a few select stores before rolling it out across all U.S. locations.
+
+Best,
+John
+============================================================
+
+Email ID: email_002
+Date: 2026-01-10 10:15:00
+From: Peter Martin <peter.martin@leesmarket.com>
+To: maria.gonzalez@leesmarket.com, john.lee@leesmarket.com, anne.davis@leesmarket.com
+Subject: Annual Sales Conference
+Folder: inbox | Status: Unread
+
+Message Body:
+----------------------------------------
+Dear Team,
+
+I am pleased to inform you that our annual sales conference will be held on February 20-22. I believe it will be a great opportunity to learn about the latest trends in the retail industry and network with professionals.
+
+Please confirm your availability so that we can make the necessary arrangements.
+
+Best,
+Peter
+============================================================
+
+Email ID: email_003
+Date: 2026-01-15 14:45:00
+From: Michael Green <michael.green@leesmarket.com>
+To: maria.gonzalez@leesmarket.com
+CC: susan.brown@leesmarket.com
+Subject: Customer Feedback Survey
+Folder: inbox | Status: Unread
+
+Message Body:
+----------------------------------------
+Hi Maria,
+
+I wanted to discuss the feedback we received from the recent customer satisfaction survey. Could we schedule a meeting to review the results and discuss possible improvements to our services based on the feedback?
+
+Thanks,
+Michael
+============================================================
+
+================================================================================
+END OF EMAIL EXPORT
+================================================================================

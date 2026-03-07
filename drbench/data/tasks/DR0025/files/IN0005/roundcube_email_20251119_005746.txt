@@ -1,0 +1,186 @@
+================================================================================
+ROUNDCUBE EMAIL EXPORT
+================================================================================
+
+USERS:
+----------------------------------------
+• david.thompson
+  Name: David Thompson
+  Email: david.thompson@leesmarket.com
+
+• linda.chen
+  Name: Linda Chen
+  Email: linda.chen@leesmarket.com
+
+• michael.lee
+  Name: Michael Lee
+  Email: michael.lee@leesmarket.com
+
+• sarah.perez
+  Name: Sarah Perez
+  Email: sarah.perez@leesmarket.com
+
+• john.kim
+  Name: John Kim
+  Email: john.kim@leesmarket.com
+
+• jennifer.liu
+  Name: Jennifer Liu
+  Email: jennifer.liu@leesmarket.com
+
+• robert.wang
+  Name: Robert Wang
+  Email: robert.wang@leesmarket.com
+
+• paul.johnson
+  Name: Paul Johnson
+  Email: paul.johnson@leesmarket.com
+
+EMAILS:
+================================================================================
+Email ID: email_001
+Date: 2023-07-20 09:00:00
+From: David Thompson <david.thompson@leesmarket.com>
+To: linda.chen@leesmarket.com, michael.lee@leesmarket.com, sarah.perez@leesmarket.com, john.kim@leesmarket.com, jennifer.liu@leesmarket.com, robert.wang@leesmarket.com
+Subject: Weekly Team Meeting Schedule
+Folder: inbox | Status: Read
+
+Message Body:
+----------------------------------------
+Dear Team, 
+
+The weekly team meeting will occur this Friday at 10 AM in the main conference room. Please prepare your updates and bring any issues you'd like to discuss. 
+
+Best, 
+David
+============================================================
+
+Email ID: email_002
+Date: 2023-07-21 14:30:00
+From: Linda Chen <linda.chen@leesmarket.com>
+To: david.thompson@leesmarket.com, paul.johnson@leesmarket.com
+CC: robert.wang@leesmarket.com
+Subject: Q3 Budget Review
+Folder: inbox | Status: Read
+
+Message Body:
+----------------------------------------
+Dear David and Paul, 
+
+The Q3 budget review is scheduled for next Tuesday. Robert will provide the necessary data. Let's ensure we are prepared to discuss our department's financial performance and future needs. 
+
+Best, 
+Linda
+============================================================
+
+Email ID: email_003
+Date: 2023-07-22 10:15:00
+From: Jennifer Liu <jennifer.liu@leesmarket.com>
+To: david.thompson@leesmarket.com
+Subject: Customer Satisfaction Survey Results
+Folder: inbox | Status: Read
+
+Message Body:
+----------------------------------------
+Hi David, 
+
+The results from our latest customer satisfaction survey are in. We saw a 5% increase in overall satisfaction. I will share the detailed report during our next meeting. 
+
+Best, 
+Jennifer
+============================================================
+
+Email ID: email_004
+Date: 2023-07-22 15:00:00
+From: Paul Johnson <paul.johnson@leesmarket.com>
+To: david.thompson@leesmarket.com, linda.chen@leesmarket.com, michael.lee@leesmarket.com, sarah.perez@leesmarket.com, john.kim@leesmarket.com, jennifer.liu@leesmarket.com, robert.wang@leesmarket.com
+Subject: New Policy Update
+Folder: inbox | Status: Read
+Attachments: 1 file(s)
+
+Message Body:
+----------------------------------------
+Dear Team, 
+
+There are some new policy updates from the HR department. Please review the attached document and make sure you understand all the changes. 
+
+Best, 
+Paul
+============================================================
+
+Email ID: email_005
+Date: 2023-07-23 11:45:00
+From: Sarah Perez <sarah.perez@leesmarket.com>
+To: david.thompson@leesmarket.com
+Subject: Performance Reviews and Goal Setting Session
+Folder: inbox | Status: Read
+
+Message Body:
+----------------------------------------
+Hi David, 
+
+We will have our performance reviews and goal setting session next Friday. Please prepare your team's metrics and objectives for the next quarter. 
+
+Best, 
+Sarah
+============================================================
+
+Email ID: email_001
+Date: 2025-01-05 09:15:30
+From: Robert Wang <robert.wang@leesmarket.com>
+To: david.thompson@leesmarket.com, linda.chen@leesmarket.com, michael.lee@leesmarket.com, sarah.perez@leesmarket.com, john.kim@leesmarket.com, jennifer.liu@leesmarket.com
+CC: paul.johnson@leesmarket.com
+Subject: AI Chatbots Performance Analysis
+Folder: inbox | Status: Read
+
+Message Body:
+----------------------------------------
+Team,
+
+I hope this email finds you well. I have completed the analysis on the performance of our AI chatbots in terms of online purchase completion rates. As of January 1, 2025, the data shows that only 50% of digital interactions with chatbots lead to a checkout, with the rest abandoning their carts.
+
+I believe it's crucial that we identify any potential issues in the chatbot experience that might be leading to this high cart abandonment rate. Looking forward to hearing your thoughts and suggestions.
+
+Best,
+Robert
+============================================================
+
+Email ID: email_002
+Date: 2025-01-05 10:05:45
+From: John Kim <john.kim@leesmarket.com>
+To: robert.wang@leesmarket.com, david.thompson@leesmarket.com, linda.chen@leesmarket.com, michael.lee@leesmarket.com, sarah.perez@leesmarket.com, jennifer.liu@leesmarket.com
+CC: paul.johnson@leesmarket.com
+Subject: Re: AI Chatbots Performance Analysis
+Folder: inbox | Status: Read
+
+Message Body:
+----------------------------------------
+Robert and Team,
+
+Thank you for sharing this analysis. I agree that we need to improve the shopping experience via chatbots. Perhaps we can enhance the chatbots with personalized recommendations or offer assistance with recipes and product information. This could potentially increase engagement and reduce cart abandonment.
+
+Regards,
+John
+============================================================
+
+Email ID: email_003
+Date: 2025-01-05 11:20:50
+From: David Thompson <david.thompson@leesmarket.com>
+To: robert.wang@leesmarket.com, john.kim@leesmarket.com, linda.chen@leesmarket.com, michael.lee@leesmarket.com, sarah.perez@leesmarket.com, jennifer.liu@leesmarket.com
+CC: paul.johnson@leesmarket.com
+Subject: Re: AI Chatbots Performance Analysis
+Folder: inbox | Status: Read
+
+Message Body:
+----------------------------------------
+Robert, John and Team,
+
+Thank you both for your insights. From a customer service perspective, the chatbot can also be used to answer FAQs, track deliveries and handle complaints, which would enhance self-service and possibly drive more completed purchases. Let's discuss this further in our next meeting.
+
+Best,
+David
+============================================================
+
+================================================================================
+END OF EMAIL EXPORT
+================================================================================

@@ -1,0 +1,28 @@
+{
+    "company_info": {
+        "name": "Elexion Automotive (Austin, Texas, USA, $350M - $500M, 1900 employees)",
+        "industry": "Automotive – Electric Vehicles",
+        "description": "A company in the Automotive – Electric Vehicles industry",
+        "size": "medium",
+        "employee_count": "100-500",
+        "annual_revenue": "Not specified"
+    },
+    "persona": {
+        "name": "Rachel Kim",
+        "first_name": "Rachel",
+        "last_name": "Kim",
+        "username": "rachel.kim",
+        "email": "rachel.kim@elexionautomotive.com",
+        "role": "Regulatory Compliance Specialist",
+        "role_description": "Ensures electric vehicle designs meet federal and state safety standards, coordinates with testing laboratories, and maintains regulatory documentation for vehicle certifications"
+    },
+    "url": {
+        "url": "https://transitionaccelerator.ca/blog/reforming-canadas-zev-mandate-how-the-ev-compliance-credit-system-can-strengthen-canadas-industrial-base/",
+        "domain": "Compliance",
+        "industry": "automotive – electric vehicles",
+        "example_dr_questions": [],
+        "insights": [],
+        "date": "2025-11-21"
+    },
+    "timestamp": "2025-10-24 00:00"
+}

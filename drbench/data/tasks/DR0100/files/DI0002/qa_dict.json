@@ -1,0 +1,10 @@
+{
+    "insight_id": "DI0002",
+    "qa_type": "distractor",
+    "qa_index": 2,
+    "specific_question": "What percentage of MediConn's internal servers were virtualized by Q2 2025?",
+    "answer": "78% of internal servers were virtualized by Q2 2025.",
+    "justification": "Server virtualization improves internal infrastructure efficiency but does not impact implementation priorities for virtual care standards.",
+    "timestamp": "2025-11-21 13:30",
+    "dr_question": "Which IT modernization efforts should MediConn emphasize to stay aligned with national virtual care standards and shared digital health infrastructure by 2026?"
+}

@@ -1,0 +1,8 @@
+{
+    "file_name": "MediConn_Virtual_Healthcare_Market_Insights_Data",
+    "file_format": "xlsx",
+    "file_path": "drbench/data/tasks/DR0045/files/DI0003/MediConn_Virtual_Healthcare_Market_Insights_Data.xlsx",
+    "csv_path": "drbench/data/tasks/DR0045/files/DI0003/MediConn_Virtual_Healthcare_Market_Insights_Data.csv",
+    "qa_type": "distractor",
+    "app": "file_system"
+}

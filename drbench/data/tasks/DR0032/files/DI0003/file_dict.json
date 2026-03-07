@@ -1,0 +1,274 @@
+{
+    "file_name": "mattermost_chat_20251202_223959",
+    "content": "{\"type\": \"version\", \"version\": 1}\n{\"type\": \"team\", \"team\": {\"name\": \"product_development\", \"display_name\": \"Product Development\", \"type\": \"O\", \"header\": \"Team focusing on designing and developing electric vehicles\", \"purpose\": \"To design and develop sustainable and user-centric electric vehicles that meet regulatory requirements\"}}\n{\"type\": \"team\", \"team\": {\"name\": \"compliance\", \"display_name\": \"Compliance\", \"type\": \"O\", \"header\": \"Team ensuring regulatory compliance for all products\", \"purpose\": \"Ensuring all vehicles designs are in compliance with regulatory standards\"}}\n{\"type\": \"channel\", \"channel\": {\"team\": \"product_development\", \"name\": \"vehicle_design\", \"display_name\": \"Vehicle Design\", \"type\": \"O\", \"header\": \"Discussion and collaboration on vehicle design aspects\", \"purpose\": \"To collaborate on the design of electric vehicles\"}}\n{\"type\": \"channel\", \"channel\": {\"team\": \"compliance\", \"name\": \"regulatory_compliance\", \"display_name\": \"Regulatory Compliance\", \"type\": \"O\", \"header\": \"Discussion and updates on product compliance matters\", \"purpose\": \"To ensure product designs meet all regulatory requirements\"}}\n{\"type\": \"user\", \"user\": {\"username\": \"sofiarodriguez\", \"email\": \"sofiarodriguez@elexion.com\", \"password\": \"sofia_compliance_pwd\", \"nickname\": \"Sofia\", \"first_name\": \"Sofia\", \"last_name\": \"Rodriguez\", \"position\": \"Product Compliance Engineer\", \"roles\": \"system_user\", \"locale\": \"en\", \"teams\": [{\"name\": \"product_development\", \"roles\": \"team_user\", \"channels\": [{\"name\": \"vehicle_design\", \"roles\": \"channel_user\"}]}, {\"name\": \"compliance\", \"roles\": \"team_user\", \"channels\": [{\"name\": \"regulatory_compliance\", \"roles\": \"channel_user\"}]}]}}\n{\"type\": \"user\", \"user\": {\"username\": \"johnsmith\", \"email\": \"johnsmith@elexion.com\", \"password\": \"john_productdev_pwd\", \"nickname\": \"John\", \"first_name\": \"John\", \"last_name\": \"Smith\", \"position\": \"Product Development Manager\", \"roles\": \"system_user\", \"locale\": \"en\", \"teams\": [{\"name\": \"product_development\", \"roles\": \"team_user\", \"channels\": [{\"name\": \"vehicle_design\", \"roles\": \"channel_user\"}]}]}}\n{\"type\": \"user\", \"user\": {\"username\": \"janedoe\", \"email\": \"janedoe@elexion.com\", \"password\": \"jane_compliance_pwd\", \"nickname\": \"Jane\", \"first_name\": \"Jane\", \"last_name\": \"Doe\", \"position\": \"Compliance Manager\", \"roles\": \"system_user\", \"locale\": \"en\", \"teams\": [{\"name\": \"compliance\", \"roles\": \"team_user\", \"channels\": [{\"name\": \"regulatory_compliance\", \"roles\": \"channel_user\"}]}]}}\n{\"type\": \"user\", \"user\": {\"username\": \"sofia.rodriguez\", \"nickname\": \"sofia.rodriguez\", \"first_name\": \"Sofia\", \"last_name\": \"Rodriguez\", \"roles\": [\"member\"], \"position\": \"Product Compliance Engineer\", \"email\": \"sofia.rodriguez@elexionautomotive.com\", \"locale\": \"en\", \"teams\": [{\"name\": \"product_development\", \"roles\": \"team_user\", \"channels\": [{\"name\": \"vehicle_design\", \"roles\": \"channel_user\"}]}, {\"name\": \"compliance\", \"roles\": \"team_user\", \"channels\": [{\"name\": \"regulatory_compliance\", \"roles\": \"channel_user\"}]}]}}\n{\"type\": \"post\", \"post\": {\"team\": \"product_development\", \"channel\": \"vehicle_design\", \"user\": \"johnsmith\", \"message\": \"Hey team, we're having a design review meeting tomorrow at 10am. Please prepare your updates on the new mid-range model.\", \"created_at\": 1620500000000}}\n{\"type\": \"post\", \"post\": {\"team\": \"product_development\", \"channel\": \"vehicle_design\", \"user\": \"sofiarodriguez\", \"message\": \"Hi John, got it. I'll present the updates on the charging system design of the new model.\", \"created_at\": 1620500100000}}\n{\"type\": \"post\", \"post\": {\"team\": \"compliance\", \"channel\": \"regulatory_compliance\", \"user\": \"janedoe\", \"message\": \"Just a reminder, the updated compliance guidelines for EV manufacturing will be effective next month. Ensure your teams are aware and prepared.\", \"created_at\": 1620500200000}}\n{\"type\": \"post\", \"post\": {\"team\": \"product_development\", \"channel\": \"vehicle_design\", \"user\": \"johnsmith\", \"message\": \"Thanks for the reminder, Jane. We'll make sure to review the guidelines in our next team meeting.\", \"created_at\": 1620500300000}}\n{\"type\": \"post\", \"post\": {\"team\": \"compliance\", \"channel\": \"regulatory_compliance\", \"user\": \"sofiarodriguez\", \"message\": \"Jane, can we set a meeting next week to discuss the implications of the new guidelines on our current projects?\", \"created_at\": 1620500400000}}\n{\"type\": \"post\", \"post\": {\"team\": \"compliance\", \"channel\": \"regulatory_compliance\", \"user\": \"sofiarodriguez\", \"message\": \"Hi team, I've just finished reviewing the latest report from Canada's Motor Vehicle Safety Oversight Program. I'm pleased to share that our Orion 5S model has been evaluated as very safe.\", \"create_at\": 1620500000000}}\n{\"type\": \"post\", \"post\": {\"team\": \"compliance\", \"channel\": \"regulatory_compliance\", \"user\": \"sofiarodriguez\", \"message\": \"In fact, the Orion 5S is now ranked as the second safest family car in Canada among all electric vehicle manufacturers. This is a great testament to our team's commitment to passenger safety. Well done everyone!\", \"create_at\": 1620500500000}}\n{\"type\": \"post\", \"post\": {\"team\": \"compliance\", \"channel\": \"regulatory_compliance\", \"user\": \"janedoe\", \"message\": \"That's fantastic news, Sofia! Thanks for sharing. This is an important achievement for Elexion Automotive and will definitely boost our reputation in the market.\", \"create_at\": 1620500600000}}",
+    "chat_setup": {
+        "teams": [
+            {
+                "type": "team",
+                "team": {
+                    "name": "product_development",
+                    "display_name": "Product Development",
+                    "type": "O",
+                    "header": "Team focusing on designing and developing electric vehicles",
+                    "purpose": "To design and develop sustainable and user-centric electric vehicles that meet regulatory requirements"
+                }
+            },
+            {
+                "type": "team",
+                "team": {
+                    "name": "compliance",
+                    "display_name": "Compliance",
+                    "type": "O",
+                    "header": "Team ensuring regulatory compliance for all products",
+                    "purpose": "Ensuring all vehicles designs are in compliance with regulatory standards"
+                }
+            }
+        ],
+        "channels": [
+            {
+                "type": "channel",
+                "channel": {
+                    "team": "product_development",
+                    "name": "vehicle_design",
+                    "display_name": "Vehicle Design",
+                    "type": "O",
+                    "header": "Discussion and collaboration on vehicle design aspects",
+                    "purpose": "To collaborate on the design of electric vehicles"
+                }
+            },
+            {
+                "type": "channel",
+                "channel": {
+                    "team": "compliance",
+                    "name": "regulatory_compliance",
+                    "display_name": "Regulatory Compliance",
+                    "type": "O",
+                    "header": "Discussion and updates on product compliance matters",
+                    "purpose": "To ensure product designs meet all regulatory requirements"
+                }
+            }
+        ],
+        "users": [
+            {
+                "type": "user",
+                "user": {
+                    "username": "sofiarodriguez",
+                    "email": "sofiarodriguez@elexion.com",
+                    "password": "sofia_compliance_pwd",
+                    "nickname": "Sofia",
+                    "first_name": "Sofia",
+                    "last_name": "Rodriguez",
+                    "position": "Product Compliance Engineer",
+                    "roles": "system_user",
+                    "locale": "en",
+                    "teams": [
+                        {
+                            "name": "product_development",
+                            "roles": "team_user",
+                            "channels": [
+                                {
+                                    "name": "vehicle_design",
+                                    "roles": "channel_user"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "compliance",
+                            "roles": "team_user",
+                            "channels": [
+                                {
+                                    "name": "regulatory_compliance",
+                                    "roles": "channel_user"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "type": "user",
+                "user": {
+                    "username": "johnsmith",
+                    "email": "johnsmith@elexion.com",
+                    "password": "john_productdev_pwd",
+                    "nickname": "John",
+                    "first_name": "John",
+                    "last_name": "Smith",
+                    "position": "Product Development Manager",
+                    "roles": "system_user",
+                    "locale": "en",
+                    "teams": [
+                        {
+                            "name": "product_development",
+                            "roles": "team_user",
+                            "channels": [
+                                {
+                                    "name": "vehicle_design",
+                                    "roles": "channel_user"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "type": "user",
+                "user": {
+                    "username": "janedoe",
+                    "email": "janedoe@elexion.com",
+                    "password": "jane_compliance_pwd",
+                    "nickname": "Jane",
+                    "first_name": "Jane",
+                    "last_name": "Doe",
+                    "position": "Compliance Manager",
+                    "roles": "system_user",
+                    "locale": "en",
+                    "teams": [
+                        {
+                            "name": "compliance",
+                            "roles": "team_user",
+                            "channels": [
+                                {
+                                    "name": "regulatory_compliance",
+                                    "roles": "channel_user"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "type": "user",
+                "user": {
+                    "username": "sofia.rodriguez",
+                    "nickname": "sofia.rodriguez",
+                    "first_name": "Sofia",
+                    "last_name": "Rodriguez",
+                    "roles": [
+                        "member"
+                    ],
+                    "position": "Product Compliance Engineer",
+                    "email": "sofia.rodriguez@elexionautomotive.com",
+                    "locale": "en",
+                    "teams": [
+                        {
+                            "name": "product_development",
+                            "roles": "team_user",
+                            "channels": [
+                                {
+                                    "name": "vehicle_design",
+                                    "roles": "channel_user"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "compliance",
+                            "roles": "team_user",
+                            "channels": [
+                                {
+                                    "name": "regulatory_compliance",
+                                    "roles": "channel_user"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    "chat_messages": [
+        {
+            "type": "post",
+            "post": {
+                "team": "compliance",
+                "channel": "regulatory_compliance",
+                "user": "sofiarodriguez",
+                "message": "Hi team, I've just finished reviewing the latest report from Canada's Motor Vehicle Safety Oversight Program. I'm pleased to share that our Orion 5S model has been evaluated as very safe.",
+                "create_at": 1620500000000
+            },
+            "tag": "insight"
+        },
+        {
+            "type": "post",
+            "post": {
+                "team": "compliance",
+                "channel": "regulatory_compliance",
+                "user": "sofiarodriguez",
+                "message": "In fact, the Orion 5S is now ranked as the second safest family car in Canada among all electric vehicle manufacturers. This is a great testament to our team's commitment to passenger safety. Well done everyone!",
+                "create_at": 1620500500000
+            },
+            "tag": "insight"
+        },
+        {
+            "type": "post",
+            "post": {
+                "team": "compliance",
+                "channel": "regulatory_compliance",
+                "user": "janedoe",
+                "message": "That's fantastic news, Sofia! Thanks for sharing. This is an important achievement for Elexion Automotive and will definitely boost our reputation in the market.",
+                "create_at": 1620500600000
+            },
+            "tag": "insight"
+        },
+        {
+            "type": "post",
+            "post": {
+                "team": "product_development",
+                "channel": "vehicle_design",
+                "user": "johnsmith",
+                "message": "Hey team, we're having a design review meeting tomorrow at 10am. Please prepare your updates on the new mid-range model.",
+                "created_at": 1620500000000
+            },
+            "tag": "distractor"
+        },
+        {
+            "type": "post",
+            "post": {
+                "team": "product_development",
+                "channel": "vehicle_design",
+                "user": "sofiarodriguez",
+                "message": "Hi John, got it. I'll present the updates on the charging system design of the new model.",
+                "created_at": 1620500100000
+            },
+            "tag": "distractor"
+        },
+        {
+            "type": "post",
+            "post": {
+                "team": "compliance",
+                "channel": "regulatory_compliance",
+                "user": "janedoe",
+                "message": "Just a reminder, the updated compliance guidelines for EV manufacturing will be effective next month. Ensure your teams are aware and prepared.",
+                "created_at": 1620500200000
+            },
+            "tag": "distractor"
+        },
+        {
+            "type": "post",
+            "post": {
+                "team": "product_development",
+                "channel": "vehicle_design",
+                "user": "johnsmith",
+                "message": "Thanks for the reminder, Jane. We'll make sure to review the guidelines in our next team meeting.",
+                "created_at": 1620500300000
+            },
+            "tag": "distractor"
+        },
+        {
+            "type": "post",
+            "post": {
+                "team": "compliance",
+                "channel": "regulatory_compliance",
+                "user": "sofiarodriguez",
+                "message": "Jane, can we set a meeting next week to discuss the implications of the new guidelines on our current projects?",
+                "created_at": 1620500400000
+            },
+            "tag": "distractor"
+        }
+    ],
+    "file_format": "jsonl",
+    "file_path": ".llm_responses/generated_chat_document.jsonl",
+    "qa_type": "distractor",
+    "timestamp": "2025-12-02 23:39",
+    "app": "mattermost"
+}

@@ -1,0 +1,81 @@
+{
+    "file_name": "cybersecurity-training-strategy",
+    "file_title": "Enhancing Cybersecurity: Training and Awareness Strategy",
+    "introduction": "In light of our expanding operations and the associated cybersecurity risks, this presentation outlines our proposed strategy to enhance our cybersecurity awareness and training program. Our goal is to mitigate risks from high staff turnover and seasonal hiring, while minimizing human error induced incidents.",
+    "subsections": [
+        {
+            "heading": "Evolving Cybersecurity Landscape: Challenges and Opportunities",
+            "content": "\u2022 In the last quarter of 2024, we experienced a significant gap in our security training, with a majority (75%) of our newly hired temporary employees lacking essential cyber-risk mitigation skills.\n\u2022 Specifically, these employees did not receive training in social engineering or email phishing prevention, leaving them potentially vulnerable to sophisticated cyber threats.\n\u2022 The lack of such training among our temporary workforce aligns with the broader industry trends, as suggested by VikingCloud's report, which showcased a similar deficiency among 78% of temporary retail employees.\n\u2022 Moreover, our situation is further complicated by our high employee turnover and seasonal hiring, making it difficult to ensure that all employees are properly trained and up-to-date with the latest cybersecurity practices.\n\u2022 The training gap is not only a threat to our digital infrastructure but also a potential obstacle in our growth in the US and Canadian markets.\n\u2022 It's vital that we allocate sufficient resources to address these challenges, considering that 52% of retailers have reported struggling to keep up with evolving cyberattack methods due to a lack of internal resources.\n\u2022 By the end of 2025, we aim to design and implement a robust cybersecurity awareness and training program to mitigate security risks and reduce incidents caused by human error.",
+            "type": "insight",
+            "justification": "This content highlights the cybersecurity training gap and aligns with the need for a comprehensive training program as per the DR question."
+        },
+        {
+            "heading": "The Human Factor: Understanding and Mitigating Risks",
+            "content": "\u2022 Employees are often the weakest link in cybersecurity, with 70% of breaches originating from human error\n\u2022 Importance of background checks for employees handling sensitive data\n\u2022 Implementation of two-factor authentication to reduce unauthorized access risk\n\u2022 Regular password changes and complexity requirements reduce the risk of password cracking\n\u2022 Security protocols for remote working as part of the business continuity plan\n\u2022 Clear delineation of access rights and privileges based on roles and responsibilities",
+            "type": "distractor",
+            "justification": "This slide discusses general human-related cybersecurity risks, not the design and implementation of a training program."
+        },
+        {
+            "heading": "Blueprint: Cybersecurity Training and Awareness Program",
+            "content": "\u2022 Importance of continuous training and awareness programs to keep up with evolving threats\n\u2022 Utilization of gamified training to improve engagement and retention\n\u2022 Inclusion of cybersecurity training in the onboarding process of new hires\n\u2022 Regular phishing simulations to assess employee readiness\n\u2022 Encouraging a culture of security in the organization to promote proactive practices\n\u2022 Periodic audits of cybersecurity training effectiveness",
+            "type": "distractor",
+            "justification": "Slide discusses high-level components of a training program, but doesn't provide specifics on designing and implementing one at Lee's Market."
+        }
+    ],
+    "conclusion": "By understanding the evolving cybersecurity landscape and the human factor in security risks, we can design an effective training and awareness program. This will support our growth in both the US and Canadian markets, while ensuring the security of our digital infrastructure.",
+    "file_format": "pptx",
+    "file_path": ".llm_responses/generated_pptx_presentation.pptx",
+    "qa_type": "insight",
+    "timestamp": "2025-11-19 03:01",
+    "image_queries": [
+        {
+            "slide_title": "Introduction",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "intentionally_clean",
+            "slide_type": "introduction"
+        },
+        {
+            "slide_title": "Evolving Cybersecurity Landscape: Challenges and Opportunities",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "insight",
+            "content_length": 7,
+            "total_chars": 1341,
+            "probability": 0.25,
+            "theme": "Classic Navy"
+        },
+        {
+            "slide_title": "The Human Factor: Understanding and Mitigating Risks",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "failed",
+            "slide_type": "distractor",
+            "content_length": 6,
+            "total_chars": 502,
+            "error": "'str' object has no attribute 'choices'",
+            "theme": "Classic Navy"
+        },
+        {
+            "slide_title": "Blueprint: Cybersecurity Training and Awareness Program",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "failed",
+            "slide_type": "distractor",
+            "content_length": 6,
+            "total_chars": 427,
+            "error": "'str' object has no attribute 'choices'",
+            "theme": "Classic Navy"
+        },
+        {
+            "slide_title": "Conclusion",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "strategic_clean_conclusion",
+            "slide_type": "conclusion",
+            "theme": "Classic Navy"
+        }
+    ],
+    "app": "nextcloud"
+}

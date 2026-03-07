@@ -1,0 +1,81 @@
+{
+    "file_name": "mediConn-energy-analysis",
+    "file_title": "Energy Efficiency Analysis: MediConn Vancouver 2024",
+    "introduction": "With a strong focus on sustainability, we will be examining MediConn's electricity consumption for the Vancouver office in 2024. This analysis will provide insights into our energy efficiency and potential areas for improvement.",
+    "subsections": [
+        {
+            "heading": "MediConn\u2019s Green Initiative Progress",
+            "content": "\u2022 Launched in 2015, the Green Initiative Committee has been working towards reducing the company's carbon footprint\n\u2022 The committee organized three green energy seminars in 2024, reaching over 150 employees\n\u2022 The company has managed to reduce paper usage by 60% since 2018 by adopting digital documentation\n\u2022 MediConn has partnered with local recycling companies for responsible e-waste disposal\n\u2022 The company cafeteria has been transformed into a zero-waste facility in 2020\n\u2022 The Committee has been recognized with the 'Green Business Award' in 2021 for its environment-friendly practices\n\u2022 The company's carbon emissions have reduced by 25% since the Green Initiative's inception\n\u2022 The Green Initiative Committee plans to implement solar panels in the coming years",
+            "type": "distractor",
+            "justification": "The slide provides information about the company's green initiatives, but does not give details about electricity consumption in 2024."
+        },
+        {
+            "heading": "2024 Vancouver Office Electricity Consumption",
+            "content": "\u2022 Energy audits are conducted quarterly to monitor and manage electricity usage\n\u2022 The adoption of energy-saving appliances has been instrumental in reducing power consumption\n\u2022 Non-essential equipment is switched off during off-peak hours to conserve energy\n\u2022 The company has installed energy-efficient lighting throughout the office\n\u2022 The office has a strict policy against leaving electronic equipment on standby overnight\n\u2022 The Building Management System (BMS) is used to optimize HVAC system performance\n\u2022 Employees are encouraged to use stairs instead of elevators to save electricity\n\u2022 The company is looking into installing motion sensor lights to further reduce electricity consumption",
+            "type": "distractor",
+            "justification": "The slide details energy conservation strategies, but does not specify the electricity consumption in 2024."
+        },
+        {
+            "heading": "Energy Efficiency Improvement Recommendations",
+            "content": "\u2022 The company should consider investing in on-site renewable energy sources\n\u2022 Emphasize more on remote working to reduce office energy consumption\n\u2022 Implement an energy management software to monitor real-time energy usage\n\u2022 Initiate regular employee training on energy conservation practices\n\u2022 Install smart meters to gain detailed insights into energy consumption patterns\n\u2022 Encourage the use of personal laptops to reduce the need for desktop computers\n\u2022 Set up an energy saving challenge among departments to foster a culture of conservation\n\u2022 Transition to cloud-based servers to reduce the energy used by in-house servers",
+            "type": "distractor",
+            "justification": "The slide suggests energy efficiency improvements, but does not reveal the electricity consumption in 2024."
+        }
+    ],
+    "conclusion": "Understanding our electricity consumption is crucial for maintaining our commitment to sustainability. Let's continue to identify opportunities for energy efficiency improvements to further strengthen our green initiatives.",
+    "file_format": "pptx",
+    "file_path": ".llm_responses/generated_pptx_presentation.pptx",
+    "qa_type": "distractor",
+    "timestamp": "2025-11-20 14:48",
+    "image_queries": [
+        {
+            "slide_title": "Introduction",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "intentionally_clean",
+            "slide_type": "introduction"
+        },
+        {
+            "slide_title": "MediConn\u2019s Green Initiative Progress",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 7,
+            "total_chars": 662,
+            "probability": 0.25,
+            "theme": "Elegant Teal"
+        },
+        {
+            "slide_title": "2024 Vancouver Office Electricity Consumption",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "failed",
+            "slide_type": "distractor",
+            "content_length": 7,
+            "total_chars": 569,
+            "error": "'str' object has no attribute 'choices'",
+            "theme": "Elegant Teal"
+        },
+        {
+            "slide_title": "Energy Efficiency Improvement Recommendations",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "failed",
+            "slide_type": "distractor",
+            "content_length": 7,
+            "total_chars": 525,
+            "error": "'str' object has no attribute 'choices'",
+            "theme": "Elegant Teal"
+        },
+        {
+            "slide_title": "Conclusion",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "strategic_clean_conclusion",
+            "slide_type": "conclusion",
+            "theme": "Elegant Teal"
+        }
+    ],
+    "app": "file_system"
+}

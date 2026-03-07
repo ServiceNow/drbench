@@ -1,0 +1,13 @@
+Month_Year,Company_Name,Region,Service_Type,Percentage_of_Service_Requests
+The month and year when the service requests were made. It helps in understanding the time distribution of service requests.,The name of the company for which the service requests analysis is done. It gives context to the data and makes it easier to compare data across different companies.,The geographical region for which the service requests were made. It helps in understanding the regional distribution of service requests.,The type of service which the requests were related to - software updates or hardware issues. It helps in understanding the nature of service requests.,The percentage of service requests related to a particular service type to total service requests. It helps in understanding the proportion of different types of service requests.
+2024-02,Elexion,North America,Hardware Issues,0.4
+2023-08,Elexion,North America,Hardware Issues,0.35
+2024-03,Elexion,North America,Hardware Issues,0.38
+2023-12,Elexion,North America,Hardware Issues,0.45
+2023-09,Elexion,North America,Software Updates,0.5
+2023-11,Elexion,North America,Software Updates,0.55
+2024-03,Elexion,North America,Software Updates,0.62
+2024-02,Elexion,North America,Software Updates,0.6
+2023-10,Elexion,North America,Hardware Issues,0.4
+2024-01,Elexion,North America,Hardware Issues,0.42
+2024-01,Elexion,North America,Software Updates,0.58

@@ -1,0 +1,81 @@
+{
+    "file_name": "EV-campaigns-budget-analysis",
+    "file_title": "Elexion EV Campaigns Marketing Budget Analysis",
+    "introduction": "This presentation will delve into Elexion's marketing budget allocation in 2025, focusing on our electric vehicle awareness campaigns. We aim to evaluate the effectiveness of our investments and identify opportunities for future growth.",
+    "subsections": [
+        {
+            "heading": "Marketing Budget Allocation Overview 2025",
+            "content": "\u2022 Total marketing budget for 2025 was $40 million\n\u2022 30% of the budget was allocated to digital advertising\n\u2022 Traditional media spend accounted for 20% of the total budget\n\u2022 Marketing partnerships and collaborations consumed 15% of the budget\n\u2022 Remaining 35% was distributed among events, sponsorships, and internal marketing activities\n\u2022 The marketing budget saw an increase of 10% compared to 2024 due to the launch of new EV models",
+            "type": "distractor",
+            "justification": "The content discusses the overall marketing budget allocation but does not specifically address the spend on EV awareness campaigns."
+        },
+        {
+            "heading": "Investment Impact on EV Awareness",
+            "content": "\u2022 Elexion's EV models gained significant popularity in 2025\n\u2022 Increased investment in digital advertising led to a 20% rise in website traffic\n\u2022 Collaborations with influencers brought a considerable boost to our social media engagement\n\u2022 Sponsorships and events helped establish Elexion as a key player in the EV market\n\u2022 Customer inquiries and showroom visits saw an increase of 25% in 2025\n\u2022 However, the correlation between these metrics and specific marketing spends is not straightforward",
+            "type": "distractor",
+            "justification": "This content discusses the impact of investments on awareness but does not provide specific figures for EV campaign spending."
+        },
+        {
+            "heading": "Detailed Breakdown: EV Campaigns Spending",
+            "content": "\u2022 Several EV awareness campaigns were launched in 2025\n\u2022 Major campaigns were run during Q3 and Q4 of the year\n\u2022 The 'Elexion Drives Green' campaign was the most successful in terms of audience reach\n\u2022 The 'Charge Up Your Life' campaign was popular among younger demographics\n\u2022 A significant portion of the campaign budget was invested in digital platforms\n\u2022 Our marketing team collaborated with several eco-friendly organizations for these campaigns",
+            "type": "distractor",
+            "justification": "The slide details the EV campaigns but does not disclose the specific financial information related to them."
+        }
+    ],
+    "conclusion": "Our 2025 marketing spend on EV awareness campaigns has significantly impacted our market positioning. Moving forward, we need to optimize these investments to further enhance our brand recognition and drive sales.",
+    "file_format": "pptx",
+    "file_path": ".llm_responses/generated_pptx_presentation.pptx",
+    "qa_type": "distractor",
+    "timestamp": "2025-11-21 13:26",
+    "image_queries": [
+        {
+            "slide_title": "Introduction",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "intentionally_clean",
+            "slide_type": "introduction"
+        },
+        {
+            "slide_title": "Marketing Budget Allocation Overview 2025",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "failed",
+            "slide_type": "distractor",
+            "content_length": 6,
+            "total_chars": 416,
+            "error": "'str' object has no attribute 'choices'",
+            "theme": "Bold Crimson"
+        },
+        {
+            "slide_title": "Investment Impact on EV Awareness",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 6,
+            "total_chars": 477,
+            "probability": 0.25,
+            "theme": "Bold Crimson"
+        },
+        {
+            "slide_title": "Detailed Breakdown: EV Campaigns Spending",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "failed",
+            "slide_type": "distractor",
+            "content_length": 6,
+            "total_chars": 433,
+            "error": "'str' object has no attribute 'choices'",
+            "theme": "Bold Crimson"
+        },
+        {
+            "slide_title": "Conclusion",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "strategic_clean_conclusion",
+            "slide_type": "conclusion",
+            "theme": "Bold Crimson"
+        }
+    ],
+    "app": "file_system"
+}

@@ -1,0 +1,10 @@
+{
+    "insight_id": "IN0002",
+    "qa_type": "insight",
+    "qa_index": 2,
+    "specific_question": "Why are employees across multiple regions spending so much time each week manually tracking IT requests at Lee\u2019s Market?",
+    "answer": "According to internal IT reports from June 2024, employees spent an average of 3.5 hours per week manually tracking requests because no automated workflow exists to prioritize or assign tasks, causing inefficiencies across regions.",
+    "justification": "",
+    "timestamp": "2025-11-19 01:37",
+    "dr_question": "What ITSM strategies, such as governance improvements, workflow automation, or system integrations, could provide insights to improve incident, problem, and change management at Lee\u2019s Market in 2026?"
+}

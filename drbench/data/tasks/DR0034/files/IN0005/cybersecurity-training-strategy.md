@@ -1,0 +1,21 @@
+# Strengthening Employee Cybersecurity Training Strategy
+
+## Introduction
+
+As Lee's Market continues to grow, so does the complexity and sophistication of the cyber threats we face. The role of employee training in mitigating these threats cannot be overstated. This document will outline an approach to enhance our cybersecurity training, with the aim of reducing operational disruptions and financial loss due to retail cyberattacks. Our focus will be to align this strategy with our limited IT resources and achieve our goals by Q3 2027.
+
+## Assessment of Current Cybersecurity Training
+
+Our analysis at Lee's Market reveals that we process approximately one million customer payment records annually. This volume of sensitive data presents increased cyber risk, primarily if any lapses occur in staff training and vigilance. As we move into 2026, such lapses could potentially lead to widespread data breaches, impacting our reputation and causing significant operational and financial disruptions. Therefore, our IT resources and cybersecurity training programs need to be more robust and effective in the upcoming years to prevent any potential breaches.
+
+## Optimizing Resource Allocation for Cybersecurity Education
+
+Last year, we allocated 15% of the IT budget towards cybersecurity education. This investment was split between developing training materials, hiring external cybersecurity consultants, and facilitating quarterly training sessions. The budget was approved by the board with an understanding that the investment would enhance our overall cybersecurity posture.
+
+## Implementing Innovative Solutions in Cybersecurity Training
+
+In 2023, we introduced a gamified approach to our cybersecurity training. This initiative was well-received by the staff, especially amongst our younger employees, and led to a 25% increase in training engagement. We found that the use of real-life scenarios and rewards fostered a more immersive and interactive learning environment.
+
+## Conclusion
+
+With a comprehensive assessment of our current training and a judicious allocation of our resources, we can significantly fortify our defenses against cyber threats. The introduction of innovative training solutions will further enhance our employees' cybersecurity awareness and skills. It is critical that all departments and teams understand the role they play in this endeavor. Our collective efforts will contribute to the security of Lee's Market's digital and operational infrastructure.

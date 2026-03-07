@@ -1,0 +1,81 @@
+{
+    "file_name": "q1-2022-report-overview",
+    "file_title": "Q1 2022 Market Analysis Report Overview",
+    "introduction": "This presentation provides an overview of the Q1 2022 Market Analysis Report submitted by Emily Chen. It offers insights into the report's length, content, and impact on our strategic decisions.",
+    "subsections": [
+        {
+            "heading": "Content Breakdown of Q1 2022 Market Analysis",
+            "content": "\u2022 Analysis included detailed comparison of different virtual healthcare platforms\n\u2022 Identified key trends in telehealth usage across Canada\n\u2022 Focused on the impact of COVID-19 on the shift to virtual healthcare\n\u2022 Reviewed recent legislative changes affecting remote healthcare\n\u2022 Included a competitive analysis of top 10 virtual healthcare providers\n\u2022 Explored potential partnerships and collaborations in the industry",
+            "type": "distractor",
+            "justification": "The content is related to the report but doesn't mention its length or Emily Chen's submission process. It focuses on the report's content."
+        },
+        {
+            "heading": "Length and Structure of Q1 2022 Report",
+            "content": "\u2022 The report was divided into several sections, each focusing on a specific aspect of the market\n\u2022 A comprehensive executive summary provided an overview of key findings\n\u2022 Detailed data analysis and interpretation section was included\n\u2022 The report concluded with strategic recommendations based on the analysis\n\u2022 Appendices contained raw data and additional resources for further reading",
+            "type": "distractor",
+            "justification": "Details the report's structure but doesn't mention its length or Emily Chen's submission. Focuses on the report's general structure."
+        },
+        {
+            "heading": "Implication of Q1 2022 Market Analysis on Strategies",
+            "content": "\u2022 The report's findings influenced MediConn's strategic planning for the year\n\u2022 Identified areas of potential growth and expansion\n\u2022 Suggested improving user interface of the digital platform for better user experience\n\u2022 Recommended a targeted marketing campaign to increase market share\n\u2022 Proposed collaborations with other healthcare providers to extend services",
+            "type": "distractor",
+            "justification": "The content discusses the implications of the report but doesn't mention its length or Emily Chen's submission. Focuses on the report's impact."
+        }
+    ],
+    "conclusion": "The comprehensive market analysis report provides valuable insights for our strategic planning. As we move forward, we should consider these findings and their implications on our operations.",
+    "file_format": "pptx",
+    "file_path": ".llm_responses/generated_pptx_presentation.pptx",
+    "qa_type": "distractor",
+    "timestamp": "2025-11-19 23:20",
+    "image_queries": [
+        {
+            "slide_title": "Introduction",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "intentionally_clean",
+            "slide_type": "introduction"
+        },
+        {
+            "slide_title": "Content Breakdown of Q1 2022 Market Analysis",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "failed",
+            "slide_type": "distractor",
+            "content_length": 6,
+            "total_chars": 401,
+            "error": "'str' object has no attribute 'choices'",
+            "theme": "Executive Purple"
+        },
+        {
+            "slide_title": "Length and Structure of Q1 2022 Report",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 5,
+            "total_chars": 373,
+            "probability": 0.25,
+            "theme": "Executive Purple"
+        },
+        {
+            "slide_title": "Implication of Q1 2022 Market Analysis on Strategies",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 5,
+            "total_chars": 350,
+            "probability": 0.45,
+            "theme": "Executive Purple"
+        },
+        {
+            "slide_title": "Conclusion",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "strategic_clean_conclusion",
+            "slide_type": "conclusion",
+            "theme": "Executive Purple"
+        }
+    ],
+    "app": "file_system"
+}

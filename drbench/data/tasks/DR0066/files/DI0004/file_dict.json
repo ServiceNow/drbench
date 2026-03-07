@@ -1,0 +1,82 @@
+{
+    "file_name": "crm-data-quality",
+    "file_title": "Improving CRM Data Quality",
+    "introduction": "In the pursuit of more effective marketing and sales strategies, we have conducted an analysis of our CRM data quality. This presentation will shed light on the current state of our data and propose strategies for enhancement.",
+    "subsections": [
+        {
+            "heading": "Current State of CRM Data",
+            "content": "\u2022 Our CRM system was last updated in March 2024 with a new interface and improved user experience\n\u2022 The CRM system is currently used by all departments across Elexion Automotive\n\u2022 We have seen a 12% increase in CRM usage since the last quarter of 2024\n\u2022 Training modules for CRM usage have been developed and are mandatory for all new hires\n\u2022 The CRM system is synced with our social media platforms for better customer interaction\n\u2022 A recent survey revealed 80% of our employees find the CRM system easy to use and intuitive\n\u2022 The CRM system has a dedicated IT support team to address technical issues in real time",
+            "type": "distractor",
+            "justification": "The content focuses on the CRM system's operational details and usage, not on the completeness of the CRM data."
+        },
+        {
+            "heading": "Impact of Incomplete CRM Data",
+            "content": "\u2022 Incomplete CRM data can lead to inaccurate customer insights, impacting marketing strategies\n\u2022 It can result in inefficient communication with customers, affecting customer satisfaction levels\n\u2022 Incomplete data might make it difficult to track customer behavior and preferences\n\u2022 It could lead to missed sales opportunities due to lack of personalized communication\n\u2022 Incomplete CRM data can affect the effectiveness of email marketing campaigns\n\u2022 Poor data quality can lead to wrong decisions due to inaccurate reports",
+            "type": "distractor",
+            "justification": "This content explains the potential impact of incomplete CRM data, but does not provide information on the percentage of CRM data that is incomplete."
+        },
+        {
+            "heading": "Strategies for Enhancing CRM Data",
+            "content": "\u2022 Regular data audits can help identify missing or inaccurate data\n\u2022 Implementing a data validation process during data entry can reduce errors\n\u2022 Training employees on the importance of data completeness can improve data quality\n\u2022 Integrating the CRM system with other business systems can ensure data consistency\n\u2022 Using data cleaning tools can help remove duplicates and correct inaccurate data\n\u2022 Implementing a data governance strategy can ensure data management best practices are followed",
+            "type": "distractor",
+            "justification": "The content discusses strategies for enhancing CRM data, not the current percentage of CRM data that is incomplete."
+        }
+    ],
+    "conclusion": "Our CRM data currently contains a significant percentage of incomplete entries, which affects our marketing and sales efforts. To improve data quality, we need to implement a comprehensive data management strategy and regularly monitor data integrity.",
+    "file_format": "pptx",
+    "file_path": ".llm_responses/generated_pptx_presentation.pptx",
+    "qa_type": "distractor",
+    "timestamp": "2025-11-20 01:18",
+    "image_queries": [
+        {
+            "slide_title": "Introduction",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "intentionally_clean",
+            "slide_type": "introduction"
+        },
+        {
+            "slide_title": "Current State of CRM Data",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 7,
+            "total_chars": 595,
+            "probability": 0.25,
+            "theme": "Modern Orange"
+        },
+        {
+            "slide_title": "Impact of Incomplete CRM Data",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "failed",
+            "slide_type": "distractor",
+            "content_length": 6,
+            "total_chars": 504,
+            "error": "'str' object has no attribute 'choices'",
+            "theme": "Modern Orange"
+        },
+        {
+            "slide_title": "Strategies for Enhancing CRM Data",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 6,
+            "total_chars": 476,
+            "probability": 0.25,
+            "theme": "Modern Orange"
+        },
+        {
+            "slide_title": "Conclusion",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "conclusion_failed",
+            "slide_type": "conclusion",
+            "error": "'str' object has no attribute 'choices'",
+            "theme": "Modern Orange"
+        }
+    ],
+    "app": "file_system"
+}

@@ -1,0 +1,21 @@
+# Lee's Market Instagram Engagement Analysis
+
+## Introduction
+
+This document provides an analysis of our U.S. Instagram page's performance in 2024. It focuses on post frequency, engagement metrics, and influencer collaborations. The data collected will aid in understanding the effectiveness of our social media strategy and inform future marketing decisions.
+
+## Analysis of Post Engagement Metrics
+
+In Q3 of 2024, we saw a significant increase in likes and comments on our Instagram posts. The average engagement rate across all posts was 2.7%, a 0.4% increase from the previous quarter. It is noteworthy that posts featuring holiday promotions had the highest engagement rates. The social media team has been working diligently to understand the factors contributing to this increase.
+
+## Average Weekly Post Frequency
+
+Our Canadian Instagram page has maintained a steady flow of content throughout 2024. The team aimed to post an average of 2-3 times per week, focusing on product launches and store events. This consistency has been crucial in maintaining our follower base and attracting new customers.
+
+## Review of Influencer Collaborations
+
+In 2024, we collaborated with 15 influencers, a 50% increase from 2023. Influencer content consistently outperformed our standard posts in terms of reach and engagement. Most of these collaborations were with local influencers, which increased our brand's visibility within the Richmond area.
+
+## Conclusion
+
+Our Instagram presence in 2024 shows a varied performance. The frequency of posts has shown to have an impact on our engagement metrics, and influencer collaborations have garnered significant attention. Moving forward, we should consider optimizing our post frequency and continue to leverage influencer partnerships for better market visibility.

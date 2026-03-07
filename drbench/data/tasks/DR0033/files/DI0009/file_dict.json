@@ -1,0 +1,82 @@
+{
+    "file_name": "may-2025-IT-service-analysis",
+    "file_title": "IT Service Requests Analysis - May 2025",
+    "introduction": "This presentation provides a comprehensive analysis of the IT service requests addressed by our team in May 2025. The purpose is to review our performance and identify areas for improvement.",
+    "subsections": [
+        {
+            "heading": "Breakdown of IT Service Request Types",
+            "content": "\u2022 Software-related service requests made up 42% of the total in 2025\n\u2022 Hardware issues accounted for 35% of service requests\n\u2022 Network connectivity problems constituted 15% of service requests\n\u2022 The remaining 8% of service requests were miscellaneous, including data retrieval and security concerns\n\u2022 Software issues were primarily related to application updates and bug fixes\n\u2022 Hardware problems were mostly related to workstation and peripheral malfunctions\n\u2022 Network connectivity issues were typically related to Wi-Fi and VPN access",
+            "type": "distractor",
+            "justification": "This content provides a breakdown of IT service request types, but does not specify the total number of requests in May 2025. It uses a distractor strategy by focusing on the nature of IT service requests rather than their number."
+        },
+        {
+            "heading": "Resolution Time for IT Service Requests in May 2025",
+            "content": "\u2022 The average resolution time for software-related issues was 1.2 hours\n\u2022 Hardware-related problems had an average resolution time of 2.5 hours\n\u2022 Network connectivity problems were typically resolved in 0.8 hours\n\u2022 Miscellaneous service requests had an average resolution time of 1.5 hours\n\u2022 The longest resolution time in May was 8 hours for a complex hardware issue\n\u2022 The quickest resolution was a network issue fixed in 15 minutes\n\u2022 The IT & Security team aims to keep the average resolution time below 2 hours for all request types",
+            "type": "distractor",
+            "justification": "This slide presents data on resolution times for May 2025, but it does not provide the total number of IT service requests addressed in that month. The distractor strategy here is focusing on performance metrics instead of volume metrics."
+        },
+        {
+            "heading": "Total IT Service Requests Handled in May 2025",
+            "content": "\u2022 The IT & Security team has seen a consistent increase in service requests year-over-year\n\u2022 The busiest day of the week for service requests is Monday\n\u2022 The least busy day for service requests is Friday\n\u2022 The majority of service requests are submitted between 10 AM and 2 PM\n\u2022 The fewest service requests are submitted between 6 PM and 6 AM\n\u2022 The team is considering staff reallocation to better handle peak times\n\u2022 Software-related service requests have shown the most significant increase over the years",
+            "type": "distractor",
+            "justification": "This information discusses trends and patterns in the IT service request volume, but does not reveal the total number of requests handled in May 2025. The distractor strategy is focusing on general trends and patterns."
+        }
+    ],
+    "conclusion": "Analysis of the IT service requests in May shows our team's efficiency in handling and resolving issues. Going forward, we will focus on areas identified for improvement to enhance our IT service delivery.",
+    "file_format": "pptx",
+    "file_path": ".llm_responses/generated_pptx_presentation.pptx",
+    "qa_type": "distractor",
+    "timestamp": "2025-11-19 10:46",
+    "image_queries": [
+        {
+            "slide_title": "Introduction",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "intentionally_clean",
+            "slide_type": "introduction"
+        },
+        {
+            "slide_title": "Breakdown of IT Service Request Types",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 7,
+            "total_chars": 516,
+            "probability": 0.25,
+            "theme": "Professional Green"
+        },
+        {
+            "slide_title": "Resolution Time for IT Service Requests in May 2025",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "failed",
+            "slide_type": "distractor",
+            "content_length": 7,
+            "total_chars": 515,
+            "error": "'str' object has no attribute 'choices'",
+            "theme": "Professional Green"
+        },
+        {
+            "slide_title": "Total IT Service Requests Handled in May 2025",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "failed",
+            "slide_type": "distractor",
+            "content_length": 7,
+            "total_chars": 486,
+            "error": "'str' object has no attribute 'choices'",
+            "theme": "Professional Green"
+        },
+        {
+            "slide_title": "Conclusion",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "conclusion_failed",
+            "slide_type": "conclusion",
+            "error": "'str' object has no attribute 'choices'",
+            "theme": "Professional Green"
+        }
+    ],
+    "app": "nextcloud"
+}

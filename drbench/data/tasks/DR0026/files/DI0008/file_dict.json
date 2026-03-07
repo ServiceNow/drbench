@@ -1,0 +1,81 @@
+{
+    "file_name": "customer-interaction-analysis",
+    "file_title": "Q4 2024 Customer Interaction Analysis",
+    "introduction": "Today, we'll be discussing our customers' usage of in-store self-checkout kiosks in Q4 2024. This analysis will provide insights into our customer behavior and their interaction with our technology.",
+    "subsections": [
+        {
+            "heading": "Overview of In-Store Technology Usage",
+            "content": "\u2022 In Q4, there was a 12% rise in the use of our mobile app for in-store navigation\n\u2022 The number of customers using in-store WiFi saw a 15% increase over the quarter\n\u2022 The digital coupon usage increased by 20% compared to the same period last year\n\u2022 In-store digital signage influenced 30% of impulse purchases during the holiday season\n\u2022 Contactless payment options were utilized in 65% of transactions in Q4\n\u2022 The 'Scan & Go' feature was used by 22% of customers, showing a slight increase compared to Q3",
+            "type": "distractor",
+            "justification": "The content focuses on various in-store technology usage, not specifically on self-checkout kiosks."
+        },
+        {
+            "heading": "Detailed Analysis of Self-Checkout Kiosk Interactions",
+            "content": "\u2022 The average transaction time at self-checkout kiosks was 3 minutes and 15 seconds\n\u2022 Approximately 18% of total transactions were conducted via self-checkout kiosks\n\u2022 There was a 5% decrease in self-checkout kiosk usage during peak hours\n\u2022 Analysis shows a slight preference for self-checkout among customers aged 25-35\n\u2022 The number of items per transaction at self-checkout kiosks averaged at 12\n\u2022 The error rate at self-checkout kiosks remained steady at around 2% throughout Q4",
+            "type": "distractor",
+            "justification": "The slide provides a general overview of self-checkout kiosk usage, but does not reveal the total customer count for Q4 2024."
+        },
+        {
+            "heading": "Comparison with Traditional Checkout Metrics",
+            "content": "\u2022 Traditional checkouts handled 82% of total transactions in Q4\n\u2022 Average transaction time at traditional checkouts was 5 minutes and 30 seconds\n\u2022 The item count per transaction at traditional checkouts averaged at 20\n\u2022 Customer satisfaction scores were marginally higher for traditional checkouts\n\u2022 During peak hours, traditional checkouts processed 90% of transactions\n\u2022 Customers aged over 45 showed a strong preference for traditional checkouts",
+            "type": "distractor",
+            "justification": "The content focuses on traditional checkout metrics, and does not provide information on self-checkout kiosk customer numbers."
+        }
+    ],
+    "conclusion": "In conclusion, our self-checkout kiosks have been well-utilized by our customers. This usage data can inform further investment in technology to improve the shopping experience at Lee's Market.",
+    "file_format": "pptx",
+    "file_path": ".llm_responses/generated_pptx_presentation.pptx",
+    "qa_type": "distractor",
+    "timestamp": "2025-11-19 02:24",
+    "image_queries": [
+        {
+            "slide_title": "Introduction",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "intentionally_clean",
+            "slide_type": "introduction"
+        },
+        {
+            "slide_title": "Overview of In-Store Technology Usage",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "failed",
+            "slide_type": "distractor",
+            "content_length": 6,
+            "total_chars": 488,
+            "error": "'str' object has no attribute 'choices'",
+            "theme": "Corporate Blue"
+        },
+        {
+            "slide_title": "Detailed Analysis of Self-Checkout Kiosk Interactions",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 6,
+            "total_chars": 464,
+            "probability": 0.25,
+            "theme": "Corporate Blue"
+        },
+        {
+            "slide_title": "Comparison with Traditional Checkout Metrics",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 6,
+            "total_chars": 431,
+            "probability": 0.25,
+            "theme": "Corporate Blue"
+        },
+        {
+            "slide_title": "Conclusion",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "strategic_clean_conclusion",
+            "slide_type": "conclusion",
+            "theme": "Corporate Blue"
+        }
+    ],
+    "app": "file_system"
+}

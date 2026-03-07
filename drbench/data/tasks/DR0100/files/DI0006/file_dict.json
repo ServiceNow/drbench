@@ -1,0 +1,81 @@
+{
+    "file_name": "it-audit-review-2025",
+    "file_title": "Internal IT Audit Review 2025",
+    "introduction": "This presentation aims to review our internal IT audit activities in 2025. It provides insights into the number, scope, and results of audits conducted during the year.",
+    "subsections": [
+        {
+            "heading": "Overview of IT Audit Landscape",
+            "content": "\u2022 IT audits are designed to evaluate the management of systems and processes\n\u2022 Risk-based approach to IT audits is commonly adopted in the industry\n\u2022 In 2024, the industry observed a 15% increase in IT audits\n\u2022 Regulatory compliance is a significant driver for IT audits\n\u2022 IT audits often assess the effectiveness of information security and data governance\n\u2022 Cybersecurity audits have become more prevalent in the healthcare industry\n\u2022 Third-party vendors are often involved in conducting IT audits",
+            "type": "distractor",
+            "justification": "This content provides an overview of IT audits but does not reveal the number conducted by MediConn Solutions in 2025. The strategy used is discussing general industry trends."
+        },
+        {
+            "heading": "2025 IT Audit Execution and Insights",
+            "content": "\u2022 A risk-based approach was used for IT audits in 2025\n\u2022 IT audits were focused on data protection, cybersecurity, and regulatory compliance\n\u2022 Audit findings were used to improve IT governance and processes\n\u2022 Key areas of focus included data management, business continuity, and IT infrastructure\n\u2022 External vendors were engaged for special audits\n\u2022 IT audits provided insights for strategic IT planning\n\u2022 The IT department worked closely with the audit team to address identified risks",
+            "type": "distractor",
+            "justification": "This slide discusses the approach and findings of IT audits in 2025 without revealing the exact number conducted. The strategy used is focusing on procedural information."
+        },
+        {
+            "heading": "Audit Impact on IT Infrastructure",
+            "content": "\u2022 IT audits helped in identifying potential risks in the IT infrastructure\n\u2022 Recommendations from audits were incorporated into IT infrastructure planning\n\u2022 IT audits led to changes in data management, cybersecurity, and business continuity practices\n\u2022 IT audits resulted in the adoption of new technologies to enhance data security\n\u2022 IT infrastructure upgrades were prioritized based on audit findings\n\u2022 The IT team worked on refining its disaster recovery strategy post audits",
+            "type": "distractor",
+            "justification": "This slide discusses the impact of IT audits on infrastructure, but doesn't specify the number of audits conducted in 2025. The strategy used is referencing related but non-essential business activities."
+        }
+    ],
+    "conclusion": "The IT audits conducted in 2025 have significantly contributed to improving our virtual healthcare services. Going forward, we intend to continue strengthening our IT infrastructure based on the insights derived from these audits.",
+    "file_format": "pptx",
+    "file_path": ".llm_responses/generated_pptx_presentation.pptx",
+    "qa_type": "distractor",
+    "timestamp": "2025-11-21 13:32",
+    "image_queries": [
+        {
+            "slide_title": "Introduction",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "intentionally_clean",
+            "slide_type": "introduction"
+        },
+        {
+            "slide_title": "Overview of IT Audit Landscape",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "failed",
+            "slide_type": "distractor",
+            "content_length": 7,
+            "total_chars": 479,
+            "error": "'str' object has no attribute 'choices'",
+            "theme": "Bold Crimson"
+        },
+        {
+            "slide_title": "2025 IT Audit Execution and Insights",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 7,
+            "total_chars": 466,
+            "probability": 0.25,
+            "theme": "Bold Crimson"
+        },
+        {
+            "slide_title": "Audit Impact on IT Infrastructure",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 6,
+            "total_chars": 461,
+            "probability": 0.25,
+            "theme": "Bold Crimson"
+        },
+        {
+            "slide_title": "Conclusion",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "strategic_clean_conclusion",
+            "slide_type": "conclusion",
+            "theme": "Bold Crimson"
+        }
+    ],
+    "app": "file_system"
+}

@@ -1,0 +1,21 @@
+# 2024 Holiday Charitable Initiatives Report
+
+## Introduction
+
+This document outlines the philanthropic efforts of Lee's Market's IT & Security department during our 2024 holiday canned food drive. Under the guidance of Jason Wong, we supported a local charity as part of our commitment to corporate social responsibility. The report details the chosen charity, the success of the drive, and potential impacts on our corporate image.
+
+## Overview of IT & Security Department's Philanthropy
+
+The IT & Security department at Lee's Market has a longstanding commitment to philanthropy, with a significant involvement in various charitable drives throughout the year. In 2023, the department spearheaded a technology donation drive, gathering gently used devices from employees and customers to donate to underprivileged schools in local communities. The campaign successfully collected over 500 devices, demonstrating the department's commitment to giving back to the community.
+
+## 2024 Holiday Food Drive: Results and Impact
+
+The 2024 holiday food drive was a company-wide initiative, with each department playing a crucial role. The Logistics department, for instance, coordinated the collection and transportation of the donated food items, ensuring they were safely and efficiently delivered to various food banks. The Marketing department, on the other hand, used social media platforms to promote the drive, resulting in a 15% increase in customer engagement during the campaign period.
+
+## Influence on Corporate Image and Community Relations
+
+Lee's Market's dedication to community service significantly enhances its corporate image and community relations. Our annual sustainability report in 2023 reflected a 20% improvement on our community engagement score, strengthening our reputation as a socially responsible enterprise. We are committed to continuing such initiatives and further improving our corporate social responsibility performance.
+
+## Conclusion
+
+The 2024 holiday food drive was a testament to the commitment of our IT & Security department to making a difference in our community. The chosen charity benefited significantly from our efforts, and this initiative positively influenced our corporate image. As we move forward, we should consider how to build upon this success and further strengthen our community ties.

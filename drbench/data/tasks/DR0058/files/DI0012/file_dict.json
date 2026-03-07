@@ -1,0 +1,238 @@
+{
+    "file_name": "mattermost_chat_20251119_234928",
+    "content": "{\"type\": \"version\", \"version\": 1}\n{\"type\": \"team\", \"team\": {\"name\": \"Platform_Development\", \"display_name\": \"Platform Development\", \"type\": \"O\", \"header\": \"Team responsible for developing and maintaining MediConn's virtual healthcare platforms\", \"purpose\": \"Create and improve healthcare platforms for MediConn Solutions\"}}\n{\"type\": \"channel\", \"channel\": {\"team\": \"Platform_Development\", \"name\": \"Platform_Configurations\", \"display_name\": \"Platform Configurations\", \"type\": \"O\", \"header\": \"For discussions about platform settings and parameters\", \"purpose\": \"To discuss and manage platform configurations for optimal performance and security\"}}\n{\"type\": \"user\", \"user\": {\"username\": \"brian.smith\", \"email\": \"brian.smith@mediconn.com\", \"password\": \"secure_password123\", \"nickname\": \"Brian\", \"first_name\": \"Brian\", \"last_name\": \"Smith\", \"position\": \"Cybersecurity Specialist\", \"roles\": \"system_user\", \"locale\": \"en\", \"teams\": [{\"name\": \"IT_Operations\", \"roles\": \"team_user\", \"channels\": [{\"name\": \"Cybersecurity\", \"roles\": \"channel_user\"}]}, {\"name\": \"Platform_Development\", \"roles\": \"team_user\", \"channels\": [{\"name\": \"Platform_Configurations\", \"roles\": \"channel_user\"}]}]}}\n{\"type\": \"user\", \"user\": {\"username\": \"jane_doe\", \"email\": \"jane.doe@mediconn.com\", \"password\": \"secure_password456\", \"nickname\": \"Jane\", \"first_name\": \"Jane\", \"last_name\": \"Doe\", \"position\": \"Platform Developer\", \"roles\": \"system_user\", \"locale\": \"en\", \"teams\": [{\"name\": \"Platform_Development\", \"roles\": \"team_user\", \"channels\": [{\"name\": \"Platform_Configurations\", \"roles\": \"channel_user\"}]}]}}\n{\"type\": \"user\", \"user\": {\"username\": \"mark_jones\", \"email\": \"mark.jones@mediconn.com\", \"password\": \"secure_password789\", \"nickname\": \"Mark\", \"first_name\": \"Mark\", \"last_name\": \"Jones\", \"position\": \"IT Support Specialist\", \"roles\": \"system_user\", \"locale\": \"en\", \"teams\": [{\"name\": \"IT_Operations\", \"roles\": \"team_user\", \"channels\": [{\"name\": \"Cybersecurity\", \"roles\": \"channel_user\"}]}]}}\n{\"type\": \"post\", \"post\": {\"team\": \"Platform_Development\", \"channel\": \"Platform_Configurations\", \"user\": \"jane_doe\", \"message\": \"Just finished a round of updates on the interface. The video call feature should now be more responsive.\", \"created_at\": 1620500000000}}\n{\"type\": \"post\", \"post\": {\"team\": \"Platform_Development\", \"channel\": \"Platform_Configurations\", \"user\": \"brian.smith\", \"message\": \"Great job, Jane. I'll review the changes and verify if it meets our security standards.\", \"created_at\": 1620500020000}}\n{\"type\": \"post\", \"post\": {\"team\": \"IT_Operations\", \"channel\": \"Cybersecurity\", \"user\": \"mark_jones\", \"message\": \"There's an upcoming cybersecurity webinar next week. Would be great if we all could attend.\", \"created_at\": 1620500040000}}\n{\"type\": \"post\", \"post\": {\"team\": \"Platform_Development\", \"channel\": \"Platform_Configurations\", \"user\": \"jane_doe\", \"message\": \"I've also been working on a new feature for patient file uploads. Will share a prototype soon.\", \"created_at\": 1620500060000}}\n{\"type\": \"post\", \"post\": {\"team\": \"IT_Operations\", \"channel\": \"Cybersecurity\", \"user\": \"brian.smith\", \"message\": \"Thanks for the heads up, Mark. I'll make sure to mark my calendar.\", \"created_at\": 1620500080000}}\n{\"type\": \"post\", \"post\": {\"team\": \"Platform_Development\", \"channel\": \"Platform_Configurations\", \"user\": \"jane_doe\", \"message\": \"Also, let's have a brief meeting tomorrow to discuss the timeline for the next sprint.\", \"created_at\": 1620500100000}}\n{\"type\": \"post\", \"post\": {\"team\": \"Platform_Development\", \"channel\": \"Platform_Configurations\", \"user\": \"brian.smith\", \"message\": \"Sounds good, Jane. Please share the meeting link in the team calendar.\", \"created_at\": 1620500120000}}\n{\"type\": \"post\", \"post\": {\"team\": \"Platform_Development\", \"channel\": \"Platform_Configurations\", \"user\": \"brian.smith\", \"message\": \"Hey team, just wanted to give an update on the configuration audits we've been conducting lately. For Q1 2024, we've completed a total of 4 audits, focusing on internal system settings and platform parameters to ensure optimal performance and security. If anyone needs more detailed reports, feel free to reach out!\", \"create_at\": 1620500000000}}\n{\"type\": \"post\", \"post\": {\"team\": \"Platform_Development\", \"channel\": \"Platform_Configurations\", \"user\": \"jane_doe\", \"message\": \"Thanks for the update, Brian! It's reassuring to know that we're keeping a rigorous check on our platform's configurations. I'll touch base with you soon to discuss some of the findings.\", \"create_at\": 1620500000050}}\n{\"type\": \"post\", \"post\": {\"team\": \"Platform_Development\", \"channel\": \"Platform_Configurations\", \"user\": \"mark_jones\", \"message\": \"Great job, Brian! It's vital to keep our platforms secure and compliant, especially given the sensitive nature of the data we handle. Your efforts are much appreciated!\", \"create_at\": 1620500000100}}",
+    "chat_setup": {
+        "teams": [
+            {
+                "type": "team",
+                "team": {
+                    "name": "Platform_Development",
+                    "display_name": "Platform Development",
+                    "type": "O",
+                    "header": "Team responsible for developing and maintaining MediConn's virtual healthcare platforms",
+                    "purpose": "Create and improve healthcare platforms for MediConn Solutions"
+                }
+            }
+        ],
+        "channels": [
+            {
+                "type": "channel",
+                "channel": {
+                    "team": "Platform_Development",
+                    "name": "Platform_Configurations",
+                    "display_name": "Platform Configurations",
+                    "type": "O",
+                    "header": "For discussions about platform settings and parameters",
+                    "purpose": "To discuss and manage platform configurations for optimal performance and security"
+                }
+            }
+        ],
+        "users": [
+            {
+                "type": "user",
+                "user": {
+                    "username": "brian.smith",
+                    "email": "brian.smith@mediconn.com",
+                    "password": "secure_password123",
+                    "nickname": "Brian",
+                    "first_name": "Brian",
+                    "last_name": "Smith",
+                    "position": "Cybersecurity Specialist",
+                    "roles": "system_user",
+                    "locale": "en",
+                    "teams": [
+                        {
+                            "name": "IT_Operations",
+                            "roles": "team_user",
+                            "channels": [
+                                {
+                                    "name": "Cybersecurity",
+                                    "roles": "channel_user"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Platform_Development",
+                            "roles": "team_user",
+                            "channels": [
+                                {
+                                    "name": "Platform_Configurations",
+                                    "roles": "channel_user"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "type": "user",
+                "user": {
+                    "username": "jane_doe",
+                    "email": "jane.doe@mediconn.com",
+                    "password": "secure_password456",
+                    "nickname": "Jane",
+                    "first_name": "Jane",
+                    "last_name": "Doe",
+                    "position": "Platform Developer",
+                    "roles": "system_user",
+                    "locale": "en",
+                    "teams": [
+                        {
+                            "name": "Platform_Development",
+                            "roles": "team_user",
+                            "channels": [
+                                {
+                                    "name": "Platform_Configurations",
+                                    "roles": "channel_user"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "type": "user",
+                "user": {
+                    "username": "mark_jones",
+                    "email": "mark.jones@mediconn.com",
+                    "password": "secure_password789",
+                    "nickname": "Mark",
+                    "first_name": "Mark",
+                    "last_name": "Jones",
+                    "position": "IT Support Specialist",
+                    "roles": "system_user",
+                    "locale": "en",
+                    "teams": [
+                        {
+                            "name": "IT_Operations",
+                            "roles": "team_user",
+                            "channels": [
+                                {
+                                    "name": "Cybersecurity",
+                                    "roles": "channel_user"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    "chat_messages": [
+        {
+            "type": "post",
+            "post": {
+                "team": "Platform_Development",
+                "channel": "Platform_Configurations",
+                "user": "brian.smith",
+                "message": "Hey team, just wanted to give an update on the configuration audits we've been conducting lately. For Q1 2024, we've completed a total of 4 audits, focusing on internal system settings and platform parameters to ensure optimal performance and security. If anyone needs more detailed reports, feel free to reach out!",
+                "create_at": 1620500000000
+            },
+            "tag": "insight"
+        },
+        {
+            "type": "post",
+            "post": {
+                "team": "Platform_Development",
+                "channel": "Platform_Configurations",
+                "user": "jane_doe",
+                "message": "Thanks for the update, Brian! It's reassuring to know that we're keeping a rigorous check on our platform's configurations. I'll touch base with you soon to discuss some of the findings.",
+                "create_at": 1620500000050
+            },
+            "tag": "insight"
+        },
+        {
+            "type": "post",
+            "post": {
+                "team": "Platform_Development",
+                "channel": "Platform_Configurations",
+                "user": "mark_jones",
+                "message": "Great job, Brian! It's vital to keep our platforms secure and compliant, especially given the sensitive nature of the data we handle. Your efforts are much appreciated!",
+                "create_at": 1620500000100
+            },
+            "tag": "insight"
+        },
+        {
+            "type": "post",
+            "post": {
+                "team": "Platform_Development",
+                "channel": "Platform_Configurations",
+                "user": "jane_doe",
+                "message": "Just finished a round of updates on the interface. The video call feature should now be more responsive.",
+                "created_at": 1620500000000
+            },
+            "tag": "distractor"
+        },
+        {
+            "type": "post",
+            "post": {
+                "team": "Platform_Development",
+                "channel": "Platform_Configurations",
+                "user": "brian.smith",
+                "message": "Great job, Jane. I'll review the changes and verify if it meets our security standards.",
+                "created_at": 1620500020000
+            },
+            "tag": "distractor"
+        },
+        {
+            "type": "post",
+            "post": {
+                "team": "IT_Operations",
+                "channel": "Cybersecurity",
+                "user": "mark_jones",
+                "message": "There's an upcoming cybersecurity webinar next week. Would be great if we all could attend.",
+                "created_at": 1620500040000
+            },
+            "tag": "distractor"
+        },
+        {
+            "type": "post",
+            "post": {
+                "team": "Platform_Development",
+                "channel": "Platform_Configurations",
+                "user": "jane_doe",
+                "message": "I've also been working on a new feature for patient file uploads. Will share a prototype soon.",
+                "created_at": 1620500060000
+            },
+            "tag": "distractor"
+        },
+        {
+            "type": "post",
+            "post": {
+                "team": "IT_Operations",
+                "channel": "Cybersecurity",
+                "user": "brian.smith",
+                "message": "Thanks for the heads up, Mark. I'll make sure to mark my calendar.",
+                "created_at": 1620500080000
+            },
+            "tag": "distractor"
+        },
+        {
+            "type": "post",
+            "post": {
+                "team": "Platform_Development",
+                "channel": "Platform_Configurations",
+                "user": "jane_doe",
+                "message": "Also, let's have a brief meeting tomorrow to discuss the timeline for the next sprint.",
+                "created_at": 1620500100000
+            },
+            "tag": "distractor"
+        },
+        {
+            "type": "post",
+            "post": {
+                "team": "Platform_Development",
+                "channel": "Platform_Configurations",
+                "user": "brian.smith",
+                "message": "Sounds good, Jane. Please share the meeting link in the team calendar.",
+                "created_at": 1620500120000
+            },
+            "tag": "distractor"
+        }
+    ],
+    "file_format": "jsonl",
+    "file_path": ".llm_responses/generated_chat_document.jsonl",
+    "qa_type": "distractor",
+    "timestamp": "2025-11-20 00:49",
+    "app": "mattermost"
+}

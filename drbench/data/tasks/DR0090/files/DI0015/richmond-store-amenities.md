@@ -1,0 +1,21 @@
+# Richmond Store Amenities Assessment Q4 2025
+
+## Introduction
+
+This document provides an assessment of the amenities available at Lee's Market Richmond Store, focusing predominantly on the employee break room. The evaluation aims to confirm resources available and determine if any improvements are required, thereby enhancing employee satisfaction and productivity. The report encompasses a specific focus on the coffee-making facilities available during Q4 2025.
+
+## Overview of Employee Break Room Amenities
+
+Lee's Market Richmond store prioritizes employee comfort by providing various amenities in the breakroom. These include a vending machine stocked with healthy snack options, a refrigerator for personal meal storage, and a television for entertainment purposes. In 2020, approximately 74% of our employees reported utilizing these amenities during their breaks.
+
+## Detailed Analysis of Coffee-Making Facilities
+
+In Q3 2025, Lee's Market upgraded the coffee-making facilities in all its stores across Canada. The upgrades included the addition of modern coffee machines that offer a variety of coffee options to cater to the diverse preferences of our staff. The investment was part of our broader initiative to improve employee satisfaction and productivity.
+
+## Employee Satisfaction and Suggestions for Improvement
+
+In our latest employee satisfaction survey conducted in Q2 2025, 85% of the staff reported being satisfied with the breakroom facilities. Suggestions for improvement included increasing the variety of snacks in the vending machine and extending the break room's operating hours. The management is actively considering these suggestions for implementation in the coming year.
+
+## Conclusion
+
+The report provides a thorough examination of the current state of the employee break room amenities, with a particular focus on the coffee-making facilities. The data analyzed reveals areas of satisfaction, as well as potential improvements. Based on the findings, there are clear opportunities to enhance the break room facilities, contributing positively to employees' productivity and job satisfaction. Further investigation and budget allocation for proposed improvements are recommended.

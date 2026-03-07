@@ -1,0 +1,202 @@
+{
+    "file_name": "roundcube_email_20251202_224742",
+    "content": "{\"type\": \"user\", \"username\": \"ryan.thompson\", \"first_name\": \"Ryan\", \"last_name\": \"Thompson\", \"email\": \"ryan.thompson@elexionauto.com\", \"password\": \"customer_experience_lead_2024\"}\n{\"type\": \"user\", \"username\": \"sharon.miller\", \"first_name\": \"Sharon\", \"last_name\": \"Miller\", \"email\": \"sharon.miller@elexionauto.com\", \"password\": \"human_resources_elexion\"}\n{\"type\": \"user\", \"username\": \"james.baker\", \"first_name\": \"James\", \"last_name\": \"Baker\", \"email\": \"james.baker@elexionauto.com\", \"password\": \"data_analysis_elexion\"}\n{\"type\": \"user\", \"username\": \"laura.peterson\", \"first_name\": \"Laura\", \"last_name\": \"Peterson\", \"email\": \"laura.peterson@elexionauto.com\", \"password\": \"customer_service_rep1\"}\n{\"type\": \"user\", \"username\": \"michael.jones\", \"first_name\": \"Michael\", \"last_name\": \"Jones\", \"email\": \"michael.jones@elexionauto.com\", \"password\": \"customer_service_rep2\"}\n{\"type\": \"user\", \"username\": \"susan.clark\", \"first_name\": \"Susan\", \"last_name\": \"Clark\", \"email\": \"susan.clark@elexionauto.com\", \"password\": \"customer_service_rep3\"}\n{\"type\": \"user\", \"username\": \"robert.johnson\", \"first_name\": \"Robert\", \"last_name\": \"Johnson\", \"email\": \"robert.johnson@elexionauto.com\", \"password\": \"customer_service_rep4\"}\n{\"type\": \"email\", \"id\": \"email_001\", \"subject\": \"Team Meeting Schedule for Q3\", \"from\": \"ryan.thompson@elexionauto.com\", \"from_name\": \"Ryan Thompson\", \"to\": [\"laura.peterson@elexionauto.com\", \"michael.jones@elexionauto.com\", \"susan.clark@elexionauto.com\", \"robert.johnson@elexionauto.com\"], \"cc\": [\"sharon.miller@elexionauto.com\"], \"date\": \"2026-07-01 09:00:00\", \"body\": \"Hello Team, \\n\\nI want to inform you about the upcoming meeting schedule for Q3. We will be meeting every Tuesday at 10 am starting from next week. Please adjust your schedules accordingly.\\n\\nBest, \\nRyan\", \"folder\": \"sent\", \"read\": true, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_002\", \"subject\": \"New Customer Satisfaction Survey\", \"from\": \"james.baker@elexionauto.com\", \"from_name\": \"James Baker\", \"to\": [\"ryan.thompson@elexionauto.com\"], \"cc\": [], \"date\": \"2026-07-02 11:30:00\", \"body\": \"Hi Ryan, \\n\\nWe have designed a new customer satisfaction survey to measure the overall experience of our customers. I would appreciate it if you could review it and provide your feedback.\\n\\nThanks, \\nJames\", \"folder\": \"inbox\", \"read\": false, \"attachments\": [\"Customer_Satisfaction_Survey.pdf\"]}\n{\"type\": \"email\", \"id\": \"email_003\", \"subject\": \"Annual Compliance Training\", \"from\": \"sharon.miller@elexionauto.com\", \"from_name\": \"Sharon Miller\", \"to\": [\"ryan.thompson@elexionauto.com\", \"james.baker@elexionauto.com\"], \"cc\": [], \"date\": \"2026-07-05 14:15:00\", \"body\": \"Dear Ryan and James, \\n\\nThe annual compliance training is scheduled for next Monday. Please ensure your teams are aware and prepared for this mandatory session.\\n\\nBest, \\nSharon\", \"folder\": \"inbox\", \"read\": false, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_004\", \"subject\": \"Team Performance Review\", \"from\": \"ryan.thompson@elexionauto.com\", \"from_name\": \"Ryan Thompson\", \"to\": [\"sharon.miller@elexionauto.com\"], \"cc\": [], \"date\": \"2026-07-07 16:00:00\", \"body\": \"Hi Sharon, \\n\\nI have completed the performance reviews for the Customer Experience team. I am attaching the reports for your review.\\n\\nBest, \\nRyan\", \"folder\": \"sent\", \"read\": true, \"attachments\": [\"Performance_Review_Q3.pdf\"]}\n{\"type\": \"email\", \"id\": \"email_001\", \"subject\": \"Observations on Customer Service Performance Metrics\", \"from\": \"james.baker@elexionauto.com\", \"from_name\": \"James Baker\", \"to\": [\"ryan.thompson@elexionauto.com\"], \"cc\": [\"sharon.miller@elexionauto.com\"], \"date\": \"2026-01-11 09:15:00\", \"body\": \"Hi Ryan, \\n\\nI hope this email finds you well. I wanted to share with you some interesting insights I found when analyzing the end-of-year 2025 data on our customer service team. \\n\\nThe data shows a 21% increase in productivity among customer service representatives who have taken a day or two off. This insight could be helpful in planning team schedules and improving the overall efficiency of our customer service. \\n\\nLet me know if you need any more details or further analysis. \\n\\nBest, \\nJames\", \"folder\": \"inbox\", \"read\": true, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_002\", \"subject\": \"RE: Observations on Customer Service Performance Metrics\", \"from\": \"ryan.thompson@elexionauto.com\", \"from_name\": \"Ryan Thompson\", \"to\": [\"james.baker@elexionauto.com\"], \"cc\": [\"sharon.miller@elexionauto.com\"], \"date\": \"2026-01-11 10:30:00\", \"body\": \"James, \\n\\nThank you for sharing this insightful information. It's crucial we take this into consideration while strategizing for 2026. I'll discuss this with Sharon and see how we can implement rest days effectively without disrupting our customer service operations. \\n\\nBest, \\nRyan\", \"folder\": \"inbox\", \"read\": true, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_003\", \"subject\": \"RE: Observations on Customer Service Performance Metrics\", \"from\": \"sharon.miller@elexionauto.com\", \"from_name\": \"Sharon Miller\", \"to\": [\"ryan.thompson@elexionauto.com\", \"james.baker@elexionauto.com\"], \"date\": \"2026-01-11 13:45:00\", \"body\": \"Ryan, James, \\n\\nThis is an important finding. As we plan our HR strategies for 2026, we can definitely consider providing our customer service team with a more flexible schedule. This might not only boost productivity but also improve employee satisfaction and retention. \\n\\nThank you for sharing this, James. Let's discuss this in our next meeting. \\n\\nBest, \\nSharon\", \"folder\": \"inbox\", \"read\": true, \"attachments\": []}",
+    "email_setup": [
+        {
+            "type": "user",
+            "username": "ryan.thompson",
+            "first_name": "Ryan",
+            "last_name": "Thompson",
+            "email": "ryan.thompson@elexionauto.com",
+            "password": "customer_experience_lead_2024"
+        },
+        {
+            "type": "user",
+            "username": "sharon.miller",
+            "first_name": "Sharon",
+            "last_name": "Miller",
+            "email": "sharon.miller@elexionauto.com",
+            "password": "human_resources_elexion"
+        },
+        {
+            "type": "user",
+            "username": "james.baker",
+            "first_name": "James",
+            "last_name": "Baker",
+            "email": "james.baker@elexionauto.com",
+            "password": "data_analysis_elexion"
+        },
+        {
+            "type": "user",
+            "username": "laura.peterson",
+            "first_name": "Laura",
+            "last_name": "Peterson",
+            "email": "laura.peterson@elexionauto.com",
+            "password": "customer_service_rep1"
+        },
+        {
+            "type": "user",
+            "username": "michael.jones",
+            "first_name": "Michael",
+            "last_name": "Jones",
+            "email": "michael.jones@elexionauto.com",
+            "password": "customer_service_rep2"
+        },
+        {
+            "type": "user",
+            "username": "susan.clark",
+            "first_name": "Susan",
+            "last_name": "Clark",
+            "email": "susan.clark@elexionauto.com",
+            "password": "customer_service_rep3"
+        },
+        {
+            "type": "user",
+            "username": "robert.johnson",
+            "first_name": "Robert",
+            "last_name": "Johnson",
+            "email": "robert.johnson@elexionauto.com",
+            "password": "customer_service_rep4"
+        }
+    ],
+    "email_messages": [
+        {
+            "type": "email",
+            "id": "email_001",
+            "subject": "Team Meeting Schedule for Q3",
+            "from": "ryan.thompson@elexionauto.com",
+            "from_name": "Ryan Thompson",
+            "to": [
+                "laura.peterson@elexionauto.com",
+                "michael.jones@elexionauto.com",
+                "susan.clark@elexionauto.com",
+                "robert.johnson@elexionauto.com"
+            ],
+            "cc": [
+                "sharon.miller@elexionauto.com"
+            ],
+            "date": "2026-07-01 09:00:00",
+            "body": "Hello Team, \n\nI want to inform you about the upcoming meeting schedule for Q3. We will be meeting every Tuesday at 10 am starting from next week. Please adjust your schedules accordingly.\n\nBest, \nRyan",
+            "folder": "sent",
+            "read": true,
+            "attachments": [],
+            "tag": "distractor"
+        },
+        {
+            "type": "email",
+            "id": "email_002",
+            "subject": "New Customer Satisfaction Survey",
+            "from": "james.baker@elexionauto.com",
+            "from_name": "James Baker",
+            "to": [
+                "ryan.thompson@elexionauto.com"
+            ],
+            "cc": [],
+            "date": "2026-07-02 11:30:00",
+            "body": "Hi Ryan, \n\nWe have designed a new customer satisfaction survey to measure the overall experience of our customers. I would appreciate it if you could review it and provide your feedback.\n\nThanks, \nJames",
+            "folder": "inbox",
+            "read": false,
+            "attachments": [
+                "Customer_Satisfaction_Survey.pdf"
+            ],
+            "tag": "distractor"
+        },
+        {
+            "type": "email",
+            "id": "email_003",
+            "subject": "Annual Compliance Training",
+            "from": "sharon.miller@elexionauto.com",
+            "from_name": "Sharon Miller",
+            "to": [
+                "ryan.thompson@elexionauto.com",
+                "james.baker@elexionauto.com"
+            ],
+            "cc": [],
+            "date": "2026-07-05 14:15:00",
+            "body": "Dear Ryan and James, \n\nThe annual compliance training is scheduled for next Monday. Please ensure your teams are aware and prepared for this mandatory session.\n\nBest, \nSharon",
+            "folder": "inbox",
+            "read": false,
+            "attachments": [],
+            "tag": "distractor"
+        },
+        {
+            "type": "email",
+            "id": "email_004",
+            "subject": "Team Performance Review",
+            "from": "ryan.thompson@elexionauto.com",
+            "from_name": "Ryan Thompson",
+            "to": [
+                "sharon.miller@elexionauto.com"
+            ],
+            "cc": [],
+            "date": "2026-07-07 16:00:00",
+            "body": "Hi Sharon, \n\nI have completed the performance reviews for the Customer Experience team. I am attaching the reports for your review.\n\nBest, \nRyan",
+            "folder": "sent",
+            "read": true,
+            "attachments": [
+                "Performance_Review_Q3.pdf"
+            ],
+            "tag": "distractor"
+        },
+        {
+            "type": "email",
+            "id": "email_001",
+            "subject": "Observations on Customer Service Performance Metrics",
+            "from": "james.baker@elexionauto.com",
+            "from_name": "James Baker",
+            "to": [
+                "ryan.thompson@elexionauto.com"
+            ],
+            "cc": [
+                "sharon.miller@elexionauto.com"
+            ],
+            "date": "2026-01-11 09:15:00",
+            "body": "Hi Ryan, \n\nI hope this email finds you well. I wanted to share with you some interesting insights I found when analyzing the end-of-year 2025 data on our customer service team. \n\nThe data shows a 21% increase in productivity among customer service representatives who have taken a day or two off. This insight could be helpful in planning team schedules and improving the overall efficiency of our customer service. \n\nLet me know if you need any more details or further analysis. \n\nBest, \nJames",
+            "folder": "inbox",
+            "read": true,
+            "attachments": [],
+            "tag": "insight"
+        },
+        {
+            "type": "email",
+            "id": "email_002",
+            "subject": "RE: Observations on Customer Service Performance Metrics",
+            "from": "ryan.thompson@elexionauto.com",
+            "from_name": "Ryan Thompson",
+            "to": [
+                "james.baker@elexionauto.com"
+            ],
+            "cc": [
+                "sharon.miller@elexionauto.com"
+            ],
+            "date": "2026-01-11 10:30:00",
+            "body": "James, \n\nThank you for sharing this insightful information. It's crucial we take this into consideration while strategizing for 2026. I'll discuss this with Sharon and see how we can implement rest days effectively without disrupting our customer service operations. \n\nBest, \nRyan",
+            "folder": "inbox",
+            "read": true,
+            "attachments": [],
+            "tag": "insight"
+        },
+        {
+            "type": "email",
+            "id": "email_003",
+            "subject": "RE: Observations on Customer Service Performance Metrics",
+            "from": "sharon.miller@elexionauto.com",
+            "from_name": "Sharon Miller",
+            "to": [
+                "ryan.thompson@elexionauto.com",
+                "james.baker@elexionauto.com"
+            ],
+            "date": "2026-01-11 13:45:00",
+            "body": "Ryan, James, \n\nThis is an important finding. As we plan our HR strategies for 2026, we can definitely consider providing our customer service team with a more flexible schedule. This might not only boost productivity but also improve employee satisfaction and retention. \n\nThank you for sharing this, James. Let's discuss this in our next meeting. \n\nBest, \nSharon",
+            "folder": "inbox",
+            "read": true,
+            "attachments": [],
+            "tag": "insight"
+        }
+    ],
+    "file_format": "jsonl",
+    "file_path": ".llm_responses/generated_email_document.jsonl",
+    "qa_type": "distractor",
+    "timestamp": "2025-12-02 23:47",
+    "app": "email"
+}

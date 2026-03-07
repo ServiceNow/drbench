@@ -1,0 +1,11 @@
+Date,Cybersecurity_Specialist,Target_System,Alert_Rule_Description,Alert_Purpose
+The date when the alert rule was deployed or updated,The name of the cybersecurity specialist who deployed or updated the alert rule,"The system, such as SIEM, where the alert rule was deployed or updated",A detailed description of the alert rule,"The purpose of the alert rule, such as detecting malformed authentication headers"
+2025-09-10,Cybersecurity Specialist at MediConn,MediConn’s Firewall system,Updated the alert rule for detecting DDoS attacks,Detecting DDoS attacks
+2024-10-05,Cybersecurity Specialist at HealthLink,HealthLink’s SIEM system,Updated the alert rule for password attempts,Monitoring multiple failed password attempts
+2025-08-22,Cybersecurity Specialist at MediConn,MediConn’s SIEM system,Configured a targeted alert to detect malformed authentication headers,Detecting malformed authentication headers
+2025-01-15,Cybersecurity Specialist at MediConn,MediConn’s SIEM system,Updated the alert rule for detecting ransomware,Detecting ransomware
+2025-06-30,Cybersecurity Specialist at HealthLink,HealthLink’s Firewall system,Configured a targeted alert to detect SQL injection,Detecting SQL injection
+2025-08-15,Cybersecurity Specialist at HealthLink,HealthLink’s SIEM system,Updated the alert rule for detecting malware,Detecting malware
+2025-08-20,Cybersecurity Specialist at MediConn,MediConn’s SIEM system,Deployed a new alert rule for detecting phishing attempts,Detecting phishing attempts
+2024-12-01,Cybersecurity Specialist at HealthLink,HealthLink’s SIEM system,Deployed a new alert rule for detecting phishing attempts,Detecting phishing attempts
+2025-03-20,Cybersecurity Specialist at MediConn,MediConn’s Firewall system,Deployed a new alert rule for detecting DDoS attacks,Detecting DDoS attacks

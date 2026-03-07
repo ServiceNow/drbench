@@ -1,0 +1,81 @@
+{
+    "file_name": "cybersecurity-investment-2024",
+    "file_title": "Cybersecurity Investment Analysis 2024",
+    "introduction": "This presentation provides an overview of our cybersecurity investments in 2024. It aims to evaluate our expenditure and highlight its impact on business operations.",
+    "subsections": [
+        {
+            "heading": "Overview of Cybersecurity Threats in 2024",
+            "content": "\u2022 Increase in phishing attacks across the retail industry\n\u2022 Emergence of AI-based cybersecurity threats\n\u2022 Increase in ransomware attacks on medium-sized businesses\n\u2022 The rise of supply chain attacks in the retail sector\n\u2022 Increase in the use of cloud services, leading to new security vulnerabilities\n\u2022 Introduction of new data protection regulations globally",
+            "type": "distractor",
+            "justification": "The content provides an overview of general cybersecurity threats but doesn't specify Lee's Market's expenditure on cybersecurity."
+        },
+        {
+            "heading": "Lee's Market Cybersecurity Expenditure in 2024",
+            "content": "\u2022 Significant investment in employee cybersecurity training\n\u2022 Increase in cybersecurity insurance coverage\n\u2022 Enhanced investment in cybersecurity infrastructure and tools\n\u2022 Dedicated teams for cybersecurity risk assessment and management\n\u2022 Adoption of AI and Machine Learning in cybersecurity strategies\n\u2022 Partnerships with external cybersecurity consultancies for ongoing support",
+            "type": "distractor",
+            "justification": "The slide discusses the areas of cybersecurity investment but doesn't provide the total expenditure amount."
+        },
+        {
+            "heading": "Impact of Cybersecurity Investment on Business",
+            "content": "\u2022 Significant reduction in successful cyber attacks\n\u2022 Improved customer confidence due to enhanced data protection\n\u2022 Compliance with new global data protection regulations\n\u2022 Increased business resilience against disruptive cyber threats\n\u2022 Enhanced protection of critical business data and systems\n\u2022 Increased ROI due to reduced losses from cyber threats",
+            "type": "distractor",
+            "justification": "This slide focuses on the impact of cybersecurity investments but doesn't specify the total expenditure."
+        }
+    ],
+    "conclusion": "In conclusion, Lee's Market's investment in cybersecurity in 2024 was both necessary and impactful. Moving forward, we should continue to prioritize this area to ensure the protection of our systems and data.",
+    "file_format": "pptx",
+    "file_path": ".llm_responses/generated_pptx_presentation.pptx",
+    "qa_type": "distractor",
+    "timestamp": "2025-11-20 19:13",
+    "image_queries": [
+        {
+            "slide_title": "Introduction",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "intentionally_clean",
+            "slide_type": "introduction"
+        },
+        {
+            "slide_title": "Overview of Cybersecurity Threats in 2024",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "failed",
+            "slide_type": "distractor",
+            "content_length": 6,
+            "total_chars": 342,
+            "error": "'str' object has no attribute 'choices'",
+            "theme": "Professional Green"
+        },
+        {
+            "slide_title": "Lee's Market Cybersecurity Expenditure in 2024",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 6,
+            "total_chars": 363,
+            "probability": 0.25,
+            "theme": "Professional Green"
+        },
+        {
+            "slide_title": "Impact of Cybersecurity Investment on Business",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 6,
+            "total_chars": 336,
+            "probability": 0.25,
+            "theme": "Professional Green"
+        },
+        {
+            "slide_title": "Conclusion",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "strategic_clean_conclusion",
+            "slide_type": "conclusion",
+            "theme": "Professional Green"
+        }
+    ],
+    "app": "file_system"
+}

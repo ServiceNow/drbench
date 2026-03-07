@@ -1,0 +1,248 @@
+{
+    "file_name": "mattermost_chat_20251120_152046",
+    "content": "{\"type\": \"version\", \"version\": 1}\n{\"type\": \"team\", \"team\": {\"name\": \"customer_service\", \"display_name\": \"Customer Service\", \"type\": \"O\", \"header\": \"Team dedicated to managing customer service\", \"purpose\": \"Manage and resolve customer issues\"}}\n{\"type\": \"team\", \"team\": {\"name\": \"store_management\", \"display_name\": \"Store Management\", \"type\": \"O\", \"header\": \"Team dedicated to store operations and management\", \"purpose\": \"Oversee store operations and manage retail floor space\"}}\n{\"type\": \"channel\", \"channel\": {\"team\": \"customer_service\", \"name\": \"cs_discussions\", \"display_name\": \"CS Discussions\", \"type\": \"O\", \"header\": \"Channel for customer service related discussions\", \"purpose\": \"Discuss and resolve customer issues\"}}\n{\"type\": \"channel\", \"channel\": {\"team\": \"store_management\", \"name\": \"store_updates\", \"display_name\": \"Store Updates\", \"type\": \"O\", \"header\": \"Channel for updates about store operations\", \"purpose\": \"Discuss store operations and retail floor space management\"}}\n{\"type\": \"user\", \"user\": {\"username\": \"sophie.liu\", \"email\": \"sophie.liu@leesmarket.com\", \"password\": \"sophie_liu_pwd\", \"nickname\": \"Sophie\", \"first_name\": \"Sophie\", \"last_name\": \"Liu\", \"position\": \"Customer Service Manager\", \"roles\": \"system_user\", \"locale\": \"en\", \"teams\": [{\"name\": \"customer_service\", \"roles\": \"team_user\", \"channels\": [{\"name\": \"cs_discussions\", \"roles\": \"channel_user\"}]}, {\"name\": \"store_management\", \"roles\": \"team_user\", \"channels\": [{\"name\": \"store_updates\", \"roles\": \"channel_user\"}]}]}}\n{\"type\": \"user\", \"user\": {\"username\": \"john_doe\", \"email\": \"john.doe@leesmarket.com\", \"password\": \"john_doe_pwd\", \"nickname\": \"John\", \"first_name\": \"John\", \"last_name\": \"Doe\", \"position\": \"Store Manager\", \"roles\": \"system_user\", \"locale\": \"en\", \"teams\": [{\"name\": \"store_management\", \"roles\": \"team_user\", \"channels\": [{\"name\": \"store_updates\", \"roles\": \"channel_user\"}]}]}}\n{\"type\": \"user\", \"user\": {\"username\": \"jane_smith\", \"email\": \"jane.smith@leesmarket.com\", \"password\": \"jane_smith_pwd\", \"nickname\": \"Jane\", \"first_name\": \"Jane\", \"last_name\": \"Smith\", \"position\": \"Customer Service Representative\", \"roles\": \"system_user\", \"locale\": \"en\", \"teams\": [{\"name\": \"customer_service\", \"roles\": \"team_user\", \"channels\": [{\"name\": \"cs_discussions\", \"roles\": \"channel_user\"}]}]}}\n{\"type\": \"post\", \"post\": {\"team\": \"customer_service\", \"channel\": \"cs_discussions\", \"user\": \"sophie.liu\", \"message\": \"Hi team, just a reminder that we have our weekly customer service meeting tomorrow at 10am. We'll be discussing our recent customer satisfaction surveys, so please come prepared.\", \"created_at\": 1620500000000}}\n{\"type\": \"post\", \"post\": {\"team\": \"store_management\", \"channel\": \"store_updates\", \"user\": \"john_doe\", \"message\": \"Hello all, we will be receiving a shipment of new products tomorrow morning. Please ensure the inventory stock is updated accordingly.\", \"created_at\": 1620501000000}}\n{\"type\": \"post\", \"post\": {\"team\": \"customer_service\", \"channel\": \"cs_discussions\", \"user\": \"jane_smith\", \"message\": \"Just to confirm, Sophie, are we meeting in the conference room or is this a virtual meeting?\", \"created_at\": 1620502000000}}\n{\"type\": \"post\", \"post\": {\"team\": \"store_management\", \"channel\": \"store_updates\", \"user\": \"sophie.liu\", \"message\": \"John, could you please ensure that the new products are displayed prominently for customers? We've had some feedback recently about visibility of new items.\", \"created_at\": 1620503000000}}\n{\"type\": \"post\", \"post\": {\"team\": \"customer_service\", \"channel\": \"cs_discussions\", \"user\": \"sophie.liu\", \"message\": \"Hi Jane, the meeting will be virtual. I'll send the Zoom link out first thing in the morning.\", \"created_at\": 1620504000000}}\n{\"type\": \"post\", \"post\": {\"team\": \"store_management\", \"channel\": \"store_updates\", \"user\": \"john_doe\", \"message\": \"Sure Sophie, I'll work with the team to make sure new products are easy for our customers to find.\", \"created_at\": 1620505000000}}\n{\"type\": \"post\", \"post\": {\"team\": \"customer_service\", \"channel\": \"cs_discussions\", \"user\": \"jane_smith\", \"message\": \"Thanks for the update, Sophie. I'll make sure to join the meeting on time.\", \"created_at\": 1620506000000}}\n{\"type\": \"post\", \"post\": {\"team\": \"store_management\", \"channel\": \"store_updates\", \"user\": \"john_doe\", \"message\": \"Hello team, as part of our quarterly report, I've been reviewing our store sizes and layout efficiency. As of FY2025, Lee's Market occupies approximately 1.4 million square feet of retail space across Canada. This information is crucial for our real estate planning and optimizing store operations.\", \"create_at\": 1620500000000}}\n{\"type\": \"post\", \"post\": {\"team\": \"store_management\", \"channel\": \"store_updates\", \"user\": \"sophie.liu\", \"message\": \"Thanks for the update, John. This is indeed a crucial information. We should continue to monitor the efficient use of our retail space as it greatly impacts our store operations and customer shopping experience.\", \"create_at\": 1620501000000}}",
+    "chat_setup": {
+        "teams": [
+            {
+                "type": "team",
+                "team": {
+                    "name": "customer_service",
+                    "display_name": "Customer Service",
+                    "type": "O",
+                    "header": "Team dedicated to managing customer service",
+                    "purpose": "Manage and resolve customer issues"
+                }
+            },
+            {
+                "type": "team",
+                "team": {
+                    "name": "store_management",
+                    "display_name": "Store Management",
+                    "type": "O",
+                    "header": "Team dedicated to store operations and management",
+                    "purpose": "Oversee store operations and manage retail floor space"
+                }
+            }
+        ],
+        "channels": [
+            {
+                "type": "channel",
+                "channel": {
+                    "team": "customer_service",
+                    "name": "cs_discussions",
+                    "display_name": "CS Discussions",
+                    "type": "O",
+                    "header": "Channel for customer service related discussions",
+                    "purpose": "Discuss and resolve customer issues"
+                }
+            },
+            {
+                "type": "channel",
+                "channel": {
+                    "team": "store_management",
+                    "name": "store_updates",
+                    "display_name": "Store Updates",
+                    "type": "O",
+                    "header": "Channel for updates about store operations",
+                    "purpose": "Discuss store operations and retail floor space management"
+                }
+            }
+        ],
+        "users": [
+            {
+                "type": "user",
+                "user": {
+                    "username": "sophie.liu",
+                    "email": "sophie.liu@leesmarket.com",
+                    "password": "sophie_liu_pwd",
+                    "nickname": "Sophie",
+                    "first_name": "Sophie",
+                    "last_name": "Liu",
+                    "position": "Customer Service Manager",
+                    "roles": "system_user",
+                    "locale": "en",
+                    "teams": [
+                        {
+                            "name": "customer_service",
+                            "roles": "team_user",
+                            "channels": [
+                                {
+                                    "name": "cs_discussions",
+                                    "roles": "channel_user"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "store_management",
+                            "roles": "team_user",
+                            "channels": [
+                                {
+                                    "name": "store_updates",
+                                    "roles": "channel_user"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "type": "user",
+                "user": {
+                    "username": "john_doe",
+                    "email": "john.doe@leesmarket.com",
+                    "password": "john_doe_pwd",
+                    "nickname": "John",
+                    "first_name": "John",
+                    "last_name": "Doe",
+                    "position": "Store Manager",
+                    "roles": "system_user",
+                    "locale": "en",
+                    "teams": [
+                        {
+                            "name": "store_management",
+                            "roles": "team_user",
+                            "channels": [
+                                {
+                                    "name": "store_updates",
+                                    "roles": "channel_user"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "type": "user",
+                "user": {
+                    "username": "jane_smith",
+                    "email": "jane.smith@leesmarket.com",
+                    "password": "jane_smith_pwd",
+                    "nickname": "Jane",
+                    "first_name": "Jane",
+                    "last_name": "Smith",
+                    "position": "Customer Service Representative",
+                    "roles": "system_user",
+                    "locale": "en",
+                    "teams": [
+                        {
+                            "name": "customer_service",
+                            "roles": "team_user",
+                            "channels": [
+                                {
+                                    "name": "cs_discussions",
+                                    "roles": "channel_user"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    "chat_messages": [
+        {
+            "type": "post",
+            "post": {
+                "team": "store_management",
+                "channel": "store_updates",
+                "user": "john_doe",
+                "message": "Hello team, as part of our quarterly report, I've been reviewing our store sizes and layout efficiency. As of FY2025, Lee's Market occupies approximately 1.4 million square feet of retail space across Canada. This information is crucial for our real estate planning and optimizing store operations.",
+                "create_at": 1620500000000
+            },
+            "tag": "insight"
+        },
+        {
+            "type": "post",
+            "post": {
+                "team": "store_management",
+                "channel": "store_updates",
+                "user": "sophie.liu",
+                "message": "Thanks for the update, John. This is indeed a crucial information. We should continue to monitor the efficient use of our retail space as it greatly impacts our store operations and customer shopping experience.",
+                "create_at": 1620501000000
+            },
+            "tag": "insight"
+        },
+        {
+            "type": "post",
+            "post": {
+                "team": "customer_service",
+                "channel": "cs_discussions",
+                "user": "sophie.liu",
+                "message": "Hi team, just a reminder that we have our weekly customer service meeting tomorrow at 10am. We'll be discussing our recent customer satisfaction surveys, so please come prepared.",
+                "created_at": 1620500000000
+            },
+            "tag": "distractor"
+        },
+        {
+            "type": "post",
+            "post": {
+                "team": "store_management",
+                "channel": "store_updates",
+                "user": "john_doe",
+                "message": "Hello all, we will be receiving a shipment of new products tomorrow morning. Please ensure the inventory stock is updated accordingly.",
+                "created_at": 1620501000000
+            },
+            "tag": "distractor"
+        },
+        {
+            "type": "post",
+            "post": {
+                "team": "customer_service",
+                "channel": "cs_discussions",
+                "user": "jane_smith",
+                "message": "Just to confirm, Sophie, are we meeting in the conference room or is this a virtual meeting?",
+                "created_at": 1620502000000
+            },
+            "tag": "distractor"
+        },
+        {
+            "type": "post",
+            "post": {
+                "team": "store_management",
+                "channel": "store_updates",
+                "user": "sophie.liu",
+                "message": "John, could you please ensure that the new products are displayed prominently for customers? We've had some feedback recently about visibility of new items.",
+                "created_at": 1620503000000
+            },
+            "tag": "distractor"
+        },
+        {
+            "type": "post",
+            "post": {
+                "team": "customer_service",
+                "channel": "cs_discussions",
+                "user": "sophie.liu",
+                "message": "Hi Jane, the meeting will be virtual. I'll send the Zoom link out first thing in the morning.",
+                "created_at": 1620504000000
+            },
+            "tag": "distractor"
+        },
+        {
+            "type": "post",
+            "post": {
+                "team": "store_management",
+                "channel": "store_updates",
+                "user": "john_doe",
+                "message": "Sure Sophie, I'll work with the team to make sure new products are easy for our customers to find.",
+                "created_at": 1620505000000
+            },
+            "tag": "distractor"
+        },
+        {
+            "type": "post",
+            "post": {
+                "team": "customer_service",
+                "channel": "cs_discussions",
+                "user": "jane_smith",
+                "message": "Thanks for the update, Sophie. I'll make sure to join the meeting on time.",
+                "created_at": 1620506000000
+            },
+            "tag": "distractor"
+        }
+    ],
+    "file_format": "jsonl",
+    "file_path": ".llm_responses/generated_chat_document.jsonl",
+    "qa_type": "distractor",
+    "timestamp": "2025-11-20 16:20",
+    "app": "mattermost"
+}

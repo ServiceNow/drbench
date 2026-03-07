@@ -1,0 +1,82 @@
+{
+    "file_name": "energy-efficiency-overview",
+    "file_title": "Energy Efficiency in Lee's Market Operations",
+    "introduction": "This presentation will provide an overview of our recent energy efficiency initiatives, with a focus on the upgrade of refrigeration systems in 20 of our stores in Q1 2025. The aim is to understand the impact of these upgrades on our energy consumption.",
+    "subsections": [
+        {
+            "heading": "Overview of Energy Efficiency Initiatives",
+            "content": "\u2022 In Q4 2024, Lee's Market committed to a comprehensive energy optimization program\n\u2022 Across the industry, energy costs represent, on average, 2-3% of retailers\u2019 total operating costs\n\u2022 Lee's Market has prioritized upgrading lighting systems in its stores\n\u2022 The company has also invested in energy-efficient heating and cooling systems\n\u2022 A dedicated sustainability team was established in early 2025 to oversee these initiatives\n\u2022 The team is also responsible for conducting regular energy audits and training staff on energy conservation techniques",
+            "type": "distractor",
+            "justification": "This content provides general information about energy efficiency initiatives but doesn't specify the impact of refrigeration system upgrades."
+        },
+        {
+            "heading": "Impact of Refrigeration System Upgrades",
+            "content": "\u2022 Upgrading refrigeration systems can lead to energy savings of 20-50%\n\u2022 Lee's Market implemented a training program for staff to properly manage the new systems\n\u2022 The company also conducted a comprehensive evaluation of its refrigeration equipment in Q4 2024\n\u2022 The new refrigeration systems are expected to have a lifespan of 15-20 years\n\u2022 The company is also analyzing the possibility of investing in renewable energy sources to power these systems",
+            "type": "distractor",
+            "justification": "This slide talks about general impacts and processes of refrigeration system upgrades, but does not mention the specific reduction in energy consumption at Lee's Market."
+        },
+        {
+            "heading": "Next Steps in Energy Optimization",
+            "content": "\u2022 Lee's Market plans to implement smart meters in all stores by Q3 2025\n\u2022 The company is also exploring partnerships with local renewable energy providers\n\u2022 A plan is in place to upgrade the HVAC systems in the next fiscal year\n\u2022 Lee's Market aims to achieve a 40% reduction in overall energy consumption by 2027\n\u2022 The company also plans to extend its energy efficiency training program to all employees",
+            "type": "distractor",
+            "justification": "This slide focuses on future energy optimization plans and goals, not the impact of the past refrigeration system upgrades."
+        }
+    ],
+    "conclusion": "The upgrade of our refrigeration systems has resulted in significant reductions in energy consumption. We will continue to pursue energy-efficient technologies for further improvements in our operations.",
+    "file_format": "pptx",
+    "file_path": ".llm_responses/generated_pptx_presentation.pptx",
+    "qa_type": "distractor",
+    "timestamp": "2025-11-21 13:02",
+    "image_queries": [
+        {
+            "slide_title": "Introduction",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "intentionally_clean",
+            "slide_type": "introduction"
+        },
+        {
+            "slide_title": "Overview of Energy Efficiency Initiatives",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "failed",
+            "slide_type": "distractor",
+            "content_length": 6,
+            "total_chars": 532,
+            "error": "'str' object has no attribute 'choices'",
+            "theme": "Elegant Teal"
+        },
+        {
+            "slide_title": "Impact of Refrigeration System Upgrades",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 5,
+            "total_chars": 436,
+            "probability": 0.25,
+            "theme": "Elegant Teal"
+        },
+        {
+            "slide_title": "Next Steps in Energy Optimization",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "failed",
+            "slide_type": "distractor",
+            "content_length": 5,
+            "total_chars": 389,
+            "error": "'str' object has no attribute 'choices'",
+            "theme": "Elegant Teal"
+        },
+        {
+            "slide_title": "Conclusion",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "conclusion_failed",
+            "slide_type": "conclusion",
+            "error": "'str' object has no attribute 'choices'",
+            "theme": "Elegant Teal"
+        }
+    ],
+    "app": "file_system"
+}

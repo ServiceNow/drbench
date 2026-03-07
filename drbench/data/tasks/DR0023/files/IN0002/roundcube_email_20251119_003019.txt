@@ -1,0 +1,190 @@
+================================================================================
+ROUNDCUBE EMAIL EXPORT
+================================================================================
+
+USERS:
+----------------------------------------
+• kevin.wong
+  Name: Kevin Wong
+  Email: kevin.wong@leesmarket.com
+
+• linda.chen
+  Name: Linda Chen
+  Email: linda.chen@leesmarket.com
+
+• michael.liu
+  Name: Michael Liu
+  Email: michael.liu@leesmarket.com
+
+• susan.lee
+  Name: Susan Lee
+  Email: susan.lee@leesmarket.com
+
+• david.kim
+  Name: David Kim
+  Email: david.kim@leesmarket.com
+
+• jane.park
+  Name: Jane Park
+  Email: jane.park@leesmarket.com
+
+• samuel.choi
+  Name: Samuel Choi
+  Email: samuel.choi@leesmarket.com
+
+• rebecca.nguyen
+  Name: Rebecca Nguyen
+  Email: rebecca.nguyen@leesmarket.com
+
+EMAILS:
+================================================================================
+Email ID: email_001
+Date: 2022-08-01 09:00:00
+From: Kevin Wong <kevin.wong@leesmarket.com>
+To: david.kim@leesmarket.com, michael.liu@leesmarket.com
+CC: susan.lee@leesmarket.com
+Subject: Weekly IT Service Team Meeting
+Folder: sent | Status: Read
+
+Message Body:
+----------------------------------------
+Hi Team,
+
+Our weekly meeting will be held today at 2:00 PM in the conference room. We will be discussing the performance of our retail systems and POS terminals. Please come prepared with any issues that need to be addressed.
+
+Best,
+Kevin
+============================================================
+
+Email ID: email_002
+Date: 2022-08-12 10:30:00
+From: Kevin Wong <kevin.wong@leesmarket.com>
+To: susan.lee@leesmarket.com
+Subject: Budget Allocation for Q4, 2022
+Folder: sent | Status: Read
+
+Message Body:
+----------------------------------------
+Hi Susan,
+
+Can we set up a meeting to discuss the IT budget for Q4? I'd like to go over the spending for the service operations and ensure we are allocating our resources efficiently.
+
+Best,
+Kevin
+============================================================
+
+Email ID: email_003
+Date: 2022-08-15 11:45:00
+From: Rebecca Nguyen <rebecca.nguyen@leesmarket.com>
+To: kevin.wong@leesmarket.com
+Subject: New Employee Onboarding
+Folder: inbox | Status: Read
+
+Message Body:
+----------------------------------------
+Hi Kevin,
+
+We have a new hire joining the IT service team next week. Can you prepare the necessary IT equipment and access for the new employee? I will send the details soon.
+
+Thanks,
+Rebecca
+============================================================
+
+Email ID: email_004
+Date: 2022-08-20 14:30:00
+From: Michael Liu <michael.liu@leesmarket.com>
+To: kevin.wong@leesmarket.com
+Subject: POS Terminal Updates
+Folder: inbox | Status: Read
+
+Message Body:
+----------------------------------------
+Hi Kevin,
+
+We have completed the scheduled updates on the POS terminals across all stores. I will monitor their performance and report any issues.
+
+Best,
+Michael
+============================================================
+
+Email ID: email_005
+Date: 2022-08-22 16:00:00
+From: Susan Lee <susan.lee@leesmarket.com>
+To: kevin.wong@leesmarket.com, linda.chen@leesmarket.com, michael.liu@leesmarket.com, david.kim@leesmarket.com, jane.park@leesmarket.com, samuel.choi@leesmarket.com
+CC: rebecca.nguyen@leesmarket.com
+Subject: Holiday Schedule
+Folder: inbox | Status: Read
+
+Message Body:
+----------------------------------------
+Hi Team,
+
+As the holiday season is approaching, please submit your vacation plans by the end of this week so we can ensure adequate coverage during this period. Let me know if you have any questions.
+
+Best,
+Susan
+============================================================
+
+Email ID: email_001
+Date: 2025-10-01 09:30:00
+From: Kevin Wong <kevin.wong@leesmarket.com>
+To: linda.chen@leesmarket.com, david.kim@leesmarket.com
+CC: susan.lee@leesmarket.com
+Subject: Review of IT Requests Q3 2025
+Folder: sent | Status: Read
+
+Message Body:
+----------------------------------------
+Dear team, 
+
+As part of our ongoing effort to optimize our IT self-service capabilities, I have analyzed the logs of IT requests for Q3 2025. 
+
+Our data shows that employees have been able to resolve most of their IT issues autonomously, with the exception of the issues related to our online ordering system. These requests are taking an average of 2.5 hours to resolve, which is significantly longer than other IT requests.
+
+I believe this is due to a lack of clear self-service guidance for these types of issues. I suggest we prioritize creating more comprehensive and user-friendly self-service materials for these problems, to reduce dependency on the service desk and improve resolution times. 
+
+Your input on this matter is highly appreciated. 
+
+Best, 
+Kevin
+============================================================
+
+Email ID: email_002
+Date: 2025-10-01 11:45:00
+From: Linda Chen <linda.chen@leesmarket.com>
+To: kevin.wong@leesmarket.com, david.kim@leesmarket.com
+CC: susan.lee@leesmarket.com
+Subject: Re: Review of IT Requests Q3 2025
+Folder: sent | Status: Read
+
+Message Body:
+----------------------------------------
+Hi Kevin, 
+
+Thank you for bringing this to our attention. We agree that more comprehensive self-service guides would be beneficial. Our team will start working on this and should have updated materials ready for review within a month. 
+
+Best, 
+Linda
+============================================================
+
+Email ID: email_003
+Date: 2025-10-01 12:30:00
+From: David Kim <david.kim@leesmarket.com>
+To: kevin.wong@leesmarket.com, linda.chen@leesmarket.com
+CC: susan.lee@leesmarket.com
+Subject: Re: Review of IT Requests Q3 2025
+Folder: sent | Status: Read
+
+Message Body:
+----------------------------------------
+Kevin, Linda, 
+
+I second Linda's approach. The infrastructure team can assist by providing any technical details needed for the guides. Let's aim to reduce the resolution time for these issues and improve the overall user experience. 
+
+Best, 
+David
+============================================================
+
+================================================================================
+END OF EMAIL EXPORT
+================================================================================

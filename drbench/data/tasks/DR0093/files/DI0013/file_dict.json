@@ -1,0 +1,183 @@
+{
+    "file_name": "roundcube_email_20251120_170457",
+    "content": "{\"type\": \"user\", \"username\": \"priya.patel\", \"first_name\": \"Priya\", \"last_name\": \"Patel\", \"email\": \"priya.patel@mediconn.com\", \"password\": \"priya_mediconn_pwd\"}\n{\"type\": \"user\", \"username\": \"james.martin\", \"first_name\": \"James\", \"last_name\": \"Martin\", \"email\": \"james.martin@mediconn.com\", \"password\": \"james_mediconn_pwd\"}\n{\"type\": \"user\", \"username\": \"linda.garcia\", \"first_name\": \"Linda\", \"last_name\": \"Garcia\", \"email\": \"linda.garcia@mediconn.com\", \"password\": \"linda_mediconn_pwd\"}\n{\"type\": \"user\", \"username\": \"robert.johnson\", \"first_name\": \"Robert\", \"last_name\": \"Johnson\", \"email\": \"robert.johnson@mediconn.com\", \"password\": \"robert_mediconn_pwd\"}\n{\"type\": \"user\", \"username\": \"sarah.wilson\", \"first_name\": \"Sarah\", \"last_name\": \"Wilson\", \"email\": \"sarah.wilson@mediconn.com\", \"password\": \"sarah_mediconn_pwd\"}\n{\"type\": \"user\", \"username\": \"michael.brown\", \"first_name\": \"Michael\", \"last_name\": \"Brown\", \"email\": \"michael.brown@mediconn.com\", \"password\": \"michael_mediconn_pwd\"}\n{\"type\": \"email\", \"id\": \"email_001\", \"subject\": \"Weekly Team Meeting Agenda\", \"from\": \"priya.patel@mediconn.com\", \"from_name\": \"Dr. Priya Patel\", \"to\": [\"james.martin@mediconn.com\", \"linda.garcia@mediconn.com\", \"robert.johnson@mediconn.com\", \"sarah.wilson@mediconn.com\", \"michael.brown@mediconn.com\"], \"cc\": [], \"date\": \"2022-10-25 09:00:00\", \"body\": \"Dear Team,\\n\\nHope this email finds you well. Please find below the agenda for our upcoming weekly meeting:\\n\\n1. Brief update on ongoing projects\\n2. Discussion on Q3 performance\\n3. Team building activities for Q4\\n4. Any other business\\n\\nLooking forward to your contributions in the meeting.\\n\\nBest,\\nDr. Priya Patel\", \"folder\": \"sent\", \"read\": true, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_002\", \"subject\": \"Q3 Project Update\", \"from\": \"james.martin@mediconn.com\", \"from_name\": \"James Martin\", \"to\": [\"priya.patel@mediconn.com\"], \"cc\": [\"linda.garcia@mediconn.com\", \"robert.johnson@mediconn.com\", \"sarah.wilson@mediconn.com\", \"michael.brown@mediconn.com\"], \"date\": \"2022-10-25 09:30:00\", \"body\": \"Dear Dr. Patel,\\n\\nI am pleased to inform you that the Q3 projects are progressing as planned. We are on track to meet our set targets. I will provide a more detailed update during the weekly meeting.\\n\\nBest,\\nJames Martin\", \"folder\": \"inbox\", \"read\": false, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_003\", \"subject\": \"Team Building Activities for Q4\", \"from\": \"sarah.wilson@mediconn.com\", \"from_name\": \"Sarah Wilson\", \"to\": [\"priya.patel@mediconn.com\"], \"cc\": [\"james.martin@mediconn.com\", \"linda.garcia@mediconn.com\", \"robert.johnson@mediconn.com\", \"michael.brown@mediconn.com\"], \"date\": \"2022-10-25 10:00:00\", \"body\": \"Dear Dr. Patel,\\n\\nI have been researching potential team building activities for Q4. I have shortlisted a few exciting options that are both fun and will help strengthen our team dynamics. I look forward to discussing them further during our weekly meeting.\\n\\nBest,\\nSarah Wilson\", \"folder\": \"inbox\", \"read\": false, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_001\", \"subject\": \"Compliance strategy meeting agenda for Q4 2028\", \"from\": \"priya.patel@mediconn.com\", \"from_name\": \"Dr. Priya Patel\", \"to\": [\"james.martin@mediconn.com\", \"robert.johnson@mediconn.com\"], \"cc\": [\"linda.garcia@mediconn.com\"], \"date\": \"2028-09-01 10:00:00\", \"body\": \"Dear James and Robert,\\n\\nAs you know, the federal government\\u2019s 2025 interpretation of the Canada Health Act (CHA) presents significant compliance risks for MediConn. To address these risks, we need to consider both legal precedents and provincial variations. We will be having a meeting to discuss these issues in detail next week.\\n\\nRegards,\\nDr. Priya Patel\", \"folder\": \"inbox\", \"read\": true, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_002\", \"subject\": \"RE: Compliance strategy meeting agenda for Q4 2028\", \"from\": \"james.martin@mediconn.com\", \"from_name\": \"James Martin\", \"to\": [\"priya.patel@mediconn.com\"], \"cc\": [], \"date\": \"2028-09-01 12:30:00\", \"body\": \"Hi Dr. Patel,\\n\\nNoted. I'll prepare a comprehensive report on legal precedents and how they might impact our operations.\\n\\nBest,\\nJames\", \"folder\": \"inbox\", \"read\": true, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_003\", \"subject\": \"RE: Compliance strategy meeting agenda for Q4 2028\", \"from\": \"robert.johnson@mediconn.com\", \"from_name\": \"Robert Johnson\", \"to\": [\"priya.patel@mediconn.com\"], \"cc\": [\"james.martin@mediconn.com\", \"linda.garcia@mediconn.com\"], \"date\": \"2028-09-01 14:00:00\", \"body\": \"Dr. Patel,\\n\\nI'll be focusing on the provincial variations and their potential effect on our services. I think it's also worth noting that we achieved a 95% employee participation rate in professional development activities in 2024. While this is a testament to our commitment to workforce capability, it doesn't necessarily address CHA billing compliance. Therefore, it's essential to focus on the legal aspects and provincial regulations in our strategy.\\n\\nBest,\\nRobert\", \"folder\": \"inbox\", \"read\": true, \"attachments\": []}",
+    "email_setup": [
+        {
+            "type": "user",
+            "username": "priya.patel",
+            "first_name": "Priya",
+            "last_name": "Patel",
+            "email": "priya.patel@mediconn.com",
+            "password": "priya_mediconn_pwd"
+        },
+        {
+            "type": "user",
+            "username": "james.martin",
+            "first_name": "James",
+            "last_name": "Martin",
+            "email": "james.martin@mediconn.com",
+            "password": "james_mediconn_pwd"
+        },
+        {
+            "type": "user",
+            "username": "linda.garcia",
+            "first_name": "Linda",
+            "last_name": "Garcia",
+            "email": "linda.garcia@mediconn.com",
+            "password": "linda_mediconn_pwd"
+        },
+        {
+            "type": "user",
+            "username": "robert.johnson",
+            "first_name": "Robert",
+            "last_name": "Johnson",
+            "email": "robert.johnson@mediconn.com",
+            "password": "robert_mediconn_pwd"
+        },
+        {
+            "type": "user",
+            "username": "sarah.wilson",
+            "first_name": "Sarah",
+            "last_name": "Wilson",
+            "email": "sarah.wilson@mediconn.com",
+            "password": "sarah_mediconn_pwd"
+        },
+        {
+            "type": "user",
+            "username": "michael.brown",
+            "first_name": "Michael",
+            "last_name": "Brown",
+            "email": "michael.brown@mediconn.com",
+            "password": "michael_mediconn_pwd"
+        }
+    ],
+    "email_messages": [
+        {
+            "type": "email",
+            "id": "email_001",
+            "subject": "Weekly Team Meeting Agenda",
+            "from": "priya.patel@mediconn.com",
+            "from_name": "Dr. Priya Patel",
+            "to": [
+                "james.martin@mediconn.com",
+                "linda.garcia@mediconn.com",
+                "robert.johnson@mediconn.com",
+                "sarah.wilson@mediconn.com",
+                "michael.brown@mediconn.com"
+            ],
+            "cc": [],
+            "date": "2022-10-25 09:00:00",
+            "body": "Dear Team,\n\nHope this email finds you well. Please find below the agenda for our upcoming weekly meeting:\n\n1. Brief update on ongoing projects\n2. Discussion on Q3 performance\n3. Team building activities for Q4\n4. Any other business\n\nLooking forward to your contributions in the meeting.\n\nBest,\nDr. Priya Patel",
+            "folder": "sent",
+            "read": true,
+            "attachments": [],
+            "tag": "distractor"
+        },
+        {
+            "type": "email",
+            "id": "email_002",
+            "subject": "Q3 Project Update",
+            "from": "james.martin@mediconn.com",
+            "from_name": "James Martin",
+            "to": [
+                "priya.patel@mediconn.com"
+            ],
+            "cc": [
+                "linda.garcia@mediconn.com",
+                "robert.johnson@mediconn.com",
+                "sarah.wilson@mediconn.com",
+                "michael.brown@mediconn.com"
+            ],
+            "date": "2022-10-25 09:30:00",
+            "body": "Dear Dr. Patel,\n\nI am pleased to inform you that the Q3 projects are progressing as planned. We are on track to meet our set targets. I will provide a more detailed update during the weekly meeting.\n\nBest,\nJames Martin",
+            "folder": "inbox",
+            "read": false,
+            "attachments": [],
+            "tag": "distractor"
+        },
+        {
+            "type": "email",
+            "id": "email_003",
+            "subject": "Team Building Activities for Q4",
+            "from": "sarah.wilson@mediconn.com",
+            "from_name": "Sarah Wilson",
+            "to": [
+                "priya.patel@mediconn.com"
+            ],
+            "cc": [
+                "james.martin@mediconn.com",
+                "linda.garcia@mediconn.com",
+                "robert.johnson@mediconn.com",
+                "michael.brown@mediconn.com"
+            ],
+            "date": "2022-10-25 10:00:00",
+            "body": "Dear Dr. Patel,\n\nI have been researching potential team building activities for Q4. I have shortlisted a few exciting options that are both fun and will help strengthen our team dynamics. I look forward to discussing them further during our weekly meeting.\n\nBest,\nSarah Wilson",
+            "folder": "inbox",
+            "read": false,
+            "attachments": [],
+            "tag": "distractor"
+        },
+        {
+            "type": "email",
+            "id": "email_001",
+            "subject": "Compliance strategy meeting agenda for Q4 2028",
+            "from": "priya.patel@mediconn.com",
+            "from_name": "Dr. Priya Patel",
+            "to": [
+                "james.martin@mediconn.com",
+                "robert.johnson@mediconn.com"
+            ],
+            "cc": [
+                "linda.garcia@mediconn.com"
+            ],
+            "date": "2028-09-01 10:00:00",
+            "body": "Dear James and Robert,\n\nAs you know, the federal government\u2019s 2025 interpretation of the Canada Health Act (CHA) presents significant compliance risks for MediConn. To address these risks, we need to consider both legal precedents and provincial variations. We will be having a meeting to discuss these issues in detail next week.\n\nRegards,\nDr. Priya Patel",
+            "folder": "inbox",
+            "read": true,
+            "attachments": [],
+            "tag": "insight"
+        },
+        {
+            "type": "email",
+            "id": "email_002",
+            "subject": "RE: Compliance strategy meeting agenda for Q4 2028",
+            "from": "james.martin@mediconn.com",
+            "from_name": "James Martin",
+            "to": [
+                "priya.patel@mediconn.com"
+            ],
+            "cc": [],
+            "date": "2028-09-01 12:30:00",
+            "body": "Hi Dr. Patel,\n\nNoted. I'll prepare a comprehensive report on legal precedents and how they might impact our operations.\n\nBest,\nJames",
+            "folder": "inbox",
+            "read": true,
+            "attachments": [],
+            "tag": "insight"
+        },
+        {
+            "type": "email",
+            "id": "email_003",
+            "subject": "RE: Compliance strategy meeting agenda for Q4 2028",
+            "from": "robert.johnson@mediconn.com",
+            "from_name": "Robert Johnson",
+            "to": [
+                "priya.patel@mediconn.com"
+            ],
+            "cc": [
+                "james.martin@mediconn.com",
+                "linda.garcia@mediconn.com"
+            ],
+            "date": "2028-09-01 14:00:00",
+            "body": "Dr. Patel,\n\nI'll be focusing on the provincial variations and their potential effect on our services. I think it's also worth noting that we achieved a 95% employee participation rate in professional development activities in 2024. While this is a testament to our commitment to workforce capability, it doesn't necessarily address CHA billing compliance. Therefore, it's essential to focus on the legal aspects and provincial regulations in our strategy.\n\nBest,\nRobert",
+            "folder": "inbox",
+            "read": true,
+            "attachments": [],
+            "tag": "insight"
+        }
+    ],
+    "file_format": "jsonl",
+    "file_path": ".llm_responses/generated_email_document.jsonl",
+    "qa_type": "distractor",
+    "timestamp": "2025-11-20 18:04",
+    "app": "email"
+}

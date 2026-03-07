@@ -1,0 +1,12 @@
+Employee_ID,Year,Years_Employed,Training_Status,Reminder_Count
+Unique identifier of the employee,Year when the cybersecurity training was scheduled,Number of years the employee has been employed at Lee's Market,Status of employee's cybersecurity training module completion. Indicates whether the training was completed before or after receiving a second reminder email,Number of reminder emails sent to the employee for completing the training module
+EID202503,2025,5,After 2nd Reminder,2
+EID202510,2025,3,Before 2nd Reminder,1
+EID202502,2025,2,Before 2nd Reminder,1
+EID202501,2025,4,After 2nd Reminder,2
+EID202509,2025,4,Before 2nd Reminder,1
+EID202505,2025,3,After 2nd Reminder,2
+EID202504,2025,6,Before 2nd Reminder,1
+EID202506,2025,7,Before 2nd Reminder,1
+EID202508,2025,3,After 2nd Reminder,2
+EID202507,2025,3,Before 2nd Reminder,1

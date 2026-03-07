@@ -1,0 +1,12 @@
+Audit_ID,Company_Name,Audit_Date,Audit_Type,Audit_Findings,Action_Taken,Action_By
+Unique identifier for the audit,Name of the company audited,Date when the audit took place,Type of the audit conducted,Findings of the audit,Action taken by the company in response to the audit findings,Person who took the action in response to the audit findings
+AUD005,Dixon's Dairy,2025-03-22,Regulatory,No significant findings,No action required,
+AUD010,Dixon's Dairy,2024-12-15,Regulatory,Two minor issues with dairy production processes,Improved production processes,John Dixon
+AUD004,Lee's Market,2024-06-20,Regulatory,Minor issues with employee safety training records,Improved training program,Jason Wong
+AUD006,Evans' Electronics,2025-02-10,Financial,Several discrepancies in financial statements,Revised financial statements,George Evans
+AUD003,Carter's Supplies,2025-01-30,Operational,Two minor discrepancies in inventory count,Adjusted inventory tracking system,Emma Carter
+AUD008,Baker's Store,2025-06-18,Operational,No significant findings,No action required,
+AUD009,Carter's Supplies,2025-05-01,Financial,Minor discrepancies in financial statements,Revised financial statements,Emma Carter
+AUD007,Lee's Market,2025-04-07,Operational,Minor issues with supply chain management,Improved supply chain processes,Jason Wong
+AUD002,Baker's Store,2024-04-12,Financial,No significant findings,No action required,
+AUD001,Lee's Market,2025-05-15,Regulatory,Three process gaps in vendor data sharing logs,Reviewed external compliance support options,Jason Wong

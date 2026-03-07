@@ -1,0 +1,10 @@
+{
+    "insight_id": "DI0007",
+    "qa_type": "distractor",
+    "qa_index": 7,
+    "specific_question": "What cybersecurity measures has Elexion Automotive implemented before to help protect its vehicles and customers leading into the next year?",
+    "answer": "In October of 2013, Elexion Automotive's cybersecurity team conducted an audit of its mobile app and determined that 47% of its customers were at risk of a remote cybersecurity attack because the team had only required single-factor authentication rather than implementing two-factor authentication.",
+    "justification": "",
+    "timestamp": "2025-11-20 03:07",
+    "dr_question": "Given the Help Net Security article from April 2025, what strategies should Elexion Automotive be cognizant of to protect its consumer base from remote cybersecurity attacks going into Q1 of 2026?"
+}

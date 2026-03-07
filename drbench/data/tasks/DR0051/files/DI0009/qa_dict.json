@@ -1,0 +1,10 @@
+{
+    "insight_id": "DI0009",
+    "qa_type": "distractor",
+    "qa_index": 9,
+    "specific_question": "What were the top three reasons patients contacted customer service for non-booking issues at MediConn Solutions' in 2024?",
+    "answer": "The top three non-booking customer service inquiries in 2024 were: billing questions (28% of inquiries), technical issues with video consultations (19%), and requests for medical record copies (15%). These three categories accounted for 62% of all non-booking contacts.",
+    "justification": "",
+    "timestamp": "2025-11-19 23:53",
+    "dr_question": "The article published on TechTarget in January 2024 cited the MGMA's findings, showing that patient communication technology addresses digital front door issues like poor booking systems. How might MediConn Solutions enhance patient access to virtual consultations and prescription management services in Q1 2026 to reduce wait times and boost satisfaction and retention?"
+}

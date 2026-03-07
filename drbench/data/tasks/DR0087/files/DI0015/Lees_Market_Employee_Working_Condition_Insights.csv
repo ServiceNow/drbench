@@ -1,0 +1,13 @@
+Company,Industry,Location,Employee_Count,Work_Role,Stress_Source,Percentage_Affected
+The name of the company for which the insight pertains to,The industry in which the company operates,The location of the company,The approximate range of the number of employees in the company,The specific work role or job title for which the insight is applicable,The source or cause of stress as reported by the employees,The percentage of employees reporting stress due to the identified source
+John's IT Solutions,IT,San Francisco,101-150,Software Developer,Project Deadlines,35%
+Green Foods,Food & Beverage,Los Angeles,251-300,Chef,High Kitchen Heat,45%
+Delicious Bites,Food & Beverage,Los Angeles,551-600,Waiter,Rush Hours,40%
+Lee's Market,Retail,New York,51-100,Retail Worker,Working Hours,41%
+Alpha Motors,Automobile,Detroit,201-250,Assembly Line Worker,Repetitive Tasks,30%
+Eagle's Eye Security,Security,Houston,301-350,Security Guard,High Risk Areas,40%
+Tech Titans,IT,San Francisco,401-450,Network Engineer,Network Failures,33%
+Fast Wheels Automobile,Automobile,Detroit,501-550,Mechanic,Heavy Lifting,37%
+Fresh Air Fitness,Fitness,Miami,351-400,Fitness Trainer,Personal Injuries,35%
+Bright Smile Dentistry,Healthcare,Chicago,451-500,Dentist,Long Working Hours,42%
+Quick Heal Hospital,Healthcare,Chicago,151-200,Nurse,Long Shifts,50%

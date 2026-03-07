@@ -1,0 +1,13 @@
+Year,Quarter,Compliance_Officer,Company,Region,Audit_Count
+The year in which the audits were conducted.,The quarter of the year in which the audits were conducted. The range is from Q1 to Q4.,The officer who oversaw the lifecycle compliance audits.,The company where the audits were conducted.,The geographic region of the company's plants where the audits were conducted.,The number of lifecycle compliance audits overseen by the officer in the specified period.
+2025,Q2,John Doe,Elexion Automotive,North America,2
+2025,Q1,John Doe,Elexion Automotive,North America,6
+2024,Q4,Olivia Martinez,Elexion Automotive,North America,3
+2025,Q4,Olivia Martinez,Elexion Automotive,North America,5
+2024,Q3,Olivia Martinez,Elexion Automotive,North America,4
+2024,Q2,Olivia Martinez,Elexion Automotive,North America,6
+2026,Q2,Olivia Martinez,Elexion Automotive,North America,7
+2026,Q1,Olivia Martinez,Elexion Automotive,North America,6
+2025,Q1-Q3,Olivia Martinez,Elexion Automotive,North America,14
+2024,Q1,Olivia Martinez,Elexion Automotive,North America,5
+2025,Q3,John Doe,Elexion Automotive,North America,3

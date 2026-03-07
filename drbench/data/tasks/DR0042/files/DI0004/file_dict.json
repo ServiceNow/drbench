@@ -1,0 +1,237 @@
+{
+    "file_name": "mattermost_chat_20251202_140336",
+    "content": "{\"type\": \"version\", \"version\": 1}\n{\"type\": \"team\", \"team\": {\"name\": \"sales_team\", \"display_name\": \"Sales Team\", \"type\": \"O\", \"header\": \"Team for sales department\", \"purpose\": \"To discuss and strategize on sales opportunities\"}}\n{\"type\": \"team\", \"team\": {\"name\": \"tech_support\", \"display_name\": \"Tech Support Team\", \"type\": \"O\", \"header\": \"Team for technical support\", \"purpose\": \"To discuss and resolve technical issues\"}}\n{\"type\": \"channel\", \"channel\": {\"team\": \"sales_team\", \"name\": \"lead_prospecting\", \"display_name\": \"Lead Prospecting\", \"type\": \"O\", \"header\": \"Channel for discussing lead prospecting\", \"purpose\": \"To share and discuss potential leads\"}}\n{\"type\": \"channel\", \"channel\": {\"team\": \"tech_support\", \"name\": \"crm_issues\", \"display_name\": \"CRM Issues\", \"type\": \"O\", \"header\": \"Channel for discussing CRM related issues\", \"purpose\": \"To report, track, and resolve CRM system issues\"}}\n{\"type\": \"user\", \"user\": {\"username\": \"liam.patel\", \"email\": \"liam.patel@mediconn.com\", \"password\": \"my_drbench_pwd\", \"nickname\": \"Liam\", \"first_name\": \"Liam\", \"last_name\": \"Patel\", \"position\": \"Business Development Representative\", \"roles\": \"system_user\", \"locale\": \"en\", \"teams\": [{\"name\": \"sales_team\", \"roles\": \"team_user\", \"channels\": [{\"name\": \"lead_prospecting\", \"roles\": \"channel_user\"}]}, {\"name\": \"tech_support\", \"roles\": \"team_user\", \"channels\": [{\"name\": \"crm_issues\", \"roles\": \"channel_user\"}]}]}}\n{\"type\": \"user\", \"user\": {\"username\": \"johndoe\", \"email\": \"john.doe@mediconn.com\", \"password\": \"my_drbench_pwd\", \"nickname\": \"John\", \"first_name\": \"John\", \"last_name\": \"Doe\", \"position\": \"Sales Manager\", \"roles\": \"system_user\", \"locale\": \"en\", \"teams\": [{\"name\": \"sales_team\", \"roles\": \"team_user\", \"channels\": [{\"name\": \"lead_prospecting\", \"roles\": \"channel_user\"}]}]}}\n{\"type\": \"user\", \"user\": {\"username\": \"janedoe\", \"email\": \"jane.doe@mediconn.com\", \"password\": \"my_drbench_pwd\", \"nickname\": \"Jane\", \"first_name\": \"Jane\", \"last_name\": \"Doe\", \"position\": \"Technical Support Specialist\", \"roles\": \"system_user\", \"locale\": \"en\", \"teams\": [{\"name\": \"tech_support\", \"roles\": \"team_user\", \"channels\": [{\"name\": \"crm_issues\", \"roles\": \"channel_user\"}]}]}}\n{\"type\": \"post\", \"post\": {\"team\": \"sales_team\", \"channel\": \"lead_prospecting\", \"user\": \"liam.patel\", \"message\": \"I've just identified a potential lead in the Vancouver region. They are a medium-sized business interested in virtual healthcare services. Any tips on how to approach them?\", \"created_at\": 1620500000000}}\n{\"type\": \"post\", \"post\": {\"team\": \"sales_team\", \"channel\": \"lead_prospecting\", \"user\": \"johndoe\", \"message\": \"Good job, Liam. Highlight our user-friendly digital platforms and our commitment to providing accessible and cost-effective care. Let's discuss more in our meeting tomorrow.\", \"created_at\": 1620505000000}}\n{\"type\": \"post\", \"post\": {\"team\": \"tech_support\", \"channel\": \"crm_issues\", \"user\": \"liam.patel\", \"message\": \"I'm having trouble generating a report on the CRM. Can anyone assist?\", \"created_at\": 1620510000000}}\n{\"type\": \"post\", \"post\": {\"team\": \"tech_support\", \"channel\": \"crm_issues\", \"user\": \"janedoe\", \"message\": \"Sure, Liam. I can help. Let's move this conversation to a private chat to avoid cluttering the channel.\", \"created_at\": 1620515000000}}\n{\"type\": \"post\", \"post\": {\"team\": \"sales_team\", \"channel\": \"lead_prospecting\", \"user\": \"johndoe\", \"message\": \"Reminder to everyone - we have a sales team meeting tomorrow at 10 AM to discuss Q4 strategies. Please review the agenda sent earlier and be prepared to discuss your leads.\", \"created_at\": 1620520000000}}\n{\"type\": \"post\", \"post\": {\"team\": \"tech_support\", \"channel\": \"crm_issues\", \"user\": \"janedoe\", \"message\": \"We have scheduled a training session next week for all new features in the CRM. Everyone is expected to attend. More details will be sent via email.\", \"created_at\": 1620525000000}}\n{\"type\": \"post\", \"post\": {\"team\": \"sales_team\", \"channel\": \"lead_prospecting\", \"user\": \"liam.patel\", \"message\": \"John, I've prepared a presentation for tomorrow's meeting outlining the potential opportunities we have in the Vancouver region. I'll share it with you shortly for a quick review.\", \"created_at\": 1620530000000}}\n{\"type\": \"post\", \"post\": {\"team\": \"tech_support\", \"channel\": \"crm_issues\", \"user\": \"janedoe\", \"message\": \"Hey team, I've been reviewing our maintenance logs for our CRM system for the period between Q1 and Q3, 2025. It appears we had two full system crashes within this period that required extensive work to bring back online. We need to closely monitor the system's performance to prevent any future disruptions.\", \"create_at\": 1620500000000}}",
+    "chat_setup": {
+        "teams": [
+            {
+                "type": "team",
+                "team": {
+                    "name": "sales_team",
+                    "display_name": "Sales Team",
+                    "type": "O",
+                    "header": "Team for sales department",
+                    "purpose": "To discuss and strategize on sales opportunities"
+                }
+            },
+            {
+                "type": "team",
+                "team": {
+                    "name": "tech_support",
+                    "display_name": "Tech Support Team",
+                    "type": "O",
+                    "header": "Team for technical support",
+                    "purpose": "To discuss and resolve technical issues"
+                }
+            }
+        ],
+        "channels": [
+            {
+                "type": "channel",
+                "channel": {
+                    "team": "sales_team",
+                    "name": "lead_prospecting",
+                    "display_name": "Lead Prospecting",
+                    "type": "O",
+                    "header": "Channel for discussing lead prospecting",
+                    "purpose": "To share and discuss potential leads"
+                }
+            },
+            {
+                "type": "channel",
+                "channel": {
+                    "team": "tech_support",
+                    "name": "crm_issues",
+                    "display_name": "CRM Issues",
+                    "type": "O",
+                    "header": "Channel for discussing CRM related issues",
+                    "purpose": "To report, track, and resolve CRM system issues"
+                }
+            }
+        ],
+        "users": [
+            {
+                "type": "user",
+                "user": {
+                    "username": "liam.patel",
+                    "email": "liam.patel@mediconn.com",
+                    "password": "my_drbench_pwd",
+                    "nickname": "Liam",
+                    "first_name": "Liam",
+                    "last_name": "Patel",
+                    "position": "Business Development Representative",
+                    "roles": "system_user",
+                    "locale": "en",
+                    "teams": [
+                        {
+                            "name": "sales_team",
+                            "roles": "team_user",
+                            "channels": [
+                                {
+                                    "name": "lead_prospecting",
+                                    "roles": "channel_user"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "tech_support",
+                            "roles": "team_user",
+                            "channels": [
+                                {
+                                    "name": "crm_issues",
+                                    "roles": "channel_user"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "type": "user",
+                "user": {
+                    "username": "johndoe",
+                    "email": "john.doe@mediconn.com",
+                    "password": "my_drbench_pwd",
+                    "nickname": "John",
+                    "first_name": "John",
+                    "last_name": "Doe",
+                    "position": "Sales Manager",
+                    "roles": "system_user",
+                    "locale": "en",
+                    "teams": [
+                        {
+                            "name": "sales_team",
+                            "roles": "team_user",
+                            "channels": [
+                                {
+                                    "name": "lead_prospecting",
+                                    "roles": "channel_user"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "type": "user",
+                "user": {
+                    "username": "janedoe",
+                    "email": "jane.doe@mediconn.com",
+                    "password": "my_drbench_pwd",
+                    "nickname": "Jane",
+                    "first_name": "Jane",
+                    "last_name": "Doe",
+                    "position": "Technical Support Specialist",
+                    "roles": "system_user",
+                    "locale": "en",
+                    "teams": [
+                        {
+                            "name": "tech_support",
+                            "roles": "team_user",
+                            "channels": [
+                                {
+                                    "name": "crm_issues",
+                                    "roles": "channel_user"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    "chat_messages": [
+        {
+            "type": "post",
+            "post": {
+                "team": "tech_support",
+                "channel": "crm_issues",
+                "user": "janedoe",
+                "message": "Hey team, I've been reviewing our maintenance logs for our CRM system for the period between Q1 and Q3, 2025. It appears we had two full system crashes within this period that required extensive work to bring back online. We need to closely monitor the system's performance to prevent any future disruptions.",
+                "create_at": 1620500000000
+            },
+            "tag": "insight"
+        },
+        {
+            "type": "post",
+            "post": {
+                "team": "sales_team",
+                "channel": "lead_prospecting",
+                "user": "liam.patel",
+                "message": "I've just identified a potential lead in the Vancouver region. They are a medium-sized business interested in virtual healthcare services. Any tips on how to approach them?",
+                "created_at": 1620500000000
+            },
+            "tag": "distractor"
+        },
+        {
+            "type": "post",
+            "post": {
+                "team": "sales_team",
+                "channel": "lead_prospecting",
+                "user": "johndoe",
+                "message": "Good job, Liam. Highlight our user-friendly digital platforms and our commitment to providing accessible and cost-effective care. Let's discuss more in our meeting tomorrow.",
+                "created_at": 1620505000000
+            },
+            "tag": "distractor"
+        },
+        {
+            "type": "post",
+            "post": {
+                "team": "tech_support",
+                "channel": "crm_issues",
+                "user": "liam.patel",
+                "message": "I'm having trouble generating a report on the CRM. Can anyone assist?",
+                "created_at": 1620510000000
+            },
+            "tag": "distractor"
+        },
+        {
+            "type": "post",
+            "post": {
+                "team": "tech_support",
+                "channel": "crm_issues",
+                "user": "janedoe",
+                "message": "Sure, Liam. I can help. Let's move this conversation to a private chat to avoid cluttering the channel.",
+                "created_at": 1620515000000
+            },
+            "tag": "distractor"
+        },
+        {
+            "type": "post",
+            "post": {
+                "team": "sales_team",
+                "channel": "lead_prospecting",
+                "user": "johndoe",
+                "message": "Reminder to everyone - we have a sales team meeting tomorrow at 10 AM to discuss Q4 strategies. Please review the agenda sent earlier and be prepared to discuss your leads.",
+                "created_at": 1620520000000
+            },
+            "tag": "distractor"
+        },
+        {
+            "type": "post",
+            "post": {
+                "team": "tech_support",
+                "channel": "crm_issues",
+                "user": "janedoe",
+                "message": "We have scheduled a training session next week for all new features in the CRM. Everyone is expected to attend. More details will be sent via email.",
+                "created_at": 1620525000000
+            },
+            "tag": "distractor"
+        },
+        {
+            "type": "post",
+            "post": {
+                "team": "sales_team",
+                "channel": "lead_prospecting",
+                "user": "liam.patel",
+                "message": "John, I've prepared a presentation for tomorrow's meeting outlining the potential opportunities we have in the Vancouver region. I'll share it with you shortly for a quick review.",
+                "created_at": 1620530000000
+            },
+            "tag": "distractor"
+        }
+    ],
+    "file_format": "jsonl",
+    "file_path": ".llm_responses/generated_chat_document.jsonl",
+    "qa_type": "distractor",
+    "timestamp": "2025-12-02 15:03",
+    "app": "mattermost"
+}

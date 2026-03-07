@@ -1,0 +1,10 @@
+Year,Quarter,Process,Worktime_Percentage,Context
+The year in which data was collected,The quarter of the year in which data was collected,The specific clinical task or process being analyzed,The percentage of the clinician's worktime spent on the specific process,Additional context or details about the data or the process being analyzed
+2024,Q1,Follow-up care,20,MediConn's internal analysis on clinician worktime. Follow-ups are crucial to ensure patient recovery.
+2023,Q2,Prescription and medication management,30,MediConn's internal analysis on clinician worktime. Prescription management is a significant part of the process.
+2024,Q4,Interdepartmental communication,10,MediConn's internal analysis on clinician worktime. Communication between departments ensures coordinated care.
+2024,Q3,Medical record documentation,25,MediConn's internal analysis on clinician worktime. Documentation is crucial for maintaining patient history.
+2025,Q2,Patient education and counseling,15,MediConn's internal analysis on clinician worktime. Patient education is important for managing patient expectations and compliance.
+2025,Q3,Interacting and diagnosing patients,40,MediConn's internal analysis on clinician worktime during virtual consultations. This metric reflects the proportion of clinician time devoted to productive activities. Improving it is vital for driving operational efficiency.
+2024,Q2,Patient intake and registration,15,MediConn's internal analysis on clinician worktime. Patient intake is the first step in the healthcare process.
+2025,Q1,Lab results interpretation,20,MediConn's internal analysis on clinician worktime. Lab interpretation is a critical part of diagnosis.

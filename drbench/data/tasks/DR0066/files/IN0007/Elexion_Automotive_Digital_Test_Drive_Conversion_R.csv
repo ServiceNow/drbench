@@ -1,0 +1,13 @@
+Date,Online_Scheduler_Used,Vehicle_Purchased,Conversion_Rate
+The month and year when the CRM report was generated.,The number of customers who used the online scheduler in the CRM to schedule a digital test drive during the specified month.,The number of customers who made a vehicle purchase after scheduling a digital test drive using the online scheduler.,The percentage of customers who made a vehicle purchase after scheduling a digital test drive using the online scheduler.
+2025-07-01,85,30,0.35
+2024-12-01,90,30,0.33
+2025-04-01,95,30,0.32
+2025-08-01,80,20,0.25
+2025-02-01,80,28,0.35
+2025-06-01,90,25,0.28
+2025-01-01,85,27,0.32
+2025-09-01,100,35,0.35
+2025-05-01,70,20,0.29
+2025-03-01,75,25,0.33
+2024-11-01,100,32,0.32

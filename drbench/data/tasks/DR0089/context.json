@@ -1,0 +1,28 @@
+{
+    "company_info": {
+        "name": "Elexion Automotive (Austin, Texas, USA, $350M - $500M, 1900 employees)",
+        "industry": "Automotive – Electric Vehicles",
+        "description": "A company in the Automotive – Electric Vehicles industry",
+        "size": "medium",
+        "employee_count": "100-500",
+        "annual_revenue": "Not specified"
+    },
+    "persona": {
+        "name": "Amanda Foster",
+        "first_name": "Amanda",
+        "last_name": "Foster",
+        "username": "amanda.foster",
+        "email": "amanda.foster@elexionautomotive.com",
+        "role": "Senior QA Engineer",
+        "role_description": "Designs comprehensive testing protocols for electric vehicles, mentors junior QA staff, and collaborates with engineering teams to resolve quality issues"
+    },
+    "url": {
+        "url": "https://www.statcan.gc.ca/o1/en/plus/7915-2024-one-seven-new-vehicles-sold-canada-were-zero-emission",
+        "domain": "Quality Assurance",
+        "industry": "automotive – electric vehicles",
+        "example_dr_questions": [],
+        "insights": [],
+        "date": "2025-11-21"
+    },
+    "timestamp": "2025-10-24 00:00"
+}

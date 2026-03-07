@@ -1,0 +1,81 @@
+{
+    "file_name": "engagement-compliance-report",
+    "file_title": "Employee Engagement and Compliance Report",
+    "introduction": "This presentation provides an overview of our recent employee engagement initiatives and compliance measures. It will help us understand the participation level of our employees in company-wide activities.",
+    "subsections": [
+        {
+            "heading": "Employee Engagement Activities Overview",
+            "content": "\u2022 Implemented quarterly team-building activities to boost morale and foster collaboration\n\u2022 Introduced an employee recognition program to spotlight exceptional work and achievements\n\u2022 Offered professional development workshops and training sessions to enhance employee skills\n\u2022 Ensured all employees have access to necessary resources and tools for remote work\n\u2022 Surveyed employees bi-annually to gauge satisfaction and identify areas for improvement\n\u2022 Developed wellness initiatives, including fitness programs and mental health resources",
+            "type": "distractor",
+            "justification": "The content is related to employee engagement but does not provide any information on ID photo updates."
+        },
+        {
+            "heading": "ID Update Compliance Status",
+            "content": "\u2022 Developed comprehensive policies regarding employee ID and security\n\u2022 Conducted regular audits to ensure compliance with ID policies\n\u2022 Invested in security technology to prevent unauthorized access\n\u2022 Provided training and awareness programs on the importance of ID compliance\n\u2022 Implemented strict penalties for non-compliance, including warnings and potential termination",
+            "type": "distractor",
+            "justification": "While the content discusses ID compliance, it does not specifically address the percentage of employee ID photo updates."
+        },
+        {
+            "heading": "Impact of Engagement on Work Efficiency",
+            "content": "\u2022 Identified a positive correlation between high engagement and improved productivity\n\u2022 Implemented flexible work policies, leading to increased employee satisfaction and efficiency\n\u2022 Found that engaged employees were more likely to participate in collaborative projects\n\u2022 Noted a decrease in employee turnover rates following the introduction of engagement initiatives\n\u2022 Discovered that employees who participated in professional development programs were more efficient in their roles",
+            "type": "distractor",
+            "justification": "This content discusses the impact of engagement on work efficiency but does not answer the DR Question about ID photo updates."
+        }
+    ],
+    "conclusion": "The data suggests a healthy participation in engagement activities, including ID updates. Moving forward, we must maintain this momentum and further integrate such initiatives into our corporate culture.",
+    "file_format": "pptx",
+    "file_path": ".llm_responses/generated_pptx_presentation.pptx",
+    "qa_type": "distractor",
+    "timestamp": "2025-12-03 00:04",
+    "image_queries": [
+        {
+            "slide_title": "Introduction",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "intentionally_clean",
+            "slide_type": "introduction"
+        },
+        {
+            "slide_title": "Employee Engagement Activities Overview",
+            "has_image": true,
+            "image_query": "team-building activities in office",
+            "generation_method": "strategic_placement",
+            "slide_type": "distractor",
+            "content_length": 6,
+            "total_chars": 522,
+            "forced": false,
+            "theme": "Corporate Blue"
+        },
+        {
+            "slide_title": "ID Update Compliance Status",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 5,
+            "total_chars": 359,
+            "probability": 0.25,
+            "theme": "Corporate Blue"
+        },
+        {
+            "slide_title": "Impact of Engagement on Work Efficiency",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 5,
+            "total_chars": 472,
+            "probability": 0.25,
+            "theme": "Corporate Blue"
+        },
+        {
+            "slide_title": "Conclusion",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "strategic_clean_conclusion",
+            "slide_type": "conclusion",
+            "theme": "Corporate Blue"
+        }
+    ],
+    "app": "file_system"
+}

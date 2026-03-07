@@ -1,0 +1,10 @@
+{
+    "insight_id": "DI0008",
+    "qa_type": "distractor",
+    "qa_index": 8,
+    "specific_question": "Following the costly technical failure of Lee's Market's knowledge database system on September 13, 2024, what measures did the KM team implement to prevent similar issues in the future?",
+    "answer": "After the costly collapse of the knowledge database system on September 13, 2024, the KM team revised operating guidelines to schedule updates only during non-working hours and directed the IT department to develop an emergency plan for quickly deploying the backup system until the issues are resolved.",
+    "justification": "",
+    "timestamp": "2025-11-19 02:31",
+    "dr_question": "Given the rise of AI-based knowledge management systems, what strategies can Lee's Market's knowledge management team implement to help maintain low employee turnover rates through 2027?"
+}

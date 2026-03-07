@@ -1,0 +1,10 @@
+{
+    "insight_id": "IN0001",
+    "qa_type": "insight",
+    "qa_index": 1,
+    "specific_question": "As of September 2025, how many of MediConn's 10 covered provincial jurisdictions have published regulatory or billing guidance that creates a direct operational conflict with the federal CHA interpretation?",
+    "answer": "As of September 2025, 5 out of 10 provinces under MediConn's coverage have issued provincial health billing policies that differ significantly from the federal CHA interpretation.",
+    "justification": "This data is relevant because it quantifies the immediate regulatory inconsistency risk and highlights the number of provinces posing the highest operational compliance challenges. MediConn can use this to prioritize resource allocation for compliance teams and legal review across the five non-aligned jurisdictions, allowing for a phased risk mitigation strategy.",
+    "timestamp": "2025-11-20 17:58",
+    "dr_question": "In response to the federal government\u2019s 2025 interpretation of the Canada Health Act, what should MediConn Solutions do to address compliance risks from legal precedents or provincial variations by Q4 2028?"
+}

@@ -1,0 +1,13 @@
+Store_Location,Quarter,Average_Daily_Foot_Traffic,Data_Source,Date_Reported
+"The specific location of the Lee's Market store. In this case, this would be the Richmond flagship store.","The specific quarter of the year in which the foot traffic data is being reported. In this case, this would be Q2 2025.","The average number of customers who visited the store each day during the specified quarter. In this case, this would be around 2,700 customers per day.","The source from which the foot traffic data was obtained. This could be from internal reports, third-party data providers, etc.",The date when the foot traffic data was reported. This helps to know when the numbers were last updated.
+Richmond flagship store,Q1 2025,2500,Internal Reports,2025-04-01
+Downtown branch,Q3 2024,1800,Third-party data providers,2024-10-05
+Richmond flagship store,Q2 2025,2700,Internal Reports,2025-07-01
+Richmond flagship store,Q4 2024,2600,Internal Reports,2025-01-01
+Suburb outlet,Q2 2025,1200,Internal Reports,2025-07-07
+Downtown branch,Q2 2025,1900,Third-party data providers,2025-07-05
+Downtown branch,Q4 2024,2000,Third-party data providers,2025-01-05
+Richmond flagship store,Q3 2024,2500,Internal Reports,2024-10-01
+Suburb outlet,Q1 2025,1100,Internal Reports,2025-04-07
+Downtown branch,Q1 2025,1800,Third-party data providers,2025-04-05
+Suburb outlet,Q4 2024,1200,Internal Reports,2025-01-07

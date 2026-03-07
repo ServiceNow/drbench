@@ -1,0 +1,81 @@
+{
+    "file_name": "help-desk-analysis",
+    "file_title": "Help Desk Performance Analysis - July 2025",
+    "introduction": "We will be analyzing our help desk performance for the month of July 2025, with a focus on the nature of tickets received. This will help us identify common issues and improve our user support services.",
+    "subsections": [
+        {
+            "heading": "Overview of Help Desk Tickets",
+            "content": "\u2022 On average, our help desk receives 200 tickets daily\n\u2022 35% of tickets are related to connectivity issues\n\u2022 25% of tickets concern issues with the user interface\n\u2022 Approximately 15% of tickets are about billing related queries\n\u2022 About 10% of tickets are related to general user complaints or suggestions\n\u2022 5% of tickets cover miscellaneous issues not categorized under the above points\n\u2022 The remaining 10% of tickets are escalated to higher-level support teams for resolution",
+            "type": "distractor",
+            "justification": "This content gives a broad overview of the types of tickets, but does not specifically address the percentage of tickets related to password resets."
+        },
+        {
+            "heading": "Breakdown of Password-Related Issues",
+            "content": "\u2022 Most password-related issues are due to forgetfulness or misplaced password details\n\u2022 We've noticed a significant increase in password-related tickets during public holidays\n\u2022 Approximately 30% of all password-related issues are resolved within 10 minutes\n\u2022 Our team has implemented a self-service password reset tool to minimize such issues\n\u2022 About 40% of users have successfully used the self-service tool for password resets\n\u2022 We are actively working on improving our password security protocols",
+            "type": "distractor",
+            "justification": "While this slide discusses password-related issues, it does not provide the percentage of password reset tickets in July 2025."
+        },
+        {
+            "heading": "Opportunities for User Support Improvement",
+            "content": "\u2022 We are exploring automation options for common issues to reduce ticket volume\n\u2022 User education programs could help reduce the number of tickets related to common issues\n\u2022 We are considering extending our help desk hours to provide round-the-clock support\n\u2022 A more user-friendly interface could reduce the number of tickets related to UI issues\n\u2022 We are looking into ways to make our billing process more transparent to reduce billing-related tickets\n\u2022 We are considering implementing a user feedback system to understand and address common user complaints",
+            "type": "distractor",
+            "justification": "This slide discusses potential improvements to user support, not the percentage of password reset tickets in July 2025."
+        }
+    ],
+    "conclusion": "Our analysis shows a significant portion of help desk tickets are related to password resets. We need to explore solutions to reduce this number, such as self-service password reset options or enhanced user education.",
+    "file_format": "pptx",
+    "file_path": ".llm_responses/generated_pptx_presentation.pptx",
+    "qa_type": "distractor",
+    "timestamp": "2025-12-02 15:34",
+    "image_queries": [
+        {
+            "slide_title": "Introduction",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "intentionally_clean",
+            "slide_type": "introduction"
+        },
+        {
+            "slide_title": "Overview of Help Desk Tickets",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 7,
+            "total_chars": 456,
+            "probability": 0.25,
+            "theme": "Corporate Blue"
+        },
+        {
+            "slide_title": "Breakdown of Password-Related Issues",
+            "has_image": true,
+            "image_query": "office worker struggling with passwords",
+            "generation_method": "strategic_placement",
+            "slide_type": "distractor",
+            "content_length": 6,
+            "total_chars": 483,
+            "forced": false,
+            "theme": "Corporate Blue"
+        },
+        {
+            "slide_title": "Opportunities for User Support Improvement",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 6,
+            "total_chars": 540,
+            "probability": 0.25,
+            "theme": "Corporate Blue"
+        },
+        {
+            "slide_title": "Conclusion",
+            "has_image": true,
+            "image_query": "help desk support team",
+            "generation_method": "strategic_conclusion",
+            "slide_type": "conclusion",
+            "theme": "Corporate Blue"
+        }
+    ],
+    "app": "file_system"
+}

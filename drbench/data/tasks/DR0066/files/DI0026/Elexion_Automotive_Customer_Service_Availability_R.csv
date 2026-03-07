@@ -1,0 +1,11 @@
+Company,Department,Availability_Start,Availability_End,Days_Available,Automated_Response_Option,Response_Time
+The name of the company this data is related to,The specific department within the company this data is related to,The start of the time period during which live representatives are available,The end of the time period during which live representatives are available,The days of the week on which live representatives are available,The automated response system available when live representatives are not,The maximum amount of time within which a representative will respond to a customer's message left on the automated system
+Techco,Technical Support,24/7,,All days,Automated email response,4 hours
+Elexion,Sales,8 a.m. CDT,8 p.m. CDT,All days,Automated voice messaging system,24 hours
+Bookstore Inc,Customer Service,10 a.m. PST,6 p.m. PST,Mon-Fri,Automated email response,48 hours
+Bookstore Inc,Technical Support,9 a.m. PST,5 p.m. PST,Mon-Fri,Live chatbot,24 hours
+Elexion,Technical Support,10 a.m. CDT,6 p.m. CDT,Mon-Fri,Live chatbot,1 hour
+Elexion,Customer Service,8 a.m. CDT,10 p.m. CDT,Mon-Fri,Automated email response,2 hours
+Bookstore Inc,Sales,8 a.m. PST,8 p.m. PST,Mon-Sat,Automated voice messaging system,72 hours
+Techco,Customer Service,24/7,,All days,Automated voice messaging system,6 hours
+Techco,Sales,9 a.m. EST,5 p.m. EST,Mon-Fri,Live chatbot,12 hours

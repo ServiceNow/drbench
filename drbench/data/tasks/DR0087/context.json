@@ -1,0 +1,28 @@
+{
+    "company_info": {
+        "name": "Lee's Market (Richmond, British Columbia, Canada, $500M - $600M, 5000 employees)",
+        "industry": "Retail",
+        "description": "A company in the Retail industry",
+        "size": "medium",
+        "employee_count": "100-500",
+        "annual_revenue": "Not specified"
+    },
+    "persona": {
+        "name": "Tony Nguyen",
+        "first_name": "Tony",
+        "last_name": "Nguyen",
+        "username": "tony.nguyen",
+        "email": "tony.nguyen@leesmarket.com",
+        "role": "Sales Associate",
+        "role_description": "Assists customers with product selection and purchases, maintains product displays and inventory, and processes transactions at point-of-sale systems"
+    },
+    "url": {
+        "url": "https://www.reuters.com/world/americas/canadas-july-retail-sales-drop-08-rebound-likely-august-2025-09-19/",
+        "domain": "Sales",
+        "industry": "retail",
+        "example_dr_questions": [],
+        "insights": [],
+        "date": "2025-11-21"
+    },
+    "timestamp": "2025-10-24 00:00"
+}

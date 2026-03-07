@@ -1,0 +1,88 @@
+================================================================================
+MATTERMOST CHAT EXPORT
+================================================================================
+
+TEAMS:
+----------------------------------------
+• Corporate Communications (corporate_communications)
+  Description: N/A
+  Type: Open
+
+• Event Sponsorship (event_sponsorship)
+  Description: N/A
+  Type: Open
+
+CHANNELS:
+----------------------------------------
+• #Media Relations (media_relations)
+  Team: corporate_communications
+  Purpose: Discuss and manage media relations
+  Type: Public
+
+• #Cultural Festivals (cultural_festivals)
+  Team: event_sponsorship
+  Purpose: Coordinate, discuss and manage cultural festival sponsorships
+  Type: Public
+
+USERS:
+----------------------------------------
+• @andrew.park
+  Name: Andrew Park
+  Position: Public Relations Director
+  Email: andrew.park@leesmarket.com
+
+• @janelee
+  Name: Jane Lee
+  Position: Media Relations Manager
+  Email: jane.lee@leesmarket.com
+
+• @michaelyang
+  Name: Michael Yang
+  Position: Event Sponsorship Coordinator
+  Email: michael.yang@leesmarket.com
+
+MESSAGES:
+================================================================================
+[Unknown time] #event_sponsorship:cultural_festivals
+@michaelyang:
+Hi team, I've just completed the tally for our 2024 sponsorships. I'm excited to share that Lee's Market sponsored a total of 23 Asian cultural festivals and 41 community events across North America.
+------------------------------------------------------------
+
+[Unknown time] #event_sponsorship:cultural_festivals
+@michaelyang:
+The average number of attendees per event was around 8400. I believe this high engagement shows how much our customers appreciate our efforts in supporting their communities. It's great to see our brand resonating so well with our target demographic.
+------------------------------------------------------------
+
+[Unknown time] #event_sponsorship:cultural_festivals
+@andrew.park:
+Fantastic work, Michael! This level of engagement speaks volumes about our brand's commitment to the communities we serve. I'll be sure to share these figures with the Corporate Communications team to help shape our media narrative for the next year.
+------------------------------------------------------------
+
+[2021-05-08 11:53:20] #corporate_communications:media_relations
+@andrew.park:
+Hi Jane, could we schedule a meeting next week to discuss the upcoming PR campaign? I'd like to ensure we're aligned on our messaging.
+------------------------------------------------------------
+
+[2021-05-08 12:10:00] #corporate_communications:media_relations
+@janelee:
+Sure Andrew, how about Tuesday at 10am? We can review the campaign outline and discuss any potential media outlets for our press releases.
+------------------------------------------------------------
+
+[2021-05-08 12:26:40] #event_sponsorship:cultural_festivals
+@andrew.park:
+Hi Michael, I've been reviewing the sponsorship budget for next quarter. We might need to reallocate some funds to cover the increased costs of festival sponsorships.
+------------------------------------------------------------
+
+[2021-05-08 12:43:20] #event_sponsorship:cultural_festivals
+@michaelyang:
+Thanks for the heads up, Andrew. Can you provide a breakdown of the anticipated costs? We can discuss this further in our team meeting next week.
+------------------------------------------------------------
+
+[2021-05-08 13:00:00] #corporate_communications:media_relations
+@janelee:
+Andrew, could you share the latest customer satisfaction survey results? I think it's important to incorporate the feedback into our PR campaign.
+------------------------------------------------------------
+
+================================================================================
+END OF CHAT EXPORT
+================================================================================

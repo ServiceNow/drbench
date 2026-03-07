@@ -1,0 +1,10 @@
+{
+    "insight_id": "DI0003",
+    "qa_type": "distractor",
+    "qa_index": 3,
+    "specific_question": "What was the reduction in Lee's Market's energy costs (in %) after replacing lighting systems with LED technology, across 22 stores in 2025?",
+    "answer": "Lee's Market's energy costs reduced by approximately 34% after it replaced lighting systems in 22 stores in 2025 with LED technology.",
+    "justification": "This data is not relevant because it focuses on lighting improvements, which affect ambiance and costs, but don't directly affect product-level sales changes from tariffs. Lee's Market cannot use this data to gauge the tariff impact on product sales or adjust promotion strategies. This data is related to facilities upgrade, and does not affect product-level performance sales analysis under economic pressure.",
+    "timestamp": "2025-11-21 13:02",
+    "dr_question": "Given the drop in Canadian retail sales brought on by US tariffs in 2025, what insights should Lee\u2019s Market derive from product-level sales trends across tariff-exposed and tariff-insulated categories to update sales forecasts by 2027?"
+}

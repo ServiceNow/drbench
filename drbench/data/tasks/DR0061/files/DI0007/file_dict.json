@@ -1,0 +1,81 @@
+{
+    "file_name": "customer-engagement-overview",
+    "file_title": "Elexion's Customer Engagement Overview",
+    "introduction": "This presentation provides an overview of our recent customer engagement events, focusing on the planning, execution, and outcomes. These events play a critical role in maintaining and enhancing Elexion's relationship with its customer base.",
+    "subsections": [
+        {
+            "heading": "Overview of Recent Customer Engagement Events",
+            "content": "\u2022 In 2024, Elexion held 15 customer engagement events across North America\n\u2022 Average attendance per event in 2024 was 150 participants\n\u2022 In Q2 2025, 3 customer engagement events took place in Los Angeles, Toronto, and Miami\n\u2022 Participants at these events got the opportunity to test drive the latest Elexion models\n\u2022 Workshops on electric vehicle maintenance were a common feature in these events\n\u2022 These events led to a 10% increase in customer satisfaction according to post-event surveys\n\u2022 The most popular event in 2024 was the Electric Vehicle Expo in San Francisco with over 500 attendees",
+            "type": "distractor",
+            "justification": "This slide provides an overview of other events instead of Emily Lee's event. It uses the strategy of focusing on historical data."
+        },
+        {
+            "heading": "Details of Emily Lee's Organized Event",
+            "content": "\u2022 Emily Lee has been with Elexion for 5 years and has organized over 20 successful events\n\u2022 She specializes in creating immersive experiences for event attendees\n\u2022 Emily has been recognized by the company for her innovative approach to customer engagement\n\u2022 Her events often include unique features such as interactive exhibits and live demonstrations\n\u2022 Emily's events are noted for their focus on promoting eco-friendly practices\n\u2022 The events led by Emily have consistently received high feedback scores from attendees\n\u2022 Her event organization method involves a detailed pre-event planning phase and thorough post-event analysis.",
+            "type": "distractor",
+            "justification": "This slide focuses on Emily Lee's background, skills, and general event organization process, but does not mention the specific event in question."
+        },
+        {
+            "heading": "Participant Metrics and Feedback Analysis",
+            "content": "\u2022 On average, 80% of attendees provide feedback after our events\n\u2022 Our customer engagement events have seen a steady increase in attendees over the past 3 years\n\u2022 Feedback from the 2024 events highlighted the desire for more hands-on workshops\n\u2022 Approximately 60% of event attendees are existing Elexion customers\n\u2022 Feedback scores from Q1 2025 events indicate a high satisfaction rate with the event organization\n\u2022 The average feedback score for our events in 2025 is 4.3/5\n\u2022 Our events have helped in reducing customer churn rate by 2% in 2024",
+            "type": "distractor",
+            "justification": "This slide discusses general feedback and participant metrics from various events, not the specific event organized by Emily Lee."
+        }
+    ],
+    "conclusion": "Our customer engagement events, particularly Emily Lee's, have shown positive feedback and high participation rates. Based on these outcomes, we recommend continuing these initiatives, while seeking opportunities for further improvement.",
+    "file_format": "pptx",
+    "file_path": ".llm_responses/generated_pptx_presentation.pptx",
+    "qa_type": "distractor",
+    "timestamp": "2025-12-02 17:43",
+    "image_queries": [
+        {
+            "slide_title": "Introduction",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "intentionally_clean",
+            "slide_type": "introduction"
+        },
+        {
+            "slide_title": "Overview of Recent Customer Engagement Events",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 7,
+            "total_chars": 574,
+            "probability": 0.25,
+            "theme": "Bold Crimson"
+        },
+        {
+            "slide_title": "Details of Emily Lee's Organized Event",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 7,
+            "total_chars": 610,
+            "probability": 0.25,
+            "theme": "Bold Crimson"
+        },
+        {
+            "slide_title": "Participant Metrics and Feedback Analysis",
+            "has_image": true,
+            "image_query": "business event feedback analysis",
+            "generation_method": "strategic_placement",
+            "slide_type": "distractor",
+            "content_length": 7,
+            "total_chars": 525,
+            "forced": false,
+            "theme": "Bold Crimson"
+        },
+        {
+            "slide_title": "Conclusion",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "strategic_clean_conclusion",
+            "slide_type": "conclusion",
+            "theme": "Bold Crimson"
+        }
+    ],
+    "app": "file_system"
+}

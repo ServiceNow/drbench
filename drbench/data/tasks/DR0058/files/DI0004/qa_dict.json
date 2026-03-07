@@ -1,0 +1,10 @@
+{
+    "insight_id": "DI0004",
+    "qa_type": "distractor",
+    "qa_index": 4,
+    "specific_question": "In Q3 2024, did the cybersecurity specialist conduct internal walkthroughs of MediConn\u2019s platform architecture for knowledge sharing with the development team?",
+    "answer": "Yes, the cybersecurity specialist led two internal sessions for MediConn\u2019s development team between July 1 and September 30, 2024 to review pre-release code changes.",
+    "justification": "",
+    "timestamp": "2025-11-20 00:44",
+    "dr_question": "In 2026, since a ransomware attack would not be just an IT issue but a risk to every function of MediConn Solutions, what specific architectural and procedural controls would a cybersecurity specialist need to design and implement to minimize the blast radius and ensure MediConn\u2019s clinical continuity during an extended loss of services from one of their third-party providers?"
+}

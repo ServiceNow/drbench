@@ -1,0 +1,220 @@
+{
+    "file_name": "roundcube_email_20251119_004913",
+    "content": "{\"type\": \"user\", \"username\": \"kevin.wong\", \"first_name\": \"Kevin\", \"last_name\": \"Wong\", \"email\": \"kevin.wong@leesmarket.com\", \"password\": \"kevinITservice2025\"}\n{\"type\": \"user\", \"username\": \"amy.chen\", \"first_name\": \"Amy\", \"last_name\": \"Chen\", \"email\": \"amy.chen@leesmarket.com\", \"password\": \"amyEcommerce2025\"}\n{\"type\": \"user\", \"username\": \"michael.lee\", \"first_name\": \"Michael\", \"last_name\": \"Lee\", \"email\": \"michael.lee@leesmarket.com\", \"password\": \"michaelPOSsupport2025\"}\n{\"type\": \"user\", \"username\": \"jessica.liu\", \"first_name\": \"Jessica\", \"last_name\": \"Liu\", \"email\": \"jessica.liu@leesmarket.com\", \"password\": \"jessicaRetailOps2025\"}\n{\"type\": \"user\", \"username\": \"david.kim\", \"first_name\": \"David\", \"last_name\": \"Kim\", \"email\": \"david.kim@leesmarket.com\", \"password\": \"davidITsupport2025\"}\n{\"type\": \"user\", \"username\": \"helen.park\", \"first_name\": \"Helen\", \"last_name\": \"Park\", \"email\": \"helen.park@leesmarket.com\", \"password\": \"helenQA2025\"}\n{\"type\": \"user\", \"username\": \"john.tan\", \"first_name\": \"John\", \"last_name\": \"Tan\", \"email\": \"john.tan@leesmarket.com\", \"password\": \"johnITinfra2025\"}\n{\"type\": \"email\", \"id\": \"email_001\", \"subject\": \"New POS System Installation Update\", \"from\": \"kevin.wong@leesmarket.com\", \"from_name\": \"Kevin Wong\", \"to\": [\"michael.lee@leesmarket.com\"], \"cc\": [\"david.kim@leesmarket.com\", \"john.tan@leesmarket.com\"], \"date\": \"2026-01-05 09:10:00\", \"body\": \"Dear Michael,\\n\\nI am writing to update you about the installation of the new POS system across all our stores. We have successfully completed the installations in 60% of our stores as of last week. The remaining installations are scheduled for completion by the end of this month.\\n\\nBest,\\nKevin\", \"folder\": \"sent\", \"read\": true, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_002\", \"subject\": \"E-commerce Platform Update\", \"from\": \"amy.chen@leesmarket.com\", \"from_name\": \"Amy Chen\", \"to\": [\"kevin.wong@leesmarket.com\"], \"cc\": [], \"date\": \"2026-01-09 14:25:00\", \"body\": \"Hi Kevin,\\n\\nJust wanted to let you know that the latest update to our e-commerce platform was successfully deployed last night. The new features and improvements are now live and functioning as expected.\\n\\nBest,\\nAmy\", \"folder\": \"inbox\", \"read\": true, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_003\", \"subject\": \"Weekly Team Meeting Agenda\", \"from\": \"jessica.liu@leesmarket.com\", \"from_name\": \"Jessica Liu\", \"to\": [\"kevin.wong@leesmarket.com\", \"amy.chen@leesmarket.com\", \"michael.lee@leesmarket.com\", \"david.kim@leesmarket.com\", \"helen.park@leesmarket.com\", \"john.tan@leesmarket.com\"], \"cc\": [], \"date\": \"2026-01-10 08:30:00\", \"body\": \"Dear Team,\\n\\nI hope this email finds you well. Please find the agenda for our weekly team meeting attached. The meeting is scheduled for tomorrow at 10:00 am in the main conference room.\\n\\nBest,\\nJessica\", \"folder\": \"inbox\", \"read\": true, \"attachments\": [\"weekly_meeting_agenda.pdf\"]}\n{\"type\": \"email\", \"id\": \"email_004\", \"subject\": \"QA Report for December\", \"from\": \"helen.park@leesmarket.com\", \"from_name\": \"Helen Park\", \"to\": [\"kevin.wong@leesmarket.com\"], \"cc\": [\"amy.chen@leesmarket.com\"], \"date\": \"2026-01-11 17:45:00\", \"body\": \"Hi Kevin,\\n\\nPlease find attached the QA report for December. We had a successful month with all targets being met. Do let me know if you have any questions or need further information.\\n\\nBest,\\nHelen\", \"folder\": \"inbox\", \"read\": true, \"attachments\": [\"QA_Report_December.pdf\"]}\n{\"type\": \"email\", \"id\": \"email_001\", \"subject\": \"High Volume of Service Desk Emails\", \"from\": \"kevin.wong@leesmarket.com\", \"from_name\": \"Kevin Wong\", \"to\": [\"jessica.liu@leesmarket.com\"], \"cc\": [\"amy.chen@leesmarket.com\", \"michael.lee@leesmarket.com\", \"david.kim@leesmarket.com\", \"helen.park@leesmarket.com\", \"john.tan@leesmarket.com\"], \"date\": \"2025-09-01 09:00:00\", \"body\": \"Team,\\n\\nI hope this email finds you well. I am reaching out because we have seen a high volume of service desk emails across our stores recently. I am currently looking into the cause of this increase and would appreciate your inputs.\\n\\nBest,\\nKevin\", \"folder\": \"sent\", \"read\": true, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_002\", \"subject\": \"Re: High Volume of Service Desk Emails\", \"from\": \"amy.chen@leesmarket.com\", \"from_name\": \"Amy Chen\", \"to\": [\"kevin.wong@leesmarket.com\"], \"cc\": [\"jessica.liu@leesmarket.com\", \"michael.lee@leesmarket.com\", \"david.kim@leesmarket.com\", \"helen.park@leesmarket.com\", \"john.tan@leesmarket.com\"], \"date\": \"2025-09-01 10:30:00\", \"body\": \"Kevin and Team,\\n\\nI've noticed a surge in customer complaints related to our online payment system, especially with PayPal. Based on our internal tracking, PayPal transactions failed 1,275 times in August due to intermittent API connection issues. This primarily affected our urban U.S. stores. We\\u2019re investigating this on our end, but it could be contributing to the increase in service desk emails.\\n\\nBest,\\nAmy\", \"folder\": \"sent\", \"read\": true, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_003\", \"subject\": \"Re: High Volume of Service Desk Emails\", \"from\": \"kevin.wong@leesmarket.com\", \"from_name\": \"Kevin Wong\", \"to\": [\"amy.chen@leesmarket.com\"], \"cc\": [\"jessica.liu@leesmarket.com\", \"michael.lee@leesmarket.com\", \"david.kim@leesmarket.com\", \"helen.park@leesmarket.com\", \"john.tan@leesmarket.com\"], \"date\": \"2025-09-01 11:00:00\", \"body\": \"Amy and Team,\\n\\nThanks for the quick response, Amy. That certainly could be contributing to the increased volume of service desk emails. Let's prioritize resolving these PayPal API issues and monitor the volume of service desk emails thereafter. I believe by improving this, we could reduce the number of service desk emails by Q2 2026.\\n\\nBest,\\nKevin\", \"folder\": \"sent\", \"read\": true, \"attachments\": []}",
+    "email_setup": [
+        {
+            "type": "user",
+            "username": "kevin.wong",
+            "first_name": "Kevin",
+            "last_name": "Wong",
+            "email": "kevin.wong@leesmarket.com",
+            "password": "kevinITservice2025"
+        },
+        {
+            "type": "user",
+            "username": "amy.chen",
+            "first_name": "Amy",
+            "last_name": "Chen",
+            "email": "amy.chen@leesmarket.com",
+            "password": "amyEcommerce2025"
+        },
+        {
+            "type": "user",
+            "username": "michael.lee",
+            "first_name": "Michael",
+            "last_name": "Lee",
+            "email": "michael.lee@leesmarket.com",
+            "password": "michaelPOSsupport2025"
+        },
+        {
+            "type": "user",
+            "username": "jessica.liu",
+            "first_name": "Jessica",
+            "last_name": "Liu",
+            "email": "jessica.liu@leesmarket.com",
+            "password": "jessicaRetailOps2025"
+        },
+        {
+            "type": "user",
+            "username": "david.kim",
+            "first_name": "David",
+            "last_name": "Kim",
+            "email": "david.kim@leesmarket.com",
+            "password": "davidITsupport2025"
+        },
+        {
+            "type": "user",
+            "username": "helen.park",
+            "first_name": "Helen",
+            "last_name": "Park",
+            "email": "helen.park@leesmarket.com",
+            "password": "helenQA2025"
+        },
+        {
+            "type": "user",
+            "username": "john.tan",
+            "first_name": "John",
+            "last_name": "Tan",
+            "email": "john.tan@leesmarket.com",
+            "password": "johnITinfra2025"
+        }
+    ],
+    "email_messages": [
+        {
+            "type": "email",
+            "id": "email_001",
+            "subject": "New POS System Installation Update",
+            "from": "kevin.wong@leesmarket.com",
+            "from_name": "Kevin Wong",
+            "to": [
+                "michael.lee@leesmarket.com"
+            ],
+            "cc": [
+                "david.kim@leesmarket.com",
+                "john.tan@leesmarket.com"
+            ],
+            "date": "2026-01-05 09:10:00",
+            "body": "Dear Michael,\n\nI am writing to update you about the installation of the new POS system across all our stores. We have successfully completed the installations in 60% of our stores as of last week. The remaining installations are scheduled for completion by the end of this month.\n\nBest,\nKevin",
+            "folder": "sent",
+            "read": true,
+            "attachments": [],
+            "tag": "distractor"
+        },
+        {
+            "type": "email",
+            "id": "email_002",
+            "subject": "E-commerce Platform Update",
+            "from": "amy.chen@leesmarket.com",
+            "from_name": "Amy Chen",
+            "to": [
+                "kevin.wong@leesmarket.com"
+            ],
+            "cc": [],
+            "date": "2026-01-09 14:25:00",
+            "body": "Hi Kevin,\n\nJust wanted to let you know that the latest update to our e-commerce platform was successfully deployed last night. The new features and improvements are now live and functioning as expected.\n\nBest,\nAmy",
+            "folder": "inbox",
+            "read": true,
+            "attachments": [],
+            "tag": "distractor"
+        },
+        {
+            "type": "email",
+            "id": "email_003",
+            "subject": "Weekly Team Meeting Agenda",
+            "from": "jessica.liu@leesmarket.com",
+            "from_name": "Jessica Liu",
+            "to": [
+                "kevin.wong@leesmarket.com",
+                "amy.chen@leesmarket.com",
+                "michael.lee@leesmarket.com",
+                "david.kim@leesmarket.com",
+                "helen.park@leesmarket.com",
+                "john.tan@leesmarket.com"
+            ],
+            "cc": [],
+            "date": "2026-01-10 08:30:00",
+            "body": "Dear Team,\n\nI hope this email finds you well. Please find the agenda for our weekly team meeting attached. The meeting is scheduled for tomorrow at 10:00 am in the main conference room.\n\nBest,\nJessica",
+            "folder": "inbox",
+            "read": true,
+            "attachments": [
+                "weekly_meeting_agenda.pdf"
+            ],
+            "tag": "distractor"
+        },
+        {
+            "type": "email",
+            "id": "email_004",
+            "subject": "QA Report for December",
+            "from": "helen.park@leesmarket.com",
+            "from_name": "Helen Park",
+            "to": [
+                "kevin.wong@leesmarket.com"
+            ],
+            "cc": [
+                "amy.chen@leesmarket.com"
+            ],
+            "date": "2026-01-11 17:45:00",
+            "body": "Hi Kevin,\n\nPlease find attached the QA report for December. We had a successful month with all targets being met. Do let me know if you have any questions or need further information.\n\nBest,\nHelen",
+            "folder": "inbox",
+            "read": true,
+            "attachments": [
+                "QA_Report_December.pdf"
+            ],
+            "tag": "distractor"
+        },
+        {
+            "type": "email",
+            "id": "email_001",
+            "subject": "High Volume of Service Desk Emails",
+            "from": "kevin.wong@leesmarket.com",
+            "from_name": "Kevin Wong",
+            "to": [
+                "jessica.liu@leesmarket.com"
+            ],
+            "cc": [
+                "amy.chen@leesmarket.com",
+                "michael.lee@leesmarket.com",
+                "david.kim@leesmarket.com",
+                "helen.park@leesmarket.com",
+                "john.tan@leesmarket.com"
+            ],
+            "date": "2025-09-01 09:00:00",
+            "body": "Team,\n\nI hope this email finds you well. I am reaching out because we have seen a high volume of service desk emails across our stores recently. I am currently looking into the cause of this increase and would appreciate your inputs.\n\nBest,\nKevin",
+            "folder": "sent",
+            "read": true,
+            "attachments": [],
+            "tag": "insight"
+        },
+        {
+            "type": "email",
+            "id": "email_002",
+            "subject": "Re: High Volume of Service Desk Emails",
+            "from": "amy.chen@leesmarket.com",
+            "from_name": "Amy Chen",
+            "to": [
+                "kevin.wong@leesmarket.com"
+            ],
+            "cc": [
+                "jessica.liu@leesmarket.com",
+                "michael.lee@leesmarket.com",
+                "david.kim@leesmarket.com",
+                "helen.park@leesmarket.com",
+                "john.tan@leesmarket.com"
+            ],
+            "date": "2025-09-01 10:30:00",
+            "body": "Kevin and Team,\n\nI've noticed a surge in customer complaints related to our online payment system, especially with PayPal. Based on our internal tracking, PayPal transactions failed 1,275 times in August due to intermittent API connection issues. This primarily affected our urban U.S. stores. We\u2019re investigating this on our end, but it could be contributing to the increase in service desk emails.\n\nBest,\nAmy",
+            "folder": "sent",
+            "read": true,
+            "attachments": [],
+            "tag": "insight"
+        },
+        {
+            "type": "email",
+            "id": "email_003",
+            "subject": "Re: High Volume of Service Desk Emails",
+            "from": "kevin.wong@leesmarket.com",
+            "from_name": "Kevin Wong",
+            "to": [
+                "amy.chen@leesmarket.com"
+            ],
+            "cc": [
+                "jessica.liu@leesmarket.com",
+                "michael.lee@leesmarket.com",
+                "david.kim@leesmarket.com",
+                "helen.park@leesmarket.com",
+                "john.tan@leesmarket.com"
+            ],
+            "date": "2025-09-01 11:00:00",
+            "body": "Amy and Team,\n\nThanks for the quick response, Amy. That certainly could be contributing to the increased volume of service desk emails. Let's prioritize resolving these PayPal API issues and monitor the volume of service desk emails thereafter. I believe by improving this, we could reduce the number of service desk emails by Q2 2026.\n\nBest,\nKevin",
+            "folder": "sent",
+            "read": true,
+            "attachments": [],
+            "tag": "insight"
+        }
+    ],
+    "file_format": "jsonl",
+    "file_path": ".llm_responses/generated_email_document.jsonl",
+    "qa_type": "distractor",
+    "timestamp": "2025-11-19 01:49",
+    "app": "email"
+}

@@ -1,0 +1,13 @@
+Company,Month_Year,Avg_Update_Time_Seconds
+"The name of the company. For this insight, it should be 'Elexion Automotive'.","The month and year when the update was made. For this insight, it should be 'September 2024'.","The average time in seconds it took for a sales representative to update a lead's status in the CRM software. For this insight, it is 45 seconds."
+Elexion Automotive,January 2024,29
+Elexion Automotive,March 2024,32
+Elexion Automotive,February 2024,30
+Elexion Automotive,September 2024,45
+Elexion Automotive,August 2024,30
+Elexion Automotive,July 2024,35
+Elexion Automotive,November 2023,31
+Elexion Automotive,December 2023,33
+Elexion Automotive,April 2024,28
+Elexion Automotive,May 2024,25
+Elexion Automotive,June 2024,40

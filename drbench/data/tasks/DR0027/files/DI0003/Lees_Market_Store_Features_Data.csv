@@ -1,0 +1,13 @@
+store_name,feature,feature_availability,availability_date,store_location,store_count
+This column represents the name of the store in the Lee's Market chain.,This column represents a particular feature or amenity offered in the store.,This column indicates whether the specific feature is available in the store or not.,This column represents the date when the feature became available in the store.,This column represents the location of the store in the Lee's Market chain.,This column represents the total number of stores in the Lee's Market chain.
+Lee's Market,24 Hours Open,No,2020-01-01,Location 4,42
+Lee's Market,In-store Bakery,Yes,2019-02-01,Location 1,42
+Lee's Market,Online Shopping,Yes,2023-12-01,Location 5,42
+Lee's Market,Self-Checkout,No,2023-07-01,Location 3,42
+Lee's Market,Organic Products,Yes,2021-01-01,Location 7,42
+Lee's Market,Pet Friendly,No,2022-02-01,Location 8,42
+Lee's Market,Home Delivery,Yes,2020-03-01,Location 9,42
+Lee's Market,Free Wi-Fi,Yes,2024-03-01,All Locations,42
+Lee's Market,Fresh Produce,Yes,2018-05-01,Location 10,42
+Lee's Market,In-store Cafe,Yes,2019-06-01,Location 6,42
+Lee's Market,Pharmacy,Yes,2018-04-01,Location 2,42

@@ -1,0 +1,10 @@
+{
+    "insight_id": "DI0010",
+    "qa_type": "distractor",
+    "qa_index": 10,
+    "specific_question": "What was the average employee satisfaction score (eNPS) for MediConn's non-technical staff in the 2025 annual survey?",
+    "answer": "The average eNPS score was +40.",
+    "justification": "The morale of non-technical staff is a human resources metric that has no direct connection to the technical performance or cost structure of the IT operations supporting virtual consultations.",
+    "timestamp": "2025-11-21 12:56",
+    "dr_question": "How can MediConn streamline its IT workflows in Q4 2025 to boost clinician efficiency and manage per-consultation costs, given that virtual healthcare expansion has improved access but increased overall expenses?"
+}

@@ -1,0 +1,195 @@
+================================================================================
+ROUNDCUBE EMAIL EXPORT
+================================================================================
+
+USERS:
+----------------------------------------
+• emma.martinez
+  Name: Emma Martinez
+  Email: emma.martinez@mediconn.com
+
+• john.doe
+  Name: John Doe
+  Email: john.doe@mediconn.com
+
+• sarah.jones
+  Name: Sarah Jones
+  Email: sarah.jones@mediconn.com
+
+• michael.brown
+  Name: Michael Brown
+  Email: michael.brown@mediconn.com
+
+• lisa.taylor
+  Name: Lisa Taylor
+  Email: lisa.taylor@mediconn.com
+
+• peter.clark
+  Name: Peter Clark
+  Email: peter.clark@mediconn.com
+
+• susan.johnson
+  Name: Susan Johnson
+  Email: susan.johnson@mediconn.com
+
+• robert.miller
+  Name: Robert Miller
+  Email: robert.miller@mediconn.com
+
+EMAILS:
+================================================================================
+Email ID: email_001
+Date: 2026-01-05 09:00:00
+From: Emma Martinez <emma.martinez@mediconn.com>
+To: john.doe@mediconn.com, sarah.jones@mediconn.com, michael.brown@mediconn.com, lisa.taylor@mediconn.com, peter.clark@mediconn.com, susan.johnson@mediconn.com, robert.miller@mediconn.com
+Subject: Monthly Team Meeting Schedule
+Folder: sent | Status: Read
+
+Message Body:
+----------------------------------------
+Dear Team,
+
+Here is the schedule for our monthly team meetings for the first quarter of 2026. Please mark your calendars and let me know if you have any conflicts.
+
+January 18th - 10:00 AM
+February 15th - 10:00 AM
+March 15th - 10:00 AM
+
+Best,
+Emma
+============================================================
+
+Email ID: email_002
+Date: 2026-01-10 14:30:00
+From: John Doe <john.doe@mediconn.com>
+To: emma.martinez@mediconn.com
+Subject: Project Alpha: Status Update
+Folder: inbox | Status: Read
+
+Message Body:
+----------------------------------------
+Hi Emma,
+
+Just wanted to give you a quick update on Project Alpha. The development team has completed the initial design phase and we are now moving into the testing phase. I'll keep you posted on our progress.
+
+Best,
+John
+============================================================
+
+Email ID: email_001
+Date: 2026-01-15 10:30:00
+From: Emma Martinez <emma.martinez@mediconn.com>
+To: john.doe@mediconn.com, sarah.jones@mediconn.com
+CC: michael.brown@mediconn.com, lisa.taylor@mediconn.com, peter.clark@mediconn.com, susan.johnson@mediconn.com, robert.miller@mediconn.com
+Subject: Re: Compliance Controls for Indigenous Patients in Low-Connectivity Environments
+Folder: inbox | Status: Read
+
+Message Body:
+----------------------------------------
+Team,
+
+As part of our initiative to enhance the virtual healthcare experience for Indigenous patients in low-connectivity environments, I've been examining our current compliance controls regarding secure authentication and patient verification.
+
+While our internal CX reports show an average satisfaction score of 4.7 out of 5 across all patient interactions, I believe there are several areas we can improve to ensure a higher level of security and satisfaction specifically for our Indigenous patients in low-connectivity environments.
+
+I will be drafting a proposal for additional compliance controls and will share it with you all for feedback and insight soon.
+
+Best,
+Emma
+============================================================
+
+Email ID: email_003
+Date: 2026-01-15 11:20:00
+From: Sarah Jones <sarah.jones@mediconn.com>
+To: emma.martinez@mediconn.com
+CC: john.doe@mediconn.com, michael.brown@mediconn.com
+Subject: 2026 Budget Planning
+Folder: inbox | Status: Read
+
+Message Body:
+----------------------------------------
+Hello Emma,
+
+I'm preparing the budget for 2026 and need your input on the estimated costs for the compliance department. Could you send me your projections by the end of next week?
+
+Best,
+Sarah
+============================================================
+
+Email ID: email_002
+Date: 2026-01-15 12:15:00
+From: John Doe <john.doe@mediconn.com>
+To: emma.martinez@mediconn.com
+CC: sarah.jones@mediconn.com, michael.brown@mediconn.com, lisa.taylor@mediconn.com, peter.clark@mediconn.com, susan.johnson@mediconn.com, robert.miller@mediconn.com
+Subject: Re: Compliance Controls for Indigenous Patients in Low-Connectivity Environments
+Folder: inbox | Status: Unread
+
+Message Body:
+----------------------------------------
+Emma,
+
+Thank you for your initiative on this. Looking forward to your proposal and happy to provide feedback.
+
+I think you're spot on that while our overall patient satisfaction score is high, we could improve the experience for our Indigenous patients in low-connectivity environments.
+
+Regards,
+John
+============================================================
+
+Email ID: email_003
+Date: 2026-01-15 14:30:00
+From: Sarah Jones <sarah.jones@mediconn.com>
+To: emma.martinez@mediconn.com, john.doe@mediconn.com
+CC: michael.brown@mediconn.com, lisa.taylor@mediconn.com, peter.clark@mediconn.com, susan.johnson@mediconn.com, robert.miller@mediconn.com
+Subject: Re: Compliance Controls for Indigenous Patients in Low-Connectivity Environments
+Folder: inbox | Status: Unread
+
+Message Body:
+----------------------------------------
+Emma and team,
+
+I agree with John. Any proposal that can improve the user experience and ensure security for our Indigenous patients, especially in low-connectivity environments, should be considered. Looking forward to seeing your proposal, Emma.
+
+Best,
+Sarah
+============================================================
+
+Email ID: email_004
+Date: 2026-01-20 16:45:00
+From: Lisa Taylor <lisa.taylor@mediconn.com>
+To: emma.martinez@mediconn.com
+Subject: Customer Satisfaction Survey Results
+Folder: inbox | Status: Read
+Attachments: 1 file(s)
+
+Message Body:
+----------------------------------------
+Hi Emma,
+
+The results from our latest customer satisfaction survey are in. I've attached the report for your review. Let me know if you have any questions or comments.
+
+Best,
+Lisa
+============================================================
+
+Email ID: email_005
+Date: 2026-01-25 10:15:00
+From: Peter Clark <peter.clark@mediconn.com>
+To: emma.martinez@mediconn.com
+CC: susan.johnson@mediconn.com
+Subject: New Employee Onboarding
+Folder: inbox | Status: Read
+
+Message Body:
+----------------------------------------
+Good Morning Emma,
+
+We have a new hire starting next week in the compliance department. Could you prepare an onboarding plan and schedule a meeting to go over the compliance protocols and procedures?
+
+Best,
+Peter
+============================================================
+
+================================================================================
+END OF EMAIL EXPORT
+================================================================================

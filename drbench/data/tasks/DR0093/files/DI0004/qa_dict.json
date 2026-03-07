@@ -1,0 +1,10 @@
+{
+    "insight_id": "DI0004",
+    "qa_type": "distractor",
+    "qa_index": 4,
+    "specific_question": "How many health care providers were added by MediConn to its network in 2024?",
+    "answer": "MediConn added 80 new healthcare providers to its network in 2024, including 45 physicians, 20 nurse practitioners, and 15 mental health counselors.",
+    "justification": "Although provider composition is important, this data is not relevant because it focuses on recruitment volume, but not the compliance implications of provider types.MediConn cannot use this data by itself to determine strategic adjustments needed to address whether different provider categories can legally charge for medically necessary services under provincial CHA interpretations. This data is related to network growth, not regulatory compliance analysis by provider category.",
+    "timestamp": "2025-11-20 18:01",
+    "dr_question": "In response to the federal government\u2019s 2025 interpretation of the Canada Health Act, what should MediConn Solutions do to address compliance risks from legal precedents or provincial variations by Q4 2028?"
+}

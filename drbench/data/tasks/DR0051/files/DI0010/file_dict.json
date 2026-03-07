@@ -1,0 +1,81 @@
+{
+    "file_name": "customer-service-absenteeism",
+    "file_title": "MediConn Customer Service Absenteeism Analysis",
+    "introduction": "This presentation provides an overview of our customer service team's absenteeism rate for 2024. The analysis will aid in understanding the team's availability and its impact on service delivery.",
+    "subsections": [
+        {
+            "heading": "Overview of Customer Service Operational Metrics",
+            "content": "\u2022 Customer satisfaction levels remained steady at 89% in 2024\n\u2022 Our First Call Resolution (FCR) rate increased by 5% from 2023\n\u2022 Average hold times decreased by 15% in 2024 due to improved resource allocation\n\u2022 Total number of incoming calls increased by 12% from 2023, indicating heightened demand for our services\n\u2022 Call abandonment rate decreased by 3% in 2024 compared to the previous year\n\u2022 Employee turnover in the customer service department was 8% in 2024, below the industry average",
+            "type": "distractor",
+            "justification": "These bullet points discuss other operational metrics but do not provide information on absenteeism rate."
+        },
+        {
+            "heading": "2024 Absenteeism Trends in Customer Service",
+            "content": "\u2022 Nationwide, the healthcare industry saw an increase in absenteeism rates by 1.5% in 2024\n\u2022 Absenteeism rates have been directly linked with increased job stress and burnout\n\u2022 Companies with a strong focus on employee wellbeing saw a decrease in absenteeism rates\n\u2022 Industry leaders are implementing wellness initiatives to combat rising absenteeism trends\n\u2022 Advanced scheduling systems have been shown to reduce absenteeism rates\n\u2022 Organizations with robust remote work policies have seen a decrease in absenteeism",
+            "type": "distractor",
+            "justification": "These bullets provide broader information on absenteeism trends and strategies but do not mention MediConn Solutions' rate."
+        },
+        {
+            "heading": "Impact of Absenteeism on Service Quality",
+            "content": "\u2022 Increased absenteeism can lead to longer wait times and lower customer satisfaction\n\u2022 High absenteeism rates can result in an overworked staff and lower morale\n\u2022 Increased absenteeism can negatively impact First Call Resolution rates\n\u2022 Absenteeism can result in a decrease in overall productivity of the customer service department\n\u2022 High absenteeism rates can disrupt the workflow and lead to increased stress among the remaining staff\n\u2022 Absenteeism can lead to an increased reliance on temporary or less experienced staff, potentially impacting service quality",
+            "type": "distractor",
+            "justification": "This slide discusses potential impacts of absenteeism on service quality, not the specific absenteeism rate of MediConn Solutions' customer service team in 2024."
+        }
+    ],
+    "conclusion": "Understanding absenteeism rates aids in proactive planning for operational efficiency. Strategies to manage and mitigate absenteeism should be developed to maintain our commitment to quality service.",
+    "file_format": "pptx",
+    "file_path": ".llm_responses/generated_pptx_presentation.pptx",
+    "qa_type": "distractor",
+    "timestamp": "2025-11-19 23:54",
+    "image_queries": [
+        {
+            "slide_title": "Introduction",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "intentionally_clean",
+            "slide_type": "introduction"
+        },
+        {
+            "slide_title": "Overview of Customer Service Operational Metrics",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 6,
+            "total_chars": 474,
+            "probability": 0.25,
+            "theme": "Elegant Teal"
+        },
+        {
+            "slide_title": "2024 Absenteeism Trends in Customer Service",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "failed",
+            "slide_type": "distractor",
+            "content_length": 6,
+            "total_chars": 499,
+            "error": "'str' object has no attribute 'choices'",
+            "theme": "Elegant Teal"
+        },
+        {
+            "slide_title": "Impact of Absenteeism on Service Quality",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "failed",
+            "slide_type": "distractor",
+            "content_length": 6,
+            "total_chars": 547,
+            "error": "'str' object has no attribute 'choices'",
+            "theme": "Elegant Teal"
+        },
+        {
+            "slide_title": "Conclusion",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "strategic_clean_conclusion",
+            "slide_type": "conclusion",
+            "theme": "Elegant Teal"
+        }
+    ],
+    "app": "file_system"
+}

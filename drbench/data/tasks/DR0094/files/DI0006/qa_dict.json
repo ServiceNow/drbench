@@ -1,0 +1,10 @@
+{
+    "insight_id": "DI0006",
+    "qa_type": "distractor",
+    "qa_index": 6,
+    "specific_question": "What is MediConn's average system uptime percentage in 2026?",
+    "answer": "Average uptime is 99.6%.",
+    "justification": "While related to service reliability, uptime metrics are not relevant to data protection or compliance risk evaluation.",
+    "timestamp": "2025-11-20 18:34",
+    "dr_question": "What steps can MediConn Solutions take in FY2026 to optimize cybersecurity and data protection amid the healthcare industry\u2019s growing focus on digital engagement and operational efficiency?"
+}

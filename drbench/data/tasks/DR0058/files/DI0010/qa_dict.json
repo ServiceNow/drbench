@@ -1,0 +1,10 @@
+{
+    "insight_id": "DI0010",
+    "qa_type": "distractor",
+    "qa_index": 10,
+    "specific_question": "In Q1 2025, how many internal training sessions on MediConn\u2019s platform vulnerability monitoring tools did the cybersecurity specialist attend?",
+    "answer": "The cybersecurity specialist attended 3 internal training sessions between January 1 and March 31, 2025 for MediConn\u2019s platform vulnerability monitoring tools.",
+    "justification": "",
+    "timestamp": "2025-11-20 00:47",
+    "dr_question": "In 2026, since a ransomware attack would not be just an IT issue but a risk to every function of MediConn Solutions, what specific architectural and procedural controls would a cybersecurity specialist need to design and implement to minimize the blast radius and ensure MediConn\u2019s clinical continuity during an extended loss of services from one of their third-party providers?"
+}

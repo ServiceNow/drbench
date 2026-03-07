@@ -1,0 +1,13 @@
+Quarter,Vehicle Model,Battery Assembly Time Change (%),Data Source
+The specific quarter and year when the measurement was made.,The specific model of Elexion electric vehicle which the battery assembly time measurement applies to.,The percentage change in battery assembly time for the specified vehicle model compared to the previous quarter. A negative value indicates an improvement (reduction in time).,"The source of the data, such as 'Internal Manufacturing Dashboard', where the battery assembly time measurement was recorded."
+2023-Q3,MX-300,-6,Internal Manufacturing Dashboard
+2023-Q1,MX-300,-2,Internal Manufacturing Dashboard
+2024-Q1,MX-300,-12,Internal Manufacturing Dashboard
+2024-Q1,Luxury-500,-15,Internal Manufacturing Dashboard
+2024-Q1,Standard-100,-10,Internal Manufacturing Dashboard
+2023-Q2,MX-300,-4,Internal Manufacturing Dashboard
+2023-Q4,MX-300,-8,Internal Manufacturing Dashboard
+2023-Q2,Standard-200,-1,Internal Manufacturing Dashboard
+2024-Q1,Standard-200,-7,Internal Manufacturing Dashboard
+2023-Q3,Standard-200,-3,Internal Manufacturing Dashboard
+2023-Q4,Standard-200,-5,Internal Manufacturing Dashboard

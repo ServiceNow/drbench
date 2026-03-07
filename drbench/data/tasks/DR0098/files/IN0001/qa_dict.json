@@ -1,0 +1,10 @@
+{
+    "insight_id": "IN0001",
+    "qa_type": "insight",
+    "qa_index": 1,
+    "specific_question": "Just after the imposition of tariffs in Q1 2025, what drop in sales (Year on Year decline) was recorded by Lee's Market?",
+    "answer": "Just after the imposition of tariffs in Q1 2025, Lee's Market recorded a 5.7% YoY decline in sales.",
+    "justification": "This data is relevant as it highlights the decline in Lee's Market's sales due to tariffs. It quantifies the effect of tariffs on Lee's Market, thus justifying the need to readjust short-term sales projections and promotion planning. Lee's Market can use this data to identify product categories contributing most to the decline (tariff-affected imports)and focus on creating sales recovery strategies and promotional planning for these.",
+    "timestamp": "2025-11-21 12:59",
+    "dr_question": "Given the drop in Canadian retail sales brought on by US tariffs in 2025, what insights should Lee\u2019s Market derive from product-level sales trends across tariff-exposed and tariff-insulated categories to update sales forecasts by 2027?"
+}

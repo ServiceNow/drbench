@@ -1,0 +1,10 @@
+Company_Name,Project,Milestone,Target_Date,Details,Time_Allowed_for_Validation_Testing,Production_Start_Date
+The name of the company the insight relates to.,The project or product the milestone is associated with.,A significant stage or event in the development process.,The target date for achieving the specified milestone.,"Additional details about the milestone, such as associated tasks or dependencies.",Time in months allocated for validation testing after the milestone has been reached.,The date when full production is expected to begin.
+Elexion Automotive,Vehicle Software Interface Design,Prototype Development,2024-04-01,Development of software design prototype,3,2024-07-01
+Elexion Automotive,Vehicle Software Interface Design,Finalizing Software Design,2025-03-31,"Target date for finalizing the software design, allowing 6 months for validation testing and production line integration",6,2025-10-01
+Elexion Automotive,Vehicle Software Interface Design,Production Line Integration,2025-04-01,Integration of finalized software design into production line,6,2025-10-01
+Elexion Automotive,Vehicle Software Interface Design,Prototype Testing,2024-08-01,Testing of software design prototype,2,2024-10-01
+Elexion Automotive,Vehicle Software Interface Design,Production Line Testing,2025-11-01,Testing of production line with finalized software design,1,2025-12-01
+Elexion Automotive,Vehicle Software Interface Design,Initial Planning,2024-01-01,Initial planning for software design,2,2024-03-01
+Elexion Automotive,Vehicle Software Interface Design,Design Finalization Preparation,2024-11-01,Preparation for finalizing software design,4,2025-03-01
+Elexion Automotive,Vehicle Software Interface Design,Full Production,2026-01-01,Full production with finalized software design,0,2026-01-01

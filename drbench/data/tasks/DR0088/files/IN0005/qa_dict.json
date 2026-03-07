@@ -1,0 +1,10 @@
+{
+    "insight_id": "IN0005",
+    "qa_type": "insight",
+    "qa_index": 5,
+    "specific_question": "Does MediConn plan to have a safe, separate 'test' system where they can try out the new AI tools without affecting real patient services?",
+    "answer": "Yes, Mediconn is planning to have a staging environment, which is a complete replica of their live production system but is fully isolated on separate cloud infrastructure to prevent any impact on real patient services.",
+    "justification": "This information is necessary to ensure that Mediconn can run security tests without causing downtime for their actual platform. Without this service, the whole integration of the new AI system can rupture the workflow of the current services.",
+    "timestamp": "2025-11-20 15:14",
+    "dr_question": "In alignment with Canada\u2019s new call for proposals to strengthen the country\u2019s cyber resilience and address evolving cyber threats under the 2025 Cyber Security Cooperation Program (CSCP), what are some considerations to keep in mind while integrating a new AI anomaly detection tool into MediConn's existing infrastructure by Q3 2026 without disrupting critical healthcare services?"
+}

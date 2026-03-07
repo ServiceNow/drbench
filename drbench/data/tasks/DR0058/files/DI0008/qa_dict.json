@@ -1,0 +1,10 @@
+{
+    "insight_id": "DI0008",
+    "qa_type": "distractor",
+    "qa_index": 8,
+    "specific_question": "In Q3 2025, how many internal system backup checks did the cybersecurity specialist complete for MediConn\u2019s virtual healthcare platform?",
+    "answer": "The cybersecurity specialist completed 6 internal system backup checks for MediConn\u2019s virtual healthcare platform between July 1 and September 30, 2025.",
+    "justification": "",
+    "timestamp": "2025-11-20 00:47",
+    "dr_question": "In 2026, since a ransomware attack would not be just an IT issue but a risk to every function of MediConn Solutions, what specific architectural and procedural controls would a cybersecurity specialist need to design and implement to minimize the blast radius and ensure MediConn\u2019s clinical continuity during an extended loss of services from one of their third-party providers?"
+}

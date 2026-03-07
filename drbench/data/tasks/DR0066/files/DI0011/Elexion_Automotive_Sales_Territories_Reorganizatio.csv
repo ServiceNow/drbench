@@ -1,0 +1,12 @@
+Year,Month,Person_Responsible,Number_of_Territories_Redistributed,Geographic_Coverage_Improvement,Travel_Time_Reduction_Percentage
+The year when the sales territories were reorganized,The month when the sales territories were reorganized,The person who oversaw the reorganization of sales territories,The number of sales territories that were redistributed,Whether the redistribution improved geographic coverage or not,The percentage reduction in travel time achieved due to the redistribution of sales territories
+2023,February,Grace Davis,2,False,0.04
+2024,April,Harry Thompson,1,True,0.03
+2021,July,David Brown,6,True,0.12
+2020,May,Caroline Johnson,4,False,0.08
+2025,June,Jack Harris,6,True,0.09
+2023,March,Amanda Lee,8,True,0.15
+2022,September,Emily Wilson,7,False,0.14
+2019,June,Brian Smith,5,True,0.1
+2024,May,Ivy White,5,False,0.07
+2023,January,Frank Miller,3,True,0.05

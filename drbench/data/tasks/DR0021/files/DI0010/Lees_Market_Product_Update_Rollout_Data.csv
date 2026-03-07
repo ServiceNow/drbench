@@ -1,0 +1,13 @@
+product_name,update_month_year,store_name,reason_for_delay,number_of_stores_affected
+"The name of the product that was updated. In this case, it would be 'tofu'.","The month and year when the product update was rolled out. In this case, it would be 'July 2025'.","The name of the store where the product update took place. In this case, it would be a store under 'Lee’s Market'.","The reason why there was a delay in the product update rollout. In this case, it would be 'double-checking packaging colors and labels'.","The number of stores that were affected by the delay in the product update rollout. In this case, it would be '12'."
+almond milk,2025-01,Lee’s Market,supplier issues,3
+almond milk,2025-04,Lee’s Market,product recall,6
+soy milk,2025-06,Lee’s Market,supplier issues,3
+oat milk,2025-05,Lee’s Market,repackaging,2
+tofu,2025-04,Fresh Market,labelling issues,5
+oat milk,2025-02,Lee’s Market,product recall,2
+tofu,2025-03,Lee’s Market,supplier issues,4
+tofu,2025-06,Fresh Market,double-checking packaging colors and labels,7
+tofu,2025-02,Fresh Market,labelling issues,8
+soy milk,2025-03,Lee’s Market,double-checking packaging colors and labels,1
+tofu,2025-07,Lee’s Market,double-checking packaging colors and labels,12

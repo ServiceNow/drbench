@@ -1,0 +1,184 @@
+================================================================================
+ROUNDCUBE EMAIL EXPORT
+================================================================================
+
+USERS:
+----------------------------------------
+• emily.patel
+  Name: Emily Patel
+  Email: emily.patel@mediconnsolutions.com
+
+• john.doe
+  Name: John Doe
+  Email: john.doe@mediconnsolutions.com
+
+• lucy.martin
+  Name: Lucy Martin
+  Email: lucy.martin@mediconnsolutions.com
+
+• mark.robinson
+  Name: Mark Robinson
+  Email: mark.robinson@mediconnsolutions.com
+
+• sara.johnson
+  Name: Sara Johnson
+  Email: sara.johnson@mediconnsolutions.com
+
+• tom.williams
+  Name: Tom Williams
+  Email: tom.williams@mediconnsolutions.com
+
+• kate.jones
+  Name: Kate Jones
+  Email: kate.jones@mediconnsolutions.com
+
+• michael.brown
+  Name: Michael Brown
+  Email: michael.brown@mediconnsolutions.com
+
+EMAILS:
+================================================================================
+Email ID: email_001
+Date: 2022-06-01 09:00:00
+From: Emily Patel <emily.patel@mediconnsolutions.com>
+To: john.doe@mediconnsolutions.com, lucy.martin@mediconnsolutions.com, mark.robinson@mediconnsolutions.com
+Subject: Weekly IT Service Desk Team Meeting
+Folder: inbox | Status: Read
+
+Message Body:
+----------------------------------------
+Hello Team,
+
+Please be reminded of our weekly team meeting scheduled for tomorrow. We will discuss the progress of ongoing tasks and any emerging issues.
+
+Best,
+Emily
+============================================================
+
+Email ID: email_002
+Date: 2022-06-03 11:30:00
+From: Emily Patel <emily.patel@mediconnsolutions.com>
+To: john.doe@mediconnsolutions.com, lucy.martin@mediconnsolutions.com, mark.robinson@mediconnsolutions.com
+CC: michael.brown@mediconnsolutions.com
+Subject: IT Budget Planning for Q3
+Folder: inbox | Status: Read
+
+Message Body:
+----------------------------------------
+Hello Team,
+
+We need to start planning our budget for the next quarter. Please compile your requests and estimates by the end of next week.
+
+Best,
+Emily
+============================================================
+
+Email ID: email_003
+Date: 2022-06-05 14:00:00
+From: Emily Patel <emily.patel@mediconnsolutions.com>
+To: john.doe@mediconnsolutions.com, lucy.martin@mediconnsolutions.com, mark.robinson@mediconnsolutions.com
+Subject: System Maintenance Reminder
+Folder: inbox | Status: Read
+
+Message Body:
+----------------------------------------
+Hello Team,
+
+Just a quick reminder that we have a scheduled system maintenance this weekend. Please ensure all your tasks are saved and closed before the maintenance period.
+
+Best,
+Emily
+============================================================
+
+Email ID: email_004
+Date: 2022-06-07 16:00:00
+From: Michael Brown <michael.brown@mediconnsolutions.com>
+To: emily.patel@mediconnsolutions.com
+Subject: Employee Performance Reviews
+Folder: inbox | Status: Read
+
+Message Body:
+----------------------------------------
+Hi Emily,
+
+It's time for the mid-year employee performance reviews. Could you please organize the necessary documents for your team? We aim to start the review process by next week.
+
+Best,
+Michael
+============================================================
+
+Email ID: email_005
+Date: 2022-06-10 10:00:00
+From: Emily Patel <emily.patel@mediconnsolutions.com>
+To: john.doe@mediconnsolutions.com, lucy.martin@mediconnsolutions.com, mark.robinson@mediconnsolutions.com
+CC: michael.brown@mediconnsolutions.com
+Subject: New Employee Onboarding
+Folder: inbox | Status: Read
+
+Message Body:
+----------------------------------------
+Hello Team,
+
+We will be welcoming two new members to our team next week. Please prepare any necessary onboarding materials and be ready to support them during their first few weeks.
+
+Best,
+Emily
+============================================================
+
+Email ID: email_001
+Date: 2026-01-02 09:30:00
+From: Emily Patel <emily.patel@mediconnsolutions.com>
+To: john.doe@mediconnsolutions.com
+CC: mark.robinson@mediconnsolutions.com
+Subject: AI-ITSM potential for routine task automation
+Folder: sent | Status: Read
+
+Message Body:
+----------------------------------------
+Hi John,
+
+As we discuss the possible integration of AI into our IT Service Management (ITSM), I am interested in understanding the potential scope for automation of our routine tasks. Could you provide an estimate based on our current task load and the capabilities of AI-ITSM solutions in the market?
+
+Thanks,
+Emily
+============================================================
+
+Email ID: email_002
+Date: 2026-01-03 10:00:00
+From: John Doe <john.doe@mediconnsolutions.com>
+To: emily.patel@mediconnsolutions.com
+CC: mark.robinson@mediconnsolutions.com
+Subject: RE: AI-ITSM potential for routine task automation
+Folder: sent | Status: Read
+
+Message Body:
+----------------------------------------
+Hi Emily,
+
+Based on my analysis, implementing AI into ITSM could significantly optimize our operations. According to an IT department survey conducted in May 2025, AI-integration could automate up to 95% of our routine tasks. This would aid in streamlining our workflows and reducing the workload on our IT staff.
+
+Best,
+John
+============================================================
+
+Email ID: email_003
+Date: 2026-01-03 10:30:00
+From: Emily Patel <emily.patel@mediconnsolutions.com>
+To: john.doe@mediconnsolutions.com
+CC: mark.robinson@mediconnsolutions.com
+Subject: RE: AI-ITSM potential for routine task automation
+Folder: sent | Status: Read
+
+Message Body:
+----------------------------------------
+Hi John,
+
+That's a significant amount of automation potential. This could definitely increase our service desk efficiency and effectiveness. Thanks for providing these insights.
+
+Best,
+Emily
+============================================================
+
+================================================================================
+END OF EMAIL EXPORT
+================================================================================

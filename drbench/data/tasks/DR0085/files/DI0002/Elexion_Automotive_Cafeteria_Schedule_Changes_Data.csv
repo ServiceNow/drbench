@@ -1,0 +1,12 @@
+Change_ID,Change_Description,Effect_Date,Rotation_Duration,Reason_For_Change,Department,Affected_Employees
+A unique identifier for each schedule change in the cafeteria,A brief description of the change made in the cafeteria’s meal rotation schedule,The date when the change became effective,The duration of the meal rotation cycle in weeks after the change,The justification or reason for the change in the meal rotation schedule,The department responsible for implementing the change,The estimated number of employees affected by the change
+3,Added vegan options to the menu,2022-02-15,1,To cater to vegan employees,Meal Planning,50
+9,Added gluten-free options,2021-09-01,2,To cater to gluten-sensitive employees,Meal Planning,30
+1,Meal rotation adjusted to a 3-week cycle,2022-03-01,3,To accommodate dietary diversity,Meal Planning,200
+5,Introduced breakfast tacos,2022-01-10,1,For variety in breakfast options,Meal Planning,150
+10,Revised the cafeteria opening hours,2021-08-01,1,Based on employee feedback,Operations,200
+7,Introduced international cuisine days,2021-11-01,1,For cultural diversity,Meal Planning,200
+8,Changed coffee supplier,2021-10-01,1,For better quality,Procurement,50
+2,Changed the salad bar selections,2022-02-22,1,To accommodate seasonal vegetables,Meal Planning,150
+4,Discontinued certain dessert items,2022-01-01,2,Due to low demand,Meal Planning,20
+6,Removed certain high-sodium items,2021-12-01,2,For health reasons,Meal Planning,100

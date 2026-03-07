@@ -1,0 +1,10 @@
+{
+    "insight_id": "DI0003",
+    "qa_type": "distractor",
+    "qa_index": 3,
+    "specific_question": "How many firewall rule changes did MediConn\u2019s cybersecurity specialist implement across the virtual healthcare platform between April 1 and June 30, 2025?",
+    "answer": "The cybersecurity specialist implemented 14 firewall rule changes on MediConn\u2019s virtual healthcare platform during Q2 2025, according to internal statistics.",
+    "justification": "",
+    "timestamp": "2025-11-20 00:30",
+    "dr_question": "In 2026, how can MediConn Solutions defend its virtual healthcare platform against coordinated ransomware attacks facilitated by foreign nation-state cyber threat actors, ensuring uninterrupted access to clinical systems and patient safety?"
+}

@@ -1,0 +1,12 @@
+Period_Start,Period_End,Channel,Initial_Avg_Response_Time,Final_Avg_Response_Time,Response_Time_Reduction
+The start date of the period during which the impact of Conversational AI was measured.,The end date of the period during which the impact of Conversational AI was measured.,The communication channel on which Conversational AI was used.,The average response time (in minutes) before the implementation of Conversational AI.,The average response time (in minutes) after the implementation of Conversational AI.,The percentage reduction in average response time due to the implementation of Conversational AI.
+2024-04-01,2024-06-30,Live Chat & Social Media,360,30,91.67
+2023-04-01,2023-06-30,Phone,120,60,50
+2024-07-01,2024-09-30,Email,240,60,75
+2023-01-01,2023-03-31,Email,240,60,75
+2023-10-01,2023-12-31,Social Media,300,120,60
+2025-04-01,2025-06-30,Social Media,240,120,50
+2024-10-01,2024-12-31,Phone,120,60,50
+2023-07-01,2023-09-30,Live Chat,180,90,50
+2025-01-01,2025-03-31,Live Chat,180,90,50
+2024-01-01,2024-03-31,Email & Phone,240,120,50

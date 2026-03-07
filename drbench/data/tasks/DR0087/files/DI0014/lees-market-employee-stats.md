@@ -1,0 +1,21 @@
+# Employee Statistics: Lee's Market June 2025
+
+## Introduction
+
+This report provides a detailed analysis of our workforce distribution across our wholesale and retail trade divisions at Lee's Market as of June 2025. It is imperative to understand the employee distribution in order to optimise our resources and improve operational efficiency. The data presented in this report will provide insight into our workforce landscape and aid in future strategic planning.
+
+## Overview of Employee Distribution in Lee's Market
+
+In May 2025, Lee's Market had a diverse workforce spread across various departments. The customer service department had the largest share of employees, consisting of 45% of the total workforce. The sales and logistics departments followed closely behind, accounting for 30% and 25% of the workforce respectively.
+
+## Detailed Breakdown: Wholesale & Retail Trade Divisions
+
+The wholesale and retail trade divisions at Lee's Market have shown significant growth over the past years. In 2024, the divisions showed a 10% increase in revenue compared to the previous year. The divisions also expanded their product portfolio and entered new markets in the same year.
+
+## Comparative Review of Workforce Statistics
+
+When compared to other medium-sized retail companies in the industry, Lee's Market has a higher percentage of full-time employees. As of December 2024, the company had an 80% full-time workforce, which is 10% higher than the industry average. This shows the company's commitment to providing stable employment opportunities.
+
+## Conclusion
+
+The report provides comprehensive insights into our employee distribution within the wholesale and retail divisions. This understanding will help us make informed decisions about resource allocation and strategic planning. As Lee's Market continues to grow, it is essential that we continue monitoring these trends and adapt accordingly. Further analysis could explore the factors driving these distribution trends to inform future staffing strategies.

@@ -1,0 +1,81 @@
+{
+    "file_name": "post-training-outcomes",
+    "file_title": "Warehouse Operations: Post-Training Outcomes",
+    "introduction": "This presentation provides an overview of changes recorded in warehouse operations at Lee's Market after the 2024 employee training. It aims to assess the efficacy of our training programs in improving operational efficiency.",
+    "subsections": [
+        {
+            "heading": "2024 Employee Training Overview",
+            "content": "\u2022 The training was conducted in November 2024 in all regional centers\n\u2022 The focus was on customer service, product knowledge, and store operations\n\u2022 The training was delivered in a blended format - online and in-person\n\u2022 The training was developed in-house by Lee's Market's HR and Training departments\n\u2022 Employees from all departments, including sales, cashiering, and merchandise stocking, participated in the training\n\u2022 The training was part of Lee's Market's commitment to continuous employee development\n\u2022 Feedback from the employees indicated a high level of satisfaction with the training content and delivery",
+            "type": "distractor",
+            "justification": "This content focuses on the details of the training but doesn't discuss warehouse operations or performance improvements."
+        },
+        {
+            "heading": "Key Indicators of Warehouse Performance",
+            "content": "\u2022 Monthly inventory turnover rates\n\u2022 Order accuracy rates, tracking errors in picking and packing\n\u2022 Total warehouse labor costs as a percentage of sales\n\u2022 Average warehouse capacity utilization\n\u2022 Average time to process a return\n\u2022 Rate of out-of-stock items per month\n\u2022 Percentage of warehouse space dedicated to different product categories",
+            "type": "distractor",
+            "justification": "This content discusses various warehouse performance indicators but does not reveal any specific improvements following the 2024 training."
+        },
+        {
+            "heading": "Post-Training Operational Improvements",
+            "content": "\u2022 Customer service ratings have improved by 4% in the first quarter of 2025\n\u2022 There has been a 6% increase in online sales since the beginning of 2025\n\u2022 Store cleanliness ratings have improved by 5% since the training\n\u2022 Average checkout times have reduced by 2 minutes since December 2024\n\u2022 There has been a 3% reduction in product returns in the first quarter of 2025\n\u2022 Employee turnover has reduced by 10% in the first quarter of 2025",
+            "type": "distractor",
+            "justification": "This content discusses improvements in various operational areas, but does not include information about warehouse operations or related improvements."
+        }
+    ],
+    "conclusion": "Our recent training session has made considerable improvements in warehouse operations, reflecting the value of continuous employee development. Moving forward, we must focus on areas that still need improvement and continue to invest in our training programs.",
+    "file_format": "pptx",
+    "file_path": ".llm_responses/generated_pptx_presentation.pptx",
+    "qa_type": "distractor",
+    "timestamp": "2025-12-02 14:15",
+    "image_queries": [
+        {
+            "slide_title": "Introduction",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "intentionally_clean",
+            "slide_type": "introduction"
+        },
+        {
+            "slide_title": "2024 Employee Training Overview",
+            "has_image": true,
+            "image_query": "employee training session 2024",
+            "generation_method": "strategic_placement",
+            "slide_type": "distractor",
+            "content_length": 7,
+            "total_chars": 596,
+            "forced": false,
+            "theme": "Bold Crimson"
+        },
+        {
+            "slide_title": "Key Indicators of Warehouse Performance",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 7,
+            "total_chars": 321,
+            "probability": 0.25,
+            "theme": "Bold Crimson"
+        },
+        {
+            "slide_title": "Post-Training Operational Improvements",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 6,
+            "total_chars": 419,
+            "probability": 0.25,
+            "theme": "Bold Crimson"
+        },
+        {
+            "slide_title": "Conclusion",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "strategic_clean_conclusion",
+            "slide_type": "conclusion",
+            "theme": "Bold Crimson"
+        }
+    ],
+    "app": "nextcloud"
+}

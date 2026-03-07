@@ -1,0 +1,11 @@
+Company,Country,Year,Units_Sold
+The name of the company that sold the EV units.,The country where the EV units were sold.,The year when the EV units were sold.,The number of EV units sold by the company in the mentioned country and year.
+Tesla,USA,2024,1800
+Elexion,USA,2023,1800
+Tesla,Canada,2024,1500
+Elexion,Canada,2024,1990
+Chevrolet,Canada,2024,1300
+Elexion,Canada,2023,1500
+Tesla,USA,2022,1500
+Chevrolet,USA,2022,1200
+Chevrolet,USA,2024,1600

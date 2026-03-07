@@ -1,0 +1,10 @@
+{
+    "insight_id": "DI0009",
+    "qa_type": "distractor",
+    "qa_index": 9,
+    "specific_question": "What was the increase in demand for AI-powered driver assistance systems in 2025 at Elexion Automotive?",
+    "answer": "Demand for AI-powered driver assistance systems increased by 35% in 2025 at Elexion Automotive.",
+    "justification": "The increase in demand for AI-powered driver assistance systems represents a technology adoption metric that is unrelated to battery testing protocols, EV battery endurance, or reliability.",
+    "timestamp": "2025-11-20 15:46",
+    "dr_question": "Given that one in seven new vehicles sold in Canada in 2024 were zero-emission, how can Elexion Automotive\u2019s QA team enhance cold-weather testing protocols by Q4 2026 to improve EV battery endurance and reliability in the country\u2019s key ZEV markets?"
+}

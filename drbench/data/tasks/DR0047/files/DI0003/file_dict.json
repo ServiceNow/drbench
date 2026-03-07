@@ -1,0 +1,81 @@
+{
+    "file_name": "IT-team-expansion-analysis",
+    "file_title": "IT Service Desk Team Expansion Analysis",
+    "introduction": "In this presentation, we will explore the recent expansion of our IT service desk team and its implications on our company's operations. This will aid in understanding our resources better, and help in future planning.",
+    "subsections": [
+        {
+            "heading": "Overview of IT Team Structure",
+            "content": "\u2022 The IT team at MediConn Solutions is divided into four primary divisions: Service Desk, Network Management, Software Development, and Cybersecurity\n\u2022 Our IT Service Desk team is the first point of contact for all technology-related inquiries and incidents\n\u2022 In the past year, we have seen a 15% increase in service desk ticket volume\n\u2022 The Network Management team is responsible for maintaining the company's technology infrastructure, ensuring 99.99% uptime\n\u2022 Our Software Development team focuses on building and enhancing our proprietary healthcare platforms\n\u2022 The Cybersecurity team ensures the safety of our digital assets and patient information, complying with all applicable regulations\n\u2022 Regular interdepartmental meetings are held to ensure optimum collaboration and information flow",
+            "type": "distractor",
+            "justification": "This slide provides a high-level overview of the IT team structure and doesn't include specific information about new hires in January 2025. It uses the distractor strategy of focusing on structural details."
+        },
+        {
+            "heading": "New Additions to IT Service Desk in January 2025",
+            "content": "\u2022 The new team members have diverse backgrounds, including software development, network management, and cybersecurity\n\u2022 They were hired as part of our efforts to expand our IT capabilities in response to increasing ticket volumes\n\u2022 Each new hire underwent a comprehensive induction program to familiarize them with our systems and processes\n\u2022 Regular performance reviews are scheduled for the new hires to measure their impact and help them improve\n\u2022 The IT Service Desk team now totals 35 members, up from 30 in December 2024",
+            "type": "distractor",
+            "justification": "This slide focuses on the background, induction, and performance review of the new hires, but doesn't disclose the exact number of new hires in January 2025. The distractor strategy is discussing processes and general trends."
+        },
+        {
+            "heading": "Impact of New Hires on Service Efficiency",
+            "content": "\u2022 Since the new hires joined, we've seen a 10% reduction in average ticket resolution time\n\u2022 Customer satisfaction scores have increased by 8% in the first quarter of 2025\n\u2022 The new hires have enabled us to extend our service desk operating hours to 24/7\n\u2022 We have been able to implement a new chatbot feature to handle simple inquiries, freeing up our team for more complex cases\n\u2022 The new hires have brought fresh perspectives to the team, stimulating innovation and process improvements",
+            "type": "distractor",
+            "justification": "This slide discusses the impact of the new hires on service efficiency but doesn't provide any information about the exact number of new hires in January 2025. The distractor strategy here is focusing on operational details and impact."
+        }
+    ],
+    "conclusion": "The recent expansion of our IT service desk has broadened our capabilities and increased efficiency. Moving forward, we will ensure proper resource allocation and plan for future expansions based on these insights.",
+    "file_format": "pptx",
+    "file_path": ".llm_responses/generated_pptx_presentation.pptx",
+    "qa_type": "distractor",
+    "timestamp": "2025-12-02 15:30",
+    "image_queries": [
+        {
+            "slide_title": "Introduction",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "intentionally_clean",
+            "slide_type": "introduction"
+        },
+        {
+            "slide_title": "Overview of IT Team Structure",
+            "has_image": true,
+            "image_query": "IT team structure diagram",
+            "generation_method": "strategic_placement",
+            "slide_type": "distractor",
+            "content_length": 7,
+            "total_chars": 775,
+            "forced": false,
+            "theme": "Classic Navy"
+        },
+        {
+            "slide_title": "New Additions to IT Service Desk in January 2025",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 5,
+            "total_chars": 513,
+            "probability": 0.25,
+            "theme": "Classic Navy"
+        },
+        {
+            "slide_title": "Impact of New Hires on Service Efficiency",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 5,
+            "total_chars": 475,
+            "probability": 0.25,
+            "theme": "Classic Navy"
+        },
+        {
+            "slide_title": "Conclusion",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "strategic_clean_conclusion",
+            "slide_type": "conclusion",
+            "theme": "Classic Navy"
+        }
+    ],
+    "app": "nextcloud"
+}

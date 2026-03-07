@@ -1,0 +1,10 @@
+{
+    "insight_id": "DI0011",
+    "qa_type": "distractor",
+    "qa_index": 11,
+    "specific_question": "In Q2 2025 did the cybersecurity specialist perform a design review of MediConn's dependencies on critical third-party providers?",
+    "answer": "Yes. According to internal IT records, the cybersecurity specialist conducted a design review of the architecture and integration approach for all critical third-party providers between April 1 and June 30, 2025",
+    "justification": "",
+    "timestamp": "2025-11-20 00:48",
+    "dr_question": "In 2026, since a ransomware attack would not be just an IT issue but a risk to every function of MediConn Solutions, what specific architectural and procedural controls would a cybersecurity specialist need to design and implement to minimize the blast radius and ensure MediConn\u2019s clinical continuity during an extended loss of services from one of their third-party providers?"
+}

@@ -1,0 +1,13 @@
+Time_Period,Platform,Age_Group,Bounce_Rate,Average_Session_Duration,Cart_Abandonment_Rate
+The time period during which the metrics were recorded. The time period is represented in quarters.,The platform on which the conversion funnel metrics were recorded. This can be either mobile or desktop.,"The age range of the customers whose behaviors were recorded for the metrics. This can be in the form of '18-35', '36-50', etc.",The percentage of users who leave the website after viewing only one page.,The average time users spend on the website per session. This is measured in minutes.,The percentage of users who add items to their cart but do not complete the checkout process.
+Q1 2026,Desktop,18-35,50%,3.5 minutes,70%
+Q2 2027,Mobile,36-50,45%,5 minutes,63%
+Q4 2026,Desktop,51-65,49%,4.5 minutes,64%
+Q3 2026,Mobile,18-35,46%,5 minutes,62%
+Q3 2025,Mobile & Desktop,18-35,49%,4 minutes,65%
+Q1 2027,Mobile & Desktop,18-35,47%,4 minutes,66%
+Q2 2025,Desktop,36-50,45%,6 minutes,55%
+Q3 2027,Desktop,51-65,50%,4 minutes,67%
+Q4 2025,Mobile,51-65,40%,4.5 minutes,63%
+Q2 2026,Mobile & Desktop,36-50,48%,4 minutes,65%
+Q1 2025,Mobile,18-35,37%,5 minutes,60%

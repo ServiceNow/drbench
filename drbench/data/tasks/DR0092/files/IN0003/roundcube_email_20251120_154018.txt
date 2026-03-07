@@ -1,0 +1,146 @@
+================================================================================
+ROUNDCUBE EMAIL EXPORT
+================================================================================
+
+USERS:
+----------------------------------------
+• emma.martinez
+  Name: Emma Martinez
+  Email: emma.martinez@mediconn.com
+
+• david.johnson
+  Name: David Johnson
+  Email: david.johnson@mediconn.com
+
+• sarah.williams
+  Name: Sarah Williams
+  Email: sarah.williams@mediconn.com
+
+• michael.brown
+  Name: Michael Brown
+  Email: michael.brown@mediconn.com
+
+• robert.jones
+  Name: Robert Jones
+  Email: robert.jones@mediconn.com
+
+• linda.white
+  Name: Linda White
+  Email: linda.white@mediconn.com
+
+• james.harris
+  Name: James Harris
+  Email: james.harris@mediconn.com
+
+EMAILS:
+================================================================================
+Email ID: email_001
+Date: 2022-05-02 10:00:00
+From: Emma Martinez <emma.martinez@mediconn.com>
+To: david.johnson@mediconn.com, sarah.williams@mediconn.com
+Subject: Quarterly Budget Review Meeting
+Folder: sent | Status: Read
+
+Message Body:
+----------------------------------------
+Dear Team, I hope this email finds you well. I am writing to schedule our quarterly budget review meeting for next week. Please send me your availability so we can find a suitable time for all. Best, Emma
+============================================================
+
+Email ID: email_002
+Date: 2022-05-02 11:30:00
+From: David Johnson <david.johnson@mediconn.com>
+To: emma.martinez@mediconn.com
+CC: sarah.williams@mediconn.com
+Subject: Re: Quarterly Budget Review Meeting
+Folder: sent | Status: Read
+
+Message Body:
+----------------------------------------
+Hi Emma, I am available on Tuesday and Thursday next week. Please let me know the final date and time. Regards, David
+============================================================
+
+Email ID: email_003
+Date: 2022-05-03 15:00:00
+From: Robert Jones <robert.jones@mediconn.com>
+To: emma.martinez@mediconn.com, michael.brown@mediconn.com
+CC: linda.white@mediconn.com
+Subject: Tech Support Training
+Folder: sent | Status: Read
+
+Message Body:
+----------------------------------------
+Dear Team, As part of our ongoing efforts to improve our services, we will be holding a tech support training session next month. Please reserve some time for this important session. More details will follow soon. Best, Robert
+============================================================
+
+Email ID: email_004
+Date: 2022-05-03 16:00:00
+From: Emma Martinez <emma.martinez@mediconn.com>
+To: robert.jones@mediconn.com
+CC: michael.brown@mediconn.com, linda.white@mediconn.com
+Subject: Re: Tech Support Training
+Folder: sent | Status: Read
+
+Message Body:
+----------------------------------------
+Hi Robert, Thanks for the information. I will ensure to reserve time for the training. Looking forward to more details. Best, Emma
+============================================================
+
+Email ID: email_001
+Date: 2024-12-30 15:45:00
+From: James Harris <james.harris@mediconn.com>
+To: emma.martinez@mediconn.com
+CC: david.johnson@mediconn.com, sarah.williams@mediconn.com, michael.brown@mediconn.com, robert.jones@mediconn.com, linda.white@mediconn.com
+Subject: Data Access Incidents for Indigenous Communities - 2024
+Folder: inbox | Status: Read
+
+Message Body:
+----------------------------------------
+Dear Team,
+
+As per our annual review of data access incidents, I would like to share that there were four minor incidents reported between Q2 and Q4 2024 from our Indigenous community users. These incidents involved delayed multi-factor authentication in areas with intermittent connectivity. I believe these incidents reveal systemic vulnerabilities tied to inconsistent network environments. 
+
+In light of the above, I recommend that we look into stronger offline or hybrid verification measures for our platform, especially for areas with low-connectivity.
+
+Best,
+James
+============================================================
+
+Email ID: email_002
+Date: 2024-12-30 16:20:00
+From: Emma Martinez <emma.martinez@mediconn.com>
+To: james.harris@mediconn.com
+CC: david.johnson@mediconn.com, sarah.williams@mediconn.com, michael.brown@mediconn.com, robert.jones@mediconn.com, linda.white@mediconn.com
+Subject: Re: Data Access Incidents for Indigenous Communities - 2024
+Folder: inbox | Status: Read
+
+Message Body:
+----------------------------------------
+James,
+
+Thank you for this detailed report. Given these incidents, I agree that we need to address this issue promptly. I will be coordinating with the compliance and tech teams to devise a plan to integrate additional compliance controls in our platform by Q2 2026, with a specific focus on ensuring secure authentication and patient verification for Indigenous patients in low-connectivity environments.
+
+Best,
+Emma
+============================================================
+
+Email ID: email_003
+Date: 2024-12-30 17:05:00
+From: David Johnson <david.johnson@mediconn.com>
+To: emma.martinez@mediconn.com
+CC: james.harris@mediconn.com, sarah.williams@mediconn.com, michael.brown@mediconn.com, robert.jones@mediconn.com, linda.white@mediconn.com
+Subject: Re: Data Access Incidents for Indigenous Communities - 2024
+Folder: inbox | Status: Read
+
+Message Body:
+----------------------------------------
+Emma, James,
+
+I'm glad to see this issue being addressed. I'll be happy to help facilitate discussions with the tech team to ensure we can implement the necessary controls to prevent such incidents in the future. Let's schedule a meeting in early January to start planning.
+
+Best,
+David
+============================================================
+
+================================================================================
+END OF EMAIL EXPORT
+================================================================================

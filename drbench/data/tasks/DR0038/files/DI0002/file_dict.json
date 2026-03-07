@@ -1,0 +1,29 @@
+{
+    "file_name": "press-release-policy",
+    "file_title": "Press Release Policy at Lee's Market",
+    "introduction": "As a rapidly growing enterprise, Lee's Market often finds itself in the public eye. Effective communication with the media is crucial to managing our reputation and brand image. This document provides an overview of our policy with respect to press releases, the role of corporate communications, and the process of handling media inquiries.",
+    "subsections": [
+        {
+            "heading": "Principles of Corporate Communications",
+            "content": "At Lee's Market, the principles of our corporate communications team are founded on transparency, respect, and integrity. These values guide our interactions with various stakeholders, including employees, customers, and media entities. In 2021, our team handled over 3000 internal and external communications, demonstrating our commitment to maintaining a high level of engagement within our ecosystem.",
+            "type": "distractor",
+            "justification": "This content discusses general principles, not the specific press release policy."
+        },
+        {
+            "heading": "Process of Handling Media Inquiries",
+            "content": "When it comes to handling media inquiries, Lee's Market has a dedicated media relations team. This team ensures that all media inquiries are answered within a 48-hour window, thereby maintaining a high level of responsiveness. Over the past year, the team responded to over 1500 media inquiries, up from 1300 in 2022.",
+            "type": "distractor",
+            "justification": "This content focuses on media relations, not the press release policy."
+        },
+        {
+            "heading": "Policy on Press Releases",
+            "content": "Lee's Market endeavors to leverage press releases as a tool for fostering a positive relationship with the media. Our press releases cover a wide range of topics, from store openings to new product introductions, to corporate social responsibility initiatives. In 2022, we issued press releases for over 60 unique events or initiatives.",
+            "type": "distractor",
+            "justification": "This content discusses the scope of press releases, not the specific policy."
+        }
+    ],
+    "conclusion": "Adhering to the Lee's Market press release policy ensures consistent, clear, and timely communication with the media. All employees should familiarize themselves with this policy and the associated procedures. Any questions about the policy or specific media inquiries should be directed to the Corporate Communications department. Let's continue our efforts to strengthen and protect the Lee's Market brand.",
+    "file_format": "docx",
+    "file_path": ".llm_responses/generated_docx_document.docx",
+    "app": "file_system"
+}

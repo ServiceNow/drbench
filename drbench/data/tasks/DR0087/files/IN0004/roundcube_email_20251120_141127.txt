@@ -1,0 +1,192 @@
+================================================================================
+ROUNDCUBE EMAIL EXPORT
+================================================================================
+
+USERS:
+----------------------------------------
+• tony.nguyen
+  Name: Tony Nguyen
+  Email: tony.nguyen@leesmarket.com
+
+• sarah.jones
+  Name: Sarah Jones
+  Email: sarah.jones@leesmarket.com
+
+• john.doe
+  Name: John Doe
+  Email: john.doe@leesmarket.com
+
+• linda.brown
+  Name: Linda Brown
+  Email: linda.brown@leesmarket.com
+
+• michael.johnson
+  Name: Michael Johnson
+  Email: michael.johnson@leesmarket.com
+
+• jennifer.white
+  Name: Jennifer White
+  Email: jennifer.white@leesmarket.com
+
+• david.wilson
+  Name: David Wilson
+  Email: david.wilson@leesmarket.com
+
+• mary.clark
+  Name: Mary Clark
+  Email: mary.clark@leesmarket.com
+
+EMAILS:
+================================================================================
+Email ID: email_001
+Date: 2025-08-01 09:00:00
+From: Tony Nguyen <tony.nguyen@leesmarket.com>
+To: sarah.jones@leesmarket.com, john.doe@leesmarket.com, michael.johnson@leesmarket.com
+Subject: Weekly Team Meeting Schedule
+Folder: inbox | Status: Read
+
+Message Body:
+----------------------------------------
+Hello Team, 
+
+Just a gentle reminder that our usual weekly meeting will be held this Friday at 10 am in the Conference Room. Please come prepared with your updates. 
+
+Best, 
+Tony
+============================================================
+
+Email ID: email_001
+Date: 2025-08-01 09:00:00
+From: John Doe <john.doe@leesmarket.com>
+To: tony.nguyen@leesmarket.com, michael.johnson@leesmarket.com
+CC: mary.clark@leesmarket.com
+Subject: Impact of July 2025 Retail Sales Decline
+Folder: inbox | Status: Read
+
+Message Body:
+----------------------------------------
+Hi Team,
+
+As you are aware, we experienced a 0.8% decline in retail sales in July 2025. I have been analyzing the sales data and found an interesting trend. The average order size of our Asian customers was 18% higher than that of non-Asian customers during this period.
+
+This insight might be helpful in tailoring our sales strategies to different customer segments and offset the impact of sales decline.
+
+I will continue to monitor the trends and keep you updated.
+
+Best,
+John
+============================================================
+
+Email ID: email_002
+Date: 2025-08-01 11:30:00
+From: Michael Johnson <michael.johnson@leesmarket.com>
+To: tony.nguyen@leesmarket.com, john.doe@leesmarket.com
+CC: mary.clark@leesmarket.com, david.wilson@leesmarket.com
+Subject: Re: Impact of July 2025 Retail Sales Decline
+Folder: inbox | Status: Read
+
+Message Body:
+----------------------------------------
+Hi John and Team,
+
+Thanks for the insightful data. It's evident that focusing our efforts on non-Asian customers could help us in recovering the sales. We should consider tailoring our marketing initiatives and in-store experiences to cater to their preferences and shopping habits. 
+
+Let's discuss this further in our next meeting.
+
+Best,
+Michael
+============================================================
+
+Email ID: email_003
+Date: 2025-08-01 12:00:00
+From: Tony Nguyen <tony.nguyen@leesmarket.com>
+To: michael.johnson@leesmarket.com, john.doe@leesmarket.com, david.wilson@leesmarket.com
+CC: mary.clark@leesmarket.com
+Subject: Re: Impact of July 2025 Retail Sales Decline
+Folder: inbox | Status: Read
+
+Message Body:
+----------------------------------------
+Hi Michael and Team,
+
+Thanks for the data, John. I agree with Michael's suggestion. As a sales associate, I believe personalized engagement initiatives can make a significant difference. We can start by enhancing our product recommendations and providing more personalized assistance to non-Asian customers on the floor.
+
+Let's explore this further in our meeting.
+
+Best,
+Tony
+============================================================
+
+Email ID: email_002
+Date: 2025-08-02 11:00:00
+From: David Wilson <david.wilson@leesmarket.com>
+To: tony.nguyen@leesmarket.com, michael.johnson@leesmarket.com
+Subject: New Store Policy Updates
+Folder: inbox | Status: Read
+Attachments: 1 file(s)
+
+Message Body:
+----------------------------------------
+Hi Team, 
+
+Please note that there have been some changes to our store policies regarding employee tardiness and leave requests. Please review the attached document for more details. 
+
+Best, 
+David
+============================================================
+
+Email ID: email_003
+Date: 2025-08-03 13:00:00
+From: Jennifer White <jennifer.white@leesmarket.com>
+To: tony.nguyen@leesmarket.com
+Subject: Training Session on New POS System
+Folder: inbox | Status: Read
+
+Message Body:
+----------------------------------------
+Hi Tony, 
+
+We've recently updated our Point of Sale system. A training session has been scheduled for next Monday at 9 am. Please confirm your attendance. 
+
+Best, 
+Jennifer
+============================================================
+
+Email ID: email_004
+Date: 2025-08-04 14:00:00
+From: Michael Johnson <michael.johnson@leesmarket.com>
+To: tony.nguyen@leesmarket.com, john.doe@leesmarket.com, mary.clark@leesmarket.com
+Subject: Monthly Sales Performance Report
+Folder: inbox | Status: Read
+Attachments: 1 file(s)
+
+Message Body:
+----------------------------------------
+Hi Team, 
+
+Attached is the monthly sales report for July. Please review and prepare any necessary feedback for our next meeting. 
+
+Best, 
+Michael
+============================================================
+
+Email ID: email_005
+Date: 2025-08-05 15:00:00
+From: Sarah Jones <sarah.jones@leesmarket.com>
+To: tony.nguyen@leesmarket.com, john.doe@leesmarket.com, michael.johnson@leesmarket.com, david.wilson@leesmarket.com, mary.clark@leesmarket.com
+Subject: Team Outing Next Month
+Folder: inbox | Status: Read
+
+Message Body:
+----------------------------------------
+Hello Team, 
+
+To celebrate our team's hard work over the past few months, we've planned a team outing next month. More details will follow soon. 
+
+Best, 
+Sarah
+============================================================
+
+================================================================================
+END OF EMAIL EXPORT
+================================================================================

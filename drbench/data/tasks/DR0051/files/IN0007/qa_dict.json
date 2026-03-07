@@ -1,0 +1,10 @@
+{
+    "insight_id": "IN0007",
+    "qa_type": "insight",
+    "qa_index": 7,
+    "specific_question": "When did MediConn Solutions experience peak demand for virtual consultations during 2024, and how did the system perform?",
+    "answer": "MediConn experienced peak demand during three periods in 2024: flu season (January-February), back-to-school season (August-September), and holiday illness surge (November-December). During these periods, booking system response times slowed by 60%, and the support team received 2.3 times their normal call volume. Patient complaints about system slowness increased by 145% during peak weeks.",
+    "justification": "",
+    "timestamp": "2025-11-19 23:48",
+    "dr_question": "The article published on TechTarget in January 2024 cited the MGMA's findings, showing that patient communication technology addresses digital front door issues like poor booking systems. How might MediConn Solutions enhance patient access to virtual consultations and prescription management services in Q1 2026 to reduce wait times and boost satisfaction and retention?"
+}

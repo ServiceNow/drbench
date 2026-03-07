@@ -1,0 +1,81 @@
+{
+    "file_name": "q2-2025-advertising-review",
+    "file_title": "Q2 2025 Advertising Expenditure Review",
+    "introduction": "This presentation provides an overview of our advertising expenditures in Q2 2025. It specifically focuses on our investments in various advertising channels in the U.S. market.",
+    "subsections": [
+        {
+            "heading": "Overview of Q2 2025 Advertising Budget",
+            "content": "\u2022 Lee's Market allocated 35% of its overall marketing budget to advertising in Q2 2025\n\u2022 The company increased its advertising budget by 15% compared to Q2 2024\n\u2022 The largest portion of the budget was dedicated to digital marketing initiatives\n\u2022 The budget allocation also supported several experimental advertising campaigns\n\u2022 Traditional advertising channels such as radio and television received a smaller portion of the budget\n\u2022 The budget was managed and allocated by the Marketing Department, with oversight from the Finance Department",
+            "type": "distractor",
+            "justification": "This slide gives an overview of the advertising budget but does not specify how much was spent on newspaper advertisements in the U.S. in Q2 2025. It uses a distractor strategy of discussing budget allocations without revealing specific channel expenditure."
+        },
+        {
+            "heading": "Breakdown of Advertising Channels",
+            "content": "\u2022 Digital marketing was the primary focus of Lee's Market's advertising strategy in Q2 2025\n\u2022 Social media campaigns were the most significant digital advertising channel\n\u2022 The company also invested heavily in SEO and content marketing to drive online sales\n\u2022 Traditional advertising channels such as radio and TV commercials were also used, but less frequently\n\u2022 The company also trialed new advertising channels such as podcasts and influencer partnerships\n\u2022 Outdoor advertising was used in selected areas to increase local visibility",
+            "type": "distractor",
+            "justification": "This slide breaks down the different advertising channels Lee's Market used but does not specify the amount spent on newspaper advertisements in the U.S. The distractor strategy used here is discussing channel strategy and focus areas without revealing specific expenditure details."
+        },
+        {
+            "heading": "Investment in Newspaper Advertisements",
+            "content": "\u2022 Newspaper advertisements were used to target older demographics within the market\n\u2022 The company used both national and local newspapers for its campaigns\n\u2022 The design and content of the newspaper advertisements were managed by the Marketing Department\n\u2022 The company measured the success of the newspaper campaigns through coupon redemption rates\n\u2022 Newspaper advertisements were used to promote weekly specials and events\n\u2022 The company partnered with several newspapers to get bulk advertising rates",
+            "type": "distractor",
+            "justification": "This slide discusses the strategy and focus of newspaper advertisements but does not reveal the amount spent on them in the U.S. in Q2 2025. It uses a distractor strategy of discussing procedural information and partnerships without revealing specific expenditure figures."
+        }
+    ],
+    "conclusion": "Our Q2 2025 advertising expenditure shows a diverse investment in multiple channels. Going forward, we need to closely monitor the performance of these investments to optimize our marketing strategies.",
+    "file_format": "pptx",
+    "file_path": ".llm_responses/generated_pptx_presentation.pptx",
+    "qa_type": "distractor",
+    "timestamp": "2025-11-20 19:12",
+    "image_queries": [
+        {
+            "slide_title": "Introduction",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "intentionally_clean",
+            "slide_type": "introduction"
+        },
+        {
+            "slide_title": "Overview of Q2 2025 Advertising Budget",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "failed",
+            "slide_type": "distractor",
+            "content_length": 6,
+            "total_chars": 524,
+            "error": "'str' object has no attribute 'choices'",
+            "theme": "Bold Crimson"
+        },
+        {
+            "slide_title": "Breakdown of Advertising Channels",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 6,
+            "total_chars": 519,
+            "probability": 0.25,
+            "theme": "Bold Crimson"
+        },
+        {
+            "slide_title": "Investment in Newspaper Advertisements",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 6,
+            "total_chars": 483,
+            "probability": 0.25,
+            "theme": "Bold Crimson"
+        },
+        {
+            "slide_title": "Conclusion",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "strategic_clean_conclusion",
+            "slide_type": "conclusion",
+            "theme": "Bold Crimson"
+        }
+    ],
+    "app": "nextcloud"
+}

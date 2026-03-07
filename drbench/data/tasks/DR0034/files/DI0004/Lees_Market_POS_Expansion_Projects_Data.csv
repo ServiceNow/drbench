@@ -1,0 +1,13 @@
+Project_Lead,Role,Team,Company,Project_Description,Start_Date,End_Date,Locations_Involved,Compliance_Met
+The name of the individual who led the project.,The role of the project lead in the organization.,The team that was involved in the project.,The name of the company where the project took place.,A short description of the project.,The start date of the project.,The end date of the project.,The number of locations that were involved in the project.,The compliance standards met during the project.
+Jason Wong,Information Security Manager,IT & Security,Lee's Market,Installed new POS terminals at 6 locations,2025-06-01,2025-08-31,6,PCI
+John Smith,Senior Developer,IT & Security,Mart Inc.,Developed a new POS system,2018-05-01,2018-08-01,3,ISO 27001
+Michael Johnson,IT Specialist,IT & Security,Superstore,Upgraded the company's network infrastructure,2021-06-01,2021-11-30,5,PCI
+Sarah Clarke,Project Manager,Business Development,Global Groceries,Implemented a new inventory tracking system,2020-01-01,2020-12-31,10,GDPR
+James Brown,IT Consultant,Consulting,Grocery Giant,Advised on a major IT upgrade,2021-03-01,2021-09-30,2,PCI
+Emma Wilson,Systems Analyst,IT & Security,Mega Mart,Implemented a new data backup system,2022-01-01,2022-06-30,7,GDPR
+David Jones,IT Manager,IT & Security,Big Mart,Deployed a new email system,2023-07-01,2023-11-30,4,ISO 27001
+Olivia Davis,Project Manager,Business Development,Convenience Store Chain,Managed a customer loyalty program launch,2020-06-01,2020-11-30,10,GDPR
+Sophia Taylor,Chief Information Officer,Executive Team,Mart Co.,Directed a major IT restructuring project,2024-01-01,2024-12-31,20,HIPAA
+Maria Lopez,Chief Technology Officer,Executive Team,Foods R Us,Led a digital transformation project,2019-01-01,2019-12-31,15,HIPAA
+Liam Miller,Senior Developer,IT & Security,Mart Chain,Developed a new inventory tracking system,2018-07-01,2018-12-31,5,ISO 27001

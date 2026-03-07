@@ -1,0 +1,21 @@
+# App Redesign Overview - Lee's Market 2025
+
+## Introduction
+
+As part of our continuous effort to enhance our customer app experience, we underwent a significant app redesign in April 2025. This document provides an overview of the redesign process, including Jason Wong's chosen color scheme. It aims to provide a comprehensive understanding of the design decisions made and their impact on our brand identity.
+
+## Overview of App Redesign Process
+
+The redesign process for Lee's Market app began in September 2024, led by the in-house technology team. Collaborating with the marketing and user experience departments, they undertook a comprehensive process of user research, ideation, and prototyping. The final version was tested extensively with a selected group of customers before the official launch.
+
+## Brand Identity and Color Scheme Selection
+
+The choice of color scheme is a critical aspect of maintaining brand identity during app redesigns. The marketing team worked closely with the design team to ensure the color scheme would resonate with customers and represent the Lee's Market brand effectively. Various color palettes were considered before finalizing the one that best represented the brand's ethos.
+
+## Impact of Redesign on User Engagement
+
+Post-launch, our analytics team reported a 17% increase in average session duration and a 12% rise in daily active users. The redesign also led to a significant improvement in app store ratings, pushing Lee's Market's app to a 4.6-star rating. These metrics indicate a positive impact on user engagement and satisfaction.
+
+## Conclusion
+
+The 2025 app redesign, including the new color scheme, forms a key part of Lee's Market's brand identity and digital customer experience. User engagement metrics post-redesign will inform our future design decisions. All departments are encouraged to familiarize themselves with the changes as they reflect our brand's evolution. Moving forward, we aim to continue prioritizing user-centric design in all our digital platforms.

@@ -1,0 +1,82 @@
+{
+    "file_name": "cybersecurity-training-strategy",
+    "file_title": "Cybersecurity Training Strategy for Growth",
+    "introduction": "As Lee's Market expands its footprint across US and Canada, protecting our digital infrastructure from security threats becomes paramount. This presentation outlines our strategy for implementing a robust cybersecurity awareness and training program by 2025 to mitigate risks associated with high employee turnover and seasonal hiring.",
+    "subsections": [
+        {
+            "heading": "Current State of Cybersecurity at Lee's Market",
+            "content": "\u2022 During the peak holiday season in December 2024, a security training gap was observed as only slightly above half of the new hires were onboarded with cybersecurity training before they received system access.\n\u2022 This lack of comprehensive training for 47% of new hires during the busiest retail period potentially exposes Lee's Market to increased cybersecurity risks.\n\u2022 The current training process is inconsistent with industry trends, where 78% of temporary retail employees do not receive social engineering training.\n\u2022 The gaps in safe internet, social media usage guidance, and mock email phishing training are of particular concern, given VikingCloud's report indicating an industry-wide lack of these critical training components.\n\u2022 This situation is exacerbated by the fact that 52% of retailers report inadequate internal IT resources to keep up with the evolving cyberattack methods.\n\u2022 The current state of cybersecurity training not only poses a threat to the operational security but also hinders our growth in the U.S. and Canadian markets.\n\u2022 A strategic shift in our approach to cybersecurity training is required to ensure the security of our digital and operational infrastructure.",
+            "type": "insight",
+            "justification": "This content highlights the existing gaps in cybersecurity training at Lee's Market, emphasizing the need for a new cybersecurity awareness and training program to mitigate security risks."
+        },
+        {
+            "heading": "Challenges in Maintaining Cybersecurity Amidst High Employee Turnover",
+            "content": "\u2022 Temporary employees constitute 35% of our workforce annually\n\u2022 Training temporary employees on cybersecurity best practices is a time-consuming process\n\u2022 30% of reported incidents involved temporary employees in 2024\n\u2022 The high turnover rate affects the consistency of our security measures\n\u2022 We've seen a rise in phishing attacks targeting temporary employees\n\u2022 Employee churn increases the risk of internal threats and data leaks",
+            "type": "distractor",
+            "justification": "This content discusses the issues with high employee turnover but doesn't detail how to design and implement a training program, as asked in the DR Question."
+        },
+        {
+            "heading": "Designing a Cybersecurity Training Program for Sustainable Growth",
+            "content": "\u2022 The training program will be developed in line with industry best practices\n\u2022 Partnerships with external cybersecurity training providers are being considered\n\u2022 Aiming to implement regular training sessions for all new hires\n\u2022 Considering an annual refresher course for all employees\n\u2022 Plans to develop micro-learning modules for easy access and learning\n\u2022 The cost of developing the training program is estimated to be around $1.5M",
+            "type": "distractor",
+            "justification": "This slide talks about general steps to design a training program, but doesn't provide specific details on mitigating risks or minimizing incidents, which is the focus of the DR Question."
+        }
+    ],
+    "conclusion": "Implementing a robust cybersecurity training program is key to safeguarding our digital infrastructure as we grow. Next steps include detailed planning, securing budget approvals, and initiating pilot training sessions in select stores.",
+    "file_format": "pptx",
+    "file_path": ".llm_responses/generated_pptx_presentation.pptx",
+    "qa_type": "insight",
+    "timestamp": "2025-11-19 10:37",
+    "image_queries": [
+        {
+            "slide_title": "Introduction",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "intentionally_clean",
+            "slide_type": "introduction"
+        },
+        {
+            "slide_title": "Current State of Cybersecurity at Lee's Market",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "failed",
+            "slide_type": "insight",
+            "content_length": 7,
+            "total_chars": 1180,
+            "error": "'str' object has no attribute 'choices'",
+            "theme": "Elegant Teal"
+        },
+        {
+            "slide_title": "Challenges in Maintaining Cybersecurity Amidst High Employee Turnover",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 6,
+            "total_chars": 416,
+            "probability": 0.25,
+            "theme": "Elegant Teal"
+        },
+        {
+            "slide_title": "Designing a Cybersecurity Training Program for Sustainable Growth",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 6,
+            "total_chars": 417,
+            "probability": 0.25,
+            "theme": "Elegant Teal"
+        },
+        {
+            "slide_title": "Conclusion",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "conclusion_failed",
+            "slide_type": "conclusion",
+            "error": "'str' object has no attribute 'choices'",
+            "theme": "Elegant Teal"
+        }
+    ],
+    "app": "file_system"
+}

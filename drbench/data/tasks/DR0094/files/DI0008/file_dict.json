@@ -1,0 +1,236 @@
+{
+    "file_name": "roundcube_email_20251120_173654",
+    "content": "{\"type\": \"user\", \"username\": \"daniel.kim\", \"first_name\": \"Daniel\", \"last_name\": \"Kim\", \"email\": \"daniel.kim@mediconnsolutions.com\", \"password\": \"secure_password1\"}\n{\"type\": \"user\", \"username\": \"laura.johnson\", \"first_name\": \"Laura\", \"last_name\": \"Johnson\", \"email\": \"laura.johnson@mediconnsolutions.com\", \"password\": \"secure_password2\"}\n{\"type\": \"user\", \"username\": \"michael.lee\", \"first_name\": \"Michael\", \"last_name\": \"Lee\", \"email\": \"michael.lee@mediconnsolutions.com\", \"password\": \"secure_password3\"}\n{\"type\": \"user\", \"username\": \"susan.brown\", \"first_name\": \"Susan\", \"last_name\": \"Brown\", \"email\": \"susan.brown@mediconnsolutions.com\", \"password\": \"secure_password4\"}\n{\"type\": \"user\", \"username\": \"paul.miller\", \"first_name\": \"Paul\", \"last_name\": \"Miller\", \"email\": \"paul.miller@mediconnsolutions.com\", \"password\": \"secure_password5\"}\n{\"type\": \"user\", \"username\": \"jessica.williams\", \"first_name\": \"Jessica\", \"last_name\": \"Williams\", \"email\": \"jessica.williams@mediconnsolutions.com\", \"password\": \"secure_password6\"}\n{\"type\": \"user\", \"username\": \"robert.garcia\", \"first_name\": \"Robert\", \"last_name\": \"Garcia\", \"email\": \"robert.garcia@mediconnsolutions.com\", \"password\": \"secure_password7\"}\n{\"type\": \"user\", \"username\": \"linda.martinez\", \"first_name\": \"Linda\", \"last_name\": \"Martinez\", \"email\": \"linda.martinez@mediconnsolutions.com\", \"password\": \"secure_password8\"}\n{\"type\": \"email\", \"id\": \"email_001\", \"subject\": \"Weekly Team Meeting Agenda\", \"from\": \"daniel.kim@mediconnsolutions.com\", \"from_name\": \"Daniel Kim\", \"to\": [\"laura.johnson@mediconnsolutions.com\", \"michael.lee@mediconnsolutions.com\", \"susan.brown@mediconnsolutions.com\", \"paul.miller@mediconnsolutions.com\", \"jessica.williams@mediconnsolutions.com\", \"robert.garcia@mediconnsolutions.com\", \"linda.martinez@mediconnsolutions.com\"], \"cc\": [], \"date\": \"2026-02-13 08:30:00\", \"body\": \"Team,\\n\\nPlease find attached the agenda for our weekly team meeting. Let me know if you have any items to add or modify.\\n\\nBest,\\nDaniel\", \"folder\": \"sent\", \"read\": true, \"attachments\": [\"Team_Meeting_Agenda.docx\"]}\n{\"type\": \"email\", \"id\": \"email_002\", \"subject\": \"Project Titan Update\", \"from\": \"laura.johnson@mediconnsolutions.com\", \"from_name\": \"Laura Johnson\", \"to\": [\"daniel.kim@mediconnsolutions.com\"], \"cc\": [], \"date\": \"2026-02-14 09:15:00\", \"body\": \"Hi Daniel,\\n\\nProject Titan is on schedule and we've just achieved our latest milestone. I'll share a detailed update during our team meeting.\\n\\nBest,\\nLaura\", \"folder\": \"sent\", \"read\": true, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_003\", \"subject\": \"Customer Satisfaction Survey Results\", \"from\": \"michael.lee@mediconnsolutions.com\", \"from_name\": \"Michael Lee\", \"to\": [\"daniel.kim@mediconnsolutions.com\"], \"cc\": [], \"date\": \"2026-02-15 10:00:00\", \"body\": \"Daniel,\\n\\nPlease find attached the results of our latest customer satisfaction survey. The feedback is generally positive but there are areas we can improve.\\n\\nBest,\\nMichael\", \"folder\": \"sent\", \"read\": true, \"attachments\": [\"Customer_Satisfaction_Survey_Results.pdf\"]}\n{\"type\": \"email\", \"id\": \"email_004\", \"subject\": \"Budget Planning Meeting\", \"from\": \"susan.brown@mediconnsolutions.com\", \"from_name\": \"Susan Brown\", \"to\": [\"daniel.kim@mediconnsolutions.com\"], \"cc\": [], \"date\": \"2026-02-16 10:30:00\", \"body\": \"Hi Daniel,\\n\\nI've scheduled a meeting for next week to discuss our budget planning for the next quarter. Please refer to the attached for the preliminary figures.\\n\\nBest,\\nSusan\", \"folder\": \"sent\", \"read\": true, \"attachments\": [\"Preliminary_Budget_Planning.xlsx\"]}\n{\"type\": \"email\", \"id\": \"email_005\", \"subject\": \"Employee Health and Wellness Webinar\", \"from\": \"jessica.williams@mediconnsolutions.com\", \"from_name\": \"Jessica Williams\", \"to\": [\"daniel.kim@mediconnsolutions.com\"], \"cc\": [], \"date\": \"2026-02-17 11:00:00\", \"body\": \"Daniel,\\n\\nWe're hosting a webinar next month on health and wellness for our employees. I've attached a draft of the announcement. Please let me know if any changes are needed.\\n\\nBest,\\nJessica\", \"folder\": \"sent\", \"read\": true, \"attachments\": [\"Employee_Health_and_Wellness_Webinar_Announcement.docx\"]}\n{\"type\": \"email\", \"id\": \"email_001\", \"subject\": \"Cybersecurity Optimization Plan for FY2026\", \"from\": \"daniel.kim@mediconnsolutions.com\", \"from_name\": \"Daniel Kim\", \"to\": [\"laura.johnson@mediconnsolutions.com\", \"michael.lee@mediconnsolutions.com\"], \"cc\": [\"susan.brown@mediconnsolutions.com\"], \"date\": \"2026-01-04 09:30:00\", \"body\": \"Team, \\n\\nAs you are aware, our priority for FY2026 is to optimize cybersecurity and data protection in line with the healthcare industry's growing focus on digital engagement and operational efficiency. I am currently working on a detailed plan, but I require some additional data. \\n\\nLaura, could you provide me with the total expenditure on our marketing campaigns in FY2025? This will help us understand where we can potentially redirect funds for our cybersecurity initiatives. \\n\\nThanks in advance, \\n\\nDaniel Kim\", \"folder\": \"sent\", \"read\": true, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_002\", \"subject\": \"Re: Cybersecurity Optimization Plan for FY2026\", \"from\": \"laura.johnson@mediconnsolutions.com\", \"from_name\": \"Laura Johnson\", \"to\": [\"daniel.kim@mediconnsolutions.com\", \"michael.lee@mediconnsolutions.com\"], \"cc\": [\"susan.brown@mediconnsolutions.com\"], \"date\": \"2026-01-04 10:15:00\", \"body\": \"Daniel, \\n\\nThanks for your email. Our total expenditure on marketing campaigns in FY2025 was $2.4 million CAD. Please let me know if you need any further information. \\n\\nBest, \\n\\nLaura Johnson\", \"folder\": \"sent\", \"read\": true, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_003\", \"subject\": \"Re: Cybersecurity Optimization Plan for FY2026\", \"from\": \"daniel.kim@mediconnsolutions.com\", \"from_name\": \"Daniel Kim\", \"to\": [\"laura.johnson@mediconnsolutions.com\", \"michael.lee@mediconnsolutions.com\"], \"cc\": [\"susan.brown@mediconnsolutions.com\"], \"date\": \"2026-01-04 10:30:00\", \"body\": \"Laura, \\n\\nThanks for the prompt response. This data will be helpful in formulating our cybersecurity optimization plan. I'll share the draft plan with everyone once it's ready. In the meantime, let's continue to prioritize data protection and cybersecurity in all our operations. \\n\\nBest, \\n\\nDaniel Kim\", \"folder\": \"sent\", \"read\": true, \"attachments\": []}",
+    "email_setup": [
+        {
+            "type": "user",
+            "username": "daniel.kim",
+            "first_name": "Daniel",
+            "last_name": "Kim",
+            "email": "daniel.kim@mediconnsolutions.com",
+            "password": "secure_password1"
+        },
+        {
+            "type": "user",
+            "username": "laura.johnson",
+            "first_name": "Laura",
+            "last_name": "Johnson",
+            "email": "laura.johnson@mediconnsolutions.com",
+            "password": "secure_password2"
+        },
+        {
+            "type": "user",
+            "username": "michael.lee",
+            "first_name": "Michael",
+            "last_name": "Lee",
+            "email": "michael.lee@mediconnsolutions.com",
+            "password": "secure_password3"
+        },
+        {
+            "type": "user",
+            "username": "susan.brown",
+            "first_name": "Susan",
+            "last_name": "Brown",
+            "email": "susan.brown@mediconnsolutions.com",
+            "password": "secure_password4"
+        },
+        {
+            "type": "user",
+            "username": "paul.miller",
+            "first_name": "Paul",
+            "last_name": "Miller",
+            "email": "paul.miller@mediconnsolutions.com",
+            "password": "secure_password5"
+        },
+        {
+            "type": "user",
+            "username": "jessica.williams",
+            "first_name": "Jessica",
+            "last_name": "Williams",
+            "email": "jessica.williams@mediconnsolutions.com",
+            "password": "secure_password6"
+        },
+        {
+            "type": "user",
+            "username": "robert.garcia",
+            "first_name": "Robert",
+            "last_name": "Garcia",
+            "email": "robert.garcia@mediconnsolutions.com",
+            "password": "secure_password7"
+        },
+        {
+            "type": "user",
+            "username": "linda.martinez",
+            "first_name": "Linda",
+            "last_name": "Martinez",
+            "email": "linda.martinez@mediconnsolutions.com",
+            "password": "secure_password8"
+        }
+    ],
+    "email_messages": [
+        {
+            "type": "email",
+            "id": "email_001",
+            "subject": "Weekly Team Meeting Agenda",
+            "from": "daniel.kim@mediconnsolutions.com",
+            "from_name": "Daniel Kim",
+            "to": [
+                "laura.johnson@mediconnsolutions.com",
+                "michael.lee@mediconnsolutions.com",
+                "susan.brown@mediconnsolutions.com",
+                "paul.miller@mediconnsolutions.com",
+                "jessica.williams@mediconnsolutions.com",
+                "robert.garcia@mediconnsolutions.com",
+                "linda.martinez@mediconnsolutions.com"
+            ],
+            "cc": [],
+            "date": "2026-02-13 08:30:00",
+            "body": "Team,\n\nPlease find attached the agenda for our weekly team meeting. Let me know if you have any items to add or modify.\n\nBest,\nDaniel",
+            "folder": "sent",
+            "read": true,
+            "attachments": [
+                "Team_Meeting_Agenda.docx"
+            ],
+            "tag": "distractor"
+        },
+        {
+            "type": "email",
+            "id": "email_002",
+            "subject": "Project Titan Update",
+            "from": "laura.johnson@mediconnsolutions.com",
+            "from_name": "Laura Johnson",
+            "to": [
+                "daniel.kim@mediconnsolutions.com"
+            ],
+            "cc": [],
+            "date": "2026-02-14 09:15:00",
+            "body": "Hi Daniel,\n\nProject Titan is on schedule and we've just achieved our latest milestone. I'll share a detailed update during our team meeting.\n\nBest,\nLaura",
+            "folder": "sent",
+            "read": true,
+            "attachments": [],
+            "tag": "distractor"
+        },
+        {
+            "type": "email",
+            "id": "email_003",
+            "subject": "Customer Satisfaction Survey Results",
+            "from": "michael.lee@mediconnsolutions.com",
+            "from_name": "Michael Lee",
+            "to": [
+                "daniel.kim@mediconnsolutions.com"
+            ],
+            "cc": [],
+            "date": "2026-02-15 10:00:00",
+            "body": "Daniel,\n\nPlease find attached the results of our latest customer satisfaction survey. The feedback is generally positive but there are areas we can improve.\n\nBest,\nMichael",
+            "folder": "sent",
+            "read": true,
+            "attachments": [
+                "Customer_Satisfaction_Survey_Results.pdf"
+            ],
+            "tag": "distractor"
+        },
+        {
+            "type": "email",
+            "id": "email_004",
+            "subject": "Budget Planning Meeting",
+            "from": "susan.brown@mediconnsolutions.com",
+            "from_name": "Susan Brown",
+            "to": [
+                "daniel.kim@mediconnsolutions.com"
+            ],
+            "cc": [],
+            "date": "2026-02-16 10:30:00",
+            "body": "Hi Daniel,\n\nI've scheduled a meeting for next week to discuss our budget planning for the next quarter. Please refer to the attached for the preliminary figures.\n\nBest,\nSusan",
+            "folder": "sent",
+            "read": true,
+            "attachments": [
+                "Preliminary_Budget_Planning.xlsx"
+            ],
+            "tag": "distractor"
+        },
+        {
+            "type": "email",
+            "id": "email_005",
+            "subject": "Employee Health and Wellness Webinar",
+            "from": "jessica.williams@mediconnsolutions.com",
+            "from_name": "Jessica Williams",
+            "to": [
+                "daniel.kim@mediconnsolutions.com"
+            ],
+            "cc": [],
+            "date": "2026-02-17 11:00:00",
+            "body": "Daniel,\n\nWe're hosting a webinar next month on health and wellness for our employees. I've attached a draft of the announcement. Please let me know if any changes are needed.\n\nBest,\nJessica",
+            "folder": "sent",
+            "read": true,
+            "attachments": [
+                "Employee_Health_and_Wellness_Webinar_Announcement.docx"
+            ],
+            "tag": "distractor"
+        },
+        {
+            "type": "email",
+            "id": "email_001",
+            "subject": "Cybersecurity Optimization Plan for FY2026",
+            "from": "daniel.kim@mediconnsolutions.com",
+            "from_name": "Daniel Kim",
+            "to": [
+                "laura.johnson@mediconnsolutions.com",
+                "michael.lee@mediconnsolutions.com"
+            ],
+            "cc": [
+                "susan.brown@mediconnsolutions.com"
+            ],
+            "date": "2026-01-04 09:30:00",
+            "body": "Team, \n\nAs you are aware, our priority for FY2026 is to optimize cybersecurity and data protection in line with the healthcare industry's growing focus on digital engagement and operational efficiency. I am currently working on a detailed plan, but I require some additional data. \n\nLaura, could you provide me with the total expenditure on our marketing campaigns in FY2025? This will help us understand where we can potentially redirect funds for our cybersecurity initiatives. \n\nThanks in advance, \n\nDaniel Kim",
+            "folder": "sent",
+            "read": true,
+            "attachments": [],
+            "tag": "insight"
+        },
+        {
+            "type": "email",
+            "id": "email_002",
+            "subject": "Re: Cybersecurity Optimization Plan for FY2026",
+            "from": "laura.johnson@mediconnsolutions.com",
+            "from_name": "Laura Johnson",
+            "to": [
+                "daniel.kim@mediconnsolutions.com",
+                "michael.lee@mediconnsolutions.com"
+            ],
+            "cc": [
+                "susan.brown@mediconnsolutions.com"
+            ],
+            "date": "2026-01-04 10:15:00",
+            "body": "Daniel, \n\nThanks for your email. Our total expenditure on marketing campaigns in FY2025 was $2.4 million CAD. Please let me know if you need any further information. \n\nBest, \n\nLaura Johnson",
+            "folder": "sent",
+            "read": true,
+            "attachments": [],
+            "tag": "insight"
+        },
+        {
+            "type": "email",
+            "id": "email_003",
+            "subject": "Re: Cybersecurity Optimization Plan for FY2026",
+            "from": "daniel.kim@mediconnsolutions.com",
+            "from_name": "Daniel Kim",
+            "to": [
+                "laura.johnson@mediconnsolutions.com",
+                "michael.lee@mediconnsolutions.com"
+            ],
+            "cc": [
+                "susan.brown@mediconnsolutions.com"
+            ],
+            "date": "2026-01-04 10:30:00",
+            "body": "Laura, \n\nThanks for the prompt response. This data will be helpful in formulating our cybersecurity optimization plan. I'll share the draft plan with everyone once it's ready. In the meantime, let's continue to prioritize data protection and cybersecurity in all our operations. \n\nBest, \n\nDaniel Kim",
+            "folder": "sent",
+            "read": true,
+            "attachments": [],
+            "tag": "insight"
+        }
+    ],
+    "file_format": "jsonl",
+    "file_path": ".llm_responses/generated_email_document.jsonl",
+    "qa_type": "distractor",
+    "timestamp": "2025-11-20 18:36",
+    "app": "email"
+}

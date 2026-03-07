@@ -1,0 +1,10 @@
+{
+    "insight_id": "DI0005",
+    "qa_type": "distractor",
+    "qa_index": 5,
+    "specific_question": "As of Q2 2025, how many warehouses does Lee's Market have in the state of New York, U.S.?",
+    "answer": "As of Q2 2025, Lee's Market has 2 warehouses in the state of New York, U.S.",
+    "justification": "The number of warehouses in the state of New York, U.S., is unrelated to the optimization of the bakery area layout of Lee's Market to increase bakery sales.",
+    "timestamp": "2025-11-20 19:13",
+    "dr_question": "As per the report by the U.S. Census Bureau's indication of a rise in food service sales since August 2024, how can Lee\u2019s Market optimize in-store layouts and product displays across its U.S. locations to increase bakery sales by 15% by the end of Q1 2026?"
+}

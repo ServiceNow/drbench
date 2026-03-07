@@ -1,0 +1,81 @@
+{
+    "file_name": "knowledge-management-impact",
+    "file_title": "Knowledge Management Impact on Content Creation",
+    "introduction": "This presentation evaluates the impact of the knowledge management team's efforts in refining the process repository access in February 2025. We specifically focus on its influence on the content creation process within the marketing department.",
+    "subsections": [
+        {
+            "heading": "Exploring the Process Repository Enhancements",
+            "content": "\u2022 The repository underwent an interface overhaul for increased user-friendliness\n\u2022 Enhanced search capabilities were implemented to quickly locate resources\n\u2022 The new information architecture was based on the ISO 15489 Records Management standard\n\u2022 A digital rights management system was integrated to protect intellectual property\n\u2022 An automated system for document version control was introduced\n\u2022 A dedicated team was assigned to ensure the repository's regular maintenance and updates",
+            "type": "distractor",
+            "justification": "This slide discusses the technical aspects of the repository enhancements, not the impact on the marketing department's content creation process"
+        },
+        {
+            "heading": "Content Creation: Pre and Post Implementation",
+            "content": "\u2022 Prior to the update, the average time spent on locating resources was 45 minutes\n\u2022 The number of unique daily users of the repository increased by 30% post-update\n\u2022 The amount of redundant content creation has been reduced by an estimated 70%\n\u2022 Repository downtime decreased from 2 hours monthly to 10 minutes\n\u2022 The average time for creating new content has decreased by 2 hours post enhancements",
+            "type": "distractor",
+            "justification": "This slide focuses on general effects of the implementation, but does not mention the marketing department's feedback"
+        },
+        {
+            "heading": "Marketing Staff Feedback on Process Changes",
+            "content": "\u2022 The new repository received a user satisfaction rate of 88% in the first quarter\n\u2022 Marketing employees report a 30% increase in collaborative projects\n\u2022 The marketing team reported a 15% increase in productivity post implementation\n\u2022 Staff training on the new repository took an average of 1.5 hours per employee\n\u2022 The most appreciated feature among marketing staff was the improved search function",
+            "type": "distractor",
+            "justification": "The slide does not give information on how marketing staff felt about content creation process improvements specifically after February 2025"
+        }
+    ],
+    "conclusion": "The improvements to our process repository have significantly positively impacted our content creation process. Moving forward, we will continue to refine our knowledge management strategies to further enhance efficiency and effectiveness across all departments.",
+    "file_format": "pptx",
+    "file_path": ".llm_responses/generated_pptx_presentation.pptx",
+    "qa_type": "distractor",
+    "timestamp": "2025-12-02 14:16",
+    "image_queries": [
+        {
+            "slide_title": "Introduction",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "intentionally_clean",
+            "slide_type": "introduction"
+        },
+        {
+            "slide_title": "Exploring the Process Repository Enhancements",
+            "has_image": true,
+            "image_query": "modern user interface design",
+            "generation_method": "strategic_placement",
+            "slide_type": "distractor",
+            "content_length": 6,
+            "total_chars": 471,
+            "forced": false,
+            "theme": "Corporate Blue"
+        },
+        {
+            "slide_title": "Content Creation: Pre and Post Implementation",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 5,
+            "total_chars": 384,
+            "probability": 0.25,
+            "theme": "Corporate Blue"
+        },
+        {
+            "slide_title": "Marketing Staff Feedback on Process Changes",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 5,
+            "total_chars": 386,
+            "probability": 0.25,
+            "theme": "Corporate Blue"
+        },
+        {
+            "slide_title": "Conclusion",
+            "has_image": true,
+            "image_query": "business process improvement graphic",
+            "generation_method": "strategic_conclusion",
+            "slide_type": "conclusion",
+            "theme": "Corporate Blue"
+        }
+    ],
+    "app": "file_system"
+}

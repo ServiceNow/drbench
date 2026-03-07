@@ -1,0 +1,191 @@
+================================================================================
+ROUNDCUBE EMAIL EXPORT
+================================================================================
+
+USERS:
+----------------------------------------
+• ethan.smith
+  Name: Ethan Smith
+  Email: ethan.smith@elexionautomotive.com
+
+• jennifer.jones
+  Name: Jennifer Jones
+  Email: jennifer.jones@elexionautomotive.com
+
+• michael.brown
+  Name: Michael Brown
+  Email: michael.brown@elexionautomotive.com
+
+• samantha.wilson
+  Name: Samantha Wilson
+  Email: samantha.wilson@elexionautomotive.com
+
+• robert.garcia
+  Name: Robert Garcia
+  Email: robert.garcia@elexionautomotive.com
+
+• elizabeth.lee
+  Name: Elizabeth Lee
+  Email: elizabeth.lee@elexionautomotive.com
+
+• david.miller
+  Name: David Miller
+  Email: david.miller@elexionautomotive.com
+
+• mary.moore
+  Name: Mary Moore
+  Email: mary.moore@elexionautomotive.com
+
+EMAILS:
+================================================================================
+Email ID: email_001
+Date: 2022-09-15 10:00:00
+From: Ethan Smith <ethan.smith@elexionautomotive.com>
+To: jennifer.jones@elexionautomotive.com
+Subject: Weekly QA Team Meeting
+Folder: sent | Status: Read
+
+Message Body:
+----------------------------------------
+Hi Jennifer,
+
+Please be reminded of our weekly QA team meeting scheduled for today at 2pm in the conference room. We will be discussing this week's quality inspection results and any new issues that have arisen.
+
+See you there,
+Ethan
+============================================================
+
+Email ID: email_002
+Date: 2022-09-16 09:30:00
+From: Mary Moore <mary.moore@elexionautomotive.com>
+To: ethan.smith@elexionautomotive.com
+Subject: Updated Employee Handbook
+Folder: inbox | Status: Unread
+
+Message Body:
+----------------------------------------
+Dear Ethan,
+
+We have updated the Employee Handbook to include new policies on remote work and office safety. Please take a moment to review these changes.
+
+Best Regards,
+Mary
+============================================================
+
+Email ID: email_003
+Date: 2022-09-17 13:00:00
+From: Samantha Wilson <samantha.wilson@elexionautomotive.com>
+To: ethan.smith@elexionautomotive.com
+Subject: EV Industry Seminar
+Folder: inbox | Status: Unread
+
+Message Body:
+----------------------------------------
+Ethan,
+
+The EV Industry Seminar is coming up next month. This will be a great opportunity for us to network and learn more about the latest trends in the industry. Please let me know if you're interested in attending.
+
+Best,
+Samantha
+============================================================
+
+Email ID: email_004
+Date: 2022-09-18 15:30:00
+From: David Miller <david.miller@elexionautomotive.com>
+To: ethan.smith@elexionautomotive.com
+Subject: Quarterly Budget Planning
+Folder: inbox | Status: Unread
+
+Message Body:
+----------------------------------------
+Hi Ethan,
+
+I am in the process of preparing the budget for the next quarter. Can you provide the estimated expenses for the Quality Assurance department?
+
+Best,
+David
+============================================================
+
+Email ID: email_005
+Date: 2022-09-19 09:00:00
+From: Mary Moore <mary.moore@elexionautomotive.com>
+To: ethan.smith@elexionautomotive.com
+Subject: Employee Satisfaction Survey
+Folder: inbox | Status: Unread
+
+Message Body:
+----------------------------------------
+Dear Ethan,
+
+Please take a few minutes to complete the Employee Satisfaction Survey. Your feedback is important to us and helps us improve the overall working environment at Elexion Automotive.
+
+Best Regards,
+Mary
+============================================================
+
+Email ID: email_001
+Date: 2024-07-10 14:20:00
+From: Ethan Smith <ethan.smith@elexionautomotive.com>
+To: michael.brown@elexionautomotive.com
+CC: jennifer.jones@elexionautomotive.com
+Subject: Q2 2024 Testing Results and Recommendations
+Folder: sent | Status: Read
+
+Message Body:
+----------------------------------------
+Hi Michael,
+
+I hope this message finds you well. I wanted to share with you the results from our Q2 2024 testing. Our team has been working diligently to improve the quality and reliability of our electric vehicles. I'm pleased to share that we've made significant progress.
+
+One of our standout metrics is the interior noise level. During our testing at 70 mph highway speed, we achieved a noise level of 55 dB. This is a great improvement and signifies our efforts in enhancing customer comfort and driving experience.
+
+I believe this improvement will greatly contribute to our goal of reducing the 30% higher control/display problem rate for EVs. The reduced noise level can enhance the user experience and potentially contribute to achieving PP100 scores below the 266 EV average.
+
+I will be sharing a comprehensive report with further insights soon. Let's discuss these results and plan the next steps.
+
+Best,
+Ethan
+============================================================
+
+Email ID: email_002
+Date: 2024-07-11 09:15:00
+From: Michael Brown <michael.brown@elexionautomotive.com>
+To: ethan.smith@elexionautomotive.com
+CC: jennifer.jones@elexionautomotive.com
+Subject: RE: Q2 2024 Testing Results and Recommendations
+Folder: inbox | Status: Read
+
+Message Body:
+----------------------------------------
+Hi Ethan,
+
+Thank you for the update. The reduction in noise level is indeed a notable achievement. I agree that it can contribute to enhancing the user experience and reducing the control/display problem rate.
+
+I look forward to discussing the comprehensive report and planning our next steps. We need to keep this momentum going as we work towards our 2026 EV models.
+
+Best,
+Michael
+============================================================
+
+Email ID: email_003
+Date: 2024-07-11 10:30:00
+From: Jennifer Jones <jennifer.jones@elexionautomotive.com>
+To: ethan.smith@elexionautomotive.com, michael.brown@elexionautomotive.com
+Subject: RE: Q2 2024 Testing Results and Recommendations
+Folder: inbox | Status: Read
+
+Message Body:
+----------------------------------------
+Hi Ethan and Michael,
+
+I've also reviewed the results and couldn't agree more. The reduction in noise level is a significant step forward in our quest to improve the overall customer experience.
+
+Ethan, could we arrange a meeting to discuss the full report? I'd love to understand more about the testing process and how we can continue these improvements.
+
+Best,
+Jennifer
+============================================================
+
+================================================================================
+END OF EMAIL EXPORT
+================================================================================

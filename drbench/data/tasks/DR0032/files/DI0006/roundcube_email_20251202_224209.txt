@@ -1,0 +1,169 @@
+================================================================================
+ROUNDCUBE EMAIL EXPORT
+================================================================================
+
+USERS:
+----------------------------------------
+• sofia.rodriguez
+  Name: Sofia Rodriguez
+  Email: sofia.rodriguez@elexionauto.com
+
+• john.doe
+  Name: John Doe
+  Email: john.doe@elexionauto.com
+
+• emily.brown
+  Name: Emily Brown
+  Email: emily.brown@elexionauto.com
+
+• william.johnson
+  Name: William Johnson
+  Email: william.johnson@elexionauto.com
+
+• claire.martin
+  Name: Claire Martin
+  Email: claire.martin@elexionauto.com
+
+• robert.thompson
+  Name: Robert Thompson
+  Email: robert.thompson@elexionauto.com
+
+• linda.garcia
+  Name: Linda Garcia
+  Email: linda.garcia@elexionauto.com
+
+EMAILS:
+================================================================================
+Email ID: email_001
+Date: 2022-02-15 10:15:00
+From: Sofia Rodriguez <sofia.rodriguez@elexionauto.com>
+To: john.doe@elexionauto.com, emily.brown@elexionauto.com, william.johnson@elexionauto.com, claire.martin@elexionauto.com, robert.thompson@elexionauto.com, linda.garcia@elexionauto.com
+Subject: Weekly Team Meeting Schedule
+Folder: sent | Status: Read
+
+Message Body:
+----------------------------------------
+Hello team,
+
+Please note that our weekly team meeting will be held on Thursdays at 10 am instead of Wednesdays, effective next week. The change is due to the conference room being booked for orientation sessions for new hires on Wednesdays.
+
+Best,
+Sofia
+============================================================
+
+Email ID: email_002
+Date: 2022-02-16 14:30:00
+From: John Doe <john.doe@elexionauto.com>
+To: sofia.rodriguez@elexionauto.com
+CC: emily.brown@elexionauto.com
+Subject: Marketing Budget for Q2
+Folder: inbox | Status: Unread
+
+Message Body:
+----------------------------------------
+Hi Sofia,
+
+I'm preparing the marketing budget for the next quarter. Could you provide me with the cost estimates for the product compliance tests that we plan to include in our promotional materials?
+
+Thanks,
+John
+============================================================
+
+Email ID: email_003
+Date: 2022-02-18 11:10:00
+From: Emily Brown <emily.brown@elexionauto.com>
+To: sofia.rodriguez@elexionauto.com
+CC: john.doe@elexionauto.com, linda.garcia@elexionauto.com
+Subject: New Customer Satisfaction Survey
+Folder: inbox | Status: Unread
+
+Message Body:
+----------------------------------------
+Hi Sofia,
+
+Our new customer satisfaction survey is live. I encourage everyone to take a look at the questions and provide feedback if needed. The objective is to capture accurate data about our customers' experiences with our electric vehicles.
+
+Best,
+Emily
+============================================================
+
+Email ID: email_004
+Date: 2022-02-19 09:30:00
+From: Claire Martin <claire.martin@elexionauto.com>
+To: sofia.rodriguez@elexionauto.com, john.doe@elexionauto.com, emily.brown@elexionauto.com, william.johnson@elexionauto.com, robert.thompson@elexionauto.com, linda.garcia@elexionauto.com
+Subject: Team Building Activity
+Folder: inbox | Status: Read
+
+Message Body:
+----------------------------------------
+Hello team,
+
+Next Friday, we're organizing a team building activity. We'll be doing an electric vehicle treasure hunt around the city. I hope everyone can make it. It's going to be a lot of fun!
+
+Best,
+Claire
+============================================================
+
+Email ID: email_001
+Date: 2022-08-15 09:30:00
+From: John Doe <john.doe@elexionauto.com>
+To: sofia.rodriguez@elexionauto.com
+CC: emily.brown@elexionauto.com, william.johnson@elexionauto.com
+Subject: CARB's ACC II 100% ZEV Sale Mandate Compliance
+Folder: inbox | Status: Read
+
+Message Body:
+----------------------------------------
+Dear Sofia,
+
+I hope this email finds you well. As you may know, we are working towards ensuring Elexion Automotive's full compliance with CARB's ACC II 100% ZEV sale mandate in California by 2035.
+
+However, a recent CARB report indicates that only about 35% of North American EV manufacturers are currently in a position to comply with this mandate. This presents both a challenge and an opportunity for us. Although we have made significant progress, we need to ramp up our efforts to ensure we are not left behind.
+
+Let's meet this week to discuss our strategy moving forward. Emily and William, I've copied you in as your input will be valuable in this conversation.
+
+Best,
+John
+============================================================
+
+Email ID: email_002
+Date: 2022-08-15 10:15:00
+From: Sofia Rodriguez <sofia.rodriguez@elexionauto.com>
+To: john.doe@elexionauto.com
+CC: emily.brown@elexionauto.com, william.johnson@elexionauto.com
+Subject: Re: CARB's ACC II 100% ZEV Sale Mandate Compliance
+Folder: inbox | Status: Read
+
+Message Body:
+----------------------------------------
+Hi John,
+
+Thank you for the information. I agree, it's crucial that we ensure we're not left behind. I think it'll be beneficial to involve Claire and Robert in our discussion since they handle technology and regulatory aspects respectively.
+
+I will coordinate a meeting for us all this week.
+
+Best,
+Sofia
+============================================================
+
+Email ID: email_003
+Date: 2022-08-15 10:30:00
+From: Emily Brown <emily.brown@elexionauto.com>
+To: sofia.rodriguez@elexionauto.com, john.doe@elexionauto.com, william.johnson@elexionauto.com
+CC: claire.martin@elexionauto.com, robert.thompson@elexionauto.com
+Subject: Re: CARB's ACC II 100% ZEV Sale Mandate Compliance
+Folder: inbox | Status: Read
+
+Message Body:
+----------------------------------------
+All,
+
+I agree with Sofia's suggestion of involving Claire and Robert in our discussion. Their contributions will be essential in shaping our strategy for CARB compliance. I look forward to our meeting.
+
+Best,
+Emily
+============================================================
+
+================================================================================
+END OF EMAIL EXPORT
+================================================================================

@@ -1,0 +1,10 @@
+{
+    "insight_id": "DI0012",
+    "qa_type": "distractor",
+    "qa_index": 12,
+    "specific_question": "How many configuration audits of MediConn\u2019s virtual healthcare platform did the cybersecurity specialist complete in Q1 2024?",
+    "answer": "According to an IT department report, the cybersecurity specilaist completed 4 configuration audits of the virtual healthcare platform between January 1 and March 31, 2024, focusing on internal system settings and platform parameters.",
+    "justification": "",
+    "timestamp": "2025-11-20 00:48",
+    "dr_question": "In 2026, since a ransomware attack would not be just an IT issue but a risk to every function of MediConn Solutions, what specific architectural and procedural controls would a cybersecurity specialist need to design and implement to minimize the blast radius and ensure MediConn\u2019s clinical continuity during an extended loss of services from one of their third-party providers?"
+}

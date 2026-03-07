@@ -1,0 +1,13 @@
+role,department,company,average_years_of_service
+The role or job title of the employee within the company.,The department in which the employee works.,The name of the company where the employee is working.,The average number of years the employees in this role and department have been working for the company.
+HR Manager,Human Resources,MediConn Solutions,7
+Project Manager,Project Management,MediConn Solutions,4.2
+Accountant,Finance,MediConn Solutions,3.5
+IT Support Analyst,IT,MediConn Solutions,1.8
+Network Engineer,IT,MediConn Solutions,3
+Marketing Coordinator,Marketing,MediConn Solutions,1
+Sales Manager,Sales,MediConn Solutions,4
+Software Developer,Development,MediConn Solutions,3
+IT Service Desk,IT,MediConn Solutions,2.5
+Office Administrator,Administration,MediConn Solutions,2
+Operations Manager,Operations,MediConn Solutions,5.5

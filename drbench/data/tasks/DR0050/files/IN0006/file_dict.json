@@ -1,0 +1,8 @@
+{
+    "file_name": "MediConn_Solutions_Customer_Service_Insights_Data",
+    "file_format": "xlsx",
+    "file_path": "drbench/data/tasks/DR0050/files/IN0006/MediConn_Solutions_Customer_Service_Insights_Data.xlsx",
+    "csv_path": "drbench/data/tasks/DR0050/files/IN0006/MediConn_Solutions_Customer_Service_Insights_Data.csv",
+    "qa_type": "insight",
+    "app": "nextcloud"
+}

@@ -1,0 +1,12 @@
+update_id,quarter,year,new_prescriptions_added,updated_by
+Unique ID for each update made to the prescription knowledge database,The quarter of the year in which the update was made,The year in which the update was made,The number of newly approved medications added to the knowledge database during the specified quarter,The MediConn staff member who made the update to the knowledge database
+UPD_0006,Q1,2024,28,Dr. Jane Doe
+UPD_0007,Q2,2024,33,Dr. John Doe
+UPD_0003,Q2,2023,18,Dr. John Doe
+UPD_0002,Q1,2023,15,Dr. Jane Doe
+UPD_0005,Q4,2023,32,Dr. John Doe
+UPD_0010,Q2,2025,35,Dr. Jane Doe
+UPD_0009,Q1,2025,30,Dr. John Doe
+UPD_0008,Q3,2024,38,Dr. Jane Doe
+UPD_0001,Q4,2024,42,Dr. John Doe
+UPD_0004,Q3,2023,20,Dr. Jane Doe

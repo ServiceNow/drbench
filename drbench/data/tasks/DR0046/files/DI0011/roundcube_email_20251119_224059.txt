@@ -1,0 +1,169 @@
+================================================================================
+ROUNDCUBE EMAIL EXPORT
+================================================================================
+
+USERS:
+----------------------------------------
+• emily.patel
+  Name: Emily Patel
+  Email: emily.patel@mediconnsolutions.com
+
+• james.campbell
+  Name: James Campbell
+  Email: james.campbell@mediconnsolutions.com
+
+• sarah.jones
+  Name: Sarah Jones
+  Email: sarah.jones@mediconnsolutions.com
+
+EMAILS:
+================================================================================
+Email ID: email_001
+Date: 2022-10-01 09:00:00
+From: Emily Patel <emily.patel@mediconnsolutions.com>
+To: james.campbell@mediconnsolutions.com, sarah.jones@mediconnsolutions.com
+Subject: Monthly IT Operations Meeting
+Folder: inbox | Status: Read
+
+Message Body:
+----------------------------------------
+Dear Team, 
+
+Please be reminded of our monthly IT Operations meeting scheduled for next week Tuesday. We will be discussing our department's performance and upcoming projects. 
+
+Looking forward to seeing you all there. 
+
+Best Regards, 
+Emily Patel
+============================================================
+
+Email ID: email_002
+Date: 2022-10-03 14:30:00
+From: James Campbell <james.campbell@mediconnsolutions.com>
+To: emily.patel@mediconnsolutions.com
+Subject: Migration to New Email Platform
+Folder: inbox | Status: Read
+
+Message Body:
+----------------------------------------
+Hi Emily, 
+
+I wanted to update you on the email platform migration project. We expect to complete the migration by the end of next week. I'll keep you posted on the progress. 
+
+Best, 
+James
+============================================================
+
+Email ID: email_003
+Date: 2022-10-05 12:00:00
+From: Emily Patel <emily.patel@mediconnsolutions.com>
+To: james.campbell@mediconnsolutions.com, sarah.jones@mediconnsolutions.com
+Subject: FY23 Budget Discussion
+Folder: inbox | Status: Read
+
+Message Body:
+----------------------------------------
+Hi Team, 
+
+I'd like to set up a meeting next week to discuss our proposed budget for FY23. Please prepare your insights and recommendations. 
+
+Best, 
+Emily
+============================================================
+
+Email ID: email_004
+Date: 2022-10-08 15:00:00
+From: Sarah Jones <sarah.jones@mediconnsolutions.com>
+To: emily.patel@mediconnsolutions.com, james.campbell@mediconnsolutions.com
+Subject: Upcoming IT Conference
+Folder: inbox | Status: Read
+
+Message Body:
+----------------------------------------
+Hi Team, 
+
+There's an upcoming IT conference next month that I think would be beneficial for us to attend. It's a great opportunity to network and get updates on industry trends. Let me know your thoughts. 
+
+Sarah
+============================================================
+
+Email ID: email_005
+Date: 2022-10-10 10:00:00
+From: Emily Patel <emily.patel@mediconnsolutions.com>
+To: james.campbell@mediconnsolutions.com, sarah.jones@mediconnsolutions.com
+Subject: Customer Feedback Summary
+Folder: inbox | Status: Read
+Attachments: 1 file(s)
+
+Message Body:
+----------------------------------------
+Team, 
+
+Attached is the summary of the customer feedback we received last month. We'll discuss the key takeaways in our next meeting. 
+
+Best Regards, 
+Emily
+============================================================
+
+Email ID: email_001
+Date: 2026-04-12 14:25:00
+From: Emily Patel <emily.patel@mediconnsolutions.com>
+To: james.campbell@mediconnsolutions.com
+CC: sarah.jones@mediconnsolutions.com
+Subject: RE: AI-ITSM Implementation Plan
+Folder: sent | Status: Read
+
+Message Body:
+----------------------------------------
+James,
+
+Thank you for your detailed breakdown of our AI-ITSM implementation plan. I think this could be a game-changer for our IT service management, and potentially the entire organization.
+
+One thing I want us to consider is how this new AI-ITSM system will affect our IT staff, especially the newer members. Since 2024, our IT department has been successfully running a six-month Mentorship Program to help junior IT analysts gain crucial skills in healthcare technology systems. It's an important part of our department's strategy.
+
+I'd like to ensure that this program is adapted to include training on the new AI-ITSM system, so our analysts can continue to improve their efficiency and effectiveness. Do you have any thoughts on how we might do this?
+
+Best,
+Emily
+============================================================
+
+Email ID: email_002
+Date: 2026-04-12 16:45:00
+From: James Campbell <james.campbell@mediconnsolutions.com>
+To: emily.patel@mediconnsolutions.com
+CC: sarah.jones@mediconnsolutions.com
+Subject: RE: AI-ITSM Implementation Plan
+Folder: sent | Status: Read
+
+Message Body:
+----------------------------------------
+Emily,
+
+I completely agree. The Mentorship Program has been instrumental in the professional development of our junior analysts, and it's crucial that we incorporate the AI-ITSM system into this program.
+
+We could potentially invite our AI-ITSM system vendor to conduct training sessions as part of the program. This would allow our junior analysts to gain firsthand knowledge about the system.
+
+Kind regards,
+James
+============================================================
+
+Email ID: email_003
+Date: 2026-04-13 09:10:00
+From: Sarah Jones <sarah.jones@mediconnsolutions.com>
+To: emily.patel@mediconnsolutions.com, james.campbell@mediconnsolutions.com
+Subject: RE: AI-ITSM Implementation Plan
+Folder: inbox | Status: Read
+
+Message Body:
+----------------------------------------
+Emily and James,
+
+This sounds like a fantastic idea. The Mentorship Program has definitely been a success, and incorporating AI-ITSM into it would only add to its value. I'd be happy to coordinate with the vendor for training sessions.
+
+Best,
+Sarah
+============================================================
+
+================================================================================
+END OF EMAIL EXPORT
+================================================================================

@@ -1,0 +1,10 @@
+{
+    "insight_id": "DI0003",
+    "qa_type": "distractor",
+    "qa_index": 3,
+    "specific_question": "What percentage of Elexion's ADAS suffered internet connectivity issues?",
+    "answer": "Based on internal testing performed in July 2025, .01% of Elexion's ADAS failed to consistently connect to the network, causing a shutdown of the system and non-operability.",
+    "justification": "",
+    "timestamp": "2025-11-20 02:47",
+    "dr_question": "HERE's ADAS technology has the potential to warn drivers about hazards they might not see in front of them. How can Elexion utilize AI to test our ADAS while maintaining our compliance certifications by Q2 2026?"
+}

@@ -1,0 +1,10 @@
+{
+    "insight_id": "IN0002",
+    "qa_type": "insight",
+    "qa_index": 2,
+    "specific_question": "How many cyber incidents at Lee's Market from Nov 2024 to Oct 2025 specifically involved new or seasonal staff as the root cause?",
+    "answer": "In four of the seven cybersecurity incidents at Lee's Market reported between November 2024 and October 2025, new or seasonal staff were identified as the root cause.",
+    "justification": "",
+    "timestamp": "2025-11-19 03:01",
+    "dr_question": "How can Lee's Market, guided by information security manager Jason Wong, design and implement a cybersecurity awareness and training program by the end of 2025 that mitigates security risk from high employee turnover and seasonal hiring while minimizing incidents caused by human error and supporting the company's growth in both US and Canadian markets?"
+}

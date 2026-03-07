@@ -1,0 +1,98 @@
+================================================================================
+MATTERMOST CHAT EXPORT
+================================================================================
+
+TEAMS:
+----------------------------------------
+• Corporate Communications (corporate_communications)
+  Description: N/A
+  Type: Open
+
+• Event Sponsorships (event_sponsorships)
+  Description: N/A
+  Type: Open
+
+CHANNELS:
+----------------------------------------
+• #Media Relations (media_relations)
+  Team: corporate_communications
+  Purpose: Coordinate, draft, and distribute press releases to media outlets
+  Type: Public
+
+• #Festival Sponsorships (festival_sponsorships)
+  Team: event_sponsorships
+  Purpose: Evaluate the performance of festival sponsorships and strategize future ones
+  Type: Public
+
+USERS:
+----------------------------------------
+• @andrew_park
+  Name: Andrew Park
+  Position: Public Relations Director
+  Email: apark@leesmarket.com
+
+• @john_doe
+  Name: John Doe
+  Position: Media Relations Manager
+  Email: jdoe@leesmarket.com
+
+• @jane_doe
+  Name: Jane Doe
+  Position: Sponsorship Manager
+  Email: jadoe@leesmarket.com
+
+• @andrew.park
+  Name: Andrew Park
+  Position: Public Relations Director
+  Email: andrew.park@leesmarket.com
+
+MESSAGES:
+================================================================================
+[Unknown time] #event_sponsorships:festival_sponsorships
+@jane_doe:
+Hi team, I've just finished the performance analysis for our 2022 cultural festival sponsorships. We sponsored 3 major Asian cultural festivals last year with a total investment of $150,000.
+------------------------------------------------------------
+
+[Unknown time] #event_sponsorships:festival_sponsorships
+@jane_doe:
+From the data, it's clear that our sponsorship efforts paid off significantly. Our earned media coverage from these sponsorships alone resulted in a 300% return on investment. This is a fantastic achievement for us and gives us a strong case for continued involvement in these events.
+------------------------------------------------------------
+
+[Unknown time] #event_sponsorships:festival_sponsorships
+@jane_doe:
+Moreover, we've seen a 25% increase in new customer acquisition that are culturally relevant, which improves our brand perception within these communities and further strengthens our customer base.
+------------------------------------------------------------
+
+[Unknown time] #event_sponsorships:festival_sponsorships
+@jane_doe:
+I'll be sharing these findings with the Corporate Communications team as well, so they can incorporate it into their media relations strategy. It's vital evidence of the success and impact of our community partnership programs.
+------------------------------------------------------------
+
+[2021-05-08 11:53:20] #corporate_communications:media_relations
+@john_doe:
+Hey Andrew, I just received the final version of the press release for our new store opening in SF. Do you have time to review it today?
+------------------------------------------------------------
+
+[2021-05-08 12:10:00] #event_sponsorships:festival_sponsorships
+@jane_doe:
+Andrew, we need to finalize the budget allocation for the upcoming Asian Heritage Festival. Can we have a meeting tomorrow?
+------------------------------------------------------------
+
+[2021-05-08 12:26:40] #corporate_communications:media_relations
+@andrew_park:
+Sure John, I will review the press release and get back to you by EOD. Thanks for the heads up!
+------------------------------------------------------------
+
+[2021-05-08 12:43:20] #corporate_communications:media_relations
+@john_doe:
+Great, thanks Andrew! I will email the press release to you shortly.
+------------------------------------------------------------
+
+[2021-05-08 13:00:00] #event_sponsorships:festival_sponsorships
+@andrew_park:
+Jane, I'm free tomorrow afternoon. Let's discuss the budget then and finalize it.
+------------------------------------------------------------
+
+================================================================================
+END OF CHAT EXPORT
+================================================================================

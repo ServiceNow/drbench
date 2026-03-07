@@ -1,0 +1,81 @@
+{
+    "file_name": "EV-Market-Analysis",
+    "file_title": "North American EV Market Analysis",
+    "introduction": "This presentation will provide insights into the projected growth of the North American first-hand EV market for 2027, as per our 2024 forecast. It is crucial for understanding our position and planning our strategic moves in this rapidly evolving marketplace.",
+    "subsections": [
+        {
+            "heading": "Evolving Landscape of North American EV Market",
+            "content": "\u2022 The North American EV market has experienced a compound annual growth rate of 41% from 2018 to 2023.\n\u2022 Major metropolitan areas have seen an increased adoption of EVs, particularly in California and New York.\n\u2022 Government incentives for EV adoption have played a crucial role in the market's growth.\n\u2022 The rise of autonomous driving technology has the potential to disrupt the EV market.\n\u2022 Battery technology advancements are reducing EV costs and increasing range capacities.\n\u2022 Increasing consumer awareness about environmental issues is driving the demand for EVs.",
+            "type": "distractor",
+            "justification": "The content focuses on historical data and general trends, but does not provide the projected 2027 growth rate."
+        },
+        {
+            "heading": "Insights from 2024 Forecast: Projected 2027 Growth",
+            "content": "\u2022 The 2024 forecast projected a steady increase in the adoption of EVs among commercial fleets.\n\u2022 The forecast also predicted a significant rise in the demand for mid-range EVs.\n\u2022 According to the 2024 forecast, the introduction of new EV models by major manufacturers is expected to intensify competition.\n\u2022 The forecast highlighted potential regulatory changes that could impact the EV market.\n\u2022 The 2024 forecast also pointed to the potential of emerging markets driving global EV growth.",
+            "type": "distractor",
+            "justification": "The content discusses various aspects of the 2024 forecast but does not reveal the projected 2027 growth rate for the North American EV market."
+        },
+        {
+            "heading": "Implications for Elexion's Strategic Planning",
+            "content": "\u2022 Elexion's strategic planning should consider the rapidly evolving EV market dynamics.\n\u2022 Efforts should be made to maintain a competitive edge amidst increasing competition.\n\u2022 Regulatory changes in the EV market could impact Elexion's manufacturing and distribution processes.\n\u2022 Elexion's R&D department should focus on improving battery technology and range capacities.\n\u2022 Strategic planning should include initiatives to increase consumer awareness about Elexion's commitment to sustainability.",
+            "type": "distractor",
+            "justification": "The content discusses implications for Elexion's strategic planning, but does not provide the projected 2027 growth rate."
+        }
+    ],
+    "conclusion": "The projected growth rate provides valuable insights into the future of the EV market, which can inform our strategic decisions for the coming years. Let's leverage this information to strengthen Elexion's positioning in the North American EV market.",
+    "file_format": "pptx",
+    "file_path": ".llm_responses/generated_pptx_presentation.pptx",
+    "qa_type": "distractor",
+    "timestamp": "2025-12-02 17:38",
+    "image_queries": [
+        {
+            "slide_title": "Introduction",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "intentionally_clean",
+            "slide_type": "introduction"
+        },
+        {
+            "slide_title": "Evolving Landscape of North American EV Market",
+            "has_image": true,
+            "image_query": "North American electric vehicle growth graph",
+            "generation_method": "strategic_placement",
+            "slide_type": "distractor",
+            "content_length": 6,
+            "total_chars": 551,
+            "forced": false,
+            "theme": "Elegant Teal"
+        },
+        {
+            "slide_title": "Insights from 2024 Forecast: Projected 2027 Growth",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 5,
+            "total_chars": 477,
+            "probability": 0.25,
+            "theme": "Elegant Teal"
+        },
+        {
+            "slide_title": "Implications for Elexion's Strategic Planning",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 5,
+            "total_chars": 482,
+            "probability": 0.25,
+            "theme": "Elegant Teal"
+        },
+        {
+            "slide_title": "Conclusion",
+            "has_image": true,
+            "image_query": "electric vehicle growth chart",
+            "generation_method": "strategic_conclusion",
+            "slide_type": "conclusion",
+            "theme": "Elegant Teal"
+        }
+    ],
+    "app": "nextcloud"
+}

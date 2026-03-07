@@ -1,0 +1,13 @@
+Company_Name,Department,Year,Turnover_Rate
+"The name of the company, in this case, 'Elexion Automotive'","The specific department within the company, in this case, 'Sales'","The specific year for which the turnover rate is being reported, in this case, '2011'","The turnover rate of the department for the specified year, in this case, '15%'"
+Elexion Automotive,Sales,2005,0.06
+Elexion Automotive,Sales,2009,0.09
+Elexion Automotive,Sales,2010,0.1
+Elexion Automotive,Marketing,2011,0.08
+Elexion Automotive,Sales,2007,0.08
+Elexion Automotive,Sales,2006,0.07
+Elexion Automotive,Sales,2008,0.11
+Elexion Automotive,Engineering,2011,0.12
+Elexion Automotive,Human Resources,2011,0.1
+Elexion Automotive,Sales,2004,0.05
+Elexion Automotive,Sales,2011,0.15

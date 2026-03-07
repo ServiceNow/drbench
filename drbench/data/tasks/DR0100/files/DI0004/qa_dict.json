@@ -1,0 +1,10 @@
+{
+    "insight_id": "DI0004",
+    "qa_type": "distractor",
+    "qa_index": 4,
+    "specific_question": "How many new APIs were developed internally by Q3 2025?",
+    "answer": "19 new APIs were developed for internal applications by Q3 2025.",
+    "justification": "Internal API development supports operations but does not impact shared digital health infrastructure priorities.",
+    "timestamp": "2025-11-21 13:31",
+    "dr_question": "Which IT modernization efforts should MediConn emphasize to stay aligned with national virtual care standards and shared digital health infrastructure by 2026?"
+}

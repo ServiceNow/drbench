@@ -1,0 +1,81 @@
+{
+    "file_name": "ai-sales-integration",
+    "file_title": "Integrating AI Forecasting Tools in Sales",
+    "introduction": "As we strive to enhance our sales strategies, AI forecasting tools offer a promising avenue. This presentation will discuss how we plan to incorporate these modern tools into our sales department.",
+    "subsections": [
+        {
+            "heading": "Current Sales Forecasting Procedures",
+            "content": "\u2022 Sales forecasts are generated on a monthly basis by the Sales Analysis team\n\u2022 The forecasts are based on historical sales data and adjusted for seasonal trends\n\u2022 Current forecasting methods rely heavily on manual input of data\n\u2022 The accuracy of forecasts is evaluated at the end of each quarter\n\u2022 Sales forecasts are utilized by various departments including merchandising, marketing, and logistics\n\u2022 The forecasting process includes a review of the previous month's forecast accuracy\n\u2022 Forecasting procedures are audited annually to ensure best practices are followed",
+            "type": "distractor",
+            "justification": "While this content provides context, it does not discuss integration of AI tools into the sales process. Strategy used: focus on procedural information."
+        },
+        {
+            "heading": "Introduction to AI Forecasting Tools",
+            "content": "\u2022 AI tools use algorithms to predict future sales based on past data\n\u2022 These tools can analyze large amounts of data quickly and accurately\n\u2022 AI tools can identify trends and patterns that may be overlooked by human analysis\n\u2022 Many retail companies have started to integrate AI into their forecasting processes\n\u2022 AI tools can potentially save time and increase the accuracy of sales forecasts\n\u2022 The use of AI tools requires a certain level of technical expertise\n\u2022 AI forecasting tools are a significant investment and require careful consideration before implementation",
+            "type": "distractor",
+            "justification": "This slide introduces AI forecasting tools but doesn't discuss how Lee's Market plans to integrate them. Strategy used: general industry trends."
+        },
+        {
+            "heading": "Integrating AI Tools into Sales Processes",
+            "content": "\u2022 Integration of AI tools requires an initial setup and training period\n\u2022 Staff will need to be trained on how to use the AI tools\n\u2022 The integration process may cause temporary disruptions to the sales process\n\u2022 AI tools need to be regularly updated and maintained for optimal performance\n\u2022 Any issues with the AI tools can potentially affect the accuracy of sales forecasts\n\u2022 Integration of AI tools can potentially streamline the sales forecasting process\n\u2022 The success of the AI integration will be evaluated after six months of use",
+            "type": "distractor",
+            "justification": "This content talks about integrating AI tools into sales processes in general, not specifically at Lee's Market. Strategy used: general industry practices."
+        }
+    ],
+    "conclusion": "With the integration of AI forecasting tools, we will optimize our sales predictions and facilitate data-driven decision making. Let's strive to adapt and evolve, ensuring Lee's Market stays at the forefront of retail innovation.",
+    "file_format": "pptx",
+    "file_path": ".llm_responses/generated_pptx_presentation.pptx",
+    "qa_type": "distractor",
+    "timestamp": "2025-12-02 23:09",
+    "image_queries": [
+        {
+            "slide_title": "Introduction",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "intentionally_clean",
+            "slide_type": "introduction"
+        },
+        {
+            "slide_title": "Current Sales Forecasting Procedures",
+            "has_image": true,
+            "image_query": "business sales forecasting chart",
+            "generation_method": "strategic_placement",
+            "slide_type": "distractor",
+            "content_length": 7,
+            "total_chars": 550,
+            "forced": false,
+            "theme": "Modern Orange"
+        },
+        {
+            "slide_title": "Introduction to AI Forecasting Tools",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 7,
+            "total_chars": 550,
+            "probability": 0.25,
+            "theme": "Modern Orange"
+        },
+        {
+            "slide_title": "Integrating AI Tools into Sales Processes",
+            "has_image": true,
+            "image_query": "team training on AI tools",
+            "generation_method": "strategic_placement",
+            "slide_type": "distractor",
+            "content_length": 7,
+            "total_chars": 515,
+            "forced": false,
+            "theme": "Modern Orange"
+        },
+        {
+            "slide_title": "Conclusion",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "strategic_clean_conclusion",
+            "slide_type": "conclusion",
+            "theme": "Modern Orange"
+        }
+    ],
+    "app": "nextcloud"
+}

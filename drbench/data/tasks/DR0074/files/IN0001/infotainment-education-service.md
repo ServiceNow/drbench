@@ -1,0 +1,21 @@
+# EV Infotainment Education and Service Reduction
+
+## Introduction
+
+As Elexion Automotive continues its pursuit of quality and reliability in our electric vehicles, it is essential to consider the influence of customer education. This document explores how an increase in dealer-led customer education, specifically on EV infotainment and connectivity, could potentially affect service visit frequency. As a Quality Assurance Engineer, I am committed to ensuring our customers have a seamless experience with our products while reducing unnecessary service visits.
+
+## Quality Implications of Increased Customer Education
+
+A more informed customer base can have various implications for Elexion's quality assurance processes. For instance, customers who are more knowledgeable about their vehicles may be more likely to report minor issues, necessitating a shift in our issue prioritization protocols. Furthermore, this could potentially lead to an increase in the number of reported defects, even if the actual defect rate remains stable.
+
+## Predictive Analysis of Service Visit Frequency
+
+Between 2022 and 2024, we've seen a steady decrease in overall service visit frequency due to improved manufacturing processes and software updates. However, it's also worth noting that there is an increase in service visits during the first three months of vehicle ownership, which can be attributed to customers familiarizing themselves with the new technology. Despite this, the long-term trend is towards fewer service visits.
+
+## Current Dealer-led Customer Education Programs
+
+In the year 2024, the dealers of Elexion Automotive allocated a significant amount of time towards vehicle orientation and infotainment training during the delivery process to customers. The dealers committed an average of 45 minutes to this process, a critical part of which was imparting knowledge about connectivity features. However, it was observed that only about 12 minutes of this total duration was dedicated to acquainting the customer with these connectivity features, which is a crucial aspect of our electric vehicles' functionality.
+
+## Conclusion
+
+An enhanced emphasis on dealer-led education could significantly impact the number of service visits, potentially reducing them by 2027. It is, therefore, crucial to consider how expanding our customer education programs, especially on the infotainment and connectivity features of our EVs, could improve overall product quality and customer satisfaction. As we move forward, I recommend a collaborative effort between the Quality and Dealer Training departments to develop and implement a comprehensive education strategy. This approach can ensure a seamless experience for our customers while accelerating our transition to zero-emission transportation.

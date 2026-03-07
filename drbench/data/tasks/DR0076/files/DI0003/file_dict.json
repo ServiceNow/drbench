@@ -1,0 +1,285 @@
+{
+    "file_name": "mattermost_chat_20251120_022411",
+    "content": "{\"type\": \"version\", \"version\": 1}\n{\"type\": \"team\", \"team\": {\"name\": \"asset_management\", \"display_name\": \"Asset Management\", \"type\": \"O\", \"header\": \"Team managing Elexion's physical and digital assets\", \"purpose\": \"Coordinate asset acquisition, utilization, maintenance, and disposal to optimize operational efficiency and cost-effectiveness.\"}}\n{\"type\": \"team\", \"team\": {\"name\": \"audit_team\", \"display_name\": \"Audit Team\", \"type\": \"O\", \"header\": \"Team responsible for auditing non-battery production assets\", \"purpose\": \"Ensure optimal utilization of Elexion's non-battery production assets.\"}}\n{\"type\": \"channel\", \"channel\": {\"team\": \"asset_management\", \"name\": \"asset_optimization\", \"display_name\": \"Asset Optimization\", \"type\": \"O\", \"header\": \"Discussion and coordination of strategies for asset optimization\", \"purpose\": \"Sharing insights, strategies, and updates related to asset optimization.\"}}\n{\"type\": \"channel\", \"channel\": {\"team\": \"audit_team\", \"name\": \"audit_updates\", \"display_name\": \"Audit Updates\", \"type\": \"O\", \"header\": \"Updates, insights, and results from asset utilization audits\", \"purpose\": \"Share audit findings and discuss audit strategies.\"}}\n{\"type\": \"user\", \"user\": {\"username\": \"oliviamartinez\", \"email\": \"olivia.martinez@elexion.com\", \"password\": \"secure_password\", \"nickname\": \"Olivia\", \"first_name\": \"Olivia\", \"last_name\": \"Martinez\", \"position\": \"Asset Lifecycle Manager\", \"roles\": \"system_user\", \"locale\": \"en\", \"teams\": [{\"name\": \"asset_management\", \"roles\": \"team_user\", \"channels\": [{\"name\": \"asset_optimization\", \"roles\": \"channel_user\"}]}, {\"name\": \"audit_team\", \"roles\": \"team_user\", \"channels\": [{\"name\": \"audit_updates\", \"roles\": \"channel_user\"}]}]}}\n{\"type\": \"user\", \"user\": {\"username\": \"johnsmith\", \"email\": \"john.smith@elexion.com\", \"password\": \"secure_password\", \"nickname\": \"John\", \"first_name\": \"John\", \"last_name\": \"Smith\", \"position\": \"Audit Specialist\", \"roles\": \"system_user\", \"locale\": \"en\", \"teams\": [{\"name\": \"audit_team\", \"roles\": \"team_user\", \"channels\": [{\"name\": \"audit_updates\", \"roles\": \"channel_user\"}]}]}}\n{\"type\": \"user\", \"user\": {\"username\": \"lindajones\", \"email\": \"linda.jones@elexion.com\", \"password\": \"secure_password\", \"nickname\": \"Linda\", \"first_name\": \"Linda\", \"last_name\": \"Jones\", \"position\": \"Asset Management Analyst\", \"roles\": \"system_user\", \"locale\": \"en\", \"teams\": [{\"name\": \"asset_management\", \"roles\": \"team_user\", \"channels\": [{\"name\": \"asset_optimization\", \"roles\": \"channel_user\"}]}]}}\n{\"type\": \"user\", \"user\": {\"username\": \"olivia.martinez\", \"nickname\": \"olivia.martinez\", \"first_name\": \"Olivia\", \"last_name\": \"Martinez\", \"roles\": [\"member\"], \"position\": \"Asset Lifecycle Manager\", \"email\": \"olivia.martinez@elexionautomotive.com\", \"locale\": \"en\", \"teams\": [{\"name\": \"asset_management\", \"roles\": \"team_user\", \"channels\": [{\"name\": \"asset_optimization\", \"roles\": \"channel_user\"}]}, {\"name\": \"audit_team\", \"roles\": \"team_user\", \"channels\": [{\"name\": \"audit_updates\", \"roles\": \"channel_user\"}]}]}}\n{\"type\": \"post\", \"post\": {\"team\": \"asset_management\", \"channel\": \"asset_optimization\", \"user\": \"lindajones\", \"message\": \"Hey team, just a reminder that we have a meeting tomorrow at 10am to discuss the quarterly asset optimization plan. Please prepare your updates.\", \"created_at\": 1620500000000}}\n{\"type\": \"post\", \"post\": {\"team\": \"asset_management\", \"channel\": \"asset_optimization\", \"user\": \"oliviamartinez\", \"message\": \"Thanks for the reminder, Linda. I'll have my report ready on the maintenance cost analysis.\", \"created_at\": 1620500100000}}\n{\"type\": \"post\", \"post\": {\"team\": \"audit_team\", \"channel\": \"audit_updates\", \"user\": \"johnsmith\", \"message\": \"Just to update everyone, the audit on our manufacturing plant in Seattle is scheduled to start next week.\", \"created_at\": 1620500200000}}\n{\"type\": \"post\", \"post\": {\"team\": \"asset_management\", \"channel\": \"asset_optimization\", \"user\": \"lindajones\", \"message\": \"Olivia, I'll need your assistance in reviewing the sustainability measures implemented in our asset management strategy.\", \"created_at\": 1620500300000}}\n{\"type\": \"post\", \"post\": {\"team\": \"audit_team\", \"channel\": \"audit_updates\", \"user\": \"oliviamartinez\", \"message\": \"Sure thing, Linda. Let's schedule a meeting for next week. John, could you join us in discussing the audit procedures?\", \"created_at\": 1620500400000}}\n{\"type\": \"post\", \"post\": {\"team\": \"audit_team\", \"channel\": \"audit_updates\", \"user\": \"johnsmith\", \"message\": \"Absolutely, Olivia. I'll prepare some materials on our standard audit protocols and share them with you both before our meeting.\", \"created_at\": 1620500500000}}\n{\"type\": \"post\", \"post\": {\"team\": \"asset_management\", \"channel\": \"asset_optimization\", \"user\": \"lindajones\", \"message\": \"Thanks, John. Looking forward to it. Let's keep pushing towards our sustainability goals!\", \"created_at\": 1620500600000}}\n{\"type\": \"post\", \"post\": {\"team\": \"audit_team\", \"channel\": \"audit_updates\", \"user\": \"oliviamartinez\", \"message\": \"Team, as we wrap up the year, I wanted to share a summary of our 2024 audits. We completed utilization audits for 11 non-battery production assets across our North American facilities. Great job everyone!\", \"create_at\": 1672440000000}}\n{\"type\": \"post\", \"post\": {\"team\": \"audit_team\", \"channel\": \"audit_updates\", \"user\": \"johnsmith\", \"message\": \"Thanks for the update, Olivia. It was a productive year indeed. Looking forward to optimizing our asset utilization in 2025.\", \"create_at\": 1672440600000}}",
+    "chat_setup": {
+        "teams": [
+            {
+                "type": "team",
+                "team": {
+                    "name": "asset_management",
+                    "display_name": "Asset Management",
+                    "type": "O",
+                    "header": "Team managing Elexion's physical and digital assets",
+                    "purpose": "Coordinate asset acquisition, utilization, maintenance, and disposal to optimize operational efficiency and cost-effectiveness."
+                }
+            },
+            {
+                "type": "team",
+                "team": {
+                    "name": "audit_team",
+                    "display_name": "Audit Team",
+                    "type": "O",
+                    "header": "Team responsible for auditing non-battery production assets",
+                    "purpose": "Ensure optimal utilization of Elexion's non-battery production assets."
+                }
+            }
+        ],
+        "channels": [
+            {
+                "type": "channel",
+                "channel": {
+                    "team": "asset_management",
+                    "name": "asset_optimization",
+                    "display_name": "Asset Optimization",
+                    "type": "O",
+                    "header": "Discussion and coordination of strategies for asset optimization",
+                    "purpose": "Sharing insights, strategies, and updates related to asset optimization."
+                }
+            },
+            {
+                "type": "channel",
+                "channel": {
+                    "team": "audit_team",
+                    "name": "audit_updates",
+                    "display_name": "Audit Updates",
+                    "type": "O",
+                    "header": "Updates, insights, and results from asset utilization audits",
+                    "purpose": "Share audit findings and discuss audit strategies."
+                }
+            }
+        ],
+        "users": [
+            {
+                "type": "user",
+                "user": {
+                    "username": "oliviamartinez",
+                    "email": "olivia.martinez@elexion.com",
+                    "password": "secure_password",
+                    "nickname": "Olivia",
+                    "first_name": "Olivia",
+                    "last_name": "Martinez",
+                    "position": "Asset Lifecycle Manager",
+                    "roles": "system_user",
+                    "locale": "en",
+                    "teams": [
+                        {
+                            "name": "asset_management",
+                            "roles": "team_user",
+                            "channels": [
+                                {
+                                    "name": "asset_optimization",
+                                    "roles": "channel_user"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "audit_team",
+                            "roles": "team_user",
+                            "channels": [
+                                {
+                                    "name": "audit_updates",
+                                    "roles": "channel_user"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "type": "user",
+                "user": {
+                    "username": "johnsmith",
+                    "email": "john.smith@elexion.com",
+                    "password": "secure_password",
+                    "nickname": "John",
+                    "first_name": "John",
+                    "last_name": "Smith",
+                    "position": "Audit Specialist",
+                    "roles": "system_user",
+                    "locale": "en",
+                    "teams": [
+                        {
+                            "name": "audit_team",
+                            "roles": "team_user",
+                            "channels": [
+                                {
+                                    "name": "audit_updates",
+                                    "roles": "channel_user"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "type": "user",
+                "user": {
+                    "username": "lindajones",
+                    "email": "linda.jones@elexion.com",
+                    "password": "secure_password",
+                    "nickname": "Linda",
+                    "first_name": "Linda",
+                    "last_name": "Jones",
+                    "position": "Asset Management Analyst",
+                    "roles": "system_user",
+                    "locale": "en",
+                    "teams": [
+                        {
+                            "name": "asset_management",
+                            "roles": "team_user",
+                            "channels": [
+                                {
+                                    "name": "asset_optimization",
+                                    "roles": "channel_user"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "type": "user",
+                "user": {
+                    "username": "olivia.martinez",
+                    "nickname": "olivia.martinez",
+                    "first_name": "Olivia",
+                    "last_name": "Martinez",
+                    "roles": [
+                        "member"
+                    ],
+                    "position": "Asset Lifecycle Manager",
+                    "email": "olivia.martinez@elexionautomotive.com",
+                    "locale": "en",
+                    "teams": [
+                        {
+                            "name": "asset_management",
+                            "roles": "team_user",
+                            "channels": [
+                                {
+                                    "name": "asset_optimization",
+                                    "roles": "channel_user"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "audit_team",
+                            "roles": "team_user",
+                            "channels": [
+                                {
+                                    "name": "audit_updates",
+                                    "roles": "channel_user"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    "chat_messages": [
+        {
+            "type": "post",
+            "post": {
+                "team": "audit_team",
+                "channel": "audit_updates",
+                "user": "oliviamartinez",
+                "message": "Team, as we wrap up the year, I wanted to share a summary of our 2024 audits. We completed utilization audits for 11 non-battery production assets across our North American facilities. Great job everyone!",
+                "create_at": 1672440000000
+            },
+            "tag": "insight"
+        },
+        {
+            "type": "post",
+            "post": {
+                "team": "audit_team",
+                "channel": "audit_updates",
+                "user": "johnsmith",
+                "message": "Thanks for the update, Olivia. It was a productive year indeed. Looking forward to optimizing our asset utilization in 2025.",
+                "create_at": 1672440600000
+            },
+            "tag": "insight"
+        },
+        {
+            "type": "post",
+            "post": {
+                "team": "asset_management",
+                "channel": "asset_optimization",
+                "user": "lindajones",
+                "message": "Hey team, just a reminder that we have a meeting tomorrow at 10am to discuss the quarterly asset optimization plan. Please prepare your updates.",
+                "created_at": 1620500000000
+            },
+            "tag": "distractor"
+        },
+        {
+            "type": "post",
+            "post": {
+                "team": "asset_management",
+                "channel": "asset_optimization",
+                "user": "oliviamartinez",
+                "message": "Thanks for the reminder, Linda. I'll have my report ready on the maintenance cost analysis.",
+                "created_at": 1620500100000
+            },
+            "tag": "distractor"
+        },
+        {
+            "type": "post",
+            "post": {
+                "team": "audit_team",
+                "channel": "audit_updates",
+                "user": "johnsmith",
+                "message": "Just to update everyone, the audit on our manufacturing plant in Seattle is scheduled to start next week.",
+                "created_at": 1620500200000
+            },
+            "tag": "distractor"
+        },
+        {
+            "type": "post",
+            "post": {
+                "team": "asset_management",
+                "channel": "asset_optimization",
+                "user": "lindajones",
+                "message": "Olivia, I'll need your assistance in reviewing the sustainability measures implemented in our asset management strategy.",
+                "created_at": 1620500300000
+            },
+            "tag": "distractor"
+        },
+        {
+            "type": "post",
+            "post": {
+                "team": "audit_team",
+                "channel": "audit_updates",
+                "user": "oliviamartinez",
+                "message": "Sure thing, Linda. Let's schedule a meeting for next week. John, could you join us in discussing the audit procedures?",
+                "created_at": 1620500400000
+            },
+            "tag": "distractor"
+        },
+        {
+            "type": "post",
+            "post": {
+                "team": "audit_team",
+                "channel": "audit_updates",
+                "user": "johnsmith",
+                "message": "Absolutely, Olivia. I'll prepare some materials on our standard audit protocols and share them with you both before our meeting.",
+                "created_at": 1620500500000
+            },
+            "tag": "distractor"
+        },
+        {
+            "type": "post",
+            "post": {
+                "team": "asset_management",
+                "channel": "asset_optimization",
+                "user": "lindajones",
+                "message": "Thanks, John. Looking forward to it. Let's keep pushing towards our sustainability goals!",
+                "created_at": 1620500600000
+            },
+            "tag": "distractor"
+        }
+    ],
+    "file_format": "jsonl",
+    "file_path": ".llm_responses/generated_chat_document.jsonl",
+    "qa_type": "distractor",
+    "timestamp": "2025-11-20 03:24",
+    "app": "mattermost"
+}

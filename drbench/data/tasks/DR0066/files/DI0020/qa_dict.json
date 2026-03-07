@@ -1,0 +1,10 @@
+{
+    "insight_id": "DI0020",
+    "qa_type": "distractor",
+    "qa_index": 20,
+    "specific_question": "How much data storage does the Elexion Automotive Sales team's CRM system use?",
+    "answer": "The Elexion Automotive's CRM database utilized 2.7 terabytes of space as of April 2025.",
+    "justification": "",
+    "timestamp": "2025-11-20 01:25",
+    "dr_question": "By the end of 2025, how can Elexion Automotive use data generated through its customer relationship management system to analyze customer behavior online and identify patterns that drive sales?"
+}

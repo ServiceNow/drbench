@@ -1,0 +1,10 @@
+{
+    "insight_id": "IN0003",
+    "qa_type": "insight",
+    "qa_index": 3,
+    "specific_question": "When will the Elexion Automotive cybersecurity team release the first software update of 2026 for its customer web portal, and what will be the new requirement for login attempts?",
+    "answer": "The cybersecurity team at Elexion Automotive plans to release the first software update of 2026 for its customer web portal during the very first week of January 2026. Users will now be required, as a result of this software update, to add an authenticator app as a part of the two-factor authentication process required by the customer web portal. SMS verification will no longer be accepted as an available method of two-factor authentication due to security reasons.",
+    "justification": "",
+    "timestamp": "2025-11-20 02:52",
+    "dr_question": "In response to the April 2025 Help Net Security article, how well is Elexion Automotive poised to adapt and take proactive measures to prevent itself and its consumer base from the latest cybersecurity threats as we approach 2026?"
+}

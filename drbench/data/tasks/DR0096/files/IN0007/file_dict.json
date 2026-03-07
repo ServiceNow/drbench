@@ -1,0 +1,81 @@
+{
+    "file_name": "bakery-sales-growth-strategy",
+    "file_title": "Optimizing In-Store Layout for Bakery Sales Growth",
+    "introduction": "With the rise in food service sales, there is an opportunity for Lee's Market to review and enhance our in-store layout. This presentation will outline our strategy to optimize product displays and increase bakery sales significantly.",
+    "subsections": [
+        {
+            "heading": "Current Performance of Bakery Department",
+            "content": "\u2022 Analysis shows a potential rise in labor hours by approximately 45 hours weekly per U.S. store due to the proposed bakery layout optimization.\n\u2022 The increase in labor hours is tied to the addition of new display cases and prep counters, necessitating more frequent restocking and cleaning.\n\u2022 The adjustment in bakery layout is projected to be fully implemented by the end of Q1 2026.\n\u2022 Operational feasibility and cost control are key considerations, to ensure the sales gains are not negated by increased staffing costs.\n\u2022 It's essential to quantify labor shifts to effectively manage the expected increase in workload.\n\u2022 The increased labor hours are an important factor in our strategy to increase bakery sales by 15% by the end of Q1 2026.\n\u2022 Further analysis is required to determine the optimal staffing model to handle the increased workload without compromising service quality.",
+            "type": "insight",
+            "justification": "The content outlines the projected increase in labor hours due to bakery layout optimization, supporting decision-making on staffing and operational planning to meet sales targets."
+        },
+        {
+            "heading": "Understanding Customer Purchase Behaviour",
+            "content": "\u2022 Our loyalty program data indicates that 65% of customers who buy bakery items also purchase coffee\n\u2022 Peak times for bakery purchases are in the early morning and late afternoon\n\u2022 About 30% of our customers show a preference for organic bakery items\n\u2022 Customers typically spend 10-15 minutes in the bakery area\n\u2022 Repeat customers make up nearly 70% of our bakery sales",
+            "type": "distractor",
+            "justification": "These points focus on customer behavior and preferences, not on how to increase sales by optimizing layout and displays."
+        },
+        {
+            "heading": "Proposed In-Store Layout and Product Display Adjustments",
+            "content": "\u2022 We propose to move the bakery closer to the entrance to draw customers in\n\u2022 Displaying bakery items near the coffee section could increase impulse buys\n\u2022 We could test out a \u2018Bakery of the Week\u2019 display to highlight different products\n\u2022 Adjusting the lighting in the bakery area could make the products more appealing\n\u2022 We propose to increase signage and visibility of bakery items throughout the store",
+            "type": "distractor",
+            "justification": "This slide proposes layout and display adjustments but does not provide any specific strategies to increase bakery sales by 15% by the end of Q1 2026."
+        }
+    ],
+    "conclusion": "With the proposed layout and display adjustments, we anticipate a 15% increase in bakery sales by the end of Q1 2026. Let's collaborate on implementing these changes and tracking their impact on our sales performance.",
+    "file_format": "pptx",
+    "file_path": ".llm_responses/generated_pptx_presentation.pptx",
+    "qa_type": "insight",
+    "timestamp": "2025-11-20 19:11",
+    "image_queries": [
+        {
+            "slide_title": "Introduction",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "intentionally_clean",
+            "slide_type": "introduction"
+        },
+        {
+            "slide_title": "Current Performance of Bakery Department",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "insight",
+            "content_length": 7,
+            "total_chars": 867,
+            "probability": 0.25,
+            "theme": "Elegant Teal"
+        },
+        {
+            "slide_title": "Understanding Customer Purchase Behaviour",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "failed",
+            "slide_type": "distractor",
+            "content_length": 5,
+            "total_chars": 355,
+            "error": "'str' object has no attribute 'choices'",
+            "theme": "Elegant Teal"
+        },
+        {
+            "slide_title": "Proposed In-Store Layout and Product Display Adjustments",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 5,
+            "total_chars": 390,
+            "probability": 0.25,
+            "theme": "Elegant Teal"
+        },
+        {
+            "slide_title": "Conclusion",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "strategic_clean_conclusion",
+            "slide_type": "conclusion",
+            "theme": "Elegant Teal"
+        }
+    ],
+    "app": "nextcloud"
+}

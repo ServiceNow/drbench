@@ -1,0 +1,10 @@
+{
+    "insight_id": "DI0004",
+    "qa_type": "distractor",
+    "qa_index": 4,
+    "specific_question": "What portion of the automotive workforce at Elexion Automotive is experiencing labor shortages that will affect 2025 production?",
+    "answer": "Labor shortages affect approximately 15% of the automotive manufacturing workforce at Elexion Automotive.",
+    "justification": "Workforce-related challenges are unrelated to battery testing protocols, EV battery endurance, or reliability.",
+    "timestamp": "2025-11-20 15:44",
+    "dr_question": "Given that one in seven new vehicles sold in Canada in 2024 were zero-emission, how can Elexion Automotive\u2019s QA team enhance cold-weather testing protocols by Q4 2026 to improve EV battery endurance and reliability in the country\u2019s key ZEV markets?"
+}

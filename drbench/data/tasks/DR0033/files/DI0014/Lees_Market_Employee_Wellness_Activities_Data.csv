@@ -1,0 +1,12 @@
+activity_id,activity_name,activity_year,activity_organizer,target_department,activity_platform,activity_purpose
+A unique identifier for each wellness activity conducted by the company,The name of the wellness activity,The year in which the wellness activity was conducted,The name of the person or department who organized the wellness activity,The department for which the wellness activity was conducted,The social media platforms where updates about the activity were published,The purpose of the wellness activity
+8,Mindfulness Session,2023,Noah Wilson,Logistics,Instagram,Improving focus and reducing stress
+1,Hiking Challenge,2025,Jason Wong,IT & Security,"Instagram, Facebook",Encouraging employee wellness
+2,Yoga Session,2021,Jennifer Smith,Human Resources,LinkedIn,Reducing stress and increasing flexibility
+3,Healthy Cooking Class,2023,Liam Davis,Marketing,Twitter,Promoting healthy eating habits
+5,Mental Health Workshop,2022,Oliver Williams,Customer Service,Instagram,Increasing mental health awareness
+9,Fitness Challenge,2024,Isabella Miller,Operations,Facebook,Promoting physical fitness and fun competition
+4,Marathon,2024,Emma Johnson,Sales,Facebook,Promoting physical fitness and teamwork
+10,Ergonomics Seminar,2022,Mia Moore,Administration,LinkedIn,Promoting proper posture and reducing risk of injury
+7,Nutrition Lecture,2021,Ava Brown,Finance,Twitter,Providing knowledge about balanced nutrition
+6,Cycling Event,2022,Sophia Taylor,Product Development,LinkedIn,Promoting physical fitness and environmental awareness

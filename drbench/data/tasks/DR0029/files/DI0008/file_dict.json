@@ -1,0 +1,218 @@
+{
+    "file_name": "roundcube_email_20251119_013226",
+    "content": "{\"type\": \"user\", \"username\": \"sophie.tran\", \"first_name\": \"Sophie\", \"last_name\": \"Tran\", \"email\": \"sophie.tran@leesmarket.com\", \"password\": \"sophie_kmpass123\"}\n{\"type\": \"user\", \"username\": \"david.lee\", \"first_name\": \"David\", \"last_name\": \"Lee\", \"email\": \"david.lee@leesmarket.com\", \"password\": \"david_itpass123\"}\n{\"type\": \"user\", \"username\": \"megan.kim\", \"first_name\": \"Megan\", \"last_name\": \"Kim\", \"email\": \"megan.kim@leesmarket.com\", \"password\": \"megan_hrpass123\"}\n{\"type\": \"user\", \"username\": \"jackson.chen\", \"first_name\": \"Jackson\", \"last_name\": \"Chen\", \"email\": \"jackson.chen@leesmarket.com\", \"password\": \"jackson_storemgrpass123\"}\n{\"type\": \"user\", \"username\": \"lucy.nguyen\", \"first_name\": \"Lucy\", \"last_name\": \"Nguyen\", \"email\": \"lucy.nguyen@leesmarket.com\", \"password\": \"lucy_warehousemgrpass123\"}\n{\"type\": \"user\", \"username\": \"henry.wu\", \"first_name\": \"Henry\", \"last_name\": \"Wu\", \"email\": \"henry.wu@leesmarket.com\", \"password\": \"henry_deliverymgrpass123\"}\n{\"type\": \"user\", \"username\": \"linda.park\", \"first_name\": \"Linda\", \"last_name\": \"Park\", \"email\": \"linda.park@leesmarket.com\", \"password\": \"linda_onlineopspass123\"}\n{\"type\": \"email\", \"id\": \"email_001\", \"subject\": \"Weekly Operations Team Meeting Schedule\", \"from\": \"sophie.tran@leesmarket.com\", \"from_name\": \"Sophie Tran\", \"to\": [\"david.lee@leesmarket.com\", \"megan.kim@leesmarket.com\", \"jackson.chen@leesmarket.com\", \"lucy.nguyen@leesmarket.com\", \"henry.wu@leesmarket.com\", \"linda.park@leesmarket.com\"], \"cc\": [], \"date\": \"2022-10-01 09:00:00\", \"body\": \"Dear Team,\\n\\nPlease note that our weekly operations team meeting is scheduled for every Wednesday at 10 AM. Kindly ensure you have your updates ready for presentation. Let's make these meetings a productive time to discuss our ongoing projects and any challenges faced.\\n\\nBest,\\nSophie\", \"folder\": \"sent\", \"read\": true, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_002\", \"subject\": \"Customer Satisfaction Survey Results\", \"from\": \"linda.park@leesmarket.com\", \"from_name\": \"Linda Park\", \"to\": [\"sophie.tran@leesmarket.com\"], \"cc\": [], \"date\": \"2022-10-02 10:00:00\", \"body\": \"Hi Sophie,\\n\\nThe latest customer satisfaction survey results are in. We've seen some significant improvements in the online shopping experience, which is great. I will share the detailed results in our next meeting.\\n\\nRegards,\\nLinda\", \"folder\": \"sent\", \"read\": true, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_003\", \"subject\": \"Budget Planning Meeting\", \"from\": \"sophie.tran@leesmarket.com\", \"from_name\": \"Sophie Tran\", \"to\": [\"david.lee@leesmarket.com\", \"megan.kim@leesmarket.com\", \"jackson.chen@leesmarket.com\", \"lucy.nguyen@leesmarket.com\", \"henry.wu@leesmarket.com\", \"linda.park@leesmarket.com\"], \"cc\": [], \"date\": \"2022-10-03 11:00:00\", \"body\": \"Team,\\n\\nThere will be a budget planning meeting next Monday at 3 PM. Please prepare your department's budget proposals and send them to me by Friday. This will help us streamline the budget allocation process.\\n\\nBest,\\nSophie\", \"folder\": \"sent\", \"read\": true, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_004\", \"subject\": \"Inventory Management System Training\", \"from\": \"david.lee@leesmarket.com\", \"from_name\": \"David Lee\", \"to\": [\"sophie.tran@leesmarket.com\", \"jackson.chen@leesmarket.com\", \"lucy.nguyen@leesmarket.com\", \"henry.wu@leesmarket.com\"], \"cc\": [], \"date\": \"2022-10-04 12:00:00\", \"body\": \"Hello Team,\\n\\nA quick update that the new training modules for our inventory management system are now live. I encourage everyone to complete the training by next week. Should you have any questions, feel free to reach out.\\n\\nBest,\\nDavid\", \"folder\": \"sent\", \"read\": true, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_001\", \"subject\": \"Post System Downtime: Recovery and Future Measures\", \"from\": \"sophie.tran@leesmarket.com\", \"from_name\": \"Sophie Tran\", \"to\": [\"david.lee@leesmarket.com\", \"megan.kim@leesmarket.com\", \"jackson.chen@leesmarket.com\", \"lucy.nguyen@leesmarket.com\", \"henry.wu@leesmarket.com\", \"linda.park@leesmarket.com\"], \"cc\": [], \"date\": \"2024-09-15 14:30:00\", \"body\": \"Dear team,\\n\\nFollowing the recent setback we faced with our knowledge database system, I understand the impact it had on our operations. I would like to assure everyone that we are taking measures to prevent such incidents in the future.\\n\\nOne of the primary changes we will implement is to schedule any system updates during non-working hours. This will minimize the risk of disrupting operations during peak hours. I will be working closely with David and the IT team to ensure this.\\n\\nAdditionally, we are developing an emergency plan to quickly deploy the backup system if any issues arise. This is to ensure that we can maintain operations while resolving any system issues.\\n\\nYour understanding and cooperation during this period is greatly appreciated.\\n\\nBest,\\nSophie Tran\", \"folder\": \"sent\", \"read\": true, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_002\", \"subject\": \"RE: Post System Downtime: Recovery and Future Measures\", \"from\": \"david.lee@leesmarket.com\", \"from_name\": \"David Lee\", \"to\": [\"sophie.tran@leesmarket.com\"], \"cc\": [\"megan.kim@leesmarket.com\", \"jackson.chen@leesmarket.com\", \"lucy.nguyen@leesmarket.com\", \"henry.wu@leesmarket.com\", \"linda.park@leesmarket.com\"], \"date\": \"2024-09-15 15:45:00\", \"body\": \"Sophie,\\n\\nThank you for the update. I think these are very sensible steps to take to prevent a recurrence of the system downtime. The IT team and I are ready to assist in implementing these changes.\\n\\nBest,\\nDavid Lee\", \"folder\": \"sent\", \"read\": true, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_003\", \"subject\": \"RE: Post System Downtime: Recovery and Future Measures\", \"from\": \"megan.kim@leesmarket.com\", \"from_name\": \"Megan Kim\", \"to\": [\"sophie.tran@leesmarket.com\", \"david.lee@leesmarket.com\"], \"cc\": [\"jackson.chen@leesmarket.com\", \"lucy.nguyen@leesmarket.com\", \"henry.wu@leesmarket.com\", \"linda.park@leesmarket.com\"], \"date\": \"2024-09-15 16:30:00\", \"body\": \"Sophie and David,\\n\\nI appreciate the quick response to the recent system downtime. The measures you've outlined seem well-thought-out and should ensure that our operations don't suffer in the future due to similar incidents. \\n\\nI believe these steps will also positively impact our employee turnover rates, as it shows our commitment to improving our systems and processes.\\n\\nBest,\\nMegan Kim\", \"folder\": \"sent\", \"read\": true, \"attachments\": []}",
+    "email_setup": [
+        {
+            "type": "user",
+            "username": "sophie.tran",
+            "first_name": "Sophie",
+            "last_name": "Tran",
+            "email": "sophie.tran@leesmarket.com",
+            "password": "sophie_kmpass123"
+        },
+        {
+            "type": "user",
+            "username": "david.lee",
+            "first_name": "David",
+            "last_name": "Lee",
+            "email": "david.lee@leesmarket.com",
+            "password": "david_itpass123"
+        },
+        {
+            "type": "user",
+            "username": "megan.kim",
+            "first_name": "Megan",
+            "last_name": "Kim",
+            "email": "megan.kim@leesmarket.com",
+            "password": "megan_hrpass123"
+        },
+        {
+            "type": "user",
+            "username": "jackson.chen",
+            "first_name": "Jackson",
+            "last_name": "Chen",
+            "email": "jackson.chen@leesmarket.com",
+            "password": "jackson_storemgrpass123"
+        },
+        {
+            "type": "user",
+            "username": "lucy.nguyen",
+            "first_name": "Lucy",
+            "last_name": "Nguyen",
+            "email": "lucy.nguyen@leesmarket.com",
+            "password": "lucy_warehousemgrpass123"
+        },
+        {
+            "type": "user",
+            "username": "henry.wu",
+            "first_name": "Henry",
+            "last_name": "Wu",
+            "email": "henry.wu@leesmarket.com",
+            "password": "henry_deliverymgrpass123"
+        },
+        {
+            "type": "user",
+            "username": "linda.park",
+            "first_name": "Linda",
+            "last_name": "Park",
+            "email": "linda.park@leesmarket.com",
+            "password": "linda_onlineopspass123"
+        }
+    ],
+    "email_messages": [
+        {
+            "type": "email",
+            "id": "email_001",
+            "subject": "Weekly Operations Team Meeting Schedule",
+            "from": "sophie.tran@leesmarket.com",
+            "from_name": "Sophie Tran",
+            "to": [
+                "david.lee@leesmarket.com",
+                "megan.kim@leesmarket.com",
+                "jackson.chen@leesmarket.com",
+                "lucy.nguyen@leesmarket.com",
+                "henry.wu@leesmarket.com",
+                "linda.park@leesmarket.com"
+            ],
+            "cc": [],
+            "date": "2022-10-01 09:00:00",
+            "body": "Dear Team,\n\nPlease note that our weekly operations team meeting is scheduled for every Wednesday at 10 AM. Kindly ensure you have your updates ready for presentation. Let's make these meetings a productive time to discuss our ongoing projects and any challenges faced.\n\nBest,\nSophie",
+            "folder": "sent",
+            "read": true,
+            "attachments": [],
+            "tag": "distractor"
+        },
+        {
+            "type": "email",
+            "id": "email_002",
+            "subject": "Customer Satisfaction Survey Results",
+            "from": "linda.park@leesmarket.com",
+            "from_name": "Linda Park",
+            "to": [
+                "sophie.tran@leesmarket.com"
+            ],
+            "cc": [],
+            "date": "2022-10-02 10:00:00",
+            "body": "Hi Sophie,\n\nThe latest customer satisfaction survey results are in. We've seen some significant improvements in the online shopping experience, which is great. I will share the detailed results in our next meeting.\n\nRegards,\nLinda",
+            "folder": "sent",
+            "read": true,
+            "attachments": [],
+            "tag": "distractor"
+        },
+        {
+            "type": "email",
+            "id": "email_003",
+            "subject": "Budget Planning Meeting",
+            "from": "sophie.tran@leesmarket.com",
+            "from_name": "Sophie Tran",
+            "to": [
+                "david.lee@leesmarket.com",
+                "megan.kim@leesmarket.com",
+                "jackson.chen@leesmarket.com",
+                "lucy.nguyen@leesmarket.com",
+                "henry.wu@leesmarket.com",
+                "linda.park@leesmarket.com"
+            ],
+            "cc": [],
+            "date": "2022-10-03 11:00:00",
+            "body": "Team,\n\nThere will be a budget planning meeting next Monday at 3 PM. Please prepare your department's budget proposals and send them to me by Friday. This will help us streamline the budget allocation process.\n\nBest,\nSophie",
+            "folder": "sent",
+            "read": true,
+            "attachments": [],
+            "tag": "distractor"
+        },
+        {
+            "type": "email",
+            "id": "email_004",
+            "subject": "Inventory Management System Training",
+            "from": "david.lee@leesmarket.com",
+            "from_name": "David Lee",
+            "to": [
+                "sophie.tran@leesmarket.com",
+                "jackson.chen@leesmarket.com",
+                "lucy.nguyen@leesmarket.com",
+                "henry.wu@leesmarket.com"
+            ],
+            "cc": [],
+            "date": "2022-10-04 12:00:00",
+            "body": "Hello Team,\n\nA quick update that the new training modules for our inventory management system are now live. I encourage everyone to complete the training by next week. Should you have any questions, feel free to reach out.\n\nBest,\nDavid",
+            "folder": "sent",
+            "read": true,
+            "attachments": [],
+            "tag": "distractor"
+        },
+        {
+            "type": "email",
+            "id": "email_001",
+            "subject": "Post System Downtime: Recovery and Future Measures",
+            "from": "sophie.tran@leesmarket.com",
+            "from_name": "Sophie Tran",
+            "to": [
+                "david.lee@leesmarket.com",
+                "megan.kim@leesmarket.com",
+                "jackson.chen@leesmarket.com",
+                "lucy.nguyen@leesmarket.com",
+                "henry.wu@leesmarket.com",
+                "linda.park@leesmarket.com"
+            ],
+            "cc": [],
+            "date": "2024-09-15 14:30:00",
+            "body": "Dear team,\n\nFollowing the recent setback we faced with our knowledge database system, I understand the impact it had on our operations. I would like to assure everyone that we are taking measures to prevent such incidents in the future.\n\nOne of the primary changes we will implement is to schedule any system updates during non-working hours. This will minimize the risk of disrupting operations during peak hours. I will be working closely with David and the IT team to ensure this.\n\nAdditionally, we are developing an emergency plan to quickly deploy the backup system if any issues arise. This is to ensure that we can maintain operations while resolving any system issues.\n\nYour understanding and cooperation during this period is greatly appreciated.\n\nBest,\nSophie Tran",
+            "folder": "sent",
+            "read": true,
+            "attachments": [],
+            "tag": "insight"
+        },
+        {
+            "type": "email",
+            "id": "email_002",
+            "subject": "RE: Post System Downtime: Recovery and Future Measures",
+            "from": "david.lee@leesmarket.com",
+            "from_name": "David Lee",
+            "to": [
+                "sophie.tran@leesmarket.com"
+            ],
+            "cc": [
+                "megan.kim@leesmarket.com",
+                "jackson.chen@leesmarket.com",
+                "lucy.nguyen@leesmarket.com",
+                "henry.wu@leesmarket.com",
+                "linda.park@leesmarket.com"
+            ],
+            "date": "2024-09-15 15:45:00",
+            "body": "Sophie,\n\nThank you for the update. I think these are very sensible steps to take to prevent a recurrence of the system downtime. The IT team and I are ready to assist in implementing these changes.\n\nBest,\nDavid Lee",
+            "folder": "sent",
+            "read": true,
+            "attachments": [],
+            "tag": "insight"
+        },
+        {
+            "type": "email",
+            "id": "email_003",
+            "subject": "RE: Post System Downtime: Recovery and Future Measures",
+            "from": "megan.kim@leesmarket.com",
+            "from_name": "Megan Kim",
+            "to": [
+                "sophie.tran@leesmarket.com",
+                "david.lee@leesmarket.com"
+            ],
+            "cc": [
+                "jackson.chen@leesmarket.com",
+                "lucy.nguyen@leesmarket.com",
+                "henry.wu@leesmarket.com",
+                "linda.park@leesmarket.com"
+            ],
+            "date": "2024-09-15 16:30:00",
+            "body": "Sophie and David,\n\nI appreciate the quick response to the recent system downtime. The measures you've outlined seem well-thought-out and should ensure that our operations don't suffer in the future due to similar incidents. \n\nI believe these steps will also positively impact our employee turnover rates, as it shows our commitment to improving our systems and processes.\n\nBest,\nMegan Kim",
+            "folder": "sent",
+            "read": true,
+            "attachments": [],
+            "tag": "insight"
+        }
+    ],
+    "file_format": "jsonl",
+    "file_path": ".llm_responses/generated_email_document.jsonl",
+    "qa_type": "distractor",
+    "timestamp": "2025-11-19 02:32",
+    "app": "email"
+}

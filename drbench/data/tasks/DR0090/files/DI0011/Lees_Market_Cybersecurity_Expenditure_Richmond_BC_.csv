@@ -1,0 +1,12 @@
+Company_Name,Year,Cyber_Security_Expenditure,Currency,Sales_Success_Relation
+The name of the company for which the cybersecurity expenditure data is represented.,The year in which the cybersecurity expenditure was incurred.,The amount of money spent by the company on cybersecurity for the specified year.,The currency in which the cybersecurity expenditure amount is represented.,A brief statement on how the cybersecurity expenditure is related to the company's success in sales.
+Emily's Emporium,2021,700000,CAD,Cybersecurity expenditure has no significant relation to the company's sales success.
+Lisa's Larder,2023,1300000,CAD,Cybersecurity expenditure has somewhat contributed to the company's sales success.
+Daniel's Deli,2023,500000,EUR,Cybersecurity expenditure has significantly contributed to the company's sales success.
+George's Garage,2018,500000,JPY,Cybersecurity expenditure has no significant relation to the company's sales success.
+John's Grocery,2018,600000,USD,Cybersecurity expenditure has significantly contributed to the company's sales success.
+Lee's Market,2024,1800000,CAD,Expenditure on cybersecurity is unrelated to Lee's Market's success in sales.
+Paul's Produce,2019,800000,AUD,Cybersecurity expenditure has significantly contributed to the company's sales success.
+Maria's Mart,2022,750000,USD,Cybersecurity expenditure has somewhat contributed to the company's sales success.
+Ben's Store,2020,1000000,GBP,Cybersecurity expenditure has no significant relation to the company's sales success.
+Sarah's Supermarket,2020,1100000,USD,Cybersecurity expenditure has significantly contributed to the company's sales success.

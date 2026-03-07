@@ -1,0 +1,81 @@
+{
+    "file_name": "hr-response-analysis-2024",
+    "file_title": "HR Response Efficiency Analysis 2024",
+    "introduction": "This presentation provides an overview of our HR response efficiency for the year 2024. It focuses on the average response time to employee queries, among other key metrics.",
+    "subsections": [
+        {
+            "heading": "Overview of 2024 HR Enquiries",
+            "content": "\u2022 In 2024, the HR department received a total of 2,500 queries from employees\n\u2022 About 40% of these queries were related to employee benefits and compensation\n\u2022 Approximately 30% were about company policies and procedures\n\u2022 Roughly 20% were requests for clarification on job roles and responsibilities\n\u2022 The remaining 10% of queries were miscellaneous, covering a wide range of topics\n\u2022 To handle these queries, the HR department used an automated ticketing system\n\u2022 All queries were categorized and prioritized based on their nature and urgency",
+            "type": "distractor",
+            "justification": "The content provides an overview of HR queries but does not discuss response time. It uses the strategy of discussing operations and procedures."
+        },
+        {
+            "heading": "Average Response Time for HR Queries",
+            "content": "\u2022 In 2024, the HR department implemented a new service level agreement (SLA) for query response times\n\u2022 The SLA aimed to improve on the industry average response time of 6 hours\n\u2022 The HR team used a ticketing system to track and manage queries\n\u2022 The system also helped identify bottlenecks and areas for improvement\n\u2022 Training sessions were held for HR staff to improve response times\n\u2022 The HR department routinely reviewed their performance against the SLA",
+            "type": "distractor",
+            "justification": "The content discusses the HR department's response time strategy but does not disclose the actual average response time. It uses the strategy of discussing processes and methodologies."
+        },
+        {
+            "heading": "Impacts of Response Time on Employee Satisfaction",
+            "content": "\u2022 Faster response times are generally associated with higher employee satisfaction\n\u2022 The HR department conducted regular employee satisfaction surveys\n\u2022 In 2024, they observed a positive correlation between response times and satisfaction scores\n\u2022 However, satisfaction was also influenced by the quality and clarity of responses\n\u2022 The HR department used these insights to refine their communication strategies\n\u2022 Continued efforts are being made to balance speed and quality in HR responses",
+            "type": "distractor",
+            "justification": "The content relates response time to satisfaction but doesn't give MediConn's specific response time. The strategy used is referencing related but non-essential business metrics."
+        }
+    ],
+    "conclusion": "In 2024, our HR department demonstrated commendable efficiency in response times. Going forward, we will focus on maintaining these standards and identify areas for further improvement.",
+    "file_format": "pptx",
+    "file_path": ".llm_responses/generated_pptx_presentation.pptx",
+    "qa_type": "distractor",
+    "timestamp": "2025-11-21 12:57",
+    "image_queries": [
+        {
+            "slide_title": "Introduction",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "intentionally_clean",
+            "slide_type": "introduction"
+        },
+        {
+            "slide_title": "Overview of 2024 HR Enquiries",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "failed",
+            "slide_type": "distractor",
+            "content_length": 7,
+            "total_chars": 524,
+            "error": "'str' object has no attribute 'choices'",
+            "theme": "Classic Navy"
+        },
+        {
+            "slide_title": "Average Response Time for HR Queries",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 6,
+            "total_chars": 440,
+            "probability": 0.25,
+            "theme": "Classic Navy"
+        },
+        {
+            "slide_title": "Impacts of Response Time on Employee Satisfaction",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 6,
+            "total_chars": 473,
+            "probability": 0.25,
+            "theme": "Classic Navy"
+        },
+        {
+            "slide_title": "Conclusion",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "strategic_clean_conclusion",
+            "slide_type": "conclusion",
+            "theme": "Classic Navy"
+        }
+    ],
+    "app": "file_system"
+}

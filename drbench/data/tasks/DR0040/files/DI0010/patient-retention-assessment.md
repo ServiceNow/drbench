@@ -1,0 +1,21 @@
+# 2024-2025 Patient Provider & Retention Assessment
+
+## Introduction
+
+In the constantly evolving landscape of virtual healthcare, understanding our patient demographics and retention rate is paramount. This report aims to provide a thorough examination of our patients' primary care provider status in 2024 and the subsequent account activity in 2025. The insights derived from this report will guide our strategic decisions in enhancing patient engagement and retention. It is a critical tool in our ongoing commitment to provide accessible and cost-effective care to Canadians across the nation.
+
+## Analysis of 2024 Primary Care Provider Status
+
+In 2024, MediConn Solutions made significant strides in enhancing its virtual healthcare platform to accommodate patients without primary care providers. A dedicated team was tasked with optimizing the user interface to facilitate easier communication between such patients and our healthcare professionals. As a result, there was a 30% increase in user engagement rates over that year.
+
+## 2025 Patient Account Closure Trends
+
+Throughout 2025, we observed a trend of account closures occurring during the early months of the year, particularly in January and February. After a thorough investigation, we found that this was largely due to patients' dissatisfaction with the digital interface, prompting us to initiate an upgrade of our online platform during the second quarter of 2025.
+
+## Impact of Primary Care Provider Status on Retention
+
+Our data from previous years suggests that patients with a primary care provider tend to use our platform more frequently, leading to higher retention rates. In light of this, we have started collaborations with several clinics and hospitals to encourage patients to designate a primary care provider. Our team is working to integrate these partnerships into our platform for a seamless experience.
+
+## Conclusion
+
+The findings of this report deepen our understanding of our patient demographics and their relationship with primary care providers. A clear link between the lack of a primary care provider and account closures was evident, necessitating further investigation. It is recommended that we explore strategies to engage these patients more effectively and enhance overall patient retention. The data presented here will be invaluable in shaping our strategic priorities moving forward.

@@ -1,0 +1,81 @@
+{
+    "file_name": "ai-ev-customization-sustainability",
+    "file_title": "Leveraging AI in EV Customization and Sustainability",
+    "introduction": "As Elexion Automotive continues to innovate in the electric vehicle market, it's essential we explore new technologies to meet our customers' needs. This presentation discusses how digital twins and AI-driven digital engineering can enable scalable customization and sustainable manufacturing.",
+    "subsections": [
+        {
+            "heading": "Enhancing EV Customization with Digital Twins",
+            "content": "\u2022 As part of our 2026 digital readiness roadmap, our team is poised to digitize and calibrate a significant number of production assets, totaling to 1850 by August 5, 2026.\n\u2022 These assets will play a crucial role in AI-integrated digital twin simulations, enabling scalable customization of our EV models.\n\u2022 By leveraging digital twins, potential risks can be identified and mitigated early in the design and production stages, reducing material waste, reworks, and unexpected downtime.\n\u2022 The integration of AI into our digital twin simulations will promote effective teamwork across design, production, and maintenance departments through the use of shared digital models.\n\u2022 The unified view of product data from IoT sensors, production lines, and enterprise platforms will facilitate faster and more informed decision-making across the EV lifecycle.\n\u2022 Efficient utilization of these digitized assets will aid in maintaining sustainable resource usage and reducing production costs.\n\u2022 This strategic initiative aligns with our commitment to provide affordable EV options for mid-income families while accelerating the transition to zero-emission transportation.",
+            "type": "insight",
+            "justification": "The content provides detailed strategies for applying AI-driven digital twins to EV customization, while highlighting the target metrics for digitizing production assets."
+        },
+        {
+            "heading": "Sustainable Manufacturing through AI-Driven Digital Engineering",
+            "content": "\u2022 AI-driven digital engineering can help to predict and optimize energy consumption during manufacturing\n\u2022 Companies using AI in their manufacturing processes have reported a 20% reduction in waste\n\u2022 Elexion's AI initiatives have so far focused on improving the efficiency of our battery production line\n\u2022 Predictive maintenance, enabled by AI, can reduce equipment downtime and associated costs\n\u2022 AI can also optimize logistics and supply chain management, reducing carbon emissions",
+            "type": "distractor",
+            "justification": "This content discusses potential benefits of AI in manufacturing, but does not link this to scalable customization of EV models or sustainable resource usage."
+        },
+        {
+            "heading": "Balancing Customization and Cost in EV Production",
+            "content": "\u2022 Greater customization requires more complex production processes, potentially increasing costs\n\u2022 Elexion currently offers customers a choice of three different battery sizes in our vehicles\n\u2022 By standardizing certain components, costs can be reduced while still offering a degree of customization\n\u2022 Elexion's most popular custom feature is our range of interior finishes\n\u2022 As of Q2 2025, customization options accounted for 12% of Elexion's total production costs",
+            "type": "distractor",
+            "justification": "This content provides operational details that are realistic but tangential, with no mention of digital twins or AI-driven digital engineering."
+        }
+    ],
+    "conclusion": "Implementing AI-enhanced digital twins could revolutionize our approach to EV customization and sustainability. As our next steps, we should identify potential partners for technological integration and begin feasibility studies for this initiative.",
+    "file_format": "pptx",
+    "file_path": ".llm_responses/generated_pptx_presentation.pptx",
+    "qa_type": "insight",
+    "timestamp": "2025-12-02 19:04",
+    "image_queries": [
+        {
+            "slide_title": "Introduction",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "intentionally_clean",
+            "slide_type": "introduction"
+        },
+        {
+            "slide_title": "Enhancing EV Customization with Digital Twins",
+            "has_image": true,
+            "image_query": "digital twin technology in automotive",
+            "generation_method": "strategic_placement",
+            "slide_type": "insight",
+            "content_length": 7,
+            "total_chars": 1142,
+            "forced": false,
+            "theme": "Bold Crimson"
+        },
+        {
+            "slide_title": "Sustainable Manufacturing through AI-Driven Digital Engineering",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 5,
+            "total_chars": 469,
+            "probability": 0.25,
+            "theme": "Bold Crimson"
+        },
+        {
+            "slide_title": "Balancing Customization and Cost in EV Production",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 5,
+            "total_chars": 451,
+            "probability": 0.25,
+            "theme": "Bold Crimson"
+        },
+        {
+            "slide_title": "Conclusion",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "strategic_clean_conclusion",
+            "slide_type": "conclusion",
+            "theme": "Bold Crimson"
+        }
+    ],
+    "app": "file_system"
+}

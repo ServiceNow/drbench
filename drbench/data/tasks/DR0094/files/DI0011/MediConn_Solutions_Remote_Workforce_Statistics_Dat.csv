@@ -1,0 +1,10 @@
+Company_Name,Industry,Year,Total_Employees,Remote_Workers,Remote_Workers_Percentage,AI_Risk_Relation
+The name of the company the data relates to.,The industry the company operates in.,The year the data was collected or projected for.,The total number of employees in the company.,The number of employees who work remotely.,The percentage of the company's workforce that operates remotely.,Assessment of how the remote work percentage might impact AI-related risks in the company.
+SportFit,Fitness,2025,300,90,0.3,Remote work percentages are not a major factor in AI-related risks.
+EnviroCare,Environment,2025,750,150,0.2,Remote work percentages have no notable impact on AI-related risks.
+FinServ,Finance,2024,1500,300,0.2,Low remote work percentages are seen to mitigate AI-related risks.
+AutoMoto,Automotive,2023,2000,400,0.2,Remote work percentages do not directly correlate with AI-related risks.
+MediConn,Healthcare,2026,1000,400,0.4,"While relevant to HR policy, remote work percentages don't directly affect AI related risks."
+TechCo,Technology,2023,500,250,0.5,High remote work percentage may increase AI-related risks due to data security concerns.
+EduCorp,Education,2022,200,100,0.5,Remote work does not have significant impact on AI-related risks in this company.
+Foodies,Food & Beverage,2024,600,180,0.3,Remote work percentages do not significantly impact AI-related risks.

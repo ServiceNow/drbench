@@ -1,0 +1,169 @@
+================================================================================
+ROUNDCUBE EMAIL EXPORT
+================================================================================
+
+USERS:
+----------------------------------------
+• jason.wong
+  Name: Jason Wong
+  Email: jason.wong@leesmarket.com
+
+• linda.lee
+  Name: Linda Lee
+  Email: linda.lee@leesmarket.com
+
+• michael.chen
+  Name: Michael Chen
+  Email: michael.chen@leesmarket.com
+
+• amy.liu
+  Name: Amy Liu
+  Email: amy.liu@leesmarket.com
+
+• david.kim
+  Name: David Kim
+  Email: david.kim@leesmarket.com
+
+• susan.park
+  Name: Susan Park
+  Email: susan.park@leesmarket.com
+
+• peter.nguyen
+  Name: Peter Nguyen
+  Email: peter.nguyen@leesmarket.com
+
+EMAILS:
+================================================================================
+Email ID: email_001
+Date: 2022-03-10 14:30:00
+From: Jason Wong <jason.wong@leesmarket.com>
+To: michael.chen@leesmarket.com
+Subject: Annual Budget Allocation for IT Department
+Folder: sent | Status: Read
+
+Message Body:
+----------------------------------------
+Hi Michael,
+
+I am working on our budget allocation for the next fiscal year. Please provide me with an estimate of the resources required for all your planned projects and initiatives.
+
+Best,
+Jason
+============================================================
+
+Email ID: email_002
+Date: 2022-03-15 10:00:00
+From: Jason Wong <jason.wong@leesmarket.com>
+To: amy.liu@leesmarket.com, david.kim@leesmarket.com, susan.park@leesmarket.com
+CC: linda.lee@leesmarket.com
+Subject: Quarterly IT Department Meeting
+Folder: sent | Status: Read
+
+Message Body:
+----------------------------------------
+Hello Team,
+
+Our quarterly team meeting is scheduled for next Tuesday. Please prepare a brief update on your current projects.
+
+Best,
+Jason
+============================================================
+
+Email ID: email_003
+Date: 2022-03-18 09:00:00
+From: Linda Lee <linda.lee@leesmarket.com>
+To: jason.wong@leesmarket.com
+CC: peter.nguyen@leesmarket.com
+Subject: New Product Launch
+Folder: inbox | Status: Unread
+
+Message Body:
+----------------------------------------
+Hi Jason,
+
+We are launching a new product line next month. I would like to discuss with you the IT requirements and security implications.
+
+Best,
+Linda
+============================================================
+
+Email ID: email_004
+Date: 2022-03-20 16:00:00
+From: Amy Liu <amy.liu@leesmarket.com>
+To: jason.wong@leesmarket.com
+Subject: IT Support Request
+Folder: inbox | Status: Unread
+
+Message Body:
+----------------------------------------
+Hi Jason,
+
+I am having issues with my workstation. Can you arrange for someone from the IT support team to check it out?
+
+Thanks,
+Amy
+============================================================
+
+Email ID: email_001
+Date: 2025-01-10 10:30:00
+From: Jason Wong <jason.wong@leesmarket.com>
+To: linda.lee@leesmarket.com
+CC: michael.chen@leesmarket.com, amy.liu@leesmarket.com
+Subject: Cybersecurity Awareness and Training Program Proposal
+Folder: sent | Status: Read
+
+Message Body:
+----------------------------------------
+Dear Linda,
+
+I wanted to share with you my proposed plan for implementing a cybersecurity awareness and training program to mitigate security risks and minimize incidents caused by human error. This plan also considers our high employee turnover and seasonal hiring.
+
+In addition to our in-house efforts, I strongly recommend engaging the services of a managed security service provider (MSSP). They can provide us with a dedicated team of security experts who can respond to incidents promptly, reducing our incident response times significantly.
+
+Let's discuss this in our next meeting.
+
+Best Regards,
+Jason
+============================================================
+
+Email ID: email_002
+Date: 2025-01-10 13:45:00
+From: Linda Lee <linda.lee@leesmarket.com>
+To: jason.wong@leesmarket.com
+CC: michael.chen@leesmarket.com, amy.liu@leesmarket.com
+Subject: RE: Cybersecurity Awareness and Training Program Proposal
+Folder: sent | Status: Read
+
+Message Body:
+----------------------------------------
+Jason,
+
+Thanks for your proposal. Engaging a MSSP sounds promising. However, I would like to understand how this change could affect our response times and possibly our losses in case of incidents. Could you provide some estimates?
+
+Regards,
+Linda
+============================================================
+
+Email ID: email_003
+Date: 2025-01-10 16:00:00
+From: Jason Wong <jason.wong@leesmarket.com>
+To: linda.lee@leesmarket.com
+CC: michael.chen@leesmarket.com, amy.liu@leesmarket.com
+Subject: RE: Cybersecurity Awareness and Training Program Proposal
+Folder: sent | Status: Read
+
+Message Body:
+----------------------------------------
+Linda,
+
+Based on our discussions with several MSSPs and industry reports, we can expect our incident response times to drop from an average of 5 hours to approximately 1.5 hours. This rapid response can significantly limit the scope and impact of a security incident, potentially reducing our per-incident losses by about 43%.
+
+These improvements would be critical as we continue to expand in both the U.S. and Canadian markets. I'll provide a more detailed analysis during our meeting.
+
+Best,
+Jason
+============================================================
+
+================================================================================
+END OF EMAIL EXPORT
+================================================================================

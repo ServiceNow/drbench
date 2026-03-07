@@ -1,0 +1,252 @@
+{
+    "file_name": "mattermost_chat_20251121_122428",
+    "content": "{\"type\": \"version\", \"version\": 1}\n{\"type\": \"team\", \"team\": {\"name\": \"compliance_team\", \"display_name\": \"Compliance Team\", \"type\": \"O\", \"header\": \"Team responsible for Elexion's regulatory compliance\", \"purpose\": \"Ensuring Elexion's products and operations comply with regulations\"}}\n{\"type\": \"team\", \"team\": {\"name\": \"sales_team\", \"display_name\": \"Sales Team\", \"type\": \"O\", \"header\": \"Team responsible for the sales and delivery of Elexion EVs\", \"purpose\": \"Selling Elexion EVs and ensuring customer satisfaction\"}}\n{\"type\": \"channel\", \"channel\": {\"team\": \"compliance_team\", \"name\": \"regulatory_updates\", \"display_name\": \"Regulatory Updates\", \"type\": \"O\", \"header\": \"Updates and discussions on automotive regulations\", \"purpose\": \"Keeping the team updated on any changes in regulations\"}}\n{\"type\": \"channel\", \"channel\": {\"team\": \"sales_team\", \"name\": \"sales_data\", \"display_name\": \"Sales Data\", \"type\": \"O\", \"header\": \"Discussing sales data, including delivery times\", \"purpose\": \"Analyzing and improving sales performance\"}}\n{\"type\": \"user\", \"user\": {\"username\": \"rachelkim\", \"email\": \"rachelkim@elexion.com\", \"password\": \"rachelkim_pwd\", \"nickname\": \"Rachel\", \"first_name\": \"Rachel\", \"last_name\": \"Kim\", \"position\": \"Regulatory Compliance Specialist\", \"roles\": \"system_user\", \"locale\": \"en\", \"teams\": [{\"name\": \"compliance_team\", \"roles\": \"team_user\", \"channels\": [{\"name\": \"regulatory_updates\", \"roles\": \"channel_user\"}]}, {\"name\": \"sales_team\", \"roles\": \"team_user\", \"channels\": [{\"name\": \"sales_data\", \"roles\": \"channel_user\"}]}]}}\n{\"type\": \"user\", \"user\": {\"username\": \"johnsmith\", \"email\": \"johnsmith@elexion.com\", \"password\": \"johnsmith_pwd\", \"nickname\": \"John\", \"first_name\": \"John\", \"last_name\": \"Smith\", \"position\": \"Sales Manager\", \"roles\": \"system_user\", \"locale\": \"en\", \"teams\": [{\"name\": \"sales_team\", \"roles\": \"team_user\", \"channels\": [{\"name\": \"sales_data\", \"roles\": \"channel_user\"}]}]}}\n{\"type\": \"user\", \"user\": {\"username\": \"susanwilliams\", \"email\": \"susanwilliams@elexion.com\", \"password\": \"susanwilliams_pwd\", \"nickname\": \"Susan\", \"first_name\": \"Susan\", \"last_name\": \"Williams\", \"position\": \"Compliance Officer\", \"roles\": \"system_user\", \"locale\": \"en\", \"teams\": [{\"name\": \"compliance_team\", \"roles\": \"team_user\", \"channels\": [{\"name\": \"regulatory_updates\", \"roles\": \"channel_user\"}]}]}}\n{\"type\": \"user\", \"user\": {\"username\": \"rachel.kim\", \"nickname\": \"rachel.kim\", \"first_name\": \"Rachel\", \"last_name\": \"Kim\", \"roles\": [\"member\"], \"position\": \"Regulatory Compliance Specialist\", \"email\": \"rachel.kim@elexionautomotive.com\", \"locale\": \"en\", \"teams\": [{\"name\": \"compliance_team\", \"roles\": \"team_user\", \"channels\": [{\"name\": \"regulatory_updates\", \"roles\": \"channel_user\"}]}, {\"name\": \"sales_team\", \"roles\": \"team_user\", \"channels\": [{\"name\": \"sales_data\", \"roles\": \"channel_user\"}]}]}}\n{\"type\": \"post\", \"post\": {\"team\": \"compliance_team\", \"channel\": \"regulatory_updates\", \"user\": \"rachelkim\", \"message\": \"Hey team, there's a new regulation update regarding EV battery disposal. Let's meet tomorrow at 2pm to discuss the impact on Elexion's operations.\", \"created_at\": 1620500000000}}\n{\"type\": \"post\", \"post\": {\"team\": \"sales_team\", \"channel\": \"sales_data\", \"user\": \"johnsmith\", \"message\": \"Just a heads up, we've received a few customer complaints about the Elexion app's interface. I think we should look into it and coordinate with the tech team for improvements.\", \"created_at\": 1620501000000}}\n{\"type\": \"post\", \"post\": {\"team\": \"compliance_team\", \"channel\": \"regulatory_updates\", \"user\": \"susanwilliams\", \"message\": \"Thanks for the heads up, Rachel. I've booked the conference room for our meeting tomorrow. Let's ensure we're fully compliant with these new regulations.\", \"created_at\": 1620502000000}}\n{\"type\": \"post\", \"post\": {\"team\": \"sales_team\", \"channel\": \"sales_data\", \"user\": \"rachelkim\", \"message\": \"John, could you share the specific complaints about the app? It might be useful for the upcoming quarterly review.\", \"created_at\": 1620503000000}}\n{\"type\": \"post\", \"post\": {\"team\": \"sales_team\", \"channel\": \"sales_data\", \"user\": \"johnsmith\", \"message\": \"Sure, Rachel. I'll compile the feedback and email it to you by end of the day.\", \"created_at\": 1620504000000}}\n{\"type\": \"post\", \"post\": {\"team\": \"sales_team\", \"channel\": \"sales_data\", \"user\": \"johnsmith\", \"message\": \"Team, I've finished analyzing our delivery performance for 2025. From purchase confirmation to actual delivery, we averaged around 12 weeks. This is a solid timeframe given the industry standards and our production capacity. Let's keep up the good work and aim to maintain or even improve this in 2026.\", \"create_at\": 1620500000000}}",
+    "chat_setup": {
+        "teams": [
+            {
+                "type": "team",
+                "team": {
+                    "name": "compliance_team",
+                    "display_name": "Compliance Team",
+                    "type": "O",
+                    "header": "Team responsible for Elexion's regulatory compliance",
+                    "purpose": "Ensuring Elexion's products and operations comply with regulations"
+                }
+            },
+            {
+                "type": "team",
+                "team": {
+                    "name": "sales_team",
+                    "display_name": "Sales Team",
+                    "type": "O",
+                    "header": "Team responsible for the sales and delivery of Elexion EVs",
+                    "purpose": "Selling Elexion EVs and ensuring customer satisfaction"
+                }
+            }
+        ],
+        "channels": [
+            {
+                "type": "channel",
+                "channel": {
+                    "team": "compliance_team",
+                    "name": "regulatory_updates",
+                    "display_name": "Regulatory Updates",
+                    "type": "O",
+                    "header": "Updates and discussions on automotive regulations",
+                    "purpose": "Keeping the team updated on any changes in regulations"
+                }
+            },
+            {
+                "type": "channel",
+                "channel": {
+                    "team": "sales_team",
+                    "name": "sales_data",
+                    "display_name": "Sales Data",
+                    "type": "O",
+                    "header": "Discussing sales data, including delivery times",
+                    "purpose": "Analyzing and improving sales performance"
+                }
+            }
+        ],
+        "users": [
+            {
+                "type": "user",
+                "user": {
+                    "username": "rachelkim",
+                    "email": "rachelkim@elexion.com",
+                    "password": "rachelkim_pwd",
+                    "nickname": "Rachel",
+                    "first_name": "Rachel",
+                    "last_name": "Kim",
+                    "position": "Regulatory Compliance Specialist",
+                    "roles": "system_user",
+                    "locale": "en",
+                    "teams": [
+                        {
+                            "name": "compliance_team",
+                            "roles": "team_user",
+                            "channels": [
+                                {
+                                    "name": "regulatory_updates",
+                                    "roles": "channel_user"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "sales_team",
+                            "roles": "team_user",
+                            "channels": [
+                                {
+                                    "name": "sales_data",
+                                    "roles": "channel_user"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "type": "user",
+                "user": {
+                    "username": "johnsmith",
+                    "email": "johnsmith@elexion.com",
+                    "password": "johnsmith_pwd",
+                    "nickname": "John",
+                    "first_name": "John",
+                    "last_name": "Smith",
+                    "position": "Sales Manager",
+                    "roles": "system_user",
+                    "locale": "en",
+                    "teams": [
+                        {
+                            "name": "sales_team",
+                            "roles": "team_user",
+                            "channels": [
+                                {
+                                    "name": "sales_data",
+                                    "roles": "channel_user"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "type": "user",
+                "user": {
+                    "username": "susanwilliams",
+                    "email": "susanwilliams@elexion.com",
+                    "password": "susanwilliams_pwd",
+                    "nickname": "Susan",
+                    "first_name": "Susan",
+                    "last_name": "Williams",
+                    "position": "Compliance Officer",
+                    "roles": "system_user",
+                    "locale": "en",
+                    "teams": [
+                        {
+                            "name": "compliance_team",
+                            "roles": "team_user",
+                            "channels": [
+                                {
+                                    "name": "regulatory_updates",
+                                    "roles": "channel_user"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "type": "user",
+                "user": {
+                    "username": "rachel.kim",
+                    "nickname": "rachel.kim",
+                    "first_name": "Rachel",
+                    "last_name": "Kim",
+                    "roles": [
+                        "member"
+                    ],
+                    "position": "Regulatory Compliance Specialist",
+                    "email": "rachel.kim@elexionautomotive.com",
+                    "locale": "en",
+                    "teams": [
+                        {
+                            "name": "compliance_team",
+                            "roles": "team_user",
+                            "channels": [
+                                {
+                                    "name": "regulatory_updates",
+                                    "roles": "channel_user"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "sales_team",
+                            "roles": "team_user",
+                            "channels": [
+                                {
+                                    "name": "sales_data",
+                                    "roles": "channel_user"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    "chat_messages": [
+        {
+            "type": "post",
+            "post": {
+                "team": "sales_team",
+                "channel": "sales_data",
+                "user": "johnsmith",
+                "message": "Team, I've finished analyzing our delivery performance for 2025. From purchase confirmation to actual delivery, we averaged around 12 weeks. This is a solid timeframe given the industry standards and our production capacity. Let's keep up the good work and aim to maintain or even improve this in 2026.",
+                "create_at": 1620500000000
+            },
+            "tag": "insight"
+        },
+        {
+            "type": "post",
+            "post": {
+                "team": "compliance_team",
+                "channel": "regulatory_updates",
+                "user": "rachelkim",
+                "message": "Hey team, there's a new regulation update regarding EV battery disposal. Let's meet tomorrow at 2pm to discuss the impact on Elexion's operations.",
+                "created_at": 1620500000000
+            },
+            "tag": "distractor"
+        },
+        {
+            "type": "post",
+            "post": {
+                "team": "sales_team",
+                "channel": "sales_data",
+                "user": "johnsmith",
+                "message": "Just a heads up, we've received a few customer complaints about the Elexion app's interface. I think we should look into it and coordinate with the tech team for improvements.",
+                "created_at": 1620501000000
+            },
+            "tag": "distractor"
+        },
+        {
+            "type": "post",
+            "post": {
+                "team": "compliance_team",
+                "channel": "regulatory_updates",
+                "user": "susanwilliams",
+                "message": "Thanks for the heads up, Rachel. I've booked the conference room for our meeting tomorrow. Let's ensure we're fully compliant with these new regulations.",
+                "created_at": 1620502000000
+            },
+            "tag": "distractor"
+        },
+        {
+            "type": "post",
+            "post": {
+                "team": "sales_team",
+                "channel": "sales_data",
+                "user": "rachelkim",
+                "message": "John, could you share the specific complaints about the app? It might be useful for the upcoming quarterly review.",
+                "created_at": 1620503000000
+            },
+            "tag": "distractor"
+        },
+        {
+            "type": "post",
+            "post": {
+                "team": "sales_team",
+                "channel": "sales_data",
+                "user": "johnsmith",
+                "message": "Sure, Rachel. I'll compile the feedback and email it to you by end of the day.",
+                "created_at": 1620504000000
+            },
+            "tag": "distractor"
+        }
+    ],
+    "file_format": "jsonl",
+    "file_path": ".llm_responses/generated_chat_document.jsonl",
+    "qa_type": "distractor",
+    "timestamp": "2025-11-21 13:24",
+    "app": "mattermost"
+}

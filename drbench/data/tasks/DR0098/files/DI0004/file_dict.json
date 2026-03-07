@@ -1,0 +1,81 @@
+{
+    "file_name": "lees-market-retention-analysis",
+    "file_title": "Staff Retention Analysis: Lee's Market vs Industry",
+    "introduction": "In this presentation, we will review and analyze the retention rate of store managers at Lee's Market, comparing it to the industry average. This analysis will help us understand our competitive position and inform our strategies moving forward.",
+    "subsections": [
+        {
+            "heading": "Overview of Lee's Market Retention Trends",
+            "content": "\u2022 Lee's Market expanded to 50 locations in British Columbia by 2020\n\u2022 Customer retention rate has increased by 15% from 2015 to 2020\n\u2022 Employee training programs saw a 20% increase in participation in 2020\n\u2022 Customer loyalty program was introduced in 2019, adding 5,000 members in the first year\n\u2022 Product return rate reduced by 3% in 2019 compared to 2018\n\u2022 Full-time employee count reached 5000 in 2020\n\u2022 Lee's Market was voted among the top 10 employers in Richmond in 2021",
+            "type": "distractor",
+            "justification": "The content provides historical and general retention trends, but not specifically about store manager retention in 2025."
+        },
+        {
+            "heading": "Store Manager Retention: Industry Benchmarking",
+            "content": "\u2022 The average store manager tenure in the retail industry is 5 years\n\u2022 Employee benefits offered by top retail companies include health insurance, retirement plans, and tuition aid\n\u2022 Industry-wide, store manager turnover is highest in the first year of employment\n\u2022 Top retail companies invest considerably in leadership development programs\n\u2022 Typical retail industry promotions for store manager positions occur every 3-5 years\n\u2022 The industry average for employee satisfaction is 78%",
+            "type": "distractor",
+            "justification": "This slide provides general industry benchmarking information but does not provide specific information about Lee's Market's store manager retention in 2025."
+        },
+        {
+            "heading": "Implications and Strategies for Lee's Market",
+            "content": "\u2022 Implementing a comprehensive employee benefits program could increase overall employee retention\n\u2022 Focusing on employee engagement can lead to higher customer satisfaction\n\u2022 Investing in leadership development programs could lead to lower store manager turnover\n\u2022 Regularly reviewing compensation packages to remain competitive in the industry\n\u2022 Implementing structured career progression paths could increase the average store manager tenure\n\u2022 Improving onboarding processes for new store managers could reduce turnover in the first year",
+            "type": "distractor",
+            "justification": "The content provides general implications and strategies for Lee's Market, but does not give specific information about store manager retention in 2025."
+        }
+    ],
+    "conclusion": "Our analysis shows that our store manager retention aligns with or exceeds industry standards. As we move forward, we should focus on maintaining this momentum and exploring strategies for further improvement.",
+    "file_format": "pptx",
+    "file_path": ".llm_responses/generated_pptx_presentation.pptx",
+    "qa_type": "distractor",
+    "timestamp": "2025-11-21 13:03",
+    "image_queries": [
+        {
+            "slide_title": "Introduction",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "intentionally_clean",
+            "slide_type": "introduction"
+        },
+        {
+            "slide_title": "Overview of Lee's Market Retention Trends",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 7,
+            "total_chars": 456,
+            "probability": 0.25,
+            "theme": "Elegant Teal"
+        },
+        {
+            "slide_title": "Store Manager Retention: Industry Benchmarking",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 6,
+            "total_chars": 467,
+            "probability": 0.25,
+            "theme": "Elegant Teal"
+        },
+        {
+            "slide_title": "Implications and Strategies for Lee's Market",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "failed",
+            "slide_type": "distractor",
+            "content_length": 6,
+            "total_chars": 523,
+            "error": "'str' object has no attribute 'choices'",
+            "theme": "Elegant Teal"
+        },
+        {
+            "slide_title": "Conclusion",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "strategic_clean_conclusion",
+            "slide_type": "conclusion",
+            "theme": "Elegant Teal"
+        }
+    ],
+    "app": "file_system"
+}

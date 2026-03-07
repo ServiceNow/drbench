@@ -1,0 +1,203 @@
+{
+    "file_name": "roundcube_email_20251202_205715",
+    "content": "{\"type\": \"user\", \"username\": \"ryan.thompson\", \"first_name\": \"Ryan\", \"last_name\": \"Thompson\", \"email\": \"ryan.thompson@elexionauto.com\", \"password\": \"ElexionIntelligence2025\"}\n{\"type\": \"user\", \"username\": \"julia.martinez\", \"first_name\": \"Julia\", \"last_name\": \"Martinez\", \"email\": \"julia.martinez@elexionauto.com\", \"password\": \"EVMarketing2025\"}\n{\"type\": \"user\", \"username\": \"michael.anderson\", \"first_name\": \"Michael\", \"last_name\": \"Anderson\", \"email\": \"michael.anderson@elexionauto.com\", \"password\": \"ElexionStrategy2025\"}\n{\"type\": \"user\", \"username\": \"linda.johnson\", \"first_name\": \"Linda\", \"last_name\": \"Johnson\", \"email\": \"linda.johnson@elexionauto.com\", \"password\": \"SalesManagement2025\"}\n{\"type\": \"user\", \"username\": \"peter.brown\", \"first_name\": \"Peter\", \"last_name\": \"Brown\", \"email\": \"peter.brown@elexionauto.com\", \"password\": \"ElexionTech2025\"}\n{\"type\": \"user\", \"username\": \"susan.williams\", \"first_name\": \"Susan\", \"last_name\": \"Williams\", \"email\": \"susan.williams@elexionauto.com\", \"password\": \"ElexionHR2025\"}\n{\"type\": \"user\", \"username\": \"james.jones\", \"first_name\": \"James\", \"last_name\": \"Jones\", \"email\": \"james.jones@elexionauto.com\", \"password\": \"ElexionFinance2025\"}\n{\"type\": \"email\", \"id\": \"email_001\", \"subject\": \"Q2 Marketing Budget Review\", \"from\": \"ryan.thompson@elexionauto.com\", \"from_name\": \"Ryan Thompson\", \"to\": [\"julia.martinez@elexionauto.com\"], \"cc\": [\"james.jones@elexionauto.com\"], \"date\": \"2025-05-01 09:30:00\", \"body\": \"Julia, \\n\\nCould you please share the Q2 marketing budget breakdown? I'd like to get a sense of how we are allocating resources across different marketing channels. \\n\\nBest, \\nRyan\", \"folder\": \"sent\", \"read\": true, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_002\", \"subject\": \"Sales Team Performance Review\", \"from\": \"linda.johnson@elexionauto.com\", \"from_name\": \"Linda Johnson\", \"to\": [\"ryan.thompson@elexionauto.com\", \"julia.martinez@elexionauto.com\"], \"cc\": [], \"date\": \"2025-05-02 11:15:00\", \"body\": \"Ryan and Julia, \\n\\nI'm compiling the sales team's performance review for this quarter. Could you please share your inputs based on our marketing and competitive intelligence perspectives? \\n\\nThanks, \\nLinda\", \"folder\": \"inbox\", \"read\": true, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_003\", \"subject\": \"Upcoming Industry Conference\", \"from\": \"michael.anderson@elexionauto.com\", \"from_name\": \"Michael Anderson\", \"to\": [\"ryan.thompson@elexionauto.com\"], \"cc\": [], \"date\": \"2025-05-03 13:45:00\", \"body\": \"Ryan, \\n\\nI wanted to inform you about an upcoming industry conference that could provide us with some valuable insights. Could you please check your schedule and let me know if you can attend? \\n\\nBest, \\nMichael\", \"folder\": \"inbox\", \"read\": true, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_004\", \"subject\": \"New Employee Onboarding\", \"from\": \"susan.williams@elexionauto.com\", \"from_name\": \"Susan Williams\", \"to\": [\"ryan.thompson@elexionauto.com\"], \"cc\": [], \"date\": \"2025-05-04 15:30:00\", \"body\": \"Ryan, \\n\\nWe have a new hire joining your team next week. Could you please share any specific onboarding materials or processes you want them to follow? \\n\\nThanks, \\nSusan\", \"folder\": \"inbox\", \"read\": true, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_001\", \"subject\": \"2024 IEA Report Analysis and Battery Procurement Strategy\", \"from\": \"ryan.thompson@elexionauto.com\", \"from_name\": \"Ryan Thompson\", \"to\": [\"michael.anderson@elexionauto.com\", \"julia.martinez@elexionauto.com\"], \"cc\": [\"peter.brown@elexionauto.com\", \"james.jones@elexionauto.com\"], \"date\": \"2025-12-04 08:30:00\", \"body\": \"Hi Team,\\n\\nAs part of our ongoing effort to optimize our battery sourcing and procurement strategy, we have analyzed the 2024 IEA report 'Trends in Electric Cars'. Based on our findings, we ran eight predictive models covering market growth, brand share, and regional adoption rates.\\n\\nThese models suggest that our current strategy for battery procurement is well-aligned with the projected growth rates in the North American market. However, we should keep a close eye on the supply chain dynamics and regional material availability.\\n\\nI will share a detailed report on our findings and recommendations by the end of this week.\\n\\nBest,\\nRyan\", \"folder\": \"sent\", \"read\": true, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_002\", \"subject\": \"Re: 2024 IEA Report Analysis and Battery Procurement Strategy\", \"from\": \"michael.anderson@elexionauto.com\", \"from_name\": \"Michael Anderson\", \"to\": [\"ryan.thompson@elexionauto.com\", \"julia.martinez@elexionauto.com\"], \"cc\": [\"peter.brown@elexionauto.com\", \"james.jones@elexionauto.com\"], \"date\": \"2025-12-04 09:45:00\", \"body\": \"Hi Ryan,\\n\\nThanks for the update on the battery procurement strategy. It's great to know we're on the right track given the projected growth rates. I look forward to reviewing the detailed report.\\n\\nRegards,\\nMichael\", \"folder\": \"inbox\", \"read\": true, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_003\", \"subject\": \"Re: 2024 IEA Report Analysis and Battery Procurement Strategy\", \"from\": \"julia.martinez@elexionauto.com\", \"from_name\": \"Julia Martinez\", \"to\": [\"ryan.thompson@elexionauto.com\", \"michael.anderson@elexionauto.com\"], \"cc\": [\"peter.brown@elexionauto.com\", \"james.jones@elexionauto.com\"], \"date\": \"2025-12-04 10:10:00\", \"body\": \"Hi Ryan,\\n\\nExcellent work on the analysis. Being able to predict market trends accurately is crucial to our success in the EV industry. I look forward to reading the detailed report.\\n\\nBest,\\nJulia\", \"folder\": \"inbox\", \"read\": true, \"attachments\": []}",
+    "email_setup": [
+        {
+            "type": "user",
+            "username": "ryan.thompson",
+            "first_name": "Ryan",
+            "last_name": "Thompson",
+            "email": "ryan.thompson@elexionauto.com",
+            "password": "ElexionIntelligence2025"
+        },
+        {
+            "type": "user",
+            "username": "julia.martinez",
+            "first_name": "Julia",
+            "last_name": "Martinez",
+            "email": "julia.martinez@elexionauto.com",
+            "password": "EVMarketing2025"
+        },
+        {
+            "type": "user",
+            "username": "michael.anderson",
+            "first_name": "Michael",
+            "last_name": "Anderson",
+            "email": "michael.anderson@elexionauto.com",
+            "password": "ElexionStrategy2025"
+        },
+        {
+            "type": "user",
+            "username": "linda.johnson",
+            "first_name": "Linda",
+            "last_name": "Johnson",
+            "email": "linda.johnson@elexionauto.com",
+            "password": "SalesManagement2025"
+        },
+        {
+            "type": "user",
+            "username": "peter.brown",
+            "first_name": "Peter",
+            "last_name": "Brown",
+            "email": "peter.brown@elexionauto.com",
+            "password": "ElexionTech2025"
+        },
+        {
+            "type": "user",
+            "username": "susan.williams",
+            "first_name": "Susan",
+            "last_name": "Williams",
+            "email": "susan.williams@elexionauto.com",
+            "password": "ElexionHR2025"
+        },
+        {
+            "type": "user",
+            "username": "james.jones",
+            "first_name": "James",
+            "last_name": "Jones",
+            "email": "james.jones@elexionauto.com",
+            "password": "ElexionFinance2025"
+        }
+    ],
+    "email_messages": [
+        {
+            "type": "email",
+            "id": "email_001",
+            "subject": "Q2 Marketing Budget Review",
+            "from": "ryan.thompson@elexionauto.com",
+            "from_name": "Ryan Thompson",
+            "to": [
+                "julia.martinez@elexionauto.com"
+            ],
+            "cc": [
+                "james.jones@elexionauto.com"
+            ],
+            "date": "2025-05-01 09:30:00",
+            "body": "Julia, \n\nCould you please share the Q2 marketing budget breakdown? I'd like to get a sense of how we are allocating resources across different marketing channels. \n\nBest, \nRyan",
+            "folder": "sent",
+            "read": true,
+            "attachments": [],
+            "tag": "distractor"
+        },
+        {
+            "type": "email",
+            "id": "email_002",
+            "subject": "Sales Team Performance Review",
+            "from": "linda.johnson@elexionauto.com",
+            "from_name": "Linda Johnson",
+            "to": [
+                "ryan.thompson@elexionauto.com",
+                "julia.martinez@elexionauto.com"
+            ],
+            "cc": [],
+            "date": "2025-05-02 11:15:00",
+            "body": "Ryan and Julia, \n\nI'm compiling the sales team's performance review for this quarter. Could you please share your inputs based on our marketing and competitive intelligence perspectives? \n\nThanks, \nLinda",
+            "folder": "inbox",
+            "read": true,
+            "attachments": [],
+            "tag": "distractor"
+        },
+        {
+            "type": "email",
+            "id": "email_003",
+            "subject": "Upcoming Industry Conference",
+            "from": "michael.anderson@elexionauto.com",
+            "from_name": "Michael Anderson",
+            "to": [
+                "ryan.thompson@elexionauto.com"
+            ],
+            "cc": [],
+            "date": "2025-05-03 13:45:00",
+            "body": "Ryan, \n\nI wanted to inform you about an upcoming industry conference that could provide us with some valuable insights. Could you please check your schedule and let me know if you can attend? \n\nBest, \nMichael",
+            "folder": "inbox",
+            "read": true,
+            "attachments": [],
+            "tag": "distractor"
+        },
+        {
+            "type": "email",
+            "id": "email_004",
+            "subject": "New Employee Onboarding",
+            "from": "susan.williams@elexionauto.com",
+            "from_name": "Susan Williams",
+            "to": [
+                "ryan.thompson@elexionauto.com"
+            ],
+            "cc": [],
+            "date": "2025-05-04 15:30:00",
+            "body": "Ryan, \n\nWe have a new hire joining your team next week. Could you please share any specific onboarding materials or processes you want them to follow? \n\nThanks, \nSusan",
+            "folder": "inbox",
+            "read": true,
+            "attachments": [],
+            "tag": "distractor"
+        },
+        {
+            "type": "email",
+            "id": "email_001",
+            "subject": "2024 IEA Report Analysis and Battery Procurement Strategy",
+            "from": "ryan.thompson@elexionauto.com",
+            "from_name": "Ryan Thompson",
+            "to": [
+                "michael.anderson@elexionauto.com",
+                "julia.martinez@elexionauto.com"
+            ],
+            "cc": [
+                "peter.brown@elexionauto.com",
+                "james.jones@elexionauto.com"
+            ],
+            "date": "2025-12-04 08:30:00",
+            "body": "Hi Team,\n\nAs part of our ongoing effort to optimize our battery sourcing and procurement strategy, we have analyzed the 2024 IEA report 'Trends in Electric Cars'. Based on our findings, we ran eight predictive models covering market growth, brand share, and regional adoption rates.\n\nThese models suggest that our current strategy for battery procurement is well-aligned with the projected growth rates in the North American market. However, we should keep a close eye on the supply chain dynamics and regional material availability.\n\nI will share a detailed report on our findings and recommendations by the end of this week.\n\nBest,\nRyan",
+            "folder": "sent",
+            "read": true,
+            "attachments": [],
+            "tag": "insight"
+        },
+        {
+            "type": "email",
+            "id": "email_002",
+            "subject": "Re: 2024 IEA Report Analysis and Battery Procurement Strategy",
+            "from": "michael.anderson@elexionauto.com",
+            "from_name": "Michael Anderson",
+            "to": [
+                "ryan.thompson@elexionauto.com",
+                "julia.martinez@elexionauto.com"
+            ],
+            "cc": [
+                "peter.brown@elexionauto.com",
+                "james.jones@elexionauto.com"
+            ],
+            "date": "2025-12-04 09:45:00",
+            "body": "Hi Ryan,\n\nThanks for the update on the battery procurement strategy. It's great to know we're on the right track given the projected growth rates. I look forward to reviewing the detailed report.\n\nRegards,\nMichael",
+            "folder": "inbox",
+            "read": true,
+            "attachments": [],
+            "tag": "insight"
+        },
+        {
+            "type": "email",
+            "id": "email_003",
+            "subject": "Re: 2024 IEA Report Analysis and Battery Procurement Strategy",
+            "from": "julia.martinez@elexionauto.com",
+            "from_name": "Julia Martinez",
+            "to": [
+                "ryan.thompson@elexionauto.com",
+                "michael.anderson@elexionauto.com"
+            ],
+            "cc": [
+                "peter.brown@elexionauto.com",
+                "james.jones@elexionauto.com"
+            ],
+            "date": "2025-12-04 10:10:00",
+            "body": "Hi Ryan,\n\nExcellent work on the analysis. Being able to predict market trends accurately is crucial to our success in the EV industry. I look forward to reading the detailed report.\n\nBest,\nJulia",
+            "folder": "inbox",
+            "read": true,
+            "attachments": [],
+            "tag": "insight"
+        }
+    ],
+    "file_format": "jsonl",
+    "file_path": ".llm_responses/generated_email_document.jsonl",
+    "qa_type": "distractor",
+    "timestamp": "2025-12-02 21:57",
+    "app": "email"
+}

@@ -1,0 +1,10 @@
+{
+    "insight_id": "DI0005",
+    "qa_type": "distractor",
+    "qa_index": 5,
+    "specific_question": "What employee satisfaction rate (in %) was achieved by MediConn in 2024?",
+    "answer": "MediConn achieved 88% employee satisfaction in 2024.",
+    "justification": "This data is not relevant because it indicates MediConn's internal employee satisfaction, which is important for workforce stability, but doesn't inform external regulatory compliance. MediConn cannot use this data to identify strategic adjustments for CHA compliance risks or provincial legal precedents. This data is related to HR performance, not regulatory risk mitigation strategy.",
+    "timestamp": "2025-11-20 18:01",
+    "dr_question": "In response to the federal government\u2019s 2025 interpretation of the Canada Health Act, what should MediConn Solutions do to address compliance risks from legal precedents or provincial variations by Q4 2028?"
+}

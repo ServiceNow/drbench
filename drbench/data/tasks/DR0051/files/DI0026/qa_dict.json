@@ -1,0 +1,10 @@
+{
+    "insight_id": "DI0026",
+    "qa_type": "distractor",
+    "qa_index": 26,
+    "specific_question": "What was the percentage of customer service interactions handled via phone versus email versus chat at MediConn Solutions' in 2024?",
+    "answer": "In 2024, 58% of customer service interactions occurred via phone, 28% via email, and 14% via live chat. Phone remained the preferred channel, despite MediConn's efforts to shift users toward asynchronous channels. Chat adoption increased from 9% in Q1 to 17% in Q4.",
+    "justification": "",
+    "timestamp": "2025-11-19 23:59",
+    "dr_question": "The article published on TechTarget in January 2024 cited the MGMA's findings, showing that patient communication technology addresses digital front door issues like poor booking systems. How might MediConn Solutions enhance patient access to virtual consultations and prescription management services in Q1 2026 to reduce wait times and boost satisfaction and retention?"
+}

@@ -1,0 +1,81 @@
+{
+    "file_name": "direct-to-customer-impact",
+    "file_title": "Impact of Direct-to-Customer Sales Model",
+    "introduction": "In this presentation, we will explore the potential impact of adopting a direct-to-customer sales model on our sales operations by 2026. We will examine key metrics such as sales cycle duration, conversion rates, and average revenue per customer.",
+    "subsections": [
+        {
+            "heading": "Evolution of Automotive Sales Strategies",
+            "content": "\u2022 Recognizing the potential for increased profitability through direct-to-customer sales, as demonstrated by industry peers such as Tesla.\n\u2022 Our company has made strategic moves to transition to a direct sales model by 2026, with a focus on the North American market.\n\u2022 Elexion Automotive has proactively engaged Jack Morrison & Rachael Pierce, a reputable law firm specializing in the complexities of U.S. automotive franchise law, as of February 2025.\n\u2022 The involvement of this legal team will help us navigate state-specific franchise laws, which have posed challenges for direct sales in the past.\n\u2022 This strategic move is expected to positively influence sales cycle duration, conversion rates, and average revenue per customer.\n\u2022 Ongoing legal consultation will ensure our sales model remains compliant in all jurisdictions, a critical factor considering the pushback Tesla faced during its direct-sales transition.\n\u2022 This shift to direct sales is anticipated to avoid dealer markups, potentially increasing profitability ranging from hundreds to $20,000 per vehicle.",
+            "type": "insight",
+            "justification": "This content contextualizes Elexion's decision to secure legal counsel for transitioning to a direct sales model, and how it might influence key sales metrics."
+        },
+        {
+            "heading": "Direct-To-Customer Model: A Comparative Analysis",
+            "content": "\u2022 Traditional dealership model involves third-party intermediaries, while direct-to-customer eliminates them\n\u2022 Dealerships offer the advantage of providing immediate access to vehicles for customers\n\u2022 Direct-to-customer sales allow manufacturers to control the customer experience\n\u2022 Dealerships can offer a wider range of services like financing, insurance, and maintenance\n\u2022 Direct-to-customer sales can offer cost savings to customers by eliminating dealer markups\n\u2022 Dealerships model often necessitates a larger inventory, while direct sales can work with a leaner inventory",
+            "type": "distractor",
+            "justification": "This slide compares dealership and direct-to-customer models but doesn't project the effect on Elexion's sales cycle duration, conversion rates, and average revenue per customer."
+        },
+        {
+            "heading": "Impacts on Sales Metrics: A Forecast",
+            "content": "\u2022 Adoption of direct-to-customer sales might lead to significant cost savings\n\u2022 Direct sales model could potentially streamline the supply chain process\n\u2022 It could lead to a more controlled and uniform customer experience\n\u2022 Potential legal challenges might arise due to franchise laws in different states\n\u2022 The model could lead to a leaner inventory, reducing holding costs\n\u2022 An online-centric sales approach might increase the importance of digital marketing",
+            "type": "distractor",
+            "justification": "This slide forecasts potential impacts but does not specify the effect on sales cycle duration, conversion rates, and average revenue per customer."
+        }
+    ],
+    "conclusion": "The shift to a direct-to-customer model presents both opportunities and challenges for Elexion Automotive. As we move forward, we need to align our sales strategies to ensure we maximize benefits and mitigate potential risks.",
+    "file_format": "pptx",
+    "file_path": ".llm_responses/generated_pptx_presentation.pptx",
+    "qa_type": "insight",
+    "timestamp": "2025-11-20 00:52",
+    "image_queries": [
+        {
+            "slide_title": "Introduction",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "intentionally_clean",
+            "slide_type": "introduction"
+        },
+        {
+            "slide_title": "Evolution of Automotive Sales Strategies",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "failed",
+            "slide_type": "insight",
+            "content_length": 7,
+            "total_chars": 1053,
+            "error": "'str' object has no attribute 'choices'",
+            "theme": "Modern Orange"
+        },
+        {
+            "slide_title": "Direct-To-Customer Model: A Comparative Analysis",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 6,
+            "total_chars": 560,
+            "probability": 0.25,
+            "theme": "Modern Orange"
+        },
+        {
+            "slide_title": "Impacts on Sales Metrics: A Forecast",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "failed",
+            "slide_type": "distractor",
+            "content_length": 6,
+            "total_chars": 442,
+            "error": "'str' object has no attribute 'choices'",
+            "theme": "Modern Orange"
+        },
+        {
+            "slide_title": "Conclusion",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "strategic_clean_conclusion",
+            "slide_type": "conclusion",
+            "theme": "Modern Orange"
+        }
+    ],
+    "app": "file_system"
+}

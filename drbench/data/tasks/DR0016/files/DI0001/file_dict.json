@@ -1,0 +1,81 @@
+{
+    "file_name": "haccp-compliance-2024",
+    "file_title": "HACCP Compliance Evaluation 2024",
+    "introduction": "This presentation aims to discuss our adherence to HACCP Food Safety Compliance in 2024. We will take a close look at our food safety measures, auditing results, and areas of improvement.",
+    "subsections": [
+        {
+            "heading": "2024 Food Safety Initiatives Overview",
+            "content": "\u2022 Launched 'Safe and Fresh' program, aimed at improving food handling procedures\n\u2022 Invested in advanced refrigeration systems to ensure product freshness\n\u2022 Adopted a new vendor vetting process for increased quality control\n\u2022 Implemented an in-store sanitation training program for all employees\n\u2022 Conducted a comprehensive review of supply chain processes for potential risks\n\u2022 Initiated a partnership with local food safety organizations to promote awareness",
+            "type": "distractor",
+            "justification": "The content discusses various food safety initiatives, but does not specifically address HACCP Food Safety Compliance."
+        },
+        {
+            "heading": "HACCP Audit Findings",
+            "content": "\u2022 Conducted bi-annual internal audits to assess food safety practices\n\u2022 Collaborated with external auditors for unbiased evaluation\n\u2022 Identified minor non-compliance issues in some stores, addressed immediately\n\u2022 Initiated corrective actions based on audit recommendations\n\u2022 Implemented a new tracking system for audit findings and corrective actions\n\u2022 Evaluated effectiveness of corrective actions through follow-up audits",
+            "type": "distractor",
+            "justification": "The slide focuses on the audit process and findings, but does not confirm whether Lee's Market was in compliance with HACCP in 2024."
+        },
+        {
+            "heading": "Improvement Strategies for HACCP Compliance",
+            "content": "\u2022 Initiated a company-wide training program on HACCP principles\n\u2022 Invested in new technology to improve hazard analysis process\n\u2022 Strengthened vendor contracts to include stricter food safety requirements\n\u2022 Implemented a corrective action plan to address identified non-compliance issues\n\u2022 Developed a HACCP compliance dashboard for real-time monitoring\n\u2022 Established a cross-functional team to oversee HACCP compliance",
+            "type": "distractor",
+            "justification": "This slide describes strategies for improving HACCP compliance, but does not provide information on whether these were successful in 2024."
+        }
+    ],
+    "conclusion": "While Lee's Market has largely maintained HACCP compliance, there are areas for improvement. We need to continue refining our food safety procedures to ensure our standards are consistently met and surpassed.",
+    "file_format": "pptx",
+    "file_path": ".llm_responses/generated_pptx_presentation.pptx",
+    "qa_type": "distractor",
+    "timestamp": "2025-12-02 22:28",
+    "image_queries": [
+        {
+            "slide_title": "Introduction",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "intentionally_clean",
+            "slide_type": "introduction"
+        },
+        {
+            "slide_title": "2024 Food Safety Initiatives Overview",
+            "has_image": true,
+            "image_query": "food safety training workshop",
+            "generation_method": "strategic_placement",
+            "slide_type": "distractor",
+            "content_length": 6,
+            "total_chars": 442,
+            "forced": false,
+            "theme": "Professional Green"
+        },
+        {
+            "slide_title": "HACCP Audit Findings",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 6,
+            "total_chars": 406,
+            "probability": 0.25,
+            "theme": "Professional Green"
+        },
+        {
+            "slide_title": "Improvement Strategies for HACCP Compliance",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 6,
+            "total_chars": 402,
+            "probability": 0.25,
+            "theme": "Professional Green"
+        },
+        {
+            "slide_title": "Conclusion",
+            "has_image": true,
+            "image_query": "business growth strategy discussion",
+            "generation_method": "strategic_conclusion",
+            "slide_type": "conclusion",
+            "theme": "Professional Green"
+        }
+    ],
+    "app": "file_system"
+}

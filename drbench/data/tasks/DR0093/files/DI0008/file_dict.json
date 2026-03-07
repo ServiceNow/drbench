@@ -1,0 +1,81 @@
+{
+    "file_name": "referral-program-impact",
+    "file_title": "MediConn Referral Program Impact Analysis",
+    "introduction": "We are here today to review the impact of our referral program on new patient acquisition in 2024. We will break down the results, trends and forecast potential growth.",
+    "subsections": [
+        {
+            "heading": "2024 Referral Program Overview",
+            "content": "\u2022 The referral program was launched in Q2 2024 to attract new patients\n\u2022 The program was promoted primarily through social media and email marketing\n\u2022 Incentives offered included discounts on future consultations\n\u2022 The program was managed by the customer relations department\n\u2022 The referral process was automated through the MediConn app\n\u2022 The referral program was well received with high user engagement\n\u2022 The program was aligned with industry standards and regulations",
+            "type": "distractor",
+            "justification": "This content provides an overview of the referral program but does not specify how many new patients were registered. Strategy: Discusses procedural information."
+        },
+        {
+            "heading": "New Patient Registrations via Referral",
+            "content": "\u2022 Referrals became a major source of new patient registrations in 2024\n\u2022 A significant proportion of new patients were introduced through existing patients\n\u2022 The demographics of referred patients were diverse, with a majority in the 30-45 age bracket\n\u2022 Feedback from referred patients indicated high satisfaction with the registration process\n\u2022 Referred patients showed high engagement rates with our digital health services\n\u2022 The customer relations team facilitated the integration of new referrals into our systems",
+            "type": "distractor",
+            "justification": "This slide discusses the impact of referrals on new patient registrations without specifying the number. Strategy: Highlights related metrics and activities."
+        },
+        {
+            "heading": "Referral Program Enhancements for Future Growth",
+            "content": "\u2022 Future enhancements to the program include expanding to more marketing channels\n\u2022 The feedback loop will be improved for better understanding of patient needs\n\u2022 The referral reward system will be optimized based on patient feedback\n\u2022 We are considering partnerships with pharmacies for better reward offerings\n\u2022 The app interface will be updated for easier referral process\n\u2022 The registration process for referred patients will be further simplified\n\u2022 The success metrics for the program will be reevaluated and updated",
+            "type": "distractor",
+            "justification": "This slide discusses future plans for the referral program but does not provide data on past performance. Strategy: Discusses future plans and processes."
+        }
+    ],
+    "conclusion": "Our referral program has been instrumental in driving new patient registrations in 2024. To continue our growth, we should consider refining our referral strategies based on the insights gathered.",
+    "file_format": "pptx",
+    "file_path": ".llm_responses/generated_pptx_presentation.pptx",
+    "qa_type": "distractor",
+    "timestamp": "2025-11-20 18:02",
+    "image_queries": [
+        {
+            "slide_title": "Introduction",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "intentionally_clean",
+            "slide_type": "introduction"
+        },
+        {
+            "slide_title": "2024 Referral Program Overview",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "failed",
+            "slide_type": "distractor",
+            "content_length": 7,
+            "total_chars": 450,
+            "error": "'str' object has no attribute 'choices'",
+            "theme": "Professional Green"
+        },
+        {
+            "slide_title": "New Patient Registrations via Referral",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 6,
+            "total_chars": 499,
+            "probability": 0.25,
+            "theme": "Professional Green"
+        },
+        {
+            "slide_title": "Referral Program Enhancements for Future Growth",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 7,
+            "total_chars": 501,
+            "probability": 0.25,
+            "theme": "Professional Green"
+        },
+        {
+            "slide_title": "Conclusion",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "strategic_clean_conclusion",
+            "slide_type": "conclusion",
+            "theme": "Professional Green"
+        }
+    ],
+    "app": "nextcloud"
+}

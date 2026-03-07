@@ -1,0 +1,263 @@
+{
+    "file_name": "mattermost_chat_20251202_225855",
+    "content": "{\"type\": \"version\", \"version\": 1}\n{\"type\": \"team\", \"team\": {\"name\": \"sales_marketing\", \"display_name\": \"Sales and Marketing\", \"type\": \"O\", \"header\": \"Sales and Marketing Department of Elexion Automotive\", \"purpose\": \"Discussion and collaboration on sales and marketing strategies\"}}\n{\"type\": \"team\", \"team\": {\"name\": \"competitive_intelligence\", \"display_name\": \"Competitive Intelligence\", \"type\": \"O\", \"header\": \"Team focused on competitive intelligence analysis\", \"purpose\": \"Collaboration on competitive intelligence strategies and market analysis\"}}\n{\"type\": \"channel\", \"channel\": {\"team\": \"sales_marketing\", \"name\": \"market_analysis\", \"display_name\": \"Market Analysis\", \"type\": \"O\", \"header\": \"Discussion and sharing of market data and trends\", \"purpose\": \"Understanding the market trends and customer behavior\"}}\n{\"type\": \"channel\", \"channel\": {\"team\": \"competitive_intelligence\", \"name\": \"intelligence_strategies\", \"display_name\": \"Intelligence Strategies\", \"type\": \"O\", \"header\": \"Development and discussion of competitive intelligence strategies\", \"purpose\": \"Developing strategies to stay competitive in the market\"}}\n{\"type\": \"user\", \"user\": {\"username\": \"ryan_thompson\", \"email\": \"r.thompson@elexion.com\", \"password\": \"ryan_t_password\", \"nickname\": \"Ryan\", \"first_name\": \"Ryan\", \"last_name\": \"Thompson\", \"position\": \"Competitive Intelligence Manager\", \"roles\": \"system_user\", \"locale\": \"en\", \"teams\": [{\"name\": \"sales_marketing\", \"roles\": \"team_user\", \"channels\": [{\"name\": \"market_analysis\", \"roles\": \"channel_user\"}]}, {\"name\": \"competitive_intelligence\", \"roles\": \"team_user\", \"channels\": [{\"name\": \"intelligence_strategies\", \"roles\": \"channel_user\"}]}]}}\n{\"type\": \"user\", \"user\": {\"username\": \"jane_doe\", \"email\": \"j.doe@elexion.com\", \"password\": \"jane_d_password\", \"nickname\": \"Jane\", \"first_name\": \"Jane\", \"last_name\": \"Doe\", \"position\": \"Sales Manager\", \"roles\": \"system_user\", \"locale\": \"en\", \"teams\": [{\"name\": \"sales_marketing\", \"roles\": \"team_user\", \"channels\": [{\"name\": \"market_analysis\", \"roles\": \"channel_user\"}]}]}}\n{\"type\": \"user\", \"user\": {\"username\": \"john_smith\", \"email\": \"j.smith@elexion.com\", \"password\": \"john_s_password\", \"nickname\": \"John\", \"first_name\": \"John\", \"last_name\": \"Smith\", \"position\": \"Market Analyst\", \"roles\": \"system_user\", \"locale\": \"en\", \"teams\": [{\"name\": \"competitive_intelligence\", \"roles\": \"team_user\", \"channels\": [{\"name\": \"intelligence_strategies\", \"roles\": \"channel_user\"}]}]}}\n{\"type\": \"user\", \"user\": {\"username\": \"ryan.thompson\", \"nickname\": \"ryan.thompson\", \"first_name\": \"Ryan\", \"last_name\": \"Thompson\", \"roles\": [\"member\"], \"position\": \"Competitive Intelligence Manager\", \"email\": \"ryan.thompson@elexion.com\", \"locale\": \"en\", \"teams\": [{\"name\": \"sales_marketing\", \"roles\": \"team_user\", \"channels\": [{\"name\": \"market_analysis\", \"roles\": \"channel_user\"}]}, {\"name\": \"competitive_intelligence\", \"roles\": \"team_user\", \"channels\": [{\"name\": \"intelligence_strategies\", \"roles\": \"channel_user\"}]}]}}\n{\"type\": \"post\", \"post\": {\"team\": \"sales_marketing\", \"channel\": \"market_analysis\", \"user\": \"jane_doe\", \"message\": \"Team, I just received updated sales figures for last quarter. We saw a 15% growth compared to the previous quarter. Good job everyone!\", \"created_at\": 1620500000000}}\n{\"type\": \"post\", \"post\": {\"team\": \"competitive_intelligence\", \"channel\": \"intelligence_strategies\", \"user\": \"ryan_thompson\", \"message\": \"I've been looking into our competitors' recent marketing strategies. It seems like they're heavily investing in social media campaigns. We should consider increasing our online presence.\", \"created_at\": 1620501000000}}\n{\"type\": \"post\", \"post\": {\"team\": \"sales_marketing\", \"channel\": \"market_analysis\", \"user\": \"jane_doe\", \"message\": \"I agree with you, Ryan. We need to explore new ways to reach potential customers. Let's have a brainstorming session next week to discuss this.\", \"created_at\": 1620502000000}}\n{\"type\": \"post\", \"post\": {\"team\": \"competitive_intelligence\", \"channel\": \"intelligence_strategies\", \"user\": \"john_smith\", \"message\": \"Ryan, I've compiled a report on the latest EV market trends. It seems like there's a growing demand for more affordable options. We're perfectly positioned to capitalize on this trend.\", \"created_at\": 1620503000000}}\n{\"type\": \"post\", \"post\": {\"team\": \"sales_marketing\", \"channel\": \"market_analysis\", \"user\": \"jane_doe\", \"message\": \"That's great to hear, John. We should discuss this in our next team meeting. I'll add it to the agenda.\", \"created_at\": 1620504000000}}\n{\"type\": \"post\", \"post\": {\"team\": \"sales_marketing\", \"channel\": \"market_analysis\", \"user\": \"jane_doe\", \"message\": \"Hey team, as part of the new branding initiative, can anyone tell me how many of our staff have updated their ID photos this year? We may need to push a little more if the number is low.\", \"create_at\": 1620500000000}}\n{\"type\": \"post\", \"post\": {\"team\": \"sales_marketing\", \"channel\": \"market_analysis\", \"user\": \"ryan_thompson\", \"message\": \"Hi Jane, I just checked with HR. We have a pretty good turnout. Approximately 79% of employees have updated their ID photos this year.\", \"create_at\": 1620500010000}}",
+    "chat_setup": {
+        "teams": [
+            {
+                "type": "team",
+                "team": {
+                    "name": "sales_marketing",
+                    "display_name": "Sales and Marketing",
+                    "type": "O",
+                    "header": "Sales and Marketing Department of Elexion Automotive",
+                    "purpose": "Discussion and collaboration on sales and marketing strategies"
+                }
+            },
+            {
+                "type": "team",
+                "team": {
+                    "name": "competitive_intelligence",
+                    "display_name": "Competitive Intelligence",
+                    "type": "O",
+                    "header": "Team focused on competitive intelligence analysis",
+                    "purpose": "Collaboration on competitive intelligence strategies and market analysis"
+                }
+            }
+        ],
+        "channels": [
+            {
+                "type": "channel",
+                "channel": {
+                    "team": "sales_marketing",
+                    "name": "market_analysis",
+                    "display_name": "Market Analysis",
+                    "type": "O",
+                    "header": "Discussion and sharing of market data and trends",
+                    "purpose": "Understanding the market trends and customer behavior"
+                }
+            },
+            {
+                "type": "channel",
+                "channel": {
+                    "team": "competitive_intelligence",
+                    "name": "intelligence_strategies",
+                    "display_name": "Intelligence Strategies",
+                    "type": "O",
+                    "header": "Development and discussion of competitive intelligence strategies",
+                    "purpose": "Developing strategies to stay competitive in the market"
+                }
+            }
+        ],
+        "users": [
+            {
+                "type": "user",
+                "user": {
+                    "username": "ryan_thompson",
+                    "email": "r.thompson@elexion.com",
+                    "password": "ryan_t_password",
+                    "nickname": "Ryan",
+                    "first_name": "Ryan",
+                    "last_name": "Thompson",
+                    "position": "Competitive Intelligence Manager",
+                    "roles": "system_user",
+                    "locale": "en",
+                    "teams": [
+                        {
+                            "name": "sales_marketing",
+                            "roles": "team_user",
+                            "channels": [
+                                {
+                                    "name": "market_analysis",
+                                    "roles": "channel_user"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "competitive_intelligence",
+                            "roles": "team_user",
+                            "channels": [
+                                {
+                                    "name": "intelligence_strategies",
+                                    "roles": "channel_user"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "type": "user",
+                "user": {
+                    "username": "jane_doe",
+                    "email": "j.doe@elexion.com",
+                    "password": "jane_d_password",
+                    "nickname": "Jane",
+                    "first_name": "Jane",
+                    "last_name": "Doe",
+                    "position": "Sales Manager",
+                    "roles": "system_user",
+                    "locale": "en",
+                    "teams": [
+                        {
+                            "name": "sales_marketing",
+                            "roles": "team_user",
+                            "channels": [
+                                {
+                                    "name": "market_analysis",
+                                    "roles": "channel_user"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "type": "user",
+                "user": {
+                    "username": "john_smith",
+                    "email": "j.smith@elexion.com",
+                    "password": "john_s_password",
+                    "nickname": "John",
+                    "first_name": "John",
+                    "last_name": "Smith",
+                    "position": "Market Analyst",
+                    "roles": "system_user",
+                    "locale": "en",
+                    "teams": [
+                        {
+                            "name": "competitive_intelligence",
+                            "roles": "team_user",
+                            "channels": [
+                                {
+                                    "name": "intelligence_strategies",
+                                    "roles": "channel_user"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "type": "user",
+                "user": {
+                    "username": "ryan.thompson",
+                    "nickname": "ryan.thompson",
+                    "first_name": "Ryan",
+                    "last_name": "Thompson",
+                    "roles": [
+                        "member"
+                    ],
+                    "position": "Competitive Intelligence Manager",
+                    "email": "ryan.thompson@elexion.com",
+                    "locale": "en",
+                    "teams": [
+                        {
+                            "name": "sales_marketing",
+                            "roles": "team_user",
+                            "channels": [
+                                {
+                                    "name": "market_analysis",
+                                    "roles": "channel_user"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "competitive_intelligence",
+                            "roles": "team_user",
+                            "channels": [
+                                {
+                                    "name": "intelligence_strategies",
+                                    "roles": "channel_user"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    "chat_messages": [
+        {
+            "type": "post",
+            "post": {
+                "team": "sales_marketing",
+                "channel": "market_analysis",
+                "user": "jane_doe",
+                "message": "Hey team, as part of the new branding initiative, can anyone tell me how many of our staff have updated their ID photos this year? We may need to push a little more if the number is low.",
+                "create_at": 1620500000000
+            },
+            "tag": "insight"
+        },
+        {
+            "type": "post",
+            "post": {
+                "team": "sales_marketing",
+                "channel": "market_analysis",
+                "user": "ryan_thompson",
+                "message": "Hi Jane, I just checked with HR. We have a pretty good turnout. Approximately 79% of employees have updated their ID photos this year.",
+                "create_at": 1620500010000
+            },
+            "tag": "insight"
+        },
+        {
+            "type": "post",
+            "post": {
+                "team": "sales_marketing",
+                "channel": "market_analysis",
+                "user": "jane_doe",
+                "message": "Team, I just received updated sales figures for last quarter. We saw a 15% growth compared to the previous quarter. Good job everyone!",
+                "created_at": 1620500000000
+            },
+            "tag": "distractor"
+        },
+        {
+            "type": "post",
+            "post": {
+                "team": "competitive_intelligence",
+                "channel": "intelligence_strategies",
+                "user": "ryan_thompson",
+                "message": "I've been looking into our competitors' recent marketing strategies. It seems like they're heavily investing in social media campaigns. We should consider increasing our online presence.",
+                "created_at": 1620501000000
+            },
+            "tag": "distractor"
+        },
+        {
+            "type": "post",
+            "post": {
+                "team": "sales_marketing",
+                "channel": "market_analysis",
+                "user": "jane_doe",
+                "message": "I agree with you, Ryan. We need to explore new ways to reach potential customers. Let's have a brainstorming session next week to discuss this.",
+                "created_at": 1620502000000
+            },
+            "tag": "distractor"
+        },
+        {
+            "type": "post",
+            "post": {
+                "team": "competitive_intelligence",
+                "channel": "intelligence_strategies",
+                "user": "john_smith",
+                "message": "Ryan, I've compiled a report on the latest EV market trends. It seems like there's a growing demand for more affordable options. We're perfectly positioned to capitalize on this trend.",
+                "created_at": 1620503000000
+            },
+            "tag": "distractor"
+        },
+        {
+            "type": "post",
+            "post": {
+                "team": "sales_marketing",
+                "channel": "market_analysis",
+                "user": "jane_doe",
+                "message": "That's great to hear, John. We should discuss this in our next team meeting. I'll add it to the agenda.",
+                "created_at": 1620504000000
+            },
+            "tag": "distractor"
+        }
+    ],
+    "file_format": "jsonl",
+    "file_path": ".llm_responses/generated_chat_document.jsonl",
+    "qa_type": "distractor",
+    "timestamp": "2025-12-02 23:58",
+    "app": "mattermost"
+}

@@ -1,0 +1,14 @@
+Period,Team Size,Capacity Utilization Rate,Available Capacity
+The time period for which the customer service team size and capacity utilization rate are reported.,The number of full-time representatives in the customer service team during the reported period.,The percentage of the customer service team's capacity that is currently being utilized. This can indicate if the team is understaffed or overstaffed.,The percentage of the customer service team's capacity that is not currently utilized and available for handling volume spikes.
+Q1 2023,11,92,8
+Q2 2022,9,85,15
+Q3 2022,10,90,10
+Q3 2023,11,94,6
+Q4 2022,10,92,8
+Q1 2022,8,80,20
+Q2 2023,11,93,7
+Q4 2023,11,94,6
+Q3 2024,12,95,5
+Q4 2024,12,95,5
+Q1 2024,12,94,6
+Q2 2024,12,94,6

@@ -1,0 +1,10 @@
+{
+    "insight_id": "DI0006",
+    "qa_type": "distractor",
+    "qa_index": 6,
+    "specific_question": "How many IT service desk tickets were created in 2024 for system enhancements?",
+    "answer": "MediConn Solutions' IT logs as of December 2024 indicate that 3,200 service desk tickets were created for system enhancements.",
+    "justification": "",
+    "timestamp": "2025-12-02 15:15",
+    "dr_question": "By Q3 2025, how can MediConn Solutions' IT Service Management (ITSM) team manage security protocols, ensure regulatory compliance, and implement preventive measures against network and information system security risks, given the sensitivity of electronic medical data?"
+}

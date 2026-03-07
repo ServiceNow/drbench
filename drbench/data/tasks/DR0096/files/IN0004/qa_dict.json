@@ -1,0 +1,10 @@
+{
+    "insight_id": "IN0004",
+    "qa_type": "insight",
+    "qa_index": 4,
+    "specific_question": "Based on heatmap data from June-September 2025, what are the sales per square foot for each of the top five bakery traffic zones across all Lee's Market's U.S. stores?",
+    "answer": "From June to September 2025, Lee's Market's U.S. bakery zones achieved sales per square foot of $1,250 for the entrance-facing bread display, $1,100 for the cake and pastry display, $900 for the checkout-side impulse rack, $650 for the beverage adjacency shelf, and $1,500 for the custom cake counter.",
+    "justification": "It is important to establish whether high-traffic zones are effectively converting visits into sales. Comparing each zone's performance to the department average highlights which areas are truly productive versus which are underperforming. It provides the quantitative basis for diagnosing spatial efficiency and merchandising effectiveness.",
+    "timestamp": "2025-11-20 19:10",
+    "dr_question": "As per the report by the U.S. Census Bureau's indication of a rise in food service sales since August 2024, how can Lee\u2019s Market optimize in-store layouts and product displays across its U.S. locations to increase bakery sales by 15% by the end of Q1 2026?"
+}

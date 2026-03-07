@@ -1,0 +1,81 @@
+{
+    "file_name": "Q3-communication-analysis",
+    "file_title": "Q3 Internal Communication Analysis",
+    "introduction": "This presentation provides an overview of our internal communications during Q3. It will highlight key metrics, including the frequency of newsletters, to assess our engagement efforts.",
+    "subsections": [
+        {
+            "heading": "Overview of Q3 Communication Channels",
+            "content": "\u2022 Analyzed the efficiency of social media campaigns, with a 12% increase in audience engagement\n\u2022 Launched a new app for customer feedback and queries, with over 5,000 downloads in the first week\n\u2022 Engaged with local communities through webinars and virtual talks, reaching over 1,000 attendees\n\u2022 Conducted weekly team meetings to discuss marketing strategies and public relations\n\u2022 Hosted monthly webinars featuring product launches, EV technology discussions, and sustainability initiatives",
+            "type": "distractor",
+            "justification": "This slide provides information about various communication channels used in Q3, but doesn't mention the number of newsletters sent."
+        },
+        {
+            "heading": "Q3 Newsletter Dispatch Analysis",
+            "content": "\u2022 Improved the newsletter layout to better highlight product features and updates\n\u2022 Conducted a reader survey to gather feedback on newsletter content, with a 75% response rate\n\u2022 Collaborated with the design team to incorporate more interactive elements into the newsletter\n\u2022 Updated the newsletter distribution list to ensure it reaches all relevant stakeholders\n\u2022 Introduced a new section in the newsletter to feature customer testimonials and stories",
+            "type": "distractor",
+            "justification": "This slide discusses improvements and changes made to the newsletter, but doesn't reveal how many were sent in Q3."
+        },
+        {
+            "heading": "Engagement Metrics for Q3 Newsletters",
+            "content": "\u2022 Open rate for newsletters increased by 8% compared to Q2\n\u2022 Click-through rate for newsletter links was at a steady 25%\n\u2022 Received an average of 30 customer inquiries after each newsletter dispatch\n\u2022 Newsletter unsubscribe rate decreased by 5% compared to the previous quarter\n\u2022 A 10% increase in website traffic was observed after each newsletter release",
+            "type": "distractor",
+            "justification": "This slide provides metrics related to newsletter engagement, but does not reveal the number of newsletters sent in Q3."
+        }
+    ],
+    "conclusion": "Our Q3 internal newsletters have been a critical part of our communication strategy. Moving forward, we will continue to refine our content and delivery frequency based on these insights.",
+    "file_format": "pptx",
+    "file_path": ".llm_responses/generated_pptx_presentation.pptx",
+    "qa_type": "distractor",
+    "timestamp": "2025-12-03 00:05",
+    "image_queries": [
+        {
+            "slide_title": "Introduction",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "intentionally_clean",
+            "slide_type": "introduction"
+        },
+        {
+            "slide_title": "Overview of Q3 Communication Channels",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 5,
+            "total_chars": 478,
+            "probability": 0.25,
+            "theme": "Bold Crimson"
+        },
+        {
+            "slide_title": "Q3 Newsletter Dispatch Analysis",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 5,
+            "total_chars": 439,
+            "probability": 0.25,
+            "theme": "Bold Crimson"
+        },
+        {
+            "slide_title": "Engagement Metrics for Q3 Newsletters",
+            "has_image": true,
+            "image_query": "business performance metrics infographic",
+            "generation_method": "strategic_placement",
+            "slide_type": "distractor",
+            "content_length": 5,
+            "total_chars": 342,
+            "forced": false,
+            "theme": "Bold Crimson"
+        },
+        {
+            "slide_title": "Conclusion",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "strategic_clean_conclusion",
+            "slide_type": "conclusion",
+            "theme": "Bold Crimson"
+        }
+    ],
+    "app": "file_system"
+}

@@ -1,0 +1,13 @@
+Company,Year_Month,Navigation_Phase,Drop_off_Rate
+The name of the company for which the data is collected.,The year and month of the reported data in the format 'YYYY-MM'.,The navigation phase during which the patient drop-off rate is measured.,The rate at which patients dropped-off during the specified navigation phase.
+MediConn Solutions,2025-01,Initial Navigation,17%
+HealthCare United,2024-12,Initial Navigation,12%
+HealthCare United,2025-03,Initial Navigation,15%
+HealthCare United,2025-02,Initial Navigation,14%
+HealthCare United,2024-11,Initial Navigation,11%
+MediConn Solutions,2024-12,Initial Navigation,16%
+HealthCare United,2025-01,Initial Navigation,13%
+MediConn Solutions,2025-02,Initial Navigation,18%
+MediConn Solutions,2025-03,Initial Navigation,19%
+MediConn Solutions,2024-11,Initial Navigation,15%
+MediConn Solutions,2024-10,Initial Navigation,14%

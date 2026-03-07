@@ -1,0 +1,81 @@
+{
+    "file_name": "lease-agreements-evaluation",
+    "file_title": "Elexion's Equipment Leasing Agreements Evaluation",
+    "introduction": "This presentation provides an overview of Elexion's equipment leasing agreements and their impact on our production capacity. We will delve into the renewal patterns and strategic implications.",
+    "subsections": [
+        {
+            "heading": "Overview of Elexion's Leasing Agreements",
+            "content": "\u2022 Elexion has 150 active leasing agreements as of June 2025\n\u2022 The average duration of lease agreements is 36 months\n\u2022 Most agreements are with manufacturers from Asia and Europe\n\u2022 Leasing agreements cover a wide range of production equipment, from robotics to assembly line machinery\n\u2022 The Procurement Department manages the leasing agreement process\n\u2022 Elexion's lease agreements typically include a renewal option after the initial term\n\u2022 The Finance team conducts periodic cost-benefit analysis to determine the feasibility of lease renewals",
+            "type": "distractor",
+            "justification": "This slide provides an overview of Elexion's leasing agreements but does not specify how many were renewed by Olivia Martinez."
+        },
+        {
+            "heading": "Implications of Lease Renewals on Production Capacity",
+            "content": "\u2022 Lease renewals ensure continuity in production operations\n\u2022 Renewing leases can prevent potential downtime due to equipment unavailability\n\u2022 Lease renewals can be more cost-effective than purchasing new equipment\n\u2022 Regular renewal of leases allows Elexion to leverage the latest technology\n\u2022 The Production Department is the primary internal stakeholder in lease renewals\n\u2022 Lease renewals can influence production timelines and output forecasts",
+            "type": "distractor",
+            "justification": "This slide discusses the effect of lease renewals on production, but does not provide information on the number of renewals Olivia Martinez completed."
+        },
+        {
+            "heading": "Detailed Analysis of Olivia Martinez's Lease Renewals",
+            "content": "\u2022 Olivia Martinez has been with Elexion since 2018\n\u2022 She holds a key role in the Procurement Department\n\u2022 Olivia has a strong track record in negotiating favorable lease terms\n\u2022 She works closely with the Finance and Production Departments in lease renewal decisions\n\u2022 Olivia frequently attends industry conferences to stay updated on the latest leasing trends\n\u2022 She has implemented several process improvements to streamline the lease renewal process",
+            "type": "distractor",
+            "justification": "This slide provides information about Olivia Martinez's role and achievements but does not state how many lease agreements she renewed."
+        }
+    ],
+    "conclusion": "Understanding our lease renewal patterns is critical for maintaining our production capacity. We need to continue supporting Olivia's efforts in securing optimal leasing agreements.",
+    "file_format": "pptx",
+    "file_path": ".llm_responses/generated_pptx_presentation.pptx",
+    "qa_type": "distractor",
+    "timestamp": "2025-11-20 03:35",
+    "image_queries": [
+        {
+            "slide_title": "Introduction",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "intentionally_clean",
+            "slide_type": "introduction"
+        },
+        {
+            "slide_title": "Overview of Elexion's Leasing Agreements",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "failed",
+            "slide_type": "distractor",
+            "content_length": 7,
+            "total_chars": 523,
+            "error": "'str' object has no attribute 'choices'",
+            "theme": "Bold Crimson"
+        },
+        {
+            "slide_title": "Implications of Lease Renewals on Production Capacity",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 6,
+            "total_chars": 429,
+            "probability": 0.25,
+            "theme": "Bold Crimson"
+        },
+        {
+            "slide_title": "Detailed Analysis of Olivia Martinez's Lease Renewals",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 6,
+            "total_chars": 434,
+            "probability": 0.25,
+            "theme": "Bold Crimson"
+        },
+        {
+            "slide_title": "Conclusion",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "strategic_clean_conclusion",
+            "slide_type": "conclusion",
+            "theme": "Bold Crimson"
+        }
+    ],
+    "app": "nextcloud"
+}

@@ -1,0 +1,81 @@
+{
+    "file_name": "mobile-medical-records-analysis",
+    "file_title": "Analyzing Mobile Access of Medical Records",
+    "introduction": "We will be discussing how our platform's mobile app has been utilized in FY2025, particularly focusing on accessing medical records. This data will provide valuable insights for our user engagement strategy.",
+    "subsections": [
+        {
+            "heading": "Overview of MediConn Mobile App Usage",
+            "content": "\u2022 Mobile app launched in Q2, 2018, targeting a seamless patient experience\n\u2022 App downloads have increased by 35% in FY2025 compared to FY2024\n\u2022 The app is rated 4.5/5 on the Apple App Store and 4.2/5 on Google Play Store\n\u2022 65% of our user base is from North America, with the rest scattered globally\n\u2022 The app has facilitated over 1 million consultations in FY2025\n\u2022 The app allows consultations, prescription renewals, and access to medical records\n\u2022 Users have reported a 90% satisfaction rate with the mobile app",
+            "type": "distractor",
+            "justification": "The content provides general details about the app's usage but doesn't state the percentage of users accessing their medical history."
+        },
+        {
+            "heading": "User Access of Medical Records via Mobile",
+            "content": "\u2022 Medical records are encrypted and securely stored in our cloud-based servers\n\u2022 User-friendly interface allows easy access to medical records\n\u2022 Option to download and print medical records was introduced in Q1, 2025\n\u2022 Users can share their medical records with their healthcare providers via the app\n\u2022 In FY2025, our platform saw a 20% increase in users accessing their medical records\n\u2022 A significant number of users have reported the ease of accessing medical records as a key benefit of the app",
+            "type": "distractor",
+            "justification": "While the content discusses the access of medical records, it doesn't specify the percentage accessed through the mobile app in FY2025."
+        },
+        {
+            "heading": "Implications and Future Strategy",
+            "content": "\u2022 Our strategy focuses on enhancing the user experience and implementing user feedback\n\u2022 We aim to expand our global user base by 25% in FY2026\n\u2022 Future updates will include the integration of wearable health data into medical records\n\u2022 We plan on investing an additional 15% in R&D to improve the mobile app functionality\n\u2022 Our strategy includes partnering with more healthcare providers for seamless integration\n\u2022 We anticipate the trend of accessing medical records via mobile to continue growing",
+            "type": "distractor",
+            "justification": "This content provides an overview of future strategies, but doesn't provide the specific information needed to answer the DR question."
+        }
+    ],
+    "conclusion": "Our understanding of how users interact with their medical records via our mobile app is crucial for future development. We will continue to analyze data trends and user feedback to enhance our platform's functionalities and user experience.",
+    "file_format": "pptx",
+    "file_path": ".llm_responses/generated_pptx_presentation.pptx",
+    "qa_type": "distractor",
+    "timestamp": "2025-11-20 18:38",
+    "image_queries": [
+        {
+            "slide_title": "Introduction",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "intentionally_clean",
+            "slide_type": "introduction"
+        },
+        {
+            "slide_title": "Overview of MediConn Mobile App Usage",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 7,
+            "total_chars": 495,
+            "probability": 0.25,
+            "theme": "Classic Navy"
+        },
+        {
+            "slide_title": "User Access of Medical Records via Mobile",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 6,
+            "total_chars": 481,
+            "probability": 0.25,
+            "theme": "Classic Navy"
+        },
+        {
+            "slide_title": "Implications and Future Strategy",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "failed",
+            "slide_type": "distractor",
+            "content_length": 6,
+            "total_chars": 482,
+            "error": "'str' object has no attribute 'choices'",
+            "theme": "Classic Navy"
+        },
+        {
+            "slide_title": "Conclusion",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "strategic_clean_conclusion",
+            "slide_type": "conclusion",
+            "theme": "Classic Navy"
+        }
+    ],
+    "app": "file_system"
+}

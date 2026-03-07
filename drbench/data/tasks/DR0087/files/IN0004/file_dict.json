@@ -1,0 +1,237 @@
+{
+    "file_name": "roundcube_email_20251120_141127",
+    "content": "{\"type\": \"user\", \"username\": \"tony.nguyen\", \"first_name\": \"Tony\", \"last_name\": \"Nguyen\", \"email\": \"tony.nguyen@leesmarket.com\", \"password\": \"sales_associate_pwd\"}\n{\"type\": \"user\", \"username\": \"sarah.jones\", \"first_name\": \"Sarah\", \"last_name\": \"Jones\", \"email\": \"sarah.jones@leesmarket.com\", \"password\": \"marketing_manager_pwd\"}\n{\"type\": \"user\", \"username\": \"john.doe\", \"first_name\": \"John\", \"last_name\": \"Doe\", \"email\": \"john.doe@leesmarket.com\", \"password\": \"data_analyst_pwd\"}\n{\"type\": \"user\", \"username\": \"linda.brown\", \"first_name\": \"Linda\", \"last_name\": \"Brown\", \"email\": \"linda.brown@leesmarket.com\", \"password\": \"customer_relations_pwd\"}\n{\"type\": \"user\", \"username\": \"michael.johnson\", \"first_name\": \"Michael\", \"last_name\": \"Johnson\", \"email\": \"michael.johnson@leesmarket.com\", \"password\": \"sales_manager_pwd\"}\n{\"type\": \"user\", \"username\": \"jennifer.white\", \"first_name\": \"Jennifer\", \"last_name\": \"White\", \"email\": \"jennifer.white@leesmarket.com\", \"password\": \"product_manager_pwd\"}\n{\"type\": \"user\", \"username\": \"david.wilson\", \"first_name\": \"David\", \"last_name\": \"Wilson\", \"email\": \"david.wilson@leesmarket.com\", \"password\": \"store_manager_pwd\"}\n{\"type\": \"user\", \"username\": \"mary.clark\", \"first_name\": \"Mary\", \"last_name\": \"Clark\", \"email\": \"mary.clark@leesmarket.com\", \"password\": \"finance_manager_pwd\"}\n{\"type\": \"email\", \"id\": \"email_001\", \"subject\": \"Weekly Team Meeting Schedule\", \"from\": \"tony.nguyen@leesmarket.com\", \"from_name\": \"Tony Nguyen\", \"to\": [\"sarah.jones@leesmarket.com\", \"john.doe@leesmarket.com\", \"michael.johnson@leesmarket.com\"], \"cc\": [], \"date\": \"2025-08-01 09:00:00\", \"body\": \"Hello Team, \\n\\nJust a gentle reminder that our usual weekly meeting will be held this Friday at 10 am in the Conference Room. Please come prepared with your updates. \\n\\nBest, \\nTony\", \"folder\": \"inbox\", \"read\": true, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_002\", \"subject\": \"New Store Policy Updates\", \"from\": \"david.wilson@leesmarket.com\", \"from_name\": \"David Wilson\", \"to\": [\"tony.nguyen@leesmarket.com\", \"michael.johnson@leesmarket.com\"], \"cc\": [], \"date\": \"2025-08-02 11:00:00\", \"body\": \"Hi Team, \\n\\nPlease note that there have been some changes to our store policies regarding employee tardiness and leave requests. Please review the attached document for more details. \\n\\nBest, \\nDavid\", \"folder\": \"inbox\", \"read\": true, \"attachments\": [\"store_policy_updates.pdf\"]}\n{\"type\": \"email\", \"id\": \"email_003\", \"subject\": \"Training Session on New POS System\", \"from\": \"jennifer.white@leesmarket.com\", \"from_name\": \"Jennifer White\", \"to\": [\"tony.nguyen@leesmarket.com\"], \"cc\": [], \"date\": \"2025-08-03 13:00:00\", \"body\": \"Hi Tony, \\n\\nWe've recently updated our Point of Sale system. A training session has been scheduled for next Monday at 9 am. Please confirm your attendance. \\n\\nBest, \\nJennifer\", \"folder\": \"inbox\", \"read\": true, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_004\", \"subject\": \"Monthly Sales Performance Report\", \"from\": \"michael.johnson@leesmarket.com\", \"from_name\": \"Michael Johnson\", \"to\": [\"tony.nguyen@leesmarket.com\", \"john.doe@leesmarket.com\", \"mary.clark@leesmarket.com\"], \"cc\": [], \"date\": \"2025-08-04 14:00:00\", \"body\": \"Hi Team, \\n\\nAttached is the monthly sales report for July. Please review and prepare any necessary feedback for our next meeting. \\n\\nBest, \\nMichael\", \"folder\": \"inbox\", \"read\": true, \"attachments\": [\"july_sales_report.pdf\"]}\n{\"type\": \"email\", \"id\": \"email_005\", \"subject\": \"Team Outing Next Month\", \"from\": \"sarah.jones@leesmarket.com\", \"from_name\": \"Sarah Jones\", \"to\": [\"tony.nguyen@leesmarket.com\", \"john.doe@leesmarket.com\", \"michael.johnson@leesmarket.com\", \"david.wilson@leesmarket.com\", \"mary.clark@leesmarket.com\"], \"cc\": [], \"date\": \"2025-08-05 15:00:00\", \"body\": \"Hello Team, \\n\\nTo celebrate our team's hard work over the past few months, we've planned a team outing next month. More details will follow soon. \\n\\nBest, \\nSarah\", \"folder\": \"inbox\", \"read\": true, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_001\", \"subject\": \"Impact of July 2025 Retail Sales Decline\", \"from\": \"john.doe@leesmarket.com\", \"from_name\": \"John Doe\", \"to\": [\"tony.nguyen@leesmarket.com\", \"michael.johnson@leesmarket.com\"], \"cc\": [\"mary.clark@leesmarket.com\"], \"date\": \"2025-08-01 09:00:00\", \"body\": \"Hi Team,\\n\\nAs you are aware, we experienced a 0.8% decline in retail sales in July 2025. I have been analyzing the sales data and found an interesting trend. The average order size of our Asian customers was 18% higher than that of non-Asian customers during this period.\\n\\nThis insight might be helpful in tailoring our sales strategies to different customer segments and offset the impact of sales decline.\\n\\nI will continue to monitor the trends and keep you updated.\\n\\nBest,\\nJohn\", \"folder\": \"inbox\", \"read\": true, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_002\", \"subject\": \"Re: Impact of July 2025 Retail Sales Decline\", \"from\": \"michael.johnson@leesmarket.com\", \"from_name\": \"Michael Johnson\", \"to\": [\"tony.nguyen@leesmarket.com\", \"john.doe@leesmarket.com\"], \"cc\": [\"mary.clark@leesmarket.com\", \"david.wilson@leesmarket.com\"], \"date\": \"2025-08-01 11:30:00\", \"body\": \"Hi John and Team,\\n\\nThanks for the insightful data. It's evident that focusing our efforts on non-Asian customers could help us in recovering the sales. We should consider tailoring our marketing initiatives and in-store experiences to cater to their preferences and shopping habits. \\n\\nLet's discuss this further in our next meeting.\\n\\nBest,\\nMichael\", \"folder\": \"inbox\", \"read\": true, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_003\", \"subject\": \"Re: Impact of July 2025 Retail Sales Decline\", \"from\": \"tony.nguyen@leesmarket.com\", \"from_name\": \"Tony Nguyen\", \"to\": [\"michael.johnson@leesmarket.com\", \"john.doe@leesmarket.com\", \"david.wilson@leesmarket.com\"], \"cc\": [\"mary.clark@leesmarket.com\"], \"date\": \"2025-08-01 12:00:00\", \"body\": \"Hi Michael and Team,\\n\\nThanks for the data, John. I agree with Michael's suggestion. As a sales associate, I believe personalized engagement initiatives can make a significant difference. We can start by enhancing our product recommendations and providing more personalized assistance to non-Asian customers on the floor.\\n\\nLet's explore this further in our meeting.\\n\\nBest,\\nTony\", \"folder\": \"inbox\", \"read\": true, \"attachments\": []}",
+    "email_setup": [
+        {
+            "type": "user",
+            "username": "tony.nguyen",
+            "first_name": "Tony",
+            "last_name": "Nguyen",
+            "email": "tony.nguyen@leesmarket.com",
+            "password": "sales_associate_pwd"
+        },
+        {
+            "type": "user",
+            "username": "sarah.jones",
+            "first_name": "Sarah",
+            "last_name": "Jones",
+            "email": "sarah.jones@leesmarket.com",
+            "password": "marketing_manager_pwd"
+        },
+        {
+            "type": "user",
+            "username": "john.doe",
+            "first_name": "John",
+            "last_name": "Doe",
+            "email": "john.doe@leesmarket.com",
+            "password": "data_analyst_pwd"
+        },
+        {
+            "type": "user",
+            "username": "linda.brown",
+            "first_name": "Linda",
+            "last_name": "Brown",
+            "email": "linda.brown@leesmarket.com",
+            "password": "customer_relations_pwd"
+        },
+        {
+            "type": "user",
+            "username": "michael.johnson",
+            "first_name": "Michael",
+            "last_name": "Johnson",
+            "email": "michael.johnson@leesmarket.com",
+            "password": "sales_manager_pwd"
+        },
+        {
+            "type": "user",
+            "username": "jennifer.white",
+            "first_name": "Jennifer",
+            "last_name": "White",
+            "email": "jennifer.white@leesmarket.com",
+            "password": "product_manager_pwd"
+        },
+        {
+            "type": "user",
+            "username": "david.wilson",
+            "first_name": "David",
+            "last_name": "Wilson",
+            "email": "david.wilson@leesmarket.com",
+            "password": "store_manager_pwd"
+        },
+        {
+            "type": "user",
+            "username": "mary.clark",
+            "first_name": "Mary",
+            "last_name": "Clark",
+            "email": "mary.clark@leesmarket.com",
+            "password": "finance_manager_pwd"
+        }
+    ],
+    "email_messages": [
+        {
+            "type": "email",
+            "id": "email_001",
+            "subject": "Weekly Team Meeting Schedule",
+            "from": "tony.nguyen@leesmarket.com",
+            "from_name": "Tony Nguyen",
+            "to": [
+                "sarah.jones@leesmarket.com",
+                "john.doe@leesmarket.com",
+                "michael.johnson@leesmarket.com"
+            ],
+            "cc": [],
+            "date": "2025-08-01 09:00:00",
+            "body": "Hello Team, \n\nJust a gentle reminder that our usual weekly meeting will be held this Friday at 10 am in the Conference Room. Please come prepared with your updates. \n\nBest, \nTony",
+            "folder": "inbox",
+            "read": true,
+            "attachments": [],
+            "tag": "distractor"
+        },
+        {
+            "type": "email",
+            "id": "email_002",
+            "subject": "New Store Policy Updates",
+            "from": "david.wilson@leesmarket.com",
+            "from_name": "David Wilson",
+            "to": [
+                "tony.nguyen@leesmarket.com",
+                "michael.johnson@leesmarket.com"
+            ],
+            "cc": [],
+            "date": "2025-08-02 11:00:00",
+            "body": "Hi Team, \n\nPlease note that there have been some changes to our store policies regarding employee tardiness and leave requests. Please review the attached document for more details. \n\nBest, \nDavid",
+            "folder": "inbox",
+            "read": true,
+            "attachments": [
+                "store_policy_updates.pdf"
+            ],
+            "tag": "distractor"
+        },
+        {
+            "type": "email",
+            "id": "email_003",
+            "subject": "Training Session on New POS System",
+            "from": "jennifer.white@leesmarket.com",
+            "from_name": "Jennifer White",
+            "to": [
+                "tony.nguyen@leesmarket.com"
+            ],
+            "cc": [],
+            "date": "2025-08-03 13:00:00",
+            "body": "Hi Tony, \n\nWe've recently updated our Point of Sale system. A training session has been scheduled for next Monday at 9 am. Please confirm your attendance. \n\nBest, \nJennifer",
+            "folder": "inbox",
+            "read": true,
+            "attachments": [],
+            "tag": "distractor"
+        },
+        {
+            "type": "email",
+            "id": "email_004",
+            "subject": "Monthly Sales Performance Report",
+            "from": "michael.johnson@leesmarket.com",
+            "from_name": "Michael Johnson",
+            "to": [
+                "tony.nguyen@leesmarket.com",
+                "john.doe@leesmarket.com",
+                "mary.clark@leesmarket.com"
+            ],
+            "cc": [],
+            "date": "2025-08-04 14:00:00",
+            "body": "Hi Team, \n\nAttached is the monthly sales report for July. Please review and prepare any necessary feedback for our next meeting. \n\nBest, \nMichael",
+            "folder": "inbox",
+            "read": true,
+            "attachments": [
+                "july_sales_report.pdf"
+            ],
+            "tag": "distractor"
+        },
+        {
+            "type": "email",
+            "id": "email_005",
+            "subject": "Team Outing Next Month",
+            "from": "sarah.jones@leesmarket.com",
+            "from_name": "Sarah Jones",
+            "to": [
+                "tony.nguyen@leesmarket.com",
+                "john.doe@leesmarket.com",
+                "michael.johnson@leesmarket.com",
+                "david.wilson@leesmarket.com",
+                "mary.clark@leesmarket.com"
+            ],
+            "cc": [],
+            "date": "2025-08-05 15:00:00",
+            "body": "Hello Team, \n\nTo celebrate our team's hard work over the past few months, we've planned a team outing next month. More details will follow soon. \n\nBest, \nSarah",
+            "folder": "inbox",
+            "read": true,
+            "attachments": [],
+            "tag": "distractor"
+        },
+        {
+            "type": "email",
+            "id": "email_001",
+            "subject": "Impact of July 2025 Retail Sales Decline",
+            "from": "john.doe@leesmarket.com",
+            "from_name": "John Doe",
+            "to": [
+                "tony.nguyen@leesmarket.com",
+                "michael.johnson@leesmarket.com"
+            ],
+            "cc": [
+                "mary.clark@leesmarket.com"
+            ],
+            "date": "2025-08-01 09:00:00",
+            "body": "Hi Team,\n\nAs you are aware, we experienced a 0.8% decline in retail sales in July 2025. I have been analyzing the sales data and found an interesting trend. The average order size of our Asian customers was 18% higher than that of non-Asian customers during this period.\n\nThis insight might be helpful in tailoring our sales strategies to different customer segments and offset the impact of sales decline.\n\nI will continue to monitor the trends and keep you updated.\n\nBest,\nJohn",
+            "folder": "inbox",
+            "read": true,
+            "attachments": [],
+            "tag": "insight"
+        },
+        {
+            "type": "email",
+            "id": "email_002",
+            "subject": "Re: Impact of July 2025 Retail Sales Decline",
+            "from": "michael.johnson@leesmarket.com",
+            "from_name": "Michael Johnson",
+            "to": [
+                "tony.nguyen@leesmarket.com",
+                "john.doe@leesmarket.com"
+            ],
+            "cc": [
+                "mary.clark@leesmarket.com",
+                "david.wilson@leesmarket.com"
+            ],
+            "date": "2025-08-01 11:30:00",
+            "body": "Hi John and Team,\n\nThanks for the insightful data. It's evident that focusing our efforts on non-Asian customers could help us in recovering the sales. We should consider tailoring our marketing initiatives and in-store experiences to cater to their preferences and shopping habits. \n\nLet's discuss this further in our next meeting.\n\nBest,\nMichael",
+            "folder": "inbox",
+            "read": true,
+            "attachments": [],
+            "tag": "insight"
+        },
+        {
+            "type": "email",
+            "id": "email_003",
+            "subject": "Re: Impact of July 2025 Retail Sales Decline",
+            "from": "tony.nguyen@leesmarket.com",
+            "from_name": "Tony Nguyen",
+            "to": [
+                "michael.johnson@leesmarket.com",
+                "john.doe@leesmarket.com",
+                "david.wilson@leesmarket.com"
+            ],
+            "cc": [
+                "mary.clark@leesmarket.com"
+            ],
+            "date": "2025-08-01 12:00:00",
+            "body": "Hi Michael and Team,\n\nThanks for the data, John. I agree with Michael's suggestion. As a sales associate, I believe personalized engagement initiatives can make a significant difference. We can start by enhancing our product recommendations and providing more personalized assistance to non-Asian customers on the floor.\n\nLet's explore this further in our meeting.\n\nBest,\nTony",
+            "folder": "inbox",
+            "read": true,
+            "attachments": [],
+            "tag": "insight"
+        }
+    ],
+    "file_format": "jsonl",
+    "file_path": ".llm_responses/generated_email_document.jsonl",
+    "qa_type": "insight",
+    "timestamp": "2025-11-20 15:11",
+    "app": "email"
+}

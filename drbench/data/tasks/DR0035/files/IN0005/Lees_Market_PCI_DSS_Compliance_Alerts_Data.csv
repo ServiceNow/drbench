@@ -1,0 +1,12 @@
+Company,Quarter,Year,Alert_Count,Alert_Type
+The name of the company which faced the PCI DSS compliance alerts,The quarter of the year in which the PCI DSS compliance alerts were faced,The year in which the PCI DSS compliance alerts were faced,The number of PCI DSS compliance alerts faced by the company,The type of PCI DSS alert received
+Lee's Market,Q1,2025,4,Unrecognized payment activity
+Meat Market,Q3,2024,1,Unrecognized payment activity
+Dairy Delight,Q2,2022,1,Unsecured network access
+Veggie Village,Q1,2023,1,Unsecured network access
+Green Grocers,Q4,2024,3,Weak password policy
+Organic Outlet,Q2,2021,1,Unrecognized payment activity
+Seafood City,Q1,2021,2,Weak password policy
+Fruit Farm,Q3,2024,1,Weak password policy
+Bakery Bazaar,Q4,2022,2,Unrecognized payment activity
+Fresh Mart,Q3,2024,2,Unsecured network access

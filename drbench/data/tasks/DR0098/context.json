@@ -1,0 +1,28 @@
+{
+    "company_info": {
+        "name": "Lee's Market (Richmond, British Columbia, Canada, $500M - $600M, 5000 employees)",
+        "industry": "Retail",
+        "description": "A company in the Retail industry",
+        "size": "medium",
+        "employee_count": "100-500",
+        "annual_revenue": "Not specified"
+    },
+    "persona": {
+        "name": "Andrew Chang",
+        "first_name": "Andrew",
+        "last_name": "Chang",
+        "username": "andrew.chang",
+        "email": "andrew.chang@leesmarket.com",
+        "role": "Regional Sales Manager",
+        "role_description": "Oversees sales performance across multiple store locations, manages district sales teams, and implements sales strategies and promotional campaigns"
+    },
+    "url": {
+        "url": "https://www.reuters.com/business/autos-transportation/canadas-retail-sales-shrink-tariffs-bite-june-expected-improve-2025-07-24/",
+        "domain": "Sales",
+        "industry": "retail",
+        "example_dr_questions": [],
+        "insights": [],
+        "date": "2025-11-21"
+    },
+    "timestamp": "2025-10-24 00:00"
+}

@@ -1,0 +1,179 @@
+{
+    "file_name": "roundcube_email_20251121_122512",
+    "content": "{\"type\": \"user\", \"username\": \"rachel.kim\", \"first_name\": \"Rachel\", \"last_name\": \"Kim\", \"email\": \"rachel.kim@elexionauto.com\", \"password\": \"rachel_pwd123\"}\n{\"type\": \"user\", \"username\": \"mark.johnson\", \"first_name\": \"Mark\", \"last_name\": \"Johnson\", \"email\": \"mark.johnson@elexionauto.com\", \"password\": \"markj_pwd456\"}\n{\"type\": \"user\", \"username\": \"linda.miller\", \"first_name\": \"Linda\", \"last_name\": \"Miller\", \"email\": \"linda.miller@elexionauto.com\", \"password\": \"lindaM_pwd789\"}\n{\"type\": \"user\", \"username\": \"peter.wright\", \"first_name\": \"Peter\", \"last_name\": \"Wright\", \"email\": \"peter.wright@elexionauto.com\", \"password\": \"peterW_pwd321\"}\n{\"type\": \"user\", \"username\": \"jane.doe\", \"first_name\": \"Jane\", \"last_name\": \"Doe\", \"email\": \"jane.doe@elexionauto.com\", \"password\": \"janeD_pwd654\"}\n{\"type\": \"user\", \"username\": \"david.rogers\", \"first_name\": \"David\", \"last_name\": \"Rogers\", \"email\": \"david.rogers@elexionauto.com\", \"password\": \"davidR_pwd987\"}\n{\"type\": \"email\", \"id\": \"email_001\", \"subject\": \"Quarterly Performance Review Schedule\", \"from\": \"linda.miller@elexionauto.com\", \"from_name\": \"Linda Miller\", \"to\": [\"rachel.kim@elexionauto.com\"], \"cc\": [], \"date\": \"2022-05-16 10:30:00\", \"body\": \"Hi Rachel,\\n\\nIt's about time to start planning for our quarterly performance reviews. Could you please confirm your availability for the week of June 14th? We intend to have your review on June 16th, 2:00 PM. Please let me know if that works for you.\\n\\nBest,\\nLinda\", \"folder\": \"inbox\", \"read\": true, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_002\", \"subject\": \"Customer Satisfaction Survey Results\", \"from\": \"mark.johnson@elexionauto.com\", \"from_name\": \"Mark Johnson\", \"to\": [\"rachel.kim@elexionauto.com\"], \"cc\": [\"peter.wright@elexionauto.com\", \"jane.doe@elexionauto.com\"], \"date\": \"2022-05-18 09:45:00\", \"body\": \"Hi Team,\\n\\nThe results from our latest customer satisfaction survey are in. We've seen significant improvements in our overall score, however, there are still areas that need our attention. I've attached the detailed report for your review.\\n\\nWe'll discuss this more in our next team meeting. If you have any questions or comments, feel free to reach out.\\n\\nBest,\\nMark\", \"folder\": \"inbox\", \"read\": true, \"attachments\": [\"Customer_Satisfaction_Survey_Results_Q1_2022.pdf\"]}\n{\"type\": \"email\", \"id\": \"email_003\", \"subject\": \"New Tech Implementation Training\", \"from\": \"david.rogers@elexionauto.com\", \"from_name\": \"David Rogers\", \"to\": [\"rachel.kim@elexionauto.com\"], \"cc\": [\"linda.miller@elexionauto.com\"], \"date\": \"2022-05-20 11:15:00\", \"body\": \"Hi Rachel,\\n\\nAs you might be aware, we're implementing a new project management tool next month. We believe this tool will greatly enhance our productivity and collaboration. There will be a mandatory training session on May 28th, 1:00 PM to 3:00 PM. Please make sure to mark your calendar.\\n\\nLet me know if you have any questions.\\n\\nBest,\\nDavid\", \"folder\": \"inbox\", \"read\": true, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_001\", \"subject\": \"Canada's Revised ZEV Mandate and Compliance Documentation Update\", \"from\": \"rachel.kim@elexionauto.com\", \"from_name\": \"Rachel Kim\", \"to\": [\"mark.johnson@elexionauto.com\"], \"cc\": [\"linda.miller@elexionauto.com\", \"peter.wright@elexionauto.com\"], \"date\": \"2026-01-05 09:00:00\", \"body\": \"Dear Mark,\\n\\nI hope this email finds you well. As we are aware, Canada's revised Zero Emission Vehicle (ZEV) mandate has implications on our supply-chain investment credits. To ensure compliance, we need to revise our documentation framework.\\n\\nI would appreciate if you could provide an update on our R&D expenditures for 2025 as it is a significant part of our investment portfolio and may affect our credit qualifications. Can we set a meeting for this week to discuss this further?\\n\\nBest,\\nRachel Kim\", \"folder\": \"sent\", \"read\": true, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_002\", \"subject\": \"Re: Canada's Revised ZEV Mandate and Compliance Documentation Update\", \"from\": \"mark.johnson@elexionauto.com\", \"from_name\": \"Mark Johnson\", \"to\": [\"rachel.kim@elexionauto.com\"], \"cc\": [\"linda.miller@elexionauto.com\", \"peter.wright@elexionauto.com\"], \"date\": \"2026-01-05 11:30:00\", \"body\": \"Hi Rachel,\\n\\nSure, we can set a meeting this week to discuss. As for the R&D expenditures, our total research-and-development spending for 2025 was estimated at $44 million USD. Let me know if you need more detailed information.\\n\\nBest regards,\\nMark Johnson\", \"folder\": \"sent\", \"read\": false, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_003\", \"subject\": \"Re: Canada's Revised ZEV Mandate and Compliance Documentation Update\", \"from\": \"rachel.kim@elexionauto.com\", \"from_name\": \"Rachel Kim\", \"to\": [\"mark.johnson@elexionauto.com\"], \"cc\": [\"linda.miller@elexionauto.com\", \"peter.wright@elexionauto.com\"], \"date\": \"2026-01-05 12:00:00\", \"body\": \"Hi Mark,\\n\\nThank you for the prompt reply. The $44 million R&D expenditure figure is vital as it reflects our innovation priorities and will play a key role in the compliance documentation. I'll incorporate it into our revised framework.\\n\\nLooking forward to discussing this further in our meeting.\\n\\nBest,\\nRachel Kim\", \"folder\": \"sent\", \"read\": true, \"attachments\": []}",
+    "email_setup": [
+        {
+            "type": "user",
+            "username": "rachel.kim",
+            "first_name": "Rachel",
+            "last_name": "Kim",
+            "email": "rachel.kim@elexionauto.com",
+            "password": "rachel_pwd123"
+        },
+        {
+            "type": "user",
+            "username": "mark.johnson",
+            "first_name": "Mark",
+            "last_name": "Johnson",
+            "email": "mark.johnson@elexionauto.com",
+            "password": "markj_pwd456"
+        },
+        {
+            "type": "user",
+            "username": "linda.miller",
+            "first_name": "Linda",
+            "last_name": "Miller",
+            "email": "linda.miller@elexionauto.com",
+            "password": "lindaM_pwd789"
+        },
+        {
+            "type": "user",
+            "username": "peter.wright",
+            "first_name": "Peter",
+            "last_name": "Wright",
+            "email": "peter.wright@elexionauto.com",
+            "password": "peterW_pwd321"
+        },
+        {
+            "type": "user",
+            "username": "jane.doe",
+            "first_name": "Jane",
+            "last_name": "Doe",
+            "email": "jane.doe@elexionauto.com",
+            "password": "janeD_pwd654"
+        },
+        {
+            "type": "user",
+            "username": "david.rogers",
+            "first_name": "David",
+            "last_name": "Rogers",
+            "email": "david.rogers@elexionauto.com",
+            "password": "davidR_pwd987"
+        }
+    ],
+    "email_messages": [
+        {
+            "type": "email",
+            "id": "email_001",
+            "subject": "Quarterly Performance Review Schedule",
+            "from": "linda.miller@elexionauto.com",
+            "from_name": "Linda Miller",
+            "to": [
+                "rachel.kim@elexionauto.com"
+            ],
+            "cc": [],
+            "date": "2022-05-16 10:30:00",
+            "body": "Hi Rachel,\n\nIt's about time to start planning for our quarterly performance reviews. Could you please confirm your availability for the week of June 14th? We intend to have your review on June 16th, 2:00 PM. Please let me know if that works for you.\n\nBest,\nLinda",
+            "folder": "inbox",
+            "read": true,
+            "attachments": [],
+            "tag": "distractor"
+        },
+        {
+            "type": "email",
+            "id": "email_002",
+            "subject": "Customer Satisfaction Survey Results",
+            "from": "mark.johnson@elexionauto.com",
+            "from_name": "Mark Johnson",
+            "to": [
+                "rachel.kim@elexionauto.com"
+            ],
+            "cc": [
+                "peter.wright@elexionauto.com",
+                "jane.doe@elexionauto.com"
+            ],
+            "date": "2022-05-18 09:45:00",
+            "body": "Hi Team,\n\nThe results from our latest customer satisfaction survey are in. We've seen significant improvements in our overall score, however, there are still areas that need our attention. I've attached the detailed report for your review.\n\nWe'll discuss this more in our next team meeting. If you have any questions or comments, feel free to reach out.\n\nBest,\nMark",
+            "folder": "inbox",
+            "read": true,
+            "attachments": [
+                "Customer_Satisfaction_Survey_Results_Q1_2022.pdf"
+            ],
+            "tag": "distractor"
+        },
+        {
+            "type": "email",
+            "id": "email_003",
+            "subject": "New Tech Implementation Training",
+            "from": "david.rogers@elexionauto.com",
+            "from_name": "David Rogers",
+            "to": [
+                "rachel.kim@elexionauto.com"
+            ],
+            "cc": [
+                "linda.miller@elexionauto.com"
+            ],
+            "date": "2022-05-20 11:15:00",
+            "body": "Hi Rachel,\n\nAs you might be aware, we're implementing a new project management tool next month. We believe this tool will greatly enhance our productivity and collaboration. There will be a mandatory training session on May 28th, 1:00 PM to 3:00 PM. Please make sure to mark your calendar.\n\nLet me know if you have any questions.\n\nBest,\nDavid",
+            "folder": "inbox",
+            "read": true,
+            "attachments": [],
+            "tag": "distractor"
+        },
+        {
+            "type": "email",
+            "id": "email_001",
+            "subject": "Canada's Revised ZEV Mandate and Compliance Documentation Update",
+            "from": "rachel.kim@elexionauto.com",
+            "from_name": "Rachel Kim",
+            "to": [
+                "mark.johnson@elexionauto.com"
+            ],
+            "cc": [
+                "linda.miller@elexionauto.com",
+                "peter.wright@elexionauto.com"
+            ],
+            "date": "2026-01-05 09:00:00",
+            "body": "Dear Mark,\n\nI hope this email finds you well. As we are aware, Canada's revised Zero Emission Vehicle (ZEV) mandate has implications on our supply-chain investment credits. To ensure compliance, we need to revise our documentation framework.\n\nI would appreciate if you could provide an update on our R&D expenditures for 2025 as it is a significant part of our investment portfolio and may affect our credit qualifications. Can we set a meeting for this week to discuss this further?\n\nBest,\nRachel Kim",
+            "folder": "sent",
+            "read": true,
+            "attachments": [],
+            "tag": "insight"
+        },
+        {
+            "type": "email",
+            "id": "email_002",
+            "subject": "Re: Canada's Revised ZEV Mandate and Compliance Documentation Update",
+            "from": "mark.johnson@elexionauto.com",
+            "from_name": "Mark Johnson",
+            "to": [
+                "rachel.kim@elexionauto.com"
+            ],
+            "cc": [
+                "linda.miller@elexionauto.com",
+                "peter.wright@elexionauto.com"
+            ],
+            "date": "2026-01-05 11:30:00",
+            "body": "Hi Rachel,\n\nSure, we can set a meeting this week to discuss. As for the R&D expenditures, our total research-and-development spending for 2025 was estimated at $44 million USD. Let me know if you need more detailed information.\n\nBest regards,\nMark Johnson",
+            "folder": "sent",
+            "read": false,
+            "attachments": [],
+            "tag": "insight"
+        },
+        {
+            "type": "email",
+            "id": "email_003",
+            "subject": "Re: Canada's Revised ZEV Mandate and Compliance Documentation Update",
+            "from": "rachel.kim@elexionauto.com",
+            "from_name": "Rachel Kim",
+            "to": [
+                "mark.johnson@elexionauto.com"
+            ],
+            "cc": [
+                "linda.miller@elexionauto.com",
+                "peter.wright@elexionauto.com"
+            ],
+            "date": "2026-01-05 12:00:00",
+            "body": "Hi Mark,\n\nThank you for the prompt reply. The $44 million R&D expenditure figure is vital as it reflects our innovation priorities and will play a key role in the compliance documentation. I'll incorporate it into our revised framework.\n\nLooking forward to discussing this further in our meeting.\n\nBest,\nRachel Kim",
+            "folder": "sent",
+            "read": true,
+            "attachments": [],
+            "tag": "insight"
+        }
+    ],
+    "file_format": "jsonl",
+    "file_path": ".llm_responses/generated_email_document.jsonl",
+    "qa_type": "distractor",
+    "timestamp": "2025-11-21 13:25",
+    "app": "email"
+}

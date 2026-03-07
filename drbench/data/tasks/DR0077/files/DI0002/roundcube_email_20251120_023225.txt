@@ -1,0 +1,192 @@
+================================================================================
+ROUNDCUBE EMAIL EXPORT
+================================================================================
+
+USERS:
+----------------------------------------
+• olivia.martinez
+  Name: Olivia Martinez
+  Email: olivia.martinez@elexion-automotive.com
+
+• john.doe
+  Name: John Doe
+  Email: john.doe@elexion-automotive.com
+
+• jane.lee
+  Name: Jane Lee
+  Email: jane.lee@elexion-automotive.com
+
+• david.jones
+  Name: David Jones
+  Email: david.jones@elexion-automotive.com
+
+• michael.brown
+  Name: Michael Brown
+  Email: michael.brown@elexion-automotive.com
+
+• emily.garcia
+  Name: Emily Garcia
+  Email: emily.garcia@elexion-automotive.com
+
+• robert.miller
+  Name: Robert Miller
+  Email: robert.miller@elexion-automotive.com
+
+• susan.wilson
+  Name: Susan Wilson
+  Email: susan.wilson@elexion-automotive.com
+
+EMAILS:
+================================================================================
+Email ID: email_001
+Date: 2022-05-10 09:00:00
+From: Olivia Martinez <olivia.martinez@elexion-automotive.com>
+To: john.doe@elexion-automotive.com, jane.lee@elexion-automotive.com
+CC: david.jones@elexion-automotive.com
+Subject: Weekly Asset Management Team Meeting
+Folder: sent | Status: Read
+
+Message Body:
+----------------------------------------
+Dear team,
+
+Please remember our weekly meeting scheduled for tomorrow at 10:00 AM. We will be discussing the status of our current projects and any issues you may have encountered. Please come prepared with any updates or questions.
+
+Best,
+Olivia
+============================================================
+
+Email ID: email_002
+Date: 2022-05-11 10:30:00
+From: John Doe <john.doe@elexion-automotive.com>
+To: olivia.martinez@elexion-automotive.com
+CC: david.jones@elexion-automotive.com
+Subject: Asset Lifecycle Management Software Training
+Folder: inbox | Status: Unread
+
+Message Body:
+----------------------------------------
+Hello Olivia,
+
+Just wanted to remind you about the software training session scheduled for next week. It would be great if you could let the team know and ensure everyone is available for it. The training will cover new features and best practices.
+
+Regards,
+John
+============================================================
+
+Email ID: email_003
+Date: 2022-05-12 16:00:00
+From: Jane Lee <jane.lee@elexion-automotive.com>
+To: olivia.martinez@elexion-automotive.com
+Subject: Q2 Budget Review
+Folder: inbox | Status: Read
+
+Message Body:
+----------------------------------------
+Hi Olivia,
+
+The budget review for Q2 is due next week. Could you please prepare the necessary reports and analysis for our asset management department? We need to discuss any potential adjustments or reallocations.
+
+Thanks,
+Jane
+============================================================
+
+Email ID: email_004
+Date: 2022-05-13 13:00:00
+From: David Jones <david.jones@elexion-automotive.com>
+To: olivia.martinez@elexion-automotive.com
+CC: susan.wilson@elexion-automotive.com
+Subject: Electric Vehicle Industry Conference
+Folder: inbox | Status: Unread
+
+Message Body:
+----------------------------------------
+Olivia,
+
+There's an Electric Vehicle Industry Conference coming up next month. It might be a good opportunity for our team to learn about the latest trends and developments in our industry. Let's discuss this in our next team meeting.
+
+Regards,
+David
+============================================================
+
+Email ID: email_005
+Date: 2022-05-14 15:00:00
+From: Susan Wilson <susan.wilson@elexion-automotive.com>
+To: olivia.martinez@elexion-automotive.com
+Subject: Employee Satisfaction Survey
+Folder: inbox | Status: Read
+
+Message Body:
+----------------------------------------
+Dear Olivia,
+
+Our annual Employee Satisfaction Survey is coming up. I would appreciate if you could encourage your team members to participate. This is a great opportunity for them to share their thoughts and feedback about our work environment.
+
+Best,
+Susan
+============================================================
+
+Email ID: email_001
+Date: 2025-09-15 10:15:00
+From: John Doe <john.doe@elexion-automotive.com>
+To: olivia.martinez@elexion-automotive.com
+CC: david.jones@elexion-automotive.com, robert.miller@elexion-automotive.com
+Subject: Predictive Maintenance & Downtime Minimization Initiative
+Folder: inbox | Status: Read
+
+Message Body:
+----------------------------------------
+Hi Olivia,
+
+As you know, our team is working on strategies to minimize downtime and enhance predictive maintenance in our production lines. We are exploring the use of real-time data from IoT sensors in our vehicles and manufacturing equipment, combined with digital twins, to achieve this. I wanted to get your thoughts on this and see if the Asset Management department can assist us in the process.
+
+Best,
+John Doe
+Head of Production
+============================================================
+
+Email ID: email_002
+Date: 2025-09-15 13:30:00
+From: Olivia Martinez <olivia.martinez@elexion-automotive.com>
+To: john.doe@elexion-automotive.com
+CC: david.jones@elexion-automotive.com, robert.miller@elexion-automotive.com
+Subject: RE: Predictive Maintenance & Downtime Minimization Initiative
+Folder: inbox | Status: Read
+
+Message Body:
+----------------------------------------
+Hi John,
+
+I agree that leveraging IoT and digital twins for predictive maintenance can greatly enhance our efficiency. Our team is ready to assist in any way we can. We can start by coordinating with your team on collecting data from our assets and integrating it into the digital twin models.
+
+Best,
+Olivia Martinez
+Asset Lifecycle Manager
+============================================================
+
+Email ID: email_003
+Date: 2025-09-16 09:20:00
+From: David Jones <david.jones@elexion-automotive.com>
+To: john.doe@elexion-automotive.com, olivia.martinez@elexion-automotive.com
+CC: robert.miller@elexion-automotive.com
+Subject: RE: Predictive Maintenance & Downtime Minimization Initiative
+Folder: inbox | Status: Read
+
+Message Body:
+----------------------------------------
+Hi all,
+
+In line with our conversation, I'd like to share some good news. We are planning to integrate augmented reality (AR) headsets for technician training at our Texas assembly facility by November 2025. This pilot program will improve on-the-job training for maintenance staff, and in turn, help us in more accurate and timely maintenance, reducing any potential downtimes.
+
+I believe this initiative will play a significant role in our predictive maintenance strategy, enabling our staff to respond to potential issues before they escalate.
+
+Please let me know your thoughts.
+
+Best,
+David Jones
+Head of Training and Development
+============================================================
+
+================================================================================
+END OF EMAIL EXPORT
+================================================================================

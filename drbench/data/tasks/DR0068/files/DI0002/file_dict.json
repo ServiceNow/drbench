@@ -1,0 +1,81 @@
+{
+    "file_name": "2025-sales-performance",
+    "file_title": "Elexion's 2025 Sales Performance Analysis",
+    "introduction": "This presentation aims to provide an in-depth analysis of Elexion's sales performance in 2025. We will explore the factors that contributed to our sales trend and identify opportunities for future growth.",
+    "subsections": [
+        {
+            "heading": "2025 Market Overview: Electric Vehicles",
+            "content": "\u2022 Global EV market expected to exceed $900 billion by 2025\n\u2022 China, Europe, and the US are leading the EV market\n\u2022 Strict emission regulations worldwide are driving EV adoption\n\u2022 The battery electric vehicle (BEV) segment is anticipated to hold the largest market share\n\u2022 Charging infrastructure, battery prices, and range anxiety remain key challenges in the EV market\n\u2022 EVs are expected to account for over 30% of total vehicle sales by 2025",
+            "type": "distractor",
+            "justification": "The content focuses on the overall EV market in 2025, not specific to Elexion's sales. It uses the strategy of discussing general industry trends."
+        },
+        {
+            "heading": "Key Drivers of Elexion's 2025 Sales",
+            "content": "\u2022 Elexion's commitment to sustainability and zero-emission transportation\n\u2022 Advanced user-centric technology in Elexion vehicles\n\u2022 Strong compliance with cross-border regulations\n\u2022 Expanding charging infrastructure and improved battery life\n\u2022 The growth of the mid-range EV market\n\u2022 Continual R&D investments to enhance vehicle performance and customer experience",
+            "type": "distractor",
+            "justification": "This content discusses factors driving Elexion's sales, not the actual sales figures. This is a strategy of discussing related but non-essential business activities."
+        },
+        {
+            "heading": "Elexion's Sales Performance against Competitors in 2025",
+            "content": "\u2022 Elexion's market share in the mid-range EV market is growing\n\u2022 Elexion's EV designs are considered superior by many industry analysts\n\u2022 Elexion's technology partnerships have positioned it competitively\n\u2022 Elexion's vehicles are well-regarded for their safety features\n\u2022 Elexion's customer service and after-sales support are rated highly\n\u2022 Elexion has effectively managed supply chain disruptions in 2025",
+            "type": "distractor",
+            "justification": "This content compares Elexion's performance with competitors without mentioning specific sales data. This is a strategy of discussing operational details that are tangential."
+        }
+    ],
+    "conclusion": "In 2025, Elexion's sustainable approach to automotive design and compliance with cross-border regulations have significantly contributed to our sales. Moving forward, we need to leverage our strengths and address areas of improvement to maintain our competitive edge.",
+    "file_format": "pptx",
+    "file_path": ".llm_responses/generated_pptx_presentation.pptx",
+    "qa_type": "distractor",
+    "timestamp": "2025-11-20 02:47",
+    "image_queries": [
+        {
+            "slide_title": "Introduction",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "intentionally_clean",
+            "slide_type": "introduction"
+        },
+        {
+            "slide_title": "2025 Market Overview: Electric Vehicles",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 6,
+            "total_chars": 426,
+            "probability": 0.25,
+            "theme": "Forest Theme"
+        },
+        {
+            "slide_title": "Key Drivers of Elexion's 2025 Sales",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "failed",
+            "slide_type": "distractor",
+            "content_length": 6,
+            "total_chars": 346,
+            "error": "'str' object has no attribute 'choices'",
+            "theme": "Forest Theme"
+        },
+        {
+            "slide_title": "Elexion's Sales Performance against Competitors in 2025",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 6,
+            "total_chars": 389,
+            "probability": 0.25,
+            "theme": "Forest Theme"
+        },
+        {
+            "slide_title": "Conclusion",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "strategic_clean_conclusion",
+            "slide_type": "conclusion",
+            "theme": "Forest Theme"
+        }
+    ],
+    "app": "file_system"
+}

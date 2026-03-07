@@ -1,0 +1,209 @@
+{
+    "file_name": "roundcube_email_20251119_222746",
+    "content": "{\"type\": \"user\", \"username\": \"emily.chen\", \"first_name\": \"Emily\", \"last_name\": \"Chen\", \"email\": \"emily.chen@mediconnsolutions.com\", \"password\": \"emily_marketing_pwd\"}\n{\"type\": \"user\", \"username\": \"david.king\", \"first_name\": \"David\", \"last_name\": \"King\", \"email\": \"david.king@mediconnsolutions.com\", \"password\": \"david_healthcare_pwd\"}\n{\"type\": \"user\", \"username\": \"maria.gonzalez\", \"first_name\": \"Maria\", \"last_name\": \"Gonzalez\", \"email\": \"maria.gonzalez@mediconnsolutions.com\", \"password\": \"maria_sales_pwd\"}\n{\"type\": \"user\", \"username\": \"peter.wilson\", \"first_name\": \"Peter\", \"last_name\": \"Wilson\", \"email\": \"peter.wilson@mediconnsolutions.com\", \"password\": \"peter_IT_pwd\"}\n{\"type\": \"user\", \"username\": \"jane.doe\", \"first_name\": \"Jane\", \"last_name\": \"Doe\", \"email\": \"jane.doe@mediconnsolutions.com\", \"password\": \"jane_hr_pwd\"}\n{\"type\": \"user\", \"username\": \"robert.johnson\", \"first_name\": \"Robert\", \"last_name\": \"Johnson\", \"email\": \"robert.johnson@mediconnsolutions.com\", \"password\": \"robert_finance_pwd\"}\n{\"type\": \"user\", \"username\": \"linda.brown\", \"first_name\": \"Linda\", \"last_name\": \"Brown\", \"email\": \"linda.brown@mediconnsolutions.com\", \"password\": \"linda_management_pwd\"}\n{\"type\": \"email\", \"id\": \"email_001\", \"subject\": \"Upcoming Marketing Team Meeting - Agenda Items\", \"from\": \"emily.chen@mediconnsolutions.com\", \"from_name\": \"Emily Chen\", \"to\": [\"david.king@mediconnsolutions.com\"], \"cc\": [\"linda.brown@mediconnsolutions.com\"], \"date\": \"2022-07-19 10:30:00\", \"body\": \"Hello David,\\n\\nI hope this email finds you well. I'm writing to inform you about our upcoming marketing team meeting scheduled for next Tuesday. We'll be discussing the Q3 marketing campaigns and planning for Q4.\\n\\nCould you please provide your input on any crucial items we should include in the agenda by the end of this week?\\n\\nThank you,\\nEmily\", \"folder\": \"inbox\", \"read\": true, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_002\", \"subject\": \"New Software Implementation\", \"from\": \"peter.wilson@mediconnsolutions.com\", \"from_name\": \"Peter Wilson\", \"to\": [\"emily.chen@mediconnsolutions.com\"], \"cc\": [], \"date\": \"2022-08-01 14:15:00\", \"body\": \"Hi Emily,\\n\\nAs part of our ongoing efforts to improve our digital infrastructure, there will be a new marketing analytics software implementation next week. There will be an introductory training session on the day of implementation. Please inform your team accordingly.\\n\\nBest,\\nPeter\", \"folder\": \"inbox\", \"read\": true, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_003\", \"subject\": \"Monthly Budget Planning\", \"from\": \"robert.johnson@mediconnsolutions.com\", \"from_name\": \"Robert Johnson\", \"to\": [\"emily.chen@mediconnsolutions.com\"], \"cc\": [], \"date\": \"2022-08-05 09:00:00\", \"body\": \"Emily,\\n\\nI'm currently working on the monthly budget planning and would appreciate your input regarding the marketing department's anticipated expenses for next month. Can you please provide me with your projections by EOD Wednesday?\\n\\nThank you,\\nRobert\", \"folder\": \"inbox\", \"read\": true, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_004\", \"subject\": \"Internal Job Posting: Senior Marketing Analyst\", \"from\": \"jane.doe@mediconnsolutions.com\", \"from_name\": \"Jane Doe\", \"to\": [\"emily.chen@mediconnsolutions.com\"], \"cc\": [], \"date\": \"2022-08-09 16:00:00\", \"body\": \"Dear Emily,\\n\\nThere is a new internal job posting for the position of Senior Marketing Analyst. I thought you might know someone on your team who would be interested in this opportunity. Could you please share this information with your team?\\n\\nBest,\\nJane\", \"folder\": \"inbox\", \"read\": true, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_001\", \"subject\": \"Patient Demographics Analysis Report 2024\", \"from\": \"emily.chen@mediconnsolutions.com\", \"from_name\": \"Emily Chen\", \"to\": [\"david.king@mediconnsolutions.com\", \"maria.gonzalez@mediconnsolutions.com\", \"peter.wilson@mediconnsolutions.com\", \"jane.doe@mediconnsolutions.com\", \"robert.johnson@mediconnsolutions.com\", \"linda.brown@mediconnsolutions.com\"], \"cc\": [], \"date\": \"2024-12-15 10:30:00\", \"body\": \"Dear team,\\n\\nI am pleased to share the findings from our recent patient demographic analysis. In 2024, 33% of our client base was made up of senior citizens. This is a significant portion of our clientele, highlighting the importance of our services to this demographic.\\n\\nIn order to cater to this group more effectively, I recommend we focus on enhancing user experience and trust. This can be achieved by simplifying our platform interface to make it more user-friendly for senior citizens, and by providing additional customer support to assist them in navigating our services.\\n\\nBest,\\nEmily Chen\", \"folder\": \"sent\", \"read\": true, \"attachments\": [\"Patient_Demographics_Analysis_Report_2024.pdf\"]}\n{\"type\": \"email\", \"id\": \"email_002\", \"subject\": \"RE: Patient Demographics Analysis Report 2024\", \"from\": \"david.king@mediconnsolutions.com\", \"from_name\": \"David King\", \"to\": [\"emily.chen@mediconnsolutions.com\"], \"cc\": [\"maria.gonzalez@mediconnsolutions.com\", \"peter.wilson@mediconnsolutions.com\", \"jane.doe@mediconnsolutions.com\", \"robert.johnson@mediconnsolutions.com\", \"linda.brown@mediconnsolutions.com\"], \"date\": \"2024-12-15 11:15:00\", \"body\": \"Emily,\\n\\nThank you for sharing this valuable information. The fact that 33% of our clients are senior citizens is indeed significant. I agree with your recommendations and think we should make this a priority for our next quarter's objectives.\\n\\nBest,\\nDavid King\", \"folder\": \"sent\", \"read\": true, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_003\", \"subject\": \"RE: Patient Demographics Analysis Report 2024\", \"from\": \"maria.gonzalez@mediconnsolutions.com\", \"from_name\": \"Maria Gonzalez\", \"to\": [\"david.king@mediconnsolutions.com\", \"emily.chen@mediconnsolutions.com\"], \"cc\": [\"peter.wilson@mediconnsolutions.com\", \"jane.doe@mediconnsolutions.com\", \"robert.johnson@mediconnsolutions.com\", \"linda.brown@mediconnsolutions.com\"], \"date\": \"2024-12-15 12:00:00\", \"body\": \"All,\\n\\nI concur with the sentiments shared. We must prioritize improving our services for senior citizens. This will not only enhance their experience but also help boost patient satisfaction and retention. Let's discuss this in our next strategy meeting.\\n\\nBest,\\nMaria Gonzalez\", \"folder\": \"sent\", \"read\": true, \"attachments\": []}",
+    "email_setup": [
+        {
+            "type": "user",
+            "username": "emily.chen",
+            "first_name": "Emily",
+            "last_name": "Chen",
+            "email": "emily.chen@mediconnsolutions.com",
+            "password": "emily_marketing_pwd"
+        },
+        {
+            "type": "user",
+            "username": "david.king",
+            "first_name": "David",
+            "last_name": "King",
+            "email": "david.king@mediconnsolutions.com",
+            "password": "david_healthcare_pwd"
+        },
+        {
+            "type": "user",
+            "username": "maria.gonzalez",
+            "first_name": "Maria",
+            "last_name": "Gonzalez",
+            "email": "maria.gonzalez@mediconnsolutions.com",
+            "password": "maria_sales_pwd"
+        },
+        {
+            "type": "user",
+            "username": "peter.wilson",
+            "first_name": "Peter",
+            "last_name": "Wilson",
+            "email": "peter.wilson@mediconnsolutions.com",
+            "password": "peter_IT_pwd"
+        },
+        {
+            "type": "user",
+            "username": "jane.doe",
+            "first_name": "Jane",
+            "last_name": "Doe",
+            "email": "jane.doe@mediconnsolutions.com",
+            "password": "jane_hr_pwd"
+        },
+        {
+            "type": "user",
+            "username": "robert.johnson",
+            "first_name": "Robert",
+            "last_name": "Johnson",
+            "email": "robert.johnson@mediconnsolutions.com",
+            "password": "robert_finance_pwd"
+        },
+        {
+            "type": "user",
+            "username": "linda.brown",
+            "first_name": "Linda",
+            "last_name": "Brown",
+            "email": "linda.brown@mediconnsolutions.com",
+            "password": "linda_management_pwd"
+        }
+    ],
+    "email_messages": [
+        {
+            "type": "email",
+            "id": "email_001",
+            "subject": "Upcoming Marketing Team Meeting - Agenda Items",
+            "from": "emily.chen@mediconnsolutions.com",
+            "from_name": "Emily Chen",
+            "to": [
+                "david.king@mediconnsolutions.com"
+            ],
+            "cc": [
+                "linda.brown@mediconnsolutions.com"
+            ],
+            "date": "2022-07-19 10:30:00",
+            "body": "Hello David,\n\nI hope this email finds you well. I'm writing to inform you about our upcoming marketing team meeting scheduled for next Tuesday. We'll be discussing the Q3 marketing campaigns and planning for Q4.\n\nCould you please provide your input on any crucial items we should include in the agenda by the end of this week?\n\nThank you,\nEmily",
+            "folder": "inbox",
+            "read": true,
+            "attachments": [],
+            "tag": "distractor"
+        },
+        {
+            "type": "email",
+            "id": "email_002",
+            "subject": "New Software Implementation",
+            "from": "peter.wilson@mediconnsolutions.com",
+            "from_name": "Peter Wilson",
+            "to": [
+                "emily.chen@mediconnsolutions.com"
+            ],
+            "cc": [],
+            "date": "2022-08-01 14:15:00",
+            "body": "Hi Emily,\n\nAs part of our ongoing efforts to improve our digital infrastructure, there will be a new marketing analytics software implementation next week. There will be an introductory training session on the day of implementation. Please inform your team accordingly.\n\nBest,\nPeter",
+            "folder": "inbox",
+            "read": true,
+            "attachments": [],
+            "tag": "distractor"
+        },
+        {
+            "type": "email",
+            "id": "email_003",
+            "subject": "Monthly Budget Planning",
+            "from": "robert.johnson@mediconnsolutions.com",
+            "from_name": "Robert Johnson",
+            "to": [
+                "emily.chen@mediconnsolutions.com"
+            ],
+            "cc": [],
+            "date": "2022-08-05 09:00:00",
+            "body": "Emily,\n\nI'm currently working on the monthly budget planning and would appreciate your input regarding the marketing department's anticipated expenses for next month. Can you please provide me with your projections by EOD Wednesday?\n\nThank you,\nRobert",
+            "folder": "inbox",
+            "read": true,
+            "attachments": [],
+            "tag": "distractor"
+        },
+        {
+            "type": "email",
+            "id": "email_004",
+            "subject": "Internal Job Posting: Senior Marketing Analyst",
+            "from": "jane.doe@mediconnsolutions.com",
+            "from_name": "Jane Doe",
+            "to": [
+                "emily.chen@mediconnsolutions.com"
+            ],
+            "cc": [],
+            "date": "2022-08-09 16:00:00",
+            "body": "Dear Emily,\n\nThere is a new internal job posting for the position of Senior Marketing Analyst. I thought you might know someone on your team who would be interested in this opportunity. Could you please share this information with your team?\n\nBest,\nJane",
+            "folder": "inbox",
+            "read": true,
+            "attachments": [],
+            "tag": "distractor"
+        },
+        {
+            "type": "email",
+            "id": "email_001",
+            "subject": "Patient Demographics Analysis Report 2024",
+            "from": "emily.chen@mediconnsolutions.com",
+            "from_name": "Emily Chen",
+            "to": [
+                "david.king@mediconnsolutions.com",
+                "maria.gonzalez@mediconnsolutions.com",
+                "peter.wilson@mediconnsolutions.com",
+                "jane.doe@mediconnsolutions.com",
+                "robert.johnson@mediconnsolutions.com",
+                "linda.brown@mediconnsolutions.com"
+            ],
+            "cc": [],
+            "date": "2024-12-15 10:30:00",
+            "body": "Dear team,\n\nI am pleased to share the findings from our recent patient demographic analysis. In 2024, 33% of our client base was made up of senior citizens. This is a significant portion of our clientele, highlighting the importance of our services to this demographic.\n\nIn order to cater to this group more effectively, I recommend we focus on enhancing user experience and trust. This can be achieved by simplifying our platform interface to make it more user-friendly for senior citizens, and by providing additional customer support to assist them in navigating our services.\n\nBest,\nEmily Chen",
+            "folder": "sent",
+            "read": true,
+            "attachments": [
+                "Patient_Demographics_Analysis_Report_2024.pdf"
+            ],
+            "tag": "insight"
+        },
+        {
+            "type": "email",
+            "id": "email_002",
+            "subject": "RE: Patient Demographics Analysis Report 2024",
+            "from": "david.king@mediconnsolutions.com",
+            "from_name": "David King",
+            "to": [
+                "emily.chen@mediconnsolutions.com"
+            ],
+            "cc": [
+                "maria.gonzalez@mediconnsolutions.com",
+                "peter.wilson@mediconnsolutions.com",
+                "jane.doe@mediconnsolutions.com",
+                "robert.johnson@mediconnsolutions.com",
+                "linda.brown@mediconnsolutions.com"
+            ],
+            "date": "2024-12-15 11:15:00",
+            "body": "Emily,\n\nThank you for sharing this valuable information. The fact that 33% of our clients are senior citizens is indeed significant. I agree with your recommendations and think we should make this a priority for our next quarter's objectives.\n\nBest,\nDavid King",
+            "folder": "sent",
+            "read": true,
+            "attachments": [],
+            "tag": "insight"
+        },
+        {
+            "type": "email",
+            "id": "email_003",
+            "subject": "RE: Patient Demographics Analysis Report 2024",
+            "from": "maria.gonzalez@mediconnsolutions.com",
+            "from_name": "Maria Gonzalez",
+            "to": [
+                "david.king@mediconnsolutions.com",
+                "emily.chen@mediconnsolutions.com"
+            ],
+            "cc": [
+                "peter.wilson@mediconnsolutions.com",
+                "jane.doe@mediconnsolutions.com",
+                "robert.johnson@mediconnsolutions.com",
+                "linda.brown@mediconnsolutions.com"
+            ],
+            "date": "2024-12-15 12:00:00",
+            "body": "All,\n\nI concur with the sentiments shared. We must prioritize improving our services for senior citizens. This will not only enhance their experience but also help boost patient satisfaction and retention. Let's discuss this in our next strategy meeting.\n\nBest,\nMaria Gonzalez",
+            "folder": "sent",
+            "read": true,
+            "attachments": [],
+            "tag": "insight"
+        }
+    ],
+    "file_format": "jsonl",
+    "file_path": ".llm_responses/generated_email_document.jsonl",
+    "qa_type": "distractor",
+    "timestamp": "2025-11-19 23:27",
+    "app": "email"
+}

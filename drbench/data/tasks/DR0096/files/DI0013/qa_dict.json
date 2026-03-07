@@ -1,0 +1,10 @@
+{
+    "insight_id": "DI0013",
+    "qa_type": "distractor",
+    "qa_index": 13,
+    "specific_question": "As of Q4 2025, how many trash cans are present in Lee's Market store in New York City, U.S.?",
+    "answer": "As of Q4 2025, around 30 trash cans are present in Lee's Market store in New York City, U.S.",
+    "justification": "The number of trash cans present in the New York City store is unrelated to the success in sales of Lee's Market.",
+    "timestamp": "2025-11-20 19:16",
+    "dr_question": "As per the report by the U.S. Census Bureau's indication of a rise in food service sales since August 2024, how can Lee\u2019s Market optimize in-store layouts and product displays across its U.S. locations to increase bakery sales by 15% by the end of Q1 2026?"
+}

@@ -1,0 +1,81 @@
+{
+    "file_name": "platform-usage-analysis",
+    "file_title": "Knowledge Platform Usage Analysis",
+    "introduction": "This presentation aims to provide an overview of our staff's engagement with MediConn's knowledge management platform in March 2025. We will focus on non-clinical content and company-wide updates browsing data.",
+    "subsections": [
+        {
+            "heading": "Overview of Knowledge Management Platform",
+            "content": "\u2022 The Knowledge Management Platform was launched in 2020 to facilitate internal communication\n\u2022 It enables seamless sharing of clinical and non-clinical information\n\u2022 The platform is accessible to all staff members, including virtual care staff\n\u2022 The platform is compliant with all relevant healthcare regulations\n\u2022 It supports multiple content formats, including text, video, and audio\n\u2022 The platform's user-friendly interface has been praised by 90% of our staff in a recent survey\n\u2022 There were two major updates to the platform in 2024, aimed at improving the user experience",
+            "type": "distractor",
+            "justification": "This slide presents an overview of the platform but does not provide the specific usage data required to answer the DR Question"
+        },
+        {
+            "heading": "Platform Usage Trends: Clinical vs Non-Clinical",
+            "content": "\u2022 There has been a 30% increase in usage of the platform for clinical content since 2022\n\u2022 Non-clinical content usage has remained steady over the past three years\n\u2022 In 2024, 60% of logins were for accessing clinical content\n\u2022 The platform's usage peaked in January and July of 2024\n\u2022 The most accessed non-clinical content is company-wide updates\n\u2022 The platform's user engagement rate for clinical content is consistently higher than non-clinical content",
+            "type": "distractor",
+            "justification": "This slide discusses general platform usage trends but doesn't provide specific data for March 2025 required to answer the DR Question"
+        },
+        {
+            "heading": "Non-Clinical Content Engagement in March 2025",
+            "content": "\u2022 The most viewed non-clinical content in March 2025 was about the company's 5-year strategic plan\n\u2022 80% of the staff engaged with non-clinical content related to HR policies\n\u2022 The least viewed non-clinical content was about the cafeteria menu updates\n\u2022 The platform's average session duration for non-clinical content was 10 minutes\n\u2022 The total number of views for non-clinical content was around 2,000 in March 2025",
+            "type": "distractor",
+            "justification": "This slide discusses the engagement with non-clinical content but doesn't provide the number of staff who logged in to view non-clinical content in March 2025"
+        }
+    ],
+    "conclusion": "Understanding the platform usage trends helps us optimize the content and interface for improved engagement. As a next step, we should consider implementing strategies to encourage more frequent usage among staff.",
+    "file_format": "pptx",
+    "file_path": ".llm_responses/generated_pptx_presentation.pptx",
+    "qa_type": "distractor",
+    "timestamp": "2025-11-20 00:05",
+    "image_queries": [
+        {
+            "slide_title": "Introduction",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "intentionally_clean",
+            "slide_type": "introduction"
+        },
+        {
+            "slide_title": "Overview of Knowledge Management Platform",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 7,
+            "total_chars": 558,
+            "probability": 0.25,
+            "theme": "Professional Green"
+        },
+        {
+            "slide_title": "Platform Usage Trends: Clinical vs Non-Clinical",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "failed",
+            "slide_type": "distractor",
+            "content_length": 6,
+            "total_chars": 438,
+            "error": "'str' object has no attribute 'choices'",
+            "theme": "Professional Green"
+        },
+        {
+            "slide_title": "Non-Clinical Content Engagement in March 2025",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 5,
+            "total_chars": 403,
+            "probability": 0.25,
+            "theme": "Professional Green"
+        },
+        {
+            "slide_title": "Conclusion",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "strategic_clean_conclusion",
+            "slide_type": "conclusion",
+            "theme": "Professional Green"
+        }
+    ],
+    "app": "file_system"
+}

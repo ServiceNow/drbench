@@ -1,0 +1,13 @@
+Company,Year,Sales_Tactic,Discount_Percentage,Customer_Segment,Sales_Team_Lead
+The name of the company using the sales tactic,The year in which the sales tactic was implemented,The specific sales tactic used to increase sales,The percentage discount offered to customers as part of the sales tactic,The target customer segment for the sales tactic,The leader of the sales team during the implementation of the sales tactic
+Lee's Market,2025,Email Newsletter Sign-up Discount,10,First-time Buyers,John Doe
+Zeta LLC,2021,Black Friday Sales,25,All Customers,Joseph Martinez
+Beta Inc,2023,Buy One Get One Free,0,All Customers,James Johnson
+Delta Ltd,2022,Loyalty Program,5,Repeat Customers,Jason Brown
+Kappa Ltd,2020,Veterans Day Discounts,5,Military Personnel,Jerry Moore
+Alpha Corp,2021,Seasonal Discounts,15,Frequent Buyers,Jane Smith
+Gamma Co,2024,Flash Sales,20,Loyal Customers,Jennifer Williams
+Iota Co,2022,Birthday Discounts,10,Registered Users,Julie Miller
+Epsilon Enterprises,2020,Members Only Discounts,10,Members,Julia Davis
+Eta Corp,2023,Free Shipping,0,Online Customers,Jessica Garcia
+Theta Inc,2024,Holiday Sales,15,All Customers,Jacob Wilson

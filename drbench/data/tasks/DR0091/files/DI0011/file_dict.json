@@ -1,0 +1,81 @@
+{
+    "file_name": "lees-market-unionization",
+    "file_title": "Employee Unionization Trends at Lee's Market",
+    "introduction": "The purpose of this presentation is to analyze the recent trends in employee unionization at Lee's Market. Our focus will be on evaluating the percentage of employees who were part of a union as of Q2 2026.",
+    "subsections": [
+        {
+            "heading": "Evolution of Employee Unionization",
+            "content": "\u2022 Unionization efforts began in the company in the early 2000s\n\u2022 By 2010, 30% of employees were part of a union\n\u2022 In 2015, the company reached a peak of 45% unionization\n\u2022 Unionization decreased to 35% in 2020 following changes in company policy\n\u2022 As of 2025, management implemented new strategies to maintain a healthy relationship with unions\n\u2022 Unions have played a significant role in shaping employee benefits and wage structures",
+            "type": "distractor",
+            "justification": "The slide covers historical evolution of unionization, but doesn't provide information on the percentage of unionized employees in Q2 2026."
+        },
+        {
+            "heading": "Unionized Employee Percentage - Q2 2026",
+            "content": "\u2022 The total number of employees in Q2 2026 was 5,000\n\u2022 A significant percentage of employees were part of the retail department\n\u2022 The customer service department had the lowest number of unionized employees\n\u2022 Unionized employees were primarily full-time rather than part-time\n\u2022 The average age of unionized employees was 35 years\n\u2022 The gender distribution among unionized employees was nearly equal",
+            "type": "distractor",
+            "justification": "The slide provides various details about unionized employees in Q2 2026 but doesn't reveal the exact percentage."
+        },
+        {
+            "heading": "Impact of Unionization on Employee Satisfaction",
+            "content": "\u2022 Employee satisfaction surveys indicate a positive correlation with unionization\n\u2022 Unionized employees reported higher job security\n\u2022 Non-unionized employees had higher flexibility in job roles\n\u2022 Overall job satisfaction was not significantly different between unionized and non-unionized employees\n\u2022 Unionized employees reported increased satisfaction with dispute resolution processes\n\u2022 Both groups indicated room for improvement in communication with management",
+            "type": "distractor",
+            "justification": "This slide discusses the impact of unionization on employee satisfaction, not the percentage of unionized employees in Q2 2026."
+        }
+    ],
+    "conclusion": "Understanding employee unionization trends at Lee's Market is critical for our strategic planning. Further analysis will focus on the implications of these trends for our employee relations strategy.",
+    "file_format": "pptx",
+    "file_path": ".llm_responses/generated_pptx_presentation.pptx",
+    "qa_type": "distractor",
+    "timestamp": "2025-11-20 16:26",
+    "image_queries": [
+        {
+            "slide_title": "Introduction",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "intentionally_clean",
+            "slide_type": "introduction"
+        },
+        {
+            "slide_title": "Evolution of Employee Unionization",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "failed",
+            "slide_type": "distractor",
+            "content_length": 6,
+            "total_chars": 416,
+            "error": "'str' object has no attribute 'choices'",
+            "theme": "Executive Purple"
+        },
+        {
+            "slide_title": "Unionized Employee Percentage - Q2 2026",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 6,
+            "total_chars": 381,
+            "probability": 0.25,
+            "theme": "Executive Purple"
+        },
+        {
+            "slide_title": "Impact of Unionization on Employee Satisfaction",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 6,
+            "total_chars": 448,
+            "probability": 0.25,
+            "theme": "Executive Purple"
+        },
+        {
+            "slide_title": "Conclusion",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "strategic_clean_conclusion",
+            "slide_type": "conclusion",
+            "theme": "Executive Purple"
+        }
+    ],
+    "app": "nextcloud"
+}

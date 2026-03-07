@@ -1,0 +1,237 @@
+{
+    "file_name": "mattermost_chat_20251202_231101",
+    "content": "{\"type\": \"version\", \"version\": 1}\n{\"type\": \"team\", \"team\": {\"name\": \"sales_and_marketing\", \"display_name\": \"Sales and Marketing\", \"type\": \"O\", \"header\": \"Team for Sales and Marketing Department\", \"purpose\": \"Discuss, plan and strategize on sales and marketing for Elexion Automotive\"}}\n{\"type\": \"team\", \"team\": {\"name\": \"competitive_intelligence\", \"display_name\": \"Competitive Intelligence\", \"type\": \"O\", \"header\": \"Team for Competitive Intelligence strategies\", \"purpose\": \"Develop and discuss competitive intelligence strategies for Elexion Automotive\"}}\n{\"type\": \"channel\", \"channel\": {\"team\": \"sales_and_marketing\", \"name\": \"market_analysis\", \"display_name\": \"Market Analysis\", \"type\": \"O\", \"header\": \"Channel for market data analysis\", \"purpose\": \"Discuss, analyze and share insights on market data\"}}\n{\"type\": \"channel\", \"channel\": {\"team\": \"competitive_intelligence\", \"name\": \"strategy_development\", \"display_name\": \"Strategy Development\", \"type\": \"O\", \"header\": \"Channel for competitive intelligence strategy development\", \"purpose\": \"Discuss, develop and share competitive intelligence strategies\"}}\n{\"type\": \"user\", \"user\": {\"username\": \"ryan.thompson\", \"email\": \"ryan.thompson@elexion.com\", \"password\": \"ryan_password\", \"nickname\": \"Ryan\", \"first_name\": \"Ryan\", \"last_name\": \"Thompson\", \"position\": \"Competitive Intelligence Manager\", \"roles\": \"system_user\", \"locale\": \"en\", \"teams\": [{\"name\": \"sales_and_marketing\", \"roles\": \"team_user\", \"channels\": [{\"name\": \"market_analysis\", \"roles\": \"channel_user\"}]}, {\"name\": \"competitive_intelligence\", \"roles\": \"team_user\", \"channels\": [{\"name\": \"strategy_development\", \"roles\": \"channel_user\"}]}]}}\n{\"type\": \"user\", \"user\": {\"username\": \"jane_doe\", \"email\": \"jane.doe@elexion.com\", \"password\": \"jane_password\", \"nickname\": \"Jane\", \"first_name\": \"Jane\", \"last_name\": \"Doe\", \"position\": \"Sales Director\", \"roles\": \"system_user\", \"locale\": \"en\", \"teams\": [{\"name\": \"sales_and_marketing\", \"roles\": \"team_user\", \"channels\": [{\"name\": \"market_analysis\", \"roles\": \"channel_user\"}]}]}}\n{\"type\": \"user\", \"user\": {\"username\": \"john_smith\", \"email\": \"john.smith@elexion.com\", \"password\": \"john_password\", \"nickname\": \"John\", \"first_name\": \"John\", \"last_name\": \"Smith\", \"position\": \"Marketing Analyst\", \"roles\": \"system_user\", \"locale\": \"en\", \"teams\": [{\"name\": \"sales_and_marketing\", \"roles\": \"team_user\", \"channels\": [{\"name\": \"market_analysis\", \"roles\": \"channel_user\"}]}]}}\n{\"type\": \"post\", \"post\": {\"team\": \"sales_and_marketing\", \"channel\": \"market_analysis\", \"user\": \"jane_doe\", \"message\": \"Team, I've just received the Q2 sales report. We've exceeded our targets by 12%. Great job everyone!\", \"created_at\": 1620500000000}}\n{\"type\": \"post\", \"post\": {\"team\": \"competitive_intelligence\", \"channel\": \"strategy_development\", \"user\": \"ryan.thompson\", \"message\": \"Our competitor just released a new EV model with a longer range. We should consider adjusting our product roadmap accordingly.\", \"created_at\": 1620501000000}}\n{\"type\": \"post\", \"post\": {\"team\": \"sales_and_marketing\", \"channel\": \"market_analysis\", \"user\": \"john_smith\", \"message\": \"I've been analyzing the customer feedback data. It seems our customers are really appreciating the latest software updates in our EVs. We should highlight this in our upcoming marketing campaign.\", \"created_at\": 1620502000000}}\n{\"type\": \"post\", \"post\": {\"team\": \"sales_and_marketing\", \"channel\": \"market_analysis\", \"user\": \"jane_doe\", \"message\": \"Great insight, John. Let's discuss this in more detail in our next team meeting.\", \"created_at\": 1620503000000}}\n{\"type\": \"post\", \"post\": {\"team\": \"competitive_intelligence\", \"channel\": \"strategy_development\", \"user\": \"ryan.thompson\", \"message\": \"I've arranged a meeting with the engineering team to discuss possible improvements to our battery technology. Let's stay ahead of the game.\", \"created_at\": 1620504000000}}\n{\"type\": \"post\", \"post\": {\"team\": \"sales_and_marketing\", \"channel\": \"market_analysis\", \"user\": \"john_smith\", \"message\": \"I've just updated the customer demographics analysis. It seems our EVs are particularly popular among the age group 25-35.\", \"created_at\": 1620505000000}}\n{\"type\": \"post\", \"post\": {\"team\": \"competitive_intelligence\", \"channel\": \"strategy_development\", \"user\": \"ryan.thompson\", \"message\": \"Just a reminder about our strategy meeting tomorrow at 10am. We'll be discussing our approach to the upcoming EV expo.\", \"created_at\": 1620506000000}}\n{\"type\": \"post\", \"post\": {\"team\": \"sales_and_marketing\", \"channel\": \"market_analysis\", \"user\": \"jane_doe\", \"message\": \"Hi team, just a heads up about some changes in our cafeteria. To accommodate dietary needs and improve meal variety, the cafeteria has adjusted its meal rotation to a 3-week cycle. Please keep this in mind when planning your lunches!\", \"create_at\": 1620500000000}}",
+    "chat_setup": {
+        "teams": [
+            {
+                "type": "team",
+                "team": {
+                    "name": "sales_and_marketing",
+                    "display_name": "Sales and Marketing",
+                    "type": "O",
+                    "header": "Team for Sales and Marketing Department",
+                    "purpose": "Discuss, plan and strategize on sales and marketing for Elexion Automotive"
+                }
+            },
+            {
+                "type": "team",
+                "team": {
+                    "name": "competitive_intelligence",
+                    "display_name": "Competitive Intelligence",
+                    "type": "O",
+                    "header": "Team for Competitive Intelligence strategies",
+                    "purpose": "Develop and discuss competitive intelligence strategies for Elexion Automotive"
+                }
+            }
+        ],
+        "channels": [
+            {
+                "type": "channel",
+                "channel": {
+                    "team": "sales_and_marketing",
+                    "name": "market_analysis",
+                    "display_name": "Market Analysis",
+                    "type": "O",
+                    "header": "Channel for market data analysis",
+                    "purpose": "Discuss, analyze and share insights on market data"
+                }
+            },
+            {
+                "type": "channel",
+                "channel": {
+                    "team": "competitive_intelligence",
+                    "name": "strategy_development",
+                    "display_name": "Strategy Development",
+                    "type": "O",
+                    "header": "Channel for competitive intelligence strategy development",
+                    "purpose": "Discuss, develop and share competitive intelligence strategies"
+                }
+            }
+        ],
+        "users": [
+            {
+                "type": "user",
+                "user": {
+                    "username": "ryan.thompson",
+                    "email": "ryan.thompson@elexion.com",
+                    "password": "ryan_password",
+                    "nickname": "Ryan",
+                    "first_name": "Ryan",
+                    "last_name": "Thompson",
+                    "position": "Competitive Intelligence Manager",
+                    "roles": "system_user",
+                    "locale": "en",
+                    "teams": [
+                        {
+                            "name": "sales_and_marketing",
+                            "roles": "team_user",
+                            "channels": [
+                                {
+                                    "name": "market_analysis",
+                                    "roles": "channel_user"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "competitive_intelligence",
+                            "roles": "team_user",
+                            "channels": [
+                                {
+                                    "name": "strategy_development",
+                                    "roles": "channel_user"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "type": "user",
+                "user": {
+                    "username": "jane_doe",
+                    "email": "jane.doe@elexion.com",
+                    "password": "jane_password",
+                    "nickname": "Jane",
+                    "first_name": "Jane",
+                    "last_name": "Doe",
+                    "position": "Sales Director",
+                    "roles": "system_user",
+                    "locale": "en",
+                    "teams": [
+                        {
+                            "name": "sales_and_marketing",
+                            "roles": "team_user",
+                            "channels": [
+                                {
+                                    "name": "market_analysis",
+                                    "roles": "channel_user"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "type": "user",
+                "user": {
+                    "username": "john_smith",
+                    "email": "john.smith@elexion.com",
+                    "password": "john_password",
+                    "nickname": "John",
+                    "first_name": "John",
+                    "last_name": "Smith",
+                    "position": "Marketing Analyst",
+                    "roles": "system_user",
+                    "locale": "en",
+                    "teams": [
+                        {
+                            "name": "sales_and_marketing",
+                            "roles": "team_user",
+                            "channels": [
+                                {
+                                    "name": "market_analysis",
+                                    "roles": "channel_user"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    "chat_messages": [
+        {
+            "type": "post",
+            "post": {
+                "team": "sales_and_marketing",
+                "channel": "market_analysis",
+                "user": "jane_doe",
+                "message": "Hi team, just a heads up about some changes in our cafeteria. To accommodate dietary needs and improve meal variety, the cafeteria has adjusted its meal rotation to a 3-week cycle. Please keep this in mind when planning your lunches!",
+                "create_at": 1620500000000
+            },
+            "tag": "insight"
+        },
+        {
+            "type": "post",
+            "post": {
+                "team": "sales_and_marketing",
+                "channel": "market_analysis",
+                "user": "jane_doe",
+                "message": "Team, I've just received the Q2 sales report. We've exceeded our targets by 12%. Great job everyone!",
+                "created_at": 1620500000000
+            },
+            "tag": "distractor"
+        },
+        {
+            "type": "post",
+            "post": {
+                "team": "competitive_intelligence",
+                "channel": "strategy_development",
+                "user": "ryan.thompson",
+                "message": "Our competitor just released a new EV model with a longer range. We should consider adjusting our product roadmap accordingly.",
+                "created_at": 1620501000000
+            },
+            "tag": "distractor"
+        },
+        {
+            "type": "post",
+            "post": {
+                "team": "sales_and_marketing",
+                "channel": "market_analysis",
+                "user": "john_smith",
+                "message": "I've been analyzing the customer feedback data. It seems our customers are really appreciating the latest software updates in our EVs. We should highlight this in our upcoming marketing campaign.",
+                "created_at": 1620502000000
+            },
+            "tag": "distractor"
+        },
+        {
+            "type": "post",
+            "post": {
+                "team": "sales_and_marketing",
+                "channel": "market_analysis",
+                "user": "jane_doe",
+                "message": "Great insight, John. Let's discuss this in more detail in our next team meeting.",
+                "created_at": 1620503000000
+            },
+            "tag": "distractor"
+        },
+        {
+            "type": "post",
+            "post": {
+                "team": "competitive_intelligence",
+                "channel": "strategy_development",
+                "user": "ryan.thompson",
+                "message": "I've arranged a meeting with the engineering team to discuss possible improvements to our battery technology. Let's stay ahead of the game.",
+                "created_at": 1620504000000
+            },
+            "tag": "distractor"
+        },
+        {
+            "type": "post",
+            "post": {
+                "team": "sales_and_marketing",
+                "channel": "market_analysis",
+                "user": "john_smith",
+                "message": "I've just updated the customer demographics analysis. It seems our EVs are particularly popular among the age group 25-35.",
+                "created_at": 1620505000000
+            },
+            "tag": "distractor"
+        },
+        {
+            "type": "post",
+            "post": {
+                "team": "competitive_intelligence",
+                "channel": "strategy_development",
+                "user": "ryan.thompson",
+                "message": "Just a reminder about our strategy meeting tomorrow at 10am. We'll be discussing our approach to the upcoming EV expo.",
+                "created_at": 1620506000000
+            },
+            "tag": "distractor"
+        }
+    ],
+    "file_format": "jsonl",
+    "file_path": ".llm_responses/generated_chat_document.jsonl",
+    "qa_type": "distractor",
+    "timestamp": "2025-12-03 00:11",
+    "app": "mattermost"
+}

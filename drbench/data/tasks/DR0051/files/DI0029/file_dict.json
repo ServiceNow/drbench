@@ -1,0 +1,82 @@
+{
+    "file_name": "Q4-consultation-efficiency-analysis",
+    "file_title": "Q4 2024: Virtual Consultation Efficiency Analysis",
+    "introduction": "Today, we'll be reviewing the efficiency of our digital healthcare services, specifically focusing on the patient wait time in Q4 2024. This analysis will provide valuable insight into our operational effectiveness and areas for potential improvement.",
+    "subsections": [
+        {
+            "heading": "Overview of Virtual Consultation Process",
+            "content": "\u2022 The process begins with the patient's request for a virtual consultation certificate\n\u2022 MediConn's team verifies the patient\u2019s details and eligibility\n\u2022 A licensed healthcare professional is then assigned to the patient\n\u2022 The consultation is scheduled based on the professional\u2019s availability\n\u2022 After the consultation, the professional generates a report\n\u2022 Finally, the report is sent to the patient along with the certificate",
+            "type": "distractor",
+            "justification": "This slide details the process of virtual consultation but does not mention any wait times. Strategy: Discusses procedural information"
+        },
+        {
+            "heading": "Q4 2024 Patient Wait Time Analysis",
+            "content": "\u2022 Total number of patients who requested virtual consultation certificates was 15,000\n\u2022 The peak request period was during the first two weeks of December\n\u2022 Most requests came from Ontario and Quebec\n\u2022 Average age of patients was 42 years\n\u2022 Majority of patients sought consultations for respiratory issues\n\u2022 The least wait time was reported for psychiatry consultations",
+            "type": "distractor",
+            "justification": "This slide provides Q4 2024 patient stats, but does not provide average wait time. Strategy: Discusses related but non-essential business metrics"
+        },
+        {
+            "heading": "Benchmarking Against Industry Standards",
+            "content": "\u2022 MediConn's patient satisfaction scores consistently exceed industry averages\n\u2022 Our platform's uptime of 99.8% outperforms most competitors\n\u2022 We hold the industry-leading position in terms of patient data security\n\u2022 Our patient callback rate is 20% lower than the industry standard\n\u2022 We maintain full compliance with all relevant healthcare and data privacy regulations",
+            "type": "distractor",
+            "justification": "This slide benchmarks MediConn against the industry, but does not compare wait times. Strategy: Focuses on operational details and non-essential metrics"
+        }
+    ],
+    "conclusion": "As we've seen, our virtual consultation process is performing well against industry standards, but there's always room for improvement. Let's focus on identifying bottlenecks and streamlining our services to enhance patient experience.",
+    "file_format": "pptx",
+    "file_path": ".llm_responses/generated_pptx_presentation.pptx",
+    "qa_type": "distractor",
+    "timestamp": "2025-11-20 00:01",
+    "image_queries": [
+        {
+            "slide_title": "Introduction",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "intentionally_clean",
+            "slide_type": "introduction"
+        },
+        {
+            "slide_title": "Overview of Virtual Consultation Process",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "failed",
+            "slide_type": "distractor",
+            "content_length": 6,
+            "total_chars": 410,
+            "error": "'str' object has no attribute 'choices'",
+            "theme": "Forest Theme"
+        },
+        {
+            "slide_title": "Q4 2024 Patient Wait Time Analysis",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 6,
+            "total_chars": 352,
+            "probability": 0.25,
+            "theme": "Forest Theme"
+        },
+        {
+            "slide_title": "Benchmarking Against Industry Standards",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 5,
+            "total_chars": 356,
+            "probability": 0.25,
+            "theme": "Forest Theme"
+        },
+        {
+            "slide_title": "Conclusion",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "conclusion_failed",
+            "slide_type": "conclusion",
+            "error": "'str' object has no attribute 'choices'",
+            "theme": "Forest Theme"
+        }
+    ],
+    "app": "file_system"
+}

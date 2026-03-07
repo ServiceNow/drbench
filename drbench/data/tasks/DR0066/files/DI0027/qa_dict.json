@@ -1,0 +1,10 @@
+{
+    "insight_id": "DI0027",
+    "qa_type": "distractor",
+    "qa_index": 27,
+    "specific_question": "How often is data backed up in Elexion Automotive's CRM mobile app?",
+    "answer": "Elexion Automotive's CRM mobile app backs up data every 15 seconds when the app is open.",
+    "justification": "",
+    "timestamp": "2025-11-20 01:29",
+    "dr_question": "By the end of 2025, how can Elexion Automotive use data generated through its customer relationship management system to analyze customer behavior online and identify patterns that drive sales?"
+}

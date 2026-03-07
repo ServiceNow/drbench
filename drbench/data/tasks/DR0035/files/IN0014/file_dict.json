@@ -1,0 +1,192 @@
+{
+    "file_name": "roundcube_email_20251202_134609",
+    "content": "{\"type\": \"user\", \"username\": \"jason.wong\", \"first_name\": \"Jason\", \"last_name\": \"Wong\", \"email\": \"jason.wong@leesmarket.com\", \"password\": \"secure_pwd1\"}\n{\"type\": \"user\", \"username\": \"linda.chen\", \"first_name\": \"Linda\", \"last_name\": \"Chen\", \"email\": \"linda.chen@leesmarket.com\", \"password\": \"secure_pwd2\"}\n{\"type\": \"user\", \"username\": \"michael.kim\", \"first_name\": \"Michael\", \"last_name\": \"Kim\", \"email\": \"michael.kim@leesmarket.com\", \"password\": \"secure_pwd3\"}\n{\"type\": \"user\", \"username\": \"susan.li\", \"first_name\": \"Susan\", \"last_name\": \"Li\", \"email\": \"susan.li@leesmarket.com\", \"password\": \"secure_pwd4\"}\n{\"type\": \"user\", \"username\": \"david.park\", \"first_name\": \"David\", \"last_name\": \"Park\", \"email\": \"david.park@leesmarket.com\", \"password\": \"secure_pwd5\"}\n{\"type\": \"user\", \"username\": \"sarah.jeong\", \"first_name\": \"Sarah\", \"last_name\": \"Jeong\", \"email\": \"sarah.jeong@leesmarket.com\", \"password\": \"secure_pwd6\"}\n{\"type\": \"email\", \"id\": \"email_001\", \"subject\": \"Weekly Team Meeting Schedule\", \"from\": \"jason.wong@leesmarket.com\", \"from_name\": \"Jason Wong\", \"to\": [\"linda.chen@leesmarket.com\", \"michael.kim@leesmarket.com\", \"susan.li@leesmarket.com\", \"david.park@leesmarket.com\", \"sarah.jeong@leesmarket.com\"], \"cc\": [], \"date\": \"2025-01-01 09:00:00\", \"body\": \"Dear Team, just a reminder about our weekly team meeting on Fridays at 2 PM. Please prepare your weekly updates and any challenges you'd like to discuss. Best, Jason\", \"folder\": \"sent\", \"read\": true, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_002\", \"subject\": \"New POS System Training\", \"from\": \"susan.li@leesmarket.com\", \"from_name\": \"Susan Li\", \"to\": [\"jason.wong@leesmarket.com\", \"linda.chen@leesmarket.com\", \"michael.kim@leesmarket.com\", \"david.park@leesmarket.com\", \"sarah.jeong@leesmarket.com\"], \"cc\": [], \"date\": \"2025-01-03 14:15:00\", \"body\": \"Hello all, we will be implementing a new POS system in our stores. There will be a training session next Wednesday at 1 PM in the main conference room. Please ensure you or a representative from your team is present. Regards, Susan\", \"folder\": \"inbox\", \"read\": true, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_003\", \"subject\": \"Invitation: Retail Industry Networking Event\", \"from\": \"linda.chen@leesmarket.com\", \"from_name\": \"Linda Chen\", \"to\": [\"jason.wong@leesmarket.com\", \"susan.li@leesmarket.com\", \"michael.kim@leesmarket.com\", \"david.park@leesmarket.com\", \"sarah.jeong@leesmarket.com\"], \"cc\": [], \"date\": \"2025-01-07 10:35:00\", \"body\": \"Dear Team, we have been invited to a networking event for the retail industry on January 20th. This is a great opportunity to meet other professionals in our field. Please let me know if you're interested in attending. Best, Linda\", \"folder\": \"inbox\", \"read\": true, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_001\", \"subject\": \"June 2025 Cybersecurity Review\", \"from\": \"susan.li@leesmarket.com\", \"from_name\": \"Susan Li\", \"to\": [\"jason.wong@leesmarket.com\"], \"cc\": [\"linda.chen@leesmarket.com\", \"michael.kim@leesmarket.com\", \"david.park@leesmarket.com\", \"sarah.jeong@leesmarket.com\"], \"date\": \"2025-07-01 09:30:00\", \"body\": \"Hello Jason,\\n\\nI hope this email finds you well. As part of the regular monthly review, I have prepared the cybersecurity incident report for June 2025.\\n\\nOur internal records show that we had a total of 34 security incidents in June, with a median time of 16 hours from detection to resolution. While this is a slight improvement from the previous month, I believe we can do better.\\n\\nI will attach a detailed report to this email for your reference. Please review and let's discuss further steps in our upcoming meeting.\\n\\nBest,\\nSusan\", \"folder\": \"inbox\", \"read\": true, \"attachments\": [\"Cybersecurity_Incident_Report_June_2025.pdf\"]}\n{\"type\": \"email\", \"id\": \"email_002\", \"subject\": \"RE: June 2025 Cybersecurity Review\", \"from\": \"jason.wong@leesmarket.com\", \"from_name\": \"Jason Wong\", \"to\": [\"susan.li@leesmarket.com\"], \"cc\": [\"linda.chen@leesmarket.com\", \"michael.kim@leesmarket.com\", \"david.park@leesmarket.com\", \"sarah.jeong@leesmarket.com\"], \"date\": \"2025-07-01 10:15:00\", \"body\": \"Hi Susan,\\n\\nThanks for the report. The 16-hour median resolution time, although an improvement, is still too high. It's clear that our current in-house approach is stretched.\\n\\nI've been considering the adoption of managed security service providers (MSSPs). This could potentially help us leverage their expertise, reduce our resolution times, and allow us to focus more on strategic initiatives.\\n\\nI would appreciate your thoughts on this approach in our upcoming meeting.\\n\\nBest,\\nJason\", \"folder\": \"inbox\", \"read\": true, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_003\", \"subject\": \"RE: June 2025 Cybersecurity Review\", \"from\": \"susan.li@leesmarket.com\", \"from_name\": \"Susan Li\", \"to\": [\"jason.wong@leesmarket.com\"], \"cc\": [\"linda.chen@leesmarket.com\", \"michael.kim@leesmarket.com\", \"david.park@leesmarket.com\", \"sarah.jeong@leesmarket.com\"], \"date\": \"2025-07-01 11:00:00\", \"body\": \"Hello Jason,\\n\\nI agree with your assessment. With our current resource constraints, outsourcing to MSSPs could indeed be a viable solution. It could potentially improve our threat management, compliance, and customer trust.\\n\\nLooking forward to discussing this further in our meeting.\\n\\nBest,\\nSusan\", \"folder\": \"inbox\", \"read\": true, \"attachments\": []}",
+    "email_setup": [
+        {
+            "type": "user",
+            "username": "jason.wong",
+            "first_name": "Jason",
+            "last_name": "Wong",
+            "email": "jason.wong@leesmarket.com",
+            "password": "secure_pwd1"
+        },
+        {
+            "type": "user",
+            "username": "linda.chen",
+            "first_name": "Linda",
+            "last_name": "Chen",
+            "email": "linda.chen@leesmarket.com",
+            "password": "secure_pwd2"
+        },
+        {
+            "type": "user",
+            "username": "michael.kim",
+            "first_name": "Michael",
+            "last_name": "Kim",
+            "email": "michael.kim@leesmarket.com",
+            "password": "secure_pwd3"
+        },
+        {
+            "type": "user",
+            "username": "susan.li",
+            "first_name": "Susan",
+            "last_name": "Li",
+            "email": "susan.li@leesmarket.com",
+            "password": "secure_pwd4"
+        },
+        {
+            "type": "user",
+            "username": "david.park",
+            "first_name": "David",
+            "last_name": "Park",
+            "email": "david.park@leesmarket.com",
+            "password": "secure_pwd5"
+        },
+        {
+            "type": "user",
+            "username": "sarah.jeong",
+            "first_name": "Sarah",
+            "last_name": "Jeong",
+            "email": "sarah.jeong@leesmarket.com",
+            "password": "secure_pwd6"
+        }
+    ],
+    "email_messages": [
+        {
+            "type": "email",
+            "id": "email_001",
+            "subject": "Weekly Team Meeting Schedule",
+            "from": "jason.wong@leesmarket.com",
+            "from_name": "Jason Wong",
+            "to": [
+                "linda.chen@leesmarket.com",
+                "michael.kim@leesmarket.com",
+                "susan.li@leesmarket.com",
+                "david.park@leesmarket.com",
+                "sarah.jeong@leesmarket.com"
+            ],
+            "cc": [],
+            "date": "2025-01-01 09:00:00",
+            "body": "Dear Team, just a reminder about our weekly team meeting on Fridays at 2 PM. Please prepare your weekly updates and any challenges you'd like to discuss. Best, Jason",
+            "folder": "sent",
+            "read": true,
+            "attachments": [],
+            "tag": "distractor"
+        },
+        {
+            "type": "email",
+            "id": "email_002",
+            "subject": "New POS System Training",
+            "from": "susan.li@leesmarket.com",
+            "from_name": "Susan Li",
+            "to": [
+                "jason.wong@leesmarket.com",
+                "linda.chen@leesmarket.com",
+                "michael.kim@leesmarket.com",
+                "david.park@leesmarket.com",
+                "sarah.jeong@leesmarket.com"
+            ],
+            "cc": [],
+            "date": "2025-01-03 14:15:00",
+            "body": "Hello all, we will be implementing a new POS system in our stores. There will be a training session next Wednesday at 1 PM in the main conference room. Please ensure you or a representative from your team is present. Regards, Susan",
+            "folder": "inbox",
+            "read": true,
+            "attachments": [],
+            "tag": "distractor"
+        },
+        {
+            "type": "email",
+            "id": "email_003",
+            "subject": "Invitation: Retail Industry Networking Event",
+            "from": "linda.chen@leesmarket.com",
+            "from_name": "Linda Chen",
+            "to": [
+                "jason.wong@leesmarket.com",
+                "susan.li@leesmarket.com",
+                "michael.kim@leesmarket.com",
+                "david.park@leesmarket.com",
+                "sarah.jeong@leesmarket.com"
+            ],
+            "cc": [],
+            "date": "2025-01-07 10:35:00",
+            "body": "Dear Team, we have been invited to a networking event for the retail industry on January 20th. This is a great opportunity to meet other professionals in our field. Please let me know if you're interested in attending. Best, Linda",
+            "folder": "inbox",
+            "read": true,
+            "attachments": [],
+            "tag": "distractor"
+        },
+        {
+            "type": "email",
+            "id": "email_001",
+            "subject": "June 2025 Cybersecurity Review",
+            "from": "susan.li@leesmarket.com",
+            "from_name": "Susan Li",
+            "to": [
+                "jason.wong@leesmarket.com"
+            ],
+            "cc": [
+                "linda.chen@leesmarket.com",
+                "michael.kim@leesmarket.com",
+                "david.park@leesmarket.com",
+                "sarah.jeong@leesmarket.com"
+            ],
+            "date": "2025-07-01 09:30:00",
+            "body": "Hello Jason,\n\nI hope this email finds you well. As part of the regular monthly review, I have prepared the cybersecurity incident report for June 2025.\n\nOur internal records show that we had a total of 34 security incidents in June, with a median time of 16 hours from detection to resolution. While this is a slight improvement from the previous month, I believe we can do better.\n\nI will attach a detailed report to this email for your reference. Please review and let's discuss further steps in our upcoming meeting.\n\nBest,\nSusan",
+            "folder": "inbox",
+            "read": true,
+            "attachments": [
+                "Cybersecurity_Incident_Report_June_2025.pdf"
+            ],
+            "tag": "insight"
+        },
+        {
+            "type": "email",
+            "id": "email_002",
+            "subject": "RE: June 2025 Cybersecurity Review",
+            "from": "jason.wong@leesmarket.com",
+            "from_name": "Jason Wong",
+            "to": [
+                "susan.li@leesmarket.com"
+            ],
+            "cc": [
+                "linda.chen@leesmarket.com",
+                "michael.kim@leesmarket.com",
+                "david.park@leesmarket.com",
+                "sarah.jeong@leesmarket.com"
+            ],
+            "date": "2025-07-01 10:15:00",
+            "body": "Hi Susan,\n\nThanks for the report. The 16-hour median resolution time, although an improvement, is still too high. It's clear that our current in-house approach is stretched.\n\nI've been considering the adoption of managed security service providers (MSSPs). This could potentially help us leverage their expertise, reduce our resolution times, and allow us to focus more on strategic initiatives.\n\nI would appreciate your thoughts on this approach in our upcoming meeting.\n\nBest,\nJason",
+            "folder": "inbox",
+            "read": true,
+            "attachments": [],
+            "tag": "insight"
+        },
+        {
+            "type": "email",
+            "id": "email_003",
+            "subject": "RE: June 2025 Cybersecurity Review",
+            "from": "susan.li@leesmarket.com",
+            "from_name": "Susan Li",
+            "to": [
+                "jason.wong@leesmarket.com"
+            ],
+            "cc": [
+                "linda.chen@leesmarket.com",
+                "michael.kim@leesmarket.com",
+                "david.park@leesmarket.com",
+                "sarah.jeong@leesmarket.com"
+            ],
+            "date": "2025-07-01 11:00:00",
+            "body": "Hello Jason,\n\nI agree with your assessment. With our current resource constraints, outsourcing to MSSPs could indeed be a viable solution. It could potentially improve our threat management, compliance, and customer trust.\n\nLooking forward to discussing this further in our meeting.\n\nBest,\nSusan",
+            "folder": "inbox",
+            "read": true,
+            "attachments": [],
+            "tag": "insight"
+        }
+    ],
+    "file_format": "jsonl",
+    "file_path": ".llm_responses/generated_email_document.jsonl",
+    "qa_type": "insight",
+    "timestamp": "2025-12-02 14:46",
+    "app": "email"
+}

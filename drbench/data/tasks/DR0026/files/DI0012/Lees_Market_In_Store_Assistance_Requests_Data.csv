@@ -1,0 +1,13 @@
+Store,Year,Quarter,Assistance_Type,Request_Count
+The name of the specific Lee’s Market store.,The year in which the in-store assistance requests were made.,The quarter of the year in which the in-store assistance requests were made.,"The type of assistance requested in-store. For this scenario, it would be 'Mobile App Order Pickups'.",The number of in-store assistance requests made for the respective assistance type during the specified time period.
+Lee’s Market Store 2,2025,Q1,Mobile App Order Pickups,75
+Lee’s Market Store 9,2024,Q3,Mobile App Order Pickups,70
+Lee’s Market Store 7,2024,Q4,Mobile App Order Pickups,85
+Lee’s Market Store 1,2025,Q1,Mobile App Order Pickups,100
+Lee’s Market Store 4,2025,Q1,Mobile App Order Pickups,200
+Lee’s Market Store 5,2025,Q1,Mobile App Order Pickups,125
+Lee’s Market Store 3,2025,Q1,Mobile App Order Pickups,150
+Lee’s Market Store 10,2024,Q2,Mobile App Order Pickups,65
+Lee’s Market Store 6,2024,Q4,Mobile App Order Pickups,90
+All 45 Lee’s Market stores,2025,Q1,Mobile App Order Pickups,1125
+Lee’s Market Store 8,2024,Q3,Mobile App Order Pickups,80

@@ -1,0 +1,81 @@
+{
+    "file_name": "brand-day-recap",
+    "file_title": "Annual Brand Day Recap: Elexion Automotive",
+    "introduction": "This presentation provides an overview of our recent annual brand day with a focus on our brand identity elements. We will review the main themes and choices that shaped this annual event.",
+    "subsections": [
+        {
+            "heading": "Annual Brand Day: Event Overview",
+            "content": "\u2022 Event was held on May 18th, 2022 at the company headquarters\n\u2022 Attended by all employees and key stakeholders\n\u2022 The event featured keynote presentations, workshops, and product demonstrations\n\u2022 The event aimed to reinforce the brand's commitment to sustainable manufacturing\n\u2022 Over 50% of the company's employees participated in the organization of the event\n\u2022 The event received widespread media coverage, boosting the company's image\n\u2022 Feedback from attendees was overwhelmingly positive, with a 95% satisfaction rate",
+            "type": "distractor",
+            "justification": "The content discusses the event overview, not the color theme selected for the event."
+        },
+        {
+            "heading": "Brand Identity: Color Theme Selection",
+            "content": "\u2022 The color theme selection process involved the marketing and design teams\n\u2022 Considered factors included the company's brand identity, market trends, and customer preferences\n\u2022 Extensive market research was conducted to inform the decision\n\u2022 The chosen color theme is expected to resonate with our target audience\n\u2022 The color theme will be implemented across all branding materials\n\u2022 The decision was made after several rounds of deliberation and testing\n\u2022 The color theme aligns with our brand's focus on sustainability and innovation",
+            "type": "distractor",
+            "justification": "This slide talks about the process of color theme selection, not the specific color chosen."
+        },
+        {
+            "heading": "Impact of Brand Day on Market Perception",
+            "content": "\u2022 Post-event surveys show improved market perception of Elexion Automotive\n\u2022 The event led to a 15% increase in social media followers\n\u2022 Significant media coverage resulted in increased brand visibility\n\u2022 The event reinforced Elexion's position as a leader in affordable EVs\n\u2022 The brand day helped to highlight Elexion's commitment to sustainability\n\u2022 80% of event attendees reported a more positive perception of the brand\n\u2022 Overall positive impact on customer loyalty and brand recall",
+            "type": "distractor",
+            "justification": "The content focuses on the impact of the brand day on market perception, not the color theme chosen for the event."
+        }
+    ],
+    "conclusion": "The color theme chosen for the brand day was a strategic decision that reflects our brand identity. Moving forward, we will continue to incorporate these elements into our marketing efforts to drive brand recognition.",
+    "file_format": "pptx",
+    "file_path": ".llm_responses/generated_pptx_presentation.pptx",
+    "qa_type": "distractor",
+    "timestamp": "2025-12-02 23:59",
+    "image_queries": [
+        {
+            "slide_title": "Introduction",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "intentionally_clean",
+            "slide_type": "introduction"
+        },
+        {
+            "slide_title": "Annual Brand Day: Event Overview",
+            "has_image": true,
+            "image_query": "corporate event highlight video",
+            "generation_method": "strategic_placement",
+            "slide_type": "distractor",
+            "content_length": 7,
+            "total_chars": 501,
+            "forced": false,
+            "theme": "Professional Green"
+        },
+        {
+            "slide_title": "Brand Identity: Color Theme Selection",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 7,
+            "total_chars": 516,
+            "probability": 0.25,
+            "theme": "Professional Green"
+        },
+        {
+            "slide_title": "Impact of Brand Day on Market Perception",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 7,
+            "total_chars": 466,
+            "probability": 0.25,
+            "theme": "Professional Green"
+        },
+        {
+            "slide_title": "Conclusion",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "strategic_clean_conclusion",
+            "slide_type": "conclusion",
+            "theme": "Professional Green"
+        }
+    ],
+    "app": "file_system"
+}

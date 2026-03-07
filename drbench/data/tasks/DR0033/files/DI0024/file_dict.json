@@ -1,0 +1,82 @@
+{
+    "file_name": "outage-preparedness-case-study",
+    "file_title": "Outage Preparedness: Lee's Market Case Study",
+    "introduction": "Today we will be discussing our preparation and response to the 2025 power outages, with a focus on generator activations. This case study will provide insight into our strategic decision-making and operational efficiency during crisis.",
+    "subsections": [
+        {
+            "heading": "Overview of 2025 Power Outages Impact",
+            "content": "\u2022 National power outages affected over 1.5 million businesses in 2025\n\u2022 During outages, average business downtime was around 5 hours\n\u2022 Loss of refrigeration posed potential risks to perishable goods within the retail industry\n\u2022 The U.S. retail sector's economic loss from outages was estimated at $3.5 billion\n\u2022 Companies without emergency response plans suffered significantly more damages\n\u2022 Power outages led to an increase in the use of alternative energy sources like generators and solar panels\n\u2022 Increased demand for emergency power solutions resulted in higher prices for generators",
+            "type": "distractor",
+            "justification": "The slide provides general information about the power outages in 2025, but does not detail how Lee's Market prepared or Jason Wong's specific actions."
+        },
+        {
+            "heading": "Generator Activation Strategy & Execution",
+            "content": "\u2022 Generator activation is a crucial part of any business continuity plan\n\u2022 Adequate fuel supply is essential for continuous generator operation\n\u2022 Generator maintenance is critical for reliable operation during power outages\n\u2022 Training staff on generator operation procedures can enhance emergency preparedness\n\u2022 Regular testing of generator activation processes can help identify potential issues\n\u2022 Ensuring compliance with local regulations is vital when installing and operating generators\n\u2022 Documentation of generator activation procedures supports compliance and aids staff training",
+            "type": "distractor",
+            "justification": "This slide discusses general strategies and practices for generator activation, but does not mention Lee's Market's specific strategy or activities during the 2025 outages."
+        },
+        {
+            "heading": "Role of Leadership: Jason Wong's Approach",
+            "content": "\u2022 Leaders play a pivotal role in crisis management\n\u2022 Effective leaders communicate clear guidelines and expectations to their teams\n\u2022 Jason Wong is known for his hands-on approach and direct communication style\n\u2022 Wong's leadership style emphasizes the importance of teamwork and collaboration\n\u2022 Under Jason Wong's leadership, the company implemented numerous operational improvements\n\u2022 Wong encourages open communication and feedback within the organization\n\u2022 Jason Wong has a successful track record of leading the company during challenging times",
+            "type": "distractor",
+            "justification": "While this slide outlines Jason Wong's leadership style, it does not provide specific information about how he prepared for the 2025 outages."
+        }
+    ],
+    "conclusion": "In conclusion, Lee's Market's effective preparation and strategic response to the power outages ensured minimal disruption to our operations. Moving forward, we should continue to refine and improve our crisis management strategies based on these learnings.",
+    "file_format": "pptx",
+    "file_path": ".llm_responses/generated_pptx_presentation.pptx",
+    "qa_type": "distractor",
+    "timestamp": "2025-11-19 12:14",
+    "image_queries": [
+        {
+            "slide_title": "Introduction",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "intentionally_clean",
+            "slide_type": "introduction"
+        },
+        {
+            "slide_title": "Overview of 2025 Power Outages Impact",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "failed",
+            "slide_type": "distractor",
+            "content_length": 7,
+            "total_chars": 569,
+            "error": "'str' object has no attribute 'choices'",
+            "theme": "Classic Navy"
+        },
+        {
+            "slide_title": "Generator Activation Strategy & Execution",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 7,
+            "total_chars": 566,
+            "probability": 0.25,
+            "theme": "Classic Navy"
+        },
+        {
+            "slide_title": "Role of Leadership: Jason Wong's Approach",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 7,
+            "total_chars": 528,
+            "probability": 0.25,
+            "theme": "Classic Navy"
+        },
+        {
+            "slide_title": "Conclusion",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "conclusion_failed",
+            "slide_type": "conclusion",
+            "error": "'str' object has no attribute 'choices'",
+            "theme": "Classic Navy"
+        }
+    ],
+    "app": "file_system"
+}

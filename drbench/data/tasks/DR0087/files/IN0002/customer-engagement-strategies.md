@@ -1,0 +1,21 @@
+# Enhancing On-Floor Customer Engagement
+
+## Introduction
+
+As Lee's Market navigates the impact of the recent retail sales decline, it is critical to identify strategies to foster increased customer engagement on our sales floor. This document outlines potential approaches that could help drive a measurable rebound in our sales for the remainder of 2025. By exploring these tactics, we aim to provide a strategic response to the current market challenges and ensure our continued success.
+
+## Leveraging In-Store Technology for Customer Engagement
+
+In 2023, Lee's Market implemented a digital signage system across all stores, which resulted in a 15% increase in impulse purchases. The system, which displays promotional content and product information, has been beneficial in guiding customers about ongoing deals. Furthermore, the company's investment in self-checkout kiosks has reduced checkout times by 25%.
+
+## Understanding Retail Sales Trends in Canada
+
+A careful analysis of Lee's Market's on-floor customer engagement revealed a concerning trend. Between May and July 2025, there was a marked decrease of 40% in the average number of product interactions per customer. This decline coincides with and potentially contributes to the slump in retail sales experienced in July 2025. It underscores the necessity for sales associates to devise and implement personalized engagement strategies aimed at boosting product interactions, thereby potentially sparking a sales rebound.
+
+## Strategies for Increasing On-Floor Customer Interactions
+
+In Q2 of 2024, we introduced the 'Product of the Week' display at the store entrance, which led to a 12% increase in sales of the featured items. We also employed more sales associates during peak hours, ensuring that customers receive immediate assistance. Our training workshops for sales associates have also been highly effective in improving their interaction skills.
+
+## Conclusion
+
+By understanding the broader retail landscape, leveraging in-store technology, and implementing strategies for increased customer interactions, Lee's Market can effectively respond to the recent sales decline. Each of these approaches offers unique opportunities to enhance our customers' in-store experience and boost our sales. Moving forward, it will be important to evaluate the success of these tactics and adjust our strategies as necessary to ensure our ongoing success in the retail market.

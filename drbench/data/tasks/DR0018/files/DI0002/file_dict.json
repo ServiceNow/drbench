@@ -1,0 +1,203 @@
+{
+    "file_name": "roundcube_email_20251124_145731",
+    "content": "{\"type\": \"user\", \"username\": \"sofia.patel\", \"first_name\": \"Sofia\", \"last_name\": \"Patel\", \"email\": \"sofia.patel@leesmarket.com\", \"password\": \"sofia2025_pwd\"}\n{\"type\": \"user\", \"username\": \"lee.wang\", \"first_name\": \"Lee\", \"last_name\": \"Wang\", \"email\": \"lee.wang@leesmarket.com\", \"password\": \"lee2025_pwd\"}\n{\"type\": \"user\", \"username\": \"michael.johnson\", \"first_name\": \"Michael\", \"last_name\": \"Johnson\", \"email\": \"michael.johnson@leesmarket.com\", \"password\": \"michael2025_pwd\"}\n{\"type\": \"user\", \"username\": \"kim.nguyen\", \"first_name\": \"Kim\", \"last_name\": \"Nguyen\", \"email\": \"kim.nguyen@leesmarket.com\", \"password\": \"kim2025_pwd\"}\n{\"type\": \"user\", \"username\": \"juan.rodriguez\", \"first_name\": \"Juan\", \"last_name\": \"Rodriguez\", \"email\": \"juan.rodriguez@leesmarket.com\", \"password\": \"juan2025_pwd\"}\n{\"type\": \"user\", \"username\": \"linda.murphy\", \"first_name\": \"Linda\", \"last_name\": \"Murphy\", \"email\": \"linda.murphy@leesmarket.com\", \"password\": \"linda2025_pwd\"}\n{\"type\": \"user\", \"username\": \"paul.martin\", \"first_name\": \"Paul\", \"last_name\": \"Martin\", \"email\": \"paul.martin@leesmarket.com\", \"password\": \"paul2025_pwd\"}\n{\"type\": \"email\", \"id\": \"email_001\", \"subject\": \"Weekly Team Meeting Agenda\", \"from\": \"sofia.patel@leesmarket.com\", \"from_name\": \"Sofia Patel\", \"to\": [\"lee.wang@leesmarket.com\", \"michael.johnson@leesmarket.com\", \"kim.nguyen@leesmarket.com\", \"juan.rodriguez@leesmarket.com\", \"linda.murphy@leesmarket.com\", \"paul.martin@leesmarket.com\"], \"cc\": [], \"date\": \"2022-10-03 09:00:00\", \"body\": \"Dear Team,\\n\\nPlease find attached the agenda for our weekly meeting scheduled for this Friday. We'll be discussing progress on current projects, any challenges encountered, and brainstorming on the Q4 promotional strategy.\\n\\nBest,\\nSofia\", \"folder\": \"sent\", \"read\": true, \"attachments\": [\"Weekly_Meeting_Agenda.pdf\"]}\n{\"type\": \"email\", \"id\": \"email_002\", \"subject\": \"RE: Weekly Team Meeting Agenda\", \"from\": \"michael.johnson@leesmarket.com\", \"from_name\": \"Michael Johnson\", \"to\": [\"sofia.patel@leesmarket.com\"], \"cc\": [], \"date\": \"2022-10-03 10:30:00\", \"body\": \"Hi Sofia,\\n\\nThanks for the agenda. I would like to add a point on discussing the recent updates on our online platform, if possible.\\n\\nKind Regards,\\nMichael\", \"folder\": \"inbox\", \"read\": false, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_003\", \"subject\": \"Q4 Budget Review\", \"from\": \"lee.wang@leesmarket.com\", \"from_name\": \"Lee Wang\", \"to\": [\"sofia.patel@leesmarket.com\"], \"cc\": [\"juan.rodriguez@leesmarket.com\"], \"date\": \"2022-10-03 14:00:00\", \"body\": \"Hi Sofia,\\n\\nCan we schedule a time tomorrow to go over the Q4 budget? I've noticed some discrepancies that we need to address before finalizing it.\\n\\nBest,\\nLee\", \"folder\": \"inbox\", \"read\": false, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_004\", \"subject\": \"Customer Feedback Review\", \"from\": \"sofia.patel@leesmarket.com\", \"from_name\": \"Sofia Patel\", \"to\": [\"kim.nguyen@leesmarket.com\"], \"cc\": [], \"date\": \"2022-10-03 16:30:00\", \"body\": \"Hi Kim,\\n\\nCan we set up a time this week to review the customer feedback we've received over the last month? I think there might be some actionable insights for improving the in-store experience.\\n\\nBest,\\nSofia\", \"folder\": \"sent\", \"read\": true, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_001\", \"subject\": \"Results of June 2025 Internal Employee Experience Survey\", \"from\": \"lee.wang@leesmarket.com\", \"from_name\": \"Lee Wang\", \"to\": [\"sofia.patel@leesmarket.com\"], \"cc\": [\"linda.murphy@leesmarket.com\"], \"date\": \"2025-07-01 09:30:00\", \"body\": \"Hi Sofia,\\n\\nI hope this email finds you well. The results of the recent employee experience survey conducted at our Richmond store are in. Overall, we received an 82% 'excellent' or 'very good' rating for the store atmosphere. Such a high score is a testament to our team's efforts and the effectiveness of our current cleaning schedule.\\n\\nHowever, we have identified areas for improvement, particularly around staff breakroom amenities. The score was relatively low in this regard. We will be discussing this issue in our next management meeting and figuring out the best course of action.\\n\\nBest,\\nLee Wang\", \"folder\": \"inbox\", \"read\": true, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_002\", \"subject\": \"RE: Results of June 2025 Internal Employee Experience Survey\", \"from\": \"sofia.patel@leesmarket.com\", \"from_name\": \"Sofia Patel\", \"to\": [\"lee.wang@leesmarket.com\"], \"cc\": [\"linda.murphy@leesmarket.com\"], \"date\": \"2025-07-01 10:45:00\", \"body\": \"Hi Lee,\\n\\nThank you for sharing these results. The high satisfaction score for the store atmosphere validates our current cleaning schedule. However, I agree that we need to focus more on our staff's well-being and make the breakroom more comfortable.\\n\\nLet's discuss this further in our meeting.\\n\\nBest,\\nSofia Patel\", \"folder\": \"sent\", \"read\": true, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_003\", \"subject\": \"RE: Results of June 2025 Internal Employee Experience Survey\", \"from\": \"lee.wang@leesmarket.com\", \"from_name\": \"Lee Wang\", \"to\": [\"sofia.patel@leesmarket.com\"], \"cc\": [\"linda.murphy@leesmarket.com\"], \"date\": \"2025-07-02 09:30:00\", \"body\": \"Hi Sofia,\\n\\nI appreciate your feedback. After discussing with the management team, we've decided to maintain our current cleaning schedule given the satisfactory results. For the breakroom, we're in the process of adding more amenities to ensure our staff's comfort. We hope these adjustments will enhance our team's overall satisfaction and contribute positively to the store atmosphere.\\n\\nBest,\\nLee Wang\", \"folder\": \"inbox\", \"read\": true, \"attachments\": []}",
+    "email_setup": [
+        {
+            "type": "user",
+            "username": "sofia.patel",
+            "first_name": "Sofia",
+            "last_name": "Patel",
+            "email": "sofia.patel@leesmarket.com",
+            "password": "sofia2025_pwd"
+        },
+        {
+            "type": "user",
+            "username": "lee.wang",
+            "first_name": "Lee",
+            "last_name": "Wang",
+            "email": "lee.wang@leesmarket.com",
+            "password": "lee2025_pwd"
+        },
+        {
+            "type": "user",
+            "username": "michael.johnson",
+            "first_name": "Michael",
+            "last_name": "Johnson",
+            "email": "michael.johnson@leesmarket.com",
+            "password": "michael2025_pwd"
+        },
+        {
+            "type": "user",
+            "username": "kim.nguyen",
+            "first_name": "Kim",
+            "last_name": "Nguyen",
+            "email": "kim.nguyen@leesmarket.com",
+            "password": "kim2025_pwd"
+        },
+        {
+            "type": "user",
+            "username": "juan.rodriguez",
+            "first_name": "Juan",
+            "last_name": "Rodriguez",
+            "email": "juan.rodriguez@leesmarket.com",
+            "password": "juan2025_pwd"
+        },
+        {
+            "type": "user",
+            "username": "linda.murphy",
+            "first_name": "Linda",
+            "last_name": "Murphy",
+            "email": "linda.murphy@leesmarket.com",
+            "password": "linda2025_pwd"
+        },
+        {
+            "type": "user",
+            "username": "paul.martin",
+            "first_name": "Paul",
+            "last_name": "Martin",
+            "email": "paul.martin@leesmarket.com",
+            "password": "paul2025_pwd"
+        }
+    ],
+    "email_messages": [
+        {
+            "type": "email",
+            "id": "email_001",
+            "subject": "Weekly Team Meeting Agenda",
+            "from": "sofia.patel@leesmarket.com",
+            "from_name": "Sofia Patel",
+            "to": [
+                "lee.wang@leesmarket.com",
+                "michael.johnson@leesmarket.com",
+                "kim.nguyen@leesmarket.com",
+                "juan.rodriguez@leesmarket.com",
+                "linda.murphy@leesmarket.com",
+                "paul.martin@leesmarket.com"
+            ],
+            "cc": [],
+            "date": "2022-10-03 09:00:00",
+            "body": "Dear Team,\n\nPlease find attached the agenda for our weekly meeting scheduled for this Friday. We'll be discussing progress on current projects, any challenges encountered, and brainstorming on the Q4 promotional strategy.\n\nBest,\nSofia",
+            "folder": "sent",
+            "read": true,
+            "attachments": [
+                "Weekly_Meeting_Agenda.pdf"
+            ],
+            "tag": "distractor"
+        },
+        {
+            "type": "email",
+            "id": "email_002",
+            "subject": "RE: Weekly Team Meeting Agenda",
+            "from": "michael.johnson@leesmarket.com",
+            "from_name": "Michael Johnson",
+            "to": [
+                "sofia.patel@leesmarket.com"
+            ],
+            "cc": [],
+            "date": "2022-10-03 10:30:00",
+            "body": "Hi Sofia,\n\nThanks for the agenda. I would like to add a point on discussing the recent updates on our online platform, if possible.\n\nKind Regards,\nMichael",
+            "folder": "inbox",
+            "read": false,
+            "attachments": [],
+            "tag": "distractor"
+        },
+        {
+            "type": "email",
+            "id": "email_003",
+            "subject": "Q4 Budget Review",
+            "from": "lee.wang@leesmarket.com",
+            "from_name": "Lee Wang",
+            "to": [
+                "sofia.patel@leesmarket.com"
+            ],
+            "cc": [
+                "juan.rodriguez@leesmarket.com"
+            ],
+            "date": "2022-10-03 14:00:00",
+            "body": "Hi Sofia,\n\nCan we schedule a time tomorrow to go over the Q4 budget? I've noticed some discrepancies that we need to address before finalizing it.\n\nBest,\nLee",
+            "folder": "inbox",
+            "read": false,
+            "attachments": [],
+            "tag": "distractor"
+        },
+        {
+            "type": "email",
+            "id": "email_004",
+            "subject": "Customer Feedback Review",
+            "from": "sofia.patel@leesmarket.com",
+            "from_name": "Sofia Patel",
+            "to": [
+                "kim.nguyen@leesmarket.com"
+            ],
+            "cc": [],
+            "date": "2022-10-03 16:30:00",
+            "body": "Hi Kim,\n\nCan we set up a time this week to review the customer feedback we've received over the last month? I think there might be some actionable insights for improving the in-store experience.\n\nBest,\nSofia",
+            "folder": "sent",
+            "read": true,
+            "attachments": [],
+            "tag": "distractor"
+        },
+        {
+            "type": "email",
+            "id": "email_001",
+            "subject": "Results of June 2025 Internal Employee Experience Survey",
+            "from": "lee.wang@leesmarket.com",
+            "from_name": "Lee Wang",
+            "to": [
+                "sofia.patel@leesmarket.com"
+            ],
+            "cc": [
+                "linda.murphy@leesmarket.com"
+            ],
+            "date": "2025-07-01 09:30:00",
+            "body": "Hi Sofia,\n\nI hope this email finds you well. The results of the recent employee experience survey conducted at our Richmond store are in. Overall, we received an 82% 'excellent' or 'very good' rating for the store atmosphere. Such a high score is a testament to our team's efforts and the effectiveness of our current cleaning schedule.\n\nHowever, we have identified areas for improvement, particularly around staff breakroom amenities. The score was relatively low in this regard. We will be discussing this issue in our next management meeting and figuring out the best course of action.\n\nBest,\nLee Wang",
+            "folder": "inbox",
+            "read": true,
+            "attachments": [],
+            "tag": "insight"
+        },
+        {
+            "type": "email",
+            "id": "email_002",
+            "subject": "RE: Results of June 2025 Internal Employee Experience Survey",
+            "from": "sofia.patel@leesmarket.com",
+            "from_name": "Sofia Patel",
+            "to": [
+                "lee.wang@leesmarket.com"
+            ],
+            "cc": [
+                "linda.murphy@leesmarket.com"
+            ],
+            "date": "2025-07-01 10:45:00",
+            "body": "Hi Lee,\n\nThank you for sharing these results. The high satisfaction score for the store atmosphere validates our current cleaning schedule. However, I agree that we need to focus more on our staff's well-being and make the breakroom more comfortable.\n\nLet's discuss this further in our meeting.\n\nBest,\nSofia Patel",
+            "folder": "sent",
+            "read": true,
+            "attachments": [],
+            "tag": "insight"
+        },
+        {
+            "type": "email",
+            "id": "email_003",
+            "subject": "RE: Results of June 2025 Internal Employee Experience Survey",
+            "from": "lee.wang@leesmarket.com",
+            "from_name": "Lee Wang",
+            "to": [
+                "sofia.patel@leesmarket.com"
+            ],
+            "cc": [
+                "linda.murphy@leesmarket.com"
+            ],
+            "date": "2025-07-02 09:30:00",
+            "body": "Hi Sofia,\n\nI appreciate your feedback. After discussing with the management team, we've decided to maintain our current cleaning schedule given the satisfactory results. For the breakroom, we're in the process of adding more amenities to ensure our staff's comfort. We hope these adjustments will enhance our team's overall satisfaction and contribute positively to the store atmosphere.\n\nBest,\nLee Wang",
+            "folder": "inbox",
+            "read": true,
+            "attachments": [],
+            "tag": "insight"
+        }
+    ],
+    "file_format": "jsonl",
+    "file_path": ".llm_responses/generated_email_document.jsonl",
+    "qa_type": "distractor",
+    "timestamp": "2025-11-24 15:57",
+    "app": "email"
+}

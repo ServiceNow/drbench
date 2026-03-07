@@ -1,0 +1,10 @@
+{
+    "insight_id": "IN0004",
+    "qa_type": "insight",
+    "qa_index": 4,
+    "specific_question": "What is the percentage point gap between EV test cases that include preconditioning cycles and the real-world usage statistics of such cases in cold weather conditions at Elexion Automotive?",
+    "answer": "The percentage point gap between EV test cases that include preconditioning cycles and the real-world usage statistics of such cases in cold weather conditions is 20% at Elexion Automotive. \nOnly 40% of EV test cases include preconditioning cycles at Elexion Automotive, although real drivers use them in approximately 60% of cold starts.",
+    "justification": "This highlights a mismatch between current test cases and real-world conditions. Implementing preconditioning during testing can reduce energy loss by 15-20%, thereby improving battery endurance. Elexion's cold-weather testing protocols should be updated to better reflect real-world conditions and enhance energy retention.",
+    "timestamp": "2025-11-20 15:41",
+    "dr_question": "Given that one in seven new vehicles sold in Canada in 2024 were zero-emission, how can Elexion Automotive\u2019s QA team enhance cold-weather testing protocols by Q4 2026 to improve EV battery endurance and reliability in the country\u2019s key ZEV markets?"
+}

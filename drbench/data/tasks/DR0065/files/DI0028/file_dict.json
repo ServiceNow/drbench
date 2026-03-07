@@ -1,0 +1,82 @@
+{
+    "file_name": "2024-conference-recap",
+    "file_title": "2024 National Dealer Sales Conference Recap",
+    "introduction": "This presentation aims to provide a comprehensive overview of the 2024 National Dealer Sales Conference. We will explore the key discussions, outcomes, and strategic insights from the event.",
+    "subsections": [
+        {
+            "heading": "Key Discussions and Outcomes",
+            "content": "\u2022 Unveiling of new Elexion Automotive EV models and their innovative features\n\u2022 Review of the 2023 sales performance and comparison with previous years\n\u2022 Introduction of a new sustainability initiative aimed at reducing production emissions\n\u2022 Overview and analysis of customer feedback and satisfaction metrics\n\u2022 Examination of Elexion's market positioning in the competitive EV market\n\u2022 Discussion on the plans to expand the dealership network across North America",
+            "type": "distractor",
+            "justification": "The content is related to the conference but doesn't provide the specific date it was held."
+        },
+        {
+            "heading": "2024 Conference Attendance Analysis",
+            "content": "\u2022 Total of 500 attendees, a 10% increase compared to 2023\n\u2022 65% of attendees were from Elexion's dealership partners\n\u2022 Significant presence from non-dealer stakeholders including investors and industry analysts\n\u2022 24% increase in international attendees, indicating growing global interest in Elexion\n\u2022 Breakdown of the attendee demographics by role and industry\n\u2022 Analysis of attendee engagement metrics from the conference sessions",
+            "type": "distractor",
+            "justification": "While this content provides insights into the conference attendees, it doesn't reveal the conference date."
+        },
+        {
+            "heading": "Conference Date and Venue Details",
+            "content": "\u2022 The venue was chosen for its sustainability efforts and accessibility\n\u2022 Detailed information on the conference venue's facilities and capacity\n\u2022 Overview of the logistical challenges and successes of the conference\n\u2022 Review of the venue contract and negotiation process\n\u2022 Analysis of attendee satisfaction with the venue and its facilities\n\u2022 Recap of the event planning and execution process",
+            "type": "distractor",
+            "justification": "This content discusses the venue and conference planning, but does not specify the date it was held."
+        }
+    ],
+    "conclusion": "The 2024 National Dealer Sales Conference served as a platform for critical discussions and future planning. To maximize our impact in the next conference, we need to reflect on these insights and align our strategies accordingly.",
+    "file_format": "pptx",
+    "file_path": ".llm_responses/generated_pptx_presentation.pptx",
+    "qa_type": "distractor",
+    "timestamp": "2025-11-20 02:29",
+    "image_queries": [
+        {
+            "slide_title": "Introduction",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "intentionally_clean",
+            "slide_type": "introduction"
+        },
+        {
+            "slide_title": "Key Discussions and Outcomes",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "failed",
+            "slide_type": "distractor",
+            "content_length": 6,
+            "total_chars": 448,
+            "error": "'str' object has no attribute 'choices'",
+            "theme": "Elegant Teal"
+        },
+        {
+            "slide_title": "2024 Conference Attendance Analysis",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 6,
+            "total_chars": 415,
+            "probability": 0.25,
+            "theme": "Elegant Teal"
+        },
+        {
+            "slide_title": "Conference Date and Venue Details",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 6,
+            "total_chars": 376,
+            "probability": 0.25,
+            "theme": "Elegant Teal"
+        },
+        {
+            "slide_title": "Conclusion",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "conclusion_failed",
+            "slide_type": "conclusion",
+            "error": "'str' object has no attribute 'choices'",
+            "theme": "Elegant Teal"
+        }
+    ],
+    "app": "nextcloud"
+}

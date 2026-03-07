@@ -1,0 +1,10 @@
+{
+    "insight_id": "DI0011",
+    "qa_type": "distractor",
+    "qa_index": 11,
+    "specific_question": "What was the average customer lifetime value (CLV) for an individual patient using MediConn's services in 2025?",
+    "answer": "The average CLV for an individual patient was estimated at 650 CAD.",
+    "justification": "Customer lifetime value is a financial metric used for marketing and sales strategy, and it does not provide data on the per-consultation IT costs or clinician workflow efficiency that needs to be optimized.",
+    "timestamp": "2025-11-21 12:56",
+    "dr_question": "How can MediConn streamline its IT workflows in Q4 2025 to boost clinician efficiency and manage per-consultation costs, given that virtual healthcare expansion has improved access but increased overall expenses?"
+}

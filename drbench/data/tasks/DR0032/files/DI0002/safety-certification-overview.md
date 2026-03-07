@@ -1,0 +1,21 @@
+# Elexion Automotive Safety Certification Overview
+
+## Introduction
+
+As part of our commitment to transparency and accountability, this document provides an overview of the key safety certifications that Elexion Automotive has achieved. Specifically, it discusses our achievement of ISO 26262, the Road Vehicles Functional Safety certification, a critical milestone in our pursuit of excellence. This report will be beneficial for both internal stakeholders and external auditors seeking detailed information about our safety standards and certifications. Our goal is to provide comprehensive insights into our achievement and its impact on our product offerings.
+
+## ISO 26262 Certification: Implications for Product Safety
+
+The ISO 26262 certification has a profound impact on the safety of our electric vehicles. By meeting this standard, we ensure our products have the necessary fail-safe measures and fault tolerance capabilities. This certification drives our ongoing commitment to providing customers with vehicles that are not just sustainable, but also safe to use.
+
+## Elexion Automotive's Journey Towards Sustainable Compliance
+
+Our journey towards sustainable compliance has been a strategic focus area for Elexion Automotive. In 2016, we established a dedicated Compliance Department to ensure that our products meet environmental and safety standards. We have also invested significantly in R&D to reduce the environmental impact of our manufacturing processes.
+
+## Cross-Border Compliance: Navigating North American Standards
+
+Cross-border compliance is a crucial aspect of our business, given our focus on the North American market. We continuously monitor changes in legislation and industry requirements in both the United States and Canada. In 2018, we successfully complied with the new emission standards established by the Canadian government.
+
+## Conclusion
+
+Elexion Automotive's achievement of the ISO 26262 certification demonstrates our commitment to safety and regulatory compliance. It is a significant milestone that has positive implications for our product safety and cross-border compliance. We will continue to strive for excellence in all areas, prioritizing transparency and accountability. Going forward, it's crucial that we maintain our certifications and continue to meet the evolving regulatory standards.

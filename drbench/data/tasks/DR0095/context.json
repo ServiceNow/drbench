@@ -1,0 +1,28 @@
+{
+    "company_info": {
+        "name": "Lee's Market (Richmond, British Columbia, Canada, $500M - $600M, 5000 employees)",
+        "industry": "Retail",
+        "description": "A company in the Retail industry",
+        "size": "medium",
+        "employee_count": "100-500",
+        "annual_revenue": "Not specified"
+    },
+    "persona": {
+        "name": "Janet Park",
+        "first_name": "Janet",
+        "last_name": "Park",
+        "username": "janet.park",
+        "email": "janet.park@leesmarket.com",
+        "role": "Customer Experience Manager",
+        "role_description": "Develops customer retention strategies and service improvement initiatives, manages customer feedback programs, and leads cross-functional teams to enhance customer experience"
+    },
+    "url": {
+        "url": "https://nielseniq.com/global/en/insights/analysis/2024/how-gen-z-consumer-behavior-is-reshaping-retail/",
+        "domain": "Customer relationship Management",
+        "industry": "retail",
+        "example_dr_questions": [],
+        "insights": [],
+        "date": "2025-11-21"
+    },
+    "timestamp": "2025-10-24 00:00"
+}

@@ -1,0 +1,98 @@
+================================================================================
+MATTERMOST CHAT EXPORT
+================================================================================
+
+TEAMS:
+----------------------------------------
+• Customer Experience (customer_experience)
+  Description: N/A
+  Type: Open
+
+• Product Sourcing (product_sourcing)
+  Description: N/A
+  Type: Open
+
+CHANNELS:
+----------------------------------------
+• #Customer Feedback (customer_feedback)
+  Team: customer_experience
+  Purpose: To improve our service based on customer feedback
+  Type: Public
+
+• #Local Sourcing (local_sourcing)
+  Team: product_sourcing
+  Purpose: To increase the percentage of locally sourced products
+  Type: Public
+
+USERS:
+----------------------------------------
+• @janetpark
+  Name: Janet Park
+  Position: Customer Experience Manager
+  Email: janetpark@leesmarket.com
+
+• @johnsmith
+  Name: John Smith
+  Position: Product Sourcing Manager
+  Email: johnsmith@leesmarket.com
+
+• @emilyjones
+  Name: Emily Jones
+  Position: Customer Feedback Analyst
+  Email: emilyjones@leesmarket.com
+
+• @janet.park
+  Name: Janet Park
+  Position: Customer Experience Manager
+  Email: janet.park@leesmarket.com
+
+MESSAGES:
+================================================================================
+[Unknown time] #product_sourcing:local_sourcing
+@johnsmith:
+Hi team, I've just finished reviewing our 2025 product sourcing data. I've found that 19% of Lee's Market's total product portfolio was locally sourced within Canada last year. This reflects our procurement and supply strategy, as we've been trying to increase our support for local suppliers.
+------------------------------------------------------------
+
+[2021-05-08 11:53:20] #customer_experience:customer_feedback
+@emilyjones:
+We've received some feedback about the layout of the Richmond store. Customers seem to be having trouble finding the dairy section. Any thoughts?
+------------------------------------------------------------
+
+[2021-05-08 11:53:25] #customer_experience:customer_feedback
+@janetpark:
+Interesting, Emily. Let's schedule a meeting to discuss potential changes to the store layout.
+------------------------------------------------------------
+
+[2021-05-08 11:53:30] #product_sourcing:local_sourcing
+@johnsmith:
+I've been in talks with a new supplier for our bakery section. They have some interesting products that could be a good fit.
+------------------------------------------------------------
+
+[2021-05-08 11:53:35] #product_sourcing:local_sourcing
+@janetpark:
+That's great, John. Could you prepare a presentation on their offerings for our next team meeting?
+------------------------------------------------------------
+
+[2021-05-08 11:53:40] #customer_experience:customer_feedback
+@janetpark:
+We need to update our customer service training materials. Emily, could you take the lead on this?
+------------------------------------------------------------
+
+[2021-05-08 11:53:45] #customer_experience:customer_feedback
+@emilyjones:
+Sure, Janet. I'll start working on it and keep you updated.
+------------------------------------------------------------
+
+[2021-05-08 11:53:50] #product_sourcing:local_sourcing
+@johnsmith:
+I've been reviewing our product display protocols. We may need to make some adjustments to accommodate the new bakery items.
+------------------------------------------------------------
+
+[2021-05-08 11:53:55] #product_sourcing:local_sourcing
+@janetpark:
+Good point, John. Let's discuss this further in our next team meeting.
+------------------------------------------------------------
+
+================================================================================
+END OF CHAT EXPORT
+================================================================================

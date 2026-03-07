@@ -1,0 +1,81 @@
+{
+    "file_name": "elexion-customer-data",
+    "file_title": "Elexion Automotive: Harnessing Customer Data",
+    "introduction": "This presentation delves into the volume of customer data processed by our Sales Department since 2023. We will explore how it's being utilized and the potential it holds for Elexion Automotive.",
+    "subsections": [
+        {
+            "heading": "The Evolution of Data Processing in Sales",
+            "content": "\u2022 The inception of data processing in sales dates back to the late 20th century\n\u2022 Advances in technology have revolutionized the data processing landscape in sales\n\u2022 Elexion adopted a digital data processing strategy in 2016\n\u2022 The company integrated AI and Machine Learning for data processing in 2018\n\u2022 The sales team at Elexion has been using a cloud-based data processing system since 2020\n\u2022 The focus has shifted towards predictive analytics for data processing in recent years\n\u2022 Data privacy regulations have influenced the data processing methods in the sales department.",
+            "type": "distractor",
+            "justification": "The content provides historical information about data processing in sales but does not reveal the volume of customer data processed since 2023."
+        },
+        {
+            "heading": "Annual Customer Data Volume: A Deep Dive",
+            "content": "\u2022 The annual customer data volume has seen a consistent upward trend industry-wide\n\u2022 Significant increase in customer data volume was noted in 2019 due to the launch of new EV models\n\u2022 Customer data volume varies across different sales channels\n\u2022 The sales department has been investing in data storage solutions to accommodate the increasing volume\n\u2022 The average customer provides about 50 data points during a vehicle purchase\n\u2022 Customer data volume fluctuates with seasonal sales trends.",
+            "type": "distractor",
+            "justification": "The content discusses general trends and factors affecting customer data volume, but does not specify the amount of data processed since 2023."
+        },
+        {
+            "heading": "Leveraging Customer Data for Sales Growth",
+            "content": "\u2022 Customer data is instrumental in personalizing sales strategies\n\u2022 The sales team uses customer data to predict market trends and tailor offerings\n\u2022 Elexion has seen a 15% increase in sales conversion rate due to effective data utilization\n\u2022 Customer data analysis has helped identify key demographics for targeted marketing\n\u2022 The company uses customer data to refine product designs and features\n\u2022 Data-driven insights have improved customer retention rate by 20% over the past two years.",
+            "type": "distractor",
+            "justification": "The content discusses how customer data is used to drive sales growth, but does not reveal the volume of data processed annually since 2023."
+        }
+    ],
+    "conclusion": "Accumulated customer data has proven to be an invaluable asset for our sales strategies. Moving forward, we should prioritize efficient data processing and analysis to drive sales growth.",
+    "file_format": "pptx",
+    "file_path": ".llm_responses/generated_pptx_presentation.pptx",
+    "qa_type": "distractor",
+    "timestamp": "2025-11-20 01:02",
+    "image_queries": [
+        {
+            "slide_title": "Introduction",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "intentionally_clean",
+            "slide_type": "introduction"
+        },
+        {
+            "slide_title": "The Evolution of Data Processing in Sales",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "failed",
+            "slide_type": "distractor",
+            "content_length": 7,
+            "total_chars": 557,
+            "error": "'str' object has no attribute 'choices'",
+            "theme": "Professional Green"
+        },
+        {
+            "slide_title": "Annual Customer Data Volume: A Deep Dive",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 6,
+            "total_chars": 473,
+            "probability": 0.25,
+            "theme": "Professional Green"
+        },
+        {
+            "slide_title": "Leveraging Customer Data for Sales Growth",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 6,
+            "total_chars": 473,
+            "probability": 0.25,
+            "theme": "Professional Green"
+        },
+        {
+            "slide_title": "Conclusion",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "strategic_clean_conclusion",
+            "slide_type": "conclusion",
+            "theme": "Professional Green"
+        }
+    ],
+    "app": "file_system"
+}

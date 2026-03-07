@@ -1,0 +1,13 @@
+Date,Task,Employee,Details
+This column represents the date when a particular IT security task was completed,This column describes the specific IT security task that was completed,This column identifies the employee who completed the task,"This column provides further details about the task completion, such as the methods used and the impact on the system"
+2025-02-10,Firewall update,Mark Johnson,Updated firewall rules to block suspicious IP addresses.
+2025-07-15,System patching,Mark Johnson,Applied latest security patches to all systems.
+2025-05-01,Security training,Mark Johnson,Conducted a training session on phishing and cybersecurity best practices.
+2025-06-10,Two-factor authentication setup,Emily Davis,Set up two-factor authentication for all user accounts.
+2025-10-15,Intrusion detection system update,Mark Johnson,Updated the intrusion detection system with latest threat signatures.
+2025-08-20,Incident response drill,Jason Wong,Led a drill to practice response to a cybersecurity incident.
+2025-03-20,Password policy update,Jason Wong,Updated password policy to require complexity and regular changes.
+2025-09-10,Data backup,Emily Davis,Performed a full backup of all critical data.
+2025-01-15,VPN configuration,Emily Davis,Configured VPN for remote access to internal systems.
+2025-05-31,SSH key rollout,Jason Wong,All admin server access using SSH keys only; password login was deactivated on every system.
+2025-04-15,Malware scan,Emily Davis,Performed a comprehensive malware scan and removed threats.

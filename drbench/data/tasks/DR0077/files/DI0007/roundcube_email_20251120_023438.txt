@@ -1,0 +1,198 @@
+================================================================================
+ROUNDCUBE EMAIL EXPORT
+================================================================================
+
+USERS:
+----------------------------------------
+• olivia.martinez
+  Name: Olivia Martinez
+  Email: olivia.martinez@elexionauto.com
+
+• michael.johnson
+  Name: Michael Johnson
+  Email: michael.johnson@elexionauto.com
+
+• sarah.williams
+  Name: Sarah Williams
+  Email: sarah.williams@elexionauto.com
+
+• james.brown
+  Name: James Brown
+  Email: james.brown@elexionauto.com
+
+• linda.davis
+  Name: Linda Davis
+  Email: linda.davis@elexionauto.com
+
+• robert.miller
+  Name: Robert Miller
+  Email: robert.miller@elexionauto.com
+
+• mary.jones
+  Name: Mary Jones
+  Email: mary.jones@elexionauto.com
+
+• william.garcia
+  Name: William Garcia
+  Email: william.garcia@elexionauto.com
+
+EMAILS:
+================================================================================
+Email ID: email_001
+Date: 2022-06-09 10:00:00
+From: Olivia Martinez <olivia.martinez@elexionauto.com>
+To: michael.johnson@elexionauto.com
+CC: sarah.williams@elexionauto.com
+Subject: Resource Allocation for Q3
+Folder: sent | Status: Read
+
+Message Body:
+----------------------------------------
+Hello Michael,
+
+I am currently working on the resource allocation for next quarter. Could you provide me with the expected usage for the manufacturing equipment? This will help us avoid any unexpected issues related to overuse or underuse.
+
+Best,
+Olivia
+============================================================
+
+Email ID: email_002
+Date: 2022-06-09 11:30:00
+From: Michael Johnson <michael.johnson@elexionauto.com>
+To: olivia.martinez@elexionauto.com, sarah.williams@elexionauto.com, james.brown@elexionauto.com
+Subject: Weekly Team Meeting
+Folder: inbox | Status: Unread
+
+Message Body:
+----------------------------------------
+Hello Team,
+
+Our weekly meeting is scheduled for tomorrow at 2pm. Please prepare your updates and bring any issues or concerns you have.
+
+Best,
+Michael
+============================================================
+
+Email ID: email_003
+Date: 2022-06-09 13:15:00
+From: Sarah Williams <sarah.williams@elexionauto.com>
+To: olivia.martinez@elexionauto.com, michael.johnson@elexionauto.com
+CC: linda.davis@elexionauto.com
+Subject: Customer Feedback Summary
+Folder: inbox | Status: Unread
+Attachments: 1 file(s)
+
+Message Body:
+----------------------------------------
+Hello Olivia and Michael,
+
+Please find attached the summary of recent customer feedback. It seems we are doing well on the sustainability front but need to improve user-centric technology.
+
+Best,
+Sarah
+============================================================
+
+Email ID: email_004
+Date: 2022-06-09 15:00:00
+From: Linda Davis <linda.davis@elexionauto.com>
+To: olivia.martinez@elexionauto.com
+CC: robert.miller@elexionauto.com
+Subject: Policy Update: Asset Disposal
+Folder: inbox | Status: Unread
+Attachments: 1 file(s)
+
+Message Body:
+----------------------------------------
+Dear Olivia,
+
+We have updated our asset disposal policy to better align with the latest industry standards. Please find the updated policy attached. Let me know if you have any questions.
+
+Best,
+Linda
+============================================================
+
+Email ID: email_005
+Date: 2022-06-09 16:30:00
+From: Mary Jones <mary.jones@elexionauto.com>
+To: olivia.martinez@elexionauto.com, michael.johnson@elexionauto.com, sarah.williams@elexionauto.com, james.brown@elexionauto.com
+CC: linda.davis@elexionauto.com
+Subject: Invitation: Industry Event - Electric Vehicles Summit
+Folder: inbox | Status: Unread
+
+Message Body:
+----------------------------------------
+Dear Team,
+
+You are all invited to the upcoming Electric Vehicles Summit. This will be a great opportunity to learn about the latest trends and network with industry leaders. Please check your schedule and let me know if you can attend.
+
+Best,
+Mary
+============================================================
+
+Email ID: email_001
+Date: 2024-09-02 09:30:00
+From: Michael Johnson <michael.johnson@elexionauto.com>
+To: olivia.martinez@elexionauto.com
+CC: robert.miller@elexionauto.com, mary.jones@elexionauto.com, william.garcia@elexionauto.com
+Subject: ISO 9001:2015 Recertification and Data-Driven Maintenance
+Folder: inbox | Status: Read
+
+Message Body:
+----------------------------------------
+Dear Olivia,
+
+I am pleased to announce that Elexion Automotive has successfully renewed its ISO 9001:2015 certification on September 1, 2024. This accomplishment reflects our commitment to maintaining high-quality standards in our operations.
+
+In line with this, I believe it's crucial to continue our exploration of predictive maintenance using real-time data from IoT sensors and digital twins. The ISO certification aligns with this initiative as it emphasizes the importance of utilizing data for continuous improvement.
+
+Let's discuss further on how we can enhance our maintenance strategy. Your insights as an Asset Lifecycle Manager will be valuable in this endeavor.
+
+Best,
+Michael
+============================================================
+
+Email ID: email_002
+Date: 2024-09-02 11:15:00
+From: Olivia Martinez <olivia.martinez@elexionauto.com>
+To: michael.johnson@elexionauto.com
+CC: robert.miller@elexionauto.com, mary.jones@elexionauto.com, william.garcia@elexionauto.com
+Subject: RE: ISO 9001:2015 Recertification and Data-Driven Maintenance
+Folder: sent | Status: Read
+
+Message Body:
+----------------------------------------
+Hi Michael,
+
+Congratulations on the successful recertification! That's great news.
+
+I completely agree with your points on predictive maintenance. With the combined use of real-time IoT data and digital twins, we can simulate potential issues and proactively address them before they impact our production lines.
+
+I'll prepare a detailed plan on how we can integrate these technologies into our existing asset lifecycle management processes.
+
+Thanks,
+Olivia
+============================================================
+
+Email ID: email_003
+Date: 2024-09-02 13:00:00
+From: Michael Johnson <michael.johnson@elexionauto.com>
+To: olivia.martinez@elexionauto.com
+CC: robert.miller@elexionauto.com, mary.jones@elexionauto.com, william.garcia@elexionauto.com
+Subject: RE: ISO 9001:2015 Recertification and Data-Driven Maintenance
+Folder: sent | Status: Read
+
+Message Body:
+----------------------------------------
+Olivia,
+
+Thank you for your support. I look forward to reviewing your plan on integrating IoT and digital twins into our asset lifecycle management. I believe this will greatly enhance our predictive maintenance and minimize production line downtime, which is critical to our goals.
+
+Keep up the excellent work!
+
+Best,
+Michael
+============================================================
+
+================================================================================
+END OF EMAIL EXPORT
+================================================================================

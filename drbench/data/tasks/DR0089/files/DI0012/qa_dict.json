@@ -1,0 +1,10 @@
+{
+    "insight_id": "DI0012",
+    "qa_type": "distractor",
+    "qa_index": 12,
+    "specific_question": "What portion of US commuters used the micromobility options of Elexion Automotive in 2024?",
+    "answer": "Approximately 24% of U.S. commuters used the micromobility options of Elexion Automotive in 2024.",
+    "justification": "Consumer transportation behavior is unrelated to battery testing protocols, EV battery endurance, or reliability.",
+    "timestamp": "2025-11-20 15:47",
+    "dr_question": "Given that one in seven new vehicles sold in Canada in 2024 were zero-emission, how can Elexion Automotive\u2019s QA team enhance cold-weather testing protocols by Q4 2026 to improve EV battery endurance and reliability in the country\u2019s key ZEV markets?"
+}

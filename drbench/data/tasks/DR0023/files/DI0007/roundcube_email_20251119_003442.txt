@@ -1,0 +1,183 @@
+================================================================================
+ROUNDCUBE EMAIL EXPORT
+================================================================================
+
+USERS:
+----------------------------------------
+• kevin.wong
+  Name: Kevin Wong
+  Email: kevin.wong@leesmarket.com
+
+• linda.chen
+  Name: Linda Chen
+  Email: linda.chen@leesmarket.com
+
+• jackie.li
+  Name: Jackie Li
+  Email: jackie.li@leesmarket.com
+
+• john.lee
+  Name: John Lee
+  Email: john.lee@leesmarket.com
+
+• sarah.park
+  Name: Sarah Park
+  Email: sarah.park@leesmarket.com
+
+• michael.kim
+  Name: Michael Kim
+  Email: michael.kim@leesmarket.com
+
+• jessica.tran
+  Name: Jessica Tran
+  Email: jessica.tran@leesmarket.com
+
+• david.nguyen
+  Name: David Nguyen
+  Email: david.nguyen@leesmarket.com
+
+EMAILS:
+================================================================================
+Email ID: email_001
+Date: 2021-10-02 08:00:00
+From: Kevin Wong <kevin.wong@leesmarket.com>
+To: linda.chen@leesmarket.com, john.lee@leesmarket.com
+Subject: Weekly IT Department Meeting
+Folder: inbox | Status: Read
+
+Message Body:
+----------------------------------------
+Dear team,
+
+Just a quick reminder about our weekly department meeting today at 3pm. We'll be discussing our ongoing projects and any issues you've been facing. Please prepare your updates beforehand.
+
+Best,
+Kevin
+============================================================
+
+Email ID: email_002
+Date: 2021-10-03 09:15:00
+From: Kevin Wong <kevin.wong@leesmarket.com>
+To: sarah.park@leesmarket.com
+Subject: New Employee Onboarding
+Folder: inbox | Status: Read
+
+Message Body:
+----------------------------------------
+Hi Sarah,
+
+I've heard we're getting some new hires next week. Can you please share the onboarding schedule with me? I want to ensure their IT systems are ready in time.
+
+Thanks,
+Kevin
+============================================================
+
+Email ID: email_003
+Date: 2021-10-04 10:30:00
+From: Linda Chen <linda.chen@leesmarket.com>
+To: kevin.wong@leesmarket.com
+CC: jackie.li@leesmarket.com
+Subject: Website Downtime
+Folder: inbox | Status: Read
+
+Message Body:
+----------------------------------------
+Hi Kevin,
+
+We're planning a website update this weekend and there might be some downtime. Can you please inform the necessary teams and set up a notification for our customers?
+
+Best,
+Linda
+============================================================
+
+Email ID: email_004
+Date: 2021-10-05 11:45:00
+From: Kevin Wong <kevin.wong@leesmarket.com>
+To: john.lee@leesmarket.com
+Subject: Upcoming IT Audit
+Folder: inbox | Status: Read
+
+Message Body:
+----------------------------------------
+Hi John,
+
+Just a heads up, we have an IT audit scheduled for next month. I'll need your help to gather the necessary documents and logs. Let's meet next week to discuss the details.
+
+Thanks,
+Kevin
+============================================================
+
+Email ID: email_005
+Date: 2021-10-06 12:00:00
+From: Michael Kim <michael.kim@leesmarket.com>
+To: kevin.wong@leesmarket.com
+CC: jessica.tran@leesmarket.com, david.nguyen@leesmarket.com
+Subject: Product Recall Notice
+Folder: inbox | Status: Read
+
+Message Body:
+----------------------------------------
+Hi Kevin,
+
+We're issuing a recall for one of our products. We need IT's help to pull the sale records and notify the customers who purchased this item. Can you please assign someone to handle this?
+
+Best,
+Michael
+============================================================
+
+Email ID: email_001
+Date: 2025-08-01 09:30:00
+From: Kevin Wong <kevin.wong@leesmarket.com>
+To: linda.chen@leesmarket.com, jackie.li@leesmarket.com
+Subject: IT Service Tickets for July 2025
+Folder: sent | Status: Read
+
+Message Body:
+----------------------------------------
+Hi Linda and Jackie,
+
+I hope you're both well. I just wanted to provide an update on the number of IT tickets we received in July 2025. We had a total of 14 tickets specifically related to the development and troubleshooting of the gluten-free dumpling filter in our online store.
+
+Let's ensure we track these numbers closely as we continue to enhance our online services, keeping in mind our goal to reduce service desk dependency and improve resolution times. This is critical to our larger objective of enhancing both employee and customer experience.
+
+Best,
+Kevin
+============================================================
+
+Email ID: email_002
+Date: 2025-08-01 10:05:00
+From: Linda Chen <linda.chen@leesmarket.com>
+To: kevin.wong@leesmarket.com, jackie.li@leesmarket.com
+Subject: Re: IT Service Tickets for July 2025
+Folder: sent | Status: Read
+
+Message Body:
+----------------------------------------
+Hi Kevin,
+
+Thanks for the update. It's good to know that our team is proactively addressing these issues and working towards reducing dependency on the service desk. Let's continue to monitor these numbers closely in the coming months.
+
+Best,
+Linda
+============================================================
+
+Email ID: email_003
+Date: 2025-08-01 11:00:00
+From: Jackie Li <jackie.li@leesmarket.com>
+To: kevin.wong@leesmarket.com, linda.chen@leesmarket.com
+Subject: Re: IT Service Tickets for July 2025
+Folder: sent | Status: Read
+
+Message Body:
+----------------------------------------
+Hi Kevin and Linda,
+
+Thank you for the update. This information is certainly helpful as we plan our IT self-service strategy. Based on the number of tickets, it is clear that we need to strengthen our IT self-service capabilities to manage requests more efficiently. Let's continue this discussion in our next meeting.
+
+Best,
+Jackie
+============================================================
+
+================================================================================
+END OF EMAIL EXPORT
+================================================================================

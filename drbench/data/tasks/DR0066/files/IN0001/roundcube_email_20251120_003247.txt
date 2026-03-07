@@ -1,0 +1,151 @@
+================================================================================
+ROUNDCUBE EMAIL EXPORT
+================================================================================
+
+USERS:
+----------------------------------------
+• amanda.lee
+  Name: Amanda Lee
+  Email: amanda.lee@elexionautomotive.com
+
+• james.dawson
+  Name: James Dawson
+  Email: james.dawson@elexionautomotive.com
+
+• lisa.henderson
+  Name: Lisa Henderson
+  Email: lisa.henderson@elexionautomotive.com
+
+• peter.ford
+  Name: Peter Ford
+  Email: peter.ford@elexionautomotive.com
+
+• michael.harris
+  Name: Michael Harris
+  Email: michael.harris@elexionautomotive.com
+
+• sarah.miller
+  Name: Sarah Miller
+  Email: sarah.miller@elexionautomotive.com
+
+EMAILS:
+================================================================================
+Email ID: email_001
+Date: 2023-01-15 10:00:00
+From: Amanda Lee <amanda.lee@elexionautomotive.com>
+To: james.dawson@elexionautomotive.com, lisa.henderson@elexionautomotive.com, michael.harris@elexionautomotive.com, sarah.miller@elexionautomotive.com
+CC: peter.ford@elexionautomotive.com
+Subject: Upcoming Sales Operations Team Meeting
+Folder: sent | Status: Read
+
+Message Body:
+----------------------------------------
+Dear Team,
+
+Our monthly sales operations meeting is scheduled for next week, Wednesday, 22nd January, at 2:00PM in Conference Room 2B.
+
+The focus of this meeting will be our current sales processes, and how we can streamline them. Please come prepared with any suggestions or observations you may have.
+
+Best,
+Amanda
+============================================================
+
+Email ID: email_002
+Date: 2023-01-16 14:30:00
+From: Peter Ford <peter.ford@elexionautomotive.com>
+To: amanda.lee@elexionautomotive.com
+Subject: Feedback on New Vehicle Design
+Folder: inbox | Status: Read
+Attachments: 1 file(s)
+
+Message Body:
+----------------------------------------
+Hi Amanda,
+
+I wanted to get your feedback on the new vehicle design before we finalize it. The design team is particularly interested in understanding if the new features align with our sales strategy. Please let me know a good time to discuss this.
+
+Regards,
+Peter
+============================================================
+
+Email ID: email_003
+Date: 2023-01-17 09:15:00
+From: Michael Harris <michael.harris@elexionautomotive.com>
+To: amanda.lee@elexionautomotive.com, james.dawson@elexionautomotive.com, lisa.henderson@elexionautomotive.com
+Subject: Invitation to Automotive Industry Networking Event
+Folder: inbox | Status: Read
+Attachments: 1 file(s)
+
+Message Body:
+----------------------------------------
+Dear Team,
+
+We have been invited to an automotive industry networking event scheduled for 5th February. It will be a great opportunity to connect with industry leaders and discuss the latest trends in electric vehicle technology. Please let me know if you're interested in attending.
+
+Best,
+Michael
+============================================================
+
+Email ID: email_001
+Date: 2025-09-20 10:30:00
+From: Amanda Lee <amanda.lee@elexionautomotive.com>
+To: james.dawson@elexionautomotive.com
+CC: lisa.henderson@elexionautomotive.com, peter.ford@elexionautomotive.com, michael.harris@elexionautomotive.com, sarah.miller@elexionautomotive.com
+Subject: CRM Data Analysis and Sales Strategy
+Folder: sent | Status: Read
+
+Message Body:
+----------------------------------------
+Hello Team,
+
+Our recent analysis of the CRM data has provided some insightful information about customer behavior and interaction patterns. We are currently examining how this information can be leveraged to drive sales more efficiently.
+
+One key insight that stood out is the time taken from the initial digital lead contact to the first sales appointment. Based on our data, the median number of days for this process is 14 days. I believe understanding this timeline can help us optimize our sales process and improve customer engagement.
+
+Any thoughts or suggestions on how we can reduce this timeframe and enhance our sales strategy are welcome.
+
+Best,
+Amanda
+============================================================
+
+Email ID: email_002
+Date: 2025-09-20 12:15:00
+From: James Dawson <james.dawson@elexionautomotive.com>
+To: amanda.lee@elexionautomotive.com
+CC: lisa.henderson@elexionautomotive.com, peter.ford@elexionautomotive.com, michael.harris@elexionautomotive.com, sarah.miller@elexionautomotive.com
+Subject: Re: CRM Data Analysis and Sales Strategy
+Folder: sent | Status: Read
+
+Message Body:
+----------------------------------------
+Hi Amanda,
+
+Thank you for sharing these insights. The 14-day median is an interesting finding. I agree that streamlining this process could potentially increase our conversion rates.
+
+One suggestion could be to develop a more targeted follow-up strategy for our digital leads. Perhaps we could initiate a process that ensures a sales appointment is set within the first week of contact.
+
+Kind regards,
+James
+============================================================
+
+Email ID: email_003
+Date: 2025-09-21 09:45:00
+From: Amanda Lee <amanda.lee@elexionautomotive.com>
+To: james.dawson@elexionautomotive.com
+CC: lisa.henderson@elexionautomotive.com, peter.ford@elexionautomotive.com, michael.harris@elexionautomotive.com, sarah.miller@elexionautomotive.com
+Subject: Re: CRM Data Analysis and Sales Strategy
+Folder: sent | Status: Read
+
+Message Body:
+----------------------------------------
+Hi James,
+
+Great suggestion. A targeted follow-up strategy could indeed help us to shorten the time from the initial contact to the first sales appointment. Let's discuss this in our next team meeting to get everyone's input and develop a plan for implementation.
+
+Best,
+Amanda
+============================================================
+
+================================================================================
+END OF EMAIL EXPORT
+================================================================================

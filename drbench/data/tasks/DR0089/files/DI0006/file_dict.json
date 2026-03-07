@@ -1,0 +1,216 @@
+{
+    "file_name": "roundcube_email_20251120_144546",
+    "content": "{\"type\": \"user\", \"username\": \"amanda.foster\", \"first_name\": \"Amanda\", \"last_name\": \"Foster\", \"email\": \"amanda.foster@elexionautomotive.com\", \"password\": \"autoQA_pwd\"}\n{\"type\": \"user\", \"username\": \"jason.miller\", \"first_name\": \"Jason\", \"last_name\": \"Miller\", \"email\": \"jason.miller@elexionautomotive.com\", \"password\": \"autoDev_pwd\"}\n{\"type\": \"user\", \"username\": \"laura.woods\", \"first_name\": \"Laura\", \"last_name\": \"Woods\", \"email\": \"laura.woods@elexionautomotive.com\", \"password\": \"autoProdMgr_pwd\"}\n{\"type\": \"user\", \"username\": \"brian.hayes\", \"first_name\": \"Brian\", \"last_name\": \"Hayes\", \"email\": \"brian.hayes@elexionautomotive.com\", \"password\": \"autoCustSup_pwd\"}\n{\"type\": \"user\", \"username\": \"karen.adams\", \"first_name\": \"Karen\", \"last_name\": \"Adams\", \"email\": \"karen.adams@elexionautomotive.com\", \"password\": \"autoMktg_pwd\"}\n{\"type\": \"user\", \"username\": \"mark.johnson\", \"first_name\": \"Mark\", \"last_name\": \"Johnson\", \"email\": \"mark.johnson@elexionautomotive.com\", \"password\": \"autoSales_pwd\"}\n{\"type\": \"user\", \"username\": \"nancy.brown\", \"first_name\": \"Nancy\", \"last_name\": \"Brown\", \"email\": \"nancy.brown@elexionautomotive.com\", \"password\": \"autoFin_pwd\"}\n{\"type\": \"email\", \"id\": \"email_001\", \"subject\": \"Weekly Team Meeting Schedule\", \"from\": \"amanda.foster@elexionautomotive.com\", \"from_name\": \"Amanda Foster\", \"to\": [\"jason.miller@elexionautomotive.com\", \"laura.woods@elexionautomotive.com\", \"brian.hayes@elexionautomotive.com\"], \"cc\": [], \"date\": \"2022-06-13 09:30:00\", \"body\": \"Hello Team,\\n\\nJust a quick update on our weekly team meeting. It will now be held every Tuesday at 10 AM instead of Thursday. Please make a note of this change in your calendars.\\n\\nBest,\\nAmanda\", \"folder\": \"sent\", \"read\": true, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_002\", \"subject\": \"Upcoming Industry Conference\", \"from\": \"karen.adams@elexionautomotive.com\", \"from_name\": \"Karen Adams\", \"to\": [\"amanda.foster@elexionautomotive.com\", \"jason.miller@elexionautomotive.com\", \"laura.woods@elexionautomotive.com\", \"brian.hayes@elexionautomotive.com\", \"mark.johnson@elexionautomotive.com\", \"nancy.brown@elexionautomotive.com\"], \"cc\": [], \"date\": \"2022-06-14 11:15:00\", \"body\": \"Hi All,\\n\\nI just wanted to bring your attention to the upcoming EV Industry Conference happening next month. It might be a great opportunity to network and learn more about the latest trends in our industry. Let me know if you're interested in attending.\\n\\nBest,\\nKaren\", \"folder\": \"inbox\", \"read\": false, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_003\", \"subject\": \"New Customer Satisfaction Survey Results\", \"from\": \"brian.hayes@elexionautomotive.com\", \"from_name\": \"Brian Hayes\", \"to\": [\"amanda.foster@elexionautomotive.com\", \"laura.woods@elexionautomotive.com\"], \"cc\": [\"karen.adams@elexionautomotive.com\"], \"date\": \"2022-06-15 15:45:00\", \"body\": \"Dear Amanda and Laura,\\n\\nI wanted to share the new results from our latest customer satisfaction survey. The overall feedback has been quite positive, and our customers are loving our new models. Please find the detailed report attached.\\n\\nBest,\\nBrian\", \"folder\": \"inbox\", \"read\": false, \"attachments\": [\"Customer_Satisfaction_Survey_Results_June_2022.pdf\"]}\n{\"type\": \"email\", \"id\": \"email_004\", \"subject\": \"Project Eagle - Status Update\", \"from\": \"jason.miller@elexionautomotive.com\", \"from_name\": \"Jason Miller\", \"to\": [\"amanda.foster@elexionautomotive.com\", \"laura.woods@elexionautomotive.com\"], \"cc\": [], \"date\": \"2022-06-16 16:30:00\", \"body\": \"Hi Amanda and Laura,\\n\\nJust wanted to update you on Project Eagle. We are on track and should meet our deadline. I will share a detailed progress report at our next team meeting.\\n\\nBest,\\nJason\", \"folder\": \"sent\", \"read\": true, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_001\", \"subject\": \"Enhancing Cold-weather Testing Protocols\", \"from\": \"amanda.foster@elexionautomotive.com\", \"from_name\": \"Amanda Foster\", \"to\": [\"jason.miller@elexionautomotive.com\", \"laura.woods@elexionautomotive.com\"], \"cc\": [\"brian.hayes@elexionautomotive.com\", \"karen.adams@elexionautomotive.com\", \"mark.johnson@elexionautomotive.com\"], \"date\": \"2026-07-07 09:15:00\", \"body\": \"Hello team,\\n\\nIn light of the rapid growth of zero-emission vehicles in Canada, I propose that we refine our cold-weather testing protocols to improve EV battery endurance and reliability. We need to ensure that our EVs are well-suited to the Canadian climate, especially during the winter months.\\n\\nAny suggestions or ideas are welcome. Let's discuss this in our next meeting.\\n\\nBest,\\nAmanda\", \"folder\": \"sent\", \"read\": true, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_002\", \"subject\": \"RE: Enhancing Cold-weather Testing Protocols\", \"from\": \"jason.miller@elexionautomotive.com\", \"from_name\": \"Jason Miller\", \"to\": [\"amanda.foster@elexionautomotive.com\"], \"cc\": [\"laura.woods@elexionautomotive.com\", \"brian.hayes@elexionautomotive.com\", \"karen.adams@elexionautomotive.com\", \"mark.johnson@elexionautomotive.com\"], \"date\": \"2026-07-07 10:30:00\", \"body\": \"Amanda,\\n\\nI completely agree. We should also consider implementing sensory storytelling as part of our testing protocol. This will allow us to gather more data on how our EVs perform under cold-weather conditions. For your reference, about 30% of Elexion's EVs used sensory storytelling in 2025. This could provide us with valuable insights into user experience trends, even though it's not directly related to battery testing protocols.\\n\\nJason\", \"folder\": \"sent\", \"read\": true, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_003\", \"subject\": \"RE: Enhancing Cold-weather Testing Protocols\", \"from\": \"laura.woods@elexionautomotive.com\", \"from_name\": \"Laura Woods\", \"to\": [\"amanda.foster@elexionautomotive.com\", \"jason.miller@elexionautomotive.com\"], \"cc\": [\"brian.hayes@elexionautomotive.com\", \"karen.adams@elexionautomotive.com\", \"mark.johnson@elexionautomotive.com\"], \"date\": \"2026-07-07 11:00:00\", \"body\": \"Team,\\n\\nI agree with Jason's suggestion. Incorporating sensory storytelling into our testing protocol could give us a more holistic view of our EVs' performance. We can then use this data to improve battery endurance and reliability. Let's discuss this further in our next meeting.\\n\\nLaura\", \"folder\": \"inbox\", \"read\": true, \"attachments\": []}",
+    "email_setup": [
+        {
+            "type": "user",
+            "username": "amanda.foster",
+            "first_name": "Amanda",
+            "last_name": "Foster",
+            "email": "amanda.foster@elexionautomotive.com",
+            "password": "autoQA_pwd"
+        },
+        {
+            "type": "user",
+            "username": "jason.miller",
+            "first_name": "Jason",
+            "last_name": "Miller",
+            "email": "jason.miller@elexionautomotive.com",
+            "password": "autoDev_pwd"
+        },
+        {
+            "type": "user",
+            "username": "laura.woods",
+            "first_name": "Laura",
+            "last_name": "Woods",
+            "email": "laura.woods@elexionautomotive.com",
+            "password": "autoProdMgr_pwd"
+        },
+        {
+            "type": "user",
+            "username": "brian.hayes",
+            "first_name": "Brian",
+            "last_name": "Hayes",
+            "email": "brian.hayes@elexionautomotive.com",
+            "password": "autoCustSup_pwd"
+        },
+        {
+            "type": "user",
+            "username": "karen.adams",
+            "first_name": "Karen",
+            "last_name": "Adams",
+            "email": "karen.adams@elexionautomotive.com",
+            "password": "autoMktg_pwd"
+        },
+        {
+            "type": "user",
+            "username": "mark.johnson",
+            "first_name": "Mark",
+            "last_name": "Johnson",
+            "email": "mark.johnson@elexionautomotive.com",
+            "password": "autoSales_pwd"
+        },
+        {
+            "type": "user",
+            "username": "nancy.brown",
+            "first_name": "Nancy",
+            "last_name": "Brown",
+            "email": "nancy.brown@elexionautomotive.com",
+            "password": "autoFin_pwd"
+        }
+    ],
+    "email_messages": [
+        {
+            "type": "email",
+            "id": "email_001",
+            "subject": "Weekly Team Meeting Schedule",
+            "from": "amanda.foster@elexionautomotive.com",
+            "from_name": "Amanda Foster",
+            "to": [
+                "jason.miller@elexionautomotive.com",
+                "laura.woods@elexionautomotive.com",
+                "brian.hayes@elexionautomotive.com"
+            ],
+            "cc": [],
+            "date": "2022-06-13 09:30:00",
+            "body": "Hello Team,\n\nJust a quick update on our weekly team meeting. It will now be held every Tuesday at 10 AM instead of Thursday. Please make a note of this change in your calendars.\n\nBest,\nAmanda",
+            "folder": "sent",
+            "read": true,
+            "attachments": [],
+            "tag": "distractor"
+        },
+        {
+            "type": "email",
+            "id": "email_002",
+            "subject": "Upcoming Industry Conference",
+            "from": "karen.adams@elexionautomotive.com",
+            "from_name": "Karen Adams",
+            "to": [
+                "amanda.foster@elexionautomotive.com",
+                "jason.miller@elexionautomotive.com",
+                "laura.woods@elexionautomotive.com",
+                "brian.hayes@elexionautomotive.com",
+                "mark.johnson@elexionautomotive.com",
+                "nancy.brown@elexionautomotive.com"
+            ],
+            "cc": [],
+            "date": "2022-06-14 11:15:00",
+            "body": "Hi All,\n\nI just wanted to bring your attention to the upcoming EV Industry Conference happening next month. It might be a great opportunity to network and learn more about the latest trends in our industry. Let me know if you're interested in attending.\n\nBest,\nKaren",
+            "folder": "inbox",
+            "read": false,
+            "attachments": [],
+            "tag": "distractor"
+        },
+        {
+            "type": "email",
+            "id": "email_003",
+            "subject": "New Customer Satisfaction Survey Results",
+            "from": "brian.hayes@elexionautomotive.com",
+            "from_name": "Brian Hayes",
+            "to": [
+                "amanda.foster@elexionautomotive.com",
+                "laura.woods@elexionautomotive.com"
+            ],
+            "cc": [
+                "karen.adams@elexionautomotive.com"
+            ],
+            "date": "2022-06-15 15:45:00",
+            "body": "Dear Amanda and Laura,\n\nI wanted to share the new results from our latest customer satisfaction survey. The overall feedback has been quite positive, and our customers are loving our new models. Please find the detailed report attached.\n\nBest,\nBrian",
+            "folder": "inbox",
+            "read": false,
+            "attachments": [
+                "Customer_Satisfaction_Survey_Results_June_2022.pdf"
+            ],
+            "tag": "distractor"
+        },
+        {
+            "type": "email",
+            "id": "email_004",
+            "subject": "Project Eagle - Status Update",
+            "from": "jason.miller@elexionautomotive.com",
+            "from_name": "Jason Miller",
+            "to": [
+                "amanda.foster@elexionautomotive.com",
+                "laura.woods@elexionautomotive.com"
+            ],
+            "cc": [],
+            "date": "2022-06-16 16:30:00",
+            "body": "Hi Amanda and Laura,\n\nJust wanted to update you on Project Eagle. We are on track and should meet our deadline. I will share a detailed progress report at our next team meeting.\n\nBest,\nJason",
+            "folder": "sent",
+            "read": true,
+            "attachments": [],
+            "tag": "distractor"
+        },
+        {
+            "type": "email",
+            "id": "email_001",
+            "subject": "Enhancing Cold-weather Testing Protocols",
+            "from": "amanda.foster@elexionautomotive.com",
+            "from_name": "Amanda Foster",
+            "to": [
+                "jason.miller@elexionautomotive.com",
+                "laura.woods@elexionautomotive.com"
+            ],
+            "cc": [
+                "brian.hayes@elexionautomotive.com",
+                "karen.adams@elexionautomotive.com",
+                "mark.johnson@elexionautomotive.com"
+            ],
+            "date": "2026-07-07 09:15:00",
+            "body": "Hello team,\n\nIn light of the rapid growth of zero-emission vehicles in Canada, I propose that we refine our cold-weather testing protocols to improve EV battery endurance and reliability. We need to ensure that our EVs are well-suited to the Canadian climate, especially during the winter months.\n\nAny suggestions or ideas are welcome. Let's discuss this in our next meeting.\n\nBest,\nAmanda",
+            "folder": "sent",
+            "read": true,
+            "attachments": [],
+            "tag": "insight"
+        },
+        {
+            "type": "email",
+            "id": "email_002",
+            "subject": "RE: Enhancing Cold-weather Testing Protocols",
+            "from": "jason.miller@elexionautomotive.com",
+            "from_name": "Jason Miller",
+            "to": [
+                "amanda.foster@elexionautomotive.com"
+            ],
+            "cc": [
+                "laura.woods@elexionautomotive.com",
+                "brian.hayes@elexionautomotive.com",
+                "karen.adams@elexionautomotive.com",
+                "mark.johnson@elexionautomotive.com"
+            ],
+            "date": "2026-07-07 10:30:00",
+            "body": "Amanda,\n\nI completely agree. We should also consider implementing sensory storytelling as part of our testing protocol. This will allow us to gather more data on how our EVs perform under cold-weather conditions. For your reference, about 30% of Elexion's EVs used sensory storytelling in 2025. This could provide us with valuable insights into user experience trends, even though it's not directly related to battery testing protocols.\n\nJason",
+            "folder": "sent",
+            "read": true,
+            "attachments": [],
+            "tag": "insight"
+        },
+        {
+            "type": "email",
+            "id": "email_003",
+            "subject": "RE: Enhancing Cold-weather Testing Protocols",
+            "from": "laura.woods@elexionautomotive.com",
+            "from_name": "Laura Woods",
+            "to": [
+                "amanda.foster@elexionautomotive.com",
+                "jason.miller@elexionautomotive.com"
+            ],
+            "cc": [
+                "brian.hayes@elexionautomotive.com",
+                "karen.adams@elexionautomotive.com",
+                "mark.johnson@elexionautomotive.com"
+            ],
+            "date": "2026-07-07 11:00:00",
+            "body": "Team,\n\nI agree with Jason's suggestion. Incorporating sensory storytelling into our testing protocol could give us a more holistic view of our EVs' performance. We can then use this data to improve battery endurance and reliability. Let's discuss this further in our next meeting.\n\nLaura",
+            "folder": "inbox",
+            "read": true,
+            "attachments": [],
+            "tag": "insight"
+        }
+    ],
+    "file_format": "jsonl",
+    "file_path": ".llm_responses/generated_email_document.jsonl",
+    "qa_type": "distractor",
+    "timestamp": "2025-11-20 15:45",
+    "app": "email"
+}

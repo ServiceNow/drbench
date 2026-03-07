@@ -1,0 +1,243 @@
+{
+    "file_name": "roundcube_email_20251120_023438",
+    "content": "{\"type\": \"user\", \"username\": \"olivia.martinez\", \"first_name\": \"Olivia\", \"last_name\": \"Martinez\", \"email\": \"olivia.martinez@elexionauto.com\", \"password\": \"secure_elexion_pwd\"}\n{\"type\": \"user\", \"username\": \"michael.johnson\", \"first_name\": \"Michael\", \"last_name\": \"Johnson\", \"email\": \"michael.johnson@elexionauto.com\", \"password\": \"secure_elexion_pwd\"}\n{\"type\": \"user\", \"username\": \"sarah.williams\", \"first_name\": \"Sarah\", \"last_name\": \"Williams\", \"email\": \"sarah.williams@elexionauto.com\", \"password\": \"secure_elexion_pwd\"}\n{\"type\": \"user\", \"username\": \"james.brown\", \"first_name\": \"James\", \"last_name\": \"Brown\", \"email\": \"james.brown@elexionauto.com\", \"password\": \"secure_elexion_pwd\"}\n{\"type\": \"user\", \"username\": \"linda.davis\", \"first_name\": \"Linda\", \"last_name\": \"Davis\", \"email\": \"linda.davis@elexionauto.com\", \"password\": \"secure_elexion_pwd\"}\n{\"type\": \"user\", \"username\": \"robert.miller\", \"first_name\": \"Robert\", \"last_name\": \"Miller\", \"email\": \"robert.miller@elexionauto.com\", \"password\": \"secure_elexion_pwd\"}\n{\"type\": \"user\", \"username\": \"mary.jones\", \"first_name\": \"Mary\", \"last_name\": \"Jones\", \"email\": \"mary.jones@elexionauto.com\", \"password\": \"secure_elexion_pwd\"}\n{\"type\": \"user\", \"username\": \"william.garcia\", \"first_name\": \"William\", \"last_name\": \"Garcia\", \"email\": \"william.garcia@elexionauto.com\", \"password\": \"secure_elexion_pwd\"}\n{\"type\": \"email\", \"id\": \"email_001\", \"subject\": \"Resource Allocation for Q3\", \"from\": \"olivia.martinez@elexionauto.com\", \"from_name\": \"Olivia Martinez\", \"to\": [\"michael.johnson@elexionauto.com\"], \"cc\": [\"sarah.williams@elexionauto.com\"], \"date\": \"2022-06-09 10:00:00\", \"body\": \"Hello Michael,\\n\\nI am currently working on the resource allocation for next quarter. Could you provide me with the expected usage for the manufacturing equipment? This will help us avoid any unexpected issues related to overuse or underuse.\\n\\nBest,\\nOlivia\", \"folder\": \"sent\", \"read\": true, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_002\", \"subject\": \"Weekly Team Meeting\", \"from\": \"michael.johnson@elexionauto.com\", \"from_name\": \"Michael Johnson\", \"to\": [\"olivia.martinez@elexionauto.com\", \"sarah.williams@elexionauto.com\", \"james.brown@elexionauto.com\"], \"cc\": [], \"date\": \"2022-06-09 11:30:00\", \"body\": \"Hello Team,\\n\\nOur weekly meeting is scheduled for tomorrow at 2pm. Please prepare your updates and bring any issues or concerns you have.\\n\\nBest,\\nMichael\", \"folder\": \"inbox\", \"read\": false, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_003\", \"subject\": \"Customer Feedback Summary\", \"from\": \"sarah.williams@elexionauto.com\", \"from_name\": \"Sarah Williams\", \"to\": [\"olivia.martinez@elexionauto.com\", \"michael.johnson@elexionauto.com\"], \"cc\": [\"linda.davis@elexionauto.com\"], \"date\": \"2022-06-09 13:15:00\", \"body\": \"Hello Olivia and Michael,\\n\\nPlease find attached the summary of recent customer feedback. It seems we are doing well on the sustainability front but need to improve user-centric technology.\\n\\nBest,\\nSarah\", \"folder\": \"inbox\", \"read\": false, \"attachments\": [\"Customer_Feedback_Summary.pdf\"]}\n{\"type\": \"email\", \"id\": \"email_004\", \"subject\": \"Policy Update: Asset Disposal\", \"from\": \"linda.davis@elexionauto.com\", \"from_name\": \"Linda Davis\", \"to\": [\"olivia.martinez@elexionauto.com\"], \"cc\": [\"robert.miller@elexionauto.com\"], \"date\": \"2022-06-09 15:00:00\", \"body\": \"Dear Olivia,\\n\\nWe have updated our asset disposal policy to better align with the latest industry standards. Please find the updated policy attached. Let me know if you have any questions.\\n\\nBest,\\nLinda\", \"folder\": \"inbox\", \"read\": false, \"attachments\": [\"Asset_Disposal_Policy.pdf\"]}\n{\"type\": \"email\", \"id\": \"email_005\", \"subject\": \"Invitation: Industry Event - Electric Vehicles Summit\", \"from\": \"mary.jones@elexionauto.com\", \"from_name\": \"Mary Jones\", \"to\": [\"olivia.martinez@elexionauto.com\", \"michael.johnson@elexionauto.com\", \"sarah.williams@elexionauto.com\", \"james.brown@elexionauto.com\"], \"cc\": [\"linda.davis@elexionauto.com\"], \"date\": \"2022-06-09 16:30:00\", \"body\": \"Dear Team,\\n\\nYou are all invited to the upcoming Electric Vehicles Summit. This will be a great opportunity to learn about the latest trends and network with industry leaders. Please check your schedule and let me know if you can attend.\\n\\nBest,\\nMary\", \"folder\": \"inbox\", \"read\": false, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_001\", \"subject\": \"ISO 9001:2015 Recertification and Data-Driven Maintenance\", \"from\": \"michael.johnson@elexionauto.com\", \"from_name\": \"Michael Johnson\", \"to\": [\"olivia.martinez@elexionauto.com\"], \"cc\": [\"robert.miller@elexionauto.com\", \"mary.jones@elexionauto.com\", \"william.garcia@elexionauto.com\"], \"date\": \"2024-09-02 09:30:00\", \"body\": \"Dear Olivia,\\n\\nI am pleased to announce that Elexion Automotive has successfully renewed its ISO 9001:2015 certification on September 1, 2024. This accomplishment reflects our commitment to maintaining high-quality standards in our operations.\\n\\nIn line with this, I believe it's crucial to continue our exploration of predictive maintenance using real-time data from IoT sensors and digital twins. The ISO certification aligns with this initiative as it emphasizes the importance of utilizing data for continuous improvement.\\n\\nLet's discuss further on how we can enhance our maintenance strategy. Your insights as an Asset Lifecycle Manager will be valuable in this endeavor.\\n\\nBest,\\nMichael\", \"folder\": \"inbox\", \"read\": true, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_002\", \"subject\": \"RE: ISO 9001:2015 Recertification and Data-Driven Maintenance\", \"from\": \"olivia.martinez@elexionauto.com\", \"from_name\": \"Olivia Martinez\", \"to\": [\"michael.johnson@elexionauto.com\"], \"cc\": [\"robert.miller@elexionauto.com\", \"mary.jones@elexionauto.com\", \"william.garcia@elexionauto.com\"], \"date\": \"2024-09-02 11:15:00\", \"body\": \"Hi Michael,\\n\\nCongratulations on the successful recertification! That's great news.\\n\\nI completely agree with your points on predictive maintenance. With the combined use of real-time IoT data and digital twins, we can simulate potential issues and proactively address them before they impact our production lines.\\n\\nI'll prepare a detailed plan on how we can integrate these technologies into our existing asset lifecycle management processes.\\n\\nThanks,\\nOlivia\", \"folder\": \"sent\", \"read\": true, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_003\", \"subject\": \"RE: ISO 9001:2015 Recertification and Data-Driven Maintenance\", \"from\": \"michael.johnson@elexionauto.com\", \"from_name\": \"Michael Johnson\", \"to\": [\"olivia.martinez@elexionauto.com\"], \"cc\": [\"robert.miller@elexionauto.com\", \"mary.jones@elexionauto.com\", \"william.garcia@elexionauto.com\"], \"date\": \"2024-09-02 13:00:00\", \"body\": \"Olivia,\\n\\nThank you for your support. I look forward to reviewing your plan on integrating IoT and digital twins into our asset lifecycle management. I believe this will greatly enhance our predictive maintenance and minimize production line downtime, which is critical to our goals.\\n\\nKeep up the excellent work!\\n\\nBest,\\nMichael\", \"folder\": \"sent\", \"read\": true, \"attachments\": []}",
+    "email_setup": [
+        {
+            "type": "user",
+            "username": "olivia.martinez",
+            "first_name": "Olivia",
+            "last_name": "Martinez",
+            "email": "olivia.martinez@elexionauto.com",
+            "password": "secure_elexion_pwd"
+        },
+        {
+            "type": "user",
+            "username": "michael.johnson",
+            "first_name": "Michael",
+            "last_name": "Johnson",
+            "email": "michael.johnson@elexionauto.com",
+            "password": "secure_elexion_pwd"
+        },
+        {
+            "type": "user",
+            "username": "sarah.williams",
+            "first_name": "Sarah",
+            "last_name": "Williams",
+            "email": "sarah.williams@elexionauto.com",
+            "password": "secure_elexion_pwd"
+        },
+        {
+            "type": "user",
+            "username": "james.brown",
+            "first_name": "James",
+            "last_name": "Brown",
+            "email": "james.brown@elexionauto.com",
+            "password": "secure_elexion_pwd"
+        },
+        {
+            "type": "user",
+            "username": "linda.davis",
+            "first_name": "Linda",
+            "last_name": "Davis",
+            "email": "linda.davis@elexionauto.com",
+            "password": "secure_elexion_pwd"
+        },
+        {
+            "type": "user",
+            "username": "robert.miller",
+            "first_name": "Robert",
+            "last_name": "Miller",
+            "email": "robert.miller@elexionauto.com",
+            "password": "secure_elexion_pwd"
+        },
+        {
+            "type": "user",
+            "username": "mary.jones",
+            "first_name": "Mary",
+            "last_name": "Jones",
+            "email": "mary.jones@elexionauto.com",
+            "password": "secure_elexion_pwd"
+        },
+        {
+            "type": "user",
+            "username": "william.garcia",
+            "first_name": "William",
+            "last_name": "Garcia",
+            "email": "william.garcia@elexionauto.com",
+            "password": "secure_elexion_pwd"
+        }
+    ],
+    "email_messages": [
+        {
+            "type": "email",
+            "id": "email_001",
+            "subject": "Resource Allocation for Q3",
+            "from": "olivia.martinez@elexionauto.com",
+            "from_name": "Olivia Martinez",
+            "to": [
+                "michael.johnson@elexionauto.com"
+            ],
+            "cc": [
+                "sarah.williams@elexionauto.com"
+            ],
+            "date": "2022-06-09 10:00:00",
+            "body": "Hello Michael,\n\nI am currently working on the resource allocation for next quarter. Could you provide me with the expected usage for the manufacturing equipment? This will help us avoid any unexpected issues related to overuse or underuse.\n\nBest,\nOlivia",
+            "folder": "sent",
+            "read": true,
+            "attachments": [],
+            "tag": "distractor"
+        },
+        {
+            "type": "email",
+            "id": "email_002",
+            "subject": "Weekly Team Meeting",
+            "from": "michael.johnson@elexionauto.com",
+            "from_name": "Michael Johnson",
+            "to": [
+                "olivia.martinez@elexionauto.com",
+                "sarah.williams@elexionauto.com",
+                "james.brown@elexionauto.com"
+            ],
+            "cc": [],
+            "date": "2022-06-09 11:30:00",
+            "body": "Hello Team,\n\nOur weekly meeting is scheduled for tomorrow at 2pm. Please prepare your updates and bring any issues or concerns you have.\n\nBest,\nMichael",
+            "folder": "inbox",
+            "read": false,
+            "attachments": [],
+            "tag": "distractor"
+        },
+        {
+            "type": "email",
+            "id": "email_003",
+            "subject": "Customer Feedback Summary",
+            "from": "sarah.williams@elexionauto.com",
+            "from_name": "Sarah Williams",
+            "to": [
+                "olivia.martinez@elexionauto.com",
+                "michael.johnson@elexionauto.com"
+            ],
+            "cc": [
+                "linda.davis@elexionauto.com"
+            ],
+            "date": "2022-06-09 13:15:00",
+            "body": "Hello Olivia and Michael,\n\nPlease find attached the summary of recent customer feedback. It seems we are doing well on the sustainability front but need to improve user-centric technology.\n\nBest,\nSarah",
+            "folder": "inbox",
+            "read": false,
+            "attachments": [
+                "Customer_Feedback_Summary.pdf"
+            ],
+            "tag": "distractor"
+        },
+        {
+            "type": "email",
+            "id": "email_004",
+            "subject": "Policy Update: Asset Disposal",
+            "from": "linda.davis@elexionauto.com",
+            "from_name": "Linda Davis",
+            "to": [
+                "olivia.martinez@elexionauto.com"
+            ],
+            "cc": [
+                "robert.miller@elexionauto.com"
+            ],
+            "date": "2022-06-09 15:00:00",
+            "body": "Dear Olivia,\n\nWe have updated our asset disposal policy to better align with the latest industry standards. Please find the updated policy attached. Let me know if you have any questions.\n\nBest,\nLinda",
+            "folder": "inbox",
+            "read": false,
+            "attachments": [
+                "Asset_Disposal_Policy.pdf"
+            ],
+            "tag": "distractor"
+        },
+        {
+            "type": "email",
+            "id": "email_005",
+            "subject": "Invitation: Industry Event - Electric Vehicles Summit",
+            "from": "mary.jones@elexionauto.com",
+            "from_name": "Mary Jones",
+            "to": [
+                "olivia.martinez@elexionauto.com",
+                "michael.johnson@elexionauto.com",
+                "sarah.williams@elexionauto.com",
+                "james.brown@elexionauto.com"
+            ],
+            "cc": [
+                "linda.davis@elexionauto.com"
+            ],
+            "date": "2022-06-09 16:30:00",
+            "body": "Dear Team,\n\nYou are all invited to the upcoming Electric Vehicles Summit. This will be a great opportunity to learn about the latest trends and network with industry leaders. Please check your schedule and let me know if you can attend.\n\nBest,\nMary",
+            "folder": "inbox",
+            "read": false,
+            "attachments": [],
+            "tag": "distractor"
+        },
+        {
+            "type": "email",
+            "id": "email_001",
+            "subject": "ISO 9001:2015 Recertification and Data-Driven Maintenance",
+            "from": "michael.johnson@elexionauto.com",
+            "from_name": "Michael Johnson",
+            "to": [
+                "olivia.martinez@elexionauto.com"
+            ],
+            "cc": [
+                "robert.miller@elexionauto.com",
+                "mary.jones@elexionauto.com",
+                "william.garcia@elexionauto.com"
+            ],
+            "date": "2024-09-02 09:30:00",
+            "body": "Dear Olivia,\n\nI am pleased to announce that Elexion Automotive has successfully renewed its ISO 9001:2015 certification on September 1, 2024. This accomplishment reflects our commitment to maintaining high-quality standards in our operations.\n\nIn line with this, I believe it's crucial to continue our exploration of predictive maintenance using real-time data from IoT sensors and digital twins. The ISO certification aligns with this initiative as it emphasizes the importance of utilizing data for continuous improvement.\n\nLet's discuss further on how we can enhance our maintenance strategy. Your insights as an Asset Lifecycle Manager will be valuable in this endeavor.\n\nBest,\nMichael",
+            "folder": "inbox",
+            "read": true,
+            "attachments": [],
+            "tag": "insight"
+        },
+        {
+            "type": "email",
+            "id": "email_002",
+            "subject": "RE: ISO 9001:2015 Recertification and Data-Driven Maintenance",
+            "from": "olivia.martinez@elexionauto.com",
+            "from_name": "Olivia Martinez",
+            "to": [
+                "michael.johnson@elexionauto.com"
+            ],
+            "cc": [
+                "robert.miller@elexionauto.com",
+                "mary.jones@elexionauto.com",
+                "william.garcia@elexionauto.com"
+            ],
+            "date": "2024-09-02 11:15:00",
+            "body": "Hi Michael,\n\nCongratulations on the successful recertification! That's great news.\n\nI completely agree with your points on predictive maintenance. With the combined use of real-time IoT data and digital twins, we can simulate potential issues and proactively address them before they impact our production lines.\n\nI'll prepare a detailed plan on how we can integrate these technologies into our existing asset lifecycle management processes.\n\nThanks,\nOlivia",
+            "folder": "sent",
+            "read": true,
+            "attachments": [],
+            "tag": "insight"
+        },
+        {
+            "type": "email",
+            "id": "email_003",
+            "subject": "RE: ISO 9001:2015 Recertification and Data-Driven Maintenance",
+            "from": "michael.johnson@elexionauto.com",
+            "from_name": "Michael Johnson",
+            "to": [
+                "olivia.martinez@elexionauto.com"
+            ],
+            "cc": [
+                "robert.miller@elexionauto.com",
+                "mary.jones@elexionauto.com",
+                "william.garcia@elexionauto.com"
+            ],
+            "date": "2024-09-02 13:00:00",
+            "body": "Olivia,\n\nThank you for your support. I look forward to reviewing your plan on integrating IoT and digital twins into our asset lifecycle management. I believe this will greatly enhance our predictive maintenance and minimize production line downtime, which is critical to our goals.\n\nKeep up the excellent work!\n\nBest,\nMichael",
+            "folder": "sent",
+            "read": true,
+            "attachments": [],
+            "tag": "insight"
+        }
+    ],
+    "file_format": "jsonl",
+    "file_path": ".llm_responses/generated_email_document.jsonl",
+    "qa_type": "distractor",
+    "timestamp": "2025-11-20 03:34",
+    "app": "email"
+}

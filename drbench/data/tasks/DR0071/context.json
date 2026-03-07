@@ -1,0 +1,57 @@
+{
+    "company_info": {
+        "name": "Elexion Automotive",
+        "industry": "Automotive -- Electric Vehicles",
+        "size": "Enterprise",
+        "founded_year": 2010,
+        "headquarters": "Austin, Texas, USA",
+        "description": "Elexion Automotive designs and manufactures premium and mid-range electric vehicles tailored for the North American market. With a focus on sustainability, user-centric technology, and cross-border compliance, Elexion aims to accelerate the transition to zero-emission transportation.",
+        "key_products_services": [
+            "Electric vehicles",
+            "Plug-in hybrid electric vehicles",
+            "Home charging stations"
+        ],
+        "target_markets": [
+            "Mid-income families in North America",
+            "Provincial and municipal governments"
+        ],
+        "annual_revenue": "$350M - $500M",
+        "employee_count": 1900,
+        "compliance_certifications": [
+            "EPA Greenhouse Gas Emissions Compliance",
+            "Motor Vehicle Safety Oversight Program",
+            "CARB Zero-Emission Vehicle (ZEV) Program",
+            "ISO 26262 – Road Vehicles Functional Safety"
+        ],
+        "market_position": "Elexion is an emerging force in the North American EV market, offering affordable and high-performance electric vehicles with regulatory-first design and localized production."
+    },
+    "persona": {
+        "role": "Cybersecurity Specialist",
+        "department": "Information Technology",
+        "name": "Ethan Thompson",
+        "first_name": "Ethan",
+        "last_name": "Thompson",
+        "email": "ethan.thompson@elexionautomotive.com",
+        "seniority": "Mid",
+        "responsibilities": "Responsible for implementing and maintaining cybersecurity measures to protect the company's data and systems, conducting penetration testing and vulnerability assessments, and staying up-to-date with emerging threats and technologies.",
+        "id": "EMP0004",
+        "domain": "cybersecurity",
+        "justification": "As a leading manufacturer of electric vehicles, Elexion Automotive relies heavily on complex software and connectivity systems, making cybersecurity a critical aspect of the business to protect customer data, prevent hacking, and maintain the integrity of vehicle systems.",
+        "username": "ethan.thompson"
+    },
+    "url": {
+        "url": "https://www.helpnetsecurity.com/2025/04/04/cybersecurity-risks-cars/",
+        "domain": "Cybersecurity",
+        "industry": "automotive -- electric vehicles",
+        "example_dr_questions": [
+            "How much has data leakage cost the automotive industry as of the end of 2024, and what percentage does that data leakage make up of the total cyberattack expenditure for the automotive industry in 2024?",
+            "Roughly what percentage of cyberattack costs should Elexion Automotive's cybersecurity team be prepared to allocate toward system downtime by Q4 2025?"
+        ],
+        "insights": [
+            "As referenced within the Help Net Security article, it was reported that, in 2024, the automotive industry was dealt $22.5 billion in cyberattack costs. Of that $22.5 billion, data leakage accounted for $20 billion, which is a staggeringly high percentage of the total cost at 89%.",
+            "According to the Help Net Security article, system downtime costs equated to $1.9 billion of the total $22.5 billion in cyberattacks faced by the automotive industry in 2024. That's about 8.4% of the total cost of cyberattacks experienced by the automotive industry in 2024. Extrapolating that figure out to the end of 2025, the cybersecurity team at Elexion Automotive should be prepared to spend roughly just under 10% of their total yearly budget allocated for cyberattacks on system downtime alone."
+        ],
+        "date": "2025-11-20"
+    },
+    "timestamp": "2025-10-30 00:00"
+}

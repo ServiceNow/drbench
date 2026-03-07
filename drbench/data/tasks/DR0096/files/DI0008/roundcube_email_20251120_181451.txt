@@ -1,0 +1,172 @@
+================================================================================
+ROUNDCUBE EMAIL EXPORT
+================================================================================
+
+USERS:
+----------------------------------------
+• maria.gonzalez
+  Name: Maria Gonzalez
+  Email: maria.gonzalez@leesmarket.com
+
+• john.doe
+  Name: John Doe
+  Email: john.doe@leesmarket.com
+
+• jane.doe
+  Name: Jane Doe
+  Email: jane.doe@leesmarket.com
+
+• jim.brown
+  Name: Jim Brown
+  Email: jim.brown@leesmarket.com
+
+• sarah.jones
+  Name: Sarah Jones
+  Email: sarah.jones@leesmarket.com
+
+• paul.miller
+  Name: Paul Miller
+  Email: paul.miller@leesmarket.com
+
+• linda.johnson
+  Name: Linda Johnson
+  Email: linda.johnson@leesmarket.com
+
+• david.wilson
+  Name: David Wilson
+  Email: david.wilson@leesmarket.com
+
+EMAILS:
+================================================================================
+Email ID: email_001
+Date: 2025-05-05 08:00:00
+From: Maria Gonzalez <maria.gonzalez@leesmarket.com>
+To: john.doe@leesmarket.com, jane.doe@leesmarket.com, jim.brown@leesmarket.com, sarah.jones@leesmarket.com
+CC: paul.miller@leesmarket.com
+Subject: Team Meeting for Next Week
+Folder: inbox | Status: Read
+
+Message Body:
+----------------------------------------
+Good morning team, just a reminder that our team meeting is scheduled for next Tuesday at 10am. The agenda will cover current sales performance, team updates, and next quarter's goals. Looking forward to seeing you all there.
+============================================================
+
+Email ID: email_002
+Date: 2025-05-07 14:30:00
+From: Jane Doe <jane.doe@leesmarket.com>
+To: maria.gonzalez@leesmarket.com
+Subject: Customer Satisfaction Survey Update
+Folder: inbox | Status: Read
+
+Message Body:
+----------------------------------------
+Hello Maria, our latest customer satisfaction survey results are in. We're seeing an overall satisfaction rate of 85%. We'll go over the details in our next meeting.
+============================================================
+
+Email ID: email_003
+Date: 2025-05-10 09:15:00
+From: Linda Johnson <linda.johnson@leesmarket.com>
+To: maria.gonzalez@leesmarket.com, john.doe@leesmarket.com, jane.doe@leesmarket.com, jim.brown@leesmarket.com, sarah.jones@leesmarket.com, paul.miller@leesmarket.com, david.wilson@leesmarket.com
+Subject: Updated Employee Handbook
+Folder: inbox | Status: Read
+
+Message Body:
+----------------------------------------
+Hello everyone, the updated Employee Handbook is now available on our intranet. Please take some time to read through the new policies and procedures. If you have any questions, feel free to reach out to me.
+============================================================
+
+Email ID: email_004
+Date: 2025-05-12 12:00:00
+From: Sarah Jones <sarah.jones@leesmarket.com>
+To: maria.gonzalez@leesmarket.com, john.doe@leesmarket.com, jane.doe@leesmarket.com, jim.brown@leesmarket.com, paul.miller@leesmarket.com, linda.johnson@leesmarket.com, david.wilson@leesmarket.com
+Subject: Annual Company Picnic
+Folder: inbox | Status: Read
+
+Message Body:
+----------------------------------------
+Dear all, just a reminder that our annual company picnic is coming up next month. More details will be sent out soon. Looking forward to seeing you all there!
+============================================================
+
+Email ID: email_005
+Date: 2025-05-14 16:00:00
+From: David Wilson <david.wilson@leesmarket.com>
+To: maria.gonzalez@leesmarket.com
+CC: paul.miller@leesmarket.com
+Subject: New POS System Implementation
+Folder: inbox | Status: Read
+
+Message Body:
+----------------------------------------
+Hi Maria, just wanted to inform you that we'll be implementing a new POS system next month. Training sessions will be scheduled soon. I'll keep you posted on the progress.
+============================================================
+
+Email ID: email_001
+Date: 2025-10-20 09:30:00
+From: John Doe <john.doe@leesmarket.com>
+To: maria.gonzalez@leesmarket.com
+CC: jane.doe@leesmarket.com, jim.brown@leesmarket.com
+Subject: In-store Bakery Sales Optimization Discussion
+Folder: inbox | Status: Read
+
+Message Body:
+----------------------------------------
+Hi Maria,
+
+I hope this message finds you well. We are currently brainstorming ideas on how to optimize our in-store layouts and product displays across our U.S. locations to increase bakery sales. 
+
+Given your expertise and experience with our sales department, I thought you might have some valuable insights to share with us. Any input would be greatly appreciated.
+
+Looking forward to hearing from you soon.
+
+Best Regards,
+John Doe
+Head of Retail Operations
+============================================================
+
+Email ID: email_002
+Date: 2025-10-21 14:45:00
+From: Maria Gonzalez <maria.gonzalez@leesmarket.com>
+To: john.doe@leesmarket.com
+CC: jane.doe@leesmarket.com, jim.brown@leesmarket.com
+Subject: Re: In-store Bakery Sales Optimization Discussion
+Folder: inbox | Status: Read
+
+Message Body:
+----------------------------------------
+Hi John,
+
+Thank you for reaching out. I have a few ideas in mind. For instance, we can try placing bakery products in more visible areas of the store, such as near the entrance or checkout lanes. This strategy is often effective in increasing impulse purchases.
+
+Moreover, I believe we can leverage our logistics capabilities to ensure fresh bakery goods are always available. As of Q3 2025, our truck fleet size in the state of Washington is around 24 trucks. This gives us the capacity to maintain a steady supply of fresh bakery goods from our central bakery to all our stores in the state.
+
+Let me know if these suggestions align with your strategy.
+
+Best,
+Maria Gonzalez
+Department Sales Supervisor
+============================================================
+
+Email ID: email_003
+Date: 2025-10-22 10:15:00
+From: John Doe <john.doe@leesmarket.com>
+To: maria.gonzalez@leesmarket.com
+CC: jane.doe@leesmarket.com, jim.brown@leesmarket.com
+Subject: Re: In-store Bakery Sales Optimization Discussion
+Folder: inbox | Status: Read
+
+Message Body:
+----------------------------------------
+Hi Maria,
+
+Thank you for your valuable suggestions. Your idea about leveraging our logistics capabilities to ensure a steady supply of fresh bakery goods is excellent. I believe this will indeed help us increase our bakery sales.
+
+We will further discuss this in our next strategy meeting. I'll keep you updated.
+
+Best Regards,
+John Doe
+Head of Retail Operations
+============================================================
+
+================================================================================
+END OF EMAIL EXPORT
+================================================================================

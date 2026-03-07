@@ -1,0 +1,183 @@
+{
+    "file_name": "roundcube_email_20251120_144149",
+    "content": "{\"type\": \"user\", \"username\": \"amanda.foster\", \"first_name\": \"Amanda\", \"last_name\": \"Foster\", \"email\": \"amanda.foster@elexionautomotive.com\", \"password\": \"secure_pwd123\"}\n{\"type\": \"user\", \"username\": \"john.doe\", \"first_name\": \"John\", \"last_name\": \"Doe\", \"email\": \"john.doe@elexionautomotive.com\", \"password\": \"secure_pwd456\"}\n{\"type\": \"user\", \"username\": \"mary.johnson\", \"first_name\": \"Mary\", \"last_name\": \"Johnson\", \"email\": \"mary.johnson@elexionautomotive.com\", \"password\": \"secure_pwd789\"}\n{\"type\": \"user\", \"username\": \"robert.brown\", \"first_name\": \"Robert\", \"last_name\": \"Brown\", \"email\": \"robert.brown@elexionautomotive.com\", \"password\": \"secure_pwd321\"}\n{\"type\": \"user\", \"username\": \"susan.davis\", \"first_name\": \"Susan\", \"last_name\": \"Davis\", \"email\": \"susan.davis@elexionautomotive.com\", \"password\": \"secure_pwd654\"}\n{\"type\": \"user\", \"username\": \"james.miller\", \"first_name\": \"James\", \"last_name\": \"Miller\", \"email\": \"james.miller@elexionautomotive.com\", \"password\": \"secure_pwd987\"}\n{\"type\": \"email\", \"id\": \"email_001\", \"subject\": \"Weekly QA Team Meeting Reminder\", \"from\": \"amanda.foster@elexionautomotive.com\", \"from_name\": \"Amanda Foster\", \"to\": [\"john.doe@elexionautomotive.com\", \"mary.johnson@elexionautomotive.com\", \"robert.brown@elexionautomotive.com\"], \"cc\": [\"susan.davis@elexionautomotive.com\", \"james.miller@elexionautomotive.com\"], \"date\": \"2023-06-18 09:30:00\", \"body\": \"Dear Team,\\n\\nThis is a reminder of our weekly QA team meeting scheduled for tomorrow at 10:00 AM in the conference room.\\n\\nThe meeting will focus on the current status of ongoing projects, upcoming tasks, and any issues or roadblocks that might have arisen.\\n\\nPlease prepare your updates and issues for discussion. Looking forward to seeing you all there.\\n\\nBest,\\nAmanda\", \"folder\": \"sent\", \"read\": true, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_002\", \"subject\": \"Re: Annual Budget Planning Meeting\", \"from\": \"john.doe@elexionautomotive.com\", \"from_name\": \"John Doe\", \"to\": [\"amanda.foster@elexionautomotive.com\"], \"cc\": [\"susan.davis@elexionautomotive.com\"], \"date\": \"2023-06-19 11:45:00\", \"body\": \"Hi Amanda,\\n\\nThank you for your email. I've noted the date and time for the budget planning meeting.\\n\\nI\\u2019ll prepare the current expenses report and projections for the next fiscal year to help us make informed decisions.\\n\\nBest,\\nJohn\", \"folder\": \"sent\", \"read\": true, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_003\", \"subject\": \"New Office Security Measures\", \"from\": \"susan.davis@elexionautomotive.com\", \"from_name\": \"Susan Davis\", \"to\": [\"amanda.foster@elexionautomotive.com\", \"john.doe@elexionautomotive.com\", \"mary.johnson@elexionautomotive.com\", \"robert.brown@elexionautomotive.com\", \"james.miller@elexionautomotive.com\"], \"cc\": [], \"date\": \"2023-06-19 14:15:00\", \"body\": \"Dear Team,\\n\\nPlease be aware that new security measures will be implemented at our office from next week. All employees will be required to use their ID badges to access the building.\\n\\nThis is part of our ongoing efforts to ensure the safety and security of our staff and assets. Your cooperation is greatly appreciated.\\n\\nBest,\\nSusan\", \"folder\": \"sent\", \"read\": true, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_001\", \"subject\": \"Enhancing Cold-Weather Testing Protocols for Canada's ZEV Market\", \"from\": \"amanda.foster@elexionautomotive.com\", \"from_name\": \"Amanda Foster\", \"to\": [\"john.doe@elexionautomotive.com\"], \"cc\": [\"mary.johnson@elexionautomotive.com\", \"robert.brown@elexionautomotive.com\"], \"date\": \"2026-06-01 09:00:00\", \"body\": \"Hi John,\\n\\nAs we look to improve our EV battery endurance and reliability in Canada's key ZEV markets, I believe we need to revisit our battery pack testing protocols. Specifically, I'm interested in the extent to which our manufacturing plants isolate EV battery pack tests from HVAC or cabin heating simulations. I suspect this isolation could be underestimating real-world thermal load transitions. Could you provide some data on this?\\n\\nBest,\\nAmanda\", \"folder\": \"sent\", \"read\": true, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_002\", \"subject\": \"Re: Enhancing Cold-Weather Testing Protocols for Canada's ZEV Market\", \"from\": \"john.doe@elexionautomotive.com\", \"from_name\": \"John Doe\", \"to\": [\"amanda.foster@elexionautomotive.com\"], \"cc\": [\"mary.johnson@elexionautomotive.com\", \"robert.brown@elexionautomotive.com\"], \"date\": \"2026-06-02 09:30:00\", \"body\": \"Hi Amanda,\\n\\nThank you for bringing this to our attention. After reviewing the data, it appears that about 70% of our manufacturing plants isolate EV battery pack tests from HVAC or cabin heating simulations. I agree that this practice could potentially lead to inaccurate assessments of battery endurance and performance in cold weather conditions. We should definitely consider revising our testing protocols to address this issue.\\n\\nBest,\\nJohn\", \"folder\": \"inbox\", \"read\": true, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_003\", \"subject\": \"Re: Enhancing Cold-Weather Testing Protocols for Canada's ZEV Market\", \"from\": \"amanda.foster@elexionautomotive.com\", \"from_name\": \"Amanda Foster\", \"to\": [\"john.doe@elexionautomotive.com\"], \"cc\": [\"mary.johnson@elexionautomotive.com\", \"robert.brown@elexionautomotive.com\"], \"date\": \"2026-06-02 10:00:00\", \"body\": \"Hi John,\\n\\nThank you for the quick response. The fact that 70% of our plants are isolating these tests just underlines the importance of revising our protocols. Let's work together to implement changes that will ensure our EVs perform optimally in Canada's cold weather conditions.\\n\\nBest,\\nAmanda\", \"folder\": \"sent\", \"read\": true, \"attachments\": []}",
+    "email_setup": [
+        {
+            "type": "user",
+            "username": "amanda.foster",
+            "first_name": "Amanda",
+            "last_name": "Foster",
+            "email": "amanda.foster@elexionautomotive.com",
+            "password": "secure_pwd123"
+        },
+        {
+            "type": "user",
+            "username": "john.doe",
+            "first_name": "John",
+            "last_name": "Doe",
+            "email": "john.doe@elexionautomotive.com",
+            "password": "secure_pwd456"
+        },
+        {
+            "type": "user",
+            "username": "mary.johnson",
+            "first_name": "Mary",
+            "last_name": "Johnson",
+            "email": "mary.johnson@elexionautomotive.com",
+            "password": "secure_pwd789"
+        },
+        {
+            "type": "user",
+            "username": "robert.brown",
+            "first_name": "Robert",
+            "last_name": "Brown",
+            "email": "robert.brown@elexionautomotive.com",
+            "password": "secure_pwd321"
+        },
+        {
+            "type": "user",
+            "username": "susan.davis",
+            "first_name": "Susan",
+            "last_name": "Davis",
+            "email": "susan.davis@elexionautomotive.com",
+            "password": "secure_pwd654"
+        },
+        {
+            "type": "user",
+            "username": "james.miller",
+            "first_name": "James",
+            "last_name": "Miller",
+            "email": "james.miller@elexionautomotive.com",
+            "password": "secure_pwd987"
+        }
+    ],
+    "email_messages": [
+        {
+            "type": "email",
+            "id": "email_001",
+            "subject": "Weekly QA Team Meeting Reminder",
+            "from": "amanda.foster@elexionautomotive.com",
+            "from_name": "Amanda Foster",
+            "to": [
+                "john.doe@elexionautomotive.com",
+                "mary.johnson@elexionautomotive.com",
+                "robert.brown@elexionautomotive.com"
+            ],
+            "cc": [
+                "susan.davis@elexionautomotive.com",
+                "james.miller@elexionautomotive.com"
+            ],
+            "date": "2023-06-18 09:30:00",
+            "body": "Dear Team,\n\nThis is a reminder of our weekly QA team meeting scheduled for tomorrow at 10:00 AM in the conference room.\n\nThe meeting will focus on the current status of ongoing projects, upcoming tasks, and any issues or roadblocks that might have arisen.\n\nPlease prepare your updates and issues for discussion. Looking forward to seeing you all there.\n\nBest,\nAmanda",
+            "folder": "sent",
+            "read": true,
+            "attachments": [],
+            "tag": "distractor"
+        },
+        {
+            "type": "email",
+            "id": "email_002",
+            "subject": "Re: Annual Budget Planning Meeting",
+            "from": "john.doe@elexionautomotive.com",
+            "from_name": "John Doe",
+            "to": [
+                "amanda.foster@elexionautomotive.com"
+            ],
+            "cc": [
+                "susan.davis@elexionautomotive.com"
+            ],
+            "date": "2023-06-19 11:45:00",
+            "body": "Hi Amanda,\n\nThank you for your email. I've noted the date and time for the budget planning meeting.\n\nI\u2019ll prepare the current expenses report and projections for the next fiscal year to help us make informed decisions.\n\nBest,\nJohn",
+            "folder": "sent",
+            "read": true,
+            "attachments": [],
+            "tag": "distractor"
+        },
+        {
+            "type": "email",
+            "id": "email_003",
+            "subject": "New Office Security Measures",
+            "from": "susan.davis@elexionautomotive.com",
+            "from_name": "Susan Davis",
+            "to": [
+                "amanda.foster@elexionautomotive.com",
+                "john.doe@elexionautomotive.com",
+                "mary.johnson@elexionautomotive.com",
+                "robert.brown@elexionautomotive.com",
+                "james.miller@elexionautomotive.com"
+            ],
+            "cc": [],
+            "date": "2023-06-19 14:15:00",
+            "body": "Dear Team,\n\nPlease be aware that new security measures will be implemented at our office from next week. All employees will be required to use their ID badges to access the building.\n\nThis is part of our ongoing efforts to ensure the safety and security of our staff and assets. Your cooperation is greatly appreciated.\n\nBest,\nSusan",
+            "folder": "sent",
+            "read": true,
+            "attachments": [],
+            "tag": "distractor"
+        },
+        {
+            "type": "email",
+            "id": "email_001",
+            "subject": "Enhancing Cold-Weather Testing Protocols for Canada's ZEV Market",
+            "from": "amanda.foster@elexionautomotive.com",
+            "from_name": "Amanda Foster",
+            "to": [
+                "john.doe@elexionautomotive.com"
+            ],
+            "cc": [
+                "mary.johnson@elexionautomotive.com",
+                "robert.brown@elexionautomotive.com"
+            ],
+            "date": "2026-06-01 09:00:00",
+            "body": "Hi John,\n\nAs we look to improve our EV battery endurance and reliability in Canada's key ZEV markets, I believe we need to revisit our battery pack testing protocols. Specifically, I'm interested in the extent to which our manufacturing plants isolate EV battery pack tests from HVAC or cabin heating simulations. I suspect this isolation could be underestimating real-world thermal load transitions. Could you provide some data on this?\n\nBest,\nAmanda",
+            "folder": "sent",
+            "read": true,
+            "attachments": [],
+            "tag": "insight"
+        },
+        {
+            "type": "email",
+            "id": "email_002",
+            "subject": "Re: Enhancing Cold-Weather Testing Protocols for Canada's ZEV Market",
+            "from": "john.doe@elexionautomotive.com",
+            "from_name": "John Doe",
+            "to": [
+                "amanda.foster@elexionautomotive.com"
+            ],
+            "cc": [
+                "mary.johnson@elexionautomotive.com",
+                "robert.brown@elexionautomotive.com"
+            ],
+            "date": "2026-06-02 09:30:00",
+            "body": "Hi Amanda,\n\nThank you for bringing this to our attention. After reviewing the data, it appears that about 70% of our manufacturing plants isolate EV battery pack tests from HVAC or cabin heating simulations. I agree that this practice could potentially lead to inaccurate assessments of battery endurance and performance in cold weather conditions. We should definitely consider revising our testing protocols to address this issue.\n\nBest,\nJohn",
+            "folder": "inbox",
+            "read": true,
+            "attachments": [],
+            "tag": "insight"
+        },
+        {
+            "type": "email",
+            "id": "email_003",
+            "subject": "Re: Enhancing Cold-Weather Testing Protocols for Canada's ZEV Market",
+            "from": "amanda.foster@elexionautomotive.com",
+            "from_name": "Amanda Foster",
+            "to": [
+                "john.doe@elexionautomotive.com"
+            ],
+            "cc": [
+                "mary.johnson@elexionautomotive.com",
+                "robert.brown@elexionautomotive.com"
+            ],
+            "date": "2026-06-02 10:00:00",
+            "body": "Hi John,\n\nThank you for the quick response. The fact that 70% of our plants are isolating these tests just underlines the importance of revising our protocols. Let's work together to implement changes that will ensure our EVs perform optimally in Canada's cold weather conditions.\n\nBest,\nAmanda",
+            "folder": "sent",
+            "read": true,
+            "attachments": [],
+            "tag": "insight"
+        }
+    ],
+    "file_format": "jsonl",
+    "file_path": ".llm_responses/generated_email_document.jsonl",
+    "qa_type": "insight",
+    "timestamp": "2025-11-20 15:41",
+    "app": "email"
+}

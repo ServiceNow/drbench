@@ -1,0 +1,142 @@
+================================================================================
+ROUNDCUBE EMAIL EXPORT
+================================================================================
+
+USERS:
+----------------------------------------
+• amanda.lee
+  Name: Amanda Lee
+  Email: amanda.lee@elexionautomotive.com
+
+• john.baker
+  Name: John Baker
+  Email: john.baker@elexionautomotive.com
+
+• sarah.carter
+  Name: Sarah Carter
+  Email: sarah.carter@elexionautomotive.com
+
+• michael.jones
+  Name: Michael Jones
+  Email: michael.jones@elexionautomotive.com
+
+• laura.green
+  Name: Laura Green
+  Email: laura.green@elexionautomotive.com
+
+• david.adams
+  Name: David Adams
+  Email: david.adams@elexionautomotive.com
+
+EMAILS:
+================================================================================
+Email ID: email_001
+Date: 2022-06-15 09:30:00
+From: Amanda Lee <amanda.lee@elexionautomotive.com>
+To: john.baker@elexionautomotive.com, sarah.carter@elexionautomotive.com, michael.jones@elexionautomotive.com
+CC: laura.green@elexionautomotive.com
+Subject: Weekly Sales Team Meeting
+Folder: inbox | Status: Read
+
+Message Body:
+----------------------------------------
+Hello all,
+
+Please be reminded that our weekly sales team meeting is scheduled for this Friday at 10 am. The agenda includes updates on ongoing projects and discussion of sales tactics for the upcoming quarter.
+
+Best,
+Amanda
+============================================================
+
+Email ID: email_002
+Date: 2022-06-15 10:45:00
+From: John Baker <john.baker@elexionautomotive.com>
+To: amanda.lee@elexionautomotive.com
+Subject: RE: Weekly Sales Team Meeting
+Folder: inbox | Status: Read
+
+Message Body:
+----------------------------------------
+Hi Amanda,
+
+Thanks for the reminder. I have a conflict with another meeting at that time. Can we reschedule to 11 am?
+
+Best,
+John
+============================================================
+
+Email ID: email_003
+Date: 2022-06-15 11:30:00
+From: Amanda Lee <amanda.lee@elexionautomotive.com>
+To: john.baker@elexionautomotive.com, sarah.carter@elexionautomotive.com, michael.jones@elexionautomotive.com
+CC: laura.green@elexionautomotive.com
+Subject: RE: Weekly Sales Team Meeting
+Folder: inbox | Status: Read
+
+Message Body:
+----------------------------------------
+Hello team,
+
+John has requested that we move our meeting to 11 am on Friday. Please let me know if this new time works for everyone.
+
+Best,
+Amanda
+============================================================
+
+Email ID: email_001
+Date: 2024-09-10 10:00:00
+From: Amanda Lee <amanda.lee@elexionautomotive.com>
+To: john.baker@elexionautomotive.com
+CC: sarah.carter@elexionautomotive.com, michael.jones@elexionautomotive.com
+Subject: CRM Update: Commission Tracking System
+Folder: sent | Status: Read
+
+Message Body:
+----------------------------------------
+Hi John,
+
+I'm pleased to announce that we have successfully set up a CRM-based commission tracking system. This system will calculate commission payouts for our sales representatives based on conversion and lead contact rates. I believe this will not only motivate our team but also help us identify patterns that drive sales.
+
+Best,
+Amanda
+============================================================
+
+Email ID: email_002
+Date: 2024-09-10 11:30:00
+From: John Baker <john.baker@elexionautomotive.com>
+To: amanda.lee@elexionautomotive.com
+CC: sarah.carter@elexionautomotive.com, michael.jones@elexionautomotive.com
+Subject: Re: CRM Update: Commission Tracking System
+Folder: inbox | Status: Read
+
+Message Body:
+----------------------------------------
+Hi Amanda,
+
+That's excellent news. This initiative should provide us with valuable data on sales patterns. I'm excited to see how this will impact our sales performance in the coming months. Thanks for the update.
+
+Best,
+John
+============================================================
+
+Email ID: email_003
+Date: 2024-09-10 12:00:00
+From: Sarah Carter <sarah.carter@elexionautomotive.com>
+To: amanda.lee@elexionautomotive.com, john.baker@elexionautomotive.com
+CC: michael.jones@elexionautomotive.com
+Subject: Re: CRM Update: Commission Tracking System
+Folder: inbox | Status: Read
+
+Message Body:
+----------------------------------------
+Hi Amanda and John,
+
+This is indeed a great move. Analyzing the data generated from this tracking system will help us further understand customer behavior and drive strategic decisions. Looking forward to the results. 
+
+Best,
+Sarah
+============================================================
+
+================================================================================
+END OF EMAIL EXPORT
+================================================================================

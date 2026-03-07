@@ -1,0 +1,187 @@
+================================================================================
+ROUNDCUBE EMAIL EXPORT
+================================================================================
+
+USERS:
+----------------------------------------
+• brian.smith
+  Name: Brian Smith
+  Email: brian.smith@mediconn.ca
+
+• jennifer.jones
+  Name: Jennifer Jones
+  Email: jennifer.jones@mediconn.ca
+
+• michael.brown
+  Name: Michael Brown
+  Email: michael.brown@mediconn.ca
+
+• emily.williams
+  Name: Emily Williams
+  Email: emily.williams@mediconn.ca
+
+• sarah.johnson
+  Name: Sarah Johnson
+  Email: sarah.johnson@mediconn.ca
+
+• james.miller
+  Name: James Miller
+  Email: james.miller@mediconn.ca
+
+• linda.wilson
+  Name: Linda Wilson
+  Email: linda.wilson@mediconn.ca
+
+• robert.moore
+  Name: Robert Moore
+  Email: robert.moore@mediconn.ca
+
+EMAILS:
+================================================================================
+Email ID: email_001
+Date: 2024-06-20 10:30:00
+From: Brian Smith <brian.smith@mediconn.ca>
+To: michael.brown@mediconn.ca, jennifer.jones@mediconn.ca
+CC: emily.williams@mediconn.ca, sarah.johnson@mediconn.ca, james.miller@mediconn.ca, linda.wilson@mediconn.ca, robert.moore@mediconn.ca
+Subject: Proposed Security Walkthrough Schedule for Q3
+Folder: sent | Status: Read
+Attachments: 1 file(s)
+
+Message Body:
+----------------------------------------
+Dear Team,
+
+As part of our ongoing efforts to strengthen our security posture, I propose conducting two internal walkthroughs of our platform architecture in Q3. These sessions will provide an opportunity to review pre-release code changes and ensure secure coding practices. I believe these sessions will be beneficial in knowledge sharing and enhancing our collective understanding of our systems.
+
+Please find attached the proposed dates and times.
+
+Best,
+Brian
+============================================================
+
+Email ID: email_002
+Date: 2024-06-25 09:15:00
+From: Michael Brown <michael.brown@mediconn.ca>
+To: brian.smith@mediconn.ca
+CC: jennifer.jones@mediconn.ca, emily.williams@mediconn.ca, sarah.johnson@mediconn.ca, james.miller@mediconn.ca, linda.wilson@mediconn.ca, robert.moore@mediconn.ca
+Subject: Re: Proposed Security Walkthrough Schedule for Q3
+Folder: inbox | Status: Read
+
+Message Body:
+----------------------------------------
+Brian,
+
+I've reviewed the proposed schedule and it works for the development team. We appreciate the effort in ensuring our coding practices are secure and look forward to learning more about our system architecture.
+
+Thanks,
+Michael
+============================================================
+
+Email ID: email_003
+Date: 2024-09-30 16:00:00
+From: Brian Smith <brian.smith@mediconn.ca>
+To: michael.brown@mediconn.ca, jennifer.jones@mediconn.ca
+CC: emily.williams@mediconn.ca, sarah.johnson@mediconn.ca, james.miller@mediconn.ca, linda.wilson@mediconn.ca, robert.moore@mediconn.ca
+Subject: Q3 Security Walkthroughs Completed
+Folder: sent | Status: Read
+
+Message Body:
+----------------------------------------
+Dear Team,
+
+I'm pleased to report that the two planned security walkthroughs for this quarter have been completed successfully. These sessions provided valuable insight into our platform's architecture and allowed for a comprehensive review of pre-release code changes. I trust this has helped in understanding our security architecture and its importance in the context of cybersecurity threats.
+
+Best,
+Brian
+============================================================
+
+Email ID: email_001
+Date: 2026-07-12 09:30:00
+From: Brian Smith <brian.smith@mediconn.ca>
+To: jennifer.jones@mediconn.ca, michael.brown@mediconn.ca, emily.williams@mediconn.ca
+Subject: Weekly IT Operations Team Meeting
+Folder: sent | Status: Read
+
+Message Body:
+----------------------------------------
+Dear Team,
+
+Just a reminder about our weekly team meeting scheduled for this Friday at 2 PM. We will be discussing the ongoing projects and any operational issues.
+
+Best Regards,
+Brian
+============================================================
+
+Email ID: email_002
+Date: 2026-07-13 11:46:00
+From: Michael Brown <michael.brown@mediconn.ca>
+To: brian.smith@mediconn.ca
+Subject: Update on New Software Implementation
+Folder: inbox | Status: Read
+
+Message Body:
+----------------------------------------
+Hi Brian,
+
+Just wanted to give you an update on the new software implementation. All is going as per the schedule and we expect to go live by the end of this month.
+
+Best,
+Michael
+============================================================
+
+Email ID: email_003
+Date: 2026-07-14 15:21:00
+From: Jennifer Jones <jennifer.jones@mediconn.ca>
+To: brian.smith@mediconn.ca, michael.brown@mediconn.ca, emily.williams@mediconn.ca
+Subject: Invitation to the Annual HealthTech Conference
+Folder: inbox | Status: Read
+
+Message Body:
+----------------------------------------
+Hi Team,
+
+I just received an invitation for us to attend the Annual HealthTech Conference next month. It would be a great opportunity for us to network and learn about the latest trends in our industry.
+
+Best,
+Jennifer
+============================================================
+
+Email ID: email_004
+Date: 2026-07-15 12:30:00
+From: Emily Williams <emily.williams@mediconn.ca>
+To: brian.smith@mediconn.ca
+Subject: Annual Performance Review Schedule
+Folder: inbox | Status: Read
+
+Message Body:
+----------------------------------------
+Hi Brian,
+
+The schedule for the annual performance reviews has been finalized. Your review is set for next Tuesday at 10 AM.
+
+Best,
+Emily
+============================================================
+
+Email ID: email_005
+Date: 2026-07-16 10:50:00
+From: Sarah Johnson <sarah.johnson@mediconn.ca>
+To: brian.smith@mediconn.ca
+CC: jennifer.jones@mediconn.ca, michael.brown@mediconn.ca, emily.williams@mediconn.ca
+Subject: Customer Satisfaction Survey Results
+Folder: inbox | Status: Read
+Attachments: 1 file(s)
+
+Message Body:
+----------------------------------------
+Hi Brian,
+
+The results of our latest customer satisfaction survey are in. I am attaching the detailed report for your review.
+
+Best,
+Sarah
+============================================================
+
+================================================================================
+END OF EMAIL EXPORT
+================================================================================

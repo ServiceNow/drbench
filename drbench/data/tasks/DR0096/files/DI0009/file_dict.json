@@ -1,0 +1,82 @@
+{
+    "file_name": "north-carolina-expansion",
+    "file_title": "Lee's Market: North Carolina Expansion Analysis",
+    "introduction": "This presentation will focus on the expansion progress of Lee's Market in the North Carolina region. We will review the store presence, growth trends, and the competitive landscape to contextualize our performance.",
+    "subsections": [
+        {
+            "heading": "Lee's Market: Growth Trends in North America",
+            "content": "\u2022 Lee's Market expanded its operations to the United States in 2015\n\u2022 In the last decade, the company has recorded a 15% CAGR in North America\n\u2022 Expansion has been largely driven by our focus on organic and locally sourced products\n\u2022 As of Q3 2025, our presence spans across 15 states in the US\n\u2022 60% of our American stores are located in the East Coast\n\u2022 Our West Coast operations have registered the highest growth rate",
+            "type": "distractor",
+            "justification": "The slide provides general growth information about Lee's Market in North America but does not specify the number of stores in North Carolina."
+        },
+        {
+            "heading": "Store Presence in North Carolina: Q3 2025 Update",
+            "content": "\u2022 Our North Carolina operations are primarily located in urban areas\n\u2022 The average store size in North Carolina is 25,000 sq ft\n\u2022 We serve an average of 1,000 customers daily in each of our North Carolina stores\n\u2022 Our North Carolina stores focus heavily on fresh produce and baked goods\n\u2022 We have seen a 20% increase in sales from our North Carolina stores over the last year",
+            "type": "distractor",
+            "justification": "This slide gives details about the operations in North Carolina but does not mention the number of stores present."
+        },
+        {
+            "heading": "Competitive Retail Landscape in North Carolina",
+            "content": "\u2022 Major competitors in North Carolina include Walmart, Costco, and local grocery chains\n\u2022 Walmart holds the largest market share of 30% in North Carolina\n\u2022 Our unique focus on fresh, locally sourced goods differentiates us in the market\n\u2022 Recent surveys show Lee's Market as the preferred choice among health-conscious consumers\n\u2022 The overall retail market in North Carolina grew by 5% in Q3 2025",
+            "type": "distractor",
+            "justification": "This slide presents the competitive landscape in North Carolina, but it doesn't give any indication of Lee's Market's store count."
+        }
+    ],
+    "conclusion": "Our expansion in North Carolina demonstrates significant progress in our North America growth strategy. Moving forward, we need to consider market trends and competitor activities in our expansion plans.",
+    "file_format": "pptx",
+    "file_path": ".llm_responses/generated_pptx_presentation.pptx",
+    "qa_type": "distractor",
+    "timestamp": "2025-11-20 19:15",
+    "image_queries": [
+        {
+            "slide_title": "Introduction",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "intentionally_clean",
+            "slide_type": "introduction"
+        },
+        {
+            "slide_title": "Lee's Market: Growth Trends in North America",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "failed",
+            "slide_type": "distractor",
+            "content_length": 6,
+            "total_chars": 404,
+            "error": "'str' object has no attribute 'choices'",
+            "theme": "Forest Theme"
+        },
+        {
+            "slide_title": "Store Presence in North Carolina: Q3 2025 Update",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 5,
+            "total_chars": 361,
+            "probability": 0.25,
+            "theme": "Forest Theme"
+        },
+        {
+            "slide_title": "Competitive Retail Landscape in North Carolina",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 5,
+            "total_chars": 382,
+            "probability": 0.25,
+            "theme": "Forest Theme"
+        },
+        {
+            "slide_title": "Conclusion",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "conclusion_failed",
+            "slide_type": "conclusion",
+            "error": "'str' object has no attribute 'choices'",
+            "theme": "Forest Theme"
+        }
+    ],
+    "app": "file_system"
+}

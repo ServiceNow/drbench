@@ -1,0 +1,55 @@
+{
+    "company_info": {
+        "name": "Elexion Automotive",
+        "industry": "Automotive -- Electric Vehicles",
+        "size": "Enterprise",
+        "founded_year": 2010,
+        "headquarters": "Austin, Texas, USA",
+        "description": "Elexion Automotive designs and manufactures premium and mid-range electric vehicles tailored for the North American market. With a focus on sustainability, user-centric technology, and cross-border compliance, Elexion aims to accelerate the transition to zero-emission transportation.",
+        "key_products_services": [
+            "Electric vehicles",
+            "Plug-in hybrid electric vehicles",
+            "Home charging stations"
+        ],
+        "target_markets": [
+            "Mid-income families in North America",
+            "Provincial and municipal governments"
+        ],
+        "annual_revenue": "$350M - $500M",
+        "employee_count": 1900,
+        "compliance_certifications": [
+            "EPA Greenhouse Gas Emissions Compliance",
+            "Motor Vehicle Safety Oversight Program",
+            "CARB Zero-Emission Vehicle (ZEV) Program",
+            "ISO 26262 – Road Vehicles Functional Safety"
+        ],
+        "market_position": "Elexion is an emerging force in the North American EV market, offering affordable and high-performance electric vehicles with regulatory-first design and localized production."
+    },
+    "persona": {
+        "role": "Advanced Technology Engineer",
+        "department": "Engineering and Technology",
+        "name": "Liam Chen",
+        "first_name": "Liam",
+        "last_name": "Chen",
+        "email": "liam.chen@elexion.com",
+        "seniority": "Junior",
+        "responsibilities": "Assist in the development and testing of new electric vehicle technologies, including advanced driver-assistance systems and vehicle-to-grid charging.",
+        "id": "EMP0003",
+        "domain": "research",
+        "justification": "As an advanced technology engineer, Liam contributes to the development of cutting-edge technologies that drive Elexion Automotive's innovation and growth in the electric vehicle space.",
+        "username": "liam.chen"
+    },
+    "url": {
+        "url": "https://www.here.com/learn/blog/how-ai-optimizes-electric-vehicles",
+        "domain": "Research",
+        "industry": "automotive -- electric vehicles",
+        "example_dr_questions": [
+            "How much could AI actually extend an EV battery's range?"
+        ],
+        "insights": [
+            "According to an article published on here.com in May of 2025, battery management systems powered by AI could increase EV battery range by up to 10% using adaptive charging strategies."
+        ],
+        "date": "2025-11-20"
+    },
+    "timestamp": "2025-10-30 00:00"
+}

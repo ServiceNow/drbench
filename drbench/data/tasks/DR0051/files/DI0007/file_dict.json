@@ -1,0 +1,81 @@
+{
+    "file_name": "service-expansion-review",
+    "file_title": "Customer Service Expansion 2024: A Review",
+    "introduction": "In this presentation, we will explore the growth of our customer service team in 2024 and its impact on our service delivery. We will specifically focus on the hiring decisions made by Rachel, our Head of Customer Service.",
+    "subsections": [
+        {
+            "heading": "Overview of Customer Service Team Expansion",
+            "content": "\u2022 Customer service team started with 20 members in 2016\n\u2022 Expanded to 30 members by the end of 2019 due to increased customer demands\n\u2022 Hired a new team leader in 2020 to manage the growing team\n\u2022 Implemented a new CRM system in 2021 to handle the increased workload\n\u2022 Added a second shift to accommodate different time zones in 2022\n\u2022 Conducted a company-wide service training in 2023 to enhance service quality\n\u2022 Initiated a performance-based incentive program in 2023 to boost team morale",
+            "type": "distractor",
+            "justification": "This slide provides a historical overview of team expansion, but does not reveal the specific hiring done by Rachel in 2024."
+        },
+        {
+            "heading": "Impact of New Hires on Service Quality",
+            "content": "\u2022 Observed a 15% decrease in customer complaints in Q2 2024\n\u2022 Average call wait time reduced from 10 minutes to 7 minutes in 2024\n\u2022 Customer satisfaction score increased from 80% to 85% in 2024\n\u2022 First-call resolution rate improved by 5% in 2024\n\u2022 Employee satisfaction rate rose to 90% in 2024, indicating a positive work environment\n\u2022 Service level agreement adherence improved by 10% in 2024\n\u2022 Initiated a bi-annual performance review process in 2024 to track progress\n\u2022 Customer retention rate climbed by 7% in 2024, reflecting improved service",
+            "type": "distractor",
+            "justification": "While this slide discusses the impact of new hires, it does not specify how many were hired by Rachel in 2024."
+        },
+        {
+            "heading": "Detailed View of Rachel's Hiring Decisions in 2024",
+            "content": "\u2022 Rachel employed a structured interview process for hiring\n\u2022 She focused on candidates with strong communication and problem-solving abilities\n\u2022 Rachel included a two-stage interview process with a practical assignment\n\u2022 She collaborated with HR to ensure a smooth onboarding process for new hires\n\u2022 Rachel instituted a mentorship program for new hires in the team\n\u2022 She encouraged diversity in hiring to bring in varied perspectives\n\u2022 Rachel prioritized hiring candidates with a customer-centric mindset",
+            "type": "distractor",
+            "justification": "This slide focuses on Rachel's hiring process and criteria but does not mention the number of customer service representatives she hired in 2024."
+        }
+    ],
+    "conclusion": "The strategic hiring decisions made by Rachel in 2024 have significantly boosted our customer service capabilities. Moving forward, we need to continuously invest in our customer service team to maintain our service quality and customer satisfaction.",
+    "file_format": "pptx",
+    "file_path": ".llm_responses/generated_pptx_presentation.pptx",
+    "qa_type": "distractor",
+    "timestamp": "2025-11-19 23:53",
+    "image_queries": [
+        {
+            "slide_title": "Introduction",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "intentionally_clean",
+            "slide_type": "introduction"
+        },
+        {
+            "slide_title": "Overview of Customer Service Team Expansion",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "failed",
+            "slide_type": "distractor",
+            "content_length": 7,
+            "total_chars": 471,
+            "error": "'str' object has no attribute 'choices'",
+            "theme": "Modern Orange"
+        },
+        {
+            "slide_title": "Impact of New Hires on Service Quality",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 7,
+            "total_chars": 451,
+            "probability": 0.25,
+            "theme": "Modern Orange"
+        },
+        {
+            "slide_title": "Detailed View of Rachel's Hiring Decisions in 2024",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 7,
+            "total_chars": 485,
+            "probability": 0.25,
+            "theme": "Modern Orange"
+        },
+        {
+            "slide_title": "Conclusion",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "strategic_clean_conclusion",
+            "slide_type": "conclusion",
+            "theme": "Modern Orange"
+        }
+    ],
+    "app": "nextcloud"
+}

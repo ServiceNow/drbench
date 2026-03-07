@@ -1,0 +1,10 @@
+{
+    "insight_id": "DI0010",
+    "qa_type": "distractor",
+    "qa_index": 10,
+    "specific_question": "How much did autonomous vehicle pilot programs expand in 2025 at Elexion Automotive?",
+    "answer": "Autonomous vehicle pilot programs expanded by 40% in 2025 at Elexion Automotive.",
+    "justification": "Autonomous vehicle pilot programs relate to autonomous driving and are unrelated to battery testing protocols, EV battery endurance, or reliability.",
+    "timestamp": "2025-11-20 15:46",
+    "dr_question": "Given that one in seven new vehicles sold in Canada in 2024 were zero-emission, how can Elexion Automotive\u2019s QA team enhance cold-weather testing protocols by Q4 2026 to improve EV battery endurance and reliability in the country\u2019s key ZEV markets?"
+}

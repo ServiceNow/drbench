@@ -1,0 +1,10 @@
+{
+    "insight_id": "DI0007",
+    "qa_type": "distractor",
+    "qa_index": 7,
+    "specific_question": "In Q2 2025, did the cybersecurity specialist participate in internal review meetings on MediConn\u2019s CI/CD pipeline security?",
+    "answer": "Yes. The cybersecurity specialist attended 4 internal review meetings between April 1 and June 30, 2025 to discuss CI/CD pipeline security for MediConn.",
+    "justification": "",
+    "timestamp": "2025-11-20 00:46",
+    "dr_question": "In 2026, since a ransomware attack would not be just an IT issue but a risk to every function of MediConn Solutions, what specific architectural and procedural controls would a cybersecurity specialist need to design and implement to minimize the blast radius and ensure MediConn\u2019s clinical continuity during an extended loss of services from one of their third-party providers?"
+}

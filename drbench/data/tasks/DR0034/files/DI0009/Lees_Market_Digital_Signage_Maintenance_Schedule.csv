@@ -1,0 +1,13 @@
+Manager_Name,Schedule_Established_Date,Maintenance_Protocol,Digital_Display_Unit_Count,Maintenance_Frequency
+The name of the Information Security Manager who established the digital signage preventive maintenance schedule.,The date when the digital signage preventive maintenance schedule was established.,Details of the maintenance protocol established for digital signage.,The number of digital display units covered under the established maintenance protocol.,"The frequency of the established maintenance protocol, such as weekly, monthly, quarterly, etc."
+Olivia Martinez,2023-07-01,Weekly software update and reboot protocol,11,Weekly
+Michael Brown,2024-06-01,Monthly software update and hardware check,10,Monthly
+Emma Taylor,2022-02-01,Quarterly hardware check and screen cleaning,9,Quarterly
+Sophia White,2022-08-01,Annual software update and screen cleaning,6,Annually
+Sarah Davis,2025-01-01,Bi-weekly software update and screen check,12,Bi-weekly
+Jason Wong,2025-03-01,Quarterly cleaning and reboot protocol,15,Quarterly
+John Miller,2023-05-01,Annual hardware check and software update,7,Annually
+Jacob Anderson,2024-12-01,Monthly screen cleaning and reboot protocol,13,Monthly
+Mia Thomas,2024-09-01,Quarterly dusting and hardware check,10,Quarterly
+Ava Hernandez,2025-02-01,Bi-weekly dusting and hardware check,14,Bi-weekly
+Emily Johnson,2023-01-01,Weekly dusting and screen check,8,Weekly

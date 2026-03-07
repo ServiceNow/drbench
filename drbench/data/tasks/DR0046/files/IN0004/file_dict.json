@@ -1,0 +1,8 @@
+{
+    "file_name": "MediSolutions_Compliance_Insights_Data",
+    "file_format": "xlsx",
+    "file_path": "drbench/data/tasks/DR0046/files/IN0004/MediSolutions_Compliance_Insights_Data.xlsx",
+    "csv_path": "drbench/data/tasks/DR0046/files/IN0004/MediSolutions_Compliance_Insights_Data.csv",
+    "qa_type": "insight",
+    "app": "file_system"
+}

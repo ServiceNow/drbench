@@ -1,0 +1,10 @@
+{
+    "insight_id": "IN0003",
+    "qa_type": "insight",
+    "qa_index": 3,
+    "specific_question": "According to MediConn's internal analysis for Q3 2025, what percentage of a clinician's worktime is spent on activities like documentation and platform navigation?",
+    "answer": "EHR documentation, data entry, and navigating across platforms for calls, reports, and expert opinions consume approximately 50% of the clinician work time.",
+    "justification": "Quantifying the time spent on inefficient or redundant tasks helps pinpoint workflow bottlenecks and is essential for targeting IT solutions that increase clinical productivity.",
+    "timestamp": "2025-11-21 12:50",
+    "dr_question": "How can MediConn streamline its IT workflows in Q4 2025 to boost clinician efficiency and manage per-consultation costs, given that virtual healthcare expansion has improved access but increased overall expenses?"
+}

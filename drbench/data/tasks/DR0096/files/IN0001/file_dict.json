@@ -1,0 +1,228 @@
+{
+    "file_name": "roundcube_email_20251120_180948",
+    "content": "{\"type\": \"user\", \"username\": \"maria.gonzalez\", \"first_name\": \"Maria\", \"last_name\": \"Gonzalez\", \"email\": \"maria.gonzalez@leesmarket.com\", \"password\": \"secure_password1\"}\n{\"type\": \"user\", \"username\": \"john.doe\", \"first_name\": \"John\", \"last_name\": \"Doe\", \"email\": \"john.doe@leesmarket.com\", \"password\": \"secure_password2\"}\n{\"type\": \"user\", \"username\": \"sarah.lee\", \"first_name\": \"Sarah\", \"last_name\": \"Lee\", \"email\": \"sarah.lee@leesmarket.com\", \"password\": \"secure_password3\"}\n{\"type\": \"user\", \"username\": \"david.kim\", \"first_name\": \"David\", \"last_name\": \"Kim\", \"email\": \"david.kim@leesmarket.com\", \"password\": \"secure_password4\"}\n{\"type\": \"user\", \"username\": \"linda.johnson\", \"first_name\": \"Linda\", \"last_name\": \"Johnson\", \"email\": \"linda.johnson@leesmarket.com\", \"password\": \"secure_password5\"}\n{\"type\": \"user\", \"username\": \"michael.brown\", \"first_name\": \"Michael\", \"last_name\": \"Brown\", \"email\": \"michael.brown@leesmarket.com\", \"password\": \"secure_password6\"}\n{\"type\": \"user\", \"username\": \"emma.williams\", \"first_name\": \"Emma\", \"last_name\": \"Williams\", \"email\": \"emma.williams@leesmarket.com\", \"password\": \"secure_password7\"}\n{\"type\": \"user\", \"username\": \"james.jones\", \"first_name\": \"James\", \"last_name\": \"Jones\", \"email\": \"james.jones@leesmarket.com\", \"password\": \"secure_password8\"}\n{\"type\": \"email\", \"id\": \"email_001\", \"subject\": \"Weekly Department Meeting - Agendas\", \"from\": \"maria.gonzalez@leesmarket.com\", \"from_name\": \"Maria Gonzalez\", \"to\": [\"john.doe@leesmarket.com\", \"sarah.lee@leesmarket.com\", \"david.kim@leesmarket.com\"], \"cc\": [], \"date\": \"2025-09-01 10:30:00\", \"body\": \"Dear Team,\\n\\nThis is a reminder about our weekly department meeting scheduled for tomorrow at 2 PM. The main discussion point will be the feedback from last week's customer satisfaction survey.\\n\\nKind Regards,\\nMaria\", \"folder\": \"sent\", \"read\": true, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_002\", \"subject\": \"Annual Leave Request\", \"from\": \"john.doe@leesmarket.com\", \"from_name\": \"John Doe\", \"to\": [\"maria.gonzalez@leesmarket.com\"], \"cc\": [], \"date\": \"2025-09-02 11:15:23\", \"body\": \"Hi Maria,\\n\\nI would like to request annual leave from October 15-20. Please let me know if this can be accommodated.\\n\\nBest,\\nJohn\", \"folder\": \"sent\", \"read\": true, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_003\", \"subject\": \"New Employee Onboarding Next Week\", \"from\": \"david.kim@leesmarket.com\", \"from_name\": \"David Kim\", \"to\": [\"maria.gonzalez@leesmarket.com\"], \"cc\": [\"linda.johnson@leesmarket.com\"], \"date\": \"2025-09-03 13:45:00\", \"body\": \"Hi Maria,\\n\\nJust a heads up that we will have a new employee joining our team next week. I will need your assistance with the onboarding procedure.\\n\\nThanks,\\nDavid\", \"folder\": \"sent\", \"read\": true, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_004\", \"subject\": \"Re: Annual Leave Request\", \"from\": \"maria.gonzalez@leesmarket.com\", \"from_name\": \"Maria Gonzalez\", \"to\": [\"john.doe@leesmarket.com\"], \"cc\": [], \"date\": \"2025-09-04 08:30:00\", \"body\": \"Hi John,\\n\\nYour leave request for October 15-20 has been approved. Please ensure all your tasks are covered during your absence.\\n\\nBest,\\nMaria\", \"folder\": \"sent\", \"read\": true, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_005\", \"subject\": \"Employee Performance Reviews\", \"from\": \"linda.johnson@leesmarket.com\", \"from_name\": \"Linda Johnson\", \"to\": [\"maria.gonzalez@leesmarket.com\"], \"cc\": [], \"date\": \"2025-09-05 12:00:00\", \"body\": \"Dear Maria,\\n\\nPlease prepare the performance reviews of your team members by next week. This will be discussed at our department meeting.\\n\\nThanks,\\nLinda\", \"folder\": \"inbox\", \"read\": true, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_001\", \"subject\": \"Bakery Sales Analysis Q1-Q3 2025\", \"from\": \"emma.williams@leesmarket.com\", \"from_name\": \"Emma Williams\", \"to\": [\"maria.gonzalez@leesmarket.com\", \"john.doe@leesmarket.com\"], \"cc\": [\"sarah.lee@leesmarket.com\"], \"date\": \"2025-10-01 09:00:00\", \"body\": \"Hello Maria and John,\\n\\nAs part of our ongoing efforts to optimize store layouts and product displays to increase bakery sales, I've completed a detailed analysis of our monthly bakery sales across all U.S. locations from Q1 to Q3 2025.\\n\\nOn average, we've been making an estimated $5.5M USD per month. This represents an average quarterly growth rate of approximately 5%. This analysis helps us understand the current trend and establish a baseline for setting realistic targets for our desired growth.\\n\\nPlease review the attached report for detailed breakdowns and insights.\\n\\nBest,\\nEmma\", \"folder\": \"inbox\", \"read\": true, \"attachments\": [\"Bakery_Sales_Analysis_Q1-Q3_2025.pdf\"]}\n{\"type\": \"email\", \"id\": \"email_002\", \"subject\": \"Re: Bakery Sales Analysis Q1-Q3 2025\", \"from\": \"maria.gonzalez@leesmarket.com\", \"from_name\": \"Maria Gonzalez\", \"to\": [\"emma.williams@leesmarket.com\", \"john.doe@leesmarket.com\"], \"cc\": [\"sarah.lee@leesmarket.com\"], \"date\": \"2025-10-02 10:00:00\", \"body\": \"Emma,\\n\\nThanks for sharing this. These insights are very helpful in understanding our current performance and setting realistic targets for the next quarter. I have a better understanding now of our sales trend and how we can leverage this information to increase bakery sales by 15% by the end of Q1 2026.\\n\\nBest,\\nMaria\", \"folder\": \"inbox\", \"read\": true, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_003\", \"subject\": \"Re: Bakery Sales Analysis Q1-Q3 2025\", \"from\": \"john.doe@leesmarket.com\", \"from_name\": \"John Doe\", \"to\": [\"maria.gonzalez@leesmarket.com\", \"emma.williams@leesmarket.com\"], \"cc\": [\"sarah.lee@leesmarket.com\"], \"date\": \"2025-10-02 16:00:00\", \"body\": \"Maria, Emma,\\n\\nI agree with Maria. This analysis is crucial for our growth strategy. Let's ensure we keep monitoring these trends and keep this data in mind when considering in-store layout changes.\\n\\nBest Regards,\\nJohn\", \"folder\": \"inbox\", \"read\": true, \"attachments\": []}",
+    "email_setup": [
+        {
+            "type": "user",
+            "username": "maria.gonzalez",
+            "first_name": "Maria",
+            "last_name": "Gonzalez",
+            "email": "maria.gonzalez@leesmarket.com",
+            "password": "secure_password1"
+        },
+        {
+            "type": "user",
+            "username": "john.doe",
+            "first_name": "John",
+            "last_name": "Doe",
+            "email": "john.doe@leesmarket.com",
+            "password": "secure_password2"
+        },
+        {
+            "type": "user",
+            "username": "sarah.lee",
+            "first_name": "Sarah",
+            "last_name": "Lee",
+            "email": "sarah.lee@leesmarket.com",
+            "password": "secure_password3"
+        },
+        {
+            "type": "user",
+            "username": "david.kim",
+            "first_name": "David",
+            "last_name": "Kim",
+            "email": "david.kim@leesmarket.com",
+            "password": "secure_password4"
+        },
+        {
+            "type": "user",
+            "username": "linda.johnson",
+            "first_name": "Linda",
+            "last_name": "Johnson",
+            "email": "linda.johnson@leesmarket.com",
+            "password": "secure_password5"
+        },
+        {
+            "type": "user",
+            "username": "michael.brown",
+            "first_name": "Michael",
+            "last_name": "Brown",
+            "email": "michael.brown@leesmarket.com",
+            "password": "secure_password6"
+        },
+        {
+            "type": "user",
+            "username": "emma.williams",
+            "first_name": "Emma",
+            "last_name": "Williams",
+            "email": "emma.williams@leesmarket.com",
+            "password": "secure_password7"
+        },
+        {
+            "type": "user",
+            "username": "james.jones",
+            "first_name": "James",
+            "last_name": "Jones",
+            "email": "james.jones@leesmarket.com",
+            "password": "secure_password8"
+        }
+    ],
+    "email_messages": [
+        {
+            "type": "email",
+            "id": "email_001",
+            "subject": "Weekly Department Meeting - Agendas",
+            "from": "maria.gonzalez@leesmarket.com",
+            "from_name": "Maria Gonzalez",
+            "to": [
+                "john.doe@leesmarket.com",
+                "sarah.lee@leesmarket.com",
+                "david.kim@leesmarket.com"
+            ],
+            "cc": [],
+            "date": "2025-09-01 10:30:00",
+            "body": "Dear Team,\n\nThis is a reminder about our weekly department meeting scheduled for tomorrow at 2 PM. The main discussion point will be the feedback from last week's customer satisfaction survey.\n\nKind Regards,\nMaria",
+            "folder": "sent",
+            "read": true,
+            "attachments": [],
+            "tag": "distractor"
+        },
+        {
+            "type": "email",
+            "id": "email_002",
+            "subject": "Annual Leave Request",
+            "from": "john.doe@leesmarket.com",
+            "from_name": "John Doe",
+            "to": [
+                "maria.gonzalez@leesmarket.com"
+            ],
+            "cc": [],
+            "date": "2025-09-02 11:15:23",
+            "body": "Hi Maria,\n\nI would like to request annual leave from October 15-20. Please let me know if this can be accommodated.\n\nBest,\nJohn",
+            "folder": "sent",
+            "read": true,
+            "attachments": [],
+            "tag": "distractor"
+        },
+        {
+            "type": "email",
+            "id": "email_003",
+            "subject": "New Employee Onboarding Next Week",
+            "from": "david.kim@leesmarket.com",
+            "from_name": "David Kim",
+            "to": [
+                "maria.gonzalez@leesmarket.com"
+            ],
+            "cc": [
+                "linda.johnson@leesmarket.com"
+            ],
+            "date": "2025-09-03 13:45:00",
+            "body": "Hi Maria,\n\nJust a heads up that we will have a new employee joining our team next week. I will need your assistance with the onboarding procedure.\n\nThanks,\nDavid",
+            "folder": "sent",
+            "read": true,
+            "attachments": [],
+            "tag": "distractor"
+        },
+        {
+            "type": "email",
+            "id": "email_004",
+            "subject": "Re: Annual Leave Request",
+            "from": "maria.gonzalez@leesmarket.com",
+            "from_name": "Maria Gonzalez",
+            "to": [
+                "john.doe@leesmarket.com"
+            ],
+            "cc": [],
+            "date": "2025-09-04 08:30:00",
+            "body": "Hi John,\n\nYour leave request for October 15-20 has been approved. Please ensure all your tasks are covered during your absence.\n\nBest,\nMaria",
+            "folder": "sent",
+            "read": true,
+            "attachments": [],
+            "tag": "distractor"
+        },
+        {
+            "type": "email",
+            "id": "email_005",
+            "subject": "Employee Performance Reviews",
+            "from": "linda.johnson@leesmarket.com",
+            "from_name": "Linda Johnson",
+            "to": [
+                "maria.gonzalez@leesmarket.com"
+            ],
+            "cc": [],
+            "date": "2025-09-05 12:00:00",
+            "body": "Dear Maria,\n\nPlease prepare the performance reviews of your team members by next week. This will be discussed at our department meeting.\n\nThanks,\nLinda",
+            "folder": "inbox",
+            "read": true,
+            "attachments": [],
+            "tag": "distractor"
+        },
+        {
+            "type": "email",
+            "id": "email_001",
+            "subject": "Bakery Sales Analysis Q1-Q3 2025",
+            "from": "emma.williams@leesmarket.com",
+            "from_name": "Emma Williams",
+            "to": [
+                "maria.gonzalez@leesmarket.com",
+                "john.doe@leesmarket.com"
+            ],
+            "cc": [
+                "sarah.lee@leesmarket.com"
+            ],
+            "date": "2025-10-01 09:00:00",
+            "body": "Hello Maria and John,\n\nAs part of our ongoing efforts to optimize store layouts and product displays to increase bakery sales, I've completed a detailed analysis of our monthly bakery sales across all U.S. locations from Q1 to Q3 2025.\n\nOn average, we've been making an estimated $5.5M USD per month. This represents an average quarterly growth rate of approximately 5%. This analysis helps us understand the current trend and establish a baseline for setting realistic targets for our desired growth.\n\nPlease review the attached report for detailed breakdowns and insights.\n\nBest,\nEmma",
+            "folder": "inbox",
+            "read": true,
+            "attachments": [
+                "Bakery_Sales_Analysis_Q1-Q3_2025.pdf"
+            ],
+            "tag": "insight"
+        },
+        {
+            "type": "email",
+            "id": "email_002",
+            "subject": "Re: Bakery Sales Analysis Q1-Q3 2025",
+            "from": "maria.gonzalez@leesmarket.com",
+            "from_name": "Maria Gonzalez",
+            "to": [
+                "emma.williams@leesmarket.com",
+                "john.doe@leesmarket.com"
+            ],
+            "cc": [
+                "sarah.lee@leesmarket.com"
+            ],
+            "date": "2025-10-02 10:00:00",
+            "body": "Emma,\n\nThanks for sharing this. These insights are very helpful in understanding our current performance and setting realistic targets for the next quarter. I have a better understanding now of our sales trend and how we can leverage this information to increase bakery sales by 15% by the end of Q1 2026.\n\nBest,\nMaria",
+            "folder": "inbox",
+            "read": true,
+            "attachments": [],
+            "tag": "insight"
+        },
+        {
+            "type": "email",
+            "id": "email_003",
+            "subject": "Re: Bakery Sales Analysis Q1-Q3 2025",
+            "from": "john.doe@leesmarket.com",
+            "from_name": "John Doe",
+            "to": [
+                "maria.gonzalez@leesmarket.com",
+                "emma.williams@leesmarket.com"
+            ],
+            "cc": [
+                "sarah.lee@leesmarket.com"
+            ],
+            "date": "2025-10-02 16:00:00",
+            "body": "Maria, Emma,\n\nI agree with Maria. This analysis is crucial for our growth strategy. Let's ensure we keep monitoring these trends and keep this data in mind when considering in-store layout changes.\n\nBest Regards,\nJohn",
+            "folder": "inbox",
+            "read": true,
+            "attachments": [],
+            "tag": "insight"
+        }
+    ],
+    "file_format": "jsonl",
+    "file_path": ".llm_responses/generated_email_document.jsonl",
+    "qa_type": "insight",
+    "timestamp": "2025-11-20 19:09",
+    "app": "email"
+}

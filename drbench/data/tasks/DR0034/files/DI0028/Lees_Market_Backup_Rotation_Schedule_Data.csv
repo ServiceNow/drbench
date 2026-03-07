@@ -1,0 +1,13 @@
+employee_name,market_name,action_date,action_description,recovery_time_reduction
+Name of the employee who managed the backup rotation schedule,Name of the market where the backup rotation schedule was managed,The date when the action described in the insight occurred,Detailed description of the action taken by the employee,Percentage reduction in recovery time achieved by the action
+Jason Wong,Lee's Market,2025-04-15,Performed routine maintenance on backup servers,10%
+Emily Chen,Downtown Market,2025-03-30,Increased frequency of backup,15%
+Jason Wong,Lee's Market,2025-03-07,Moved hourly backup to redundant cloud system,60%
+Jason Wong,Lee's Market,2025-03-20,Performed routine maintenance on backup servers,10%
+Emily Chen,Downtown Market,2025-03-01,Increased frequency of backup,15%
+Michael Smith,Suburb Market,2025-04-01,Upgraded to a more efficient backup software,30%
+Jason Wong,Lee's Market,2025-02-15,Performed routine maintenance on backup servers,10%
+Emily Chen,Downtown Market,2025-01-15,Implemented an automated backup system,20%
+Emily Chen,Downtown Market,2025-04-30,Implemented an automated backup system,20%
+Michael Smith,Suburb Market,2025-03-15,Replaced outdated backup hardware,25%
+Michael Smith,Suburb Market,2025-02-01,Upgraded to a more efficient backup software,30%

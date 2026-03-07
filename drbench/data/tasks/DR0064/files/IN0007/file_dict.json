@@ -1,0 +1,82 @@
+{
+    "file_name": "d2c-sales-impact",
+    "file_title": "Direct-to-Customer Sales Model Impact",
+    "introduction": "As we transition to a direct-to-customer sales model, it's critical to understand its potential effects on our sales operations. This presentation will explore the expected impact on sales cycle duration, conversion rates, and average revenue per customer, specifically in the context of US franchise laws.",
+    "subsections": [
+        {
+            "heading": "Overview of Current Sales Operations",
+            "content": "\u2022 In 2024, an overwhelming majority of our customers, approximately 87%, engaged with our online vehicle customization tool prior to dealership visits.\n\u2022 This high usage rate of our digital tool underscores a significant shift in consumer behavior towards digital-first vehicle exploration and configuration.\n\u2022 This trend indicates a high degree of comfort among our customers in using digital platforms to make initial vehicle selections, hinting at potential receptivity towards an entirely digital sales process.\n\u2022 The current experience of visiting a dealership after initial online interaction could be streamlined to further enhance user experience and efficiency.\n\u2022 A shift to a complete direct-to-customer model could likely capitalize on this existing digital engagement, potentially reducing sales cycle duration and increasing conversion rates.\n\u2022 This shift could also potentially increase average revenue per customer by eliminating dealer markups, similar to the profitability seen by Tesla in their direct sales model.\n\u2022 However, the shift must be carefully strategized as franchise laws across the U.S may pose potential hurdles, as seen in Tesla's state-by-state battles against auto dealers since 2014.",
+            "type": "insight",
+            "justification": "This content utilizes the provided insight to demonstrate the potential benefits and challenges of moving to a direct-to-customer model, thereby addressing the DR Question."
+        },
+        {
+            "heading": "Transitioning to Direct-to-Customer Model",
+            "content": "\u2022 The transition will require significant changes in our sales, marketing, and customer service departments\n\u2022 A direct-to-customer model may potentially eliminate the need for physical retail locations\n\u2022 We will need to invest in a new, more customer-centric CRM system\n\u2022 Training will be necessary to familiarize our sales team with the new model\n\u2022 The transition is expected to be completed by 2026\n\u2022 We will need to carefully navigate state franchise laws during this transition",
+            "type": "distractor",
+            "justification": "This slide discusses the process of transitioning to a direct-to-customer model, but does not predict its impact on sales metrics."
+        },
+        {
+            "heading": "Predicted Impact on Key Sales Metrics",
+            "content": "\u2022 In the first year, we anticipate an increase in marketing costs due to the need to promote the new sales model\n\u2022 The direct-to-customer model may initially lead to a decrease in sales volume\n\u2022 We may need to hire additional customer service staff to manage increased customer inquiries\n\u2022 The new sales model could potentially shorten the sales cycle, but this is not guaranteed\n\u2022 The average transaction price of our vehicles may fluctuate during the transition period",
+            "type": "distractor",
+            "justification": "This slide predicts potential impacts on various sales metrics, but does not provide specific information about cycle duration, conversion rates, or average revenue per customer."
+        }
+    ],
+    "conclusion": "Adopting a direct-to-customer sales model is projected to influence our sales dynamics greatly. As we move ahead, we need to prepare for shorter sales cycles, potential changes in conversion rates, and shifts in average revenue per customer.",
+    "file_format": "pptx",
+    "file_path": ".llm_responses/generated_pptx_presentation.pptx",
+    "qa_type": "insight",
+    "timestamp": "2025-11-20 00:52",
+    "image_queries": [
+        {
+            "slide_title": "Introduction",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "intentionally_clean",
+            "slide_type": "introduction"
+        },
+        {
+            "slide_title": "Overview of Current Sales Operations",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "failed",
+            "slide_type": "insight",
+            "content_length": 7,
+            "total_chars": 1199,
+            "error": "'str' object has no attribute 'choices'",
+            "theme": "Professional Green"
+        },
+        {
+            "slide_title": "Transitioning to Direct-to-Customer Model",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 6,
+            "total_chars": 464,
+            "probability": 0.25,
+            "theme": "Professional Green"
+        },
+        {
+            "slide_title": "Predicted Impact on Key Sales Metrics",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 5,
+            "total_chars": 456,
+            "probability": 0.25,
+            "theme": "Professional Green"
+        },
+        {
+            "slide_title": "Conclusion",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "conclusion_failed",
+            "slide_type": "conclusion",
+            "error": "'str' object has no attribute 'choices'",
+            "theme": "Professional Green"
+        }
+    ],
+    "app": "file_system"
+}

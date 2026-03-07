@@ -1,0 +1,13 @@
+company,supplier_count,pricing_model,risk_assessment
+The name of the company whose supplier risks are being evaluated,The number of suppliers the company relies on for lithium,"Describes the pricing model of the lithium suppliers. For instance, variable-pricing clauses tied to global spot markets",Detailed analysis of the identified risks
+Elexion,2,Quarterly variable-pricing clauses tied to global spot markets,Elexion faces risks in its lithium supplier mix due to its reliance on two suppliers with quarterly variable-pricing clauses tied to global spot markets.
+Energizer Holdings,3,Fixed pricing model,Energizer Holdings faces potential supply disruptions due to reliance on three suppliers.
+Husky Energy,2,Monthly variable-pricing clauses tied to regional spot markets,Husky Energy faces pricing risks due to reliance on two suppliers with variable-pricing models.
+Dow Chemical,2,Quarterly variable-pricing clauses tied to regional spot markets,Dow Chemical faces pricing risks due to reliance on two suppliers with variable-pricing models.
+Cenovus Energy,4,Annual fixed pricing model,Cenovus Energy has a diversified supplier base but faces potential price hikes.
+Axion Energy,3,Fixed pricing model,Axion Energy faces potential supply disruptions due to reliance on a single supplier.
+First Quantum Minerals,1,Annual variable-pricing clauses tied to global spot markets,First Quantum faces pricing risks due to reliance on a single supplier with a variable-pricing model.
+Glencore,5,Fixed pricing model,Glencore has a diversified supplier base but faces potential price hikes.
+Borealis,1,Monthly variable-pricing clauses tied to local spot markets,Borealis faces pricing risks due to reliance on a single supplier with a variable-pricing model.
+Jazz Pharmaceuticals,3,Quarterly variable-pricing clauses tied to local spot markets,Jazz Pharmaceuticals faces pricing risks due to reliance on three suppliers with variable-pricing models.
+Inter Pipeline,1,Annual fixed pricing model,Inter Pipeline faces potential supply disruptions due to reliance on a single supplier.

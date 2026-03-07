@@ -1,0 +1,81 @@
+{
+    "file_name": "session-duration-analysis",
+    "file_title": "Telehealth Session Duration Analysis FY2025",
+    "introduction": "Welcome everyone, we're going to explore some performance metrics from the last fiscal year. Specifically, we'll focus on the average duration of telehealth sessions across our platforms.",
+    "subsections": [
+        {
+            "heading": "Overview of Telehealth Usage in FY2025",
+            "content": "\u2022 MediConn's telehealth users increased by 10% in FY2025\n\u2022 The most significant growth was observed in the geriatric patient demographic\n\u2022 The platform was used for over 100,000 consultations in FY2025\n\u2022 The customer retention rate was 75% in FY2025\n\u2022 The platform was accessed from over 20 different countries\n\u2022 30% of sessions were conducted outside traditional working hours",
+            "type": "distractor",
+            "justification": "This slide provides general usage stats, but does not give any information about the average session duration. Strategy: general industry trends and operational details."
+        },
+        {
+            "heading": "Average Duration of Telehealth Sessions",
+            "content": "\u2022 Session duration varies widely based on the nature of the consultation\n\u2022 Emergency consultations generally have longer durations than routine check-ups\n\u2022 Technical issues can impact the duration of a session\n\u2022 Duration may be influenced by the patient's comfort with technology\n\u2022 Sessions conducted after working hours typically have longer durations\n\u2022 Training and user familiarization can help reduce session duration",
+            "type": "distractor",
+            "justification": "This slide discusses factors that can influence session duration, but does not provide any information about the actual average duration. Strategy: related factors and potential influences."
+        },
+        {
+            "heading": "Impact of Session Duration on User Satisfaction",
+            "content": "\u2022 User satisfaction may decrease if sessions are too long due to fatigue\n\u2022 Short, concise sessions are preferred for routine check-ups\n\u2022 User satisfaction can be influenced by the doctor's ability to effectively communicate within the given session duration\n\u2022 Satisfaction ratings generally increase when sessions end with clear next steps\n\u2022 Dissatisfaction may arise from perceived wasted time in longer sessions",
+            "type": "distractor",
+            "justification": "This slide discusses the impact of session duration on user satisfaction but does not provide any data on the average duration of sessions. Strategy: related impacts and potential outcomes."
+        }
+    ],
+    "conclusion": "In conclusion, understanding the average duration of our telehealth sessions can inform our strategies to improve user experience. We should continue to monitor these metrics and aim to enhance our services based on user feedback.",
+    "file_format": "pptx",
+    "file_path": ".llm_responses/generated_pptx_presentation.pptx",
+    "qa_type": "distractor",
+    "timestamp": "2025-11-20 18:38",
+    "image_queries": [
+        {
+            "slide_title": "Introduction",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "intentionally_clean",
+            "slide_type": "introduction"
+        },
+        {
+            "slide_title": "Overview of Telehealth Usage in FY2025",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 6,
+            "total_chars": 360,
+            "probability": 0.25,
+            "theme": "Bold Crimson"
+        },
+        {
+            "slide_title": "Average Duration of Telehealth Sessions",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 6,
+            "total_chars": 404,
+            "probability": 0.25,
+            "theme": "Bold Crimson"
+        },
+        {
+            "slide_title": "Impact of Session Duration on User Satisfaction",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "failed",
+            "slide_type": "distractor",
+            "content_length": 5,
+            "total_chars": 399,
+            "error": "'str' object has no attribute 'choices'",
+            "theme": "Bold Crimson"
+        },
+        {
+            "slide_title": "Conclusion",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "strategic_clean_conclusion",
+            "slide_type": "conclusion",
+            "theme": "Bold Crimson"
+        }
+    ],
+    "app": "nextcloud"
+}

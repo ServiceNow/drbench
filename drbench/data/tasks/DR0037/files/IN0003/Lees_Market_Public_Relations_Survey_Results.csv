@@ -1,0 +1,12 @@
+Survey_Type,Survey_Period,Company,Question,Yes_Response_Percentage
+Specifies whether the survey was conducted internally (with employees) or externally (with the general public),The quarter and year in which the survey was conducted,The name of the company being assessed in the survey,"The question asked in the survey. In this case, it pertains to the perception of the company's ethics",The percentage of respondents who agreed with the question statement
+External,Q1 2024,FastMart,Does FastMart promote ethical consumerism?,0.7
+Internal,Q4 2024,BuyRite,Does BuyRite promote sustainable consumption?,0.45
+External,Q4 2024,BuyRite,Does BuyRite promote sustainable consumption?,0.7
+Internal,Q3 2024,Lee's Market,Is Lee's Market an ethical alternative to large retailers?,0.35
+Internal,Q3 2024,SuperBuy,Does SuperBuy support fair trade practices?,0.5
+External,Q3 2024,SuperBuy,Does SuperBuy support fair trade practices?,0.8
+Internal,Q1 2024,FastMart,Does FastMart promote ethical consumerism?,0.55
+External,Q2 2024,QuickShop,Does QuickShop adhere to ethical business practices?,0.75
+Internal,Q2 2024,QuickShop,Does QuickShop adhere to ethical business practices?,0.6
+External,Q3 2024,Lee's Market,Is Lee's Market an ethical alternative to large retailers?,0.65

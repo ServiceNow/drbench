@@ -1,0 +1,81 @@
+{
+    "file_name": "q2-onboarding-overview",
+    "file_title": "Q2 HR Onboarding Overview",
+    "introduction": "This presentation will provide an overview of our HR onboarding activities in Q2. We will analyse how it impacts our overall operations and efficiency.",
+    "subsections": [
+        {
+            "heading": "New Hires Breakdown in Q2",
+            "content": "\u2022 A total of 250 new hires joined Elexion Automotive in Q2\n\u2022 The Engineering department saw the highest influx of new hires, with 80 new employees\n\u2022 The Sales and Marketing departments recruited 70 and 40 new members respectively\n\u2022 R&D department had 30 new hires, while the remaining were scattered among other departments\n\u2022 The average age of new hires was 28 years, with a 60-40 male to female ratio\n\u2022 Majority of new hires were sourced from job portals and referrals",
+            "type": "distractor",
+            "justification": "This slide focuses on the demographics of new hires, not the number of HR onboarding sessions."
+        },
+        {
+            "heading": "Q2 HR Onboarding Sessions Analysis",
+            "content": "\u2022 The HR department introduced a new onboarding program in Q2\n\u2022 The new onboarding program focused on integrating company culture and values\n\u2022 It involved department heads as speakers to give an overview of their respective departments\n\u2022 The feedback received for the new onboarding program was predominantly positive\n\u2022 The program included a tour of the facility and an introduction to the company's mission and vision\n\u2022 A mentorship initiative was also introduced as part of the onboarding program",
+            "type": "distractor",
+            "justification": "This slide discusses the nature and components of the onboarding sessions, not their quantity."
+        },
+        {
+            "heading": "Impact of Onboarding on Employee Efficiency",
+            "content": "\u2022 Employee efficiency showed an upward trend post onboarding\n\u2022 The new onboarding program was found to decrease the time taken by new hires to adapt to their roles\n\u2022 Surveys suggested that new hires felt more welcomed and prepared after the onboarding process\n\u2022 A 15% improvement in productivity was observed in new hires after attending the onboarding sessions\n\u2022 The well-structured onboarding program also helped to reduce the attrition rate among new hires\n\u2022 The feedback from department heads indicated that the onboarding program helped new hires integrate faster",
+            "type": "distractor",
+            "justification": "This slide focuses on the outcomes of the onboarding sessions, not the number of sessions held."
+        }
+    ],
+    "conclusion": "Understanding our onboarding sessions and their impact on efficiency gives us a better insight into our HR efforts. Going forward, we need to focus on improving these sessions for better productivity and employee satisfaction.",
+    "file_format": "pptx",
+    "file_path": ".llm_responses/generated_pptx_presentation.pptx",
+    "qa_type": "distractor",
+    "timestamp": "2025-12-03 00:04",
+    "image_queries": [
+        {
+            "slide_title": "Introduction",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "intentionally_clean",
+            "slide_type": "introduction"
+        },
+        {
+            "slide_title": "New Hires Breakdown in Q2",
+            "has_image": true,
+            "image_query": "professional workforce diversity chart",
+            "generation_method": "strategic_placement",
+            "slide_type": "distractor",
+            "content_length": 6,
+            "total_chars": 453,
+            "forced": false,
+            "theme": "Classic Navy"
+        },
+        {
+            "slide_title": "Q2 HR Onboarding Sessions Analysis",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 6,
+            "total_chars": 482,
+            "probability": 0.25,
+            "theme": "Classic Navy"
+        },
+        {
+            "slide_title": "Impact of Onboarding on Employee Efficiency",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 6,
+            "total_chars": 551,
+            "probability": 0.25,
+            "theme": "Classic Navy"
+        },
+        {
+            "slide_title": "Conclusion",
+            "has_image": true,
+            "image_query": "team collaboration in office",
+            "generation_method": "strategic_conclusion",
+            "slide_type": "conclusion",
+            "theme": "Classic Navy"
+        }
+    ],
+    "app": "nextcloud"
+}

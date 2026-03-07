@@ -1,0 +1,82 @@
+{
+    "file_name": "eco-impact-transparency",
+    "file_title": "Eco-Impact Transparency in Grocery Delivery",
+    "introduction": "As part of our ongoing commitment to sustainability, we are closely monitoring carbon footprint transparency in our industry. This presentation will analyze the communication methods and impacts on customer perception among online grocery retailers in North America.",
+    "subsections": [
+        {
+            "heading": "Carbon Footprint Metrics Among Competitors",
+            "content": "\u2022 The 2024 sustainability report showed a clear regional difference in customer perception of our green initiatives.\n\u2022 In the Canadian markets, our transparency on carbon footprint had a positive impact on 89% of our customers.\n\u2022 This contrasts with our U.S. markets, where the positive impact was reported by 71% of customers.\n\u2022 This demonstrates the importance of environmental transparency in maintaining customer trust and loyalty.\n\u2022 The regional difference in perception suggests a need for region-specific communication and engagement strategies.\n\u2022 It's important to note that our competitors, like Walmart, have also embarked on significant sustainability efforts such as the 'Gigaton Project'.\n\u2022 To stay competitive, we need to continually evaluate and communicate our carbon footprint metrics openly.\n\u2022 Ongoing analysis of customer perception data will drive our sustainability communication strategy.",
+            "type": "insight",
+            "justification": "This content helps answer the DR Question and specific_question by presenting key data on customer perception of carbon footprint transparency."
+        },
+        {
+            "heading": "Sustainability Communication Strategies",
+            "content": "\u2022 Walmart uses in-store signage to educate customers about its Gigaton Project\n\u2022 Amazon's Prime Day 2024 focused on promoting eco-friendly products\n\u2022 Kroger utilizes social media platforms to champion its Zero Hunger Zero Waste initiative\n\u2022 Aldi has introduced an annual sustainability report detailing its progress\n\u2022 Costco leverages its membership magazine to communicate its green initiatives\n\u2022 Target's 'Good & Gather' brand emphasizes sustainability in its packaging design",
+            "type": "distractor",
+            "justification": "While these points discuss communication strategies, they don't specifically address communicating about carbon footprint or delivery operations."
+        },
+        {
+            "heading": "Customer Perception in Response to Eco-Transparency",
+            "content": "\u2022 Walmart's Gigaton Project has been generally well received, with a 5% increase in customer satisfaction scores\n\u2022 Amazon's focus on sustainability has been met with mixed reviews due to concerns about packaging waste\n\u2022 Costco's energy reduction goal has led to an increase in their reputation as a responsible retailer\n\u2022 Kroger's Zero Hunger Zero Waste initiative has led to a 10% increase in customer loyalty\n\u2022 Aldi's sustainable sourcing commitment has resulted in higher overall product ratings\n\u2022 Instacart's local sourcing partnerships have been positively received, particularly among millennial customers",
+            "type": "distractor",
+            "justification": "These points discuss customer perception of general sustainability efforts, not specifically about carbon footprint transparency of delivery operations."
+        }
+    ],
+    "conclusion": "It is clear that openness about environmental impacts can positively influence customer perception. As a next step, we should consider how Lee's Market can enhance transparency around our own delivery operations' carbon footprint.",
+    "file_format": "pptx",
+    "file_path": ".llm_responses/generated_pptx_presentation.pptx",
+    "qa_type": "insight",
+    "timestamp": "2025-11-19 12:21",
+    "image_queries": [
+        {
+            "slide_title": "Introduction",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "intentionally_clean",
+            "slide_type": "introduction"
+        },
+        {
+            "slide_title": "Carbon Footprint Metrics Among Competitors",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "insight",
+            "content_length": 7,
+            "total_chars": 789,
+            "probability": 0.25,
+            "theme": "Executive Purple"
+        },
+        {
+            "slide_title": "Sustainability Communication Strategies",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 6,
+            "total_chars": 461,
+            "probability": 0.25,
+            "theme": "Executive Purple"
+        },
+        {
+            "slide_title": "Customer Perception in Response to Eco-Transparency",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "failed",
+            "slide_type": "distractor",
+            "content_length": 6,
+            "total_chars": 594,
+            "error": "'str' object has no attribute 'choices'",
+            "theme": "Executive Purple"
+        },
+        {
+            "slide_title": "Conclusion",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "conclusion_failed",
+            "slide_type": "conclusion",
+            "error": "'str' object has no attribute 'choices'",
+            "theme": "Executive Purple"
+        }
+    ],
+    "app": "file_system"
+}

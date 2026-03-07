@@ -1,0 +1,82 @@
+{
+    "file_name": "2025-accessory-sales-analysis",
+    "file_title": "Elexion's 2025 Accessory Sales Analysis",
+    "introduction": "This presentation aims to provide a comprehensive understanding of Elexion's accessory sales growth in 2025. We will delve into the key drivers of this growth and its impact on our overall business performance.",
+    "subsections": [
+        {
+            "heading": "2025 Automotive Accessory Market Overview",
+            "content": "\u2022 Global automotive accessory market grew by 6% in 2025\n\u2022 Electric vehicle (EV) accessory market share increased by 12% in 2025\n\u2022 Asia-Pacific region dominated the accessory market with a 35% share\n\u2022 Technological advancements were a key driver of market growth\n\u2022 The market was heavily influenced by changing customer preferences\n\u2022 The impact of the COVID-19 pandemic continued to affect the market in 2025",
+            "type": "distractor",
+            "justification": "This content provides general market data but doesn't specifically address Elexion's accessory sales performance."
+        },
+        {
+            "heading": "Elexion's Accessory Sales Performance in 2025",
+            "content": "\u2022 Elexion introduced 10 new accessory products in 2025\n\u2022 Elexion's top selling accessory was the EV charging station\n\u2022 Elexion expanded its accessory sales to Europe in 2025\n\u2022 Elexion's accessory sales accounted for 20% of total product sales in 2025\n\u2022 Elexion's accessory sales were strongest in Q4 of 2025\n\u2022 Elexion's accessory sales team won the company's internal performance award in 2025",
+            "type": "distractor",
+            "justification": "While this content discusses Elexion's accessory sales in 2025, it doesn't reveal the percentage growth."
+        },
+        {
+            "heading": "Impact of Accessory Sales on Elexion's 2025 Revenue",
+            "content": "\u2022 Accessory sales contributed significantly to Elexion's overall 2025 revenue\n\u2022 Q4 saw the highest contribution from accessory sales to total revenue\n\u2022 The revenue from accessory sales allowed Elexion to invest in new R&D projects\n\u2022 The success of accessory sales has led to an expansion of the accessory sales team\n\u2022 Elexion's accessory sales revenue was reinvested into marketing campaigns for 2026",
+            "type": "distractor",
+            "justification": "This slide discusses the impact of accessory sales on overall revenue, but not the percentage growth in 2025."
+        }
+    ],
+    "conclusion": "Our accessory sales in 2025 demonstrated significant growth, contributing positively to our overall revenue. Going forward, we should continue to leverage these insights to optimize our accessory portfolio and drive further growth.",
+    "file_format": "pptx",
+    "file_path": ".llm_responses/generated_pptx_presentation.pptx",
+    "qa_type": "distractor",
+    "timestamp": "2025-11-20 15:49",
+    "image_queries": [
+        {
+            "slide_title": "Introduction",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "intentionally_clean",
+            "slide_type": "introduction"
+        },
+        {
+            "slide_title": "2025 Automotive Accessory Market Overview",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 6,
+            "total_chars": 390,
+            "probability": 0.25,
+            "theme": "Elegant Teal"
+        },
+        {
+            "slide_title": "Elexion's Accessory Sales Performance in 2025",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "failed",
+            "slide_type": "distractor",
+            "content_length": 6,
+            "total_chars": 376,
+            "error": "'str' object has no attribute 'choices'",
+            "theme": "Elegant Teal"
+        },
+        {
+            "slide_title": "Impact of Accessory Sales on Elexion's 2025 Revenue",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 5,
+            "total_chars": 386,
+            "probability": 0.25,
+            "theme": "Elegant Teal"
+        },
+        {
+            "slide_title": "Conclusion",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "conclusion_failed",
+            "slide_type": "conclusion",
+            "error": "'str' object has no attribute 'choices'",
+            "theme": "Elegant Teal"
+        }
+    ],
+    "app": "file_system"
+}

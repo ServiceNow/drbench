@@ -1,0 +1,10 @@
+{
+    "insight_id": "IN0007",
+    "qa_type": "insight",
+    "qa_index": 7,
+    "specific_question": "How many weeks does it usually take at Elexion to deploy AI models into production?",
+    "answer": "It usually takes 6-8 weeks for containerization, security testing, and controlled rollout of AI models into production at Elexion.",
+    "justification": "The deployment lead time defines how long it takes to transition the AI model from pilot to live use, including containerization, security validation, and system compatibility checks, all of which must be tightly scheduled to ensure the model is fully operational and compliant before the Q3 2026 deadline.",
+    "timestamp": "2025-11-20 15:15",
+    "dr_question": "In alignment with Canada\u2019s new call for proposals to strengthen the country\u2019s cyber resilience and address evolving cyber threats under the 2025 Cyber Security Cooperation Program (CSCP), what are some considerations to keep in mind while integrating a new AI anomaly detection tool into MediConn's existing infrastructure by Q3 2026 without disrupting critical healthcare services?"
+}

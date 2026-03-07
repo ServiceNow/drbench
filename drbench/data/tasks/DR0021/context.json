@@ -1,0 +1,55 @@
+{
+    "company_info": {
+        "name": "Lee's Market",
+        "industry": "Retail",
+        "size": "Enterprise",
+        "founded_year": 2003,
+        "headquarters": "Richmond, British Columbia, Canada",
+        "description": "Lee's Market is a regional Asian supermarket chain specializing in high-quality Asian groceries and household items. With a growing footprint in urban centers across the U.S. and Canada, Lee's Market blends traditional flavors with modern retail experiences, offering in-store, online, and delivery services.",
+        "key_products_services": [
+            "Fresh produce, meats, and seafood",
+            "Asian household items",
+            "Bakery and prepared foods",
+            "Online grocery shopping and delivery"
+        ],
+        "target_markets": [
+            "Asian communities in the U.S. and Canada",
+            "Urban centers with diverse populations"
+        ],
+        "annual_revenue": "$500M - $600M",
+        "employee_count": 5000,
+        "compliance_certifications": [
+            "FDA and CFIA Food Safety Compliance",
+            "HACCP Food Safety Compliance",
+            "USDA Import Inspection Regulations"
+        ],
+        "market_position": "Lee's Market is a rising regional player bridging cultural authenticity and modern retail innovation in the Asian grocery sector. It is carving a niche between mainstream retailers like Walmart and ethnic-focused giants like H-Mart."
+    },
+    "persona": {
+        "role": "IT Service Manager",
+        "department": "Information Technology",
+        "name": "Kevin Wong",
+        "first_name": "Kevin",
+        "last_name": "Wong",
+        "email": "kevin.wong@leesmarket.com",
+        "seniority": "Senior",
+        "responsibilities": "Oversees IT service operations, including incident, problem, and change management processes. Ensures uptime and performance of retail systems, POS terminals, and e-commerce platforms across all store locations. Implements ITIL-based practices and coordinates with vendors for infrastructure support.",
+        "id": "ITM0001",
+        "domain": "itsm",
+        "justification": "As Lee’s Market expands its retail and online operations, Kevin ensures consistent technology service delivery across all channels. His leadership in ITSM supports business continuity, minimizes downtime, and enhances employee productivity across the organization.",
+        "username": "kevin.wong"
+    },
+    "url": {
+        "url": "https://www.thirdera.com/insights/retailer-drives-enterprise-wide-transformation-through-strategic-it-optimization",
+        "domain": "ITSM",
+        "industry": "retail",
+        "example_dr_questions": [
+            "What governance overhaul did Thirdera implement to improve IT service quality for its retail industry?"
+        ],
+        "insights": [
+            "According to a December 11, 2024, article published on thirdera.com, Thirdera improved IT service quality for its retail industry by introducing Technical Governance Boards, adopting Agile process improvements, and implementing structured peer reviews. These changes coincided with a >95% reduction in service desk emails and a 75% consolidation of catalog items, demonstrating measurable improvements in service consistency and efficiency"
+        ],
+        "date": "2025-11-19"
+    },
+    "timestamp": "2025-10-30 00:00"
+}

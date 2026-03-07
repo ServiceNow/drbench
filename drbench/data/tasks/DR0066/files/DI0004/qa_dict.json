@@ -1,0 +1,10 @@
+{
+    "insight_id": "DI0004",
+    "qa_type": "distractor",
+    "qa_index": 4,
+    "specific_question": "What percentage of CRM data is incomplete?",
+    "answer": "A system audit conducted in November 2024 found that approximately 22% of CRM contact records had missing or invalid data.",
+    "justification": "",
+    "timestamp": "2025-11-20 01:18",
+    "dr_question": "By the end of 2025, how can Elexion Automotive use data generated through its customer relationship management system to analyze customer behavior online and identify patterns that drive sales?"
+}

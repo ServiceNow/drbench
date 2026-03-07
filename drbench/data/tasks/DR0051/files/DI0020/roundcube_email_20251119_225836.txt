@@ -1,0 +1,194 @@
+================================================================================
+ROUNDCUBE EMAIL EXPORT
+================================================================================
+
+USERS:
+----------------------------------------
+• rachel.lee
+  Name: Rachel Lee
+  Email: rachel.lee@mediconn.com
+
+• michael.johnson
+  Name: Michael Johnson
+  Email: michael.johnson@mediconn.com
+
+• lisa.campbell
+  Name: Lisa Campbell
+  Email: lisa.campbell@mediconn.com
+
+• peter.murphy
+  Name: Peter Murphy
+  Email: peter.murphy@mediconn.com
+
+• sarah.brown
+  Name: Sarah Brown
+  Email: sarah.brown@mediconn.com
+
+• james.miller
+  Name: James Miller
+  Email: james.miller@mediconn.com
+
+• karen.davis
+  Name: Karen Davis
+  Email: karen.davis@mediconn.com
+
+• david.martin
+  Name: David Martin
+  Email: david.martin@mediconn.com
+
+EMAILS:
+================================================================================
+Email ID: email_001
+Date: 2026-01-01 10:00:00
+From: Rachel Lee <rachel.lee@mediconn.com>
+To: michael.johnson@mediconn.com, lisa.campbell@mediconn.com, peter.murphy@mediconn.com
+Subject: Weekly Team Meeting Agenda
+Folder: sent | Status: Read
+
+Message Body:
+----------------------------------------
+Hello Team,
+
+I hope you all had a wonderful holiday season. Since we're starting a new year, let's discuss our operations and set our goals for Q1. Our agenda for the meeting is as follows:
+
+1. Review of Q4 2025
+2. Q1 2026 Goals & Objectives
+3. Team Updates
+4. Open Discussion
+
+Please feel free to add any other topics you'd like to discuss.
+
+Best,
+Rachel
+============================================================
+
+Email ID: email_002
+Date: 2026-01-02 14:30:00
+From: Michael Johnson <michael.johnson@mediconn.com>
+To: rachel.lee@mediconn.com
+Subject: Q4 Performance Reviews
+Folder: sent | Status: Read
+
+Message Body:
+----------------------------------------
+Hi Rachel,
+
+I wanted to notify you that I've completed the performance reviews for our team members. I'll send the summaries to you by the end of the day.
+
+Best,
+Michael
+============================================================
+
+Email ID: email_003
+Date: 2026-01-02 16:00:00
+From: Lisa Campbell <lisa.campbell@mediconn.com>
+To: rachel.lee@mediconn.com
+Subject: Customer Satisfaction Survey
+Folder: sent | Status: Unread
+
+Message Body:
+----------------------------------------
+Hello Rachel,
+
+The customer satisfaction survey for December has been completed. I will compile and analyze the results, and then present them at our next team meeting.
+
+Best,
+Lisa
+============================================================
+
+Email ID: email_004
+Date: 2026-01-03 09:00:00
+From: Peter Murphy <peter.murphy@mediconn.com>
+To: rachel.lee@mediconn.com, michael.johnson@mediconn.com, lisa.campbell@mediconn.com
+Subject: Team Building Event
+Folder: sent | Status: Unread
+
+Message Body:
+----------------------------------------
+Hello Everyone,
+
+I've been thinking about organizing a team building event for our department. I believe it's a great way to foster better relationships amongst the team and boost morale. Let's discuss this further in our next meeting.
+
+Best,
+Peter
+============================================================
+
+Email ID: email_005
+Date: 2026-01-03 12:00:00
+From: Rachel Lee <rachel.lee@mediconn.com>
+To: michael.johnson@mediconn.com, lisa.campbell@mediconn.com, peter.murphy@mediconn.com
+Subject: Updated Compliance Training Schedule
+Folder: sent | Status: Unread
+
+Message Body:
+----------------------------------------
+Dear Team,
+
+Please note that we have updated our compliance training schedule for Q1. It's important that everyone completes the necessary training modules in time. I'll be sending the schedule and further details by end of day.
+
+Best,
+Rachel
+============================================================
+
+Email ID: email_001
+Date: 2026-01-05 09:30:00
+From: Rachel Lee <rachel.lee@mediconn.com>
+To: michael.johnson@mediconn.com, lisa.campbell@mediconn.com, peter.murphy@mediconn.com, sarah.brown@mediconn.com, james.miller@mediconn.com, karen.davis@mediconn.com, david.martin@mediconn.com
+Subject: Improving Patient Access to Virtual Services
+Folder: sent | Status: Read
+
+Message Body:
+----------------------------------------
+Dear team,
+
+I hope this email finds you well. As we dive into Q1 2026, one of our core objectives is to enhance patient access to our virtual consultations and prescription management services. The goal is to provide a seamless, satisfactory experience, reduce wait times, and improve patient retention.
+
+Kindly share your thoughts, suggestions, and any relevant data that can help us achieve this goal.
+
+Best regards,
+Rachel
+============================================================
+
+Email ID: email_002
+Date: 2026-01-05 10:15:00
+From: Michael Johnson <michael.johnson@mediconn.com>
+To: rachel.lee@mediconn.com
+CC: lisa.campbell@mediconn.com, peter.murphy@mediconn.com, sarah.brown@mediconn.com, james.miller@mediconn.com, karen.davis@mediconn.com, david.martin@mediconn.com
+Subject: Re: Improving Patient Access to Virtual Services
+Folder: sent | Status: Read
+
+Message Body:
+----------------------------------------
+Hi Rachel,
+
+I agree that improving patient access should be a priority. A good starting point would be to evaluate the effectiveness of our current tools in managing customer interactions. If I recall correctly, back in 2024, we used Zendesk for ticket management, RingCentral for phone systems, Salesforce for CRM, and Slack for internal team communication. These tools were integrated with our proprietary patient platform through API connections.
+
+Maybe we could explore how to optimize these tools further or consider new technologies that can help us provide a smoother online experience for our patients.
+
+Regards,
+Michael
+============================================================
+
+Email ID: email_003
+Date: 2026-01-05 11:00:00
+From: Rachel Lee <rachel.lee@mediconn.com>
+To: michael.johnson@mediconn.com
+CC: lisa.campbell@mediconn.com, peter.murphy@mediconn.com, sarah.brown@mediconn.com, james.miller@mediconn.com, karen.davis@mediconn.com, david.martin@mediconn.com
+Subject: Re: Improving Patient Access to Virtual Services
+Folder: sent | Status: Read
+
+Message Body:
+----------------------------------------
+Hi Michael,
+
+Thank you for your input. You're right, revisiting our use of the software tools we implemented in 2024 might provide us with valuable insights into enhancing our patients' access to our services. I'll start a review of how we're currently using Zendesk, RingCentral, Salesforce, and Slack and see how we can optimize them further.
+
+In the meantime, if anyone else has suggestions or insights, please don't hesitate to share.
+
+Best,
+Rachel
+============================================================
+
+================================================================================
+END OF EMAIL EXPORT
+================================================================================

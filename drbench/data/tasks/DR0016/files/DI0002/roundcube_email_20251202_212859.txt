@@ -1,0 +1,152 @@
+================================================================================
+ROUNDCUBE EMAIL EXPORT
+================================================================================
+
+USERS:
+----------------------------------------
+• emily.patel
+  Name: Emily Patel
+  Email: emily.patel@leesmarket.com
+
+• john.lee
+  Name: John Lee
+  Email: john.lee@leesmarket.com
+
+• michael.wang
+  Name: Michael Wang
+  Email: michael.wang@leesmarket.com
+
+• linda.chen
+  Name: Linda Chen
+  Email: linda.chen@leesmarket.com
+
+• sophia.kim
+  Name: Sophia Kim
+  Email: sophia.kim@leesmarket.com
+
+• daniel.liu
+  Name: Daniel Liu
+  Email: daniel.liu@leesmarket.com
+
+EMAILS:
+================================================================================
+Email ID: email_001
+Date: 2022-05-10 09:30:00
+From: Emily Patel <emily.patel@leesmarket.com>
+To: michael.wang@leesmarket.com, daniel.liu@leesmarket.com
+CC: john.lee@leesmarket.com
+Subject: Monthly Operations Meeting - Agenda
+Folder: sent | Status: Read
+
+Message Body:
+----------------------------------------
+Hello Team,
+
+I hope this email finds you well. The monthly Operations meeting is scheduled for next Monday at 10:00 AM. Here is the agenda for our discussion:
+
+1. Review last month's operational performance
+2. Discuss upcoming initiatives
+3. Review budget and resource allocation for Q2
+4. Discuss customer feedback and any arising issues
+
+If you have any other items to add to the agenda, please let me know by Wednesday this week.
+
+Best,
+Emily
+============================================================
+
+Email ID: email_002
+Date: 2022-05-11 14:45:00
+From: Daniel Liu <daniel.liu@leesmarket.com>
+To: emily.patel@leesmarket.com, michael.wang@leesmarket.com
+CC: linda.chen@leesmarket.com
+Subject: New Policy Implementation Training
+Folder: sent | Status: Read
+
+Message Body:
+----------------------------------------
+Hello Emily and Michael,
+
+As we're set to implement new Environmental Policy next month, we've arranged a training session for the operations team to understand the policy and its implications thoroughly. The training is scheduled for next Thursday at 2:00 PM. Please ensure your team's availability.
+
+Thanks,
+Daniel
+============================================================
+
+Email ID: email_003
+Date: 2022-05-13 11:20:00
+From: Sophia Kim <sophia.kim@leesmarket.com>
+To: emily.patel@leesmarket.com, john.lee@leesmarket.com
+CC: michael.wang@leesmarket.com
+Subject: Customer Satisfaction Survey Results
+Folder: sent | Status: Read
+Attachments: 1 file(s)
+
+Message Body:
+----------------------------------------
+Hello Emily and John,
+
+The results from last month's customer satisfaction survey are in. Our overall rating has improved slightly, with high marks for our product variety and delivery services. I've attached a detailed report for your review.
+
+Best,
+Sophia
+============================================================
+
+Email ID: email_001
+Date: 2025-03-15 10:30:00
+From: Emily Patel <emily.patel@leesmarket.com>
+To: john.lee@leesmarket.com, michael.wang@leesmarket.com, linda.chen@leesmarket.com, sophia.kim@leesmarket.com, daniel.liu@leesmarket.com
+Subject: Upcoming Regulatory Affairs Meeting
+Folder: sent | Status: Read
+
+Message Body:
+----------------------------------------
+Dear Team,
+
+I hope this email finds you well. I just got back from the Future of Retail conference where we discussed several regulatory changes that are coming up. It was a great opportunity to get firsthand insight from regulatory affairs representatives from other major retailers.
+
+I will be sharing a comprehensive report soon. However, our immediate concern is FSMA 204 regulations and the tracking of Lot codes. Let's discuss how we can implement these changes efficiently across all our suppliers.
+
+Best,
+Emily
+============================================================
+
+Email ID: email_002
+Date: 2025-03-16 09:45:00
+From: Daniel Liu <daniel.liu@leesmarket.com>
+To: emily.patel@leesmarket.com
+CC: john.lee@leesmarket.com, michael.wang@leesmarket.com, linda.chen@leesmarket.com, sophia.kim@leesmarket.com
+Subject: Re: Upcoming Regulatory Affairs Meeting
+Folder: inbox | Status: Read
+
+Message Body:
+----------------------------------------
+Hi Emily,
+
+Thanks for the update. I look forward to reviewing the report. On the FSMA 204 regulations, I recommend we hold a meeting with key stakeholders from procurement, operations, and IT to discuss our strategy for compliance with all our suppliers.
+
+Regards,
+Daniel
+============================================================
+
+Email ID: email_003
+Date: 2025-03-16 10:30:00
+From: John Lee <john.lee@leesmarket.com>
+To: emily.patel@leesmarket.com, daniel.liu@leesmarket.com
+CC: michael.wang@leesmarket.com, linda.chen@leesmarket.com, sophia.kim@leesmarket.com
+Subject: Re: Upcoming Regulatory Affairs Meeting
+Folder: inbox | Status: Read
+
+Message Body:
+----------------------------------------
+Hi Emily and Daniel,
+
+Thanks for your proactive approach to this. I agree that a cross-functional meeting is necessary to align our strategy. Emily, please organize this and ensure that we are prepared to communicate effectively with all our suppliers, big and small.
+
+Best,
+John
+============================================================
+
+================================================================================
+END OF EMAIL EXPORT
+================================================================================

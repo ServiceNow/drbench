@@ -1,0 +1,81 @@
+{
+    "file_name": "customer-service-analysis",
+    "file_title": "Customer Service Efficiency Analysis 2024",
+    "introduction": "This presentation examines the efficiency of our customer service team in 2024, with a focus on email response times. Our goal is to understand our performance and explore areas for improvement.",
+    "subsections": [
+        {
+            "heading": "Customer Service Team Structure",
+            "content": "\u2022 The customer service team is divided into three main units: email response, call center, and social media response\n\u2022 In 2024, the team was expanded by 30% to cater to the increased customer base\n\u2022 Each unit has a supervisor who reports to the Customer Service Manager\n\u2022 Internal training programs for new hires are conducted quarterly to ensure service quality\n\u2022 A rotational shift system is in place to ensure 24/7 customer support\n\u2022 The team uses a CRM system to streamline customer interactions and responses",
+            "type": "distractor",
+            "justification": "This slide provides details about the team structure and operations, but does not mention their email response time in 2024."
+        },
+        {
+            "heading": "2024 Email Response Time Overview",
+            "content": "\u2022 In 2024, the email response unit handled approximately 40% of all customer inquiries\n\u2022 The team implemented an automated response system for commonly asked questions\n\u2022 The team also introduced an escalation process for complex inquiries\n\u2022 The team had a weekly review to discuss any challenges and improvements\n\u2022 The team used a ticketing system to manage, prioritize, and track customer emails",
+            "type": "distractor",
+            "justification": "This slide discusses the email response processes in 2024 but does not mention the average response time."
+        },
+        {
+            "heading": "Impact of Response Time on Customer Satisfaction",
+            "content": "\u2022 Faster response times are generally associated with higher customer satisfaction ratings\n\u2022 A survey conducted in 2024 revealed that 80% of customers were satisfied with MediConn's customer service\n\u2022 Customer satisfaction levels have a direct impact on customer retention and loyalty\n\u2022 Long wait times may frustrate customers and negatively affect their perception of the company\n\u2022 MediConn Solutions strives to continually improve its response times as part of its customer service strategy",
+            "type": "distractor",
+            "justification": "This slide discusses the impact of response time on customer satisfaction, but does not reveal the actual average response time in 2024."
+        }
+    ],
+    "conclusion": "Our 2024 email response time reflects a dedicated and efficient customer service team. To further enhance customer satisfaction, we need to continually optimize our response strategies.",
+    "file_format": "pptx",
+    "file_path": ".llm_responses/generated_pptx_presentation.pptx",
+    "qa_type": "distractor",
+    "timestamp": "2025-11-19 23:52",
+    "image_queries": [
+        {
+            "slide_title": "Introduction",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "intentionally_clean",
+            "slide_type": "introduction"
+        },
+        {
+            "slide_title": "Customer Service Team Structure",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "failed",
+            "slide_type": "distractor",
+            "content_length": 6,
+            "total_chars": 496,
+            "error": "'str' object has no attribute 'choices'",
+            "theme": "Classic Navy"
+        },
+        {
+            "slide_title": "2024 Email Response Time Overview",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 5,
+            "total_chars": 382,
+            "probability": 0.25,
+            "theme": "Classic Navy"
+        },
+        {
+            "slide_title": "Impact of Response Time on Customer Satisfaction",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 5,
+            "total_chars": 478,
+            "probability": 0.25,
+            "theme": "Classic Navy"
+        },
+        {
+            "slide_title": "Conclusion",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "strategic_clean_conclusion",
+            "slide_type": "conclusion",
+            "theme": "Classic Navy"
+        }
+    ],
+    "app": "file_system"
+}

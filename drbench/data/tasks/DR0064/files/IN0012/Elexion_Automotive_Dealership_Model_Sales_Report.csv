@@ -1,0 +1,12 @@
+Year,Sales_Model,Total_Revenue,Total_Customers,Average_Revenue_Per_Customer
+The year in which the sales data was recorded.,"The sales model followed for the electric vehicles sold. For this insight, it is the 'Dealership' model.",The total revenue generated from the sales of electric vehicles under the specified sales model in the given year.,The total number of customers who purchased electric vehicles under the specified sales model in the given year.,The average revenue generated per customer under the specified sales model in the given year. This is calculated by dividing the 'Total_Revenue' by 'Total_Customers'.
+2024,Dealership,"$2,540,000",20,"$127,000"
+2021,Direct,"$2,000,000",25,"$80,000"
+2022,Dealership,"$1,800,000",18,"$100,000"
+2024,Direct,"$3,500,000",40,"$87,500"
+2020,Dealership,"$1,200,000",12,"$100,000"
+2021,Dealership,"$1,500,000",15,"$100,000"
+2023,Dealership,"$2,100,000",21,"$100,000"
+2022,Direct,"$2,500,000",30,"$83,333"
+2023,Direct,"$3,000,000",35,"$85,714"
+2019,Dealership,"$1,000,000",10,"$100,000"

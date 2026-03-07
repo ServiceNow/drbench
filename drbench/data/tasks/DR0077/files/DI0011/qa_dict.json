@@ -1,0 +1,10 @@
+{
+    "insight_id": "DI0011",
+    "qa_type": "distractor",
+    "qa_index": 11,
+    "specific_question": "By November 30, 2025, how many production lines at Elexion Automotive will be integrated with digital twin-enabled energy efficiency monitoring?",
+    "answer": "According to an internal planning report dated September 5, 2025, Elexion Automotive plans to integrate digital twin-enabled energy efficiency monitoring on 14 production lines across select facilities by October 5, 2025.",
+    "justification": "",
+    "timestamp": "2025-11-20 03:35",
+    "dr_question": "How can Elexion Automotive use real-time data from IoT sensors embedded in vehicles and manufacturing equipment, combined with digital engineering-enabled digital twins, to enhance predictive maintenance and minimize downtime in production lines by the end of 2025?"
+}

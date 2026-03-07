@@ -1,0 +1,93 @@
+================================================================================
+MATTERMOST CHAT EXPORT
+================================================================================
+
+TEAMS:
+----------------------------------------
+• Corporate Communications (corporate_communications)
+  Description: N/A
+  Type: Open
+
+• Sustainability (sustainability)
+  Description: N/A
+  Type: Open
+
+CHANNELS:
+----------------------------------------
+• #Media Relations (media_relations)
+  Team: corporate_communications
+  Purpose: To manage and improve Lee's Market's relationship with the media.
+  Type: Public
+
+• #Carbon Footprint (carbon_footprint)
+  Team: sustainability
+  Purpose: To reduce and report on the carbon footprint of Lee's Market operations.
+  Type: Public
+
+USERS:
+----------------------------------------
+• @andrew.park
+  Name: Andrew Park
+  Position: Public Relations Director
+  Email: andrew.park@leesmarket.com
+
+• @jane_lin
+  Name: Jane Lin
+  Position: Sustainability Manager
+  Email: jane.lin@leesmarket.com
+
+• @mark_choi
+  Name: Mark Choi
+  Position: Media Relations Manager
+  Email: mark.choi@leesmarket.com
+
+MESSAGES:
+================================================================================
+[Unknown time] #sustainability:carbon_footprint
+@jane_lin:
+Hello team, I've just completed analysing the data for our 2024 Q4 carbon footprint report. Our online delivery operations generated 847 metric tons of CO2 equivalent annually. The breakdown is as follows: 68% from vehicle fuel consumption, 22% from packaging materials, and 10% from warehouse operations.
+------------------------------------------------------------
+
+[Unknown time] #corporate_communications:media_relations
+@andrew.park:
+Thanks for the update, Jane. This is crucial information. We should share this in our next press release and on our sustainability page. Transparency in these matters is not just a trend, but a demand from our consumers. It will show our commitment to reducing our impact, and it will help us stand out in the competitive markets across Canada and the US.
+------------------------------------------------------------
+
+[Unknown time] #corporate_communications:media_relations
+@mark_choi:
+I agree with Andrew. Let's be clear about our findings and actions. The public, especially our environmentally conscious customers, appreciate honesty and efforts to address these issues. It will not only build trust, but also position us as a leader in sustainability in our industry.
+------------------------------------------------------------
+
+[2021-05-08 11:53:20] #corporate_communications:media_relations
+@andrew.park:
+Hi team, please remember to prep for tomorrow's press release about our new store opening in Seattle. We need to highlight our unique product offerings and convenient services.
+------------------------------------------------------------
+
+[2021-05-08 12:03:20] #sustainability:carbon_footprint
+@jane.lin:
+Just a quick update, the energy efficiency project in our warehouses is now at the final stage. We should start seeing the benefits in the next quarter.
+------------------------------------------------------------
+
+[2021-05-08 12:13:20] #corporate_communications:media_relations
+@mark.choi:
+Andrew, I've drafted the main points for the press release. Will forward it to you shortly for review and approval.
+------------------------------------------------------------
+
+[2021-05-08 12:23:20] #sustainability:carbon_footprint
+@andrew.park:
+Thanks for the update, Jane. Once we have the results, let's discuss how to incorporate this into our communications strategy.
+------------------------------------------------------------
+
+[2021-05-08 12:33:20] #corporate_communications:media_relations
+@andrew.park:
+Mark, received your draft. Looks good overall, but let's emphasize more on the unique Asian flavors that our customers love. I'll add my comments and send it back.
+------------------------------------------------------------
+
+[2021-05-08 12:43:20] #sustainability:carbon_footprint
+@jane.lin:
+Absolutely, Andrew. We should also consider a case study for our internal teams to showcase the benefits of energy efficiency initiatives.
+------------------------------------------------------------
+
+================================================================================
+END OF CHAT EXPORT
+================================================================================

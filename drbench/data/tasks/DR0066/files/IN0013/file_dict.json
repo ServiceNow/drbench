@@ -1,0 +1,82 @@
+{
+    "file_name": "crm-sales-enhancement",
+    "file_title": "CRM Data Analytics for Sales Enhancement",
+    "introduction": "In our mission to accelerate the transition to zero-emission transportation, understanding our customers and their behaviors is crucial. This presentation will discuss how we can harness data from our CRM system to identify patterns and drive sales.",
+    "subsections": [
+        {
+            "heading": "Understanding our Customer Profile",
+            "content": "\u2022 Our CRM data suggests a higher conversion rate for personalized emails containing vehicle configuration recommendations.\n\u2022 Over Q3 2024, the conversion rate for such personalized content stood at 9.7%.\n\u2022 In the same period, generic content emails witnessed a significantly lower conversion at 5.3%.\n\u2022 This resulted in a stark difference in unit sales - 234 units sold via personalized emails compared to 167 through generic content.\n\u2022 The highest impact was observed when such personalized content reached the potential customers within 10 days of their initial inquiry.\n\u2022 This indicates a clear preference among our customers for personalized and timely communication.\n\u2022 Leveraging this insight could potentially enhance our online sales strategy and the overall customer experience.",
+            "type": "insight",
+            "justification": "This content highlights effective CRM strategies and customer preferences, crucial for formulating sales strategies to drive sales growth."
+        },
+        {
+            "heading": "CRM Data: Unearthing Patterns",
+            "content": "\u2022 Customer queries peak during new product launches\n\u2022 We've noticed a correlation between customer satisfaction and repeat purchases\n\u2022 Our CRM data shows an increase in customer inquiries during holiday seasons\n\u2022 There's a positive correlation between newsletter engagement and product inquiries\n\u2022 We've seen a trend of customers preferring to contact us via email rather than phone calls\n\u2022 Customers who frequently visit our product pages are more likely to make a purchase\n\u2022 Most customers who made a purchase had at least three interactions with our sales team",
+            "type": "distractor",
+            "justification": "This slide talks about general patterns in CRM data but does not specify how to use it to identify online behavior patterns that drive sales."
+        },
+        {
+            "heading": "Leveraging CRM Data for Sales Strategy",
+            "content": "\u2022 Our sales team uses CRM data for lead prioritization\n\u2022 CRM data helps in personalizing communication with potential customers\n\u2022 We use CRM data to streamline our sales processes\n\u2022 CRM data is critical in understanding customer purchase history and creating upsell opportunities\n\u2022 Our CRM data aids in segmenting our customers for targeted marketing\n\u2022 The sales team uses CRM data to forecast sales trends\n\u2022 We leverage CRM data to identify opportunities for cross-selling and bundle offerings",
+            "type": "distractor",
+            "justification": "This slide discusses how CRM data is used for sales strategies but doesn't address how to analyze customer behavior online to boost sales by 2025."
+        }
+    ],
+    "conclusion": "By analyzing CRM data, we can better understand our customers and identify patterns that enhance our sales strategy. This approach will complement our efforts towards sustainable transportation solutions while supporting our growth targets.",
+    "file_format": "pptx",
+    "file_path": ".llm_responses/generated_pptx_presentation.pptx",
+    "qa_type": "insight",
+    "timestamp": "2025-11-20 01:16",
+    "image_queries": [
+        {
+            "slide_title": "Introduction",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "intentionally_clean",
+            "slide_type": "introduction"
+        },
+        {
+            "slide_title": "Understanding our Customer Profile",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "failed",
+            "slide_type": "insight",
+            "content_length": 7,
+            "total_chars": 766,
+            "error": "'str' object has no attribute 'choices'",
+            "theme": "Professional Green"
+        },
+        {
+            "slide_title": "CRM Data: Unearthing Patterns",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 7,
+            "total_chars": 543,
+            "probability": 0.25,
+            "theme": "Professional Green"
+        },
+        {
+            "slide_title": "Leveraging CRM Data for Sales Strategy",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 7,
+            "total_chars": 474,
+            "probability": 0.25,
+            "theme": "Professional Green"
+        },
+        {
+            "slide_title": "Conclusion",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "conclusion_failed",
+            "slide_type": "conclusion",
+            "error": "'str' object has no attribute 'choices'",
+            "theme": "Professional Green"
+        }
+    ],
+    "app": "file_system"
+}

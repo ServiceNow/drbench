@@ -1,0 +1,10 @@
+{
+    "insight_id": "DI0011",
+    "qa_type": "distractor",
+    "qa_index": 11,
+    "specific_question": "What percentage of patient complaints in 2024 were resolved by MediConn within 72 hours?",
+    "answer": "94% of patient complaints in 2024 were resolved by MediConn within 72 hours, with very less escalations to formal grievances.",
+    "justification": "This data is not relevant because it highlights MediConn's complaint handling, which shows service recovery, but cannot be used to assess or predict regulatory compliance risks. MediConn cannot use resolution metrics to identify strategic adjustments for provincial variations in CHA enforcement or legal precedents. This data is related to customer service performance, not regulatory risk mitigation.",
+    "timestamp": "2025-11-20 18:03",
+    "dr_question": "In response to the federal government\u2019s 2025 interpretation of the Canada Health Act, what should MediConn Solutions do to address compliance risks from legal precedents or provincial variations by Q4 2028?"
+}

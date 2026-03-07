@@ -1,0 +1,226 @@
+{
+    "file_name": "roundcube_email_20251120_143531",
+    "content": "{\"type\": \"user\", \"username\": \"jordan.lee\", \"first_name\": \"Jordan\", \"last_name\": \"Lee\", \"email\": \"jordan.lee@mediconnsolutions.com\", \"password\": \"secure_password1\"}\n{\"type\": \"user\", \"username\": \"linda.murphy\", \"first_name\": \"Linda\", \"last_name\": \"Murphy\", \"email\": \"linda.murphy@mediconnsolutions.com\", \"password\": \"secure_password2\"}\n{\"type\": \"user\", \"username\": \"thomas.williams\", \"first_name\": \"Thomas\", \"last_name\": \"Williams\", \"email\": \"thomas.williams@mediconnsolutions.com\", \"password\": \"secure_password3\"}\n{\"type\": \"user\", \"username\": \"susan.clark\", \"first_name\": \"Susan\", \"last_name\": \"Clark\", \"email\": \"susan.clark@mediconnsolutions.com\", \"password\": \"secure_password4\"}\n{\"type\": \"user\", \"username\": \"michael.johnson\", \"first_name\": \"Michael\", \"last_name\": \"Johnson\", \"email\": \"michael.johnson@mediconnsolutions.com\", \"password\": \"secure_password5\"}\n{\"type\": \"user\", \"username\": \"jennifer.brown\", \"first_name\": \"Jennifer\", \"last_name\": \"Brown\", \"email\": \"jennifer.brown@mediconnsolutions.com\", \"password\": \"secure_password6\"}\n{\"type\": \"user\", \"username\": \"robert.miller\", \"first_name\": \"Robert\", \"last_name\": \"Miller\", \"email\": \"robert.miller@mediconnsolutions.com\", \"password\": \"secure_password7\"}\n{\"type\": \"user\", \"username\": \"patricia.davis\", \"first_name\": \"Patricia\", \"last_name\": \"Davis\", \"email\": \"patricia.davis@mediconnsolutions.com\", \"password\": \"secure_password8\"}\n{\"type\": \"email\", \"id\": \"email_001\", \"subject\": \"Weekly Team Meeting Reminder\", \"from\": \"jordan.lee@mediconnsolutions.com\", \"from_name\": \"Jordan Lee\", \"to\": [\"linda.murphy@mediconnsolutions.com\", \"thomas.williams@mediconnsolutions.com\", \"susan.clark@mediconnsolutions.com\"], \"cc\": [\"michael.johnson@mediconnsolutions.com\"], \"date\": \"2022-03-14 09:30:00\", \"body\": \"Hi Team,\\n\\nJust a quick reminder about our weekly meeting scheduled tomorrow at 10:00 AM. Please ensure to keep your updates ready.\\n\\nBest,\\nJordan\", \"folder\": \"sent\", \"read\": true, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_002\", \"subject\": \"Performance Review Process\", \"from\": \"michael.johnson@mediconnsolutions.com\", \"from_name\": \"Michael Johnson\", \"to\": [\"jordan.lee@mediconnsolutions.com\"], \"cc\": [], \"date\": \"2022-03-15 11:30:00\", \"body\": \"Jordan,\\n\\nJust a quick note to inform you that the performance review process will begin next week. You'll be receiving a calendar invite for your review meeting.\\n\\nThanks,\\nMichael\", \"folder\": \"inbox\", \"read\": true, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_003\", \"subject\": \"Quarterly Budget Planning\", \"from\": \"susan.clark@mediconnsolutions.com\", \"from_name\": \"Susan Clark\", \"to\": [\"jordan.lee@mediconnsolutions.com\"], \"cc\": [], \"date\": \"2022-03-16 13:30:00\", \"body\": \"Hi Jordan,\\n\\nI'm working on the budget for next quarter. Can you provide me with the anticipated cybersecurity expenses?\\n\\nThanks,\\nSusan\", \"folder\": \"inbox\", \"read\": true, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_004\", \"subject\": \"Customer Satisfaction Survey\", \"from\": \"linda.murphy@mediconnsolutions.com\", \"from_name\": \"Linda Murphy\", \"to\": [\"jordan.lee@mediconnsolutions.com\"], \"cc\": [], \"date\": \"2022-03-17 14:30:00\", \"body\": \"Hi Jordan,\\n\\nOur recent customer satisfaction survey has some interesting feedback about the security features we offer. I will share the report with you by end of this week.\\n\\nBest,\\nLinda\", \"folder\": \"inbox\", \"read\": true, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_005\", \"subject\": \"Healthcare Tech Conference 2022\", \"from\": \"thomas.williams@mediconnsolutions.com\", \"from_name\": \"Thomas Williams\", \"to\": [\"jordan.lee@mediconnsolutions.com\"], \"cc\": [], \"date\": \"2022-03-18 15:30:00\", \"body\": \"Jordan,\\n\\nJust a heads up, the Healthcare Tech Conference 2022 is coming up next month. It would be a good opportunity to network and learn about the latest trends in our industry.\\n\\nThomas\", \"folder\": \"inbox\", \"read\": true, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_001\", \"subject\": \"AI Anomaly Detection Integration Plan\", \"from\": \"jordan.lee@mediconnsolutions.com\", \"from_name\": \"Jordan Lee\", \"to\": [\"linda.murphy@mediconnsolutions.com\"], \"cc\": [\"thomas.williams@mediconnsolutions.com\", \"susan.clark@mediconnsolutions.com\"], \"date\": \"2026-04-01 09:30:00\", \"body\": \"Hi Linda,\\n\\nAs we prepare to integrate the new AI Anomaly Detection tool into our infrastructure, it's essential to consider the potential impact on our key healthcare areas. We cannot allow any disruptions to our General Physician, Dermatology, and Mental Health services. These areas are the backbone of our operations, and any downtime could severely impact patient care.\\n\\nThe integration plan will be designed to minimize any potential disruption to these services. I will be working closely with the IT team to ensure a smooth transition.\\n\\nBest,\\nJordan\", \"folder\": \"sent\", \"read\": true, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_002\", \"subject\": \"Re: AI Anomaly Detection Integration Plan\", \"from\": \"linda.murphy@mediconnsolutions.com\", \"from_name\": \"Linda Murphy\", \"to\": [\"jordan.lee@mediconnsolutions.com\"], \"cc\": [\"thomas.williams@mediconnsolutions.com\", \"susan.clark@mediconnsolutions.com\"], \"date\": \"2026-04-01 11:45:00\", \"body\": \"Jordan,\\n\\nThank you for your thorough considerations. Given the critical nature of our General Physician, Dermatology, and Mental Health services, it's reassuring to know that you're prioritizing their continuity during this integration.\\n\\nPlease keep us updated on the progress and let us know if any challenges arise.\\n\\nBest,\\nLinda\", \"folder\": \"inbox\", \"read\": true, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_003\", \"subject\": \"Re: AI Anomaly Detection Integration Plan\", \"from\": \"susan.clark@mediconnsolutions.com\", \"from_name\": \"Susan Clark\", \"to\": [\"jordan.lee@mediconnsolutions.com\", \"linda.murphy@mediconnsolutions.com\"], \"cc\": [\"thomas.williams@mediconnsolutions.com\"], \"date\": \"2026-04-01 13:20:00\", \"body\": \"Jordan and Linda,\\n\\nI echo Linda's sentiments. It's critical to ensure that our key services remain uninterrupted during this transition. Jordan, please work closely with the respective department heads and ensure that they are aware of the timeline and potential impact.\\n\\nBest,\\nSusan\", \"folder\": \"inbox\", \"read\": true, \"attachments\": []}",
+    "email_setup": [
+        {
+            "type": "user",
+            "username": "jordan.lee",
+            "first_name": "Jordan",
+            "last_name": "Lee",
+            "email": "jordan.lee@mediconnsolutions.com",
+            "password": "secure_password1"
+        },
+        {
+            "type": "user",
+            "username": "linda.murphy",
+            "first_name": "Linda",
+            "last_name": "Murphy",
+            "email": "linda.murphy@mediconnsolutions.com",
+            "password": "secure_password2"
+        },
+        {
+            "type": "user",
+            "username": "thomas.williams",
+            "first_name": "Thomas",
+            "last_name": "Williams",
+            "email": "thomas.williams@mediconnsolutions.com",
+            "password": "secure_password3"
+        },
+        {
+            "type": "user",
+            "username": "susan.clark",
+            "first_name": "Susan",
+            "last_name": "Clark",
+            "email": "susan.clark@mediconnsolutions.com",
+            "password": "secure_password4"
+        },
+        {
+            "type": "user",
+            "username": "michael.johnson",
+            "first_name": "Michael",
+            "last_name": "Johnson",
+            "email": "michael.johnson@mediconnsolutions.com",
+            "password": "secure_password5"
+        },
+        {
+            "type": "user",
+            "username": "jennifer.brown",
+            "first_name": "Jennifer",
+            "last_name": "Brown",
+            "email": "jennifer.brown@mediconnsolutions.com",
+            "password": "secure_password6"
+        },
+        {
+            "type": "user",
+            "username": "robert.miller",
+            "first_name": "Robert",
+            "last_name": "Miller",
+            "email": "robert.miller@mediconnsolutions.com",
+            "password": "secure_password7"
+        },
+        {
+            "type": "user",
+            "username": "patricia.davis",
+            "first_name": "Patricia",
+            "last_name": "Davis",
+            "email": "patricia.davis@mediconnsolutions.com",
+            "password": "secure_password8"
+        }
+    ],
+    "email_messages": [
+        {
+            "type": "email",
+            "id": "email_001",
+            "subject": "Weekly Team Meeting Reminder",
+            "from": "jordan.lee@mediconnsolutions.com",
+            "from_name": "Jordan Lee",
+            "to": [
+                "linda.murphy@mediconnsolutions.com",
+                "thomas.williams@mediconnsolutions.com",
+                "susan.clark@mediconnsolutions.com"
+            ],
+            "cc": [
+                "michael.johnson@mediconnsolutions.com"
+            ],
+            "date": "2022-03-14 09:30:00",
+            "body": "Hi Team,\n\nJust a quick reminder about our weekly meeting scheduled tomorrow at 10:00 AM. Please ensure to keep your updates ready.\n\nBest,\nJordan",
+            "folder": "sent",
+            "read": true,
+            "attachments": [],
+            "tag": "distractor"
+        },
+        {
+            "type": "email",
+            "id": "email_002",
+            "subject": "Performance Review Process",
+            "from": "michael.johnson@mediconnsolutions.com",
+            "from_name": "Michael Johnson",
+            "to": [
+                "jordan.lee@mediconnsolutions.com"
+            ],
+            "cc": [],
+            "date": "2022-03-15 11:30:00",
+            "body": "Jordan,\n\nJust a quick note to inform you that the performance review process will begin next week. You'll be receiving a calendar invite for your review meeting.\n\nThanks,\nMichael",
+            "folder": "inbox",
+            "read": true,
+            "attachments": [],
+            "tag": "distractor"
+        },
+        {
+            "type": "email",
+            "id": "email_003",
+            "subject": "Quarterly Budget Planning",
+            "from": "susan.clark@mediconnsolutions.com",
+            "from_name": "Susan Clark",
+            "to": [
+                "jordan.lee@mediconnsolutions.com"
+            ],
+            "cc": [],
+            "date": "2022-03-16 13:30:00",
+            "body": "Hi Jordan,\n\nI'm working on the budget for next quarter. Can you provide me with the anticipated cybersecurity expenses?\n\nThanks,\nSusan",
+            "folder": "inbox",
+            "read": true,
+            "attachments": [],
+            "tag": "distractor"
+        },
+        {
+            "type": "email",
+            "id": "email_004",
+            "subject": "Customer Satisfaction Survey",
+            "from": "linda.murphy@mediconnsolutions.com",
+            "from_name": "Linda Murphy",
+            "to": [
+                "jordan.lee@mediconnsolutions.com"
+            ],
+            "cc": [],
+            "date": "2022-03-17 14:30:00",
+            "body": "Hi Jordan,\n\nOur recent customer satisfaction survey has some interesting feedback about the security features we offer. I will share the report with you by end of this week.\n\nBest,\nLinda",
+            "folder": "inbox",
+            "read": true,
+            "attachments": [],
+            "tag": "distractor"
+        },
+        {
+            "type": "email",
+            "id": "email_005",
+            "subject": "Healthcare Tech Conference 2022",
+            "from": "thomas.williams@mediconnsolutions.com",
+            "from_name": "Thomas Williams",
+            "to": [
+                "jordan.lee@mediconnsolutions.com"
+            ],
+            "cc": [],
+            "date": "2022-03-18 15:30:00",
+            "body": "Jordan,\n\nJust a heads up, the Healthcare Tech Conference 2022 is coming up next month. It would be a good opportunity to network and learn about the latest trends in our industry.\n\nThomas",
+            "folder": "inbox",
+            "read": true,
+            "attachments": [],
+            "tag": "distractor"
+        },
+        {
+            "type": "email",
+            "id": "email_001",
+            "subject": "AI Anomaly Detection Integration Plan",
+            "from": "jordan.lee@mediconnsolutions.com",
+            "from_name": "Jordan Lee",
+            "to": [
+                "linda.murphy@mediconnsolutions.com"
+            ],
+            "cc": [
+                "thomas.williams@mediconnsolutions.com",
+                "susan.clark@mediconnsolutions.com"
+            ],
+            "date": "2026-04-01 09:30:00",
+            "body": "Hi Linda,\n\nAs we prepare to integrate the new AI Anomaly Detection tool into our infrastructure, it's essential to consider the potential impact on our key healthcare areas. We cannot allow any disruptions to our General Physician, Dermatology, and Mental Health services. These areas are the backbone of our operations, and any downtime could severely impact patient care.\n\nThe integration plan will be designed to minimize any potential disruption to these services. I will be working closely with the IT team to ensure a smooth transition.\n\nBest,\nJordan",
+            "folder": "sent",
+            "read": true,
+            "attachments": [],
+            "tag": "insight"
+        },
+        {
+            "type": "email",
+            "id": "email_002",
+            "subject": "Re: AI Anomaly Detection Integration Plan",
+            "from": "linda.murphy@mediconnsolutions.com",
+            "from_name": "Linda Murphy",
+            "to": [
+                "jordan.lee@mediconnsolutions.com"
+            ],
+            "cc": [
+                "thomas.williams@mediconnsolutions.com",
+                "susan.clark@mediconnsolutions.com"
+            ],
+            "date": "2026-04-01 11:45:00",
+            "body": "Jordan,\n\nThank you for your thorough considerations. Given the critical nature of our General Physician, Dermatology, and Mental Health services, it's reassuring to know that you're prioritizing their continuity during this integration.\n\nPlease keep us updated on the progress and let us know if any challenges arise.\n\nBest,\nLinda",
+            "folder": "inbox",
+            "read": true,
+            "attachments": [],
+            "tag": "insight"
+        },
+        {
+            "type": "email",
+            "id": "email_003",
+            "subject": "Re: AI Anomaly Detection Integration Plan",
+            "from": "susan.clark@mediconnsolutions.com",
+            "from_name": "Susan Clark",
+            "to": [
+                "jordan.lee@mediconnsolutions.com",
+                "linda.murphy@mediconnsolutions.com"
+            ],
+            "cc": [
+                "thomas.williams@mediconnsolutions.com"
+            ],
+            "date": "2026-04-01 13:20:00",
+            "body": "Jordan and Linda,\n\nI echo Linda's sentiments. It's critical to ensure that our key services remain uninterrupted during this transition. Jordan, please work closely with the respective department heads and ensure that they are aware of the timeline and potential impact.\n\nBest,\nSusan",
+            "folder": "inbox",
+            "read": true,
+            "attachments": [],
+            "tag": "insight"
+        }
+    ],
+    "file_format": "jsonl",
+    "file_path": ".llm_responses/generated_email_document.jsonl",
+    "qa_type": "distractor",
+    "timestamp": "2025-11-20 15:35",
+    "app": "email"
+}

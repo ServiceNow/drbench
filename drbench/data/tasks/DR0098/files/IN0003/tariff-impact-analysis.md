@@ -1,0 +1,21 @@
+# Impact of US Tariffs on Lee's Market Sales
+
+## Introduction
+
+With the recent drop in Canadian retail sales triggered by US tariffs, it is critical for Lee's Market to reassess our sales forecasts. This document aims to analyze product-level sales trends across tariff-exposed and tariff-insulated categories. The findings will guide us in updating our sales projections for the years up to 2027 and provide strategic insights for decision-making.
+
+## Analysis of Tariff-Exposed Category Sales Trends
+
+Our data reveals a noteworthy shift in consumer behavior in response to the tariffs instituted in the first quarter of 2025. Roughly 11% of our customers altered their buying habits within a three-month period, moving away from tariff-affected products, such as those imported from the U.S., and instead choosing domestic or alternative items. This demonstrates a level of price elasticity that we must consider in our future planning. We can utilize this information to refine our cross-merchandising strategies and optimize our pricing policies for substitute items that are gaining popularity, thereby spotlighting them in our promotions.
+
+## Insights from Tariff-Insulated Category Sales
+
+Our grocery department, which is tariff-insulated, reported a steady growth in 2024, with an average increase of 2% per quarter. This growth was influenced by the introduction of organic products and locally sourced goods. These categories were well received by our customers.
+
+## Revised Sales Forecast 2025-2027
+
+In 2023, we revised our sales forecasts to account for the new store openings in Surrey and Burnaby. The revised forecasts didn't consider any potential impacts from external factors such as tariffs. It was purely based on our expansion plan and historical sales trends.
+
+## Conclusion
+
+The analysis of product-level sales trends provides us with valuable insights into how US tariffs have impacted our business. It is evident that we need to adjust our sales forecasts for 2025-2027. The revised projections will aid in strategic planning and decision-making to navigate the current economic landscape. Continued monitoring of sales trends is recommended.

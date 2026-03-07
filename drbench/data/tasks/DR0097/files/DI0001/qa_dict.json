@@ -1,0 +1,10 @@
+{
+    "insight_id": "DI0001",
+    "qa_type": "distractor",
+    "qa_index": 1,
+    "specific_question": "What is the average time-to-hire for a senior software engineer in MediConn's Vancouver office as of mid-2025?",
+    "answer": "The average time to hire a senior software engineer in MediConn's Vancouver office as of mid-2025 is 60 days.",
+    "justification": "The time it takes to hire new engineers does not inform how to optimize current IT operations or control per-consultation costs with the existing team in Q4 2025.",
+    "timestamp": "2025-11-21 12:53",
+    "dr_question": "How can MediConn streamline its IT workflows in Q4 2025 to boost clinician efficiency and manage per-consultation costs, given that virtual healthcare expansion has improved access but increased overall expenses?"
+}

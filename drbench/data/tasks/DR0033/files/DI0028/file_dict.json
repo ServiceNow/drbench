@@ -1,0 +1,81 @@
+{
+    "file_name": "september-2025-campaign-review",
+    "file_title": "Review of September 2025 Coupon Campaign",
+    "introduction": "This presentation aims to analyze the September 2025 coupon campaign, with a particular focus on Jason Wong's involvement and its impact on overall results. We will also explore related marketing strategies during the same period.",
+    "subsections": [
+        {
+            "heading": "September 2025 Campaign Overview",
+            "content": "\u2022 The campaign launched on September 1, 2025\n\u2022 The campaign included both in-store and online offers\n\u2022 A comprehensive range of products were included in the campaign\n\u2022 The campaign was promoted via social media, email newsletters, and in-store signage\n\u2022 The campaign ended on September 30, 2025\n\u2022 A post-campaign customer satisfaction survey was conducted in October 2025",
+            "type": "distractor",
+            "justification": "The content provides only general details about the campaign, not Jason Wong's specific involvement."
+        },
+        {
+            "heading": "Jason Wong's Role in Campaign Execution",
+            "content": "\u2022 Jason Wong is the Marketing Manager of Lee's Market\n\u2022 Wong has been with the company for over 5 years\n\u2022 Under Wong's leadership, the marketing team grew by 15%\n\u2022 Wong initiated the use of digital marketing tools to streamline campaign tracking\n\u2022 Wong's team consists of 20 marketing professionals specializing in different areas",
+            "type": "distractor",
+            "justification": "This content outlines Wong's general role and responsibilities but doesn't specify his involvement in the September 2025 coupon campaign."
+        },
+        {
+            "heading": "Comparative Analysis: Previous Marketing Efforts",
+            "content": "\u2022 The September 2024 campaign saw a 10% increase in customer engagement compared to previous year\n\u2022 The Q1 2025 campaign was the most successful in terms of sales\n\u2022 The Q2 2025 campaign had the highest customer satisfaction rating\n\u2022 The Q3 2025 campaign, which included the September campaign, outperformed the Q3 2024 campaign\n\u2022 The June 2025 campaign was the least successful in terms of customer engagement",
+            "type": "distractor",
+            "justification": "While this slide provides historical context, it doesn't address Jason Wong's specific involvement in the September 2025 campaign."
+        }
+    ],
+    "conclusion": "Our analysis has shed light on Jason Wong's significant contribution to the successful execution of our September 2025 coupon campaign. Moving forward, we will incorporate the insights gained in our future marketing strategies.",
+    "file_format": "pptx",
+    "file_path": ".llm_responses/generated_pptx_presentation.pptx",
+    "qa_type": "distractor",
+    "timestamp": "2025-11-19 12:15",
+    "image_queries": [
+        {
+            "slide_title": "Introduction",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "intentionally_clean",
+            "slide_type": "introduction"
+        },
+        {
+            "slide_title": "September 2025 Campaign Overview",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 6,
+            "total_chars": 355,
+            "probability": 0.25,
+            "theme": "Corporate Blue"
+        },
+        {
+            "slide_title": "Jason Wong's Role in Campaign Execution",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 5,
+            "total_chars": 316,
+            "probability": 0.45,
+            "theme": "Corporate Blue"
+        },
+        {
+            "slide_title": "Comparative Analysis: Previous Marketing Efforts",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "failed",
+            "slide_type": "distractor",
+            "content_length": 5,
+            "total_chars": 395,
+            "error": "'str' object has no attribute 'choices'",
+            "theme": "Corporate Blue"
+        },
+        {
+            "slide_title": "Conclusion",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "strategic_clean_conclusion",
+            "slide_type": "conclusion",
+            "theme": "Corporate Blue"
+        }
+    ],
+    "app": "nextcloud"
+}

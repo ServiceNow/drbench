@@ -1,0 +1,13 @@
+Year,Month,Activity,Average_Staff_Hours,Store_Count
+The year when the hours were recorded.,The month when the hours were recorded.,"The specific operational activity being tracked, in this case, 'Manual Shelf Label Changes'.",The average number of staff hours spent per month on the specified activity across all Lee's Market locations.,The number of Lee's Market locations operational in the specified month and year.
+2024,July,Manual Shelf Label Changes,100,20
+2023,June,Manual Shelf Label Changes,110,19
+2025,October,Manual Shelf Label Changes,118,20
+2025,September,Manual Shelf Label Changes,115,20
+2024,August,Manual Shelf Label Changes,105,20
+2022,March,Manual Shelf Label Changes,105,18
+2025,November,Manual Shelf Label Changes,120,20
+2021,February,Manual Shelf Label Changes,102,18
+2023,May,Manual Shelf Label Changes,115,19
+2021,January,Manual Shelf Label Changes,100,18
+2022,April,Manual Shelf Label Changes,110,19

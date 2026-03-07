@@ -1,0 +1,83 @@
+================================================================================
+MATTERMOST CHAT EXPORT
+================================================================================
+
+TEAMS:
+----------------------------------------
+• Operations (operations)
+  Description: N/A
+  Type: Open
+
+• Compliance (compliance)
+  Description: N/A
+  Type: Open
+
+CHANNELS:
+----------------------------------------
+• #Supplier Relations (supplier_relations)
+  Team: operations
+  Purpose: Discuss supplier matters, including compliance with FSMA 204 rules
+  Type: Public
+
+• #Regulatory Updates (regulatory_updates)
+  Team: compliance
+  Purpose: Share updates on regulatory changes and discuss compliance strategies
+  Type: Public
+
+USERS:
+----------------------------------------
+• @emily.patel
+  Name: Emily Patel
+  Position: Regulatory Affairs Manager
+  Email: emily.patel@leesmarket.com
+
+• @johnsmith
+  Name: John Smith
+  Position: Operations Manager
+  Email: john.smith@leesmarket.com
+
+• @sarahjohnson
+  Name: Sarah Johnson
+  Position: Compliance Officer
+  Email: sarah.johnson@leesmarket.com
+
+MESSAGES:
+================================================================================
+[Unknown time] #operations:supplier_relations
+@johnsmith:
+Hi team, as we continue to work on our FSMA 204 compliance efforts, it's important to remember that we have a shared responsibility with our suppliers. Can anyone give an update on the latest discussions with suppliers regarding the lot codes tracking?
+------------------------------------------------------------
+
+[Unknown time] #operations:supplier_relations
+@emily.patel:
+Hello John, you're absolutely right. We have been actively collaborating with our suppliers on this matter. We hosted representatives from all our major suppliers at the Q1 2025 Supplier Review Day, where FSMA 204 and its rules regarding lot codes were the main subject of discussion. We will continue to work with them to ensure full compliance.
+------------------------------------------------------------
+
+[2021-05-08 11:53:20] #operations:supplier_relations
+@johnsmith:
+Hey team, just a reminder that we have a meeting scheduled this afternoon to discuss the supplier contracts renewal. Let's make sure we're prepared with all the necessary data.
+------------------------------------------------------------
+
+[2021-05-08 11:55:00] #compliance:regulatory_updates
+@sarahjohnson:
+Hi team, we have a new policy update from the legal department. Please make sure to review it and let me know if there are any concerns.
+------------------------------------------------------------
+
+[2021-05-08 11:56:40] #operations:supplier_relations
+@emily.patel:
+John, I've received an email from one of our suppliers regarding the increase in their product prices. Could we include this in our meeting discussion?
+------------------------------------------------------------
+
+[2021-05-08 11:58:20] #compliance:regulatory_updates
+@emily.patel:
+I'll be attending a regulatory conference next week. I'll share any relevant updates and learnings with the team when I return.
+------------------------------------------------------------
+
+[2021-05-08 12:00:00] #operations:supplier_relations
+@johnsmith:
+Thanks for the heads up, Emily. I'll add it to our meeting's agenda. Let's discuss how this price increase will impact our budget and operations.
+------------------------------------------------------------
+
+================================================================================
+END OF CHAT EXPORT
+================================================================================

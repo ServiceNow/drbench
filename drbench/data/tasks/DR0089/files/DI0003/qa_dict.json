@@ -1,0 +1,10 @@
+{
+    "insight_id": "DI0003",
+    "qa_type": "distractor",
+    "qa_index": 3,
+    "specific_question": "What is the projected rise in electric scooter sales value at Elexion Automotive from 2021 to 2028?",
+    "answer": "Electric scooter sales are projected to grow from $35 million in 2021 to over $95 million by 2028 at Elexion Automotive.",
+    "justification": "Micromobility trends focus on small urban transportation solutions and are not related to electric vehicle battery performance, cold-weather testing, EV battery endurance, or reliability.",
+    "timestamp": "2025-11-20 15:43",
+    "dr_question": "Given that one in seven new vehicles sold in Canada in 2024 were zero-emission, how can Elexion Automotive\u2019s QA team enhance cold-weather testing protocols by Q4 2026 to improve EV battery endurance and reliability in the country\u2019s key ZEV markets?"
+}

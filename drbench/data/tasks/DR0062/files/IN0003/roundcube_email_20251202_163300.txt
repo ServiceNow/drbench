@@ -1,0 +1,169 @@
+================================================================================
+ROUNDCUBE EMAIL EXPORT
+================================================================================
+
+USERS:
+----------------------------------------
+• emily.lee
+  Name: Emily Lee
+  Email: emily.lee@elexionauto.com
+
+• mark.jones
+  Name: Mark Jones
+  Email: mark.jones@elexionauto.com
+
+• julia.carter
+  Name: Julia Carter
+  Email: julia.carter@elexionauto.com
+
+• paul.henderson
+  Name: Paul Henderson
+  Email: paul.henderson@elexionauto.com
+
+• lisa.murphy
+  Name: Lisa Murphy
+  Email: lisa.murphy@elexionauto.com
+
+• steve.martin
+  Name: Steve Martin
+  Email: steve.martin@elexionauto.com
+
+• carolyn.green
+  Name: Carolyn Green
+  Email: carolyn.green@elexionauto.com
+
+EMAILS:
+================================================================================
+Email ID: email_001
+Date: 2023-07-15 09:00:00
+From: Emily Lee <emily.lee@elexionauto.com>
+To: mark.jones@elexionauto.com
+CC: lisa.murphy@elexionauto.com
+Subject: Weekly Sales Team Meeting Agenda
+Folder: sent | Status: Read
+
+Message Body:
+----------------------------------------
+Hello Mark,
+
+This is to confirm our weekly sales meeting scheduled for this Wednesday at 2pm. The focus of this session will be on reviewing the current sales performance and discussing strategies for Q3. Please prepare a brief report highlighting the key trends and challenges.
+
+Best,
+Emily
+============================================================
+
+Email ID: email_002
+Date: 2023-07-15 13:15:00
+From: Mark Jones <mark.jones@elexionauto.com>
+To: emily.lee@elexionauto.com
+CC: lisa.murphy@elexionauto.com
+Subject: Re: Weekly Sales Team Meeting Agenda
+Folder: sent | Status: Read
+
+Message Body:
+----------------------------------------
+Hi Emily,
+
+That sounds good. I'll have the report ready for the meeting. Also, I propose that we discuss potential sales strategies for the upcoming holiday season.
+
+Best,
+Mark
+============================================================
+
+Email ID: email_003
+Date: 2023-07-16 11:10:00
+From: Julia Carter <julia.carter@elexionauto.com>
+To: emily.lee@elexionauto.com
+Subject: New Customer Feedback Survey Analysis
+Folder: sent | Status: Read
+
+Message Body:
+----------------------------------------
+Hello Emily,
+
+I've just completed the analysis of the recent customer feedback survey. I've noticed some interesting trends that I think could be useful for the sales team. Please let me know a good time to discuss.
+
+Regards,
+Julia
+============================================================
+
+Email ID: email_004
+Date: 2023-07-16 15:30:00
+From: Emily Lee <emily.lee@elexionauto.com>
+To: julia.carter@elexionauto.com
+Subject: Re: New Customer Feedback Survey Analysis
+Folder: sent | Status: Read
+
+Message Body:
+----------------------------------------
+Hi Julia,
+
+Thanks for the update. I'm available tomorrow at 10am. Let's schedule a meeting to discuss the findings of the survey.
+
+Best,
+Emily
+============================================================
+
+Email ID: email_001
+Date: 2024-01-10 09:30:00
+From: Julia Carter <julia.carter@elexionauto.com>
+To: emily.lee@elexionauto.com, mark.jones@elexionauto.com, lisa.murphy@elexionauto.com
+CC: steve.martin@elexionauto.com, carolyn.green@elexionauto.com
+Subject: Q4 Customer Insight Report Review
+Folder: inbox | Status: Read
+
+Message Body:
+----------------------------------------
+Good Morning Team,
+
+I've completed the Q4 customer insight report and wanted to highlight a key finding regarding our home charging station sales. Our data shows that 40% of our first-hand buyers purchased home charging stations between January 2023 and December 2023.
+
+However, I noticed that we have no sales data on second-hand buyers for the same period. It seems we're losing contact with these customers after the initial sale. This is a significant gap in our customer engagement and a potential area of growth.
+
+Could we explore ways to better engage with second-hand buyers?
+
+Best regards,
+Julia
+============================================================
+
+Email ID: email_002
+Date: 2024-01-10 10:05:00
+From: Emily Lee <emily.lee@elexionauto.com>
+To: julia.carter@elexionauto.com, mark.jones@elexionauto.com, lisa.murphy@elexionauto.com
+CC: steve.martin@elexionauto.com, carolyn.green@elexionauto.com
+Subject: Re: Q4 Customer Insight Report Review
+Folder: inbox | Status: Read
+
+Message Body:
+----------------------------------------
+Julia,
+
+Thanks for bringing this to our attention. I agree, it seems like we're missing out on potential sales and engagement with our second-hand buyers.
+
+I'm wondering if we could leverage something like Automotive Cloud's vehicle tracking capabilities to maintain contact with these customers and offer them our home charging stations or other services. Let's discuss this further in our next meeting.
+
+Best,
+Emily
+============================================================
+
+Email ID: email_003
+Date: 2024-01-10 10:35:00
+From: Steve Martin <steve.martin@elexionauto.com>
+To: emily.lee@elexionauto.com, julia.carter@elexionauto.com, mark.jones@elexionauto.com, lisa.murphy@elexionauto.com
+CC: carolyn.green@elexionauto.com
+Subject: Re: Q4 Customer Insight Report Review
+Folder: inbox | Status: Read
+
+Message Body:
+----------------------------------------
+Emily, Julia,
+
+Great point. The technology department has been exploring Automotive Cloud's capabilities, and I believe their vehicle tracking feature could indeed help us maintain contact with second-hand buyers. We could potentially use this to offer services and products like home charging stations to these customers. Let's discuss the technical feasibility in our next meeting.
+
+Regards,
+Steve
+============================================================
+
+================================================================================
+END OF EMAIL EXPORT
+================================================================================

@@ -1,0 +1,82 @@
+{
+    "file_name": "micromobility-usage-analysis",
+    "file_title": "Micromobility Usage Analysis: Elexion Automotive",
+    "introduction": "This presentation aims to analyze the adoption of Elexion Automotive's micromobility options among US commuters in 2024. The insights drawn will guide our strategic plans for future market expansion and product development.",
+    "subsections": [
+        {
+            "heading": "Evolving Landscape of Micromobility Market",
+            "content": "\u2022 Global micromobility market expected to reach $150 billion by 2025\n\u2022 Increase in urbanization is driving the adoption of micromobility solutions\n\u2022 Micromobility is becoming an integral part of smart city initiatives\n\u2022 Key players in the micromobility market include Bird, Lime, and Spin\n\u2022 Legislation and regulation are major factors influencing market growth\n\u2022 Rising environmental concerns have led to increased interest in electric micromobility solutions\n\u2022 Technological advancements, such as IoT and AI, playing a significant role in the market",
+            "type": "distractor",
+            "justification": "The content discusses the broader micromobility market and does not provide information on Elexion's market share or US commuter usage, thus not answering the DR question."
+        },
+        {
+            "heading": "Elexion's Micromobility Adoption Among US Commuters",
+            "content": "\u2022 Elexion launched its micromobility solutions in 2019\n\u2022 The company has operations in over 20 US cities\n\u2022 Elexion's micromobility solutions include electric bikes and scooters\n\u2022 The company has a strong focus on safety and reliability\n\u2022 Elexion uses advanced technology for fleet management and user experience\n\u2022 The company's micromobility solutions are popular among millennials and Gen Z",
+            "type": "distractor",
+            "justification": "This slide focuses on Elexion's offerings and operations, without revealing the specific usage by US commuters in 2024."
+        },
+        {
+            "heading": "Implications for Future Market Expansion",
+            "content": "\u2022 Elexion plans to expand its operations to Europe and Asia\n\u2022 The company is investing in R&D to improve its products and services\n\u2022 Elexion is exploring partnerships with local governments for sustainable transportation\n\u2022 The company is considering acquisitions to expand its market reach\n\u2022 Elexion is looking to diversify its micromobility offerings\n\u2022 Regulatory changes and public acceptance will play a key role in future expansion",
+            "type": "distractor",
+            "justification": "This slide discusses future plans for Elexion's expansion, not the usage of its micromobility options by US commuters in 2024."
+        }
+    ],
+    "conclusion": "The adoption rate of our micromobility solutions reveals significant progress in our market penetration efforts. Moving forward, these insights will steer our strategic decisions to capitalize on this growth and enhance our product offerings.",
+    "file_format": "pptx",
+    "file_path": ".llm_responses/generated_pptx_presentation.pptx",
+    "qa_type": "distractor",
+    "timestamp": "2025-11-20 15:47",
+    "image_queries": [
+        {
+            "slide_title": "Introduction",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "intentionally_clean",
+            "slide_type": "introduction"
+        },
+        {
+            "slide_title": "Evolving Landscape of Micromobility Market",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 7,
+            "total_chars": 531,
+            "probability": 0.25,
+            "theme": "Bold Crimson"
+        },
+        {
+            "slide_title": "Elexion's Micromobility Adoption Among US Commuters",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 6,
+            "total_chars": 374,
+            "probability": 0.25,
+            "theme": "Bold Crimson"
+        },
+        {
+            "slide_title": "Implications for Future Market Expansion",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "failed",
+            "slide_type": "distractor",
+            "content_length": 6,
+            "total_chars": 418,
+            "error": "'str' object has no attribute 'choices'",
+            "theme": "Bold Crimson"
+        },
+        {
+            "slide_title": "Conclusion",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "conclusion_failed",
+            "slide_type": "conclusion",
+            "error": "'str' object has no attribute 'choices'",
+            "theme": "Bold Crimson"
+        }
+    ],
+    "app": "file_system"
+}

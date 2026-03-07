@@ -1,0 +1,12 @@
+company_name,year_month,login_count
+The name of the company that owns the mobile health app.,"The year and month when the logins were recorded, in YYYY-MM format.",The number of user logins recorded on the mobile health app during the specified month.
+Wellness Corp,2025-03,125000
+MediConn Solutions,2025-05,230000
+HealthFirst,2025-02,115000
+HealthFirst,2025-03,120000
+Wellness Corp,2025-04,130000
+MediConn Solutions,2025-02,200000
+MediConn Solutions,2025-03,210000
+MediConn Solutions,2025-04,220000
+HealthFirst,2025-04,125000
+Wellness Corp,2025-02,120000

@@ -1,0 +1,10 @@
+{
+    "insight_id": "DI0005",
+    "qa_type": "distractor",
+    "qa_index": 5,
+    "specific_question": "As of October 5, 2025, how many robotic arms are actively deployed in Elexion Automotive\u2019s assembly facilities across North America?",
+    "answer": "As of October 5, 2025, factory records show Elexion Automotive currently operates 2,850 robotic arms across its North American assembly facilities.",
+    "justification": "",
+    "timestamp": "2025-11-20 03:33",
+    "dr_question": "How can Elexion Automotive use real-time data from IoT sensors embedded in vehicles and manufacturing equipment, combined with digital engineering-enabled digital twins, to enhance predictive maintenance and minimize downtime in production lines by the end of 2025?"
+}

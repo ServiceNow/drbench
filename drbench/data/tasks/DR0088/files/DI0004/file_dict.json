@@ -1,0 +1,82 @@
+{
+    "file_name": "workforce-expansion-referral-impact",
+    "file_title": "Workforce Expansion & Employee Referral Impact",
+    "introduction": "This presentation analyses our recent workforce expansion, focusing on the impact of our employee referral program. It provides insights on the effectiveness of our referral program in our hiring process.",
+    "subsections": [
+        {
+            "heading": "Q2 Workforce Expansion Overview",
+            "content": "\u2022 Total hiring in Q2 increased by 12% compared to Q1\n\u2022 Majority of new hires joined the technical and customer support departments\n\u2022 A comprehensive onboarding process was initiated for all new hires\n\u2022 The average experience of new hires in Q2 was 5.3 years\n\u2022 The company introduced a new screening process in Q2 to improve the quality of hires\n\u2022 The attrition rate observed in Q2 was 3%, lower than industry average",
+            "type": "distractor",
+            "justification": "This content provides an overview of Q2 hiring but doesn't mention the employee referral program. The strategy used is focusing on general hiring details."
+        },
+        {
+            "heading": "Contribution of Employee Referral Program",
+            "content": "\u2022 The employee referral program was introduced in 2018\n\u2022 The program offers a bonus to employees who refer candidates that are successfully hired\n\u2022 The program has been successful in attracting high-quality candidates\n\u2022 A survey revealed that employees find the referral program easy to use\n\u2022 The program has seen steady participation since its inception\n\u2022 In 2020, the program has undergone a few enhancements to make it more attractive",
+            "type": "distractor",
+            "justification": "This content focuses on the history and features of the referral program but doesn't provide specific data on recent hires from the program. Strategy: Discussing historical context and procedural information."
+        },
+        {
+            "heading": "Improving the Effectiveness of Referral Program",
+            "content": "\u2022 An online portal was introduced in Q1 to simplify the referral process\n\u2022 Employee training sessions were conducted in Q2 to promote the program\n\u2022 A feedback mechanism is in place to continually improve the program\n\u2022 There are plans to increase the referral bonus in Q3 to motivate more employees\n\u2022 The company is considering partnering with external agencies to boost the program\n\u2022 The company is exploring the idea of 'referral drives' to amplify participation",
+            "type": "distractor",
+            "justification": "This content discusses future plans for the referral program without giving specifics about recent hires from the program. Strategy: Discussing future plans and initiatives."
+        }
+    ],
+    "conclusion": "Our employee referral program has significantly contributed to our recent hiring, but there is scope for improvement. We must leverage this potential to enhance our hiring process and achieve cost-effective recruitment.",
+    "file_format": "pptx",
+    "file_path": ".llm_responses/generated_pptx_presentation.pptx",
+    "qa_type": "distractor",
+    "timestamp": "2025-11-20 15:24",
+    "image_queries": [
+        {
+            "slide_title": "Introduction",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "intentionally_clean",
+            "slide_type": "introduction"
+        },
+        {
+            "slide_title": "Q2 Workforce Expansion Overview",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "failed",
+            "slide_type": "distractor",
+            "content_length": 6,
+            "total_chars": 399,
+            "error": "'str' object has no attribute 'choices'",
+            "theme": "Professional Green"
+        },
+        {
+            "slide_title": "Contribution of Employee Referral Program",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 6,
+            "total_chars": 420,
+            "probability": 0.25,
+            "theme": "Professional Green"
+        },
+        {
+            "slide_title": "Improving the Effectiveness of Referral Program",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "failed",
+            "slide_type": "distractor",
+            "content_length": 6,
+            "total_chars": 446,
+            "error": "'str' object has no attribute 'choices'",
+            "theme": "Professional Green"
+        },
+        {
+            "slide_title": "Conclusion",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "conclusion_failed",
+            "slide_type": "conclusion",
+            "error": "'str' object has no attribute 'choices'",
+            "theme": "Professional Green"
+        }
+    ],
+    "app": "nextcloud"
+}

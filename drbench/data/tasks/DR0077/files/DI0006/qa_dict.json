@@ -1,0 +1,10 @@
+{
+    "insight_id": "DI0006",
+    "qa_type": "distractor",
+    "qa_index": 6,
+    "specific_question": "By September 15, 2025, how many Elexion Automotive legacy combustion-engine diagnostic tools had Olivia Martinez and her asset lifecycle team decommissioned across all the company's facilities?",
+    "answer": "According to company records, by September 15, 2025, Olivia's team had decommissioned 740 diagnostic tools in Elexion Automotive plants that were no longer compatible with EV assembly systems.",
+    "justification": "",
+    "timestamp": "2025-11-20 03:33",
+    "dr_question": "How can Elexion Automotive use real-time data from IoT sensors embedded in vehicles and manufacturing equipment, combined with digital engineering-enabled digital twins, to enhance predictive maintenance and minimize downtime in production lines by the end of 2025?"
+}

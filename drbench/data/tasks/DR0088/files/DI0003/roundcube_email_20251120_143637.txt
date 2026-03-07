@@ -1,0 +1,148 @@
+================================================================================
+ROUNDCUBE EMAIL EXPORT
+================================================================================
+
+USERS:
+----------------------------------------
+• jordan.lee
+  Name: Jordan Lee
+  Email: jordan.lee@mediconn.com
+
+• michelle.morgan
+  Name: Michelle Morgan
+  Email: michelle.morgan@mediconn.com
+
+• david.johnson
+  Name: David Johnson
+  Email: david.johnson@mediconn.com
+
+• sarah.green
+  Name: Sarah Green
+  Email: sarah.green@mediconn.com
+
+• peter.brown
+  Name: Peter Brown
+  Email: peter.brown@mediconn.com
+
+• emily.wilson
+  Name: Emily Wilson
+  Email: emily.wilson@mediconn.com
+
+EMAILS:
+================================================================================
+Email ID: email_001
+Date: 2022-03-01 09:00:00
+From: Michelle Morgan <michelle.morgan@mediconn.com>
+To: jordan.lee@mediconn.com, david.johnson@mediconn.com
+CC: sarah.green@mediconn.com
+Subject: Q1 Budget Review
+Folder: inbox | Status: Read
+
+Message Body:
+----------------------------------------
+Hi Team,
+
+As you know, we're nearing the end of Q1 and it's time for our quarterly budget review. Could we schedule a meeting next week to discuss our spending so far and any adjustments we need to make for the upcoming quarter? Please reply with your availability.
+
+Regards,
+Michelle Morgan
+============================================================
+
+Email ID: email_002
+Date: 2022-03-01 10:20:00
+From: Jordan Lee <jordan.lee@mediconn.com>
+To: michelle.morgan@mediconn.com
+CC: david.johnson@mediconn.com, sarah.green@mediconn.com
+Subject: Re: Q1 Budget Review
+Folder: inbox | Status: Read
+
+Message Body:
+----------------------------------------
+Hi Michelle,
+
+I'm available next Tuesday or Thursday after 11am. If those times don't work for the rest of the team, let me know and I'll try to adjust my schedule.
+
+Best,
+Jordan
+============================================================
+
+Email ID: email_003
+Date: 2022-03-01 15:30:00
+From: Emily Wilson <emily.wilson@mediconn.com>
+To: michelle.morgan@mediconn.com, peter.brown@mediconn.com
+CC: sarah.green@mediconn.com
+Subject: Customer Satisfaction Survey Results
+Folder: inbox | Status: Read
+Attachments: 1 file(s)
+
+Message Body:
+----------------------------------------
+Hi Team,
+
+The results from our latest customer satisfaction survey are in. Overall, our customers are happy with our services, but there are a few areas we can improve in, particularly in terms of response time to queries. I've attached a detailed report to this email. Could we schedule a meeting to discuss these results and brainstorm ways to improve our services?
+
+Best,
+Emily
+============================================================
+
+Email ID: email_001
+Date: 2026-04-01 10:15:00
+From: Jordan Lee <jordan.lee@mediconn.com>
+To: michelle.morgan@mediconn.com, david.johnson@mediconn.com, sarah.green@mediconn.com, peter.brown@mediconn.com
+CC: emily.wilson@mediconn.com
+Subject: AI Anomaly Detection Tool Integration
+Folder: sent | Status: Read
+
+Message Body:
+----------------------------------------
+Dear Team,
+
+As per the recent discussions, we are planning to integrate a new AI anomaly detection tool into our existing infrastructure by Q3 2026, in line with Canada’s new call for proposals to strengthen the country’s cyber resilience and address evolving cyber threats under the 2025 Cyber Security Cooperation Program (CSCP).
+
+We need to ensure that the integration does not disrupt our critical healthcare services. Therefore, it's essential that we perform this task during non-peak hours. I understand that our standard working hours are Monday through Friday, 9 AM-5 PM local time. Can we consider conducting the integration activities outside of these hours?
+
+Your inputs are highly appreciated.
+
+Regards,
+Jordan
+============================================================
+
+Email ID: email_002
+Date: 2026-04-01 11:30:00
+From: Michelle Morgan <michelle.morgan@mediconn.com>
+To: jordan.lee@mediconn.com, david.johnson@mediconn.com, sarah.green@mediconn.com, peter.brown@mediconn.com
+CC: emily.wilson@mediconn.com
+Subject: Re: AI Anomaly Detection Tool Integration
+Folder: sent | Status: Read
+
+Message Body:
+----------------------------------------
+Hi Jordan,
+
+I agree with your plan. Conducting the integration activities outside of our standard work hours will minimize the risk of disrupting our services. We should also consider running a series of tests before and after the integration to ensure the stability and functionality of our systems.
+
+Best,
+Michelle
+============================================================
+
+Email ID: email_003
+Date: 2026-04-01 14:20:00
+From: David Johnson <david.johnson@mediconn.com>
+To: jordan.lee@mediconn.com, michelle.morgan@mediconn.com, sarah.green@mediconn.com, peter.brown@mediconn.com
+CC: emily.wilson@mediconn.com
+Subject: Re: AI Anomaly Detection Tool Integration
+Folder: sent | Status: Read
+
+Message Body:
+----------------------------------------
+Team,
+
+I agree with both Jordan and Michelle. We should definitely consider non-peak hours for this task to avoid any potential disruptions. Let's also plan for a dry run and ensure we have a rollback plan in place.
+
+Thanks,
+David
+============================================================
+
+================================================================================
+END OF EMAIL EXPORT
+================================================================================

@@ -1,0 +1,10 @@
+{
+    "insight_id": "DI0010",
+    "qa_type": "distractor",
+    "qa_index": 10,
+    "specific_question": "During Q3 2025, what types of IT requests take the longest for employees to set up new email signatures across devices?",
+    "answer": "According to Lee\u2019s Market internal IT logs from Q3 2025, configuration requests for email signatures across multiple devices accounted for 18% of all IT setup delays, with most issues occurring among employees managing three or more linked accounts.",
+    "justification": "",
+    "timestamp": "2025-11-19 01:35",
+    "dr_question": "By Q3 2026, how can Lee\u2019s Market expand and optimize its IT self-service capabilities to reduce service desk dependency, accelerate resolution times, and improve both employee and customer experience across all stores?"
+}

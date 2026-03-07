@@ -1,0 +1,10 @@
+{
+    "insight_id": "DI0005",
+    "qa_type": "distractor",
+    "qa_index": 5,
+    "specific_question": "How many new employees did Lee's Market hire across finance, HR, and IT departments to support business growth and digital transformation initiatives in December 2024?",
+    "answer": "Lee's Market hired 35 new corporate staff in December 2024 across finance, HR, and IT departments to support business growth and digital transformation initiatives.",
+    "justification": "This data is not relevant because it focuses on back-office staffing, which supports infrastructure but does not reveal product-level sales shifts from tariff-driven spending slowdown. Lee's Market cannot use this data to gauge which products are seeing reduced demand due to tariffs or to inform short-term sales projections. This data is related to administrative staffing and doesn't affect the tariff's impact on sales projections and promotion planning.",
+    "timestamp": "2025-11-21 13:03",
+    "dr_question": "Given the drop in Canadian retail sales brought on by US tariffs in 2025, what insights should Lee\u2019s Market derive from product-level sales trends across tariff-exposed and tariff-insulated categories to update sales forecasts by 2027?"
+}

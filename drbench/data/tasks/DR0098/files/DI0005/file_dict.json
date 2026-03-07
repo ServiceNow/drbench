@@ -1,0 +1,82 @@
+{
+    "file_name": "workforce-expansion-december",
+    "file_title": "Workforce Expansion: Finance, HR, IT",
+    "introduction": "As we continue to grow and digitally transform, our workforce expansion is critical. In this presentation, we will explore the hiring trends across the Finance, HR, and IT departments in December 2024.",
+    "subsections": [
+        {
+            "heading": "Business Growth and Digital Transformation Initiatives",
+            "content": "\u2022 Lee's Market has been undergoing digital transformation initiatives since 2020\n\u2022 The company has invested in cloud-based systems to improve data accessibility\n\u2022 E-commerce has been a key growth area, with a 20% increase in online sales in 2024\n\u2022 The company is focusing on enhancing customer experience through AI-based solutions\n\u2022 Digital marketing strategies have been revamped to target the millennial and Gen-Z consumer base\n\u2022 The company has partnered with tech firms to gain expertise in digital transformation",
+            "type": "distractor",
+            "justification": "While this slide provides general information about Lee's Market's growth and digital initiatives, it doesn't provide specific hiring data for December 2024"
+        },
+        {
+            "heading": "Workforce Expansion in Key Departments",
+            "content": "\u2022 Staffing levels in sales and marketing have increased by 10% in 2024\n\u2022 Lee's Market has been actively recruiting for roles in data analytics and e-commerce\n\u2022 The company has brought in new talent for its operations and logistics teams\n\u2022 To support its digital initiatives, the company has been hiring software developers and data scientists\n\u2022 New positions have been created in customer service to enhance the customer experience",
+            "type": "distractor",
+            "justification": "This slide details staffing changes in other departments, not the specific hiring data for finance, HR, and IT in December 2024"
+        },
+        {
+            "heading": "Impact of New Hires on Operational Efficiency",
+            "content": "\u2022 New hires in the logistics department have streamlined the supply chain process\n\u2022 Recruiting data analysts has improved decision-making based on customer data\n\u2022 Hiring additional customer service staff has resulted in a 15% reduction in customer complaints\n\u2022 The onboarding of software developers has accelerated the implementation of tech projects\n\u2022 New talent in the marketing department has contributed to a 10% increase in brand awareness",
+            "type": "distractor",
+            "justification": "This slide discusses the impact of new hires on various business operations, not the specific hiring data for finance, HR, and IT in December 2024"
+        }
+    ],
+    "conclusion": "In conclusion, the new hires in these departments have been instrumental in driving our growth and transformation agenda. Moving forward, we will continue to strengthen our workforce as needed to support our strategic objectives.",
+    "file_format": "pptx",
+    "file_path": ".llm_responses/generated_pptx_presentation.pptx",
+    "qa_type": "distractor",
+    "timestamp": "2025-11-21 13:03",
+    "image_queries": [
+        {
+            "slide_title": "Introduction",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "intentionally_clean",
+            "slide_type": "introduction"
+        },
+        {
+            "slide_title": "Business Growth and Digital Transformation Initiatives",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "failed",
+            "slide_type": "distractor",
+            "content_length": 6,
+            "total_chars": 501,
+            "error": "'str' object has no attribute 'choices'",
+            "theme": "Elegant Teal"
+        },
+        {
+            "slide_title": "Workforce Expansion in Key Departments",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 5,
+            "total_chars": 417,
+            "probability": 0.25,
+            "theme": "Elegant Teal"
+        },
+        {
+            "slide_title": "Impact of New Hires on Operational Efficiency",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 5,
+            "total_chars": 430,
+            "probability": 0.25,
+            "theme": "Elegant Teal"
+        },
+        {
+            "slide_title": "Conclusion",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "conclusion_failed",
+            "slide_type": "conclusion",
+            "error": "'str' object has no attribute 'choices'",
+            "theme": "Elegant Teal"
+        }
+    ],
+    "app": "nextcloud"
+}

@@ -1,0 +1,202 @@
+{
+    "file_name": "roundcube_email_20251121_122221",
+    "content": "{\"type\": \"user\", \"username\": \"rachel.kim\", \"first_name\": \"Rachel\", \"last_name\": \"Kim\", \"email\": \"rachel.kim@elexion.com\", \"password\": \"rachel_kim_pwd\"}\n{\"type\": \"user\", \"username\": \"david.johnson\", \"first_name\": \"David\", \"last_name\": \"Johnson\", \"email\": \"david.johnson@elexion.com\", \"password\": \"david_johnson_pwd\"}\n{\"type\": \"user\", \"username\": \"michael.brown\", \"first_name\": \"Michael\", \"last_name\": \"Brown\", \"email\": \"michael.brown@elexion.com\", \"password\": \"michael_brown_pwd\"}\n{\"type\": \"user\", \"username\": \"linda.garcia\", \"first_name\": \"Linda\", \"last_name\": \"Garcia\", \"email\": \"linda.garcia@elexion.com\", \"password\": \"linda_garcia_pwd\"}\n{\"type\": \"user\", \"username\": \"james.miller\", \"first_name\": \"James\", \"last_name\": \"Miller\", \"email\": \"james.miller@elexion.com\", \"password\": \"james_miller_pwd\"}\n{\"type\": \"user\", \"username\": \"patricia.rodriguez\", \"first_name\": \"Patricia\", \"last_name\": \"Rodriguez\", \"email\": \"patricia.rodriguez@elexion.com\", \"password\": \"patricia_rodriguez_pwd\"}\n{\"type\": \"user\", \"username\": \"robert.wilson\", \"first_name\": \"Robert\", \"last_name\": \"Wilson\", \"email\": \"robert.wilson@elexion.com\", \"password\": \"robert_wilson_pwd\"}\n{\"type\": \"email\", \"id\": \"email_001\", \"subject\": \"Weekly Compliance Team Meeting\", \"from\": \"rachel.kim@elexion.com\", \"from_name\": \"Rachel Kim\", \"to\": [\"david.johnson@elexion.com\", \"michael.brown@elexion.com\"], \"cc\": [\"linda.garcia@elexion.com\"], \"date\": \"2022-05-26 15:30:00\", \"body\": \"Dear Team,\\n\\nJust a quick reminder about our weekly team meeting scheduled for tomorrow at 10 A.M. We will be discussing our current projects and any new updates or issues. Please prepare your weekly reports and forward them to me before the meeting. \\n\\nBest,\\nRachel Kim\", \"folder\": \"sent\", \"read\": true, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_002\", \"subject\": \"Customer Feedback on Model X\", \"from\": \"david.johnson@elexion.com\", \"from_name\": \"David Johnson\", \"to\": [\"rachel.kim@elexion.com\"], \"cc\": [], \"date\": \"2022-05-27 10:45:00\", \"body\": \"Rachel,\\n\\nI've received some feedback from customers regarding the Model X. They have been expressing concerns about the charging system. I think it's something we should look into. \\n\\nBest,\\nDavid Johnson\", \"folder\": \"sent\", \"read\": false, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_003\", \"subject\": \"New Training Program\", \"from\": \"linda.garcia@elexion.com\", \"from_name\": \"Linda Garcia\", \"to\": [\"rachel.kim@elexion.com\", \"david.johnson@elexion.com\", \"michael.brown@elexion.com\", \"james.miller@elexion.com\", \"patricia.rodriguez@elexion.com\", \"robert.wilson@elexion.com\"], \"cc\": [], \"date\": \"2022-05-28 09:00:00\", \"body\": \"Dear Team,\\n\\nI'm excited to inform you about a new training program that we will be starting next month. The program will cover the latest developments in the automotive industry and their implications for our company. More details to follow in the coming weeks. \\n\\nBest,\\nLinda Garcia\", \"folder\": \"sent\", \"read\": false, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_004\", \"subject\": \"Quarterly Performance Review\", \"from\": \"michael.brown@elexion.com\", \"from_name\": \"Michael Brown\", \"to\": [\"rachel.kim@elexion.com\"], \"cc\": [], \"date\": \"2022-05-29 11:30:00\", \"body\": \"Rachel,\\n\\nI've completed the quarterly performance review for our department. I would like to schedule a meeting next week to discuss the results and set goals for the next quarter. \\n\\nBest,\\nMichael Brown\", \"folder\": \"sent\", \"read\": false, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_001\", \"subject\": \"Supply Chain Investment Credits - Canada's ZEV Mandate\", \"from\": \"rachel.kim@elexion.com\", \"from_name\": \"Rachel Kim\", \"to\": [\"david.johnson@elexion.com\"], \"cc\": [\"michael.brown@elexion.com\"], \"date\": \"2026-01-10 09:00:00\", \"body\": \"Hi David,\\n\\nI hope this email finds you well. As you may be aware, Canada has recently revised their Zero Emission Vehicle (ZEV) mandate. It appears that this new mandate will significantly affect our supply chain investment credits.\\n\\nIn order to ensure we are fully compliant and able to verify and record these credits, we need to update our documentation framework. Could you please provide some insights into the number of OTA updates we delivered per vehicle in 2025? This information will help us paint a clearer picture of our post-sale software support and may aid in our compliance credit administration.\\n\\nThanks in advance,\\nRachel\", \"folder\": \"sent\", \"read\": true, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_002\", \"subject\": \"Re: Supply Chain Investment Credits - Canada's ZEV Mandate\", \"from\": \"david.johnson@elexion.com\", \"from_name\": \"David Johnson\", \"to\": [\"rachel.kim@elexion.com\"], \"cc\": [\"michael.brown@elexion.com\"], \"date\": \"2026-01-11 10:30:00\", \"body\": \"Hello Rachel,\\n\\nThanks for reaching out. In 2025, each Elexion vehicle received an average of 6 OTA updates. This number reflects our commitment to post-sale software support and I agree, it should be considered in our compliance credit administration under the revised ZEV mandate.\\n\\nLet me know if you need any further information.\\n\\nBest,\\nDavid\", \"folder\": \"sent\", \"read\": true, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_003\", \"subject\": \"Re: Supply Chain Investment Credits - Canada's ZEV Mandate\", \"from\": \"rachel.kim@elexion.com\", \"from_name\": \"Rachel Kim\", \"to\": [\"david.johnson@elexion.com\"], \"cc\": [\"michael.brown@elexion.com\"], \"date\": \"2026-01-11 11:15:00\", \"body\": \"David,\\n\\nThank you for the quick response. The number of OTA updates certainly provides a good measure of our post-sale software support. This will be a key factor in our updated compliance documentation framework.\\n\\nI'll keep you updated on the progress.\\n\\nBest,\\nRachel\", \"folder\": \"sent\", \"read\": true, \"attachments\": []}",
+    "email_setup": [
+        {
+            "type": "user",
+            "username": "rachel.kim",
+            "first_name": "Rachel",
+            "last_name": "Kim",
+            "email": "rachel.kim@elexion.com",
+            "password": "rachel_kim_pwd"
+        },
+        {
+            "type": "user",
+            "username": "david.johnson",
+            "first_name": "David",
+            "last_name": "Johnson",
+            "email": "david.johnson@elexion.com",
+            "password": "david_johnson_pwd"
+        },
+        {
+            "type": "user",
+            "username": "michael.brown",
+            "first_name": "Michael",
+            "last_name": "Brown",
+            "email": "michael.brown@elexion.com",
+            "password": "michael_brown_pwd"
+        },
+        {
+            "type": "user",
+            "username": "linda.garcia",
+            "first_name": "Linda",
+            "last_name": "Garcia",
+            "email": "linda.garcia@elexion.com",
+            "password": "linda_garcia_pwd"
+        },
+        {
+            "type": "user",
+            "username": "james.miller",
+            "first_name": "James",
+            "last_name": "Miller",
+            "email": "james.miller@elexion.com",
+            "password": "james_miller_pwd"
+        },
+        {
+            "type": "user",
+            "username": "patricia.rodriguez",
+            "first_name": "Patricia",
+            "last_name": "Rodriguez",
+            "email": "patricia.rodriguez@elexion.com",
+            "password": "patricia_rodriguez_pwd"
+        },
+        {
+            "type": "user",
+            "username": "robert.wilson",
+            "first_name": "Robert",
+            "last_name": "Wilson",
+            "email": "robert.wilson@elexion.com",
+            "password": "robert_wilson_pwd"
+        }
+    ],
+    "email_messages": [
+        {
+            "type": "email",
+            "id": "email_001",
+            "subject": "Weekly Compliance Team Meeting",
+            "from": "rachel.kim@elexion.com",
+            "from_name": "Rachel Kim",
+            "to": [
+                "david.johnson@elexion.com",
+                "michael.brown@elexion.com"
+            ],
+            "cc": [
+                "linda.garcia@elexion.com"
+            ],
+            "date": "2022-05-26 15:30:00",
+            "body": "Dear Team,\n\nJust a quick reminder about our weekly team meeting scheduled for tomorrow at 10 A.M. We will be discussing our current projects and any new updates or issues. Please prepare your weekly reports and forward them to me before the meeting. \n\nBest,\nRachel Kim",
+            "folder": "sent",
+            "read": true,
+            "attachments": [],
+            "tag": "distractor"
+        },
+        {
+            "type": "email",
+            "id": "email_002",
+            "subject": "Customer Feedback on Model X",
+            "from": "david.johnson@elexion.com",
+            "from_name": "David Johnson",
+            "to": [
+                "rachel.kim@elexion.com"
+            ],
+            "cc": [],
+            "date": "2022-05-27 10:45:00",
+            "body": "Rachel,\n\nI've received some feedback from customers regarding the Model X. They have been expressing concerns about the charging system. I think it's something we should look into. \n\nBest,\nDavid Johnson",
+            "folder": "sent",
+            "read": false,
+            "attachments": [],
+            "tag": "distractor"
+        },
+        {
+            "type": "email",
+            "id": "email_003",
+            "subject": "New Training Program",
+            "from": "linda.garcia@elexion.com",
+            "from_name": "Linda Garcia",
+            "to": [
+                "rachel.kim@elexion.com",
+                "david.johnson@elexion.com",
+                "michael.brown@elexion.com",
+                "james.miller@elexion.com",
+                "patricia.rodriguez@elexion.com",
+                "robert.wilson@elexion.com"
+            ],
+            "cc": [],
+            "date": "2022-05-28 09:00:00",
+            "body": "Dear Team,\n\nI'm excited to inform you about a new training program that we will be starting next month. The program will cover the latest developments in the automotive industry and their implications for our company. More details to follow in the coming weeks. \n\nBest,\nLinda Garcia",
+            "folder": "sent",
+            "read": false,
+            "attachments": [],
+            "tag": "distractor"
+        },
+        {
+            "type": "email",
+            "id": "email_004",
+            "subject": "Quarterly Performance Review",
+            "from": "michael.brown@elexion.com",
+            "from_name": "Michael Brown",
+            "to": [
+                "rachel.kim@elexion.com"
+            ],
+            "cc": [],
+            "date": "2022-05-29 11:30:00",
+            "body": "Rachel,\n\nI've completed the quarterly performance review for our department. I would like to schedule a meeting next week to discuss the results and set goals for the next quarter. \n\nBest,\nMichael Brown",
+            "folder": "sent",
+            "read": false,
+            "attachments": [],
+            "tag": "distractor"
+        },
+        {
+            "type": "email",
+            "id": "email_001",
+            "subject": "Supply Chain Investment Credits - Canada's ZEV Mandate",
+            "from": "rachel.kim@elexion.com",
+            "from_name": "Rachel Kim",
+            "to": [
+                "david.johnson@elexion.com"
+            ],
+            "cc": [
+                "michael.brown@elexion.com"
+            ],
+            "date": "2026-01-10 09:00:00",
+            "body": "Hi David,\n\nI hope this email finds you well. As you may be aware, Canada has recently revised their Zero Emission Vehicle (ZEV) mandate. It appears that this new mandate will significantly affect our supply chain investment credits.\n\nIn order to ensure we are fully compliant and able to verify and record these credits, we need to update our documentation framework. Could you please provide some insights into the number of OTA updates we delivered per vehicle in 2025? This information will help us paint a clearer picture of our post-sale software support and may aid in our compliance credit administration.\n\nThanks in advance,\nRachel",
+            "folder": "sent",
+            "read": true,
+            "attachments": [],
+            "tag": "insight"
+        },
+        {
+            "type": "email",
+            "id": "email_002",
+            "subject": "Re: Supply Chain Investment Credits - Canada's ZEV Mandate",
+            "from": "david.johnson@elexion.com",
+            "from_name": "David Johnson",
+            "to": [
+                "rachel.kim@elexion.com"
+            ],
+            "cc": [
+                "michael.brown@elexion.com"
+            ],
+            "date": "2026-01-11 10:30:00",
+            "body": "Hello Rachel,\n\nThanks for reaching out. In 2025, each Elexion vehicle received an average of 6 OTA updates. This number reflects our commitment to post-sale software support and I agree, it should be considered in our compliance credit administration under the revised ZEV mandate.\n\nLet me know if you need any further information.\n\nBest,\nDavid",
+            "folder": "sent",
+            "read": true,
+            "attachments": [],
+            "tag": "insight"
+        },
+        {
+            "type": "email",
+            "id": "email_003",
+            "subject": "Re: Supply Chain Investment Credits - Canada's ZEV Mandate",
+            "from": "rachel.kim@elexion.com",
+            "from_name": "Rachel Kim",
+            "to": [
+                "david.johnson@elexion.com"
+            ],
+            "cc": [
+                "michael.brown@elexion.com"
+            ],
+            "date": "2026-01-11 11:15:00",
+            "body": "David,\n\nThank you for the quick response. The number of OTA updates certainly provides a good measure of our post-sale software support. This will be a key factor in our updated compliance documentation framework.\n\nI'll keep you updated on the progress.\n\nBest,\nRachel",
+            "folder": "sent",
+            "read": true,
+            "attachments": [],
+            "tag": "insight"
+        }
+    ],
+    "file_format": "jsonl",
+    "file_path": ".llm_responses/generated_email_document.jsonl",
+    "qa_type": "distractor",
+    "timestamp": "2025-11-21 13:22",
+    "app": "email"
+}

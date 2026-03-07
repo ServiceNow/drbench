@@ -1,0 +1,81 @@
+{
+    "file_name": "quickcare-outage-analysis",
+    "file_title": "QuickCare Telehealth Platform Analysis",
+    "introduction": "This presentation will provide an overview of the recent QuickCare Telehealth platform outage, its implications for MediConn Solutions, and potential future strategies to prevent similar occurrences.",
+    "subsections": [
+        {
+            "heading": "Overview of Telehealth Market",
+            "content": "\u2022 Telehealth market expected to reach $185.6 billion by 2026 worldwide\n\u2022 Canada's telehealth industry has grown by 12% annually since 2020\n\u2022 The pandemic accelerated the adoption of telehealth by 60% in 2020\n\u2022 Telehealth reduces healthcare costs by 30% and increases efficiency\n\u2022 MediConn Solutions ranks 3rd in Canada's telehealth market share\n\u2022 Regulatory changes in 2024 enabled more telehealth services in rural areas",
+            "type": "distractor",
+            "justification": "Provides information on the overall telehealth market, not specific to QuickCare's outage. Focuses on market data and trends."
+        },
+        {
+            "heading": "QuickCare Platform Outage Analysis",
+            "content": "\u2022 QuickCare\u2019s platform supports over 10,000 daily patient interactions\n\u2022 Their IT department consists of 75 professionals\n\u2022 QuickCare has a 99.8% platform uptime target\n\u2022 They have invested $15M into platform development since 2022\n\u2022 In 2024, they made significant upgrades to their system's cybersecurity measures",
+            "type": "distractor",
+            "justification": "Discusses QuickCare's platform characteristics and history, not the specific outage event. Focuses on operational details and metrics."
+        },
+        {
+            "heading": "Future Risk Mitigation Strategies",
+            "content": "\u2022 MediConn plans to increase IT budget by 20% in 2026\n\u2022 Implementing AI-driven predictive maintenance to reduce outage risks\n\u2022 Upgrading to a more reliable cloud service provider next year\n\u2022 Enhancing cybersecurity measures to prevent data breaches\n\u2022 Conducting regular system audits to ensure optimal performance\n\u2022 Developing a robust disaster recovery plan",
+            "type": "distractor",
+            "justification": "Details MediConn's future plans for risk mitigation, not related to QuickCare's outage. Focuses on procedural information and strategies."
+        }
+    ],
+    "conclusion": "Understanding the QuickCare Telehealth platform outage allows us to not only adapt our current systems but also develop robust strategies for future risk mitigation. Let's ensure we are prepared and continue to provide reliable virtual healthcare services to our clients.",
+    "file_format": "pptx",
+    "file_path": ".llm_responses/generated_pptx_presentation.pptx",
+    "qa_type": "distractor",
+    "timestamp": "2025-11-19 23:29",
+    "image_queries": [
+        {
+            "slide_title": "Introduction",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "intentionally_clean",
+            "slide_type": "introduction"
+        },
+        {
+            "slide_title": "Overview of Telehealth Market",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 6,
+            "total_chars": 404,
+            "probability": 0.25,
+            "theme": "Professional Green"
+        },
+        {
+            "slide_title": "QuickCare Platform Outage Analysis",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "failed",
+            "slide_type": "distractor",
+            "content_length": 5,
+            "total_chars": 300,
+            "error": "'str' object has no attribute 'choices'",
+            "theme": "Professional Green"
+        },
+        {
+            "slide_title": "Future Risk Mitigation Strategies",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 6,
+            "total_chars": 341,
+            "probability": 0.25,
+            "theme": "Professional Green"
+        },
+        {
+            "slide_title": "Conclusion",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "strategic_clean_conclusion",
+            "slide_type": "conclusion",
+            "theme": "Professional Green"
+        }
+    ],
+    "app": "file_system"
+}

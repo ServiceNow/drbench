@@ -1,0 +1,237 @@
+{
+    "file_name": "mattermost_chat_20251119_235807",
+    "content": "{\"type\": \"version\", \"version\": 1}\n{\"type\": \"team\", \"team\": {\"name\": \"sales_ops\", \"display_name\": \"Sales Operations\", \"type\": \"O\", \"header\": \"Sales operations team for Elexion Automotive\", \"purpose\": \"Manage sales processes, CRM systems, and analyze sales data to inform business decisions\"}}\n{\"type\": \"team\", \"team\": {\"name\": \"customer_relations\", \"display_name\": \"Customer Relations\", \"type\": \"O\", \"header\": \"Customer relations team for Elexion Automotive\", \"purpose\": \"Manage customer satisfaction and improve customer experience\"}}\n{\"type\": \"channel\", \"channel\": {\"team\": \"sales_ops\", \"name\": \"sales_data_analysis\", \"display_name\": \"Sales Data Analysis\", \"type\": \"O\", \"header\": \"Discussion and analysis of sales data\", \"purpose\": \"To share insights and findings from sales data\"}}\n{\"type\": \"channel\", \"channel\": {\"team\": \"customer_relations\", \"name\": \"customer_satisfaction_scores\", \"display_name\": \"Customer Satisfaction Scores\", \"type\": \"O\", \"header\": \"Discussion and analysis of customer satisfaction scores\", \"purpose\": \"To share insights and findings from customer satisfaction surveys\"}}\n{\"type\": \"user\", \"user\": {\"username\": \"amanda.lee\", \"email\": \"amanda.lee@elexionautomotive.com\", \"password\": \"amanda_lee_pwd\", \"nickname\": \"Amanda\", \"first_name\": \"Amanda\", \"last_name\": \"Lee\", \"position\": \"Director of Sales Operations\", \"roles\": \"system_user\", \"locale\": \"en\", \"teams\": [{\"name\": \"sales_ops\", \"roles\": \"team_user\", \"channels\": [{\"name\": \"sales_data_analysis\", \"roles\": \"channel_user\"}]}, {\"name\": \"customer_relations\", \"roles\": \"team_user\", \"channels\": [{\"name\": \"customer_satisfaction_scores\", \"roles\": \"channel_user\"}]}]}}\n{\"type\": \"user\", \"user\": {\"username\": \"john_doe\", \"email\": \"john.doe@elexionautomotive.com\", \"password\": \"john_doe_pwd\", \"nickname\": \"John\", \"first_name\": \"John\", \"last_name\": \"Doe\", \"position\": \"Sales Analyst\", \"roles\": \"system_user\", \"locale\": \"en\", \"teams\": [{\"name\": \"sales_ops\", \"roles\": \"team_user\", \"channels\": [{\"name\": \"sales_data_analysis\", \"roles\": \"channel_user\"}]}]}}\n{\"type\": \"user\", \"user\": {\"username\": \"jane_smith\", \"email\": \"jane.smith@elexionautomotive.com\", \"password\": \"jane_smith_pwd\", \"nickname\": \"Jane\", \"first_name\": \"Jane\", \"last_name\": \"Smith\", \"position\": \"Customer Relations Manager\", \"roles\": \"system_user\", \"locale\": \"en\", \"teams\": [{\"name\": \"customer_relations\", \"roles\": \"team_user\", \"channels\": [{\"name\": \"customer_satisfaction_scores\", \"roles\": \"channel_user\"}]}]}}\n{\"type\": \"post\", \"post\": {\"team\": \"sales_ops\", \"channel\": \"sales_data_analysis\", \"user\": \"amanda.lee\", \"message\": \"Team, let's review the sales data for Q4. We need to understand the impact of our recent marketing campaigns.\", \"created_at\": 1620500000000}}\n{\"type\": \"post\", \"post\": {\"team\": \"sales_ops\", \"channel\": \"sales_data_analysis\", \"user\": \"john_doe\", \"message\": \"Absolutely, Amanda. I'll prepare a detailed report with the sales figures and the comparison with the previous quarters.\", \"created_at\": 1620500000100}}\n{\"type\": \"post\", \"post\": {\"team\": \"customer_relations\", \"channel\": \"customer_satisfaction_scores\", \"user\": \"jane_smith\", \"message\": \"We've received some interesting feedback on our new model's user interface. It looks like customers are loving the intuitive design.\", \"created_at\": 1620500000200}}\n{\"type\": \"post\", \"post\": {\"team\": \"customer_relations\", \"channel\": \"customer_satisfaction_scores\", \"user\": \"amanda.lee\", \"message\": \"That's great to hear, Jane. Let's make sure we highlight this in our next team meeting.\", \"created_at\": 1620500000300}}\n{\"type\": \"post\", \"post\": {\"team\": \"sales_ops\", \"channel\": \"sales_data_analysis\", \"user\": \"amanda.lee\", \"message\": \"John, can you also provide a breakdown of the sales figures by region? We need to better understand our market penetration in different areas.\", \"created_at\": 1620500000400}}\n{\"type\": \"post\", \"post\": {\"team\": \"customer_relations\", \"channel\": \"customer_satisfaction_scores\", \"user\": \"jane_smith\", \"message\": \"Sure, Amanda. I'll also share some customer testimonials about the user interface. It might be helpful for marketing.\", \"created_at\": 1620500000500}}\n{\"type\": \"post\", \"post\": {\"team\": \"customer_relations\", \"channel\": \"customer_satisfaction_scores\", \"user\": \"jane_smith\", \"message\": \"Hi team, I was just reviewing our customer satisfaction data from the first 5 years of operation (2010-2016). I'm pleased to share that we achieved an average customer satisfaction score of 7.5 out of 10 during that period. This is an encouraging reflection on our efforts to deliver quality electric vehicles and excellent customer service.\", \"create_at\": 1620500000000}}\n{\"type\": \"post\", \"post\": {\"team\": \"customer_relations\", \"channel\": \"customer_satisfaction_scores\", \"user\": \"amanda.lee\", \"message\": \"That's great to hear, Jane. These scores are a testament to our dedication to customer satisfaction. Let's continue to maintain and improve these numbers moving forward.\", \"create_at\": 1620500000100}}",
+    "chat_setup": {
+        "teams": [
+            {
+                "type": "team",
+                "team": {
+                    "name": "sales_ops",
+                    "display_name": "Sales Operations",
+                    "type": "O",
+                    "header": "Sales operations team for Elexion Automotive",
+                    "purpose": "Manage sales processes, CRM systems, and analyze sales data to inform business decisions"
+                }
+            },
+            {
+                "type": "team",
+                "team": {
+                    "name": "customer_relations",
+                    "display_name": "Customer Relations",
+                    "type": "O",
+                    "header": "Customer relations team for Elexion Automotive",
+                    "purpose": "Manage customer satisfaction and improve customer experience"
+                }
+            }
+        ],
+        "channels": [
+            {
+                "type": "channel",
+                "channel": {
+                    "team": "sales_ops",
+                    "name": "sales_data_analysis",
+                    "display_name": "Sales Data Analysis",
+                    "type": "O",
+                    "header": "Discussion and analysis of sales data",
+                    "purpose": "To share insights and findings from sales data"
+                }
+            },
+            {
+                "type": "channel",
+                "channel": {
+                    "team": "customer_relations",
+                    "name": "customer_satisfaction_scores",
+                    "display_name": "Customer Satisfaction Scores",
+                    "type": "O",
+                    "header": "Discussion and analysis of customer satisfaction scores",
+                    "purpose": "To share insights and findings from customer satisfaction surveys"
+                }
+            }
+        ],
+        "users": [
+            {
+                "type": "user",
+                "user": {
+                    "username": "amanda.lee",
+                    "email": "amanda.lee@elexionautomotive.com",
+                    "password": "amanda_lee_pwd",
+                    "nickname": "Amanda",
+                    "first_name": "Amanda",
+                    "last_name": "Lee",
+                    "position": "Director of Sales Operations",
+                    "roles": "system_user",
+                    "locale": "en",
+                    "teams": [
+                        {
+                            "name": "sales_ops",
+                            "roles": "team_user",
+                            "channels": [
+                                {
+                                    "name": "sales_data_analysis",
+                                    "roles": "channel_user"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "customer_relations",
+                            "roles": "team_user",
+                            "channels": [
+                                {
+                                    "name": "customer_satisfaction_scores",
+                                    "roles": "channel_user"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "type": "user",
+                "user": {
+                    "username": "john_doe",
+                    "email": "john.doe@elexionautomotive.com",
+                    "password": "john_doe_pwd",
+                    "nickname": "John",
+                    "first_name": "John",
+                    "last_name": "Doe",
+                    "position": "Sales Analyst",
+                    "roles": "system_user",
+                    "locale": "en",
+                    "teams": [
+                        {
+                            "name": "sales_ops",
+                            "roles": "team_user",
+                            "channels": [
+                                {
+                                    "name": "sales_data_analysis",
+                                    "roles": "channel_user"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "type": "user",
+                "user": {
+                    "username": "jane_smith",
+                    "email": "jane.smith@elexionautomotive.com",
+                    "password": "jane_smith_pwd",
+                    "nickname": "Jane",
+                    "first_name": "Jane",
+                    "last_name": "Smith",
+                    "position": "Customer Relations Manager",
+                    "roles": "system_user",
+                    "locale": "en",
+                    "teams": [
+                        {
+                            "name": "customer_relations",
+                            "roles": "team_user",
+                            "channels": [
+                                {
+                                    "name": "customer_satisfaction_scores",
+                                    "roles": "channel_user"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    "chat_messages": [
+        {
+            "type": "post",
+            "post": {
+                "team": "customer_relations",
+                "channel": "customer_satisfaction_scores",
+                "user": "jane_smith",
+                "message": "Hi team, I was just reviewing our customer satisfaction data from the first 5 years of operation (2010-2016). I'm pleased to share that we achieved an average customer satisfaction score of 7.5 out of 10 during that period. This is an encouraging reflection on our efforts to deliver quality electric vehicles and excellent customer service.",
+                "create_at": 1620500000000
+            },
+            "tag": "insight"
+        },
+        {
+            "type": "post",
+            "post": {
+                "team": "customer_relations",
+                "channel": "customer_satisfaction_scores",
+                "user": "amanda.lee",
+                "message": "That's great to hear, Jane. These scores are a testament to our dedication to customer satisfaction. Let's continue to maintain and improve these numbers moving forward.",
+                "create_at": 1620500000100
+            },
+            "tag": "insight"
+        },
+        {
+            "type": "post",
+            "post": {
+                "team": "sales_ops",
+                "channel": "sales_data_analysis",
+                "user": "amanda.lee",
+                "message": "Team, let's review the sales data for Q4. We need to understand the impact of our recent marketing campaigns.",
+                "created_at": 1620500000000
+            },
+            "tag": "distractor"
+        },
+        {
+            "type": "post",
+            "post": {
+                "team": "sales_ops",
+                "channel": "sales_data_analysis",
+                "user": "john_doe",
+                "message": "Absolutely, Amanda. I'll prepare a detailed report with the sales figures and the comparison with the previous quarters.",
+                "created_at": 1620500000100
+            },
+            "tag": "distractor"
+        },
+        {
+            "type": "post",
+            "post": {
+                "team": "customer_relations",
+                "channel": "customer_satisfaction_scores",
+                "user": "jane_smith",
+                "message": "We've received some interesting feedback on our new model's user interface. It looks like customers are loving the intuitive design.",
+                "created_at": 1620500000200
+            },
+            "tag": "distractor"
+        },
+        {
+            "type": "post",
+            "post": {
+                "team": "customer_relations",
+                "channel": "customer_satisfaction_scores",
+                "user": "amanda.lee",
+                "message": "That's great to hear, Jane. Let's make sure we highlight this in our next team meeting.",
+                "created_at": 1620500000300
+            },
+            "tag": "distractor"
+        },
+        {
+            "type": "post",
+            "post": {
+                "team": "sales_ops",
+                "channel": "sales_data_analysis",
+                "user": "amanda.lee",
+                "message": "John, can you also provide a breakdown of the sales figures by region? We need to better understand our market penetration in different areas.",
+                "created_at": 1620500000400
+            },
+            "tag": "distractor"
+        },
+        {
+            "type": "post",
+            "post": {
+                "team": "customer_relations",
+                "channel": "customer_satisfaction_scores",
+                "user": "jane_smith",
+                "message": "Sure, Amanda. I'll also share some customer testimonials about the user interface. It might be helpful for marketing.",
+                "created_at": 1620500000500
+            },
+            "tag": "distractor"
+        }
+    ],
+    "file_format": "jsonl",
+    "file_path": ".llm_responses/generated_chat_document.jsonl",
+    "qa_type": "distractor",
+    "timestamp": "2025-11-20 00:58",
+    "app": "mattermost"
+}

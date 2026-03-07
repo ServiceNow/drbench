@@ -1,0 +1,12 @@
+Quarter,Region,Inventory_Change,Inventory_Report_Source
+"The quarter and year of the reported data, corresponding to the timing of the shifts in average EV battery inventory.","The region where Elexion's distribution center is located, which can show regional demand differences.","The percentage change in available EV battery replacement components at Elexion's distribution centers, indicating shifts in inventory levels.","The source of the inventory data, such as 'Elexion internal logistics reports', showing where the insight data came from."
+Q3 2023,North America - Midwest,5%,Elexion internal logistics reports
+Q1 2024,North America - Midwest,15%,Elexion internal logistics reports
+Q4 2023,North America - Midwest,10%,Elexion internal logistics reports
+Q1 2023,North America - Midwest,12%,Elexion internal logistics reports
+Q3 2023,North America - West Coast,2%,Elexion internal logistics reports
+Q2 2023,North America - West Coast,-3%,Elexion internal logistics reports
+Q4 2023,North America - West Coast,3%,Elexion internal logistics reports
+Q1 2024,North America - West Coast,-7%,Elexion internal logistics reports
+Q2 2023,North America - Midwest,8%,Elexion internal logistics reports
+Q1 2023,North America - West Coast,0%,Elexion internal logistics reports

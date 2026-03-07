@@ -1,0 +1,296 @@
+{
+    "file_name": "mattermost_chat_20251202_143750",
+    "content": "{\"type\": \"version\", \"version\": 1}\n{\"type\": \"team\", \"team\": {\"name\": \"it_operations\", \"display_name\": \"IT Operations\", \"type\": \"O\", \"header\": \"Department responsible for managing IT infrastructure and services\", \"purpose\": \"To ensure the smooth running of MediConn's IT services and infrastructure\"}}\n{\"type\": \"team\", \"team\": {\"name\": \"customer_service\", \"display_name\": \"Customer Service\", \"type\": \"O\", \"header\": \"Team dedicated to manage customer related queries and issues\", \"purpose\": \"To provide excellent service to MediConn's customers\"}}\n{\"type\": \"channel\", \"channel\": {\"team\": \"it_operations\", \"name\": \"incident_management\", \"display_name\": \"Incident Management\", \"type\": \"O\", \"header\": \"Discussion related to IT incidents and their resolutions\", \"purpose\": \"To manage and resolve IT incidents promptly\"}}\n{\"type\": \"channel\", \"channel\": {\"team\": \"customer_service\", \"name\": \"customer_compliments\", \"display_name\": \"Customer Compliments\", \"type\": \"O\", \"header\": \"Sharing of positive feedback from customers\", \"purpose\": \"To highlight and learn from what is working well\"}}\n{\"type\": \"user\", \"user\": {\"username\": \"emilypatel\", \"email\": \"emily.patel@mediconn.com\", \"password\": \"emily_pwd123\", \"nickname\": \"Emily\", \"first_name\": \"Emily\", \"last_name\": \"Patel\", \"position\": \"IT Service Desk Manager\", \"roles\": \"system_user\", \"locale\": \"en\", \"teams\": [{\"name\": \"it_operations\", \"roles\": \"team_user\", \"channels\": [{\"name\": \"incident_management\", \"roles\": \"channel_user\"}]}, {\"name\": \"customer_service\", \"roles\": \"team_user\", \"channels\": [{\"name\": \"customer_compliments\", \"roles\": \"channel_user\"}]}]}}\n{\"type\": \"user\", \"user\": {\"username\": \"johndoe\", \"email\": \"john.doe@mediconn.com\", \"password\": \"john_pwd123\", \"nickname\": \"John\", \"first_name\": \"John\", \"last_name\": \"Doe\", \"position\": \"IT Support Specialist\", \"roles\": \"system_user\", \"locale\": \"en\", \"teams\": [{\"name\": \"it_operations\", \"roles\": \"team_user\", \"channels\": [{\"name\": \"incident_management\", \"roles\": \"channel_user\"}]}]}}\n{\"type\": \"user\", \"user\": {\"username\": \"janedoe\", \"email\": \"jane.doe@mediconn.com\", \"password\": \"jane_pwd123\", \"nickname\": \"Jane\", \"first_name\": \"Jane\", \"last_name\": \"Doe\", \"position\": \"Customer Service Representative\", \"roles\": \"system_user\", \"locale\": \"en\", \"teams\": [{\"name\": \"customer_service\", \"roles\": \"team_user\", \"channels\": [{\"name\": \"customer_compliments\", \"roles\": \"channel_user\"}]}]}}\n{\"type\": \"user\", \"user\": {\"username\": \"emily.patel\", \"nickname\": \"emily.patel\", \"first_name\": \"Emily\", \"last_name\": \"Patel\", \"roles\": [\"member\"], \"position\": \"IT Service Desk Manager\", \"email\": \"emily.patel@mediconnsolutions.com\", \"locale\": \"en\", \"teams\": [{\"name\": \"it_operations\", \"roles\": \"team_user\", \"channels\": [{\"name\": \"incident_management\", \"roles\": \"channel_user\"}]}, {\"name\": \"customer_service\", \"roles\": \"team_user\", \"channels\": [{\"name\": \"customer_compliments\", \"roles\": \"channel_user\"}]}]}}\n{\"type\": \"post\", \"post\": {\"team\": \"it_operations\", \"channel\": \"incident_management\", \"user\": \"emilypatel\", \"message\": \"Hello team, we have a scheduled maintenance on our servers this Friday. Please ensure to complete all your tasks before then.\", \"created_at\": 1620500000000}}\n{\"type\": \"post\", \"post\": {\"team\": \"it_operations\", \"channel\": \"incident_management\", \"user\": \"johndoe\", \"message\": \"Thanks for the heads up, Emily. I'll make sure all my tasks are completed before the maintenance starts.\", \"created_at\": 1620500100000}}\n{\"type\": \"post\", \"post\": {\"team\": \"customer_service\", \"channel\": \"customer_compliments\", \"user\": \"janedoe\", \"message\": \"Team, we received a compliment from a customer about our new user interface. They loved how intuitive it is.\", \"created_at\": 1620500200000}}\n{\"type\": \"post\", \"post\": {\"team\": \"it_operations\", \"channel\": \"incident_management\", \"user\": \"emilypatel\", \"message\": \"That's great to hear, Jane. The IT team worked really hard on that interface. I'll pass on the compliment.\", \"created_at\": 1620500300000}}\n{\"type\": \"post\", \"post\": {\"team\": \"it_operations\", \"channel\": \"incident_management\", \"user\": \"johndoe\", \"message\": \"Does anyone know if there's a plan to upgrade our cloud storage capacity? We're almost at the limit.\", \"created_at\": 1620500400000}}\n{\"type\": \"post\", \"post\": {\"team\": \"it_operations\", \"channel\": \"incident_management\", \"user\": \"emilypatel\", \"message\": \"Yes, John. I've already raised it with management. We should get an update soon.\", \"created_at\": 1620500500000}}\n{\"type\": \"post\", \"post\": {\"team\": \"customer_service\", \"channel\": \"customer_compliments\", \"user\": \"janedoe\", \"message\": \"Team, we've had a few customers complimenting our appointment scheduling feature. They appreciate how easy it is to use.\", \"created_at\": 1620500600000}}\n{\"type\": \"post\", \"post\": {\"team\": \"it_operations\", \"channel\": \"incident_management\", \"user\": \"emilypatel\", \"message\": \"Great to hear that, Jane. We'll continue to make improvements based on customer feedback.\", \"created_at\": 1620500700000}}\n{\"type\": \"post\", \"post\": {\"team\": \"customer_service\", \"channel\": \"customer_compliments\", \"user\": \"janedoe\", \"message\": \"Hey team, I've been going through the Customer Satisfaction surveys from Q2 2025 and it's great to see so many positive comments about the IT Service Desk. The most frequently documented compliment is about the politeness of our staff. It really stands out in the feedback and it's clear that our customers appreciate it.\", \"create_at\": 1620500000000}}\n{\"type\": \"post\", \"post\": {\"team\": \"it_operations\", \"channel\": \"incident_management\", \"user\": \"emilypatel\", \"message\": \"That's wonderful to hear, Jane. I'll make sure to pass on this compliment to our IT Service Desk team. It's great to know that their efforts to maintain a polite and professional demeanor are being noticed and appreciated by our customers.\", \"create_at\": 1620500000010}}",
+    "chat_setup": {
+        "teams": [
+            {
+                "type": "team",
+                "team": {
+                    "name": "it_operations",
+                    "display_name": "IT Operations",
+                    "type": "O",
+                    "header": "Department responsible for managing IT infrastructure and services",
+                    "purpose": "To ensure the smooth running of MediConn's IT services and infrastructure"
+                }
+            },
+            {
+                "type": "team",
+                "team": {
+                    "name": "customer_service",
+                    "display_name": "Customer Service",
+                    "type": "O",
+                    "header": "Team dedicated to manage customer related queries and issues",
+                    "purpose": "To provide excellent service to MediConn's customers"
+                }
+            }
+        ],
+        "channels": [
+            {
+                "type": "channel",
+                "channel": {
+                    "team": "it_operations",
+                    "name": "incident_management",
+                    "display_name": "Incident Management",
+                    "type": "O",
+                    "header": "Discussion related to IT incidents and their resolutions",
+                    "purpose": "To manage and resolve IT incidents promptly"
+                }
+            },
+            {
+                "type": "channel",
+                "channel": {
+                    "team": "customer_service",
+                    "name": "customer_compliments",
+                    "display_name": "Customer Compliments",
+                    "type": "O",
+                    "header": "Sharing of positive feedback from customers",
+                    "purpose": "To highlight and learn from what is working well"
+                }
+            }
+        ],
+        "users": [
+            {
+                "type": "user",
+                "user": {
+                    "username": "emilypatel",
+                    "email": "emily.patel@mediconn.com",
+                    "password": "emily_pwd123",
+                    "nickname": "Emily",
+                    "first_name": "Emily",
+                    "last_name": "Patel",
+                    "position": "IT Service Desk Manager",
+                    "roles": "system_user",
+                    "locale": "en",
+                    "teams": [
+                        {
+                            "name": "it_operations",
+                            "roles": "team_user",
+                            "channels": [
+                                {
+                                    "name": "incident_management",
+                                    "roles": "channel_user"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "customer_service",
+                            "roles": "team_user",
+                            "channels": [
+                                {
+                                    "name": "customer_compliments",
+                                    "roles": "channel_user"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "type": "user",
+                "user": {
+                    "username": "johndoe",
+                    "email": "john.doe@mediconn.com",
+                    "password": "john_pwd123",
+                    "nickname": "John",
+                    "first_name": "John",
+                    "last_name": "Doe",
+                    "position": "IT Support Specialist",
+                    "roles": "system_user",
+                    "locale": "en",
+                    "teams": [
+                        {
+                            "name": "it_operations",
+                            "roles": "team_user",
+                            "channels": [
+                                {
+                                    "name": "incident_management",
+                                    "roles": "channel_user"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "type": "user",
+                "user": {
+                    "username": "janedoe",
+                    "email": "jane.doe@mediconn.com",
+                    "password": "jane_pwd123",
+                    "nickname": "Jane",
+                    "first_name": "Jane",
+                    "last_name": "Doe",
+                    "position": "Customer Service Representative",
+                    "roles": "system_user",
+                    "locale": "en",
+                    "teams": [
+                        {
+                            "name": "customer_service",
+                            "roles": "team_user",
+                            "channels": [
+                                {
+                                    "name": "customer_compliments",
+                                    "roles": "channel_user"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "type": "user",
+                "user": {
+                    "username": "emily.patel",
+                    "nickname": "emily.patel",
+                    "first_name": "Emily",
+                    "last_name": "Patel",
+                    "roles": [
+                        "member"
+                    ],
+                    "position": "IT Service Desk Manager",
+                    "email": "emily.patel@mediconnsolutions.com",
+                    "locale": "en",
+                    "teams": [
+                        {
+                            "name": "it_operations",
+                            "roles": "team_user",
+                            "channels": [
+                                {
+                                    "name": "incident_management",
+                                    "roles": "channel_user"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "customer_service",
+                            "roles": "team_user",
+                            "channels": [
+                                {
+                                    "name": "customer_compliments",
+                                    "roles": "channel_user"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    "chat_messages": [
+        {
+            "type": "post",
+            "post": {
+                "team": "customer_service",
+                "channel": "customer_compliments",
+                "user": "janedoe",
+                "message": "Hey team, I've been going through the Customer Satisfaction surveys from Q2 2025 and it's great to see so many positive comments about the IT Service Desk. The most frequently documented compliment is about the politeness of our staff. It really stands out in the feedback and it's clear that our customers appreciate it.",
+                "create_at": 1620500000000
+            },
+            "tag": "insight"
+        },
+        {
+            "type": "post",
+            "post": {
+                "team": "it_operations",
+                "channel": "incident_management",
+                "user": "emilypatel",
+                "message": "That's wonderful to hear, Jane. I'll make sure to pass on this compliment to our IT Service Desk team. It's great to know that their efforts to maintain a polite and professional demeanor are being noticed and appreciated by our customers.",
+                "create_at": 1620500000010
+            },
+            "tag": "insight"
+        },
+        {
+            "type": "post",
+            "post": {
+                "team": "it_operations",
+                "channel": "incident_management",
+                "user": "emilypatel",
+                "message": "Hello team, we have a scheduled maintenance on our servers this Friday. Please ensure to complete all your tasks before then.",
+                "created_at": 1620500000000
+            },
+            "tag": "distractor"
+        },
+        {
+            "type": "post",
+            "post": {
+                "team": "it_operations",
+                "channel": "incident_management",
+                "user": "johndoe",
+                "message": "Thanks for the heads up, Emily. I'll make sure all my tasks are completed before the maintenance starts.",
+                "created_at": 1620500100000
+            },
+            "tag": "distractor"
+        },
+        {
+            "type": "post",
+            "post": {
+                "team": "customer_service",
+                "channel": "customer_compliments",
+                "user": "janedoe",
+                "message": "Team, we received a compliment from a customer about our new user interface. They loved how intuitive it is.",
+                "created_at": 1620500200000
+            },
+            "tag": "distractor"
+        },
+        {
+            "type": "post",
+            "post": {
+                "team": "it_operations",
+                "channel": "incident_management",
+                "user": "emilypatel",
+                "message": "That's great to hear, Jane. The IT team worked really hard on that interface. I'll pass on the compliment.",
+                "created_at": 1620500300000
+            },
+            "tag": "distractor"
+        },
+        {
+            "type": "post",
+            "post": {
+                "team": "it_operations",
+                "channel": "incident_management",
+                "user": "johndoe",
+                "message": "Does anyone know if there's a plan to upgrade our cloud storage capacity? We're almost at the limit.",
+                "created_at": 1620500400000
+            },
+            "tag": "distractor"
+        },
+        {
+            "type": "post",
+            "post": {
+                "team": "it_operations",
+                "channel": "incident_management",
+                "user": "emilypatel",
+                "message": "Yes, John. I've already raised it with management. We should get an update soon.",
+                "created_at": 1620500500000
+            },
+            "tag": "distractor"
+        },
+        {
+            "type": "post",
+            "post": {
+                "team": "customer_service",
+                "channel": "customer_compliments",
+                "user": "janedoe",
+                "message": "Team, we've had a few customers complimenting our appointment scheduling feature. They appreciate how easy it is to use.",
+                "created_at": 1620500600000
+            },
+            "tag": "distractor"
+        },
+        {
+            "type": "post",
+            "post": {
+                "team": "it_operations",
+                "channel": "incident_management",
+                "user": "emilypatel",
+                "message": "Great to hear that, Jane. We'll continue to make improvements based on customer feedback.",
+                "created_at": 1620500700000
+            },
+            "tag": "distractor"
+        }
+    ],
+    "file_format": "jsonl",
+    "file_path": ".llm_responses/generated_chat_document.jsonl",
+    "qa_type": "distractor",
+    "timestamp": "2025-12-02 15:37",
+    "app": "mattermost"
+}

@@ -1,0 +1,145 @@
+================================================================================
+ROUNDCUBE EMAIL EXPORT
+================================================================================
+
+USERS:
+----------------------------------------
+• sofia.rodriguez
+  Name: Sofia Rodriguez
+  Email: sofia.rodriguez@elexionauto.com
+
+• michael.brown
+  Name: Michael Brown
+  Email: michael.brown@elexionauto.com
+
+• linda.johnson
+  Name: Linda Johnson
+  Email: linda.johnson@elexionauto.com
+
+• james.williams
+  Name: James Williams
+  Email: james.williams@elexionauto.com
+
+• patricia.jones
+  Name: Patricia Jones
+  Email: patricia.jones@elexionauto.com
+
+• robert.miller
+  Name: Robert Miller
+  Email: robert.miller@elexionauto.com
+
+EMAILS:
+================================================================================
+Email ID: email_001
+Date: 2022-03-15 08:30:00
+From: Michael Brown <michael.brown@elexionauto.com>
+To: sofia.rodriguez@elexionauto.com, linda.johnson@elexionauto.com
+CC: james.williams@elexionauto.com
+Subject: Quarterly Budget Meeting
+Folder: inbox | Status: Read
+
+Message Body:
+----------------------------------------
+Dear Team, 
+
+Just a quick reminder that our Quarterly Budget Meeting will be held this Friday at 2:00 PM in the main conference room. We will be discussing the allocation of resources for the upcoming quarter. Please come prepared with any updates or requests for your respective departments. 
+
+Best, 
+Michael
+============================================================
+
+Email ID: email_002
+Date: 2022-03-16 10:45:00
+From: Patricia Jones <patricia.jones@elexionauto.com>
+To: sofia.rodriguez@elexionauto.com
+Subject: Customer Feedback Summary
+Folder: inbox | Status: Unread
+Attachments: 1 file(s)
+
+Message Body:
+----------------------------------------
+Hello Sofia, 
+
+I've attached a summary of the recent customer feedback we've received. Most comments are related to the user interface and overall driving experience. I thought you might find it useful for your product development work. 
+
+Best, 
+Patricia
+============================================================
+
+Email ID: email_003
+Date: 2022-03-17 14:20:00
+From: Robert Miller <robert.miller@elexionauto.com>
+To: sofia.rodriguez@elexionauto.com, james.williams@elexionauto.com
+CC: michael.brown@elexionauto.com, linda.johnson@elexionauto.com
+Subject: EV Industry Networking Event
+Folder: inbox | Status: Unread
+
+Message Body:
+----------------------------------------
+Team, 
+
+I wanted to let you know about an upcoming networking event focused on the EV industry. It's a great opportunity to meet professionals from other companies, learn about the latest trends, and share our own experiences at Elexion Automotive. The event will be held virtually next Thursday at 7:00 PM. Let me know if you're interested so we can register as a group. 
+
+Best, 
+Robert
+============================================================
+
+Email ID: email_001
+Date: 2023-06-20 10:30:00
+From: Sofia Rodriguez <sofia.rodriguez@elexionauto.com>
+To: michael.brown@elexionauto.com
+CC: linda.johnson@elexionauto.com, james.williams@elexionauto.com, patricia.jones@elexionauto.com, robert.miller@elexionauto.com
+Subject: Initial Steps for CARB's 100% ZEV Mandate Compliance
+Folder: sent | Status: Read
+
+Message Body:
+----------------------------------------
+Hello Michael,
+
+As we move towards achieving CARB's 100% ZEV sales mandate by 2035, we need to ensure our electric vehicles meet all necessary compliance requirements. I believe it would be beneficial to review our past experiences with regulatory compliance, specifically any recalls related to safety regulations. Could you please provide this information?
+
+Best,
+Sofia
+============================================================
+
+Email ID: email_002
+Date: 2023-06-20 12:15:00
+From: Michael Brown <michael.brown@elexionauto.com>
+To: sofia.rodriguez@elexionauto.com
+CC: linda.johnson@elexionauto.com, james.williams@elexionauto.com, patricia.jones@elexionauto.com, robert.miller@elexionauto.com
+Subject: RE: Initial Steps for CARB's 100% ZEV Mandate Compliance
+Folder: inbox | Status: Read
+
+Message Body:
+----------------------------------------
+Hi Sofia,
+
+That's a great point. Since our inception in 2010, we have issued recalls only once, in 2019. It related to faulty tire pressure sensors on two of our 2017 models. This was a valuable lesson for us, as it highlighted the importance of thorough compliance testing and certification. We have since implemented rigorous checks to prevent such issues.
+
+Let's keep this in mind as we navigate the road to 100% ZEV sales.
+
+Best,
+Michael
+============================================================
+
+Email ID: email_003
+Date: 2023-06-20 13:00:00
+From: Sofia Rodriguez <sofia.rodriguez@elexionauto.com>
+To: michael.brown@elexionauto.com
+CC: linda.johnson@elexionauto.com, james.williams@elexionauto.com, patricia.jones@elexionauto.com, robert.miller@elexionauto.com
+Subject: RE: Initial Steps for CARB's 100% ZEV Mandate Compliance
+Folder: sent | Status: Read
+
+Message Body:
+----------------------------------------
+Hi Michael,
+
+Thank you for the prompt response. The 2019 recall indeed serves as a reminder of the importance of stringent compliance testing. This information will certainly help us in outlining our strategy for achieving CARB's 100% ZEV mandate. I'll incorporate this insight into our compliance planning.
+
+Best,
+Sofia
+============================================================
+
+================================================================================
+END OF EMAIL EXPORT
+================================================================================

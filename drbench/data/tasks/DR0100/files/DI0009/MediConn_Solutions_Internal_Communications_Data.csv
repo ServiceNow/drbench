@@ -1,0 +1,13 @@
+communication_type,publish_year,number_published,communication_purpose
+"The type of internal communication that was sent out by the company. In this case, it would be 'Company-Wide Newsletter'.","The year in which the communication was published. For the given insight, it would be '2025'.","The number of times the specified type of communication was published within the given year. For the insight, it would be '24'.","A brief description of the purpose of the communication. For the given insight, this could be 'Internal Updates'."
+Annual Conference,2025,1,Company Strategy
+Quarterly Review,2023,4,Performance Evaluation
+Safety Training,2024,3,Safety Procedures
+Company-Wide Newsletter,2025,24,Internal Updates
+CEO Town Hall,2025,2,Company Vision
+New Hire Orientation,2022,10,Onboarding
+Policy Update,2025,2,Policy Changes
+Monthly Department Meeting,2024,12,Departmental Updates
+Weekly Team Meeting,2024,48,Team Coordination
+Holiday Announcement,2025,4,Holiday Schedule
+Project Kickoff,2023,5,Project Initiatives

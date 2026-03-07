@@ -1,0 +1,12 @@
+Campaign_ID,Campaign_Year,Campaign_Type,Campaign_Budget,Campaign_Outcome
+Unique identifier for each marketing campaign carried out by Elexion Automotive.,The year in which the specific marketing campaign was executed.,"The type of marketing campaign that was executed such as digital, print, TV etc.",The total budget that was allocated for the marketing campaign.,"The outcome or result of the marketing campaign. This could be measured in terms of reach, conversions, sales etc."
+CAM2018,2018-01-01,Print,"$140,000",Increased reach by 20%
+CAM2015,2015-01-01,Print,"$130,000",Increased reach by 10%
+CAM2011,2011-01-01,Digital,"$200,000",Increased sales by 10%
+CAM2017,2017-01-01,Digital,"$195,000",Increased sales by 20%
+CAM2013,2013-01-01,TV,"$180,000",Increased conversions by 20%
+CAM2020,2020-01-01,Digital,"$200,000",Increased sales by 25%
+CAM2012,2012-01-01,Print,"$150,000",Increased reach by 15%
+CAM2016,2016-01-01,TV,"$175,000",Increased conversions by 25%
+CAM2014,2014-01-01,Digital,"$190,000",Increased sales by 15%
+CAM2019,2019-01-01,TV,"$185,000",Increased conversions by 30%

@@ -1,0 +1,182 @@
+{
+    "file_name": "roundcube_email_20251119_231758",
+    "content": "{\"type\": \"user\", \"username\": \"julian.lee\", \"first_name\": \"Julian\", \"last_name\": \"Lee\", \"email\": \"julian.lee@mediconnsolutions.com\", \"password\": \"jl_mediConn_123\"}\n{\"type\": \"user\", \"username\": \"emily.watson\", \"first_name\": \"Emily\", \"last_name\": \"Watson\", \"email\": \"emily.watson@mediconnsolutions.com\", \"password\": \"ew_mediConn_456\"}\n{\"type\": \"user\", \"username\": \"michael.rogers\", \"first_name\": \"Michael\", \"last_name\": \"Rogers\", \"email\": \"michael.rogers@mediconnsolutions.com\", \"password\": \"mr_mediConn_789\"}\n{\"type\": \"user\", \"username\": \"sarah.parker\", \"first_name\": \"Sarah\", \"last_name\": \"Parker\", \"email\": \"sarah.parker@mediconnsolutions.com\", \"password\": \"sp_mediConn_321\"}\n{\"type\": \"user\", \"username\": \"robert.brown\", \"first_name\": \"Robert\", \"last_name\": \"Brown\", \"email\": \"robert.brown@mediconnsolutions.com\", \"password\": \"rb_mediConn_654\"}\n{\"type\": \"user\", \"username\": \"nancy.jones\", \"first_name\": \"Nancy\", \"last_name\": \"Jones\", \"email\": \"nancy.jones@mediconnsolutions.com\", \"password\": \"nj_mediConn_987\"}\n{\"type\": \"email\", \"id\": \"email_001\", \"subject\": \"Upcoming Team Meeting Schedule\", \"from\": \"julian.lee@mediconnsolutions.com\", \"from_name\": \"Julian Lee\", \"to\": [\"emily.watson@mediconnsolutions.com\", \"michael.rogers@mediconnsolutions.com\", \"sarah.parker@mediconnsolutions.com\", \"robert.brown@mediconnsolutions.com\", \"nancy.jones@mediconnsolutions.com\"], \"cc\": [], \"date\": \"2026-06-10 15:30:00\", \"body\": \"Hello Team,\\n\\nI have scheduled our weekly sales team meeting for Friday at 10 AM. We will be discussing the new CRM system and its features. Please prepare any questions or issues you would like to address.\\n\\nBest,\\nJulian\", \"folder\": \"inbox\", \"read\": true, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_002\", \"subject\": \"Project Status Update - CRM System\", \"from\": \"michael.rogers@mediconnsolutions.com\", \"from_name\": \"Michael Rogers\", \"to\": [\"julian.lee@mediconnsolutions.com\"], \"cc\": [\"emily.watson@mediconnsolutions.com\"], \"date\": \"2026-06-11 09:15:00\", \"body\": \"Hi Julian,\\n\\nJust a quick update on the CRM system project. The system is now fully operational and the data migration was successful. Training sessions for the sales team will start next week.\\n\\nThanks,\\nMichael\", \"folder\": \"inbox\", \"read\": true, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_003\", \"subject\": \"New Compliance Training\", \"from\": \"nancy.jones@mediconnsolutions.com\", \"from_name\": \"Nancy Jones\", \"to\": [\"julian.lee@mediconnsolutions.com\", \"emily.watson@mediconnsolutions.com\", \"michael.rogers@mediconnsolutions.com\", \"sarah.parker@mediconnsolutions.com\", \"robert.brown@mediconnsolutions.com\"], \"cc\": [], \"date\": \"2026-06-11 13:30:00\", \"body\": \"Dear Team,\\n\\nA reminder that all staff must complete the new compliance training by the end of this month. The training covers our updated privacy policies in line with the latest regulations. Please ensure you allocate time for this.\\n\\nBest,\\nNancy\", \"folder\": \"inbox\", \"read\": true, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_001\", \"subject\": \"Client Retention Strategy for 2026\", \"from\": \"julian.lee@mediconnsolutions.com\", \"from_name\": \"Julian Lee\", \"to\": [\"emily.watson@mediconnsolutions.com\"], \"cc\": [\"michael.rogers@mediconnsolutions.com\", \"sarah.parker@mediconnsolutions.com\"], \"date\": \"2026-01-05 09:00:00\", \"body\": \"Hi Emily,\\n\\nAs we look at the projections for 2026, it's evident that maintaining client retention will be crucial to our growth. I am reviewing the key factors that have contributed to our success so far, and I need your input. \\n\\nIn your opinion, what sets our platform apart in the highly competitive virtual healthcare market in Canada? \\n\\nBest Regards,\\nJulian\", \"folder\": \"sent\", \"read\": true, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_002\", \"subject\": \"RE: Client Retention Strategy for 2026\", \"from\": \"emily.watson@mediconnsolutions.com\", \"from_name\": \"Emily Watson\", \"to\": [\"julian.lee@mediconnsolutions.com\"], \"cc\": [\"michael.rogers@mediconnsolutions.com\", \"sarah.parker@mediconnsolutions.com\"], \"date\": \"2026-01-05 13:45:00\", \"body\": \"Hi Julian,\\n\\nI believe one of our distinct advantages is the design of our platform. Our Q2 2022 client surveys show a 93% satisfaction rate for platform ease of use and onboarding speed. This outperforms most of our competitors. \\n\\nThe user-friendly nature of our platform, coupled with the seamless onboarding process we offer, provides a positive experience that encourages client retention. \\n\\nBest,\\nEmily\", \"folder\": \"sent\", \"read\": true, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_003\", \"subject\": \"RE: Client Retention Strategy for 2026\", \"from\": \"julian.lee@mediconnsolutions.com\", \"from_name\": \"Julian Lee\", \"to\": [\"emily.watson@mediconnsolutions.com\"], \"cc\": [\"michael.rogers@mediconnsolutions.com\", \"sarah.parker@mediconnsolutions.com\"], \"date\": \"2026-01-05 14:30:00\", \"body\": \"Emily,\\n\\nThat's a great point. The user-friendliness and smooth onboarding process of our platform indeed play a significant role in client satisfaction and retention. Let's focus on continually improving these aspects to keep our clients engaged and satisfied in 2026 and beyond.\\n\\nThanks for your input.\\n\\nBest,\\nJulian\", \"folder\": \"sent\", \"read\": true, \"attachments\": []}",
+    "email_setup": [
+        {
+            "type": "user",
+            "username": "julian.lee",
+            "first_name": "Julian",
+            "last_name": "Lee",
+            "email": "julian.lee@mediconnsolutions.com",
+            "password": "jl_mediConn_123"
+        },
+        {
+            "type": "user",
+            "username": "emily.watson",
+            "first_name": "Emily",
+            "last_name": "Watson",
+            "email": "emily.watson@mediconnsolutions.com",
+            "password": "ew_mediConn_456"
+        },
+        {
+            "type": "user",
+            "username": "michael.rogers",
+            "first_name": "Michael",
+            "last_name": "Rogers",
+            "email": "michael.rogers@mediconnsolutions.com",
+            "password": "mr_mediConn_789"
+        },
+        {
+            "type": "user",
+            "username": "sarah.parker",
+            "first_name": "Sarah",
+            "last_name": "Parker",
+            "email": "sarah.parker@mediconnsolutions.com",
+            "password": "sp_mediConn_321"
+        },
+        {
+            "type": "user",
+            "username": "robert.brown",
+            "first_name": "Robert",
+            "last_name": "Brown",
+            "email": "robert.brown@mediconnsolutions.com",
+            "password": "rb_mediConn_654"
+        },
+        {
+            "type": "user",
+            "username": "nancy.jones",
+            "first_name": "Nancy",
+            "last_name": "Jones",
+            "email": "nancy.jones@mediconnsolutions.com",
+            "password": "nj_mediConn_987"
+        }
+    ],
+    "email_messages": [
+        {
+            "type": "email",
+            "id": "email_001",
+            "subject": "Upcoming Team Meeting Schedule",
+            "from": "julian.lee@mediconnsolutions.com",
+            "from_name": "Julian Lee",
+            "to": [
+                "emily.watson@mediconnsolutions.com",
+                "michael.rogers@mediconnsolutions.com",
+                "sarah.parker@mediconnsolutions.com",
+                "robert.brown@mediconnsolutions.com",
+                "nancy.jones@mediconnsolutions.com"
+            ],
+            "cc": [],
+            "date": "2026-06-10 15:30:00",
+            "body": "Hello Team,\n\nI have scheduled our weekly sales team meeting for Friday at 10 AM. We will be discussing the new CRM system and its features. Please prepare any questions or issues you would like to address.\n\nBest,\nJulian",
+            "folder": "inbox",
+            "read": true,
+            "attachments": [],
+            "tag": "distractor"
+        },
+        {
+            "type": "email",
+            "id": "email_002",
+            "subject": "Project Status Update - CRM System",
+            "from": "michael.rogers@mediconnsolutions.com",
+            "from_name": "Michael Rogers",
+            "to": [
+                "julian.lee@mediconnsolutions.com"
+            ],
+            "cc": [
+                "emily.watson@mediconnsolutions.com"
+            ],
+            "date": "2026-06-11 09:15:00",
+            "body": "Hi Julian,\n\nJust a quick update on the CRM system project. The system is now fully operational and the data migration was successful. Training sessions for the sales team will start next week.\n\nThanks,\nMichael",
+            "folder": "inbox",
+            "read": true,
+            "attachments": [],
+            "tag": "distractor"
+        },
+        {
+            "type": "email",
+            "id": "email_003",
+            "subject": "New Compliance Training",
+            "from": "nancy.jones@mediconnsolutions.com",
+            "from_name": "Nancy Jones",
+            "to": [
+                "julian.lee@mediconnsolutions.com",
+                "emily.watson@mediconnsolutions.com",
+                "michael.rogers@mediconnsolutions.com",
+                "sarah.parker@mediconnsolutions.com",
+                "robert.brown@mediconnsolutions.com"
+            ],
+            "cc": [],
+            "date": "2026-06-11 13:30:00",
+            "body": "Dear Team,\n\nA reminder that all staff must complete the new compliance training by the end of this month. The training covers our updated privacy policies in line with the latest regulations. Please ensure you allocate time for this.\n\nBest,\nNancy",
+            "folder": "inbox",
+            "read": true,
+            "attachments": [],
+            "tag": "distractor"
+        },
+        {
+            "type": "email",
+            "id": "email_001",
+            "subject": "Client Retention Strategy for 2026",
+            "from": "julian.lee@mediconnsolutions.com",
+            "from_name": "Julian Lee",
+            "to": [
+                "emily.watson@mediconnsolutions.com"
+            ],
+            "cc": [
+                "michael.rogers@mediconnsolutions.com",
+                "sarah.parker@mediconnsolutions.com"
+            ],
+            "date": "2026-01-05 09:00:00",
+            "body": "Hi Emily,\n\nAs we look at the projections for 2026, it's evident that maintaining client retention will be crucial to our growth. I am reviewing the key factors that have contributed to our success so far, and I need your input. \n\nIn your opinion, what sets our platform apart in the highly competitive virtual healthcare market in Canada? \n\nBest Regards,\nJulian",
+            "folder": "sent",
+            "read": true,
+            "attachments": [],
+            "tag": "insight"
+        },
+        {
+            "type": "email",
+            "id": "email_002",
+            "subject": "RE: Client Retention Strategy for 2026",
+            "from": "emily.watson@mediconnsolutions.com",
+            "from_name": "Emily Watson",
+            "to": [
+                "julian.lee@mediconnsolutions.com"
+            ],
+            "cc": [
+                "michael.rogers@mediconnsolutions.com",
+                "sarah.parker@mediconnsolutions.com"
+            ],
+            "date": "2026-01-05 13:45:00",
+            "body": "Hi Julian,\n\nI believe one of our distinct advantages is the design of our platform. Our Q2 2022 client surveys show a 93% satisfaction rate for platform ease of use and onboarding speed. This outperforms most of our competitors. \n\nThe user-friendly nature of our platform, coupled with the seamless onboarding process we offer, provides a positive experience that encourages client retention. \n\nBest,\nEmily",
+            "folder": "sent",
+            "read": true,
+            "attachments": [],
+            "tag": "insight"
+        },
+        {
+            "type": "email",
+            "id": "email_003",
+            "subject": "RE: Client Retention Strategy for 2026",
+            "from": "julian.lee@mediconnsolutions.com",
+            "from_name": "Julian Lee",
+            "to": [
+                "emily.watson@mediconnsolutions.com"
+            ],
+            "cc": [
+                "michael.rogers@mediconnsolutions.com",
+                "sarah.parker@mediconnsolutions.com"
+            ],
+            "date": "2026-01-05 14:30:00",
+            "body": "Emily,\n\nThat's a great point. The user-friendliness and smooth onboarding process of our platform indeed play a significant role in client satisfaction and retention. Let's focus on continually improving these aspects to keep our clients engaged and satisfied in 2026 and beyond.\n\nThanks for your input.\n\nBest,\nJulian",
+            "folder": "sent",
+            "read": true,
+            "attachments": [],
+            "tag": "insight"
+        }
+    ],
+    "file_format": "jsonl",
+    "file_path": ".llm_responses/generated_email_document.jsonl",
+    "qa_type": "distractor",
+    "timestamp": "2025-11-20 00:17",
+    "app": "email"
+}

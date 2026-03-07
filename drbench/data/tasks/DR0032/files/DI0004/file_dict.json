@@ -1,0 +1,187 @@
+{
+    "file_name": "roundcube_email_20251202_224051",
+    "content": "{\"type\": \"user\", \"username\": \"sofia.rodriguez\", \"first_name\": \"Sofia\", \"last_name\": \"Rodriguez\", \"email\": \"sofia.rodriguez@elexionauto.com\", \"password\": \"sofia_pass123\"}\n{\"type\": \"user\", \"username\": \"michael.brown\", \"first_name\": \"Michael\", \"last_name\": \"Brown\", \"email\": \"michael.brown@elexionauto.com\", \"password\": \"michael_pass123\"}\n{\"type\": \"user\", \"username\": \"linda.johnson\", \"first_name\": \"Linda\", \"last_name\": \"Johnson\", \"email\": \"linda.johnson@elexionauto.com\", \"password\": \"linda_pass123\"}\n{\"type\": \"user\", \"username\": \"james.williams\", \"first_name\": \"James\", \"last_name\": \"Williams\", \"email\": \"james.williams@elexionauto.com\", \"password\": \"james_pass123\"}\n{\"type\": \"user\", \"username\": \"patricia.jones\", \"first_name\": \"Patricia\", \"last_name\": \"Jones\", \"email\": \"patricia.jones@elexionauto.com\", \"password\": \"patricia_pass123\"}\n{\"type\": \"user\", \"username\": \"robert.miller\", \"first_name\": \"Robert\", \"last_name\": \"Miller\", \"email\": \"robert.miller@elexionauto.com\", \"password\": \"robert_pass123\"}\n{\"type\": \"email\", \"id\": \"email_001\", \"subject\": \"Quarterly Budget Meeting\", \"from\": \"michael.brown@elexionauto.com\", \"from_name\": \"Michael Brown\", \"to\": [\"sofia.rodriguez@elexionauto.com\", \"linda.johnson@elexionauto.com\"], \"cc\": [\"james.williams@elexionauto.com\"], \"date\": \"2022-03-15 08:30:00\", \"body\": \"Dear Team, \\n\\nJust a quick reminder that our Quarterly Budget Meeting will be held this Friday at 2:00 PM in the main conference room. We will be discussing the allocation of resources for the upcoming quarter. Please come prepared with any updates or requests for your respective departments. \\n\\nBest, \\nMichael\", \"folder\": \"inbox\", \"read\": true, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_002\", \"subject\": \"Customer Feedback Summary\", \"from\": \"patricia.jones@elexionauto.com\", \"from_name\": \"Patricia Jones\", \"to\": [\"sofia.rodriguez@elexionauto.com\"], \"cc\": [], \"date\": \"2022-03-16 10:45:00\", \"body\": \"Hello Sofia, \\n\\nI've attached a summary of the recent customer feedback we've received. Most comments are related to the user interface and overall driving experience. I thought you might find it useful for your product development work. \\n\\nBest, \\nPatricia\", \"folder\": \"inbox\", \"read\": false, \"attachments\": [\"Customer_Feedback_Summary.pdf\"]}\n{\"type\": \"email\", \"id\": \"email_003\", \"subject\": \"EV Industry Networking Event\", \"from\": \"robert.miller@elexionauto.com\", \"from_name\": \"Robert Miller\", \"to\": [\"sofia.rodriguez@elexionauto.com\", \"james.williams@elexionauto.com\"], \"cc\": [\"michael.brown@elexionauto.com\", \"linda.johnson@elexionauto.com\"], \"date\": \"2022-03-17 14:20:00\", \"body\": \"Team, \\n\\nI wanted to let you know about an upcoming networking event focused on the EV industry. It's a great opportunity to meet professionals from other companies, learn about the latest trends, and share our own experiences at Elexion Automotive. The event will be held virtually next Thursday at 7:00 PM. Let me know if you're interested so we can register as a group. \\n\\nBest, \\nRobert\", \"folder\": \"inbox\", \"read\": false, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_001\", \"subject\": \"Initial Steps for CARB's 100% ZEV Mandate Compliance\", \"from\": \"sofia.rodriguez@elexionauto.com\", \"from_name\": \"Sofia Rodriguez\", \"to\": [\"michael.brown@elexionauto.com\"], \"cc\": [\"linda.johnson@elexionauto.com\", \"james.williams@elexionauto.com\", \"patricia.jones@elexionauto.com\", \"robert.miller@elexionauto.com\"], \"date\": \"2023-06-20 10:30:00\", \"body\": \"Hello Michael,\\n\\nAs we move towards achieving CARB's 100% ZEV sales mandate by 2035, we need to ensure our electric vehicles meet all necessary compliance requirements. I believe it would be beneficial to review our past experiences with regulatory compliance, specifically any recalls related to safety regulations. Could you please provide this information?\\n\\nBest,\\nSofia\", \"folder\": \"sent\", \"read\": true, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_002\", \"subject\": \"RE: Initial Steps for CARB's 100% ZEV Mandate Compliance\", \"from\": \"michael.brown@elexionauto.com\", \"from_name\": \"Michael Brown\", \"to\": [\"sofia.rodriguez@elexionauto.com\"], \"cc\": [\"linda.johnson@elexionauto.com\", \"james.williams@elexionauto.com\", \"patricia.jones@elexionauto.com\", \"robert.miller@elexionauto.com\"], \"date\": \"2023-06-20 12:15:00\", \"body\": \"Hi Sofia,\\n\\nThat's a great point. Since our inception in 2010, we have issued recalls only once, in 2019. It related to faulty tire pressure sensors on two of our 2017 models. This was a valuable lesson for us, as it highlighted the importance of thorough compliance testing and certification. We have since implemented rigorous checks to prevent such issues.\\n\\nLet's keep this in mind as we navigate the road to 100% ZEV sales.\\n\\nBest,\\nMichael\", \"folder\": \"inbox\", \"read\": true, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_003\", \"subject\": \"RE: Initial Steps for CARB's 100% ZEV Mandate Compliance\", \"from\": \"sofia.rodriguez@elexionauto.com\", \"from_name\": \"Sofia Rodriguez\", \"to\": [\"michael.brown@elexionauto.com\"], \"cc\": [\"linda.johnson@elexionauto.com\", \"james.williams@elexionauto.com\", \"patricia.jones@elexionauto.com\", \"robert.miller@elexionauto.com\"], \"date\": \"2023-06-20 13:00:00\", \"body\": \"Hi Michael,\\n\\nThank you for the prompt response. The 2019 recall indeed serves as a reminder of the importance of stringent compliance testing. This information will certainly help us in outlining our strategy for achieving CARB's 100% ZEV mandate. I'll incorporate this insight into our compliance planning.\\n\\nBest,\\nSofia\", \"folder\": \"sent\", \"read\": true, \"attachments\": []}",
+    "email_setup": [
+        {
+            "type": "user",
+            "username": "sofia.rodriguez",
+            "first_name": "Sofia",
+            "last_name": "Rodriguez",
+            "email": "sofia.rodriguez@elexionauto.com",
+            "password": "sofia_pass123"
+        },
+        {
+            "type": "user",
+            "username": "michael.brown",
+            "first_name": "Michael",
+            "last_name": "Brown",
+            "email": "michael.brown@elexionauto.com",
+            "password": "michael_pass123"
+        },
+        {
+            "type": "user",
+            "username": "linda.johnson",
+            "first_name": "Linda",
+            "last_name": "Johnson",
+            "email": "linda.johnson@elexionauto.com",
+            "password": "linda_pass123"
+        },
+        {
+            "type": "user",
+            "username": "james.williams",
+            "first_name": "James",
+            "last_name": "Williams",
+            "email": "james.williams@elexionauto.com",
+            "password": "james_pass123"
+        },
+        {
+            "type": "user",
+            "username": "patricia.jones",
+            "first_name": "Patricia",
+            "last_name": "Jones",
+            "email": "patricia.jones@elexionauto.com",
+            "password": "patricia_pass123"
+        },
+        {
+            "type": "user",
+            "username": "robert.miller",
+            "first_name": "Robert",
+            "last_name": "Miller",
+            "email": "robert.miller@elexionauto.com",
+            "password": "robert_pass123"
+        }
+    ],
+    "email_messages": [
+        {
+            "type": "email",
+            "id": "email_001",
+            "subject": "Quarterly Budget Meeting",
+            "from": "michael.brown@elexionauto.com",
+            "from_name": "Michael Brown",
+            "to": [
+                "sofia.rodriguez@elexionauto.com",
+                "linda.johnson@elexionauto.com"
+            ],
+            "cc": [
+                "james.williams@elexionauto.com"
+            ],
+            "date": "2022-03-15 08:30:00",
+            "body": "Dear Team, \n\nJust a quick reminder that our Quarterly Budget Meeting will be held this Friday at 2:00 PM in the main conference room. We will be discussing the allocation of resources for the upcoming quarter. Please come prepared with any updates or requests for your respective departments. \n\nBest, \nMichael",
+            "folder": "inbox",
+            "read": true,
+            "attachments": [],
+            "tag": "distractor"
+        },
+        {
+            "type": "email",
+            "id": "email_002",
+            "subject": "Customer Feedback Summary",
+            "from": "patricia.jones@elexionauto.com",
+            "from_name": "Patricia Jones",
+            "to": [
+                "sofia.rodriguez@elexionauto.com"
+            ],
+            "cc": [],
+            "date": "2022-03-16 10:45:00",
+            "body": "Hello Sofia, \n\nI've attached a summary of the recent customer feedback we've received. Most comments are related to the user interface and overall driving experience. I thought you might find it useful for your product development work. \n\nBest, \nPatricia",
+            "folder": "inbox",
+            "read": false,
+            "attachments": [
+                "Customer_Feedback_Summary.pdf"
+            ],
+            "tag": "distractor"
+        },
+        {
+            "type": "email",
+            "id": "email_003",
+            "subject": "EV Industry Networking Event",
+            "from": "robert.miller@elexionauto.com",
+            "from_name": "Robert Miller",
+            "to": [
+                "sofia.rodriguez@elexionauto.com",
+                "james.williams@elexionauto.com"
+            ],
+            "cc": [
+                "michael.brown@elexionauto.com",
+                "linda.johnson@elexionauto.com"
+            ],
+            "date": "2022-03-17 14:20:00",
+            "body": "Team, \n\nI wanted to let you know about an upcoming networking event focused on the EV industry. It's a great opportunity to meet professionals from other companies, learn about the latest trends, and share our own experiences at Elexion Automotive. The event will be held virtually next Thursday at 7:00 PM. Let me know if you're interested so we can register as a group. \n\nBest, \nRobert",
+            "folder": "inbox",
+            "read": false,
+            "attachments": [],
+            "tag": "distractor"
+        },
+        {
+            "type": "email",
+            "id": "email_001",
+            "subject": "Initial Steps for CARB's 100% ZEV Mandate Compliance",
+            "from": "sofia.rodriguez@elexionauto.com",
+            "from_name": "Sofia Rodriguez",
+            "to": [
+                "michael.brown@elexionauto.com"
+            ],
+            "cc": [
+                "linda.johnson@elexionauto.com",
+                "james.williams@elexionauto.com",
+                "patricia.jones@elexionauto.com",
+                "robert.miller@elexionauto.com"
+            ],
+            "date": "2023-06-20 10:30:00",
+            "body": "Hello Michael,\n\nAs we move towards achieving CARB's 100% ZEV sales mandate by 2035, we need to ensure our electric vehicles meet all necessary compliance requirements. I believe it would be beneficial to review our past experiences with regulatory compliance, specifically any recalls related to safety regulations. Could you please provide this information?\n\nBest,\nSofia",
+            "folder": "sent",
+            "read": true,
+            "attachments": [],
+            "tag": "insight"
+        },
+        {
+            "type": "email",
+            "id": "email_002",
+            "subject": "RE: Initial Steps for CARB's 100% ZEV Mandate Compliance",
+            "from": "michael.brown@elexionauto.com",
+            "from_name": "Michael Brown",
+            "to": [
+                "sofia.rodriguez@elexionauto.com"
+            ],
+            "cc": [
+                "linda.johnson@elexionauto.com",
+                "james.williams@elexionauto.com",
+                "patricia.jones@elexionauto.com",
+                "robert.miller@elexionauto.com"
+            ],
+            "date": "2023-06-20 12:15:00",
+            "body": "Hi Sofia,\n\nThat's a great point. Since our inception in 2010, we have issued recalls only once, in 2019. It related to faulty tire pressure sensors on two of our 2017 models. This was a valuable lesson for us, as it highlighted the importance of thorough compliance testing and certification. We have since implemented rigorous checks to prevent such issues.\n\nLet's keep this in mind as we navigate the road to 100% ZEV sales.\n\nBest,\nMichael",
+            "folder": "inbox",
+            "read": true,
+            "attachments": [],
+            "tag": "insight"
+        },
+        {
+            "type": "email",
+            "id": "email_003",
+            "subject": "RE: Initial Steps for CARB's 100% ZEV Mandate Compliance",
+            "from": "sofia.rodriguez@elexionauto.com",
+            "from_name": "Sofia Rodriguez",
+            "to": [
+                "michael.brown@elexionauto.com"
+            ],
+            "cc": [
+                "linda.johnson@elexionauto.com",
+                "james.williams@elexionauto.com",
+                "patricia.jones@elexionauto.com",
+                "robert.miller@elexionauto.com"
+            ],
+            "date": "2023-06-20 13:00:00",
+            "body": "Hi Michael,\n\nThank you for the prompt response. The 2019 recall indeed serves as a reminder of the importance of stringent compliance testing. This information will certainly help us in outlining our strategy for achieving CARB's 100% ZEV mandate. I'll incorporate this insight into our compliance planning.\n\nBest,\nSofia",
+            "folder": "sent",
+            "read": true,
+            "attachments": [],
+            "tag": "insight"
+        }
+    ],
+    "file_format": "jsonl",
+    "file_path": ".llm_responses/generated_email_document.jsonl",
+    "qa_type": "distractor",
+    "timestamp": "2025-12-02 23:40",
+    "app": "email"
+}

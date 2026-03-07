@@ -1,0 +1,10 @@
+{
+    "insight_id": "DI0001",
+    "qa_type": "distractor",
+    "qa_index": 1,
+    "specific_question": "How many vehicles with solid-state batteries are projected to be produced in 2025 at Elexion Automotive?",
+    "answer": "Several prototypes with solid-state batteries are expected to reach production volumes of up to 10,000 units at Elexion Automotive in 2025.",
+    "justification": "Details on battery technology production are provided and are unrelated to specific industry testing procedures.",
+    "timestamp": "2025-11-20 15:43",
+    "dr_question": "Given that one in seven new vehicles sold in Canada in 2024 were zero-emission, how can Elexion Automotive\u2019s QA team enhance cold-weather testing protocols by Q4 2026 to improve EV battery endurance and reliability in the country\u2019s key ZEV markets?"
+}

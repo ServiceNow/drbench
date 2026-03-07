@@ -1,0 +1,10 @@
+{
+    "insight_id": "DI0012",
+    "qa_type": "distractor",
+    "qa_index": 12,
+    "specific_question": "What percentage of MediConn's IT budget in 2025 was allocated to desktop hardware upgrades?",
+    "answer": "18% of the IT budget went to desktop hardware upgrades.",
+    "justification": "Desktop hardware upgrades do not directly influence virtual care system standards or interoperability.",
+    "timestamp": "2025-11-21 13:33",
+    "dr_question": "Which IT modernization efforts should MediConn emphasize to stay aligned with national virtual care standards and shared digital health infrastructure by 2026?"
+}

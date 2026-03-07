@@ -1,0 +1,8 @@
+{
+    "file_name": "Lees_Market_Richmond_Daily_Foot_Traffic_Data",
+    "file_format": "xlsx",
+    "file_path": "drbench/data/tasks/DR0091/files/DI0003/Lees_Market_Richmond_Daily_Foot_Traffic_Data.xlsx",
+    "csv_path": "drbench/data/tasks/DR0091/files/DI0003/Lees_Market_Richmond_Daily_Foot_Traffic_Data.csv",
+    "qa_type": "distractor",
+    "app": "file_system"
+}

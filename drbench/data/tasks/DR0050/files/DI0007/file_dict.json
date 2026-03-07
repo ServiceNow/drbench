@@ -1,0 +1,285 @@
+{
+    "file_name": "mattermost_chat_20251202_144859",
+    "content": "{\"type\": \"version\", \"version\": 1}\n{\"type\": \"team\", \"team\": {\"name\": \"executives\", \"display_name\": \"Executives\", \"type\": \"O\", \"header\": \"Executive team for MediConn Solutions\", \"purpose\": \"Discuss executive-level matters, strategies, and decision-making\"}}\n{\"type\": \"team\", \"team\": {\"name\": \"customer_support\", \"display_name\": \"Customer Support\", \"type\": \"O\", \"header\": \"Customer Support team for MediConn Solutions\", \"purpose\": \"Manage and discuss customer support related strategies, issues and solutions\"}}\n{\"type\": \"channel\", \"channel\": {\"team\": \"executives\", \"name\": \"strategy_discussion\", \"display_name\": \"Strategy Discussion\", \"type\": \"O\", \"header\": \"Channel for discussing strategic decisions and plans\", \"purpose\": \"Discuss strategic decisions, plans and their implications\"}}\n{\"type\": \"channel\", \"channel\": {\"team\": \"customer_support\", \"name\": \"operational_updates\", \"display_name\": \"Operational Updates\", \"type\": \"O\", \"header\": \"Channel for updates on customer support operations\", \"purpose\": \"Discuss operational changes, updates, and improvements in customer support\"}}\n{\"type\": \"user\", \"user\": {\"username\": \"rachel_lee\", \"email\": \"rachel.lee@mediconn.com\", \"password\": \"rachel_lee_pwd\", \"nickname\": \"Rachel\", \"first_name\": \"Rachel\", \"last_name\": \"Lee\", \"position\": \"Director of Customer Service\", \"roles\": \"system_user\", \"locale\": \"en\", \"teams\": [{\"name\": \"executives\", \"roles\": \"team_user\", \"channels\": [{\"name\": \"strategy_discussion\", \"roles\": \"channel_user\"}]}, {\"name\": \"customer_support\", \"roles\": \"team_user\", \"channels\": [{\"name\": \"operational_updates\", \"roles\": \"channel_user\"}]}]}}\n{\"type\": \"user\", \"user\": {\"username\": \"john_doe\", \"email\": \"john.doe@mediconn.com\", \"password\": \"john_doe_pwd\", \"nickname\": \"John\", \"first_name\": \"John\", \"last_name\": \"Doe\", \"position\": \"HR Manager\", \"roles\": \"system_user\", \"locale\": \"en\", \"teams\": [{\"name\": \"executives\", \"roles\": \"team_user\", \"channels\": [{\"name\": \"strategy_discussion\", \"roles\": \"channel_user\"}]}]}}\n{\"type\": \"user\", \"user\": {\"username\": \"jane_smith\", \"email\": \"jane.smith@mediconn.com\", \"password\": \"jane_smith_pwd\", \"nickname\": \"Jane\", \"first_name\": \"Jane\", \"last_name\": \"Smith\", \"position\": \"Customer Support Representative\", \"roles\": \"system_user\", \"locale\": \"en\", \"teams\": [{\"name\": \"customer_support\", \"roles\": \"team_user\", \"channels\": [{\"name\": \"operational_updates\", \"roles\": \"channel_user\"}]}]}}\n{\"type\": \"user\", \"user\": {\"username\": \"rachel.lee\", \"nickname\": \"rachel.lee\", \"first_name\": \"Rachel\", \"last_name\": \"Lee\", \"roles\": [\"member\"], \"position\": \"Director of Customer Service\", \"email\": \"rlee@mediconnsolutions.com\", \"locale\": \"en\", \"teams\": [{\"name\": \"executives\", \"roles\": \"team_user\", \"channels\": [{\"name\": \"strategy_discussion\", \"roles\": \"channel_user\"}]}, {\"name\": \"customer_support\", \"roles\": \"team_user\", \"channels\": [{\"name\": \"operational_updates\", \"roles\": \"channel_user\"}]}]}}\n{\"type\": \"post\", \"post\": {\"team\": \"executives\", \"channel\": \"strategy_discussion\", \"user\": \"rachel_lee\", \"message\": \"I've been reviewing the Q3 financials. Our virtual healthcare services have been performing well above expectations. Great work, team!\", \"created_at\": 1620500000000}}\n{\"type\": \"post\", \"post\": {\"team\": \"executives\", \"channel\": \"strategy_discussion\", \"user\": \"john_doe\", \"message\": \"Thanks Rachel. Also, I want to remind everyone of the upcoming HR meeting next week. We will be discussing team development strategies.\", \"created_at\": 1620500200000}}\n{\"type\": \"post\", \"post\": {\"team\": \"customer_support\", \"channel\": \"operational_updates\", \"user\": \"jane_smith\", \"message\": \"I've received some positive feedback from our patients who are happy with the accessibility of our services. Just wanted to share this with everyone!\", \"created_at\": 1620500400000}}\n{\"type\": \"post\", \"post\": {\"team\": \"customer_support\", \"channel\": \"operational_updates\", \"user\": \"rachel_lee\", \"message\": \"That's great to hear, Jane! Let's keep up the good work and continue focusing on providing top-quality service to our users.\", \"created_at\": 1620500600000}}\n{\"type\": \"post\", \"post\": {\"team\": \"executives\", \"channel\": \"strategy_discussion\", \"user\": \"rachel_lee\", \"message\": \"We should also consider how we might expand our services into other provincial markets. I think there's a lot of potential for growth there.\", \"created_at\": 1620500800000}}\n{\"type\": \"post\", \"post\": {\"team\": \"executives\", \"channel\": \"strategy_discussion\", \"user\": \"john_doe\", \"message\": \"Agreed Rachel. Let's add this topic to the agenda for our next strategy meeting.\", \"created_at\": 1620501000000}}\n{\"type\": \"post\", \"post\": {\"team\": \"customer_support\", \"channel\": \"operational_updates\", \"user\": \"jane_smith\", \"message\": \"Noted Rachel! We will continue to do our best to maintain the high quality of our services.\", \"created_at\": 1620501200000}}\n{\"type\": \"post\", \"post\": {\"team\": \"executives\", \"channel\": \"strategy_discussion\", \"user\": \"rachel_lee\", \"message\": \"Hello team, I've been reviewing our customer service metrics and it appears that we're receiving a significant number of inquiries outside of our current weekend operating hours. I propose extending these hours from 10 AM - 4 PM to 9 AM - 6 PM to better serve our patients' needs. However, we need to consider the budget implications for the upcoming fiscal year 2024-2025. Thoughts?\", \"create_at\": 1633641600000}}\n{\"type\": \"post\", \"post\": {\"team\": \"executives\", \"channel\": \"strategy_discussion\", \"user\": \"john_doe\", \"message\": \"Rachel, I completely agree with your proposal. From an HR perspective, we need to consider if we will need to hire additional customer service representatives or if current staff can cover these extended hours. We'll work on a cost analysis and present it to the team by the end of the week.\", \"create_at\": 1633728000000}}",
+    "chat_setup": {
+        "teams": [
+            {
+                "type": "team",
+                "team": {
+                    "name": "executives",
+                    "display_name": "Executives",
+                    "type": "O",
+                    "header": "Executive team for MediConn Solutions",
+                    "purpose": "Discuss executive-level matters, strategies, and decision-making"
+                }
+            },
+            {
+                "type": "team",
+                "team": {
+                    "name": "customer_support",
+                    "display_name": "Customer Support",
+                    "type": "O",
+                    "header": "Customer Support team for MediConn Solutions",
+                    "purpose": "Manage and discuss customer support related strategies, issues and solutions"
+                }
+            }
+        ],
+        "channels": [
+            {
+                "type": "channel",
+                "channel": {
+                    "team": "executives",
+                    "name": "strategy_discussion",
+                    "display_name": "Strategy Discussion",
+                    "type": "O",
+                    "header": "Channel for discussing strategic decisions and plans",
+                    "purpose": "Discuss strategic decisions, plans and their implications"
+                }
+            },
+            {
+                "type": "channel",
+                "channel": {
+                    "team": "customer_support",
+                    "name": "operational_updates",
+                    "display_name": "Operational Updates",
+                    "type": "O",
+                    "header": "Channel for updates on customer support operations",
+                    "purpose": "Discuss operational changes, updates, and improvements in customer support"
+                }
+            }
+        ],
+        "users": [
+            {
+                "type": "user",
+                "user": {
+                    "username": "rachel_lee",
+                    "email": "rachel.lee@mediconn.com",
+                    "password": "rachel_lee_pwd",
+                    "nickname": "Rachel",
+                    "first_name": "Rachel",
+                    "last_name": "Lee",
+                    "position": "Director of Customer Service",
+                    "roles": "system_user",
+                    "locale": "en",
+                    "teams": [
+                        {
+                            "name": "executives",
+                            "roles": "team_user",
+                            "channels": [
+                                {
+                                    "name": "strategy_discussion",
+                                    "roles": "channel_user"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "customer_support",
+                            "roles": "team_user",
+                            "channels": [
+                                {
+                                    "name": "operational_updates",
+                                    "roles": "channel_user"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "type": "user",
+                "user": {
+                    "username": "john_doe",
+                    "email": "john.doe@mediconn.com",
+                    "password": "john_doe_pwd",
+                    "nickname": "John",
+                    "first_name": "John",
+                    "last_name": "Doe",
+                    "position": "HR Manager",
+                    "roles": "system_user",
+                    "locale": "en",
+                    "teams": [
+                        {
+                            "name": "executives",
+                            "roles": "team_user",
+                            "channels": [
+                                {
+                                    "name": "strategy_discussion",
+                                    "roles": "channel_user"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "type": "user",
+                "user": {
+                    "username": "jane_smith",
+                    "email": "jane.smith@mediconn.com",
+                    "password": "jane_smith_pwd",
+                    "nickname": "Jane",
+                    "first_name": "Jane",
+                    "last_name": "Smith",
+                    "position": "Customer Support Representative",
+                    "roles": "system_user",
+                    "locale": "en",
+                    "teams": [
+                        {
+                            "name": "customer_support",
+                            "roles": "team_user",
+                            "channels": [
+                                {
+                                    "name": "operational_updates",
+                                    "roles": "channel_user"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "type": "user",
+                "user": {
+                    "username": "rachel.lee",
+                    "nickname": "rachel.lee",
+                    "first_name": "Rachel",
+                    "last_name": "Lee",
+                    "roles": [
+                        "member"
+                    ],
+                    "position": "Director of Customer Service",
+                    "email": "rlee@mediconnsolutions.com",
+                    "locale": "en",
+                    "teams": [
+                        {
+                            "name": "executives",
+                            "roles": "team_user",
+                            "channels": [
+                                {
+                                    "name": "strategy_discussion",
+                                    "roles": "channel_user"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "customer_support",
+                            "roles": "team_user",
+                            "channels": [
+                                {
+                                    "name": "operational_updates",
+                                    "roles": "channel_user"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    "chat_messages": [
+        {
+            "type": "post",
+            "post": {
+                "team": "executives",
+                "channel": "strategy_discussion",
+                "user": "rachel_lee",
+                "message": "Hello team, I've been reviewing our customer service metrics and it appears that we're receiving a significant number of inquiries outside of our current weekend operating hours. I propose extending these hours from 10 AM - 4 PM to 9 AM - 6 PM to better serve our patients' needs. However, we need to consider the budget implications for the upcoming fiscal year 2024-2025. Thoughts?",
+                "create_at": 1633641600000
+            },
+            "tag": "insight"
+        },
+        {
+            "type": "post",
+            "post": {
+                "team": "executives",
+                "channel": "strategy_discussion",
+                "user": "john_doe",
+                "message": "Rachel, I completely agree with your proposal. From an HR perspective, we need to consider if we will need to hire additional customer service representatives or if current staff can cover these extended hours. We'll work on a cost analysis and present it to the team by the end of the week.",
+                "create_at": 1633728000000
+            },
+            "tag": "insight"
+        },
+        {
+            "type": "post",
+            "post": {
+                "team": "executives",
+                "channel": "strategy_discussion",
+                "user": "rachel_lee",
+                "message": "I've been reviewing the Q3 financials. Our virtual healthcare services have been performing well above expectations. Great work, team!",
+                "created_at": 1620500000000
+            },
+            "tag": "distractor"
+        },
+        {
+            "type": "post",
+            "post": {
+                "team": "executives",
+                "channel": "strategy_discussion",
+                "user": "john_doe",
+                "message": "Thanks Rachel. Also, I want to remind everyone of the upcoming HR meeting next week. We will be discussing team development strategies.",
+                "created_at": 1620500200000
+            },
+            "tag": "distractor"
+        },
+        {
+            "type": "post",
+            "post": {
+                "team": "customer_support",
+                "channel": "operational_updates",
+                "user": "jane_smith",
+                "message": "I've received some positive feedback from our patients who are happy with the accessibility of our services. Just wanted to share this with everyone!",
+                "created_at": 1620500400000
+            },
+            "tag": "distractor"
+        },
+        {
+            "type": "post",
+            "post": {
+                "team": "customer_support",
+                "channel": "operational_updates",
+                "user": "rachel_lee",
+                "message": "That's great to hear, Jane! Let's keep up the good work and continue focusing on providing top-quality service to our users.",
+                "created_at": 1620500600000
+            },
+            "tag": "distractor"
+        },
+        {
+            "type": "post",
+            "post": {
+                "team": "executives",
+                "channel": "strategy_discussion",
+                "user": "rachel_lee",
+                "message": "We should also consider how we might expand our services into other provincial markets. I think there's a lot of potential for growth there.",
+                "created_at": 1620500800000
+            },
+            "tag": "distractor"
+        },
+        {
+            "type": "post",
+            "post": {
+                "team": "executives",
+                "channel": "strategy_discussion",
+                "user": "john_doe",
+                "message": "Agreed Rachel. Let's add this topic to the agenda for our next strategy meeting.",
+                "created_at": 1620501000000
+            },
+            "tag": "distractor"
+        },
+        {
+            "type": "post",
+            "post": {
+                "team": "customer_support",
+                "channel": "operational_updates",
+                "user": "jane_smith",
+                "message": "Noted Rachel! We will continue to do our best to maintain the high quality of our services.",
+                "created_at": 1620501200000
+            },
+            "tag": "distractor"
+        }
+    ],
+    "file_format": "jsonl",
+    "file_path": ".llm_responses/generated_chat_document.jsonl",
+    "qa_type": "distractor",
+    "timestamp": "2025-12-02 15:48",
+    "app": "mattermost"
+}

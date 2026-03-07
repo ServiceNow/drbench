@@ -1,0 +1,81 @@
+{
+    "file_name": "southwest-IT-branding",
+    "file_title": "IT Initiatives in Branding: Southwest Region",
+    "introduction": "This presentation provides an overview of IT-led brand reinforcement initiatives within our Southwest stores, focusing specifically on the installation of brand-aligned keyboard LED lights during September 2025.",
+    "subsections": [
+        {
+            "heading": "Overview of IT-Driven Branding Initiatives",
+            "content": "\u2022 IT-Driven Branding Initiatives began in 2022, focusing on in-store digital displays\n\u2022 Deployment of RFID technology to track in-store customer behavior started in 2023\n\u2022 The integration of QR codes into product labels for additional product information was initiated in 2024\n\u2022 AI-driven chatbot was introduced in 2025 to enhance customer service\n\u2022 The use of Augmented Reality for in-store navigation is under consideration for 2026\n\u2022 IT and Marketing departments collaborate closely for these initiatives, meeting bi-weekly to discuss progress and feedback",
+            "type": "distractor",
+            "justification": "This slide provides an overview of IT branding initiatives but doesn't include information on the specific LED installation requests."
+        },
+        {
+            "heading": "LED Installation Requests - September 2025",
+            "content": "\u2022 LED installations are handled by a dedicated IT sub-team\n\u2022 The LED installation process includes a site survey, planning, and final installation\n\u2022 LED installations typically take two weeks from request to completion\n\u2022 The LED installations are part of a wider store modernization initiative\n\u2022 LED installations have been completed in over 50 stores nationwide as of September 2025\n\u2022 Each LED installation is followed by a post-installation review to ensure quality and effectiveness",
+            "type": "distractor",
+            "justification": "This slide focuses on the general LED installation process and does not provide specific data on the number of requests in September 2025."
+        },
+        {
+            "heading": "Impact and Evaluation of Brand-Aligned LEDs",
+            "content": "\u2022 Brand-aligned LEDs have been positively received by customers in pilot stores\n\u2022 Store associates report increased customer engagement with brand-aligned LEDs\n\u2022 Brand-aligned LEDs have contributed to an overall modern aesthetic in the stores\n\u2022 Initial data show an increase in in-store traffic after LED installations\n\u2022 A more formal evaluation of the impact of brand-aligned LEDs is planned for Q4 2025\n\u2022 The cost-benefit analysis of the LED installations will be part of the annual IT review in 2026",
+            "type": "distractor",
+            "justification": "This slide discusses the impact and evaluation of the LED installations, but does not provide specific information on the number of requests in the Southwest region in September 2025."
+        }
+    ],
+    "conclusion": "The led lighting initiative has been successful in reinforcing our brand identity in the Southwest region. Moving forward, we should explore other avenues for IT-driven brand enhancements.",
+    "file_format": "pptx",
+    "file_path": ".llm_responses/generated_pptx_presentation.pptx",
+    "qa_type": "distractor",
+    "timestamp": "2025-11-19 01:32",
+    "image_queries": [
+        {
+            "slide_title": "Introduction",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "intentionally_clean",
+            "slide_type": "introduction"
+        },
+        {
+            "slide_title": "Overview of IT-Driven Branding Initiatives",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 6,
+            "total_chars": 542,
+            "probability": 0.25,
+            "theme": "Forest Theme"
+        },
+        {
+            "slide_title": "LED Installation Requests - September 2025",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 6,
+            "total_chars": 468,
+            "probability": 0.25,
+            "theme": "Forest Theme"
+        },
+        {
+            "slide_title": "Impact and Evaluation of Brand-Aligned LEDs",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "failed",
+            "slide_type": "distractor",
+            "content_length": 6,
+            "total_chars": 485,
+            "error": "'str' object has no attribute 'choices'",
+            "theme": "Forest Theme"
+        },
+        {
+            "slide_title": "Conclusion",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "strategic_clean_conclusion",
+            "slide_type": "conclusion",
+            "theme": "Forest Theme"
+        }
+    ],
+    "app": "nextcloud"
+}

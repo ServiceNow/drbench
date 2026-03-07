@@ -1,0 +1,81 @@
+{
+    "file_name": "cybersecurity-training-strategy",
+    "file_title": "Cybersecurity Training and Awareness Strategy",
+    "introduction": "As Lee's Market expands its footprint, the importance of rigorous cybersecurity measures has never been greater. This presentation outlines our strategy for enhancing employee cybersecurity awareness and reducing risks associated with high turnover and seasonal hiring.",
+    "subsections": [
+        {
+            "heading": "Current Security Landscape: Risks and Challenges",
+            "content": "\u2022 In Q1 2025, we introduced new training modules focusing on phishing awareness, password security, and Point of Sale (POS) system safety for our fresh recruits.\n\u2022 By the end of Q2 2025, we observed a promising completion rate of 87% for these onboarding modules, indicating an increased understanding of security protocols among new hires.\n\u2022 Despite these efforts, a significant portion of temporary retail staff remains underprepared against social engineering, as noted in the VikingCloud April 2025 report.\n\u2022 The same report highlighted the lack of safe internet and social media usage training received by 56% of these employees, heightening the risk of security breaches.\n\u2022 The absence of mock email phishing training for 56% of temporary hires in Q4 2024 is another area of concern that needs addressing.\n\u2022 It's critical to note that 52% of retailers report a lack of IT resources to combat evolving cyber threats, per VikingCloud's findings.\n\u2022 Based on these insights, we need to reassess our current approach and create robust, comprehensive training programs to mitigate security risks, specifically targeting seasonal hires and high turnover staff.",
+            "type": "insight",
+            "justification": "The content details the existing security training efforts, their outcomes, and identifies areas of improvement to design an effective cybersecurity program, thereby addressing the DR Question."
+        },
+        {
+            "heading": "Cybersecurity Training: Best Practices and Approaches",
+            "content": "\u2022 Incorporating real-world scenarios into security training to enhance understanding\n\u2022 Regularly updating training content to reflect evolving cyber threats\n\u2022 Using interactive modules to increase employee engagement in cybersecurity training\n\u2022 Implementing gamification elements in cybersecurity training to increase participation\n\u2022 Providing employees with continuous performance feedback during training\n\u2022 Ensuring that cybersecurity training is a mandatory part of the onboarding process for all new hires",
+            "type": "distractor",
+            "justification": "The content provides general best practices for cybersecurity training, but does not address a program for Lee's Market specifically."
+        },
+        {
+            "heading": "Implementing a Sustainable Cybersecurity Awareness Program",
+            "content": "\u2022 Establishing a dedicated Security Education, Training, and Awareness (SETA) team\n\u2022 Implementing a robust system to track employee progress and participation in cybersecurity training\n\u2022 Regularly updating the cybersecurity awareness program to reflect the latest threat landscape\n\u2022 Engaging senior management in cybersecurity awareness activities to demonstrate organizational commitment\n\u2022 Incorporating cybersecurity awareness into the company culture, not just as a standalone program\n\u2022 Developing a communication strategy to keep all employees informed about cybersecurity updates",
+            "type": "distractor",
+            "justification": "The content outlines general steps for implementing a cybersecurity program but does not address the specific needs of Lee's Market."
+        }
+    ],
+    "conclusion": "By investing in a robust cybersecurity training and awareness program, we can significantly mitigate security risks and support our growth in the North American market. The next steps involve refining the program details, securing the necessary resources, and initiating the rollout across all departments.",
+    "file_format": "pptx",
+    "file_path": ".llm_responses/generated_pptx_presentation.pptx",
+    "qa_type": "insight",
+    "timestamp": "2025-11-19 03:03",
+    "image_queries": [
+        {
+            "slide_title": "Introduction",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "intentionally_clean",
+            "slide_type": "introduction"
+        },
+        {
+            "slide_title": "Current Security Landscape: Risks and Challenges",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "failed",
+            "slide_type": "insight",
+            "content_length": 7,
+            "total_chars": 1139,
+            "error": "'str' object has no attribute 'choices'",
+            "theme": "Forest Theme"
+        },
+        {
+            "slide_title": "Cybersecurity Training: Best Practices and Approaches",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 6,
+            "total_chars": 492,
+            "probability": 0.25,
+            "theme": "Forest Theme"
+        },
+        {
+            "slide_title": "Implementing a Sustainable Cybersecurity Awareness Program",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 6,
+            "total_chars": 567,
+            "probability": 0.25,
+            "theme": "Forest Theme"
+        },
+        {
+            "slide_title": "Conclusion",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "strategic_clean_conclusion",
+            "slide_type": "conclusion",
+            "theme": "Forest Theme"
+        }
+    ],
+    "app": "file_system"
+}

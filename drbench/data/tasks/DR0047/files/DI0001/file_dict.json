@@ -1,0 +1,81 @@
+{
+    "file_name": "january-2025-it-support",
+    "file_title": "January 2025 IT Support Overview",
+    "introduction": "Today, we'll be taking a look at our IT Support's performance in January 2025. This will provide us with insights into our operations and potential areas for improvement.",
+    "subsections": [
+        {
+            "heading": "IT Support Ticket Categories Breakdown",
+            "content": "\u2022 Technical issues made up 60% of all support tickets in 2025\n\u2022 20% of tickets were related to software updates\n\u2022 Login and authentication issues accounted for 10% of all tickets\n\u2022 7% of the tickets were related to hardware failures\n\u2022 The remaining 3% were miscellaneous issues, including connectivity problems and user errors\n\u2022 The majority of technical issues were related to the use of our telehealth platform\n\u2022 Software update issues were mostly due to compatibility problems with different devices",
+            "type": "distractor",
+            "justification": "While this provides a breakdown of ticket categories, it does not provide the total number of tickets processed. This information is tangentially related."
+        },
+        {
+            "heading": "Volume of IT Support Tickets in January 2025",
+            "content": "\u2022 There was a 15% increase in the number of tickets compared to December 2024\n\u2022 The first week of January saw the highest volume of tickets\n\u2022 40% of tickets were resolved within the first 24 hours\n\u2022 The highest volume of tickets came from the province of Ontario\n\u2022 There was a significant drop in ticket volume during the last week of January\n\u2022 Approximately 20% of tickets remained unresolved by the end of January",
+            "type": "distractor",
+            "justification": "This slide discusses the volume of tickets in different aspects but doesn't provide the total number of tickets processed in January 2025. This information is tangentially related."
+        },
+        {
+            "heading": "Resolution Time for IT Support Tickets",
+            "content": "\u2022 The average resolution time was 48 hours in January 2025\n\u2022 30% of tickets took more than 72 hours to resolve\n\u2022 Tickets related to technical issues took the longest to resolve, with an average of 72 hours\n\u2022 Tickets related to login issues had the shortest resolution time, with an average of 24 hours\n\u2022 The IT department implemented a new ticketing system mid-January, which reduced resolution times by 10%\n\u2022 There was a backlog of unresolved tickets from December 2024 that were resolved in January 2025",
+            "type": "distractor",
+            "justification": "This slide discusses the resolution time of tickets but doesn't provide the total number of tickets processed in January 2025. This information is tangentially related."
+        }
+    ],
+    "conclusion": "In conclusion, our IT support performed optimally in January with an acceptable number of tickets. Moving forward, we will focus on areas that require improvement to ensure seamless operations.",
+    "file_format": "pptx",
+    "file_path": ".llm_responses/generated_pptx_presentation.pptx",
+    "qa_type": "distractor",
+    "timestamp": "2025-12-02 15:29",
+    "image_queries": [
+        {
+            "slide_title": "Introduction",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "intentionally_clean",
+            "slide_type": "introduction"
+        },
+        {
+            "slide_title": "IT Support Ticket Categories Breakdown",
+            "has_image": true,
+            "image_query": "IT support ticket analysis chart",
+            "generation_method": "strategic_placement",
+            "slide_type": "distractor",
+            "content_length": 7,
+            "total_chars": 482,
+            "forced": false,
+            "theme": "Corporate Blue"
+        },
+        {
+            "slide_title": "Volume of IT Support Tickets in January 2025",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 6,
+            "total_chars": 398,
+            "probability": 0.25,
+            "theme": "Corporate Blue"
+        },
+        {
+            "slide_title": "Resolution Time for IT Support Tickets",
+            "has_image": true,
+            "image_query": "IT support ticket resolution time chart",
+            "generation_method": "strategic_placement",
+            "slide_type": "distractor",
+            "content_length": 6,
+            "total_chars": 488,
+            "forced": false,
+            "theme": "Corporate Blue"
+        },
+        {
+            "slide_title": "Conclusion",
+            "has_image": true,
+            "image_query": "IT support metrics report",
+            "generation_method": "strategic_conclusion",
+            "slide_type": "conclusion",
+            "theme": "Corporate Blue"
+        }
+    ],
+    "app": "file_system"
+}

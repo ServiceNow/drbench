@@ -1,0 +1,197 @@
+================================================================================
+ROUNDCUBE EMAIL EXPORT
+================================================================================
+
+USERS:
+----------------------------------------
+• rachel.lee
+  Name: Rachel Lee
+  Email: rachel.lee@mediconnsolutions.com
+
+• james.morgan
+  Name: James Morgan
+  Email: james.morgan@mediconnsolutions.com
+
+• susan.parker
+  Name: Susan Parker
+  Email: susan.parker@mediconnsolutions.com
+
+• david.jones
+  Name: David Jones
+  Email: david.jones@mediconnsolutions.com
+
+• mary.johnson
+  Name: Mary Johnson
+  Email: mary.johnson@mediconnsolutions.com
+
+• peter.brown
+  Name: Peter Brown
+  Email: peter.brown@mediconnsolutions.com
+
+• linda.taylor
+  Name: Linda Taylor
+  Email: linda.taylor@mediconnsolutions.com
+
+• robert.wilson
+  Name: Robert Wilson
+  Email: robert.wilson@mediconnsolutions.com
+
+EMAILS:
+================================================================================
+Email ID: email_001
+Date: 2022-11-01 09:00:00
+From: Rachel Lee <rachel.lee@mediconnsolutions.com>
+To: susan.parker@mediconnsolutions.com, linda.taylor@mediconnsolutions.com, robert.wilson@mediconnsolutions.com
+CC: mary.johnson@mediconnsolutions.com
+Subject: Team Meeting - Agenda
+Folder: sent | Status: Read
+Attachments: 1 file(s)
+
+Message Body:
+----------------------------------------
+Dear Team, 
+
+Please find the agenda for our upcoming team meeting attached. Let me know if you have any additions. 
+
+Best, 
+Rachel
+============================================================
+
+Email ID: email_002
+Date: 2022-11-02 10:30:00
+From: James Morgan <james.morgan@mediconnsolutions.com>
+To: rachel.lee@mediconnsolutions.com
+Subject: Annual Budget Planning
+Folder: inbox | Status: Unread
+
+Message Body:
+----------------------------------------
+Hi Rachel, 
+
+Can we schedule a call to discuss the budget allocation for the next fiscal year? I have some data that I think will be helpful. 
+
+Best, 
+James
+============================================================
+
+Email ID: email_003
+Date: 2022-11-03 11:45:00
+From: Susan Parker <susan.parker@mediconnsolutions.com>
+To: rachel.lee@mediconnsolutions.com
+Subject: Customer Satisfaction Survey - Q4
+Folder: inbox | Status: Unread
+Attachments: 1 file(s)
+
+Message Body:
+----------------------------------------
+Rachel, 
+
+The results from the Q4 customer satisfaction survey are in. I've attached the report for your review. 
+
+Best, 
+Susan
+============================================================
+
+Email ID: email_004
+Date: 2022-11-04 14:15:00
+From: Mary Johnson <mary.johnson@mediconnsolutions.com>
+To: rachel.lee@mediconnsolutions.com, susan.parker@mediconnsolutions.com, james.morgan@mediconnsolutions.com, david.jones@mediconnsolutions.com, peter.brown@mediconnsolutions.com, linda.taylor@mediconnsolutions.com, robert.wilson@mediconnsolutions.com
+Subject: Policy Update Notification
+Folder: sent | Status: Read
+Attachments: 1 file(s)
+
+Message Body:
+----------------------------------------
+Dear Team, 
+
+Please review the attached document outlining the updated company policies. Let me know if you have any questions. 
+
+Best, 
+Mary
+============================================================
+
+Email ID: email_005
+Date: 2022-11-05 15:30:00
+From: Peter Brown <peter.brown@mediconnsolutions.com>
+To: rachel.lee@mediconnsolutions.com, susan.parker@mediconnsolutions.com, james.morgan@mediconnsolutions.com, david.jones@mediconnsolutions.com, linda.taylor@mediconnsolutions.com, robert.wilson@mediconnsolutions.com
+CC: mary.johnson@mediconnsolutions.com
+Subject: New Tech Implementation Training
+Folder: sent | Status: Read
+
+Message Body:
+----------------------------------------
+Team, 
+
+I will be running a training session on our new tech implementation next Tuesday. Please make sure to block off your calendar. 
+
+Best, 
+Peter
+============================================================
+
+Email ID: email_001
+Date: 2024-12-15 10:30:00
+From: Rachel Lee <rachel.lee@mediconnsolutions.com>
+To: james.morgan@mediconnsolutions.com, susan.parker@mediconnsolutions.com
+CC: mary.johnson@mediconnsolutions.com
+Subject: Customer Experience Assessment
+Folder: sent | Status: Read
+
+Message Body:
+----------------------------------------
+Hi James and Susan,
+
+As you might be aware, our recent patient experience report indicated that a significant portion of our patients are having difficulties with making appointments online and through our call centers. I'm writing to request your help in understanding whether the root cause is related to the functionality of our online booking tool or our call center processes.
+
+James, could you please analyze our customer support data to determine the percentage of post-consultation inquiries that require staff to manually verify the consultation results for customers?
+
+Susan, I would appreciate your insights on the nature of the most common complaints received and what steps we could take to streamline our call center processes.
+
+Let's meet next week to discuss our findings and possible solutions.
+
+Thanks,
+Rachel
+============================================================
+
+Email ID: email_002
+Date: 2024-12-17 15:45:00
+From: James Morgan <james.morgan@mediconnsolutions.com>
+To: rachel.lee@mediconnsolutions.com
+CC: susan.parker@mediconnsolutions.com, mary.johnson@mediconnsolutions.com
+Subject: RE: Customer Experience Assessment
+Folder: sent | Status: Read
+
+Message Body:
+----------------------------------------
+Hello Rachel,
+
+I have completed the analysis of our customer support data. The Q4 2024 data shows that 45% of post-consultation inquiries are verified by support staff on the first contact with the customer. This indicates that a large portion of our customers are requiring additional support after their consultation.
+
+This could be an indicator of issues with our online booking tool, as customers may not be able to easily view or understand their consultation results. We may need to consider improving the user interface or providing clearer instructions.
+
+Regards,
+James
+============================================================
+
+Email ID: email_003
+Date: 2024-12-18 09:30:00
+From: Susan Parker <susan.parker@mediconnsolutions.com>
+To: rachel.lee@mediconnsolutions.com
+CC: james.morgan@mediconnsolutions.com, mary.johnson@mediconnsolutions.com
+Subject: RE: Customer Experience Assessment
+Folder: inbox | Status: Read
+
+Message Body:
+----------------------------------------
+Good morning Rachel,
+
+Based on the feedback we've received, it appears that the main complaints revolve around difficulties in navigating our booking system, and not necessarily the call center processes. The call center staff has been instrumental in assisting customers with booking issues, but this isn't a sustainable or efficient solution in the long run.
+
+I suggest we focus on improving the user interface and simplifying the booking process to reduce the number of post-consultation inquiries that our staff needs to handle.
+
+Best,
+Susan
+============================================================
+
+================================================================================
+END OF EMAIL EXPORT
+================================================================================

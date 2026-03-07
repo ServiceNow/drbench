@@ -1,0 +1,81 @@
+{
+    "file_name": "ai-integration-cyber-resilience",
+    "file_title": "AI Integration for Enhanced Cyber Resilience",
+    "introduction": "As we aim to fortify our cyber resilience in line with the 2025 CSCP, let's explore the integration of a new AI anomaly detection tool into our existing infrastructure. This presentation will outline the key considerations to ensure seamless integration and continuous healthcare service delivery.",
+    "subsections": [
+        {
+            "heading": "Evolving Cyber Threat Landscape and Anomaly Detection",
+            "content": "\u2022 An issue previously encountered during AI integration was an increase in false positives, leading to the unnecessary isolation of crucial medical systems.\n\u2022 This necessitates the development of a robust filtering system to distinguish genuine threats from benign anomalies.\n\u2022 Over time, model bias or drift was identified, leading to unnoticed real threats - a potential risk that needs to be addressed during the AI integration phase.\n\u2022 The failure to integrate data with legacy hospital systems was another significant challenge in monitoring coverage.\n\u2022 To prevent this, ensuring seamless data integration between the new AI system and existing infrastructure will be essential.\n\u2022 Given the importance of uninterrupted healthcare service, it is critical to address these issues proactively to prevent operational disruptions.\n\u2022 It is important to revisit and refine our approach periodically to adapt to the evolving cyber threat landscape.",
+            "type": "insight",
+            "justification": "The content addresses the considerations needed during AI integration, providing insights into potential issues and mitigation strategies, thus answering the DR Question."
+        },
+        {
+            "heading": "AI Integration: Challenges and Solutions",
+            "content": "\u2022 Identification of barriers to AI integration in the healthcare sector\n\u2022 Examination of success stories of AI integration in other industries\n\u2022 Analysis of the financial implications of AI integration\n\u2022 Overview of regulations and compliance requirements for AI in healthcare\n\u2022 Exploration of potential solutions to overcome AI integration challenges\n\u2022 Discussion on the future of AI in healthcare",
+            "type": "distractor",
+            "justification": "While this slide discusses challenges and solutions of AI integration in general, it doesn't provide specific considerations for MediConn's situation."
+        },
+        {
+            "heading": "Plan for Uninterrupted Healthcare Service Delivery",
+            "content": "\u2022 Highlight of the importance of continuity in healthcare service delivery\n\u2022 Review of the impact of service disruptions on patient satisfaction\n\u2022 Description of strategies employed by other healthcare providers to ensure uninterrupted service\n\u2022 Presentation of key metrics for measuring service continuity\n\u2022 Analysis of the role of technology in maintaining service continuity\n\u2022 Discussion on the potential of AI in improving service continuity",
+            "type": "distractor",
+            "justification": "This content focuses on service continuity in general and doesn't provide any specific considerations for integrating an AI tool without disrupting services."
+        }
+    ],
+    "conclusion": "In conclusion, the integration of AI for anomaly detection is a strategic step towards enhancing our cyber resilience. Our next steps will involve detailed risk assessment, careful planning, and rigorous testing to ensure a smooth transition and minimal disruption to our healthcare services.",
+    "file_format": "pptx",
+    "file_path": ".llm_responses/generated_pptx_presentation.pptx",
+    "qa_type": "insight",
+    "timestamp": "2025-11-20 15:14",
+    "image_queries": [
+        {
+            "slide_title": "Introduction",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "intentionally_clean",
+            "slide_type": "introduction"
+        },
+        {
+            "slide_title": "Evolving Cyber Threat Landscape and Anomaly Detection",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "failed",
+            "slide_type": "insight",
+            "content_length": 7,
+            "total_chars": 925,
+            "error": "'str' object has no attribute 'choices'",
+            "theme": "Classic Navy"
+        },
+        {
+            "slide_title": "AI Integration: Challenges and Solutions",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 6,
+            "total_chars": 381,
+            "probability": 0.25,
+            "theme": "Classic Navy"
+        },
+        {
+            "slide_title": "Plan for Uninterrupted Healthcare Service Delivery",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 6,
+            "total_chars": 428,
+            "probability": 0.25,
+            "theme": "Classic Navy"
+        },
+        {
+            "slide_title": "Conclusion",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "strategic_clean_conclusion",
+            "slide_type": "conclusion",
+            "theme": "Classic Navy"
+        }
+    ],
+    "app": "file_system"
+}

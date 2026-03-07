@@ -1,0 +1,81 @@
+{
+    "file_name": "quality-audit-review",
+    "file_title": "Quality Audit Compliance Review 2023",
+    "introduction": "Welcome to the review of our 2023 general quality audit. We will be focusing on the internal compliance checkpoints and their completion status.",
+    "subsections": [
+        {
+            "heading": "Overview of Compliance in Virtual Healthcare",
+            "content": "\u2022 Compliance in virtual healthcare is paramount to ensure the safety and privacy of patient data\n\u2022 In Canada, PIPEDA is the key legislative framework governing data privacy in healthcare\n\u2022 The enforcement of strict cybersecurity measures is critical in virtual healthcare compliance\n\u2022 The telemedicine industry has seen increased regulatory scrutiny due to rapid growth\n\u2022 Risk assessment and mitigation strategies form a crucial part of compliance in virtual healthcare\n\u2022 Regulatory bodies frequently update guidelines to keep up with technological advancements",
+            "type": "distractor",
+            "justification": "Provides general information about compliance in healthcare but doesn't mention MediConn's 2023 audit checkpoints."
+        },
+        {
+            "heading": "Completion Status of 2023 Compliance Checkpoints",
+            "content": "\u2022 Compliance checkpoints are crucial in ensuring regulatory adherence and data protection\n\u2022 Checkpoints are often categorized into areas such as data security, patient privacy, and service delivery\n\u2022 A compliance checkpoint completion can involve multiple departments and stakeholders\n\u2022 Failed checkpoints often result in corrective actions and possibly fines\n\u2022 Continuous monitoring and audits are necessary for maintaining the completion status of compliance checkpoints",
+            "type": "distractor",
+            "justification": "Talks about the importance and process of compliance checkpoints but doesn't provide the number completed in 2023."
+        },
+        {
+            "heading": "Impact & Improvements in Quality Management",
+            "content": "\u2022 Quality management is a continuous process aiming for service excellence\n\u2022 It includes elements like patient satisfaction, service accessibility, and treatment effectiveness\n\u2022 The use of technology, like AI and machine learning, can help in improving quality management\n\u2022 Regular training and development programs are essential to maintain high-quality standards\n\u2022 Quality management impacts both patient outcomes and business performance\n\u2022 Improvement initiatives are often driven by feedback, audits, and benchmarking studies",
+            "type": "distractor",
+            "justification": "Details the impact and improvements in quality management but doesn't specify the number of compliance checkpoints completed in 2023."
+        }
+    ],
+    "conclusion": "Our adherence to the internal compliance checkpoints indicates a strong commitment to quality and regulatory standards. Moving forward, we will continue to enhance our quality management system to uphold our service excellence.",
+    "file_format": "pptx",
+    "file_path": ".llm_responses/generated_pptx_presentation.pptx",
+    "qa_type": "distractor",
+    "timestamp": "2025-11-20 00:07",
+    "image_queries": [
+        {
+            "slide_title": "Introduction",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "intentionally_clean",
+            "slide_type": "introduction"
+        },
+        {
+            "slide_title": "Overview of Compliance in Virtual Healthcare",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "failed",
+            "slide_type": "distractor",
+            "content_length": 6,
+            "total_chars": 544,
+            "error": "'str' object has no attribute 'choices'",
+            "theme": "Corporate Blue"
+        },
+        {
+            "slide_title": "Completion Status of 2023 Compliance Checkpoints",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 5,
+            "total_chars": 458,
+            "probability": 0.25,
+            "theme": "Corporate Blue"
+        },
+        {
+            "slide_title": "Impact & Improvements in Quality Management",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 6,
+            "total_chars": 512,
+            "probability": 0.25,
+            "theme": "Corporate Blue"
+        },
+        {
+            "slide_title": "Conclusion",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "strategic_clean_conclusion",
+            "slide_type": "conclusion",
+            "theme": "Corporate Blue"
+        }
+    ],
+    "app": "file_system"
+}

@@ -1,0 +1,57 @@
+{
+    "company_info": {
+        "name": "Elexion Automotive",
+        "industry": "Automotive -- Electric Vehicles",
+        "size": "Enterprise",
+        "founded_year": 2010,
+        "headquarters": "Austin, Texas, USA",
+        "description": "Elexion manufactures affordable, technology-forward EVs for North America.",
+        "key_products_services": [
+            "Electric vehicles",
+            "Plug-in hybrid electric vehicles",
+            "Home charging stations"
+        ],
+        "target_markets": [
+            "Mid-income families in North America",
+            "Provincial and municipal governments"
+        ],
+        "annual_revenue": "$350M - $500M",
+        "employee_count": 1900,
+        "compliance_certifications": [
+            "EPA Greenhouse Gas Emissions Compliance",
+            "Motor Vehicle Safety Oversight Program",
+            "CARB Zero-Emission Vehicle (ZEV) Program",
+            "ISO 26262 – Road Vehicles Functional Safety"
+        ],
+        "market_position": "Elexion is an emerging force in affordable long‑range EVs."
+    },
+    "persona": {
+        "role": "Competitive Intelligence Manager",
+        "department": "Sales and Marketing",
+        "name": "Ryan Thompson",
+        "first_name": "Ryan",
+        "last_name": "Thompson",
+        "email": "ryan.thompson@elexion.com",
+        "seniority": "Senior",
+        "responsibilities": "Leads the development of competitive intelligence strategies, analyzes market data, informs business decisions.",
+        "id": "MNG0002",
+        "domain": "market_analysis",
+        "justification": "Ryan's competitive intelligence expertise strengthens strategic analysis.",
+        "username": "ryan.thompson"
+    },
+    "url": {
+        "url": "https://www.ev-market-watch.com/lithium-volatility",
+        "domain": "Automotive -- Electric Vehicles",
+        "industry": "automotive -- electric vehicles",
+        "example_dr_questions": [
+            "How have EV manufacturers increased dealership visibility through co-marketing programs?",
+            "What digital diagnostic practices have reduced warranty load among leading EV brands?"
+        ],
+        "insights": [
+            "Brands implementing shared promotional budgets with dealerships saw up to a 20% lift in front‑lot placement.",
+            "Remote triage and OTA health checks reduced repair-center visits by 25% across three major EV competitors."
+        ],
+        "date": "2025-12-02"
+    },
+    "timestamp": "2025-10-30 00:00"
+}

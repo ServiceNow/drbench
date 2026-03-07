@@ -1,0 +1,12 @@
+Year,Company,Consultation_Type,Total_Consultations
+The year in which the consultations were held,The company that performed the consultation,"The mode of consultation, in this case, virtual",The total number of consultations performed by the company in the given year
+2021,HealthCare Inc,Virtual,850000
+2020,HealthCare Inc,Virtual,800000
+2023,MediConn Solutions,Virtual,1100000
+2022,HealthCare Inc,Virtual,900000
+2024,HealthCare Inc,Virtual,1000000
+2020,MediConn Solutions,Virtual,900000
+2024,MediConn Solutions,Virtual,1200000
+2022,MediConn Solutions,Virtual,1000000
+2021,MediConn Solutions,Virtual,950000
+2023,HealthCare Inc,Virtual,950000

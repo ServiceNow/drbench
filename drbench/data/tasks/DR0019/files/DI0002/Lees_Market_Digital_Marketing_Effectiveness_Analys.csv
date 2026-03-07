@@ -1,0 +1,13 @@
+Analyst_Name,Company_Name,Analysis_Month,Category,Campaign_Type,Click_Through_Rate,Sales_Lift
+Name of the analyst who performed the analysis,Name of the company for which the analysis was done,The month and year when the analysis was done,The specific category of products for which the analysis was done,Type of the campaign evaluated during the analysis,Percentage of the total audience that clicked on the campaign link,Percentage increase in sales during the month of the campaign
+Jane Smith,Smith's Store,2024-12,Groceries,Social Media Campaign,0.14,0.05
+Sofia Patel,Smith's Store,2025-06,Electronics,Email Campaign for New Arrivals,0.18,0.07
+Sofia Patel,Lee's Market,2025-02,Electronics,Email Campaign for New Arrivals,0.2,0.08
+John Doe,Lee's Market,2025-05,Groceries,Social Media Campaign,0.15,0.05
+John Doe,Smith's Store,2025-01,Household Goods,PPC Campaign,0.12,0.04
+Jane Smith,Lee's Market,2025-03,Groceries,Social Media Campaign,0.17,0.06
+Sofia Patel,Lee's Market,2024-11,Electronics,Email Campaign for New Arrivals,0.19,0.07
+Sofia Patel,Lee's Market,2025-06,Household Goods,Email Campaign for New Arrivals,0.22,0.09
+Jane Smith,Lee's Market,2024-09,Groceries,Social Media Campaign,0.16,0.06
+John Doe,Smith's Store,2024-10,Household Goods,PPC Campaign,0.11,0.04
+John Doe,Lee's Market,2025-04,Household Goods,PPC Campaign,0.1,0.03

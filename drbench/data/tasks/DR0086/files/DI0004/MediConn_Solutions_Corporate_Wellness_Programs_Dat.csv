@@ -1,0 +1,12 @@
+Company_Name,Year,Program_Count,Program_Related_to_CPPA
+The name of the company offering the wellness program,The year when the wellness program was launched,The total number of wellness programs launched by the company in the specific year,"Whether the wellness program is related to CPPA (Canadian Personal Protective Equipment) privacy, consent, or data accountability measures or not"
+FitWell Ltd,2020,5,True
+HealthFirst,2018,4,True
+HealthyCorp,2021,7,False
+HealthTech Ltd,2023,10,False
+BetterHealth Inc.,2016,2,True
+WellBeing Solutions,2019,6,False
+Wellness First Ltd,2017,3,False
+MediConn Solutions,2024,12,False
+Wellness Innovations,2022,8,True
+HealthPlus Solutions,2015,1,False

@@ -1,0 +1,163 @@
+================================================================================
+ROUNDCUBE EMAIL EXPORT
+================================================================================
+
+USERS:
+----------------------------------------
+• brian.smith
+  Name: Brian Smith
+  Email: brian.smith@mediconn.ca
+
+• linda.johnson
+  Name: Linda Johnson
+  Email: linda.johnson@mediconn.ca
+
+• michael.lee
+  Name: Michael Lee
+  Email: michael.lee@mediconn.ca
+
+• sarah.miller
+  Name: Sarah Miller
+  Email: sarah.miller@mediconn.ca
+
+• james.davis
+  Name: James Davis
+  Email: james.davis@mediconn.ca
+
+• julia.rodriguez
+  Name: Julia Rodriguez
+  Email: julia.rodriguez@mediconn.ca
+
+• robert.brown
+  Name: Robert Brown
+  Email: robert.brown@mediconn.ca
+
+• patricia.garcia
+  Name: Patricia Garcia
+  Email: patricia.garcia@mediconn.ca
+
+EMAILS:
+================================================================================
+Email ID: email_001
+Date: 2022-05-01 08:00:00
+From: Brian Smith <brian.smith@mediconn.ca>
+To: linda.johnson@mediconn.ca, michael.lee@mediconn.ca, robert.brown@mediconn.ca
+Subject: Weekly IT Operations Team Meeting
+Folder: sent | Status: Read
+
+Message Body:
+----------------------------------------
+Dear team, our weekly meeting is scheduled for this Friday at 10:00 am as usual. Please prepare your updates and any points you wish to discuss. Thank you.
+============================================================
+
+Email ID: email_002
+Date: 2022-05-02 09:30:00
+From: Sarah Miller <sarah.miller@mediconn.ca>
+To: julia.rodriguez@mediconn.ca
+CC: james.davis@mediconn.ca
+Subject: Update on Customer Satisfaction Survey
+Folder: sent | Status: Read
+
+Message Body:
+----------------------------------------
+Hi Julia, just wanted to share that the recent customer satisfaction survey results are quite positive. I'll share a detailed report later this week. Best, Sarah
+============================================================
+
+Email ID: email_003
+Date: 2022-05-03 14:00:00
+From: James Davis <james.davis@mediconn.ca>
+To: patricia.garcia@mediconn.ca
+Subject: Annual Budget Planning Meeting
+Folder: sent | Status: Read
+
+Message Body:
+----------------------------------------
+Patricia, we need to schedule the annual budget planning meeting. Can you please check with the team and propose some suitable dates? Thanks, James
+============================================================
+
+Email ID: email_004
+Date: 2022-05-04 10:00:00
+From: Linda Johnson <linda.johnson@mediconn.ca>
+To: brian.smith@mediconn.ca
+CC: michael.lee@mediconn.ca
+Subject: Re: Project Status Update
+Folder: inbox | Status: Read
+
+Message Body:
+----------------------------------------
+Hi Brian, thanks for the update. The progress looks good. Let's discuss more in our next meeting. Regards, Linda
+============================================================
+
+Email ID: email_005
+Date: 2022-05-05 13:00:00
+From: Robert Brown <robert.brown@mediconn.ca>
+To: brian.smith@mediconn.ca, linda.johnson@mediconn.ca, michael.lee@mediconn.ca
+Subject: REMINDER: Performance Reviews Deadline
+Folder: sent | Status: Read
+
+Message Body:
+----------------------------------------
+Just a reminder that the deadline for submitting performance reviews is this Friday. Please make sure to complete them on time. Thank you. - Robert
+============================================================
+
+Email ID: email_001
+Date: 2025-09-01 10:00:00
+From: Brian Smith <brian.smith@mediconn.ca>
+To: linda.johnson@mediconn.ca, michael.lee@mediconn.ca
+CC: james.davis@mediconn.ca
+Subject: HHS Cybersecurity Compliance Update
+Folder: sent | Status: Read
+
+Message Body:
+----------------------------------------
+Dear Linda and Michael,
+
+As we approach Q4, I would like to provide an update on our progress with integrating the HHS Cybersecurity Performance Goals (CPGs) into our virtual healthcare platform. Over the last month, we've developed a series of compliance checkpoints to ensure our platform's security and integrity.
+
+Specifically, we've defined 4 major compliance checkpoints that our software developers must pass before they can access our platform. These checkpoints are meticulously designed to align with the HHS CPGs, and include tests for secure coding, data protection, system integrity, and incident response capabilities.
+
+I will be sharing detailed documentation on these checkpoints shortly. Let's ensure that these are integrated into our routine checks and audits.
+
+Best,
+Brian
+============================================================
+
+Email ID: email_002
+Date: 2025-09-01 10:30:00
+From: Michael Lee <michael.lee@mediconn.ca>
+To: brian.smith@mediconn.ca, linda.johnson@mediconn.ca
+CC: james.davis@mediconn.ca
+Subject: Re: HHS Cybersecurity Compliance Update
+Folder: inbox | Status: Read
+
+Message Body:
+----------------------------------------
+Hi Brian,
+
+Thank you for the update. I believe these compliance checkpoints are a great step towards ensuring the security of our platform in compliance with HHS CPGs. Looking forward to reviewing the detailed documentation.
+
+Best,
+Michael
+============================================================
+
+Email ID: email_003
+Date: 2025-09-01 11:00:00
+From: Linda Johnson <linda.johnson@mediconn.ca>
+To: brian.smith@mediconn.ca, michael.lee@mediconn.ca
+CC: james.davis@mediconn.ca
+Subject: Re: HHS Cybersecurity Compliance Update
+Folder: inbox | Status: Read
+
+Message Body:
+----------------------------------------
+Hi All,
+
+I agree with Michael. Brian, your work on defining these checkpoints is commendable. This will certainly help us stay ahead of any potential cyber threats and maintain our commitment to providing a secure and reliable virtual healthcare platform.
+
+Best,
+Linda
+============================================================
+
+================================================================================
+END OF EMAIL EXPORT
+================================================================================

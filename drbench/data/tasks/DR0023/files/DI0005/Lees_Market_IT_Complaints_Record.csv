@@ -1,0 +1,13 @@
+Quarter,Year,Employee_ID,Complaint_Type,Complaint_Details,Num_of_Employees_Involved
+The quarter of the year when the complaint was submitted,The year when the complaint was submitted,The unique identifier of the employee who submitted the complaint,The category of the complaint,The specifics of the complaint submitted by the employee,The number of employees who submitted the similar complaint
+Q2,2026,E123465,Hardware Issue,Mouse not working,1
+Q2,2025,E123460,Software Issue,MS Word not responding,6
+Q3,2025,E123461,Hardware Issue,Laptop overheating,2
+Q3,2025,E123456,Other,Brightness interfered with monitor visibility,7
+Q1,2026,E123464,Network Issue,VPN not working,5
+Q1,2025,E123459,Network Issue,Slow internet speed,4
+Q4,2025,E123463,Software Issue,Unable to install antivirus,3
+Q3,2026,E123466,Software Issue,Email not syncing,2
+Q2,2025,E123458,Hardware Issue,Printer not working,5
+Q1,2025,E123457,Software Issue,Inability to update software,3
+Q4,2025,E123462,Network Issue,Unable to connect to office wifi,4

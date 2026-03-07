@@ -1,0 +1,10 @@
+{
+    "insight_id": "DI0001",
+    "qa_type": "distractor",
+    "qa_index": 1,
+    "specific_question": "What password policy review did Jason Wong run in January 2025?",
+    "answer": "Jason Wong required employees to update their passwords to a minimum length of 14 characters as of January 2025, resulting in 30% fewer weak credentials discovered during the spring audit.",
+    "justification": "",
+    "timestamp": "2025-12-02 14:46",
+    "dr_question": "Between Q1 2025 and Q4 2025, how can the adoption of managed security service providers (MSSPs) be leveraged by Jason Wong to address Lee's Market's internal cybersecurity resource constraints, and what measurable improvement in threat management, compliance, and customer trust can be achieved compared to maintaining traditional in-house approaches?"
+}

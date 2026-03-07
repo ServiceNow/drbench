@@ -1,0 +1,155 @@
+================================================================================
+ROUNDCUBE EMAIL EXPORT
+================================================================================
+
+USERS:
+----------------------------------------
+• jason.wong
+  Name: Jason Wong
+  Email: jason.wong@leesmarket.com
+
+• linda.chen
+  Name: Linda Chen
+  Email: linda.chen@leesmarket.com
+
+• michael.johnson
+  Name: Michael Johnson
+  Email: michael.johnson@leesmarket.com
+
+• sarah.kim
+  Name: Sarah Kim
+  Email: sarah.kim@leesmarket.com
+
+• peter.lee
+  Name: Peter Lee
+  Email: peter.lee@leesmarket.com
+
+• rachel.patel
+  Name: Rachel Patel
+  Email: rachel.patel@leesmarket.com
+
+• steven.taylor
+  Name: Steven Taylor
+  Email: steven.taylor@leesmarket.com
+
+EMAILS:
+================================================================================
+Email ID: email_001
+Date: 2025-01-02 09:00:00
+From: Jason Wong <jason.wong@leesmarket.com>
+To: linda.chen@leesmarket.com, michael.johnson@leesmarket.com, sarah.kim@leesmarket.com
+Subject: IT Team Meeting Schedule
+Folder: sent | Status: Read
+
+Message Body:
+----------------------------------------
+Dear Team, Happy New Year! Let's kick off 2025 with our first team meeting on Friday, January 7, at 10 AM. The agenda includes a review of our 2024 accomplishments and setting goals for 2025. Please prepare your individual updates. Best, Jason
+============================================================
+
+Email ID: email_002
+Date: 2025-01-04 16:30:00
+From: Linda Chen <linda.chen@leesmarket.com>
+To: jason.wong@leesmarket.com
+Subject: New POS System Training
+Folder: inbox | Status: Read
+
+Message Body:
+----------------------------------------
+Hi Jason, I've arranged for the IT team to receive training on the new POS system next week. The vendor will provide a comprehensive demo and Q&A session. I'll share the exact schedule soon. Best, Linda
+============================================================
+
+Email ID: email_003
+Date: 2025-02-10 13:20:00
+From: Michael Johnson <michael.johnson@leesmarket.com>
+To: jason.wong@leesmarket.com
+CC: peter.lee@leesmarket.com
+Subject: Quarterly Budget Review Meeting
+Folder: inbox | Status: Unread
+
+Message Body:
+----------------------------------------
+Hi Jason, Please confirm your availability for the quarterly budget review meeting scheduled for February 20, 2025. We need to discuss the IT department's spending and make necessary adjustments for the next quarter. Regards, Michael
+============================================================
+
+Email ID: email_004
+Date: 2025-03-05 11:00:00
+From: Sarah Kim <sarah.kim@leesmarket.com>
+To: jason.wong@leesmarket.com
+Subject: Customer Feedback on Online Shopping Experience
+Folder: inbox | Status: Unread
+Attachments: 1 file(s)
+
+Message Body:
+----------------------------------------
+Hi Jason, I've compiled some customer feedback on our online shopping experience. Although it's mostly positive, some customers have reported issues with the site's loading speed. Can you have your team look into this? Thanks, Sarah
+============================================================
+
+Email ID: email_001
+Date: 2025-05-15 10:30:00
+From: Linda Chen <linda.chen@leesmarket.com>
+To: jason.wong@leesmarket.com
+CC: peter.lee@leesmarket.com, rachel.patel@leesmarket.com
+Subject: Compliance Audit Findings
+Folder: inbox | Status: Read
+Attachments: 1 file(s)
+
+Message Body:
+----------------------------------------
+Dear Jason,
+
+I hope this email finds you well. Please find attached the final report of the regulatory audit that was conducted last week. In our review, we identified three process gaps particularly related to vendor data sharing logs.
+
+These findings are critical as they directly impact our compliance with privacy regulations. We need to address these gaps promptly to prevent any potential data breaches and maintain our customer trust.
+
+I propose we arrange a meeting next week to discuss our action plan.
+
+Best,
+Linda Chen
+Compliance Officer
+============================================================
+
+Email ID: email_002
+Date: 2025-05-15 11:45:00
+From: Jason Wong <jason.wong@leesmarket.com>
+To: linda.chen@leesmarket.com
+CC: peter.lee@leesmarket.com, rachel.patel@leesmarket.com
+Subject: Re: Compliance Audit Findings
+Folder: inbox | Status: Read
+
+Message Body:
+----------------------------------------
+Hi Linda,
+
+Thank you for sharing this. I have reviewed the audit report and I agree that these findings need to be addressed urgently. I believe it might be beneficial to explore external support options to address these compliance issues, such as Managed Security Service Providers (MSSPs).
+
+I will start reviewing potential MSSP partners and their offerings. Meanwhile, let's schedule a meeting for next week to discuss our action plan in detail.
+
+Best,
+Jason Wong
+Information Security Manager
+============================================================
+
+Email ID: email_003
+Date: 2025-05-15 13:30:00
+From: Linda Chen <linda.chen@leesmarket.com>
+To: jason.wong@leesmarket.com
+CC: peter.lee@leesmarket.com, rachel.patel@leesmarket.com
+Subject: Re: Compliance Audit Findings
+Folder: inbox | Status: Read
+
+Message Body:
+----------------------------------------
+Hi Jason,
+
+That sounds like a strategic approach. Please keep me updated on the MSSP options you find. I will align with our legal team to ensure any potential partnerships meet our compliance requirements.
+
+Let's aim for a meeting next Tuesday. I will set up the invite.
+
+Best,
+Linda Chen
+Compliance Officer
+============================================================
+
+================================================================================
+END OF EMAIL EXPORT
+================================================================================

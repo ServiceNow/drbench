@@ -1,0 +1,10 @@
+{
+    "insight_id": "DI0006",
+    "qa_type": "distractor",
+    "qa_index": 6,
+    "specific_question": "How many log retention audits were performed on MediConn\u2019s virtual healthcare platform\u2019s EHR systems between April 1 and June 30, 2025?",
+    "answer": "The cybersecurity team conducted 22 log retention audits on MediConn\u2019s virtual healthcare platform EHR systems during Q2 2025.",
+    "justification": "",
+    "timestamp": "2025-11-20 00:30",
+    "dr_question": "In 2026, how can MediConn Solutions defend its virtual healthcare platform against coordinated ransomware attacks facilitated by foreign nation-state cyber threat actors, ensuring uninterrupted access to clinical systems and patient safety?"
+}

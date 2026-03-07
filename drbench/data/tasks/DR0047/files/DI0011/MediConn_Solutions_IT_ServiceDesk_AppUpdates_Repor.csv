@@ -1,0 +1,12 @@
+Update_ID,Update_Type,Update_Date,Update_Description,Affected_App
+Unique identifier for the update issued by the IT Service Desk,"Type of update issued, e.g., minor, major, bug fix, etc.",Date when the IT Service Desk rolled out the update,Brief description of the update,Name of the mobile app that was updated
+ID_001,minor,2025-09-05,Minor update issued by the IT Service Desk for performance improvement,Company Mobile App
+ID_009,bug fix,2025-02-15,Bug fix issued for resolving notification issue,Company Mobile App
+ID_007,minor,2025-04-05,Minor update issued by the IT Service Desk for bug fixes,Company Mobile App
+ID_003,bug fix,2025-07-20,Bug fix issued for resolving login issue,Company Mobile App
+ID_008,major,2025-03-01,Major update issued for version upgrade,Company Mobile App
+ID_004,minor,2025-09-20,Minor update issued by the IT Service Desk for UI enhancement,Company Mobile App
+ID_005,bug fix,2025-06-15,Bug fix issued for resolving payment gateway issue,Company Mobile App
+ID_010,minor,2025-01-05,Minor update issued by the IT Service Desk for performance improvement,Company Mobile App
+ID_006,major,2025-05-10,Major update issued for new module integration,Company Mobile App
+ID_002,major,2025-08-30,Major update issued for new feature addition,Company Mobile App

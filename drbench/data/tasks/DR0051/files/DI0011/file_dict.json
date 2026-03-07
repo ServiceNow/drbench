@@ -1,0 +1,81 @@
+{
+    "file_name": "physician-patient-analysis",
+    "file_title": "Physician-Patient Interactions Analysis 2024",
+    "introduction": "In this presentation, we will explore the volume and nature of patient complaints in 2024, focusing on physician-patient interactions. The aim is to understand the areas of improvement and to enhance the patient experience.",
+    "subsections": [
+        {
+            "heading": "2024 Patient Feedback Overview",
+            "content": "\u2022 In 2024, our customer service team responded to over 14,500 patient feedback tickets\n\u2022 70% of feedback was related to platform usability and accessibility\n\u2022 Feedback was collected primarily through online surveys and phone calls\n\u2022 The average response time to feedback was two business days\n\u2022 We implemented an improved ticketing system in Q2 of 2024 which has helped streamline our feedback process\n\u2022 80% of feedback resulted in actionable changes to our services",
+            "type": "distractor",
+            "justification": "This content provides a general overview of patient feedback in 2024, but does not specify complaints about physician bedside manner. It focuses on operational details and processes."
+        },
+        {
+            "heading": "Insights into Physician Bedside Manner",
+            "content": "\u2022 Physician bedside manner is a key component of patient satisfaction\n\u2022 We provide our physicians with ongoing training in patient communication\n\u2022 75% of our physicians have received positive feedback on their bedside manner\n\u2022 In 2024, we initiated a new bedside manner training program\n\u2022 We believe that a positive bedside manner can improve patient outcomes\n\u2022 We are committed to maintaining a high standard for physician bedside manner across all our virtual platforms",
+            "type": "distractor",
+            "justification": "This content outlines the company's views and activities around physician bedside manner but does not provide specific numbers on complaints. It discusses procedures and methodologies."
+        },
+        {
+            "heading": "Action Plan for Enhanced Patient Experience",
+            "content": "\u2022 We will continue to invest in training programs to enhance physician-patient communication\n\u2022 In 2025, we plan to roll out a new patient feedback system to better capture and address concerns\n\u2022 Our development team is working on platform enhancements based on patient feedback\n\u2022 We are considering partnerships with external consultancies to improve our patient experience\n\u2022 By Q3 of 2025, we aim to decrease our average feedback response time by 15%\n\u2022 Our goal is to achieve a 90% satisfaction rate across all our virtual platforms by the end of 2025",
+            "type": "distractor",
+            "justification": "This content outlines future plans to enhance patient experience but does not provide specific numbers on complaints from 2024. It focuses on forward-looking strategies and objectives."
+        }
+    ],
+    "conclusion": "From the analysis, we have identified key areas for improvement in physician bedside manners. Moving forward, we will implement targeted training to better our services and improve overall patient satisfaction.",
+    "file_format": "pptx",
+    "file_path": ".llm_responses/generated_pptx_presentation.pptx",
+    "qa_type": "distractor",
+    "timestamp": "2025-11-19 23:54",
+    "image_queries": [
+        {
+            "slide_title": "Introduction",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "intentionally_clean",
+            "slide_type": "introduction"
+        },
+        {
+            "slide_title": "2024 Patient Feedback Overview",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 6,
+            "total_chars": 449,
+            "probability": 0.25,
+            "theme": "Forest Theme"
+        },
+        {
+            "slide_title": "Insights into Physician Bedside Manner",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 6,
+            "total_chars": 454,
+            "probability": 0.25,
+            "theme": "Forest Theme"
+        },
+        {
+            "slide_title": "Action Plan for Enhanced Patient Experience",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "failed",
+            "slide_type": "distractor",
+            "content_length": 6,
+            "total_chars": 535,
+            "error": "'str' object has no attribute 'choices'",
+            "theme": "Forest Theme"
+        },
+        {
+            "slide_title": "Conclusion",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "strategic_clean_conclusion",
+            "slide_type": "conclusion",
+            "theme": "Forest Theme"
+        }
+    ],
+    "app": "file_system"
+}

@@ -1,0 +1,28 @@
+{
+    "company_info": {
+        "name": "MediConn Solutions (Vancouver, Canada, $50M - $100M, 250 employees)",
+        "industry": "Virtual/Remote Healthcare",
+        "description": "A company in the Virtual/Remote Healthcare industry",
+        "size": "medium",
+        "employee_count": "100-500",
+        "annual_revenue": "Not specified"
+    },
+    "persona": {
+        "name": "Mark Johnson",
+        "first_name": "Mark",
+        "last_name": "Johnson",
+        "username": "mark.johnson",
+        "email": "mark.johnson@mediconnsolutions.com",
+        "role": "CTO",
+        "role_description": "Sets technology vision and strategy for virtual healthcare platform, leads digital transformation initiatives, and drives innovation in telehealth technology"
+    },
+    "url": {
+        "url": "https://www.canada.ca/en/health-canada/corporate/transparency/health-agreements/bilateral-agreement-pan-canadian-virtual-care-priorities-covid-19/policy-framework.html",
+        "domain": "IT Service Management",
+        "industry": "virtual/remote healthcare",
+        "example_dr_questions": [],
+        "insights": [],
+        "date": "2025-11-21"
+    },
+    "timestamp": "2025-10-24 00:00"
+}

@@ -1,0 +1,10 @@
+{
+    "insight_id": "DI0014",
+    "qa_type": "distractor",
+    "qa_index": 14,
+    "specific_question": "What was MediConn's average helpdesk response time for employee HR queries in 2024?",
+    "answer": "The average helpdesk response time for employee HR queries was 6 hours.",
+    "justification": "HR helpdesk response metrics are not related to optimizing clinical IT workflows or virtual care cost structures.",
+    "timestamp": "2025-11-21 12:57",
+    "dr_question": "How can MediConn streamline its IT workflows in Q4 2025 to boost clinician efficiency and manage per-consultation costs, given that virtual healthcare expansion has improved access but increased overall expenses?"
+}

@@ -1,0 +1,29 @@
+{
+    "file_name": "disaster-recovery-report",
+    "file_title": "June 2025 Disaster Recovery Test Report",
+    "introduction": "As part of our ongoing commitment to ensuring the security of Lee's Market's digital assets, we conducted several disaster recovery tests on our servers in June 2025. These tests are designed to assess our preparedness and resilience in the face of potential IT disasters. This report outlines the process, key findings, and recommendations from the testing phase.",
+    "subsections": [
+        {
+            "heading": "Disaster Recovery Test Methodology",
+            "content": "The methodology for our disaster recovery testing involved the use of a simulated environment. On any given testing day, a specific portion of the network was isolated to evaluate the system's resilience. This method allowed us to examine server responses without affecting our daily operations or customer experiences.",
+            "type": "distractor",
+            "justification": "Details about the testing methodology doesn't provide specific information about Jason Wong's tests in June 2025."
+        },
+        {
+            "heading": "Key Findings from Disaster Recovery Test",
+            "content": "Our tests have revealed an average system recovery time of 45 minutes. The eCommerce department was the fastest to recover, while our logistics systems showed a need for improvement. However, none of these tests resulted in significant downtime or loss of data.",
+            "type": "distractor",
+            "justification": "The findings are general and do not specifically address Jason Wong's tests conducted in June 2025."
+        },
+        {
+            "heading": "Recommendations and Future Plans",
+            "content": "Considering the test results, we recommend investing in enhancing our logistics system's resilience. Our future plans include quarterly disaster recovery tests and involving more departments in these tests. Further, we aim to reduce the average system recovery time by 10% within the next fiscal year.",
+            "type": "distractor",
+            "justification": "The recommendations and future plans do not provide specifics on Jason Wong's activities in June 2025."
+        }
+    ],
+    "conclusion": "The June 2025 disaster recovery testing provided valuable insights into our Information Security infrastructure's strengths and areas for improvement. Continuous testing and refinement of our disaster recovery protocols are crucial to maintaining the integrity and security of our servers. The recommendations provided in this report will guide our efforts to enhance our disaster recovery capabilities. We remain committed to ensuring the highest level of data protection for Lee's Market.",
+    "file_format": "docx",
+    "file_path": ".llm_responses/generated_docx_document.docx",
+    "app": "nextcloud"
+}

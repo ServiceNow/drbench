@@ -1,0 +1,12 @@
+Year,Quarter,Training_Subject,Platform,Role,Sessions_Attended
+The year in which the training sessions were attended.,The quarter of the year in which the training sessions were attended.,The subject or topic of the training session attended.,"The platform for which the training was relevant. In this case, the platform is MediConn’s platform vulnerability monitoring tools.","The role of the employee who attended the training session. In this case, the role is cybersecurity specialist.",The number of training sessions attended by the employee during the specified time period.
+2024,Q2,MediConn’s platform vulnerability monitoring tools,Cybersecurity Specialist,1,
+2021,Q3,MediConn’s platform vulnerability monitoring tools,Cybersecurity Specialist,2,
+2022,Q1,MediConn’s platform vulnerability monitoring tools,Cybersecurity Specialist,1,
+2022,Q4,MediConn’s platform vulnerability monitoring tools,Cybersecurity Specialist,2,
+2023,Q2,MediConn’s platform vulnerability monitoring tools,Cybersecurity Specialist,1,
+2024,Q3,MediConn’s platform vulnerability monitoring tools,Cybersecurity Specialist,2,
+2024,Q4,MediConn’s platform vulnerability monitoring tools,Cybersecurity Specialist,1,
+2024,Q1,MediConn’s platform vulnerability monitoring tools,Cybersecurity Specialist,1,
+2023,Q3,MediConn’s platform vulnerability monitoring tools,Cybersecurity Specialist,2,
+2025,Q1,MediConn’s platform vulnerability monitoring tools,Cybersecurity Specialist,3,

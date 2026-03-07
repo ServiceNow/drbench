@@ -1,0 +1,10 @@
+{
+    "insight_id": "DI0006",
+    "qa_type": "distractor",
+    "qa_index": 6,
+    "specific_question": "What was the MediConn Solutions' customer service team's average response time to email inquiries in 2024?",
+    "answer": "The customer service team's average response time to email inquiries was 8.3 hours in 2024. This met MediConn's internal service level agreement of responding within 12 hours. The fastest response time was 2.1 hours, achieved during Q2 2024.",
+    "justification": "",
+    "timestamp": "2025-11-19 23:52",
+    "dr_question": "The article published on TechTarget in January 2024 cited the MGMA's findings, showing that patient communication technology addresses digital front door issues like poor booking systems. How might MediConn Solutions enhance patient access to virtual consultations and prescription management services in Q1 2026 to reduce wait times and boost satisfaction and retention?"
+}

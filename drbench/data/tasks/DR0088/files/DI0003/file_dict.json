@@ -1,0 +1,189 @@
+{
+    "file_name": "roundcube_email_20251120_143637",
+    "content": "{\"type\": \"user\", \"username\": \"jordan.lee\", \"first_name\": \"Jordan\", \"last_name\": \"Lee\", \"email\": \"jordan.lee@mediconn.com\", \"password\": \"secure_mediconn_123\"}\n{\"type\": \"user\", \"username\": \"michelle.morgan\", \"first_name\": \"Michelle\", \"last_name\": \"Morgan\", \"email\": \"michelle.morgan@mediconn.com\", \"password\": \"virtualcare_456\"}\n{\"type\": \"user\", \"username\": \"david.johnson\", \"first_name\": \"David\", \"last_name\": \"Johnson\", \"email\": \"david.johnson@mediconn.com\", \"password\": \"healthtech_789\"}\n{\"type\": \"user\", \"username\": \"sarah.green\", \"first_name\": \"Sarah\", \"last_name\": \"Green\", \"email\": \"sarah.green@mediconn.com\", \"password\": \"mediconn_green\"}\n{\"type\": \"user\", \"username\": \"peter.brown\", \"first_name\": \"Peter\", \"last_name\": \"Brown\", \"email\": \"peter.brown@mediconn.com\", \"password\": \"peter_medi_pwd\"}\n{\"type\": \"user\", \"username\": \"emily.wilson\", \"first_name\": \"Emily\", \"last_name\": \"Wilson\", \"email\": \"emily.wilson@mediconn.com\", \"password\": \"emily_wilson_pwd\"}\n{\"type\": \"email\", \"id\": \"email_001\", \"subject\": \"Q1 Budget Review\", \"from\": \"michelle.morgan@mediconn.com\", \"from_name\": \"Michelle Morgan\", \"to\": [\"jordan.lee@mediconn.com\", \"david.johnson@mediconn.com\"], \"cc\": [\"sarah.green@mediconn.com\"], \"date\": \"2022-03-01 09:00:00\", \"body\": \"Hi Team,\\n\\nAs you know, we're nearing the end of Q1 and it's time for our quarterly budget review. Could we schedule a meeting next week to discuss our spending so far and any adjustments we need to make for the upcoming quarter? Please reply with your availability.\\n\\nRegards,\\nMichelle Morgan\", \"folder\": \"inbox\", \"read\": true, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_002\", \"subject\": \"Re: Q1 Budget Review\", \"from\": \"jordan.lee@mediconn.com\", \"from_name\": \"Jordan Lee\", \"to\": [\"michelle.morgan@mediconn.com\"], \"cc\": [\"david.johnson@mediconn.com\", \"sarah.green@mediconn.com\"], \"date\": \"2022-03-01 10:20:00\", \"body\": \"Hi Michelle,\\n\\nI'm available next Tuesday or Thursday after 11am. If those times don't work for the rest of the team, let me know and I'll try to adjust my schedule.\\n\\nBest,\\nJordan\", \"folder\": \"inbox\", \"read\": true, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_003\", \"subject\": \"Customer Satisfaction Survey Results\", \"from\": \"emily.wilson@mediconn.com\", \"from_name\": \"Emily Wilson\", \"to\": [\"michelle.morgan@mediconn.com\", \"peter.brown@mediconn.com\"], \"cc\": [\"sarah.green@mediconn.com\"], \"date\": \"2022-03-01 15:30:00\", \"body\": \"Hi Team,\\n\\nThe results from our latest customer satisfaction survey are in. Overall, our customers are happy with our services, but there are a few areas we can improve in, particularly in terms of response time to queries. I've attached a detailed report to this email. Could we schedule a meeting to discuss these results and brainstorm ways to improve our services?\\n\\nBest,\\nEmily\", \"folder\": \"inbox\", \"read\": true, \"attachments\": [\"Customer_Satisfaction_Survey_Results.pdf\"]}\n{\"type\": \"email\", \"id\": \"email_001\", \"subject\": \"AI Anomaly Detection Tool Integration\", \"from\": \"jordan.lee@mediconn.com\", \"from_name\": \"Jordan Lee\", \"to\": [\"michelle.morgan@mediconn.com\", \"david.johnson@mediconn.com\", \"sarah.green@mediconn.com\", \"peter.brown@mediconn.com\"], \"cc\": [\"emily.wilson@mediconn.com\"], \"date\": \"2026-04-01 10:15:00\", \"body\": \"Dear Team,\\n\\nAs per the recent discussions, we are planning to integrate a new AI anomaly detection tool into our existing infrastructure by Q3 2026, in line with Canada\\u2019s new call for proposals to strengthen the country\\u2019s cyber resilience and address evolving cyber threats under the 2025 Cyber Security Cooperation Program (CSCP).\\n\\nWe need to ensure that the integration does not disrupt our critical healthcare services. Therefore, it's essential that we perform this task during non-peak hours. I understand that our standard working hours are Monday through Friday, 9 AM-5 PM local time. Can we consider conducting the integration activities outside of these hours?\\n\\nYour inputs are highly appreciated.\\n\\nRegards,\\nJordan\", \"folder\": \"sent\", \"read\": true, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_002\", \"subject\": \"Re: AI Anomaly Detection Tool Integration\", \"from\": \"michelle.morgan@mediconn.com\", \"from_name\": \"Michelle Morgan\", \"to\": [\"jordan.lee@mediconn.com\", \"david.johnson@mediconn.com\", \"sarah.green@mediconn.com\", \"peter.brown@mediconn.com\"], \"cc\": [\"emily.wilson@mediconn.com\"], \"date\": \"2026-04-01 11:30:00\", \"body\": \"Hi Jordan,\\n\\nI agree with your plan. Conducting the integration activities outside of our standard work hours will minimize the risk of disrupting our services. We should also consider running a series of tests before and after the integration to ensure the stability and functionality of our systems.\\n\\nBest,\\nMichelle\", \"folder\": \"sent\", \"read\": true, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_003\", \"subject\": \"Re: AI Anomaly Detection Tool Integration\", \"from\": \"david.johnson@mediconn.com\", \"from_name\": \"David Johnson\", \"to\": [\"jordan.lee@mediconn.com\", \"michelle.morgan@mediconn.com\", \"sarah.green@mediconn.com\", \"peter.brown@mediconn.com\"], \"cc\": [\"emily.wilson@mediconn.com\"], \"date\": \"2026-04-01 14:20:00\", \"body\": \"Team,\\n\\nI agree with both Jordan and Michelle. We should definitely consider non-peak hours for this task to avoid any potential disruptions. Let's also plan for a dry run and ensure we have a rollback plan in place.\\n\\nThanks,\\nDavid\", \"folder\": \"sent\", \"read\": true, \"attachments\": []}",
+    "email_setup": [
+        {
+            "type": "user",
+            "username": "jordan.lee",
+            "first_name": "Jordan",
+            "last_name": "Lee",
+            "email": "jordan.lee@mediconn.com",
+            "password": "secure_mediconn_123"
+        },
+        {
+            "type": "user",
+            "username": "michelle.morgan",
+            "first_name": "Michelle",
+            "last_name": "Morgan",
+            "email": "michelle.morgan@mediconn.com",
+            "password": "virtualcare_456"
+        },
+        {
+            "type": "user",
+            "username": "david.johnson",
+            "first_name": "David",
+            "last_name": "Johnson",
+            "email": "david.johnson@mediconn.com",
+            "password": "healthtech_789"
+        },
+        {
+            "type": "user",
+            "username": "sarah.green",
+            "first_name": "Sarah",
+            "last_name": "Green",
+            "email": "sarah.green@mediconn.com",
+            "password": "mediconn_green"
+        },
+        {
+            "type": "user",
+            "username": "peter.brown",
+            "first_name": "Peter",
+            "last_name": "Brown",
+            "email": "peter.brown@mediconn.com",
+            "password": "peter_medi_pwd"
+        },
+        {
+            "type": "user",
+            "username": "emily.wilson",
+            "first_name": "Emily",
+            "last_name": "Wilson",
+            "email": "emily.wilson@mediconn.com",
+            "password": "emily_wilson_pwd"
+        }
+    ],
+    "email_messages": [
+        {
+            "type": "email",
+            "id": "email_001",
+            "subject": "Q1 Budget Review",
+            "from": "michelle.morgan@mediconn.com",
+            "from_name": "Michelle Morgan",
+            "to": [
+                "jordan.lee@mediconn.com",
+                "david.johnson@mediconn.com"
+            ],
+            "cc": [
+                "sarah.green@mediconn.com"
+            ],
+            "date": "2022-03-01 09:00:00",
+            "body": "Hi Team,\n\nAs you know, we're nearing the end of Q1 and it's time for our quarterly budget review. Could we schedule a meeting next week to discuss our spending so far and any adjustments we need to make for the upcoming quarter? Please reply with your availability.\n\nRegards,\nMichelle Morgan",
+            "folder": "inbox",
+            "read": true,
+            "attachments": [],
+            "tag": "distractor"
+        },
+        {
+            "type": "email",
+            "id": "email_002",
+            "subject": "Re: Q1 Budget Review",
+            "from": "jordan.lee@mediconn.com",
+            "from_name": "Jordan Lee",
+            "to": [
+                "michelle.morgan@mediconn.com"
+            ],
+            "cc": [
+                "david.johnson@mediconn.com",
+                "sarah.green@mediconn.com"
+            ],
+            "date": "2022-03-01 10:20:00",
+            "body": "Hi Michelle,\n\nI'm available next Tuesday or Thursday after 11am. If those times don't work for the rest of the team, let me know and I'll try to adjust my schedule.\n\nBest,\nJordan",
+            "folder": "inbox",
+            "read": true,
+            "attachments": [],
+            "tag": "distractor"
+        },
+        {
+            "type": "email",
+            "id": "email_003",
+            "subject": "Customer Satisfaction Survey Results",
+            "from": "emily.wilson@mediconn.com",
+            "from_name": "Emily Wilson",
+            "to": [
+                "michelle.morgan@mediconn.com",
+                "peter.brown@mediconn.com"
+            ],
+            "cc": [
+                "sarah.green@mediconn.com"
+            ],
+            "date": "2022-03-01 15:30:00",
+            "body": "Hi Team,\n\nThe results from our latest customer satisfaction survey are in. Overall, our customers are happy with our services, but there are a few areas we can improve in, particularly in terms of response time to queries. I've attached a detailed report to this email. Could we schedule a meeting to discuss these results and brainstorm ways to improve our services?\n\nBest,\nEmily",
+            "folder": "inbox",
+            "read": true,
+            "attachments": [
+                "Customer_Satisfaction_Survey_Results.pdf"
+            ],
+            "tag": "distractor"
+        },
+        {
+            "type": "email",
+            "id": "email_001",
+            "subject": "AI Anomaly Detection Tool Integration",
+            "from": "jordan.lee@mediconn.com",
+            "from_name": "Jordan Lee",
+            "to": [
+                "michelle.morgan@mediconn.com",
+                "david.johnson@mediconn.com",
+                "sarah.green@mediconn.com",
+                "peter.brown@mediconn.com"
+            ],
+            "cc": [
+                "emily.wilson@mediconn.com"
+            ],
+            "date": "2026-04-01 10:15:00",
+            "body": "Dear Team,\n\nAs per the recent discussions, we are planning to integrate a new AI anomaly detection tool into our existing infrastructure by Q3 2026, in line with Canada\u2019s new call for proposals to strengthen the country\u2019s cyber resilience and address evolving cyber threats under the 2025 Cyber Security Cooperation Program (CSCP).\n\nWe need to ensure that the integration does not disrupt our critical healthcare services. Therefore, it's essential that we perform this task during non-peak hours. I understand that our standard working hours are Monday through Friday, 9 AM-5 PM local time. Can we consider conducting the integration activities outside of these hours?\n\nYour inputs are highly appreciated.\n\nRegards,\nJordan",
+            "folder": "sent",
+            "read": true,
+            "attachments": [],
+            "tag": "insight"
+        },
+        {
+            "type": "email",
+            "id": "email_002",
+            "subject": "Re: AI Anomaly Detection Tool Integration",
+            "from": "michelle.morgan@mediconn.com",
+            "from_name": "Michelle Morgan",
+            "to": [
+                "jordan.lee@mediconn.com",
+                "david.johnson@mediconn.com",
+                "sarah.green@mediconn.com",
+                "peter.brown@mediconn.com"
+            ],
+            "cc": [
+                "emily.wilson@mediconn.com"
+            ],
+            "date": "2026-04-01 11:30:00",
+            "body": "Hi Jordan,\n\nI agree with your plan. Conducting the integration activities outside of our standard work hours will minimize the risk of disrupting our services. We should also consider running a series of tests before and after the integration to ensure the stability and functionality of our systems.\n\nBest,\nMichelle",
+            "folder": "sent",
+            "read": true,
+            "attachments": [],
+            "tag": "insight"
+        },
+        {
+            "type": "email",
+            "id": "email_003",
+            "subject": "Re: AI Anomaly Detection Tool Integration",
+            "from": "david.johnson@mediconn.com",
+            "from_name": "David Johnson",
+            "to": [
+                "jordan.lee@mediconn.com",
+                "michelle.morgan@mediconn.com",
+                "sarah.green@mediconn.com",
+                "peter.brown@mediconn.com"
+            ],
+            "cc": [
+                "emily.wilson@mediconn.com"
+            ],
+            "date": "2026-04-01 14:20:00",
+            "body": "Team,\n\nI agree with both Jordan and Michelle. We should definitely consider non-peak hours for this task to avoid any potential disruptions. Let's also plan for a dry run and ensure we have a rollback plan in place.\n\nThanks,\nDavid",
+            "folder": "sent",
+            "read": true,
+            "attachments": [],
+            "tag": "insight"
+        }
+    ],
+    "file_format": "jsonl",
+    "file_path": ".llm_responses/generated_email_document.jsonl",
+    "qa_type": "distractor",
+    "timestamp": "2025-11-20 15:36",
+    "app": "email"
+}

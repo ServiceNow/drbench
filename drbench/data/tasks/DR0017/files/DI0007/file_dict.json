@@ -1,0 +1,81 @@
+{
+    "file_name": "customer-retention-analysis",
+    "file_title": "Q3 Customer Retention Analysis - Lee's Market",
+    "introduction": "Today, we will delve into the customer retention patterns observed in Q3 of 2025, and compare it with the previous quarter. This analysis aims to understand our customer behavior and identify areas for strategic improvements.",
+    "subsections": [
+        {
+            "heading": "Overall Customer Analysis - Q2 vs Q3",
+            "content": "\u2022 In Q2, we saw a 5% increase in online sales compared to Q1\n\u2022 Foot traffic in Q3 increased by 3% compared to Q2\n\u2022 We introduced a new loyalty program in Q3\n\u2022 Q3 saw a 4% decline in sales of non-food items compared to Q2\n\u2022 There was a 2% decrease in the average basket size from Q2 to Q3",
+            "type": "distractor",
+            "justification": "This content focuses on general sales trends and new initiatives, not specific repeat customer data."
+        },
+        {
+            "heading": "Breakdown of Repeat vs New Customers - Q3",
+            "content": "\u2022 Repeat customers made up 60% of our online sales\n\u2022 New customers were more likely to make purchases in-store\n\u2022 30% of new customers in Q3 came through referrals\n\u2022 Repeat customers spent on average 15% more than new customers\n\u2022 The majority of repeat customers shopped in-store on weekdays",
+            "type": "distractor",
+            "justification": "This content focuses on the behavior and characteristics of new vs repeat customers, not their quarterly percentages."
+        },
+        {
+            "heading": "Impact of Customer Retention on Revenue",
+            "content": "\u2022 A 5% increase in customer retention can increase profits by 25-95%\n\u2022 Repeat customers spent 33% more per transaction than new customers\n\u2022 Our customer retention rate in 2024 was 68%\n\u2022 In 2025, we aim to increase our customer retention rate to 75%\n\u2022 Our top 20% repeat customers contribute 80% of our revenue",
+            "type": "distractor",
+            "justification": "This content focuses on the impact of customer retention on revenue, not specific Q2 vs Q3 repeat customer percentages."
+        }
+    ],
+    "conclusion": "Our analysis indicates a significant portion of our customer base is comprised of repeat shoppers. Moving forward, we should continue to nurture our relationships with these customers while developing strategies to convert new customers into regular shoppers.",
+    "file_format": "pptx",
+    "file_path": ".llm_responses/generated_pptx_presentation.pptx",
+    "qa_type": "distractor",
+    "timestamp": "2025-11-24 15:53",
+    "image_queries": [
+        {
+            "slide_title": "Introduction",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "intentionally_clean",
+            "slide_type": "introduction"
+        },
+        {
+            "slide_title": "Overall Customer Analysis - Q2 vs Q3",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "failed",
+            "slide_type": "distractor",
+            "content_length": 5,
+            "total_chars": 273,
+            "error": "'str' object has no attribute 'choices'",
+            "theme": "Classic Navy"
+        },
+        {
+            "slide_title": "Breakdown of Repeat vs New Customers - Q3",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 5,
+            "total_chars": 276,
+            "probability": 0.45,
+            "theme": "Classic Navy"
+        },
+        {
+            "slide_title": "Impact of Customer Retention on Revenue",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 5,
+            "total_chars": 295,
+            "probability": 0.45,
+            "theme": "Classic Navy"
+        },
+        {
+            "slide_title": "Conclusion",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "strategic_clean_conclusion",
+            "slide_type": "conclusion",
+            "theme": "Classic Navy"
+        }
+    ],
+    "app": "file_system"
+}

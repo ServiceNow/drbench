@@ -1,0 +1,10 @@
+{
+    "insight_id": "DI0008",
+    "qa_type": "distractor",
+    "qa_index": 8,
+    "specific_question": "How many parking spaces did Lee's Market add to increase the parking capacity of 5 high-traffic locations in 2024?",
+    "answer": "Lee's Market added 450 additional parking spaces to expand parking capacity at 5 high-traffic locations in 2024, reducing congestion and improving customer convenience.",
+    "justification": "This data is not relevant because it focuses on parking availability, which addresses access, but does not reveal consumer behavior shifts that affect sales. Lee's Market cannot use this data to gauge which products are experiencing a slowdown or require promotion planning. This data is related to site infrastructure and does not affect sales projections or promotion planning.",
+    "timestamp": "2025-11-21 13:04",
+    "dr_question": "Given the drop in Canadian retail sales brought on by US tariffs in 2025, what insights should Lee\u2019s Market derive from product-level sales trends across tariff-exposed and tariff-insulated categories to update sales forecasts by 2027?"
+}

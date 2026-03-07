@@ -1,0 +1,165 @@
+================================================================================
+ROUNDCUBE EMAIL EXPORT
+================================================================================
+
+USERS:
+----------------------------------------
+• emily.patel
+  Name: Emily Patel
+  Email: emily.patel@mediconn.com
+
+• john.doe
+  Name: John Doe
+  Email: john.doe@mediconn.com
+
+• sarah.green
+  Name: Sarah Green
+  Email: sarah.green@mediconn.com
+
+• michael.brown
+  Name: Michael Brown
+  Email: michael.brown@mediconn.com
+
+• laura.white
+  Name: Laura White
+  Email: laura.white@mediconn.com
+
+• tom.black
+  Name: Tom Black
+  Email: tom.black@mediconn.com
+
+• jane.wilson
+  Name: Jane Wilson
+  Email: jane.wilson@mediconn.com
+
+EMAILS:
+================================================================================
+Email ID: email_001
+Date: 2022-07-01 08:00:00
+From: Emily Patel <emily.patel@mediconn.com>
+To: john.doe@mediconn.com, sarah.green@mediconn.com, michael.brown@mediconn.com, tom.black@mediconn.com
+Subject: Weekly IT Service Desk Team Meeting
+Folder: sent | Status: Read
+
+Message Body:
+----------------------------------------
+Good Morning Everyone,
+
+Just a quick reminder about our weekly team meeting scheduled for this Friday at 2 PM. Please make sure to prepare updates on your respective assignments.
+
+Best,
+Emily
+============================================================
+
+Email ID: email_002
+Date: 2022-07-01 10:30:00
+From: John Doe <john.doe@mediconn.com>
+To: emily.patel@mediconn.com
+Subject: Urgent: IT Equipment Stock
+Folder: inbox | Status: Unread
+
+Message Body:
+----------------------------------------
+Hi Emily,
+
+We are running low on some IT equipment, specifically keyboards and mice. Could you please approve the purchase order I sent over?
+
+Best,
+John
+============================================================
+
+Email ID: email_003
+Date: 2022-07-02 12:00:00
+From: Laura White <laura.white@mediconn.com>
+To: emily.patel@mediconn.com, john.doe@mediconn.com, sarah.green@mediconn.com, michael.brown@mediconn.com, tom.black@mediconn.com
+Subject: Holiday Schedule
+Folder: inbox | Status: Read
+
+Message Body:
+----------------------------------------
+Hello Team,
+
+With the holiday season approaching, I would like to coordinate annual leave requests. Please ensure you submit your leave requests by the end of next week.
+
+Thank you,
+Laura
+============================================================
+
+Email ID: email_004
+Date: 2022-07-02 15:00:00
+From: Jane Wilson <jane.wilson@mediconn.com>
+To: emily.patel@mediconn.com
+Subject: Health and Safety Training
+Folder: inbox | Status: Unread
+
+Message Body:
+----------------------------------------
+Dear Emily,
+
+I am writing to remind you about the Health and Safety training scheduled for next Wednesday. Attendance is mandatory for all employees. Please ensure your team is aware.
+
+Best regards,
+Jane
+============================================================
+
+Email ID: email_001
+Date: 2025-03-10 09:00:00
+From: John Doe <john.doe@mediconn.com>
+To: emily.patel@mediconn.com
+CC: sarah.green@mediconn.com, michael.brown@mediconn.com
+Subject: Security Protocols and Regulatory Compliance Project Discussion
+Folder: inbox | Status: Read
+
+Message Body:
+----------------------------------------
+Hi Emily,
+
+As we progress towards our Q3 goals, I feel it would be beneficial for us to further discuss our security protocols and regulatory compliance measures. Given the sensitivity of electronic medical data, it's crucial we take the necessary precautions to avoid any potential security risks.
+
+I propose we schedule a meeting this week to discuss these matters more in-depth. Please let me know when you would be available.
+
+Best,
+John
+============================================================
+
+Email ID: email_002
+Date: 2025-03-10 12:30:00
+From: Emily Patel <emily.patel@mediconn.com>
+To: john.doe@mediconn.com
+CC: sarah.green@mediconn.com, michael.brown@mediconn.com
+Subject: Re: Security Protocols and Regulatory Compliance Project Discussion
+Folder: sent | Status: Read
+
+Message Body:
+----------------------------------------
+Hi John,
+
+Thank you for your email. I absolutely agree that we need to be proactive in managing our security protocols and ensuring regulatory compliance, especially given the nature of our work. I'm free on Thursday at 2:00 PM, would that work for you?
+
+In the meantime, I will be reviewing the patient feedback we received last year. I believe the feedback, which amounts to 15,200 surveys, may provide some valuable insights as we work on strengthening our security measures.
+
+Best,
+Emily
+============================================================
+
+Email ID: email_003
+Date: 2025-03-10 14:45:00
+From: John Doe <john.doe@mediconn.com>
+To: emily.patel@mediconn.com
+CC: sarah.green@mediconn.com, michael.brown@mediconn.com
+Subject: Re: Security Protocols and Regulatory Compliance Project Discussion
+Folder: sent | Status: Read
+
+Message Body:
+----------------------------------------
+Hi Emily,
+
+Thursday at 2:00 PM works fine for me. I'm looking forward to our discussion. The data from the patient feedback surveys should certainly be helpful in identifying any potential areas of concern and informing our strategies moving forward.
+
+Best,
+John
+============================================================
+
+================================================================================
+END OF EMAIL EXPORT
+================================================================================

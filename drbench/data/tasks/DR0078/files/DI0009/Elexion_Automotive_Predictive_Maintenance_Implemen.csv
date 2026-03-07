@@ -1,0 +1,12 @@
+company_name,implementation_status,expected_completion_date,update_date
+Name of the company implementing the predictive maintenance scheduling tool,Current status of the predictive maintenance scheduling tool implementation,Expected date for full implementation of the predictive maintenance scheduling tool,Date when the implementation status information was last updated
+Company C,Not Started,2026-01-01,2026-01-02
+Company E,In Progress,2026-09-01,2026-09-02
+Company D,Completed,2026-05-01,2026-05-02
+Company H,In Progress,2027-09-01,2027-09-02
+Elexion Automotive,Phased Rollout,2027-01-01,2025-10-07
+Company G,Completed,2027-05-01,2027-05-02
+Company F,Not Started,2027-01-01,2027-01-02
+Company B,In Progress,2025-05-01,2025-05-02
+Company I,Not Started,2028-01-01,2028-01-02
+Company A,Completed,2025-01-01,2025-01-02

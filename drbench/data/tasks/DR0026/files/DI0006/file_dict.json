@@ -1,0 +1,274 @@
+{
+    "file_name": "mattermost_chat_20251119_012351",
+    "content": "{\"type\": \"version\", \"version\": 1}\n{\"type\": \"team\", \"team\": {\"name\": \"customerservice\", \"display_name\": \"Customer Service\", \"type\": \"O\", \"header\": \"Team dedicated to manage and improve customer service at Lee's Market\", \"purpose\": \"Handle all customer service related activities and issues\"}}\n{\"type\": \"team\", \"team\": {\"name\": \"retailservice\", \"display_name\": \"Retail Service\", \"type\": \"O\", \"header\": \"Team focused on retail operations and services at Lee's Market\", \"purpose\": \"Manage and optimize retail operations and services\"}}\n{\"type\": \"channel\", \"channel\": {\"team\": \"customerservice\", \"name\": \"giftwrapping\", \"display_name\": \"Gift Wrapping\", \"type\": \"O\", \"header\": \"Channel for discussions related to gift wrapping services\", \"purpose\": \"Share insights, issues, and suggestions related to gift wrapping services\"}}\n{\"type\": \"channel\", \"channel\": {\"team\": \"retailservice\", \"name\": \"storeoperations\", \"display_name\": \"Store Operations\", \"type\": \"O\", \"header\": \"Channel for discussions related to store operations\", \"purpose\": \"Share insights, issues, and updates on store operations\"}}\n{\"type\": \"user\", \"user\": {\"username\": \"davidthompson\", \"email\": \"d.thompson@leesmarket.com\", \"password\": \"secure_password\", \"nickname\": \"Dave\", \"first_name\": \"David\", \"last_name\": \"Thompson\", \"position\": \"Customer Service Manager\", \"roles\": \"system_user\", \"locale\": \"en\", \"teams\": [{\"name\": \"customerservice\", \"roles\": \"team_user\", \"channels\": [{\"name\": \"giftwrapping\", \"roles\": \"channel_user\"}]}, {\"name\": \"retailservice\", \"roles\": \"team_user\", \"channels\": [{\"name\": \"storeoperations\", \"roles\": \"channel_user\"}]}]}}\n{\"type\": \"user\", \"user\": {\"username\": \"janesmith\", \"email\": \"j.smith@leesmarket.com\", \"password\": \"secure_password\", \"nickname\": \"Jane\", \"first_name\": \"Jane\", \"last_name\": \"Smith\", \"position\": \"Retail Operations Manager\", \"roles\": \"system_user\", \"locale\": \"en\", \"teams\": [{\"name\": \"retailservice\", \"roles\": \"team_user\", \"channels\": [{\"name\": \"storeoperations\", \"roles\": \"channel_user\"}]}]}}\n{\"type\": \"user\", \"user\": {\"username\": \"johnlee\", \"email\": \"j.lee@leesmarket.com\", \"password\": \"secure_password\", \"nickname\": \"John\", \"first_name\": \"John\", \"last_name\": \"Lee\", \"position\": \"Customer Service Representative\", \"roles\": \"system_user\", \"locale\": \"en\", \"teams\": [{\"name\": \"customerservice\", \"roles\": \"team_user\", \"channels\": [{\"name\": \"giftwrapping\", \"roles\": \"channel_user\"}]}]}}\n{\"type\": \"user\", \"user\": {\"username\": \"david.thompson\", \"nickname\": \"david.thompson\", \"first_name\": \"David\", \"last_name\": \"Thompson\", \"roles\": [\"member\"], \"position\": \"Customer Service Manager\", \"email\": \"dthompson@leesmarket.com\", \"locale\": \"en\", \"teams\": [{\"name\": \"customerservice\", \"roles\": \"team_user\", \"channels\": [{\"name\": \"giftwrapping\", \"roles\": \"channel_user\"}]}, {\"name\": \"retailservice\", \"roles\": \"team_user\", \"channels\": [{\"name\": \"storeoperations\", \"roles\": \"channel_user\"}]}]}}\n{\"type\": \"post\", \"post\": {\"team\": \"customerservice\", \"channel\": \"giftwrapping\", \"user\": \"davidthompson\", \"message\": \"Team, we're seeing some great feedback on our new eco-friendly gift wrapping options. Keep up the good work!\", \"created_at\": 1620500000000}}\n{\"type\": \"post\", \"post\": {\"team\": \"retailservice\", \"channel\": \"storeoperations\", \"user\": \"janesmith\", \"message\": \"Good morning everyone, please remember that inventory checks are due by the end of this week. Let's ensure our shelves are well stocked!\", \"created_at\": 1620500005000}}\n{\"type\": \"post\", \"post\": {\"team\": \"customerservice\", \"channel\": \"giftwrapping\", \"user\": \"johnlee\", \"message\": \"Absolutely, David. We've also received a bunch of positive comments on our social media about the new gift wrapping designs. Customers seem to love them.\", \"created_at\": 1620500010000}}\n{\"type\": \"post\", \"post\": {\"team\": \"retailservice\", \"channel\": \"storeoperations\", \"user\": \"janesmith\", \"message\": \"Also, don't forget about the upcoming training session on our new POS system next week. Please make sure you've completed the pre-training module.\", \"created_at\": 1620500015000}}\n{\"type\": \"post\", \"post\": {\"team\": \"customerservice\", \"channel\": \"giftwrapping\", \"user\": \"davidthompson\", \"message\": \"That's great to hear, John. Let's keep the momentum going. Remember, our goal is to provide the best possible service to our customers.\", \"created_at\": 1620500020000}}\n{\"type\": \"post\", \"post\": {\"team\": \"retailservice\", \"channel\": \"storeoperations\", \"user\": \"janesmith\", \"message\": \"Hello team, I've been analyzing the data from our various in-store services for Q4 of 2024. There's some interesting trends that could influence our strategies moving forward.\", \"create_at\": 1672440000000}}\n{\"type\": \"post\", \"post\": {\"team\": \"retailservice\", \"channel\": \"storeoperations\", \"user\": \"janesmith\", \"message\": \"Among the insights, one that stood out was related to our gift wrapping service. We've seen a significant increase in the number of gift wrapping requests. Between October and November 2024, 1,050 gift-wrapping requests were fulfilled across all Lee's Market stores.\", \"create_at\": 1672440500000}}\n{\"type\": \"post\", \"post\": {\"team\": \"retailservice\", \"channel\": \"storeoperations\", \"user\": \"janesmith\", \"message\": \"This shows that our customers appreciate the convenience of gift wrapping services, especially during the holiday season. We should consider investing more resources into this service and marketing it more aggressively during peak times.\", \"create_at\": 1672441000000}}",
+    "chat_setup": {
+        "teams": [
+            {
+                "type": "team",
+                "team": {
+                    "name": "customerservice",
+                    "display_name": "Customer Service",
+                    "type": "O",
+                    "header": "Team dedicated to manage and improve customer service at Lee's Market",
+                    "purpose": "Handle all customer service related activities and issues"
+                }
+            },
+            {
+                "type": "team",
+                "team": {
+                    "name": "retailservice",
+                    "display_name": "Retail Service",
+                    "type": "O",
+                    "header": "Team focused on retail operations and services at Lee's Market",
+                    "purpose": "Manage and optimize retail operations and services"
+                }
+            }
+        ],
+        "channels": [
+            {
+                "type": "channel",
+                "channel": {
+                    "team": "customerservice",
+                    "name": "giftwrapping",
+                    "display_name": "Gift Wrapping",
+                    "type": "O",
+                    "header": "Channel for discussions related to gift wrapping services",
+                    "purpose": "Share insights, issues, and suggestions related to gift wrapping services"
+                }
+            },
+            {
+                "type": "channel",
+                "channel": {
+                    "team": "retailservice",
+                    "name": "storeoperations",
+                    "display_name": "Store Operations",
+                    "type": "O",
+                    "header": "Channel for discussions related to store operations",
+                    "purpose": "Share insights, issues, and updates on store operations"
+                }
+            }
+        ],
+        "users": [
+            {
+                "type": "user",
+                "user": {
+                    "username": "davidthompson",
+                    "email": "d.thompson@leesmarket.com",
+                    "password": "secure_password",
+                    "nickname": "Dave",
+                    "first_name": "David",
+                    "last_name": "Thompson",
+                    "position": "Customer Service Manager",
+                    "roles": "system_user",
+                    "locale": "en",
+                    "teams": [
+                        {
+                            "name": "customerservice",
+                            "roles": "team_user",
+                            "channels": [
+                                {
+                                    "name": "giftwrapping",
+                                    "roles": "channel_user"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "retailservice",
+                            "roles": "team_user",
+                            "channels": [
+                                {
+                                    "name": "storeoperations",
+                                    "roles": "channel_user"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "type": "user",
+                "user": {
+                    "username": "janesmith",
+                    "email": "j.smith@leesmarket.com",
+                    "password": "secure_password",
+                    "nickname": "Jane",
+                    "first_name": "Jane",
+                    "last_name": "Smith",
+                    "position": "Retail Operations Manager",
+                    "roles": "system_user",
+                    "locale": "en",
+                    "teams": [
+                        {
+                            "name": "retailservice",
+                            "roles": "team_user",
+                            "channels": [
+                                {
+                                    "name": "storeoperations",
+                                    "roles": "channel_user"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "type": "user",
+                "user": {
+                    "username": "johnlee",
+                    "email": "j.lee@leesmarket.com",
+                    "password": "secure_password",
+                    "nickname": "John",
+                    "first_name": "John",
+                    "last_name": "Lee",
+                    "position": "Customer Service Representative",
+                    "roles": "system_user",
+                    "locale": "en",
+                    "teams": [
+                        {
+                            "name": "customerservice",
+                            "roles": "team_user",
+                            "channels": [
+                                {
+                                    "name": "giftwrapping",
+                                    "roles": "channel_user"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "type": "user",
+                "user": {
+                    "username": "david.thompson",
+                    "nickname": "david.thompson",
+                    "first_name": "David",
+                    "last_name": "Thompson",
+                    "roles": [
+                        "member"
+                    ],
+                    "position": "Customer Service Manager",
+                    "email": "dthompson@leesmarket.com",
+                    "locale": "en",
+                    "teams": [
+                        {
+                            "name": "customerservice",
+                            "roles": "team_user",
+                            "channels": [
+                                {
+                                    "name": "giftwrapping",
+                                    "roles": "channel_user"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "retailservice",
+                            "roles": "team_user",
+                            "channels": [
+                                {
+                                    "name": "storeoperations",
+                                    "roles": "channel_user"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    "chat_messages": [
+        {
+            "type": "post",
+            "post": {
+                "team": "retailservice",
+                "channel": "storeoperations",
+                "user": "janesmith",
+                "message": "Hello team, I've been analyzing the data from our various in-store services for Q4 of 2024. There's some interesting trends that could influence our strategies moving forward.",
+                "create_at": 1672440000000
+            },
+            "tag": "insight"
+        },
+        {
+            "type": "post",
+            "post": {
+                "team": "retailservice",
+                "channel": "storeoperations",
+                "user": "janesmith",
+                "message": "Among the insights, one that stood out was related to our gift wrapping service. We've seen a significant increase in the number of gift wrapping requests. Between October and November 2024, 1,050 gift-wrapping requests were fulfilled across all Lee's Market stores.",
+                "create_at": 1672440500000
+            },
+            "tag": "insight"
+        },
+        {
+            "type": "post",
+            "post": {
+                "team": "retailservice",
+                "channel": "storeoperations",
+                "user": "janesmith",
+                "message": "This shows that our customers appreciate the convenience of gift wrapping services, especially during the holiday season. We should consider investing more resources into this service and marketing it more aggressively during peak times.",
+                "create_at": 1672441000000
+            },
+            "tag": "insight"
+        },
+        {
+            "type": "post",
+            "post": {
+                "team": "customerservice",
+                "channel": "giftwrapping",
+                "user": "davidthompson",
+                "message": "Team, we're seeing some great feedback on our new eco-friendly gift wrapping options. Keep up the good work!",
+                "created_at": 1620500000000
+            },
+            "tag": "distractor"
+        },
+        {
+            "type": "post",
+            "post": {
+                "team": "retailservice",
+                "channel": "storeoperations",
+                "user": "janesmith",
+                "message": "Good morning everyone, please remember that inventory checks are due by the end of this week. Let's ensure our shelves are well stocked!",
+                "created_at": 1620500005000
+            },
+            "tag": "distractor"
+        },
+        {
+            "type": "post",
+            "post": {
+                "team": "customerservice",
+                "channel": "giftwrapping",
+                "user": "johnlee",
+                "message": "Absolutely, David. We've also received a bunch of positive comments on our social media about the new gift wrapping designs. Customers seem to love them.",
+                "created_at": 1620500010000
+            },
+            "tag": "distractor"
+        },
+        {
+            "type": "post",
+            "post": {
+                "team": "retailservice",
+                "channel": "storeoperations",
+                "user": "janesmith",
+                "message": "Also, don't forget about the upcoming training session on our new POS system next week. Please make sure you've completed the pre-training module.",
+                "created_at": 1620500015000
+            },
+            "tag": "distractor"
+        },
+        {
+            "type": "post",
+            "post": {
+                "team": "customerservice",
+                "channel": "giftwrapping",
+                "user": "davidthompson",
+                "message": "That's great to hear, John. Let's keep the momentum going. Remember, our goal is to provide the best possible service to our customers.",
+                "created_at": 1620500020000
+            },
+            "tag": "distractor"
+        }
+    ],
+    "file_format": "jsonl",
+    "file_path": ".llm_responses/generated_chat_document.jsonl",
+    "qa_type": "distractor",
+    "timestamp": "2025-11-19 02:23",
+    "app": "mattermost"
+}

@@ -1,0 +1,81 @@
+{
+    "file_name": "brand-day-recap",
+    "file_title": "Brand Day Visual Identity Recap",
+    "introduction": "This presentation provides an overview of the visual elements chosen for our recent annual brand day. It highlights the color theme, visual graphics, and overall aesthetic appeal.",
+    "subsections": [
+        {
+            "heading": "Brand Day Visual Graphics Overview",
+            "content": "\u2022 The graphics team used advanced design software for creating visual elements\n\u2022 Our iconography was created in-house and reflects our innovative brand ethos\n\u2022 3D models of our EVs were incorporated to lend a futuristic appeal\n\u2022 We deployed a multi-platform approach, optimizing graphics for web, social media, and event signage\n\u2022 The graphics were tested for visual accessibility, ensuring inclusivity\n\u2022 We collaborated with the marketing department for the creation of promotional materials\n\u2022 The visual graphics were finalized two weeks prior to the brand day",
+            "type": "distractor",
+            "justification": "This content discusses the process of creating visual graphics but doesn't mention the color theme chosen for the event."
+        },
+        {
+            "heading": "Unveiling the Chosen Color Theme",
+            "content": "\u2022 The color theme was unveiled during the second half of the event\n\u2022 The unveiling was accompanied by a product demonstration\n\u2022 The choice was made after considering various factors like brand image, product line, and audience expectations\n\u2022 The creative team worked for over six weeks on the color theme\n\u2022 The color theme choice was kept confidential until the brand day to build anticipation\n\u2022 A teaser campaign was run on social media to engage the audience prior to the unveiling",
+            "type": "distractor",
+            "justification": "This slide explains the process of unveiling the color theme but does not reveal the chosen color."
+        },
+        {
+            "heading": "Brand Day Aesthetics and Audience Response",
+            "content": "\u2022 The event d\u00e9cor was in harmony with the brand's aesthetic values\n\u2022 Audience response was measured using post-event surveys\n\u2022 Over 85% of the attendees rated the aesthetics as excellent\n\u2022 The lighting and music were tailored to enhance the overall aesthetic experience\n\u2022 The aesthetics contributed to a 20% increase in social media engagement\n\u2022 The event's aesthetics were highly appreciated in the post-event press coverage\n\u2022 The aesthetic choices were made by a professional event management company",
+            "type": "distractor",
+            "justification": "This slide focuses on the overall aesthetics and audience response, but doesn't mention the specific color theme."
+        }
+    ],
+    "conclusion": "The chosen color theme has significantly contributed to the event's overall aesthetic appeal, generating a positive response from the audience. Moving forward, we should incorporate this theme into our brand's visual identity to maintain consistency.",
+    "file_format": "pptx",
+    "file_path": ".llm_responses/generated_pptx_presentation.pptx",
+    "qa_type": "distractor",
+    "timestamp": "2025-12-03 00:13",
+    "image_queries": [
+        {
+            "slide_title": "Introduction",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "intentionally_clean",
+            "slide_type": "introduction"
+        },
+        {
+            "slide_title": "Brand Day Visual Graphics Overview",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 7,
+            "total_chars": 542,
+            "probability": 0.25,
+            "theme": "Corporate Blue"
+        },
+        {
+            "slide_title": "Unveiling the Chosen Color Theme",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 6,
+            "total_chars": 466,
+            "probability": 0.25,
+            "theme": "Corporate Blue"
+        },
+        {
+            "slide_title": "Brand Day Aesthetics and Audience Response",
+            "has_image": true,
+            "image_query": "event branding and audience engagement",
+            "generation_method": "strategic_placement",
+            "slide_type": "distractor",
+            "content_length": 7,
+            "total_chars": 482,
+            "forced": false,
+            "theme": "Corporate Blue"
+        },
+        {
+            "slide_title": "Conclusion",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "strategic_clean_conclusion",
+            "slide_type": "conclusion",
+            "theme": "Corporate Blue"
+        }
+    ],
+    "app": "file_system"
+}

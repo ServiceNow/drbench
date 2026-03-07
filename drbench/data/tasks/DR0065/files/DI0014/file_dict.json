@@ -1,0 +1,82 @@
+{
+    "file_name": "training-program-outcome",
+    "file_title": "CRM Analysts Training Program Outcome",
+    "introduction": "This presentation explores the impact of our recent staff training program on CRM Analysts' efficiency. We'll specifically focus on the changes observed in April 2024.",
+    "subsections": [
+        {
+            "heading": "Overview of April 2024 Staff Training Program",
+            "content": "\u2022 Developed in partnership with leading automotive technology firms\n\u2022 Program focused on fostering a deep understanding of the electric vehicle market\n\u2022 Included comprehensive modules on customer relationship management tools and software\n\u2022 Involved cross-departmental collaboration for comprehensive learning\n\u2022 Aimed to enhance both soft and technical skills of the CRM analysts\n\u2022 Made use of advanced learning methodologies and included periodic assessments",
+            "type": "distractor",
+            "justification": "The content provides information about the training program structure and partners, but does not address how it impacted productivity."
+        },
+        {
+            "heading": "Time to Full Productivity: Pre and Post Training",
+            "content": "\u2022 Measures the time taken by CRM analysts to reach peak productivity\n\u2022 Includes qualitative and quantitative methods of analysis\n\u2022 Can be influenced by factors such as employee experience and technical understanding\n\u2022 Important metric for assessing the efficacy of new training initiatives\n\u2022 Can show the impact of training on overall business operations\n\u2022 However, it's crucial to consider other factors like employee morale and work environment",
+            "type": "distractor",
+            "justification": "This content discusses the concept of 'time to full productivity' but doesn't provide the specific impact of the April 2024 training."
+        },
+        {
+            "heading": "Quality of CRM Analysts' Outputs Post-Training",
+            "content": "\u2022 Quality was assessed through metrics like customer satisfaction and issue resolution time\n\u2022 The training had a positive impact on the analysts' ability to handle complex customer queries\n\u2022 Analysts demonstrated a better understanding of Elexion's product offerings\n\u2022 The training resulted in a more uniform quality of work among the team\n\u2022 There was an improvement in the analysts' ability to upsell and cross-sell products",
+            "type": "distractor",
+            "justification": "The content discusses improvements in quality but does not provide information on how training reduced time to full productivity."
+        }
+    ],
+    "conclusion": "The staff training program has significantly reduced the time to full productivity for our CRM analysts. Going forward, we should consider implementing similar programs for other roles to increase overall efficiency.",
+    "file_format": "pptx",
+    "file_path": ".llm_responses/generated_pptx_presentation.pptx",
+    "qa_type": "distractor",
+    "timestamp": "2025-11-20 02:24",
+    "image_queries": [
+        {
+            "slide_title": "Introduction",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "intentionally_clean",
+            "slide_type": "introduction"
+        },
+        {
+            "slide_title": "Overview of April 2024 Staff Training Program",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "failed",
+            "slide_type": "distractor",
+            "content_length": 6,
+            "total_chars": 442,
+            "error": "'str' object has no attribute 'choices'",
+            "theme": "Corporate Blue"
+        },
+        {
+            "slide_title": "Time to Full Productivity: Pre and Post Training",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 6,
+            "total_chars": 429,
+            "probability": 0.25,
+            "theme": "Corporate Blue"
+        },
+        {
+            "slide_title": "Quality of CRM Analysts' Outputs Post-Training",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 5,
+            "total_chars": 411,
+            "probability": 0.25,
+            "theme": "Corporate Blue"
+        },
+        {
+            "slide_title": "Conclusion",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "conclusion_failed",
+            "slide_type": "conclusion",
+            "error": "'str' object has no attribute 'choices'",
+            "theme": "Corporate Blue"
+        }
+    ],
+    "app": "file_system"
+}

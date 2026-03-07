@@ -1,0 +1,81 @@
+{
+    "file_name": "email-customer-support-analysis",
+    "file_title": "Email Engagement and Customer Support Analysis",
+    "introduction": "As part of our efforts to improve customer experience, we've analysed our email query responses. This presentation will explore the proportion of email queries leading to customer service contact versus those resulting in abandonment.",
+    "subsections": [
+        {
+            "heading": "Email Query Volume: Monthly Overview",
+            "content": "\u2022 In Q4 2024, our average monthly email query volume was approximately 6,700\n\u2022 December saw the highest volume with over 7,500 queries\n\u2022 The lowest volume was in October with about 6,000 queries\n\u2022 MediConn's main website was the primary source of email queries\n\u2022 Mobile app queries accounted for 30% of total volume\n\u2022 Peak query times align with standard business hours, 9 am - 5 pm ET\n\u2022 We observed a 15% increase in email query volume compared to Q3 2024",
+            "type": "distractor",
+            "justification": "This slide provides general information about email query volume but doesn't address the proportion resulting in customer service contact or abandonment."
+        },
+        {
+            "heading": "Customer Service Engagement: Post-Email Query",
+            "content": "\u2022 The average response time to email queries was 45 minutes\n\u2022 Customer satisfaction scores averaged 4.2 out of 5 post-email engagement\n\u2022 70% of queries were resolved within the first interaction\n\u2022 The most common post-query engagement channels were phone calls and live chat\n\u2022 Our customer service team operates on a 24/7 schedule to ensure prompt responses\n\u2022 The majority of queries were related to technical issues and account management\n\u2022 Our customer service representatives undergo regular training to handle diverse queries",
+            "type": "distractor",
+            "justification": "This slide discusses customer service engagement but does not indicate the proportion of email queries that lead to customer service contact or abandonment."
+        },
+        {
+            "heading": "Understanding Customer Query Abandonment Rates",
+            "content": "\u2022 Abandoned queries are typically due to complex procedures or lack of immediate responses\n\u2022 We are implementing AI chatbots to assist with immediate query responses\n\u2022 Our team is working on simplifying procedures to reduce abandonment rates\n\u2022 Regular customer feedback is collected to understand reasons for abandonment\n\u2022 High query abandonment rates occur during peak business hours\n\u2022 We are considering expanding our customer service team to handle peak hour volumes",
+            "type": "distractor",
+            "justification": "This slide talks about query abandonment rates and potential solutions, but it doesn't provide the proportion of email queries that result in customer service contact or abandonment."
+        }
+    ],
+    "conclusion": "Our analysis shows a significant portion of email queries leading to customer service contact. There is a need to streamline our email response system to reduce query abandonment and improve customer service.",
+    "file_format": "pptx",
+    "file_path": ".llm_responses/generated_pptx_presentation.pptx",
+    "qa_type": "distractor",
+    "timestamp": "2025-12-02 17:28",
+    "image_queries": [
+        {
+            "slide_title": "Introduction",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "intentionally_clean",
+            "slide_type": "introduction"
+        },
+        {
+            "slide_title": "Email Query Volume: Monthly Overview",
+            "has_image": true,
+            "image_query": "monthly email statistics graph",
+            "generation_method": "strategic_placement",
+            "slide_type": "distractor",
+            "content_length": 7,
+            "total_chars": 436,
+            "forced": false,
+            "theme": "Corporate Blue"
+        },
+        {
+            "slide_title": "Customer Service Engagement: Post-Email Query",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 7,
+            "total_chars": 509,
+            "probability": 0.25,
+            "theme": "Corporate Blue"
+        },
+        {
+            "slide_title": "Understanding Customer Query Abandonment Rates",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 6,
+            "total_chars": 452,
+            "probability": 0.25,
+            "theme": "Corporate Blue"
+        },
+        {
+            "slide_title": "Conclusion",
+            "has_image": true,
+            "image_query": "customer service interaction graph",
+            "generation_method": "strategic_conclusion",
+            "slide_type": "conclusion",
+            "theme": "Corporate Blue"
+        }
+    ],
+    "app": "file_system"
+}

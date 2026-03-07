@@ -1,0 +1,13 @@
+Company,Year,System,Response_Time
+Name of the company the insight is about,Year the insight data is relevant to,Specific system in the company the insight is about,The response time of the system in seconds
+Company F,2023,System T,2.3
+Company G,2022,System S,2.4
+Company D,2024,System V,2.2
+Elexion Automotive,2025,salesforce CRM,3.3
+Company E,2025,System U,2.7
+Elexion Automotive,2024,salesforce CRM,3
+Elexion Automotive,2023,salesforce CRM,2.8
+Company H,2021,System R,2.6
+Company A,2020,System X,2.1
+Company C,2022,System Z,1.9
+Company B,2021,System Y,2.5

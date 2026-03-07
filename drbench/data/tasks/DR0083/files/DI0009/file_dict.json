@@ -1,0 +1,81 @@
+{
+    "file_name": "maintenance-efficiency-review",
+    "file_title": "Maintenance Efficiency Review: Plant Operations",
+    "introduction": "In our continuous endeavor to enhance our operational efficiency, we will be reviewing the volume of plant maintenance work orders that have been closed. This will provide insights into our maintenance schedules and plant downtime management.",
+    "subsections": [
+        {
+            "heading": "Overview of Maintenance Work Orders",
+            "content": "\u2022 Maintenance work orders are primarily generated through our computerized maintenance management system (CMMS)\n\u2022 In 2020, Elexion Automotive implemented a predictive maintenance model for increased efficiency\n\u2022 Maintenance work orders are categorized into preventive, corrective, and breakdown types\n\u2022 The preventive maintenance work orders contribute significantly to minimizing breakdowns\n\u2022 Our maintenance team consists of 150 staff spanning across all our production facilities\n\u2022 CMMS has helped to streamline the process and increased the rate of work order closures",
+            "type": "distractor",
+            "justification": "The content provides an overview of the maintenance work order system and processes, and does not answer the DR Question about the number of closed plant maintenance work orders."
+        },
+        {
+            "heading": "Completed Plant Maintenance Work Orders",
+            "content": "\u2022 Work orders are considered completed when all the assigned tasks have been finished and verified\n\u2022 Maintenance work order completion has a direct impact on the overall plant productivity\n\u2022 In 2021, the average time to complete a work order was reduced by 15% compared to 2020\n\u2022 The completion rate of preventive maintenance work orders has significantly improved plant efficiency\n\u2022 CMMS provides real-time tracking of the work order status, aiding in quicker completion\n\u2022 We have noticed a decrease in breakdown maintenance work orders due to our predictive maintenance approach",
+            "type": "distractor",
+            "justification": "This slide discusses the completion process and impacts of maintenance work orders, but does not provide the specific number of completed work orders, thereby not answering the DR Question."
+        },
+        {
+            "heading": "Impact on Production Efficiency",
+            "content": "\u2022 Effective completion of maintenance work orders has resulted in a 20% increase in production efficiency\n\u2022 Our predictive maintenance model has reduced the occurrence of unplanned downtime by 30% in the last year\n\u2022 An efficient maintenance work order system is crucial for achieving optimal utilization of resources\n\u2022 The production team and maintenance team collaborate closely to ensure minimal disruption\n\u2022 The preventive maintenance strategy has significantly reduced the frequency of equipment breakdowns\n\u2022 With improved maintenance practices, the overall equipment efficiency (OEE) has seen an upward trend",
+            "type": "distractor",
+            "justification": "The content focuses on the impact of maintenance work orders on production efficiency, not the specific number of plant maintenance work orders closed, hence doesn't answer the DR Question."
+        }
+    ],
+    "conclusion": "The number of closed maintenance work orders indicates our ability to manage plant downtime effectively. Moving forward, we need to streamline our maintenance planning to further minimize plant downtime and enhance production efficiency.",
+    "file_format": "pptx",
+    "file_path": ".llm_responses/generated_pptx_presentation.pptx",
+    "qa_type": "distractor",
+    "timestamp": "2025-12-03 00:05",
+    "image_queries": [
+        {
+            "slide_title": "Introduction",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "intentionally_clean",
+            "slide_type": "introduction"
+        },
+        {
+            "slide_title": "Overview of Maintenance Work Orders",
+            "has_image": true,
+            "image_query": "maintenance work order management system",
+            "generation_method": "strategic_placement",
+            "slide_type": "distractor",
+            "content_length": 6,
+            "total_chars": 555,
+            "forced": false,
+            "theme": "Modern Orange"
+        },
+        {
+            "slide_title": "Completed Plant Maintenance Work Orders",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 6,
+            "total_chars": 563,
+            "probability": 0.25,
+            "theme": "Modern Orange"
+        },
+        {
+            "slide_title": "Impact on Production Efficiency",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 6,
+            "total_chars": 596,
+            "probability": 0.25,
+            "theme": "Modern Orange"
+        },
+        {
+            "slide_title": "Conclusion",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "strategic_clean_conclusion",
+            "slide_type": "conclusion",
+            "theme": "Modern Orange"
+        }
+    ],
+    "app": "file_system"
+}

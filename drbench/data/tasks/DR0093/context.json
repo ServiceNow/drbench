@@ -1,0 +1,28 @@
+{
+    "company_info": {
+        "name": "MediConn Solutions (Vancouver, Canada, $50M - $100M, 250 employees)",
+        "industry": "Virtual/Remote Healthcare",
+        "description": "A company in the Virtual/Remote Healthcare industry",
+        "size": "medium",
+        "employee_count": "100-500",
+        "annual_revenue": "Not specified"
+    },
+    "persona": {
+        "name": "Dr. Priya Patel",
+        "first_name": "Dr.",
+        "last_name": "Patel",
+        "username": "dr..patel",
+        "email": "dr..patel@mediconnsolutions.com",
+        "role": "Director of Regulatory Affairs",
+        "role_description": "Manages relationships with healthcare regulatory bodies, oversees compliance strategy for telehealth services, and leads cross-functional compliance initiatives"
+    },
+    "url": {
+        "url": "https://www.segalco.ca/consulting-insights/how-the-government-of-canadas-interpretation-of-the-canada-health-act-could-impact-virtual-care",
+        "domain": "Compliance",
+        "industry": "virtual/remote healthcare",
+        "example_dr_questions": [],
+        "insights": [],
+        "date": "2025-11-21"
+    },
+    "timestamp": "2025-10-24 00:00"
+}

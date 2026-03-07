@@ -1,0 +1,10 @@
+{
+    "insight_id": "DI0029",
+    "qa_type": "distractor",
+    "qa_index": 29,
+    "specific_question": "As of January 2024, what is the format of documentation that patients received immediately after their virtual consultation ended?",
+    "answer": "As of January 2024, patients received an automated email in HTML format with appointment date and provider name, itemized billing breakdown, next steps, and follow-up instructions. This information was sent through a 2-8 page email after the full visit summary was manually processed.",
+    "justification": "",
+    "timestamp": "2025-12-02 15:57",
+    "dr_question": "According to an article published on TechTarget.com in 2024, excellent patient communication is critical for a successful customer service department. How can MediConn Solutions improve patient communication in order to reduce service calls into Q12025?"
+}

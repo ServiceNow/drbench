@@ -1,0 +1,81 @@
+{
+    "file_name": "energy-cost-analysis",
+    "file_title": "Analyzing Refrigeration Energy Expenditure 2025",
+    "introduction": "This presentation provides an overview of our refrigeration energy costs per store for the year 2025. The data will aid us in forecasting future energy expenditure and potential cost-saving measures.",
+    "subsections": [
+        {
+            "heading": "Overview of Lee's Market Energy Consumption",
+            "content": "\u2022 Lee's Market implemented an energy management system in 2017\n\u2022 20% of the company's total energy usage is dedicated to lighting and electrical appliances\n\u2022 The company's energy usage has been steadily decreasing since 2017 due to efficiency improvements\n\u2022 In 2019, Lee's Market launched an initiative to further reduce energy consumption by 15% by 2021\n\u2022 The energy management system provides detailed reports on energy consumption by department and store location",
+            "type": "distractor",
+            "justification": "This slide provides general information about the company's energy consumption but does not specify refrigeration costs in 2025."
+        },
+        {
+            "heading": "Detailed Analysis of Refrigeration Energy Cost",
+            "content": "\u2022 The refrigeration system at Lee's Market accounts for 40% of the total energy consumption\n\u2022 In 2020, the company installed energy-efficient refrigeration units in all its stores\n\u2022 The company has a dedicated team to monitor and maintain the refrigeration units\n\u2022 Lee's Market has a partnership with a leading refrigeration system manufacturer\n\u2022 The company frequently conducts audits to identify energy waste in its refrigeration systems",
+            "type": "distractor",
+            "justification": "While this slide discusses the company's refrigeration system, it does not provide the specific energy cost in 2025."
+        },
+        {
+            "heading": "Comparison with Industry Benchmarks",
+            "content": "\u2022 Lee's Market aims to be below the industry average in terms of energy consumption\n\u2022 In 2019, the company's energy consumption was 10% lower than the industry average\n\u2022 The company has received several awards for its commitment to energy efficiency\n\u2022 Lee's Market benchmarks its energy performance against other leading retail companies\n\u2022 The retail industry's average energy cost per square foot has been steadily increasing over the past 5 years",
+            "type": "distractor",
+            "justification": "This slide provides general comparisons with industry benchmarks but does not provide specific refrigeration energy cost figures for 2025."
+        }
+    ],
+    "conclusion": "Our refrigeration energy cost has been under control and compares favorably with industry standards. Going forward, we should continue to monitor and identify opportunities for further energy efficiency improvements.",
+    "file_format": "pptx",
+    "file_path": ".llm_responses/generated_pptx_presentation.pptx",
+    "qa_type": "distractor",
+    "timestamp": "2025-11-20 18:57",
+    "image_queries": [
+        {
+            "slide_title": "Introduction",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "intentionally_clean",
+            "slide_type": "introduction"
+        },
+        {
+            "slide_title": "Overview of Lee's Market Energy Consumption",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "failed",
+            "slide_type": "distractor",
+            "content_length": 5,
+            "total_chars": 452,
+            "error": "'str' object has no attribute 'choices'",
+            "theme": "Bold Crimson"
+        },
+        {
+            "slide_title": "Detailed Analysis of Refrigeration Energy Cost",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 5,
+            "total_chars": 425,
+            "probability": 0.25,
+            "theme": "Bold Crimson"
+        },
+        {
+            "slide_title": "Comparison with Industry Benchmarks",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 5,
+            "total_chars": 434,
+            "probability": 0.25,
+            "theme": "Bold Crimson"
+        },
+        {
+            "slide_title": "Conclusion",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "strategic_clean_conclusion",
+            "slide_type": "conclusion",
+            "theme": "Bold Crimson"
+        }
+    ],
+    "app": "file_system"
+}

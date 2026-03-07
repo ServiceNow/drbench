@@ -1,0 +1,232 @@
+{
+    "file_name": "roundcube_email_20251202_145038",
+    "content": "{\"type\": \"user\", \"username\": \"rachel.lee\", \"first_name\": \"Rachel\", \"last_name\": \"Lee\", \"email\": \"rachel.lee@mediconn.ca\", \"password\": \"rachel_password123\"}\n{\"type\": \"user\", \"username\": \"michael.johnson\", \"first_name\": \"Michael\", \"last_name\": \"Johnson\", \"email\": \"michael.johnson@mediconn.ca\", \"password\": \"michael_password123\"}\n{\"type\": \"user\", \"username\": \"jessica.taylor\", \"first_name\": \"Jessica\", \"last_name\": \"Taylor\", \"email\": \"jessica.taylor@mediconn.ca\", \"password\": \"jessica_password123\"}\n{\"type\": \"user\", \"username\": \"kevin.martin\", \"first_name\": \"Kevin\", \"last_name\": \"Martin\", \"email\": \"kevin.martin@mediconn.ca\", \"password\": \"kevin_password123\"}\n{\"type\": \"user\", \"username\": \"sarah.thompson\", \"first_name\": \"Sarah\", \"last_name\": \"Thompson\", \"email\": \"sarah.thompson@mediconn.ca\", \"password\": \"sarah_password123\"}\n{\"type\": \"user\", \"username\": \"david.white\", \"first_name\": \"David\", \"last_name\": \"White\", \"email\": \"david.white@mediconn.ca\", \"password\": \"david_password123\"}\n{\"type\": \"user\", \"username\": \"lisa.williams\", \"first_name\": \"Lisa\", \"last_name\": \"Williams\", \"email\": \"lisa.williams@mediconn.ca\", \"password\": \"lisa_password123\"}\n{\"type\": \"user\", \"username\": \"john.brown\", \"first_name\": \"John\", \"last_name\": \"Brown\", \"email\": \"john.brown@mediconn.ca\", \"password\": \"john_password123\"}\n{\"type\": \"email\", \"id\": \"email_001\", \"subject\": \"Quarterly Customer Service Department Meeting\", \"from\": \"rachel.lee@mediconn.ca\", \"from_name\": \"Rachel Lee\", \"to\": [\"michael.johnson@mediconn.ca\", \"jessica.taylor@mediconn.ca\", \"kevin.martin@mediconn.ca\", \"sarah.thompson@mediconn.ca\"], \"cc\": [\"david.white@mediconn.ca\"], \"date\": \"2024-12-01 09:00:00\", \"body\": \"Dear team, our quarterly department meeting is scheduled for December 15th at 2 PM. Please prepare updates on your respective areas. Looking forward to discussing our progress and future plans.\", \"folder\": \"sent\", \"read\": true, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_002\", \"subject\": \"Upcoming Industry Conference\", \"from\": \"michael.johnson@mediconn.ca\", \"from_name\": \"Michael Johnson\", \"to\": [\"rachel.lee@mediconn.ca\"], \"cc\": [], \"date\": \"2024-12-05 10:30:00\", \"body\": \"Rachel, the annual virtual healthcare conference is coming up in January. This is a great networking and learning opportunity. Should we consider attending as a team?\", \"folder\": \"sent\", \"read\": false, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_003\", \"subject\": \"Customer Satisfaction Survey Results\", \"from\": \"jessica.taylor@mediconn.ca\", \"from_name\": \"Jessica Taylor\", \"to\": [\"rachel.lee@mediconn.ca\"], \"cc\": [], \"date\": \"2024-12-10 13:15:00\", \"body\": \"Rachel, our recent survey shows a customer satisfaction rate of 85%. The main areas of concern were wait times and availability of appointments. Any thoughts on how we could improve these aspects?\", \"folder\": \"sent\", \"read\": true, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_004\", \"subject\": \"2025 Budget Planning\", \"from\": \"kevin.martin@mediconn.ca\", \"from_name\": \"Kevin Martin\", \"to\": [\"rachel.lee@mediconn.ca\"], \"cc\": [\"david.white@mediconn.ca\"], \"date\": \"2024-12-15 16:00:00\", \"body\": \"Rachel, I've started planning for our 2025 budget. Can we schedule a meeting to discuss resource allocation and potential areas of investment for the customer service department?\", \"folder\": \"sent\", \"read\": false, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_005\", \"subject\": \"New Internal Communication Platform\", \"from\": \"sarah.thompson@mediconn.ca\", \"from_name\": \"Sarah Thompson\", \"to\": [\"rachel.lee@mediconn.ca\"], \"cc\": [], \"date\": \"2024-12-20 09:30:00\", \"body\": \"Rachel, our new internal communication platform is now live. This should greatly improve collaboration and information sharing within our department. I'm scheduling a training session for next week.\", \"folder\": \"sent\", \"read\": true, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_001\", \"subject\": \"Customer Service Call Analysis Q3 2024\", \"from\": \"michael.johnson@mediconn.ca\", \"from_name\": \"Michael Johnson\", \"to\": [\"rachel.lee@mediconn.ca\"], \"cc\": [\"jessica.taylor@mediconn.ca\", \"kevin.martin@mediconn.ca\", \"sarah.thompson@mediconn.ca\"], \"date\": \"2024-10-05 09:30:00\", \"body\": \"Hi Rachel,\\n\\nI've finished the analysis of the customer service calls for Q3 2024. We noticed a clear age distribution among the patients who contacted us. Here's the breakdown:\\n\\n- Ages 25-34: 28%\\n- Ages 35-49: 35%\\n- Ages 50-64: 22%\\n- Ages 65 and above: 15%\\n\\nI believe this data will be helpful in our efforts to reduce service calls and improve patient communication. Let's discuss this in our next department meeting.\\n\\nBest,\\nMichael Johnson\", \"folder\": \"inbox\", \"read\": true, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_002\", \"subject\": \"Re: Customer Service Call Analysis Q3 2024\", \"from\": \"rachel.lee@mediconn.ca\", \"from_name\": \"Rachel Lee\", \"to\": [\"michael.johnson@mediconn.ca\"], \"cc\": [\"jessica.taylor@mediconn.ca\", \"kevin.martin@mediconn.ca\", \"sarah.thompson@mediconn.ca\"], \"date\": \"2024-10-05 10:15:00\", \"body\": \"Hi Michael,\\n\\nThank you for the breakdown. This data indeed provides us with a clear picture of our patient demographics. It's significant to see that the majority of our service calls are coming from the 25-49 age group. \\n\\nLet's brainstorm ways to improve our communication methods that cater to these specific age groups. We can discuss this further in our next meeting.\\n\\nBest,\\nRachel\", \"folder\": \"inbox\", \"read\": true, \"attachments\": []}\n{\"type\": \"email\", \"id\": \"email_003\", \"subject\": \"Re: Customer Service Call Analysis Q3 2024\", \"from\": \"jessica.taylor@mediconn.ca\", \"from_name\": \"Jessica Taylor\", \"to\": [\"rachel.lee@mediconn.ca\", \"michael.johnson@mediconn.ca\"], \"cc\": [\"kevin.martin@mediconn.ca\", \"sarah.thompson@mediconn.ca\"], \"date\": \"2024-10-05 11:00:00\", \"body\": \"Hi Team,\\n\\nGreat insights, Michael. And agreed, Rachel. We can definitely tailor our communication methods to resonate more with these age groups. This could potentially reduce the volume of service calls and improve overall patient satisfaction.\\n\\nLooking forward to discussing this further in our next meeting.\\n\\nBest,\\nJessica\", \"folder\": \"inbox\", \"read\": true, \"attachments\": []}",
+    "email_setup": [
+        {
+            "type": "user",
+            "username": "rachel.lee",
+            "first_name": "Rachel",
+            "last_name": "Lee",
+            "email": "rachel.lee@mediconn.ca",
+            "password": "rachel_password123"
+        },
+        {
+            "type": "user",
+            "username": "michael.johnson",
+            "first_name": "Michael",
+            "last_name": "Johnson",
+            "email": "michael.johnson@mediconn.ca",
+            "password": "michael_password123"
+        },
+        {
+            "type": "user",
+            "username": "jessica.taylor",
+            "first_name": "Jessica",
+            "last_name": "Taylor",
+            "email": "jessica.taylor@mediconn.ca",
+            "password": "jessica_password123"
+        },
+        {
+            "type": "user",
+            "username": "kevin.martin",
+            "first_name": "Kevin",
+            "last_name": "Martin",
+            "email": "kevin.martin@mediconn.ca",
+            "password": "kevin_password123"
+        },
+        {
+            "type": "user",
+            "username": "sarah.thompson",
+            "first_name": "Sarah",
+            "last_name": "Thompson",
+            "email": "sarah.thompson@mediconn.ca",
+            "password": "sarah_password123"
+        },
+        {
+            "type": "user",
+            "username": "david.white",
+            "first_name": "David",
+            "last_name": "White",
+            "email": "david.white@mediconn.ca",
+            "password": "david_password123"
+        },
+        {
+            "type": "user",
+            "username": "lisa.williams",
+            "first_name": "Lisa",
+            "last_name": "Williams",
+            "email": "lisa.williams@mediconn.ca",
+            "password": "lisa_password123"
+        },
+        {
+            "type": "user",
+            "username": "john.brown",
+            "first_name": "John",
+            "last_name": "Brown",
+            "email": "john.brown@mediconn.ca",
+            "password": "john_password123"
+        }
+    ],
+    "email_messages": [
+        {
+            "type": "email",
+            "id": "email_001",
+            "subject": "Quarterly Customer Service Department Meeting",
+            "from": "rachel.lee@mediconn.ca",
+            "from_name": "Rachel Lee",
+            "to": [
+                "michael.johnson@mediconn.ca",
+                "jessica.taylor@mediconn.ca",
+                "kevin.martin@mediconn.ca",
+                "sarah.thompson@mediconn.ca"
+            ],
+            "cc": [
+                "david.white@mediconn.ca"
+            ],
+            "date": "2024-12-01 09:00:00",
+            "body": "Dear team, our quarterly department meeting is scheduled for December 15th at 2 PM. Please prepare updates on your respective areas. Looking forward to discussing our progress and future plans.",
+            "folder": "sent",
+            "read": true,
+            "attachments": [],
+            "tag": "distractor"
+        },
+        {
+            "type": "email",
+            "id": "email_002",
+            "subject": "Upcoming Industry Conference",
+            "from": "michael.johnson@mediconn.ca",
+            "from_name": "Michael Johnson",
+            "to": [
+                "rachel.lee@mediconn.ca"
+            ],
+            "cc": [],
+            "date": "2024-12-05 10:30:00",
+            "body": "Rachel, the annual virtual healthcare conference is coming up in January. This is a great networking and learning opportunity. Should we consider attending as a team?",
+            "folder": "sent",
+            "read": false,
+            "attachments": [],
+            "tag": "distractor"
+        },
+        {
+            "type": "email",
+            "id": "email_003",
+            "subject": "Customer Satisfaction Survey Results",
+            "from": "jessica.taylor@mediconn.ca",
+            "from_name": "Jessica Taylor",
+            "to": [
+                "rachel.lee@mediconn.ca"
+            ],
+            "cc": [],
+            "date": "2024-12-10 13:15:00",
+            "body": "Rachel, our recent survey shows a customer satisfaction rate of 85%. The main areas of concern were wait times and availability of appointments. Any thoughts on how we could improve these aspects?",
+            "folder": "sent",
+            "read": true,
+            "attachments": [],
+            "tag": "distractor"
+        },
+        {
+            "type": "email",
+            "id": "email_004",
+            "subject": "2025 Budget Planning",
+            "from": "kevin.martin@mediconn.ca",
+            "from_name": "Kevin Martin",
+            "to": [
+                "rachel.lee@mediconn.ca"
+            ],
+            "cc": [
+                "david.white@mediconn.ca"
+            ],
+            "date": "2024-12-15 16:00:00",
+            "body": "Rachel, I've started planning for our 2025 budget. Can we schedule a meeting to discuss resource allocation and potential areas of investment for the customer service department?",
+            "folder": "sent",
+            "read": false,
+            "attachments": [],
+            "tag": "distractor"
+        },
+        {
+            "type": "email",
+            "id": "email_005",
+            "subject": "New Internal Communication Platform",
+            "from": "sarah.thompson@mediconn.ca",
+            "from_name": "Sarah Thompson",
+            "to": [
+                "rachel.lee@mediconn.ca"
+            ],
+            "cc": [],
+            "date": "2024-12-20 09:30:00",
+            "body": "Rachel, our new internal communication platform is now live. This should greatly improve collaboration and information sharing within our department. I'm scheduling a training session for next week.",
+            "folder": "sent",
+            "read": true,
+            "attachments": [],
+            "tag": "distractor"
+        },
+        {
+            "type": "email",
+            "id": "email_001",
+            "subject": "Customer Service Call Analysis Q3 2024",
+            "from": "michael.johnson@mediconn.ca",
+            "from_name": "Michael Johnson",
+            "to": [
+                "rachel.lee@mediconn.ca"
+            ],
+            "cc": [
+                "jessica.taylor@mediconn.ca",
+                "kevin.martin@mediconn.ca",
+                "sarah.thompson@mediconn.ca"
+            ],
+            "date": "2024-10-05 09:30:00",
+            "body": "Hi Rachel,\n\nI've finished the analysis of the customer service calls for Q3 2024. We noticed a clear age distribution among the patients who contacted us. Here's the breakdown:\n\n- Ages 25-34: 28%\n- Ages 35-49: 35%\n- Ages 50-64: 22%\n- Ages 65 and above: 15%\n\nI believe this data will be helpful in our efforts to reduce service calls and improve patient communication. Let's discuss this in our next department meeting.\n\nBest,\nMichael Johnson",
+            "folder": "inbox",
+            "read": true,
+            "attachments": [],
+            "tag": "insight"
+        },
+        {
+            "type": "email",
+            "id": "email_002",
+            "subject": "Re: Customer Service Call Analysis Q3 2024",
+            "from": "rachel.lee@mediconn.ca",
+            "from_name": "Rachel Lee",
+            "to": [
+                "michael.johnson@mediconn.ca"
+            ],
+            "cc": [
+                "jessica.taylor@mediconn.ca",
+                "kevin.martin@mediconn.ca",
+                "sarah.thompson@mediconn.ca"
+            ],
+            "date": "2024-10-05 10:15:00",
+            "body": "Hi Michael,\n\nThank you for the breakdown. This data indeed provides us with a clear picture of our patient demographics. It's significant to see that the majority of our service calls are coming from the 25-49 age group. \n\nLet's brainstorm ways to improve our communication methods that cater to these specific age groups. We can discuss this further in our next meeting.\n\nBest,\nRachel",
+            "folder": "inbox",
+            "read": true,
+            "attachments": [],
+            "tag": "insight"
+        },
+        {
+            "type": "email",
+            "id": "email_003",
+            "subject": "Re: Customer Service Call Analysis Q3 2024",
+            "from": "jessica.taylor@mediconn.ca",
+            "from_name": "Jessica Taylor",
+            "to": [
+                "rachel.lee@mediconn.ca",
+                "michael.johnson@mediconn.ca"
+            ],
+            "cc": [
+                "kevin.martin@mediconn.ca",
+                "sarah.thompson@mediconn.ca"
+            ],
+            "date": "2024-10-05 11:00:00",
+            "body": "Hi Team,\n\nGreat insights, Michael. And agreed, Rachel. We can definitely tailor our communication methods to resonate more with these age groups. This could potentially reduce the volume of service calls and improve overall patient satisfaction.\n\nLooking forward to discussing this further in our next meeting.\n\nBest,\nJessica",
+            "folder": "inbox",
+            "read": true,
+            "attachments": [],
+            "tag": "insight"
+        }
+    ],
+    "file_format": "jsonl",
+    "file_path": ".llm_responses/generated_email_document.jsonl",
+    "qa_type": "distractor",
+    "timestamp": "2025-12-02 15:50",
+    "app": "email"
+}

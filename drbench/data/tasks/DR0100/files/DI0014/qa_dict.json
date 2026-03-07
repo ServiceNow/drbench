@@ -1,0 +1,10 @@
+{
+    "insight_id": "DI0014",
+    "qa_type": "distractor",
+    "qa_index": 14,
+    "specific_question": "How many hours did the IT team spend on internal documentation updates in 2025?",
+    "answer": "The IT team spent 1,200 hours updating internal documentation.",
+    "justification": "Internal documentation helps knowledge sharing but does not influence strategic implementation priorities for virtual care systems.",
+    "timestamp": "2025-11-21 13:34",
+    "dr_question": "Which IT modernization efforts should MediConn emphasize to stay aligned with national virtual care standards and shared digital health infrastructure by 2026?"
+}

@@ -1,0 +1,10 @@
+{
+    "insight_id": "DI0005",
+    "qa_type": "distractor",
+    "qa_index": 5,
+    "specific_question": "What percentage of MediConn Solutions' customer service interactions resulted in escalations to senior management in 2024?",
+    "answer": "In 2024, 4.2% of customer service interactions required escalation to Rachel or senior management. The most common escalation reasons were billing disputes (38%), privacy concerns (27%), and complaints about physician quality (22%). Booking-related escalations represented only 13% of total escalations.",
+    "justification": "",
+    "timestamp": "2025-11-19 23:52",
+    "dr_question": "The article published on TechTarget in January 2024 cited the MGMA's findings, showing that patient communication technology addresses digital front door issues like poor booking systems. How might MediConn Solutions enhance patient access to virtual consultations and prescription management services in Q1 2026 to reduce wait times and boost satisfaction and retention?"
+}

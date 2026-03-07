@@ -1,0 +1,10 @@
+{
+    "insight_id": "DI0026",
+    "qa_type": "distractor",
+    "qa_index": 26,
+    "specific_question": "In 2025, what is the error rate for customer service representatives when manually processing bookings for customers?",
+    "answer": "When representatives manually complete bookings on behalf of customers, the error rate for 2025 is 2.1%, with errors primarily involving incorrect time zone selection or appointment type mismatches.",
+    "justification": "",
+    "timestamp": "2025-12-02 17:27",
+    "dr_question": "A 2022 patient experience report found that six in 10 patients identified poor online booking tools and convoluted call centers as barriers to making appointments. When individual patients or corporate employees struggle to book appointments on MediConn Solutions' platform, how can I determine whether the root cause is poot booking tool design or convoluted customer support processes?"
+}

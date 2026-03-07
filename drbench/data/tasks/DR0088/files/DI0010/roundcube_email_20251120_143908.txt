@@ -1,0 +1,192 @@
+================================================================================
+ROUNDCUBE EMAIL EXPORT
+================================================================================
+
+USERS:
+----------------------------------------
+• jordan.lee
+  Name: Jordan Lee
+  Email: jordan.lee@mediconnsolutions.com
+
+• emily.hayes
+  Name: Emily Hayes
+  Email: emily.hayes@mediconnsolutions.com
+
+• mark.taylor
+  Name: Mark Taylor
+  Email: mark.taylor@mediconnsolutions.com
+
+• susan.jones
+  Name: Susan Jones
+  Email: susan.jones@mediconnsolutions.com
+
+• linda.brown
+  Name: Linda Brown
+  Email: linda.brown@mediconnsolutions.com
+
+• david.garcia
+  Name: David Garcia
+  Email: david.garcia@mediconnsolutions.com
+
+• karen.miller
+  Name: Karen Miller
+  Email: karen.miller@mediconnsolutions.com
+
+• michael.wilson
+  Name: Michael Wilson
+  Email: michael.wilson@mediconnsolutions.com
+
+EMAILS:
+================================================================================
+Email ID: email_001
+Date: 2023-10-01 09:00:00
+From: Jordan Lee <jordan.lee@mediconnsolutions.com>
+To: emily.hayes@mediconnsolutions.com, mark.taylor@mediconnsolutions.com, susan.jones@mediconnsolutions.com, linda.brown@mediconnsolutions.com, david.garcia@mediconnsolutions.com, karen.miller@mediconnsolutions.com, michael.wilson@mediconnsolutions.com
+Subject: Monthly Team Meeting
+Folder: inbox | Status: Read
+
+Message Body:
+----------------------------------------
+Good morning team,
+
+Just a reminder that our monthly team meeting is scheduled for this Friday at 10 am. Please prepare your progress reports and any topics you'd like to discuss.
+
+Best regards,
+Jordan Lee
+============================================================
+
+Email ID: email_002
+Date: 2023-10-02 11:30:00
+From: Karen Miller <karen.miller@mediconnsolutions.com>
+To: jordan.lee@mediconnsolutions.com
+Subject: New Employee Onboarding Process
+Folder: inbox | Status: Read
+
+Message Body:
+----------------------------------------
+Hi Jordan,
+
+As we discussed last week, we're updating our employee onboarding process. I'd like your input on the cybersecurity training section.
+
+Best,
+Karen
+============================================================
+
+Email ID: email_003
+Date: 2023-10-03 13:30:00
+From: Mark Taylor <mark.taylor@mediconnsolutions.com>
+To: jordan.lee@mediconnsolutions.com
+CC: emily.hayes@mediconnsolutions.com
+Subject: Annual Budget Planning
+Folder: inbox | Status: Read
+
+Message Body:
+----------------------------------------
+Hi Jordan,
+
+Our annual budget planning meeting is scheduled for next Tuesday at 2 pm. Please prepare your budget proposal for the Cybersecurity Department.
+
+Thanks,
+Mark
+============================================================
+
+Email ID: email_004
+Date: 2023-10-04 15:00:00
+From: David Garcia <david.garcia@mediconnsolutions.com>
+To: jordan.lee@mediconnsolutions.com
+CC: susan.jones@mediconnsolutions.com
+Subject: Customer Satisfaction Survey
+Folder: inbox | Status: Read
+
+Message Body:
+----------------------------------------
+Hi Jordan,
+
+I'd like your feedback on the customer satisfaction survey we're planning to send out next month. Let's discuss this during our team meeting.
+
+Best,
+David
+============================================================
+
+Email ID: email_005
+Date: 2023-10-05 16:30:00
+From: Jordan Lee <jordan.lee@mediconnsolutions.com>
+To: linda.brown@mediconnsolutions.com
+Subject: Upcoming Industry Event
+Folder: inbox | Status: Read
+
+Message Body:
+----------------------------------------
+Hi Linda,
+
+A cybersecurity event is coming up next month. I believe it would be beneficial for us to attend. Let's discuss this during our next 1:1.
+
+Best,
+Jordan
+============================================================
+
+Email ID: email_001
+Date: 2026-01-15 09:30:00
+From: Jordan Lee <jordan.lee@mediconnsolutions.com>
+To: mark.taylor@mediconnsolutions.com, emily.hayes@mediconnsolutions.com, susan.jones@mediconnsolutions.com
+CC: linda.brown@mediconnsolutions.com, david.garcia@mediconnsolutions.com
+Subject: Planning for AI anomaly detection tool integration
+Folder: sent | Status: Read
+
+Message Body:
+----------------------------------------
+Hi team,
+
+As you may know, we are planning to integrate a new AI anomaly detection tool into our existing infrastructure by Q3 2026. This is in response to Canada’s new call for proposals to strengthen the country’s cyber resilience and address evolving cyber threats under the 2025 Cyber Security Cooperation Program (CSCP).
+
+We need to ensure that the integration does not disrupt our critical healthcare services. Therefore, it is essential that we plan carefully and consider all potential impacts. I would appreciate your input on this.
+
+Best,
+Jordan Lee
+============================================================
+
+Email ID: email_002
+Date: 2026-01-15 10:45:00
+From: Emily Hayes <emily.hayes@mediconnsolutions.com>
+To: jordan.lee@mediconnsolutions.com, mark.taylor@mediconnsolutions.com, susan.jones@mediconnsolutions.com
+CC: linda.brown@mediconnsolutions.com, david.garcia@mediconnsolutions.com
+Subject: Re: Planning for AI anomaly detection tool integration
+Folder: inbox | Status: Read
+
+Message Body:
+----------------------------------------
+Hi Jordan and team,
+
+I agree, careful planning is crucial to ensure the smooth integration of the new AI tool. It's also important that we maintain transparency with our patients during this process.
+
+Specifically, we need to inform them about any potential changes to our system, especially those that might affect their privacy. Currently, approximately 22% of our registered patients have opted into our promotional email communications, so we have a direct line of communication with them.
+
+We should leverage this to keep our patients informed about any updates related to the AI tool integration.
+
+Best,
+Emily Hayes
+============================================================
+
+Email ID: email_003
+Date: 2026-01-15 11:00:00
+From: Mark Taylor <mark.taylor@mediconnsolutions.com>
+To: jordan.lee@mediconnsolutions.com, emily.hayes@mediconnsolutions.com, susan.jones@mediconnsolutions.com
+CC: linda.brown@mediconnsolutions.com, david.garcia@mediconnsolutions.com
+Subject: Re: Planning for AI anomaly detection tool integration
+Folder: inbox | Status: Read
+
+Message Body:
+----------------------------------------
+Hi Jordan and Emily,
+
+I concur. We need to use all available channels to keep our patients informed about the AI tool integration. As Emily pointed out, if 22% of our patient base is reachable through promotional emails, we should certainly use this medium effectively.
+
+We should also consider other communication channels for the remaining patient base. After all, keeping them informed about the changes is not just a courtesy, but a responsibility too.
+
+Best regards,
+Mark Taylor
+============================================================
+
+================================================================================
+END OF EMAIL EXPORT
+================================================================================

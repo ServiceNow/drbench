@@ -1,0 +1,21 @@
+# AI in ADAS Testing and Compliance
+
+## Introduction
+
+As Elexion Automotive continues to innovate in electric vehicle technology, one key area of focus is the utilization of artificial intelligence (AI) in our advanced driver-assistance systems (ADAS). The following document presents an exploration into the application of AI in testing our ADAS, while ensuring adherence to our strict compliance certifications. This aligns with our commitment to both technological advancement and sustainability, as we aim to deliver superior, zero-emission transportation solutions.
+
+## AI in ADAS: Opportunities and Challenges
+
+As we continue to advance our ADAS technology through AI, it is crucial to acknowledge the compliance challenges we face. Based on our July 2025 internal data, there is a small portion of our fleet, specifically around 4%, that still needs to undergo our comprehensive compliance certifications. This relatively small percentage indicates a strong foundation for compliance, but also underlines the importance of ensuring every vehicle meets the rigorous standards we strive for. As we work towards our Q2 2026 goals, the focus will be on utilizing AI to enhance our testing capabilities, while ensuring we maintain full cross-border and safety compliance.
+
+## Industry Compliance Benchmarks for ADAS
+
+Compliance with industry standards is essential for the successful deployment of ADAS. For instance, the ISO 26262 functional safety standard sets the benchmark for automotive safety-related systems. Additionally, the SAE J3016 standard defines levels of driving automation, which is a critical aspect of ADAS.
+
+## Proposed AI Implementation and Testing Strategies
+
+Implementing AI in ADAS will require a robust testing strategy. This can include the use of simulation environments to test AI models and the incorporation of real-world data in these tests. Additionally, a phased implementation approach can be adopted to gradually introduce AI features and assess their performance.
+
+## Conclusion
+
+The integration of AI into ADAS testing presents significant opportunities for Elexion, but also poses certain challenges. To ensure our solutions remain regulatory compliant, we must align our AI testing strategies with industry benchmarks. The proposed AI implementation and testing strategies outlined in this document are designed to meet these requirements, paving the way for further technological advancements in our electric vehicle offerings.

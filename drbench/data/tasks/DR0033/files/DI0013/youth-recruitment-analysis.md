@@ -1,0 +1,21 @@
+# Q2 2025 Youth Recruitment Impact Analysis
+
+## Introduction
+
+This document provides an analysis of the impact of Jason Wong's youth recruitment campaign during Q2 2025. It highlights the demographic changes in our cashier workforce, with a specific focus on the under-21 age group. The report also presents an overview of the recruitment campaign's effectiveness and potential areas for future improvement.
+
+## Overview of Jason Wong's Youth Recruitment Campaign
+
+Jason Wong's youth recruitment campaign, launched in 2024, aimed to infuse new energy into Lee's Market. The campaign involved partnerships with local schools and colleges to promote part-time job opportunities for students. This initiative also included training programs to familiarize the new hires with our products, services, and the retail industry at large.
+
+## Demographic Shifts in Lee's Market Cashier Workforce
+
+Over the years, Lee's Market has seen significant demographic shifts in its cashier workforce. For instance, between 2018 and 2020, we observed a 15% increase in female cashiers. Moreover, the number of cashiers with a bachelor's degree or higher increased by 8% in 2023, reflecting our efforts to attract a well-educated workforce.
+
+## Potential Areas for Improvement in Youth Recruitment
+
+While our youth recruitment initiatives have been successful, there is always room for improvement. Future campaigns could benefit from expanding partnerships with more educational institutions, leveraging social media platforms for promotion, and offering internships that provide students with hands-on experience in retail management.
+
+## Conclusion
+
+The report illustrates how Jason Wong's youth recruitment campaign has influenced the age demographics of our cashier workforce in Q2 2025. While the campaign succeeded in attracting younger individuals, there are areas for improvement to maximize its effectiveness. Future recruitment efforts should consider these findings to optimize strategies and attract a diverse workforce. Additional research may also be conducted to understand how this shift in demographics has impacted other areas of the business.

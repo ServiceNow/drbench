@@ -1,0 +1,57 @@
+{
+    "company_info": {
+        "name": "Elexion Automotive",
+        "industry": "Automotive -- Electric Vehicles",
+        "size": "Enterprise",
+        "founded_year": 2010,
+        "headquarters": "Austin, Texas, USA",
+        "description": "Elexion Automotive designs and manufactures premium and mid-range electric vehicles tailored for the North American market. With a focus on sustainability, user-centric technology, and cross-border compliance, Elexion aims to accelerate the transition to zero-emission transportation.",
+        "key_products_services": [
+            "Electric vehicles",
+            "Plug-in hybrid electric vehicles",
+            "Home charging stations"
+        ],
+        "target_markets": [
+            "Mid-income families in North America",
+            "Provincial and municipal governments"
+        ],
+        "annual_revenue": "$350M - $500M",
+        "employee_count": 1900,
+        "compliance_certifications": [
+            "EPA Greenhouse Gas Emissions Compliance",
+            "Motor Vehicle Safety Oversight Program",
+            "CARB Zero-Emission Vehicle (ZEV) Program",
+            "ISO 26262 – Road Vehicles Functional Safety"
+        ],
+        "market_position": "Elexion is an emerging force in the North American EV market, offering affordable and high-performance electric vehicles with regulatory-first design and localized production."
+    },
+    "persona": {
+        "role": "Customer Relationship Manager",
+        "department": "Sales and Marketing",
+        "name": "Emily Lee",
+        "first_name": "Emily",
+        "last_name": "Lee",
+        "email": "emilylee@elexionautomotive.com",
+        "seniority": "Mid",
+        "responsibilities": "Manages customer interactions, develops and implements customer retention strategies, and analyzes customer data to improve sales and service delivery.",
+        "id": "MNG0001",
+        "domain": "crm",
+        "justification": "As a Customer Relationship Manager, Emily needs to stay up-to-date on the latest CRM trends and best practices to effectively manage customer interactions and improve sales and service delivery for Elexion Automotive's electric vehicles.",
+        "username": "emily.lee"
+    },
+    "url": {
+        "url": "https://www.techtarget.com/searchcustomerexperience/news/252526031/Salesforce-Industries-adds-Automotive-Cloud-CRM",
+        "domain": "CRM",
+        "industry": "automotive -- electric vehicles",
+        "example_dr_questions": [
+            "Which CRM technology in the automotive industry became available in October 2022 that enables automakers to track individual customers' profiles across the entire sales lifecycle?",
+            "How can an automaker maintain a relationship with its customer and continue to generate revenue after the initial vehicle sale?"
+        ],
+        "insights": [
+            "According to the TechTarget article, Salesforce Industries released Automotive Cloud in October 2022, a CRM platform that includes Driver 360 to build individual customer profiles and track them through service, commerce, and marketing activities.",
+            "According to the TechTarget article published in October 2022, a key feature of Salesforce Industries' Automotive Cloud platform is the 'Vehicle Console', which maintains a vehicle's history, such as its repairs, odometer readings, and other stats."
+        ],
+        "date": "2025-12-02"
+    },
+    "timestamp": "2025-10-30 00:00"
+}

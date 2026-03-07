@@ -1,0 +1,10 @@
+{
+    "insight_id": "DI0008",
+    "qa_type": "distractor",
+    "qa_index": 8,
+    "specific_question": "Has Elexion Automotive established a target date for finalizing the vehicle software interface design?",
+    "answer": "Yes, Elexion Automotive established March 31, 2025, as the target date for finalizing the software design, allowing 6 months for validation testing and production line integration before full production begins in October 2025.",
+    "justification": "",
+    "timestamp": "2025-11-20 03:19",
+    "dr_question": "How can Elexion Automotive's control interface design strategy for 2026 EV models prioritize physical buttons and switches by Q3 2025 to reduce the 30% higher control/display problem rate for EVs and achieve PP100 scores below the 266 EV average?"
+}

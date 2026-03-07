@@ -1,0 +1,10 @@
+{
+    "insight_id": "DI0002",
+    "qa_type": "distractor",
+    "qa_index": 2,
+    "specific_question": "Which online payment integration experienced the most transaction errors on Lee\u2019s Market\u2019s website in August 2025?",
+    "answer": "Internal tracking shows that PayPal transactions failed 1,275 times in August 2025 due to intermittent API connection issues affecting urban U.S. stores.",
+    "justification": "",
+    "timestamp": "2025-11-19 01:48",
+    "dr_question": "Lee's Market is getting a high number of service desk emails across our stores, so how could we reduce the number of these emails by Q2 2026?"
+}

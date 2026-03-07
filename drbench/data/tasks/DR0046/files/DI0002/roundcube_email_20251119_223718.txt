@@ -1,0 +1,141 @@
+================================================================================
+ROUNDCUBE EMAIL EXPORT
+================================================================================
+
+USERS:
+----------------------------------------
+• emily.patel
+  Name: Emily Patel
+  Email: emily.patel@mediconnsolutions.com
+
+• james.harrison
+  Name: James Harrison
+  Email: james.harrison@mediconnsolutions.com
+
+• linda.garcia
+  Name: Linda Garcia
+  Email: linda.garcia@mediconnsolutions.com
+
+• mike.johnson
+  Name: Mike Johnson
+  Email: mike.johnson@mediconnsolutions.com
+
+• susan.martin
+  Name: Susan Martin
+  Email: susan.martin@mediconnsolutions.com
+
+• robert.miller
+  Name: Robert Miller
+  Email: robert.miller@mediconnsolutions.com
+
+EMAILS:
+================================================================================
+Email ID: email_001
+Date: 2023-02-17 08:30:00
+From: Emily Patel <emily.patel@mediconnsolutions.com>
+To: james.harrison@mediconnsolutions.com, susan.martin@mediconnsolutions.com, robert.miller@mediconnsolutions.com
+Subject: Weekly IT Operations Team Meeting
+Folder: sent | Status: Read
+
+Message Body:
+----------------------------------------
+Good Morning Team,
+
+Just a reminder that our weekly IT Operations team meeting is scheduled for today at 2 PM. We will be reviewing this week's incident reports and discussing potential areas for improvement. Please come prepared with any updates or concerns you may have.
+
+Best,
+Emily
+============================================================
+
+Email ID: email_002
+Date: 2023-02-18 14:45:00
+From: Susan Martin <susan.martin@mediconnsolutions.com>
+To: emily.patel@mediconnsolutions.com, james.harrison@mediconnsolutions.com, robert.miller@mediconnsolutions.com
+Subject: New Compliance Training Module
+Folder: sent | Status: Read
+
+Message Body:
+----------------------------------------
+Dear Colleagues,
+
+Please be informed, there is a new compliance training module on the 'Security of Patient Data' that needs to be completed by all IT staff. The deadline for completion is March 1st. Let's ensure we continue to uphold the high standards of data security at MediConn Solutions. Thank you all for your cooperation.
+
+Best,
+Susan
+============================================================
+
+Email ID: email_003
+Date: 2023-02-20 10:10:00
+From: James Harrison <james.harrison@mediconnsolutions.com>
+To: emily.patel@mediconnsolutions.com
+CC: robert.miller@mediconnsolutions.com
+Subject: System Maintenance Schedule
+Folder: sent | Status: Read
+
+Message Body:
+----------------------------------------
+Hi Emily,
+
+I've scheduled a system maintenance for our virtual healthcare platform next week. The maintenance window will be from 2 AM - 6 AM on February 27th. I will send an email to all staff members informing them about the planned downtime. Please let me know if you have any concerns.
+
+Best,
+James
+============================================================
+
+Email ID: email_001
+Date: 2026-01-15 10:30:00
+From: Emily Patel <emily.patel@mediconnsolutions.com>
+To: james.harrison@mediconnsolutions.com, linda.garcia@mediconnsolutions.com, mike.johnson@mediconnsolutions.com
+CC: susan.martin@mediconnsolutions.com, robert.miller@mediconnsolutions.com
+Subject: Efficiency Improvement through AI-ITSM Implementation
+Folder: sent | Status: Read
+
+Message Body:
+----------------------------------------
+Team,
+
+As we continue to explore ways to increase the efficiency and effectiveness of our IT Service Desk, I've been researching the potential benefits of incorporating AI-ITSM into our operations. I'd like to schedule a meeting next week to discuss this in more detail. Please make sure to review the recent AI applications in IT amongst healthcare providers, especially the insights from our cybersecurity convention in February 2025.
+
+Best,
+Emily Patel
+============================================================
+
+Email ID: email_002
+Date: 2026-01-15 12:45:00
+From: Linda Garcia <linda.garcia@mediconnsolutions.com>
+To: emily.patel@mediconnsolutions.com, james.harrison@mediconnsolutions.com, mike.johnson@mediconnsolutions.com
+CC: susan.martin@mediconnsolutions.com, robert.miller@mediconnsolutions.com
+Subject: Re: Efficiency Improvement through AI-ITSM Implementation
+Folder: inbox | Status: Read
+
+Message Body:
+----------------------------------------
+Emily,
+
+That sounds like a great idea. Leveraging AI in ITSM can indeed increase the efficiency of our IT Service Desk. I remember the cybersecurity convention from last year where AI use in IT amongst healthcare providers was a primary topic. The insights from that event will be beneficial for our discussion.
+
+Best,
+Linda Garcia
+============================================================
+
+Email ID: email_003
+Date: 2026-01-15 13:15:00
+From: Mike Johnson <mike.johnson@mediconnsolutions.com>
+To: emily.patel@mediconnsolutions.com, james.harrison@mediconnsolutions.com, linda.garcia@mediconnsolutions.com
+CC: susan.martin@mediconnsolutions.com, robert.miller@mediconnsolutions.com
+Subject: Re: Efficiency Improvement through AI-ITSM Implementation
+Folder: inbox | Status: Read
+
+Message Body:
+----------------------------------------
+Emily and Team,
+
+I concur with Linda. AI-ITSM could be a game-changer for our IT operations. I also recollect the last year's cybersecurity convention where we discussed the potential of AI in healthcare IT. The insights we gained there will indeed be useful for our upcoming meeting. Looking forward to discussing this further.
+
+Best,
+Mike Johnson
+============================================================
+
+================================================================================
+END OF EMAIL EXPORT
+================================================================================

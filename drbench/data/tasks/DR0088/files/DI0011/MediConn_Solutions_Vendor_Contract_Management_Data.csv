@@ -1,0 +1,12 @@
+Vendor_Name,Contract_Count,Contract_Type,Contract_Affect
+The name of the vendor that MediConn has a contract with.,The number of contracts MediConn manages with this vendor annually.,"The type of product or service the vendor provides, such as 'telehealth equipment' or 'cloud services'.","The department or operation the vendor contract affects in the company, such as 'procurement' or 'cybersecurity'."
+Vendor C,20,Pharmaceuticals,Pharmacy
+Vendor F,12,Consulting Services,Management
+Vendor H,10,Cloud Services,IT Infrastructure
+Vendor B,10,IT Support,Cybersecurity
+Vendor E,8,Logistics Services,Warehouse Management
+Vendor I,10,Telehealth Equipment,Patient Services
+Vendor G,10,Office Supplies,Administration
+Vendor A,15,Medical Supplies,Logistics
+Vendor D,5,Telecommunications,Operations
+MediConn,90,"Telehealth Equipment, Cloud Services",Procurement

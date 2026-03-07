@@ -1,0 +1,81 @@
+{
+    "file_name": "patient-appointment-optimization",
+    "file_title": "Optimizing Patient Appointment Experience",
+    "introduction": "As we strive to improve our virtual healthcare services, understanding the barriers to patient appointment booking is crucial. This presentation will analyze potential issues and suggest improvements.",
+    "subsections": [
+        {
+            "heading": "Understanding Patient Booking Barriers",
+            "content": "\u2022 In Q4 2024, a significant 42% of customer service calls were due to patients having difficulty identifying the appropriate appointment type.\n\u2022 Another 28% of calls were made by patients experiencing issues with the system not recognizing their health card or coverage information.\n\u2022 General confusion navigating the platform accounted for the remaining 30% of the booking-related calls.\n\u2022 These findings highlight the need for redesigning our online booking tool to reduce the complexity of appointment type selection.\n\u2022 Consideration should also be given to improving the system's ability to validate health cards and coverage details to reduce call volume.\n\u2022 Simplifying the overall navigation of the platform could also potentially alleviate the volume of calls related to general confusion.\n\u2022 Addressing these issues could lead to an improved patient experience, potentially enhancing customer satisfaction and retention rates.",
+            "type": "insight",
+            "justification": "This content provides detailed analysis of the booking-related issues faced by patients, helping to identify whether the problem lies with the booking tool design or customer service processes."
+        },
+        {
+            "heading": "Evaluating the Online Booking Tool",
+            "content": "\u2022 Our current online booking tool was developed in-house and launched in Q2 2022\n\u2022 Since its launch, the tool has processed over 200,000 bookings\n\u2022 The tool supports cross-platform use, including mobile and desktop\n\u2022 Approximately 15% of bookings are cancelled due to technical glitches\n\u2022 We have a dedicated technical team responsible for maintaining and updating the tool\n\u2022 Our competitors' tools offer features like instant confirmation and rescheduling, which are currently not available in our tool\n\u2022 The tool's user interface is due for a design overhaul in Q3 2024",
+            "type": "distractor",
+            "justification": "This slide focuses on the specifics of the booking tool, yet doesn't determine if it's the cause of the booking difficulties."
+        },
+        {
+            "heading": "Assessing Customer Support Processes",
+            "content": "\u2022 Our customer support operates 24/7, handling an average of 500 calls daily\n\u2022 The department has a staff turnover rate of 15% annually\n\u2022 Approximately 35% of calls received are related to booking issues\n\u2022 Our team uses the CRM system to track and resolve customer complaints\n\u2022 We have implemented a training program for new hires to familiarize them with our systems and processes\n\u2022 Our average call handling time is around 10 minutes\n\u2022 We have plans to introduce AI chatbots to assist in handling common customer queries",
+            "type": "distractor",
+            "justification": "The slide discusses high-level customer support processes without identifying if they are the cause of the booking challenges."
+        }
+    ],
+    "conclusion": "By thoroughly analyzing our booking tool and customer support processes, we can pinpoint and eliminate barriers to patient appointment booking. Let's focus on these areas for immediate improvement to enhance patient experience and satisfaction.",
+    "file_format": "pptx",
+    "file_path": ".llm_responses/generated_pptx_presentation.pptx",
+    "qa_type": "insight",
+    "timestamp": "2025-12-02 17:16",
+    "image_queries": [
+        {
+            "slide_title": "Introduction",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "intentionally_clean",
+            "slide_type": "introduction"
+        },
+        {
+            "slide_title": "Understanding Patient Booking Barriers",
+            "has_image": true,
+            "image_query": "patient booking challenges infographic",
+            "generation_method": "strategic_placement",
+            "slide_type": "insight",
+            "content_length": 7,
+            "total_chars": 913,
+            "forced": false,
+            "theme": "Classic Navy"
+        },
+        {
+            "slide_title": "Evaluating the Online Booking Tool",
+            "has_image": true,
+            "image_query": "online booking tool evaluation",
+            "generation_method": "strategic_placement",
+            "slide_type": "distractor",
+            "content_length": 7,
+            "total_chars": 551,
+            "forced": false,
+            "theme": "Classic Navy"
+        },
+        {
+            "slide_title": "Assessing Customer Support Processes",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 7,
+            "total_chars": 502,
+            "probability": 0.25,
+            "theme": "Classic Navy"
+        },
+        {
+            "slide_title": "Conclusion",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "strategic_clean_conclusion",
+            "slide_type": "conclusion",
+            "theme": "Classic Navy"
+        }
+    ],
+    "app": "nextcloud"
+}

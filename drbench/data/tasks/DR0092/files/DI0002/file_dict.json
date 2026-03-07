@@ -1,0 +1,81 @@
+{
+    "file_name": "virtual-consultation-analysis",
+    "file_title": "Virtual Consultation Efficiency Analysis FY2025",
+    "introduction": "In this presentation, we will examine the average consultation duration for virtual patient sessions in Fiscal Year 2025. The objective is to understand how well we are utilizing our resources and identify areas for improvement.",
+    "subsections": [
+        {
+            "heading": "Overview of Virtual Patient Consultations",
+            "content": "\u2022 MediConn Solutions has been providing virtual patient consultations since 2018\n\u2022 The company uses a combination of video conferencing and secure messaging for consultations\n\u2022 All consultants are licensed healthcare professionals with specialized training in telehealth\n\u2022 MediConn's proprietary software ensures HIPAA compliance during all consultations\n\u2022 The company has seen a significant increase in virtual consultations since the COVID-19 pandemic\n\u2022 MediConn Solutions currently provides the service to over 2000 patients",
+            "type": "distractor",
+            "justification": "This content provides a high-level overview of virtual patient consultations, but does not delve into the average consultation duration per session in FY2025"
+        },
+        {
+            "heading": "Average Duration of Consultations in FY2025",
+            "content": "\u2022 MediConn Solutions has been recording consultation duration data since 2018\n\u2022 The company uses this data to inform staffing and scheduling decisions\n\u2022 However, the average consultation duration varies significantly based on the patient's health condition\n\u2022 The company also monitors the time spent on post-consultation paperwork and follow-up tasks\n\u2022 MediConn Solutions is continually seeking ways to improve the efficiency of virtual consultations\n\u2022 The company uses machine learning algorithms to predict future consultation durations",
+            "type": "distractor",
+            "justification": "While this content discusses the average duration of consultations, it does not provide the specific average duration for FY2025"
+        },
+        {
+            "heading": "Implications and Opportunities for Future Efficiency",
+            "content": "\u2022 Improving efficiency in virtual consultations is a key strategic objective for MediConn Solutions\n\u2022 The company is investing in AI and machine learning technologies to enhance consultation efficiency\n\u2022 MediConn Solutions is also exploring partnerships with other telehealth providers to share best practices\n\u2022 Efficient consultations can help reduce patient waiting times and improve patient satisfaction\n\u2022 MediConn Solutions has set a goal to reduce consultation duration by 10% over the next five years\n\u2022 The company is also considering implementing a patient self-service portal to streamline pre-consultation processes",
+            "type": "distractor",
+            "justification": "This content discusses future efficiency improvements but does not provide information on the average consultation duration per virtual patient session in FY2025"
+        }
+    ],
+    "conclusion": "Our analysis shows that there are areas where we can improve the efficiency of our virtual consultations. The next steps will involve developing strategies to reduce consultation durations without compromising patient care.",
+    "file_format": "pptx",
+    "file_path": ".llm_responses/generated_pptx_presentation.pptx",
+    "qa_type": "distractor",
+    "timestamp": "2025-11-20 16:42",
+    "image_queries": [
+        {
+            "slide_title": "Introduction",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "intentionally_clean",
+            "slide_type": "introduction"
+        },
+        {
+            "slide_title": "Overview of Virtual Patient Consultations",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "failed",
+            "slide_type": "distractor",
+            "content_length": 6,
+            "total_chars": 510,
+            "error": "'str' object has no attribute 'choices'",
+            "theme": "Professional Green"
+        },
+        {
+            "slide_title": "Average Duration of Consultations in FY2025",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 6,
+            "total_chars": 521,
+            "probability": 0.25,
+            "theme": "Professional Green"
+        },
+        {
+            "slide_title": "Implications and Opportunities for Future Efficiency",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 6,
+            "total_chars": 607,
+            "probability": 0.25,
+            "theme": "Professional Green"
+        },
+        {
+            "slide_title": "Conclusion",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "strategic_clean_conclusion",
+            "slide_type": "conclusion",
+            "theme": "Professional Green"
+        }
+    ],
+    "app": "file_system"
+}

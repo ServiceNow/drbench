@@ -1,0 +1,10 @@
+{
+    "insight_id": "IN0005",
+    "qa_type": "insight",
+    "qa_index": 5,
+    "specific_question": "What has been the correlation (r-value) between MediConn's provincial compliance scores and regional revenue growth rates from 2022?",
+    "answer": "The correlation (r-value) between MediConn's provincial compliance scores and regional revenue growth rates from 2022 is approximately equal to 0.67.",
+    "justification": "This data is relevant because it highlights the correlation between MediConn's provincial compliance scores and regional revenue growth rates, thus quantifying whether higher compliance consistency directly improves revenue stability by demonstrating the value of regulatory alignment. MediConn can use this data to analyze the quarterly financial and compliance data per province for correlating compliance success with revenue trends.",
+    "timestamp": "2025-11-20 17:59",
+    "dr_question": "In response to the federal government\u2019s 2025 interpretation of the Canada Health Act, what should MediConn Solutions do to address compliance risks from legal precedents or provincial variations by Q4 2028?"
+}

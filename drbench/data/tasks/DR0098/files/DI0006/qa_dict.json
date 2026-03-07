@@ -1,0 +1,10 @@
+{
+    "insight_id": "DI0006",
+    "qa_type": "distractor",
+    "qa_index": 6,
+    "specific_question": "What investment was made by Lee's Market to complete a system upgrade across 35 stores in 2025?",
+    "answer": "Lee's Market invested $6.5 million for a POS system upgrade across all 35 stores in 2025.",
+    "justification": "This data is not relevant because checkout technology improves transaction speed, but does not directly capture the impact of tariffs on the product-level sales performance in the Canadian retail sector. Lee's Market cannot use this data to gauge which product categories are experiencing tariff-related sales declines or adjust promotion planning. This data is related to transaction infrastructure without any impact on product sales performance under economic pressure.",
+    "timestamp": "2025-11-21 13:03",
+    "dr_question": "Given the drop in Canadian retail sales brought on by US tariffs in 2025, what insights should Lee\u2019s Market derive from product-level sales trends across tariff-exposed and tariff-insulated categories to update sales forecasts by 2027?"
+}

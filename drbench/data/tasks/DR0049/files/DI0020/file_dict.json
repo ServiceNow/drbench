@@ -1,0 +1,81 @@
+{
+    "file_name": "customer-service-enhancement",
+    "file_title": "Customer Service Enhancement: Conflict Resolution Focus",
+    "introduction": "As our company continues to expand, the quality of our customer service becomes increasingly vital. This presentation will explore our current status in terms of conflict resolution certification among our representatives.",
+    "subsections": [
+        {
+            "heading": "Current Customer Service Capabilities",
+            "content": "\u2022 In 2020, we rolled out a new customer relationship management (CRM) system\n\u2022 By 2024, we increased our customer service team by 50%\n\u2022 Our bilingual customer service representatives make up 30% of the team\n\u2022 Last year, we reduced average call wait time by 10%\n\u2022 We use AI-powered chatbots to handle basic customer inquiries\n\u2022 Our team is trained to handle sensitive health-related inquiries, adhering to privacy laws and regulations",
+            "type": "distractor",
+            "justification": "While this content outlines the team's growth and capabilities, it doesn't provide information on conflict resolution certification. It focuses on historical data and operational details."
+        },
+        {
+            "heading": "Conflict Resolution Certification Status",
+            "content": "\u2022 Our training program includes modules on conflict resolution\n\u2022 We partnered with a renowned training institute in 2023 for this program\n\u2022 The program also covers topics like customer de-escalation and empathy\n\u2022 In 2024, we implemented an annual refresher course for this training\n\u2022 We have seen a 20% decrease in customer complaints since rolling out this program\n\u2022 The training program has been highly rated by our customer service team",
+            "type": "distractor",
+            "justification": "This content describes the training program but doesn't provide data on the number of customer service representatives who have received conflict resolution certification. It focuses on procedural information and general trends."
+        },
+        {
+            "heading": "Implications for Customer Experience",
+            "content": "\u2022 Our Net Promoter Score (NPS) increased by 15% in 2024\n\u2022 We have noticed a positive correlation between customer satisfaction and the use of our digital platforms\n\u2022 In 2023, we implemented a feedback system to improve our services\n\u2022 We have seen a decrease in customer churn since implementing our training programs\n\u2022 Our customer retention rate has improved by 25% over the last two years\n\u2022 Our customer service team's first-call resolution rate is 80%",
+            "type": "distractor",
+            "justification": "This content discusses the impact of various factors on customer experience, but not the specific impact of conflict resolution certification. It uses a mix of related but non-essential metrics and trends."
+        }
+    ],
+    "conclusion": "Investing in conflict resolution certification for our customer service representatives is critical for better customer experience. We will explore strategies to increase the percentage of certified representatives in our customer service team.",
+    "file_format": "pptx",
+    "file_path": ".llm_responses/generated_pptx_presentation.pptx",
+    "qa_type": "distractor",
+    "timestamp": "2025-12-02 17:25",
+    "image_queries": [
+        {
+            "slide_title": "Introduction",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "intentionally_clean",
+            "slide_type": "introduction"
+        },
+        {
+            "slide_title": "Current Customer Service Capabilities",
+            "has_image": true,
+            "image_query": "modern customer service technology",
+            "generation_method": "strategic_placement",
+            "slide_type": "distractor",
+            "content_length": 6,
+            "total_chars": 416,
+            "forced": false,
+            "theme": "Classic Navy"
+        },
+        {
+            "slide_title": "Conflict Resolution Certification Status",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 6,
+            "total_chars": 422,
+            "probability": 0.25,
+            "theme": "Classic Navy"
+        },
+        {
+            "slide_title": "Implications for Customer Experience",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 6,
+            "total_chars": 437,
+            "probability": 0.25,
+            "theme": "Classic Navy"
+        },
+        {
+            "slide_title": "Conclusion",
+            "has_image": true,
+            "image_query": "customer service training session",
+            "generation_method": "strategic_conclusion",
+            "slide_type": "conclusion",
+            "theme": "Classic Navy"
+        }
+    ],
+    "app": "file_system"
+}

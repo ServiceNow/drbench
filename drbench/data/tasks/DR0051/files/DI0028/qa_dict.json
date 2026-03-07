@@ -1,0 +1,10 @@
+{
+    "insight_id": "DI0028",
+    "qa_type": "distractor",
+    "qa_index": 28,
+    "specific_question": "What was the MediConn Solutions' customer service team's first-call resolution rate for technical support issues in 2024?",
+    "answer": "The first-call resolution rate for technical support issues was 76% in 2024. Common unresolved issues requiring escalation included password reset problems (34%), video connection failures (28%), and payment processing errors (22%). The resolution rate improved from 71% in Q1 to 79% in Q4.",
+    "justification": "",
+    "timestamp": "2025-11-20 00:01",
+    "dr_question": "The article published on TechTarget in January 2024 cited the MGMA's findings, showing that patient communication technology addresses digital front door issues like poor booking systems. How might MediConn Solutions enhance patient access to virtual consultations and prescription management services in Q1 2026 to reduce wait times and boost satisfaction and retention?"
+}

@@ -1,0 +1,82 @@
+{
+    "file_name": "wellness-revenue-analysis",
+    "file_title": "Corporate Wellness Revenue Analysis FY2025",
+    "introduction": "Today, we will be exploring the significance of corporate wellness contracts to our overall revenue in FY2025. This will help us understand the financial impact of these contracts and guide future strategic decisions.",
+    "subsections": [
+        {
+            "heading": "Overview of FY2025 Revenue Streams",
+            "content": "\u2022 Telemedicine consultations contributed to 45% of total revenue\n\u2022 Mental health and counselling services made up 20% of the revenue\n\u2022 Remote patient monitoring services accounted for 15% of the revenue\n\u2022 Medical equipment sales contributed to 10% of the total revenue\n\u2022 10% of revenue came from miscellaneous services, like health education and training\n\u2022 Revenue from software and technology solutions remained stable, but showed potential for growth",
+            "type": "distractor",
+            "justification": "While this slide provides a broad overview of revenue streams, it doesn't specify the percentage related to corporate wellness contracts."
+        },
+        {
+            "heading": "Financial Contribution of Corporate Wellness Contracts",
+            "content": "\u2022 Corporate wellness programs included telemedicine, mental health, and health education services\n\u2022 There was a steady YOY growth in corporate wellness contract sign-ups\n\u2022 Significant investments were made into expanding corporate wellness offerings\n\u2022 Majority of corporate wellness contracts were annual renewals\n\u2022 The highest-grossing corporate wellness contract in FY2025 was with TechCorp Inc.",
+            "type": "distractor",
+            "justification": "Though the slide talks about corporate wellness contracts, it doesn't disclose their financial contribution to internal revenue."
+        },
+        {
+            "heading": "Comparative Analysis of Revenue Sources",
+            "content": "\u2022 Telemedicine consultations showed the highest profit margins\n\u2022 Medical equipment sales had the lowest profit margins, suggesting a need for cost optimization\n\u2022 Revenue from mental health and counselling services showed a steady upward trend\n\u2022 Remote patient monitoring services had a high customer retention rate\n\u2022 Health education and training services showed potential for increased profitability with better marketing\n\u2022 Software and technology solutions had a moderate profit margin and steady growth rate",
+            "type": "distractor",
+            "justification": "This slide compares different revenue sources but doesn't specifically address the contribution of corporate wellness contracts to internal revenue."
+        }
+    ],
+    "conclusion": "Our corporate wellness contracts have demonstrated a notable influence on our FY2025 revenue. Moving forward, we should focus on expanding this sector while maintaining diversification in our revenue sources.",
+    "file_format": "pptx",
+    "file_path": ".llm_responses/generated_pptx_presentation.pptx",
+    "qa_type": "distractor",
+    "timestamp": "2025-11-20 16:45",
+    "image_queries": [
+        {
+            "slide_title": "Introduction",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "intentionally_clean",
+            "slide_type": "introduction"
+        },
+        {
+            "slide_title": "Overview of FY2025 Revenue Streams",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "failed",
+            "slide_type": "distractor",
+            "content_length": 6,
+            "total_chars": 435,
+            "error": "'str' object has no attribute 'choices'",
+            "theme": "Forest Theme"
+        },
+        {
+            "slide_title": "Financial Contribution of Corporate Wellness Contracts",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 5,
+            "total_chars": 383,
+            "probability": 0.25,
+            "theme": "Forest Theme"
+        },
+        {
+            "slide_title": "Comparative Analysis of Revenue Sources",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "content_based_decision",
+            "slide_type": "distractor",
+            "content_length": 6,
+            "total_chars": 493,
+            "probability": 0.25,
+            "theme": "Forest Theme"
+        },
+        {
+            "slide_title": "Conclusion",
+            "has_image": false,
+            "image_query": null,
+            "generation_method": "conclusion_failed",
+            "slide_type": "conclusion",
+            "error": "'str' object has no attribute 'choices'",
+            "theme": "Forest Theme"
+        }
+    ],
+    "app": "file_system"
+}

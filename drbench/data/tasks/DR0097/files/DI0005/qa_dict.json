@@ -1,0 +1,10 @@
+{
+    "insight_id": "DI0005",
+    "qa_type": "distractor",
+    "qa_index": 5,
+    "specific_question": "What was the MediConn's total marketing spend on its corporate wellness programs in fiscal year 2025?",
+    "answer": "The total marketing spend was approximately 5,000,000 CAD in fiscal year 2025.",
+    "justification": "Marketing expenditures for a separate program are financially and operationally disconnected from the IT costs and clinician efficiency.",
+    "timestamp": "2025-11-21 12:55",
+    "dr_question": "How can MediConn streamline its IT workflows in Q4 2025 to boost clinician efficiency and manage per-consultation costs, given that virtual healthcare expansion has improved access but increased overall expenses?"
+}
