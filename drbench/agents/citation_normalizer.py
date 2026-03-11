@@ -89,9 +89,12 @@ def normalize_mattermost_citation(citation: str) -> Optional[str]:
     """
     citation_lower = citation.lower()
 
-    # Skip if not a chat citation (various keywords for chat platforms)
-    chat_keywords = ["mattermost", "matter most", "chat", "message", "conversation", "discussion"]
-    if not any(keyword in citation_lower for keyword in chat_keywords):
+    # Skip if not a chat citation. Use specific platform/context keywords to avoid
+    # false-positives from file names (e.g. "chatbot-report.pdf") or web titles.
+    # "chat" alone is too broad; require it as a standalone word or use more specific terms.
+    chat_keywords = ["mattermost", "matter most", "enterprise chat", "slack", "teams"]
+    standalone_chat = re.search(r"\bchat\b", citation_lower)
+    if not any(keyword in citation_lower for keyword in chat_keywords) and not standalone_chat:
         return None
 
     # If already in normalized format, return as-is (case-insensitive check)
@@ -156,6 +159,22 @@ def normalize_email_citation(citation: str) -> Optional[str]:
     # If already in RoundCube format, return as-is
     if citation_lower.startswith("roundcube-"):
         return citation
+
+    # Pattern 0: "**Subject** - Email from X@Y on DATE"
+    # This is the canonical format produced by agent citation formatters.
+    # Extract the bold title as the subject before falling through to other patterns.
+    bold_title_match = re.search(
+        r"\*\*(.+?)\*\*\s*-\s*Email\s+from\s+([^\s@]+@[^\s,]+)",
+        citation,
+        re.IGNORECASE,
+    )
+    if bold_title_match:
+        subject = bold_title_match.group(1).strip()
+        from_email = bold_title_match.group(2).strip().rstrip(".,;)")
+        # Extract to-address if present
+        to_match = re.search(r"\bto\s+([^\s@]+@[^\s,]+)", citation, re.IGNORECASE)
+        to_email = to_match.group(1).strip().rstrip(".,;)") if to_match else ""
+        return f"RoundCube-{from_email}-{to_email}-{subject}"
 
     # Pattern 1: "Email/Mail from X@Y on DATE" (no explicit to/subject)
     pattern1 = r"(?:email|mail)\s+from\s+([^\s@]+@[^\s]+)\s+on\s+"
@@ -295,7 +314,11 @@ def is_already_normalized(citation: str) -> bool:
     """
     citation_lower = citation.lower()
 
-    # Check normalized MatterMost format
+    # Check normalized MatterMost format.
+    # Accept both underscore-separated (current) and hyphen-separated (legacy) formats.
+    if citation_lower.startswith("mattermost_"):
+        parts = citation_lower.split("_")
+        return len(parts) >= 4
     if citation_lower.startswith("mattermost-"):
         parts = citation_lower.split("-")
         return len(parts) >= 4

@@ -177,7 +177,8 @@ def break_report_to_insights(
        - Valid URLs: "https://www.example.com/article", "https://techcrunch.com/2023/report.html"
        - File names: "quarterly_report.pdf", "market_analysis.docx", "shared/file.pdf"
        - MatterMost chats: "MatterMost-Channel-Team-User" or natural descriptions like "Mattermost Message - Enterprise Chat (User: john.doe, Team: Compliance, Channel: General)"
-       - Email messages: "RoundCube-from@email-to@emails-Subject" or natural descriptions like "Email from sarah.johnson@company.com on 20 Jan 2025"
+       - Email messages: "RoundCube-from@email-to@emails-Subject" or the full reference line like "**Re: Budget Review** - Email from jane.doe@company.com on 15 Jan 2024"
+       - IMPORTANT: for email citations always include the sender address and date so the email can be identified
        - NOTE: Various citation formats are supported and will be automatically normalized during evaluation
     6. Do not include general summaries, opinions, or claims that lack citation, just the sentences that are facts.
     7. Each claim should be a concise but complete sentence.
@@ -204,7 +205,7 @@ def break_report_to_insights(
         }},
         {{
             "claim": "Budget review meeting was scheduled for next quarter",
-            "citations": ["RoundCube-jason.kim@leesmarket.com-emily.patel@leesmarket.com,sophia.lee@leesmarket.com-Q2 Budget Review and Planning"]
+            "citations": ["**Q2 Budget Review and Planning** - Email from jason.kim@leesmarket.com on 10 Mar 2024"]
         }},
         {{
             "claim": "This claim has no supporting citations",
@@ -306,16 +307,17 @@ def _process_normalized_citation(citation):
     if citation.startswith("http"):
         return citation
 
-    # Handle MatterMost citation (case-insensitive check)
-    if citation.lower().startswith("mattermost_"):
-        citation_lower = citation.lower()
-        parts = citation_lower.split("_")
+    # Handle MatterMost citation (case-insensitive check).
+    # Accepts both underscore-separated (current) and hyphen-separated (legacy) formats.
+    citation_lower_mm = citation.lower()
+    if citation_lower_mm.startswith("mattermost_") or citation_lower_mm.startswith("mattermost-"):
+        sep = "_" if citation_lower_mm.startswith("mattermost_") else "-"
+        parts = citation_lower_mm.split(sep)
 
         if len(parts) >= 4:
-            # Format: mattermost-channel-team-user
             channel_name = parts[1]
             team_name = parts[2]
-            user_name = "-".join(parts[3:])  # Join remaining parts for user (in case user has hyphens)
+            user_name = sep.join(parts[3:])  # Join remaining parts for user
             return f"mattermost<sep>{channel_name}<sep>{team_name}<sep>{user_name}"
         else:
             logger.warning(f"⚠️  WARNING: Normalized MatterMost citation has insufficient parts: {citation}")
@@ -421,6 +423,11 @@ def get_embeddings(texts, embedding_model="text-embedding-3-small", method="open
         response = client.embeddings.create(input=texts, model=embedding_model)
         embeddings = np.array([item.embedding for item in response.data])
         embeddings = np.ascontiguousarray(embeddings, dtype=np.float32)
+    elif method == "openrouter":
+        client = OpenAI(base_url=config.OPENROUTER_API_URL, api_key=config.OPENROUTER_API_KEY)
+        response = client.embeddings.create(input=texts, model=embedding_model)
+        embeddings = np.array([item.embedding for item in response.data])
+        embeddings = np.ascontiguousarray(embeddings, dtype=np.float32)
     elif method == "sentence-transformers":
         from sentence_transformers import SentenceTransformer
 
@@ -431,7 +438,7 @@ def get_embeddings(texts, embedding_model="text-embedding-3-small", method="open
     return embeddings
 
 
-def get_most_relevant_chunks(query, content, top_k=5, chunk_size=2048, max_chunks=200, verbose=False):
+def get_most_relevant_chunks(query, content, top_k=5, chunk_size=2048, max_chunks=200, verbose=False, scoring_model=None, embedding_model=None):
     """
     Get the most relevant chunks from content using RAG retrieval.
 
@@ -473,7 +480,16 @@ def get_most_relevant_chunks(query, content, top_k=5, chunk_size=2048, max_chunk
     # embedding_model = SentenceTransformer("all-MiniLM-L6-v2")
     # # Create embeddings for all chunks
 
-    chunk_embeddings = get_embeddings(valid_chunks, embedding_model="text-embedding-3-small", method="openai")
+    if scoring_model and scoring_model.startswith("openrouter/"):
+        embed_method = "openrouter"
+        default_embed_model = "openai/text-embedding-3-small"
+    else:
+        embed_method = "openai"
+        default_embed_model = "text-embedding-3-small"
+
+    embed_model = embedding_model or default_embed_model
+
+    chunk_embeddings = get_embeddings(valid_chunks, embedding_model=embed_model, method=embed_method)
 
     # Set up FAISS index for similarity search
     dimension = chunk_embeddings.shape[1]
@@ -484,7 +500,7 @@ def get_most_relevant_chunks(query, content, top_k=5, chunk_size=2048, max_chunk
     index.add(chunk_embeddings)
 
     # Create query embedding
-    query_embedding = get_embeddings([query], embedding_model="text-embedding-3-small", method="openai")
+    query_embedding = get_embeddings([query], embedding_model=embed_model, method=embed_method)
     faiss.normalize_L2(query_embedding)
 
     # Get top similar chunks
@@ -499,7 +515,7 @@ def get_most_relevant_chunks(query, content, top_k=5, chunk_size=2048, max_chunk
     return relevant_chunks
 
 
-def get_factuality_verdict_multi(insight, citations, file_list=None, model="gpt-4o-mini", max_retries=3):
+def get_factuality_verdict_multi(insight, citations, file_list=None, model="gpt-4o-mini", max_retries=3, embedding_model=None):
     """
     Check if the insight can be answered with multiple citations/sources.
 
@@ -555,7 +571,7 @@ def get_factuality_verdict_multi(insight, citations, file_list=None, model="gpt-
         }
 
     # Get the most relevant chunks from combined content
-    relevant_chunks = get_most_relevant_chunks(insight, combined_content)
+    relevant_chunks = get_most_relevant_chunks(insight, combined_content, scoring_model=model, embedding_model=embedding_model)
     context = "\n".join(relevant_chunks)
 
     # Check if any source supports the insight
@@ -1337,8 +1353,12 @@ def get_content(source, file_list=None):
                                 if email_from == from_email:
                                     # Check if subject matches
                                     if email_subject == subject:
-                                        # Check if any of the to emails match
-                                        if any(to_email in email_to for to_email in to_email_list):
+                                        # Check if any of the to emails match.
+                                        # If to_email_list contains only empty strings
+                                        # (the citation had no recipient info), skip
+                                        # the to-check and accept the match.
+                                        to_filter = [t for t in to_email_list if t]
+                                        if not to_filter or any(to_email in email_to for to_email in to_filter):
                                             collected_emails.append(email_data)
             except Exception as e:
                 logger.warning(f"Error reading RoundCube file {filename}: {e}")

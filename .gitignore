@@ -82,3 +82,7 @@ temp_score_eval*/
 outputs/
 
 experiments/web_agents/agentlab_results
+
+# Code assistants
+.claude/
+CLAUDE.md
