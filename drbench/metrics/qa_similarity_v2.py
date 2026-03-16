@@ -88,7 +88,10 @@ class QASimilarityV2(DrBenchMetric):
             # Score with LLM-based similarity with retry logic
             scoring_result = None
             score = 0.0
+            answer = "no"
             justification = "Failed to get proper response from model"
+            selected_insight = None
+            confidence = None
             manager = AIAgentManager(model=self.model)
 
             for retry in range(self.max_retries):
