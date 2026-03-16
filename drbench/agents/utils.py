@@ -488,6 +488,8 @@ def get_most_relevant_chunks(query, content, top_k=5, chunk_size=2048, max_chunk
         default_embed_model = "text-embedding-3-small"
 
     embed_model = embedding_model or default_embed_model
+    if embed_model.startswith("openrouter/"):
+        embed_model = embed_model[len("openrouter/"):]
 
     chunk_embeddings = get_embeddings(valid_chunks, embedding_model=embed_model, method=embed_method)
 
