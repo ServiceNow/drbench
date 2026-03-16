@@ -18,21 +18,12 @@ NAMING CONVENTIONS:
 """
 
 import os
-from pathlib import Path
 
 from dotenv import load_dotenv
 
-# Load environment variables from .env file
-# WARNING: We use override=True, which means .env values WILL OVERRIDE
-# any existing environment variables from your shell (.zshrc/.bashrc)
-# This ensures consistent behavior across different environments
-project_root = Path(__file__).parent.parent
-env_file = project_root / ".env"
-if env_file.exists():
-    load_dotenv(env_file, override=True)
-else:
-    # Try to load from current working directory
-    load_dotenv(override=True)
+# Load environment variables from .env file.
+# override=False means shell environment variables take precedence over .env
+load_dotenv(override=False)
 
 # Agent Execution Configuration
 OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
