@@ -55,6 +55,7 @@ if __name__ == "__main__":
         metrics=["insights_recall", "factuality"],
         savedir="results/minimal",
         model=evaluation_model,
+        embedding_model=embedding_model,
     )
     print("Insights Recall: ", score_dict["insights_recall"])
     print("Factuality: ", score_dict["factuality"])

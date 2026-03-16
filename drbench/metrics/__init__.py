@@ -1,16 +1,19 @@
+from typing import Optional
+
 from drbench.metrics.distractor_recall import DistractorRecall
 from drbench.metrics.factuality_v2 import CitationFactuality
 from drbench.metrics.qa_similarity_v2 import QASimilarityV2
 from drbench.metrics.report_quality import ReportQuality
 
 
-def get_metric(name: str, model: str = "gpt-4o"):
+def get_metric(name: str, model: str = "gpt-4o", embedding_model: Optional[str] = None):
     """
     Get metric by name.
 
     Args:
         name: The name of the metric to retrieve
-        **kwargs: Additional parameters for the metric constructor
+        model: LLM model for judging/scoring
+        embedding_model: Embedding model for semantic search (used by factuality metrics)
 
     Returns:
         DrBenchMetric: An instance of the requested metric class
@@ -35,6 +38,7 @@ def get_metric(name: str, model: str = "gpt-4o"):
     elif name == "factuality":
         return CitationFactuality(
             model=model,
+            embedding_model=embedding_model,
         )
 
     else:

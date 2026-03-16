@@ -38,6 +38,7 @@ def score_report(
     predicted_report_dict: Dict[str, Any] = None,
     include_per_insight_scores: bool = True,
     model="gpt-4o-mini",
+    embedding_model=None,
     predicted_report=None,
     task=None,
     timing_dict=None,
@@ -144,7 +145,7 @@ def score_report(
         if verbose:
             print(f"Computing {metric_name}...")
 
-        metric = get_metric(metric_name, model=model)
+        metric = get_metric(metric_name, model=model, embedding_model=embedding_model)
         metric_result = metric.compute(
             report_dict=predicted_report_dict,
             task_data=task_config,

@@ -1,27 +1,28 @@
-from typing import List, Dict, Any
 import re
+from typing import Any, Dict, List, Optional
+
+import pandas as pd
 import tiktoken
 import tqdm
-import pandas as pd
 
-from drbench.metrics.base import DrBenchMetric
-from drbench.agents import utils
 from drbench import task_loader
+from drbench.agents import utils
+from drbench.metrics.base import DrBenchMetric
 
 
 class CitationFactuality(DrBenchMetric):
-    def __init__(self, model: str):
+    def __init__(self, model: str, embedding_model: Optional[str] = None):
         """
         Initialize the ClaimFactuality metric.
 
         Args:
             model: The name of the model to use for scoring
-            max_context_tokens: Size of text chunks for semantic retrieval system
-            embedding_model: OpenAI embedding model to use
+            embedding_model: Embedding model to use for semantic retrieval
         """
         # Initialize parent class and core attributes
         super().__init__(name="factuality", model=model)
         self.model = model
+        self.embedding_model = embedding_model
 
         # Set up tokenizer for the specified model
         try:
@@ -132,7 +133,7 @@ class CitationFactuality(DrBenchMetric):
 
                 # Check if the insight is factually supported by the content from multiple sources
                 factuality_verdict = utils.get_factuality_verdict_multi(
-                    insight, citations, file_list=env_files, model=self.model
+                    insight, citations, file_list=env_files, model=self.model, embedding_model=self.embedding_model
                 )
 
                 factuality_verdict["insight"] = insight
