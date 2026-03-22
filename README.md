@@ -18,11 +18,9 @@ It tests an agent’s ability to conduct **multi-hop, insight-driven research** 
 
 The benchmark data is included in `drbench/data/`:
 
-- **DR Questions**: [DR Questions CSV](drbench/data/summary/dr_questions.csv)
-- **Facts**: [Facts Directory](drbench/data/summary/facts/)
-- **Tasks**: Complete task configurations in `drbench/data/tasks/` with enterprise files
+- Example task data: [DR0002 Task](https://github.com/ServiceNow/drbench/blob/main/drbench/data/tasks/DR0002/config/task.json)
 
-**Alternative Data Source**: The dataset is also available on HuggingFace at [ServiceNow/drbench](https://huggingface.co/datasets/ServiceNow/drbench) for browsing task metadata and using with the `DRBENCH_DATA_DIR` environment variable.
+- The dataset is also available on HuggingFace at [ServiceNow/drbench](https://huggingface.co/datasets/ServiceNow/drbench) 
 
 ## Quick Start
 
