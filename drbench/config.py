@@ -47,6 +47,9 @@ OPENROUTER_API_URL = os.getenv("OPENROUTER_API_URL")
 NGROK_AUTHTOKEN = os.getenv("NGROK_AUTHTOKEN")
 
 # Docker Environment Configuration
+# Optional registry prefix — when set, images are referenced as <registry>/<image>:<tag>
+# e.g. DRBENCH_DOCKER_REGISTRY=ghcr.io/servicenow → ghcr.io/servicenow/drbench-services:DR0001
+DRBENCH_DOCKER_REGISTRY = os.getenv("DRBENCH_DOCKER_REGISTRY", "")
 DRBENCH_DOCKER_IMAGE = os.getenv("DRBENCH_DOCKER_IMAGE", "drbench-services")
 DRBENCH_DOCKER_TAG = os.getenv("DRBENCH_DOCKER_TAG", "latest")
 
