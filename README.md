@@ -5,7 +5,7 @@
 
 
 
-[![Read the Paper](https://img.shields.io/badge/Paper-arXiv-8512DA)](https://arxiv.org/abs/2510.00172) [![Join our Discord](https://img.shields.io/badge/Discord-Join%20the%20Community-7289DA?logo=discord)](https://discord.gg/9rQ6HgBbkd)
+[![Read the Paper](https://img.shields.io/badge/Paper-arXiv-8512DA)](https://arxiv.org/abs/2510.00172) [![Join our Discord](https://img.shields.io/badge/Discord-Join%20the%20Community-7289DA?logo=discord)](https://discord.gg/9rQ6HgBbkd) [![Hugging Face Dataset](https://img.shields.io/badge/🤗%20Dataset-DRBench-yellow)](https://huggingface.co/datasets/ServiceNow/drbench)
 
 **`DRBench`** is the first of its kind benchmark designed to evaluate deep research agents on complex, open-ended **enterprise deep research tasks**.
 
