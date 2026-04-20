@@ -174,7 +174,7 @@ Interested in early access, collaboration, or feedback?
 
 ## 🤝 Core Contributers
 
-- Amirhossein Abaskohi – <amirhossein.abaskohi@servicenow.com>
+- Amirhossein Abaskohi – <amirhossein.abaskohi@gmail.com>
 - Tianyi Chen – <tianyi.chen@servicenow.com>  
 - Miguel Muñoz – <miguel.munoz@servicenow.com>  
 - Curtis Fox - <curtis.fox@servicenow.com>
@@ -185,10 +185,12 @@ Interested in early access, collaboration, or feedback?
 #### Citation
 
 ```
-@article{abaskohi2025drbench,
-  title={DRBench: A Realistic Benchmark for Enterprise Deep Research},
-  author={Abaskohi, Amirhossein and Chen, Tianyi and Mu{\~n}oz-M{\'a}rmol, Miguel and Fox, Curtis and Ramesh, Amrutha Varshini and Marcotte, {\'E}tienne and L{\`u}, Xing Han and Chapados, Nicolas and Gella, Spandana and Pal, Christopher and others},
-  journal={arXiv preprint arXiv:2510.00172},
-  year={2025}
+@inproceedings{
+abaskohi2026drbench,
+title={{DRB}ench: A Realistic Benchmark for Enterprise Deep Research},
+author={Amirhossein Abaskohi and Tianyi Chen and Miguel Mu{\~n}oz-M{\'a}rmol and Curtis Fox and Amrutha Varshini Ramesh and {\'E}tienne Marcotte and Xing Han L{\`u} and Nicolas Chapados and Spandana Gella and Christopher Pal and Alexandre Drouin and Issam H. Laradji},
+booktitle={The Fourteenth International Conference on Learning Representations},
+year={2026},
+url={https://openreview.net/forum?id=IGYQ4c92e2}
 }
 ```
