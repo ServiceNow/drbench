@@ -45,8 +45,26 @@ This loads task SANITY0, generates a basic report and saves the results under `r
 
 ### (2) Quick Run (With Docker) 
 
-
 ### Install Docker (https://www.docker.com/get-started/)
+
+**Option A — Pull pre-built images (recommended):**
+
+Pre-built Docker images are currently available for `arm64` (Apple Silicon).
+`amd64` images are coming soon. For other architectures, see Option B to build locally.
+
+```bash
+# Add to your .env (or export in shell)
+DRBENCH_DOCKER_REGISTRY=ghcr.io/mmunozm
+
+# Pull the base image
+docker pull ghcr.io/mmunozm/drbench-services:latest
+
+# Pull a per-task image (fast startup, ~8s)
+docker pull ghcr.io/mmunozm/drbench-services:DR0001
+```
+
+**Option B — Build locally:**
+
 ```
 cd services
 make local-build
