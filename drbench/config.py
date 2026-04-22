@@ -41,7 +41,7 @@ PEXELS_API_KEY = os.getenv("PEXELS_API_KEY")
 
 # Evaluation Configuration
 OPENROUTER_API_KEY = os.getenv("OPENROUTER_API_KEY")
-OPENROUTER_API_URL = os.getenv("OPENROUTER_API_URL")
+OPENROUTER_API_URL = os.getenv("OPENROUTER_API_URL", "https://openrouter.ai/api/v1")
 
 # Development Configuration
 NGROK_AUTHTOKEN = os.getenv("NGROK_AUTHTOKEN")

@@ -22,7 +22,7 @@ if [ ! -f "/var/www/nextcloud/config/config.php" ]; then
     echo "$NC_PREFIX Current directory: $(pwd)"
     echo "$NC_PREFIX Contents of /var/www/nextcloud/config/: $(ls -l /var/www/nextcloud/config/)"
 
-    # Run commands directly without su since the script is already running as toolkit user
+    # Run commands directly (the script runs as the configured NEXTCLOUD_USER)
     php occ maintenance:install --database sqlite --database-name nextcloud \
       --database-user drbench --database-pass drbench_pwd --admin-user admin --admin-pass admin_pwd \
       --data-dir /var/www/nextcloud/data | sed "s/^/$NC_PREFIX /"

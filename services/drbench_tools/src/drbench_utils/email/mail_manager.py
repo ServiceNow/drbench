@@ -120,14 +120,14 @@ class EmailManager:
             with open(virtual_mailboxes_file, "a") as f:
                 f.write(mailbox_entry)
 
-            # Rebuild the hash database
+            # Rebuild the hash database (postmap is a postfix utility;
+            # skip gracefully if postfix is not available, e.g. non-root mode)
             result = self.run_command("postmap /etc/postfix/virtual_mailboxes")
             if result:
                 logger.info(f"Added virtual mailbox mapping: {email} -> {username}/inbox")
-                return True
             else:
-                logger.error(f"Failed to update virtual mailboxes for {email}")
-                return False
+                logger.warning(f"postmap unavailable or failed for {email} — mail routing may use fallback")
+            return True
         except Exception as e:
             logger.error(f"Failed to update virtual mailboxes for {email}: {e}")
             return False

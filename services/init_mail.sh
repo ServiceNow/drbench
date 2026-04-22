@@ -109,9 +109,13 @@ if ! id ${VMAIL_USER} &>/dev/null; then
   useradd -r ${VMAIL_USER} -d /var/mail -s /bin/false
 fi
 
-# Initialize empty password file - users will be loaded by init_mail_data.py
-echo "Initializing Dovecot password file..."
-> /etc/dovecot/passwd
+# Initialize password file only if empty or missing (preserves pre-loaded task data)
+if [ ! -s /etc/dovecot/passwd ]; then
+    echo "Initializing empty Dovecot password file..."
+    > /etc/dovecot/passwd
+else
+    echo "Dovecot password file already populated ($(wc -l < /etc/dovecot/passwd) users), preserving..."
+fi
 
 # Configure Roundcube
 if [ -f /usr/share/roundcube/config/config.inc.php ]; then
