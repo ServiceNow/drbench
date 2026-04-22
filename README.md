@@ -71,6 +71,10 @@ make local-build
 ```
 this takes around 30 minutes and only has to be done once
 
+When using pre-built per-task images, set `task_data_preloaded=True` to skip
+redundant file copying (~8s startup instead of ~45s). See `minimal.py` for the
+full pattern.
+
 ### Run agent on Docker Environment
 
 ```

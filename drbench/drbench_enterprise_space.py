@@ -168,6 +168,7 @@ class DrBenchEnterpriseSearchSpace:
         container_suffix: Optional[str] = None,
         free_ports: bool = False,
         auto_ports: bool = False,
+        task_data_preloaded: bool = False,
         **kwargs,
     ):
         """
@@ -180,8 +181,12 @@ class DrBenchEnterpriseSearchSpace:
             container_suffix: Optional custom suffix for the container name
             free_ports: Whether to free the ports before starting the container
             auto_ports: Whether to automatically assign free ports to the apps
+            task_data_preloaded: Set True when using a pre-baked per-task image
+                (e.g. drbench-services:DR0042) where task data is already loaded.
+                Skips file copy and load_task.sh, only configures credentials.
             **kwargs: Override configuration parameters
         """
+        self.task_data_preloaded = task_data_preloaded
         self.config = self._load_config(config)
 
         # Generate a unique ID for this container instance
@@ -282,8 +287,15 @@ class DrBenchEnterpriseSearchSpace:
 
         # Once it's up and running, add the task to the container
         if self.task:
-            self.add_task()
-            self.task_loaded = True
+            if self.task_data_preloaded:
+                # Pre-baked image: data already loaded, just configure credentials
+                task_path = Path(self.task) if isinstance(self.task, str) else self.task
+                logger.info("Task data preloaded — skipping data copy, configuring credentials only.")
+                self._configure_task_credentials(task_path)
+                self.task_loaded = True
+            else:
+                self.add_task()
+                self.task_loaded = True
 
         return self.container_id
 
@@ -438,6 +450,43 @@ class DrBenchEnterpriseSearchSpace:
             logger.warning(timeout_msg)
             return
 
+    def _configure_task_credentials(self, task: Path) -> None:
+        """Read persona from task.json and override app credentials in self.config.
+
+        This is the subset of add_task() that is always needed — even on pre-baked
+        images where data is already loaded — because self.config.apps starts with
+        default credentials that must be replaced with the task persona's.
+        """
+        with open(task / "task.json", "r") as f:
+            task_config = OmegaConf.create(f.read())
+
+        if "persona" not in task_config:
+            return
+
+        persona = task_config["persona"]
+        if "password" not in persona:
+            return
+
+        password = persona["password"]
+        username = persona.get("username", None)
+        if not username:
+            first_name = persona.get("first_name", "current")
+            last_name = persona.get("last_name", "user")
+            username = f"{first_name}.{last_name}".lower()
+
+        for app in self.config.apps:
+            if "credentials" not in app:
+                continue
+            if app["name"] in _EXCLUDED_CREDENTIAL_APPS:
+                continue
+            credentials = app["credentials"]
+            if "username" in credentials and credentials["username"].strip():
+                credentials["username"] = username
+            if "password" in credentials and credentials["password"].strip():
+                credentials["password"] = password
+
+        logger.info(f"Configured credentials for persona: {username}")
+
     def add_task(self) -> None:
         """Add a task to the container."""
         logger.info("Adding task to the container...")
@@ -482,42 +531,22 @@ class DrBenchEnterpriseSearchSpace:
                 self.container_manager.run_command(f'/bin/bash -c "mkdir -p {dest}"')
                 self.container_manager.copy_file_to_container(source, dest)
 
-        # If password present in the task.json "persona", we create an username
-        # and override all passwords in the default configuration
-        app_credentials_list = []
-        if "persona" in task_config:
-            persona = task_config["persona"]
-            if "password" in persona:
-                password = persona["password"]
-                # Create username for the task persona
-                username = persona.get("username", None)
-                if not username:
-                    first_name = persona.get("first_name", "current")
-                    last_name = persona.get("last_name", "user")
-                    username = f"{first_name}.{last_name}".lower()
-                for app in self.config.apps:
-                    if "credentials" in app:
-                        app_name = app["name"]
-                        # Skip excluded apps - they keep their default passwords
-                        if app_name in _EXCLUDED_CREDENTIAL_APPS:
-                            continue
-                            
-                        app_credentials = {}
-                        app_credentials["app"] = app_name
-                        credentials = app["credentials"]
-                        if "username" in credentials:
-                            if credentials["username"].strip():
-                                # Override username with the task persona username
-                                credentials["username"] = username
-                            app_credentials["username"] = credentials["username"]
-                        if "password" in credentials:
-                            if credentials["password"].strip():
-                                # Override password with the task persona password
-                                credentials["password"] = password
-                            app_credentials["password"] = credentials["password"]
-                        app_credentials_list.append(app_credentials)
+        # Configure credentials from persona
+        self._configure_task_credentials(task)
 
-        # Add app credentials to the env_config object
+        # Build env.json with app credentials for load_task.sh
+        app_credentials_list = []
+        for app in self.config.apps:
+            if "credentials" not in app or app["name"] in _EXCLUDED_CREDENTIAL_APPS:
+                continue
+            app_credentials = {"app": app["name"]}
+            credentials = app["credentials"]
+            if "username" in credentials:
+                app_credentials["username"] = credentials["username"]
+            if "password" in credentials:
+                app_credentials["password"] = credentials["password"]
+            app_credentials_list.append(app_credentials)
+
         env_config["app_credentials"] = app_credentials_list
 
         # Create temporary json file with env_config and copy it to the environment
