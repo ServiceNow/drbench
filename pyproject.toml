@@ -41,3 +41,6 @@ line-length = 120
 
 [tool.pytest.ini_options]
 testpaths = ["tests"]
+markers = [
+    "integration: requires Docker and drbench-services image (deselect with '-m not integration')",
+]
